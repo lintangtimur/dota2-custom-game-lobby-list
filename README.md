@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28492436218488981 |
-| Players | 3/8 |
-| Host Name | vovan310345 |
+| Players | 5/8 |
+| Host Name | Пивослав Мудрый г |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, October 26, 2023 20:01:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28492436208044197 |
-| Players | 10/15 |
-| Host Name | Вялый кипяток |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, October 26, 2023 19:52:14 |
+| Lobby ID | 28492436219176918 |
+| Players | 3/10 |
+| Host Name | Helfert |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, October 26, 2023 20:02:35 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28492436182745109 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | SyX |
 | Region | PERU |
 | Lobby Creation Time | Thursday, October 26, 2023 19:27:31 |
@@ -56,22 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, October 26, 2023 20:00:33 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28492436219578846 |
+| Players | 5/8 |
+| Host Name | Nik_Name |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, October 26, 2023 20:02:56 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28492436217797539 |
-| Players | 13/15 |
-| Host Name | ( ＾◡＾)っ✂ SNIP SNIP |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, October 26, 2023 20:01:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28492436218721595 |
-| Players | 1/10 |
-| Host Name | Хохол негр |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, October 26, 2023 20:02:10 |
+| Lobby ID | 28492436219635189 |
+| Players | 14/15 |
+| Host Name | ☢9OO9☢ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, October 26, 2023 20:03:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28492436214535073 |
-| Players | 2/8 |
-| Host Name | Rankstrail |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, October 26, 2023 19:58:18 |
+| Lobby ID | 28492436215046246 |
+| Players | 7/8 |
+| Host Name | i'm so tired |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, October 26, 2023 19:58:47 |
 
 
 |  | ot3_jungle_quintet |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28492436215342500 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | $WAAAAAG |
 | Region | PERU |
 | Lobby Creation Time | Thursday, October 26, 2023 19:59:03 |
@@ -131,54 +131,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28492436218840471 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Anantherzine-無盡的 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, October 26, 2023 20:02:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28492436215960111 |
-| Players | 14/15 |
-| Host Name | SharkGH |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, October 26, 2023 19:59:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28492436219081850 |
-| Players | 1/10 |
-| Host Name | Sim |
-| Region | PERU |
-| Lobby Creation Time | Thursday, October 26, 2023 20:02:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28492436217415967 |
-| Players | 9/10 |
-| Host Name | НАгну |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, October 26, 2023 20:00:58 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28492436200388474 |
-| Players | 9/10 |
-| Host Name | Камар Илья |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, October 26, 2023 19:44:56 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28492436216507356 |
-| Players | 8/10 |
-| Host Name | Pias |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, October 26, 2023 20:00:08 |
 
 
