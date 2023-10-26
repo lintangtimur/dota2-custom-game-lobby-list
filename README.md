@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28492436025106020 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | 1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, October 26, 2023 15:48:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28492436025738316 |
-| Players | 16/24 |
+| Players | 13/24 |
 | Host Name | drntmanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, October 26, 2023 15:49:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28492436029126759 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | Libeppi |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, October 26, 2023 15:54:55 |
@@ -59,45 +59,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28492436028250383 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | неужели..? |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, October 26, 2023 15:53:29 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28492436028357789 |
-| Players | 19/24 |
-| Host Name | unging |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, October 26, 2023 15:53:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28492436029116064 |
-| Players | 7/15 |
-| Host Name | Shadow |
+| Lobby ID | 28492436029477990 |
+| Players | 7/10 |
+| Host Name | ☻ |
 | Region | USWEST |
-| Lobby Creation Time | Thursday, October 26, 2023 15:54:54 |
+| Lobby Creation Time | Thursday, October 26, 2023 15:55:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28492436029672928 |
+| Players | 1/8 |
+| Host Name | сам такой |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, October 26, 2023 15:55:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28492436030125700 |
+| Players | 2/8 |
+| Host Name | Молоток |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, October 26, 2023 15:56:33 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28492436028651240 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Goblok Slayer |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, October 26, 2023 15:54:08 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28492436029377199 |
-| Players | 1/5 |
-| Host Name | _kot |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, October 26, 2023 15:55:20 |
+| Lobby ID | 28492436029721981 |
+| Players | 1/10 |
+| Host Name | Ronin |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, October 26, 2023 15:55:54 |
 
 
