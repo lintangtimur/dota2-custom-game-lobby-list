@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28492436044051482 |
-| Players | 4/15 |
-| Host Name | LOVE_yandere |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, October 26, 2023 16:19:13 |
+| Lobby ID | 28492436044441756 |
+| Players | 6/10 |
+| Host Name | xxoda04 |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, October 26, 2023 16:19:51 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28492436043189366 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | JACKIE CHAN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, October 26, 2023 16:17:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28492436042535134 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | 路人 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, October 26, 2023 16:16:46 |
@@ -74,6 +74,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, October 26, 2023 16:19:30 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28492436044741981 |
+| Players | 2/8 |
+| Host Name | iron liver |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, October 26, 2023 16:20:21 |
+
+
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28492436038960160 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28492436042454334 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | d1 |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, October 26, 2023 16:16:38 |
