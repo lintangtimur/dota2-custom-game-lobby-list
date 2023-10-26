@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28492436108292386 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | MONO |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, October 26, 2023 17:58:25 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28492436110011714 |
-| Players | 14/15 |
-| Host Name | X |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, October 26, 2023 18:00:48 |
+| Lobby ID | 28492436111144375 |
+| Players | 2/15 |
+| Host Name | Топ 100 Антарктиды |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, October 26, 2023 18:02:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28492436108664888 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | drntmanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, October 26, 2023 17:58:56 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28492436107516414 |
-| Players | 4/15 |
-| Host Name | Secret Garden |
+| Players | 2/15 |
+| Host Name | ... |
 | Region | PERU |
 | Lobby Creation Time | Thursday, October 26, 2023 17:57:22 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28492436107810477 |
-| Players | 5/15 |
+| Players | 3/15 |
 | Host Name | FeeZy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, October 26, 2023 17:57:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28492436110358429 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | waster |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, October 26, 2023 18:01:16 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28492436110404836 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | wolf |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, October 26, 2023 18:01:20 |
@@ -85,64 +85,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28492436110465357 |
+| Lobby ID | 28492436110949725 |
+| Players | 1/10 |
+| Host Name | ‰ …×®×®×… ‰ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, October 26, 2023 18:02:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28492436110957790 |
 | Players | 2/10 |
-| Host Name | 〠☯BlAcK_VoRoN☯〠 |
+| Host Name | DRAGON |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, October 26, 2023 18:01:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28492436110531292 |
-| Players | 5/10 |
-| Host Name | В777OP |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, October 26, 2023 18:01:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28492436110561212 |
-| Players | 4/10 |
-| Host Name | gh |
-| Region | PERU |
-| Lobby Creation Time | Thursday, October 26, 2023 18:01:33 |
+| Lobby Creation Time | Thursday, October 26, 2023 18:02:05 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28492436107578991 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Kunde |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, October 26, 2023 17:57:27 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28492436109994084 |
-| Players | 1/5 |
-| Host Name | УбиваторНагинато |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, October 26, 2023 18:00:46 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28492436110399185 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Couch |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, October 26, 2023 18:01:20 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28492436110574683 |
-| Players | 1/5 |
-| Host Name | пивовар Алексей |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, October 26, 2023 18:01:34 |
 
 
