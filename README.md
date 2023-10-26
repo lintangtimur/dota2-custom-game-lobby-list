@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28492435999476013 |
-| Players | 3/8 |
-| Host Name | batolya |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, October 26, 2023 15:04:30 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28492435996459926 |
-| Players | 7/10 |
-| Host Name | Br0ker |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, October 26, 2023 14:58:41 |
+| Lobby ID | 28492436000311625 |
+| Players | 3/10 |
+| Host Name | SenorMouse |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, October 26, 2023 15:06:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28492436000406594 |
+| Players | 3/15 |
+| Host Name | 疲勞 |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, October 26, 2023 15:06:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,20 +47,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, October 26, 2023 14:50:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28492435999773837 |
-| Players | 9/10 |
-| Host Name | enwir |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, October 26, 2023 15:05:03 |
+| Lobby ID | 28492435999961843 |
+| Players | 1/8 |
+| Host Name | ☢︎danyabed☢ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, October 26, 2023 15:05:24 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28492435996998380 |
-| Players | 3/8 |
-| Host Name | ИКСДИШЕЧКА)))) |
+| Players | 1/8 |
+| Host Name | Matye Bal |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, October 26, 2023 14:59:41 |
 
@@ -74,48 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, October 26, 2023 15:05:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28492435999346413 |
-| Players | 1/15 |
-| Host Name | WinNee |
+| Lobby ID | 28492436000288264 |
+| Players | 2/10 |
+| Host Name | Wws |
 | Region | JAPAN |
-| Lobby Creation Time | Thursday, October 26, 2023 15:04:16 |
+| Lobby Creation Time | Thursday, October 26, 2023 15:05:59 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28492435994240723 |
-| Players | 6/8 |
-| Host Name | Fryzzie |
+| Players | 2/8 |
+| Host Name | RSQ-IP3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, October 26, 2023 14:54:38 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28492435999955663 |
-| Players | 1/15 |
-| Host Name | Occam's Tome of Knowledge |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, October 26, 2023 15:05:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28492435999961843 |
-| Players | 1/8 |
-| Host Name | ☢︎danyabed☢ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, October 26, 2023 15:05:24 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28492435999757722 |
-| Players | 1/5 |
-| Host Name | TQZZM |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, October 26, 2023 15:05:01 |
 
 
