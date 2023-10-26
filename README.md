@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28492436008786318 |
+| Players | 2/8 |
+| Host Name | QAKHARLY |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, October 26, 2023 15:20:54 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28492436007033509 |
-| Players | 2/10 |
-| Host Name | mk`f1zzy |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, October 26, 2023 15:17:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28492436006384817 |
-| Players | 23/24 |
-| Host Name | RAT LEGENDS SEASON 18 |
+| Lobby ID | 28492436008392847 |
+| Players | 9/10 |
+| Host Name | liwaliy |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, October 26, 2023 15:16:49 |
+| Lobby Creation Time | Thursday, October 26, 2023 15:20:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,63 +50,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28492436008354672 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Br0ker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, October 26, 2023 15:20:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28492436005973500 |
-| Players | 1/15 |
-| Host Name | Nait™ |
+| Lobby ID | 28492436008669338 |
+| Players | 9/24 |
+| Host Name | Castoria |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, October 26, 2023 15:20:43 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28492436009001992 |
+| Players | 1/24 |
+| Host Name | 难道他真的是天才？ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, October 26, 2023 15:16:07 |
+| Lobby Creation Time | Thursday, October 26, 2023 15:21:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28492436007000439 |
-| Players | 6/8 |
-| Host Name | NEOLAX |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, October 26, 2023 15:17:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28492436008392847 |
-| Players | 4/10 |
-| Host Name | liwaliy |
+| Lobby ID | 28492436006384817 |
+| Players | 23/24 |
+| Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, October 26, 2023 15:20:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28492436008527635 |
-| Players | 1/15 |
-| Host Name | девушка 9+ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, October 26, 2023 15:20:29 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28492436007082644 |
-| Players | 1/7 |
-| Host Name | . |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, October 26, 2023 15:18:02 |
+| Lobby Creation Time | Thursday, October 26, 2023 15:16:49 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28492436007649797 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | A3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, October 26, 2023 15:19:01 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28492436008999691 |
+| Players | 1/5 |
+| Host Name | hqd со вкусом рыбы |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, October 26, 2023 15:21:15 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28492436009066375 |
+| Players | 1/10 |
+| Host Name | GooGaBooBoo |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, October 26, 2023 15:21:21 |
 
 
