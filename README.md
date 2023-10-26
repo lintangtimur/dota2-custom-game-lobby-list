@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28492435977046202 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | LethalBacon |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, October 26, 2023 14:22:35 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28492435980028541 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Felaz |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, October 26, 2023 14:28:11 |
@@ -77,19 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28492435979957856 |
-| Players | 2/8 |
-| Host Name | repeat |
+| Players | 4/8 |
+| Host Name | I_Love_You❤ |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, October 26, 2023 14:28:03 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28492435980178991 |
-| Players | 1/24 |
-| Host Name | 自由USA枪战每一天 |
+| Lobby ID | 28492435980430445 |
+| Players | 1/8 |
+| Host Name | КОЖАНКА |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, October 26, 2023 14:28:28 |
+| Lobby Creation Time | Thursday, October 26, 2023 14:28:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28492435980654150 |
+| Players | 3/15 |
+| Host Name | Half-witted |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, October 26, 2023 14:29:22 |
 
 
 |  | epic_boss_fight_normal |
@@ -104,27 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28492435980130124 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | 3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, October 26, 2023 14:28:22 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28492435979951370 |
-| Players | 1/5 |
-| Host Name | {O.N} -999- Inferno {H.C} |
-| Region | INDIA |
-| Lobby Creation Time | Thursday, October 26, 2023 14:28:02 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28492435980181647 |
-| Players | 1/5 |
-| Host Name | shame |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, October 26, 2023 14:28:28 |
 
 
