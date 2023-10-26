@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28492435994596018 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | IIiIIiII |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, October 26, 2023 14:55:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28492435995431413 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | Twinface |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, October 26, 2023 14:56:48 |
@@ -47,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, October 26, 2023 14:50:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28492435995019575 |
-| Players | 2/15 |
-| Host Name | Ngahejeun |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, October 26, 2023 14:56:03 |
+| Lobby ID | 28492435997203500 |
+| Players | 1/8 |
+| Host Name | Славик Зигомёт |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, October 26, 2023 15:00:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28492435995931059 |
-| Players | 12/15 |
-| Host Name | ЧАК НОРРИС |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, October 26, 2023 14:57:43 |
+| Lobby ID | 28492435996998380 |
+| Players | 2/8 |
+| Host Name | Matye Bal |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, October 26, 2023 14:59:41 |
 
 
 |  | ot3_gardens_duo |
@@ -92,19 +92,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, October 26, 2023 14:54:38 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28492435997057188 |
+| Players | 12/15 |
+| Host Name | Barikkel |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, October 26, 2023 14:59:47 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28492435996889246 |
+| Lobby ID | 28492435997109672 |
 | Players | 1/8 |
-| Host Name | bread |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, October 26, 2023 14:59:29 |
+| Host Name | ☢︎danyabed☢ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, October 26, 2023 14:59:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28492435997158636 |
+| Players | 4/10 |
+| Host Name | Asmoday Eternal |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, October 26, 2023 14:59:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28492435997211275 |
+| Players | 2/10 |
+| Host Name | Моржогр |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, October 26, 2023 15:00:06 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28492435996580744 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | macDONALD |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, October 26, 2023 14:58:55 |
