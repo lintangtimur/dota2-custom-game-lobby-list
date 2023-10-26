@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28492436003191369 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Yuh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, October 26, 2023 15:11:13 |
@@ -51,44 +51,80 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28492436004508846 |
 | Players | 3/8 |
-| Host Name | WAYNE |
+| Host Name | Mixnajaren |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, October 26, 2023 15:13:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28492436005099168 |
-| Players | 1/15 |
-| Host Name | dark_cris |
-| Region | PERU |
-| Lobby Creation Time | Thursday, October 26, 2023 15:14:36 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28492436005101933 |
-| Players | 1/10 |
-| Host Name |  |
+| Players | 2/10 |
+| Host Name | Poor Man |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, October 26, 2023 15:14:37 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28492436005328574 |
+| Players | 1/10 |
+| Host Name | Павлик Норм типок |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, October 26, 2023 15:15:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28492436005489471 |
+| Players | 1/8 |
+| Host Name | vsj |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, October 26, 2023 15:15:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28492436005600456 |
+| Players | 2/10 |
+| Host Name | Boosted Animals |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, October 26, 2023 15:15:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28492436005621941 |
+| Players | 1/15 |
+| Host Name | мид солист |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, October 26, 2023 15:15:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28492436005609892 |
+| Players | 1/15 |
+| Host Name | WinNee |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, October 26, 2023 15:15:30 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28492436002964896 |
-| Players | 6/10 |
-| Host Name | Fey |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, October 26, 2023 15:10:49 |
+| Lobby ID | 28492436005296667 |
+| Players | 3/10 |
+| Host Name | Sea Server Cancer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, October 26, 2023 15:14:57 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28492436004934238 |
+| Lobby ID | 28492436005618837 |
 | Players | 1/5 |
-| Host Name | Lälek |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, October 26, 2023 15:14:19 |
+| Host Name | TQZZM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, October 26, 2023 15:15:31 |
 
 
