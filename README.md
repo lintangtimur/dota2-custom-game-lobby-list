@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28492436044441756 |
-| Players | 6/10 |
-| Host Name | xxoda04 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, October 26, 2023 16:19:51 |
+| Lobby ID | 28492436045323693 |
+| Players | 4/8 |
+| Host Name | артемка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, October 26, 2023 16:21:18 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28492436042535134 |
-| Players | 16/24 |
+| Players | 21/24 |
 | Host Name | 路人 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, October 26, 2023 16:16:46 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, October 26, 2023 16:14:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28492436043363273 |
-| Players | 8/15 |
-| Host Name | Девид Тренч |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, October 26, 2023 16:18:06 |
+| Lobby ID | 28492436044989874 |
+| Players | 1/8 |
+| Host Name | Asta La Vista |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, October 26, 2023 16:20:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28492436044229381 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Балдежный Пердеж |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, October 26, 2023 16:19:30 |
@@ -78,26 +78,53 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28492436044741981 |
 | Players | 2/8 |
-| Host Name | iron liver |
+| Host Name | idk |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, October 26, 2023 16:20:21 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28492436038960160 |
-| Players | 1/7 |
-| Host Name | GG |
+| Lobby ID | 28492436045411461 |
+| Players | 1/10 |
+| Host Name | анальный зонт |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, October 26, 2023 16:10:58 |
+| Lobby Creation Time | Thursday, October 26, 2023 16:21:27 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28492436045416180 |
+| Players | 1/24 |
+| Host Name | vip3r |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, October 26, 2023 16:21:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28492436045437886 |
+| Players | 1/15 |
+| Host Name | Pray4me |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, October 26, 2023 16:21:29 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28492436042454334 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | d1 |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, October 26, 2023 16:16:38 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28492436045060354 |
+| Players | 3/7 |
+| Host Name | Azree |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, October 26, 2023 16:20:52 |
 
 
