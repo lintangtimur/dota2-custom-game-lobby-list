@@ -14,28 +14,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28492436176027317 |
-| Players | 11/24 |
+| Players | 23/24 |
 | Host Name | beebee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, October 26, 2023 19:20:30 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28492436175900798 |
-| Players | 3/8 |
-| Host Name | nuxaumefedron |
-| Region | PERU |
-| Lobby Creation Time | Thursday, October 26, 2023 19:20:22 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28492436175309474 |
+| Lobby ID | 28492436177789166 |
 | Players | 1/15 |
-| Host Name | boqni |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, October 26, 2023 19:19:43 |
+| Host Name | Predrag Krtolica |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, October 26, 2023 19:22:23 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28492436177834733 |
+| Players | 2/24 |
+| Host Name | unexpected token |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, October 26, 2023 19:22:26 |
 
 
 |  | ot3_jungle_quintet |
@@ -67,62 +67,71 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28492436175676814 |
-| Players | 5/15 |
-| Host Name | Chollaren |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, October 26, 2023 19:20:07 |
+| Lobby ID | 28492436177501146 |
+| Players | 10/15 |
+| Host Name | ₱Ʉ₦₭₴₦Ø₮ĐɆ₳Đ |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, October 26, 2023 19:22:05 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28492436177033009 |
-| Players | 1/24 |
-| Host Name | мейби бейби |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, October 26, 2023 19:21:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28492436175501599 |
-| Players | 6/8 |
-| Host Name | HusnutDoterskii |
+| Lobby ID | 28492436177640803 |
+| Players | 1/15 |
+| Host Name | Donatello |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, October 26, 2023 19:19:55 |
+| Lobby Creation Time | Thursday, October 26, 2023 19:22:14 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28492436176983348 |
-| Players | 7/10 |
-| Host Name | zxcабсос#Grand-Rust |
+| Lobby ID | 28492436177617344 |
+| Players | 2/10 |
+| Host Name | Absurd |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, October 26, 2023 19:22:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28492436152022346 |
+| Players | 9/10 |
+| Host Name | BLESS THIS MESS |
 | Region | PERU |
-| Lobby Creation Time | Thursday, October 26, 2023 19:21:32 |
+| Lobby Creation Time | Thursday, October 26, 2023 18:53:27 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28492436166015869 |
-| Players | 1/5 |
-| Host Name | Sergelion01 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, October 26, 2023 19:09:30 |
+| Lobby ID | 28492436177513339 |
+| Players | 1/8 |
+| Host Name | BATON41K   _ |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, October 26, 2023 19:22:06 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28492436171756577 |
-| Players | 1/5 |
-| Host Name | deniz |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, October 26, 2023 19:15:50 |
+| Lobby ID | 28492436177940924 |
+| Players | 1/8 |
+| Host Name | АДСКИЙ САТАНА |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, October 26, 2023 19:22:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28492436177926063 |
+| Players | 2/10 |
+| Host Name | hrvatska |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, October 26, 2023 19:22:31 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28492436175610581 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Kurimawski |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, October 26, 2023 19:20:03 |
