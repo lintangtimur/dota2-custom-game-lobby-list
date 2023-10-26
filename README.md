@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28492436161989361 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | , |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, October 26, 2023 19:04:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28492436166554213 |
-| Players | 7/8 |
-| Host Name | бомбардирОчка |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, October 26, 2023 19:10:06 |
+| Lobby ID | 28492436167431143 |
+| Players | 2/10 |
+| Host Name | Too Good To Win? |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, October 26, 2023 19:11:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,31 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, October 26, 2023 18:45:30 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28492436161337880 |
+| Players | 4/8 |
+| Host Name | Menace2Society |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, October 26, 2023 19:04:12 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28492436163985246 |
-| Players | 20/24 |
-| Host Name | Cashmere |
+| Lobby ID | 28492436167493923 |
+| Players | 5/24 |
+| Host Name | unexpected token |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, October 26, 2023 19:07:12 |
+| Lobby Creation Time | Thursday, October 26, 2023 19:11:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28492436166583769 |
-| Players | 1/10 |
-| Host Name | aahahahhqa' |
+| Lobby ID | 28492436167583944 |
+| Players | 1/8 |
+| Host Name | hhcx |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, October 26, 2023 19:10:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28492436166419801 |
-| Players | 2/10 |
-| Host Name | Мото-Мото |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, October 26, 2023 19:09:57 |
+| Lobby Creation Time | Thursday, October 26, 2023 19:11:16 |
 
 
 |  | ot3_gardens_duo |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, October 26, 2023 18:53:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28492436160480127 |
-| Players | 14/15 |
-| Host Name | Путин наше всё |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, October 26, 2023 19:03:13 |
+| Lobby ID | 28492436166597147 |
+| Players | 7/10 |
+| Host Name | despairinyoureyes私死 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, October 26, 2023 19:10:09 |
 
 
 |  | ot3_gardens_duo |
@@ -101,76 +101,58 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, October 26, 2023 19:10:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28492436166030555 |
-| Players | 1/10 |
-| Host Name | Too Good To Win? |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, October 26, 2023 19:09:31 |
+| Lobby ID | 28492436154016294 |
+| Players | 14/15 |
+| Host Name | Cecilia- |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, October 26, 2023 18:55:45 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28492436166454952 |
+| Lobby ID | 28492436167403350 |
 | Players | 1/8 |
-| Host Name | Dracula |
+| Host Name | depko13 |
 | Region | USWEST |
-| Lobby Creation Time | Thursday, October 26, 2023 19:10:00 |
+| Lobby Creation Time | Thursday, October 26, 2023 19:11:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28492436166597147 |
-| Players | 5/10 |
-| Host Name | despairinyoureyes私死 |
+| Lobby ID | 28492436167186136 |
+| Players | 2/24 |
+| Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, October 26, 2023 19:10:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28492436166899175 |
-| Players | 1/15 |
-| Host Name | 76561198288430602 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, October 26, 2023 19:10:30 |
+| Lobby Creation Time | Thursday, October 26, 2023 19:10:49 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28492436166931985 |
-| Players | 2/10 |
-| Host Name | Stels |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, October 26, 2023 19:10:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28492436166942542 |
-| Players | 1/15 |
-| Host Name | неумехапелемеха |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, October 26, 2023 19:10:32 |
+| Lobby ID | 28492436160575176 |
+| Players | 9/10 |
+| Host Name | megszentségteleníthetetlenségesk |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, October 26, 2023 19:03:20 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28492436166642043 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | KillerBee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, October 26, 2023 19:10:12 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28492436166867310 |
-| Players | 1/5 |
-| Host Name | Вафелька |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, October 26, 2023 19:10:27 |
+| Lobby ID | 28492436166941017 |
+| Players | 1/10 |
+| Host Name | Hellboy |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, October 26, 2023 19:10:32 |
 
 
 |  | epic_boss_fight_normal |
@@ -184,19 +166,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28492436166081015 |
+| Lobby ID | 28492436167546589 |
 | Players | 1/10 |
 | Host Name | Solo Dr. Zola |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, October 26, 2023 19:09:35 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28492436166941017 |
-| Players | 1/10 |
-| Host Name | Hellboy |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, October 26, 2023 19:10:32 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, October 26, 2023 19:11:13 |
 
 
