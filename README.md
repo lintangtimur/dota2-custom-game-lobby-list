@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494058649441387 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | USWEST |
 | Lobby Creation Time | Friday, October 27, 2023 11:16:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494058649232100 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | JeOS |
 | Region | PERU |
 | Lobby Creation Time | Friday, October 27, 2023 11:15:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494058649739861 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | DobleZ |
 | Region | PERU |
 | Lobby Creation Time | Friday, October 27, 2023 11:16:41 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28494058649083098 |
-| Players | 23/24 |
-| Host Name | SI |
-| Region | PERU |
-| Lobby Creation Time | Friday, October 27, 2023 11:15:22 |
+| Lobby ID | 28494058650385501 |
+| Players | 3/24 |
+| Host Name | Aimer-|` |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, October 27, 2023 11:18:00 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494058649139044 |
-| Players | 7/24 |
+| Players | 12/24 |
 | Host Name | KITCHEN LIGHTS |
 | Region | USEAST |
 | Lobby Creation Time | Friday, October 27, 2023 11:15:29 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494058650243444 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Mcry |
 | Region | CHILE |
 | Lobby Creation Time | Friday, October 27, 2023 11:17:42 |
@@ -104,18 +104,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494058650274242 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Arthas Menethil |
 | Region | USEAST |
 | Lobby Creation Time | Friday, October 27, 2023 11:17:46 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494058650440675 |
+| Players | 8/15 |
+| Host Name | 272 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, October 27, 2023 11:18:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494058650482124 |
+| Players | 1/15 |
+| Host Name | NeDix! |
+| Region | USEAST |
+| Lobby Creation Time | Friday, October 27, 2023 11:18:12 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28494058650385501 |
+| Lobby ID | 28494058650682944 |
 | Players | 1/24 |
-| Host Name | เมียดุมาก |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, October 27, 2023 11:18:00 |
+| Host Name | MAIDERINO |
+| Region | PERU |
+| Lobby Creation Time | Friday, October 27, 2023 11:18:38 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28494058650814902 |
+| Players | 1/10 |
+| Host Name | CHAD NORRIZ |
+| Region | PERU |
+| Lobby Creation Time | Friday, October 27, 2023 11:18:55 |
 
 
