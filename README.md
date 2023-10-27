@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494058639152804 |
-| Players | 3/8 |
-| Host Name | Sebas Tian |
+| Players | 2/8 |
+| Host Name | Moon |
 | Region | USEAST |
 | Lobby Creation Time | Friday, October 27, 2023 10:53:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494058639953844 |
-| Players | 13/15 |
-| Host Name | Jimo is Back! |
+| Lobby ID | 28494058641261802 |
+| Players | 4/10 |
+| Host Name | Jack (El Cyborg Hanma) |
 | Region | PERU |
-| Lobby Creation Time | Friday, October 27, 2023 10:55:06 |
+| Lobby Creation Time | Friday, October 27, 2023 10:57:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494058640825177 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | RONPEcraneos |
 | Region | PERU |
 | Lobby Creation Time | Friday, October 27, 2023 10:56:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494058640627764 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | рубленое мясо |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, October 27, 2023 10:56:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28492436836095761 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Pivo |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, October 27, 2023 08:19:43 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494058640027122 |
-| Players | 3/24 |
+| Players | 13/24 |
 | Host Name | 一叶之秋 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, October 27, 2023 10:55:15 |
@@ -90,5 +90,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hope |
 | Region | PERU |
 | Lobby Creation Time | Friday, October 27, 2023 10:55:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494058641073742 |
+| Players | 5/15 |
+| Host Name | Richard "Slick Willy" Nixon |
+| Region | USWEST |
+| Lobby Creation Time | Friday, October 27, 2023 10:57:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494058641179979 |
+| Players | 2/15 |
+| Host Name | Mr.Bass |
+| Region | PERU |
+| Lobby Creation Time | Friday, October 27, 2023 10:57:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494058641210772 |
+| Players | 3/15 |
+| Host Name | RILR |
+| Region | USEAST |
+| Lobby Creation Time | Friday, October 27, 2023 10:57:44 |
 
 
