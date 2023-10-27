@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28494258183090201 |
-| Players | 4/10 |
-| Host Name | Jaaa |
+| Players | 3/10 |
+| Host Name | хХхDOCхХх |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 01:19:01 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28494258191669645 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | Jason Statham |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 01:28:21 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 01:30:24 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28494258194099618 |
-| Players | 3/7 |
-| Host Name | only EGO |
+| Lobby ID | 28494258194926165 |
+| Players | 1/5 |
+| Host Name | Туебень |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 01:31:01 |
+| Lobby Creation Time | Saturday, October 28, 2023 01:31:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258192146094 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 01:28:52 |
@@ -77,52 +77,52 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258188680675 |
-| Players | 11/24 |
+| Players | 18/24 |
 | Host Name | roswel |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 01:25:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494258193104900 |
-| Players | 8/15 |
-| Host Name | Runa Piva |
+| Lobby ID | 28494258186896778 |
+| Players | 6/8 |
+| Host Name | улыбнись если б трахнул фумимочи |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 01:29:56 |
+| Lobby Creation Time | Saturday, October 28, 2023 01:23:12 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494258193973455 |
-| Players | 1/10 |
-| Host Name | ИДИТЕ РАБОТАТЬ |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, October 28, 2023 01:30:53 |
+| Lobby ID | 28494258194320197 |
+| Players | 6/10 |
+| Host Name | Усатый Шмэль |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, October 28, 2023 01:31:15 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494258193831826 |
+| Lobby ID | 28494258193174312 |
 | Players | 3/8 |
-| Host Name | Well, that's it, I'm fucked up |
+| Host Name | Кабан Пятно |
 | Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 01:30:44 |
+| Lobby Creation Time | Saturday, October 28, 2023 01:30:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494258188671022 |
-| Players | 9/10 |
-| Host Name | Huesitos |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 01:25:05 |
+| Lobby ID | 28494258194563129 |
+| Players | 1/8 |
+| Host Name | maus |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, October 28, 2023 01:31:31 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258178054975 |
-| Players | 7/15 |
+| Players | 1/15 |
 | Host Name | GG |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, October 28, 2023 01:12:57 |
@@ -139,11 +139,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494258190798627 |
-| Players | 6/8 |
-| Host Name | don mukujin |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 01:27:24 |
+| Lobby ID | 28494258194655237 |
+| Players | 5/8 |
+| Host Name | Destr |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, October 28, 2023 01:31:37 |
 
 
 |  | ot3_desert_octet |
@@ -158,72 +158,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494258188091577 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Нuсkaя |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, October 28, 2023 01:24:28 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28494258193273792 |
-| Players | 1/15 |
-| Host Name | q1 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 01:30:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28494258193174312 |
-| Players | 1/8 |
-| Host Name | Кабан Пятно |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 01:30:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28494258193085227 |
-| Players | 1/15 |
-| Host Name | Твоя мама |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 01:29:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28494258193503820 |
-| Players | 4/15 |
-| Host Name | water |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 01:30:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28494258193952964 |
-| Players | 5/8 |
-| Host Name | Матильда<3 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, October 28, 2023 01:30:51 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494258193932907 |
-| Players | 1/10 |
-| Host Name | no echo gang |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 01:30:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28494258194002250 |
+| Lobby ID | 28494258194924111 |
 | Players | 2/10 |
-| Host Name | Kw3sty |
+| Host Name | zoro |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, October 28, 2023 01:31:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28494258194935575 |
+| Players | 1/8 |
+| Host Name | Jivchik |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 01:30:55 |
+| Lobby Creation Time | Saturday, October 28, 2023 01:31:56 |
 
 
