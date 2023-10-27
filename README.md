@@ -11,28 +11,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, October 27, 2023 17:35:46 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28494257690889503 |
-| Players | 5/10 |
-| Host Name | SCARLET |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, October 27, 2023 17:35:41 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28494257692390958 |
-| Players | 1/10 |
-| Host Name | KNИggA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, October 27, 2023 17:37:51 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494257690062962 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | bottle of rum and codeine |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, October 27, 2023 17:34:30 |
@@ -41,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494257621015079 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | vfhrrr |
 | Region | USWEST |
 | Lobby Creation Time | Friday, October 27, 2023 15:47:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494257692386023 |
-| Players | 2/10 |
-| Host Name | EmaM.Strange |
-| Region | CHILE |
-| Lobby Creation Time | Friday, October 27, 2023 17:37:51 |
+| Lobby ID | 28494257692741869 |
+| Players | 1/8 |
+| Host Name | I$uss |
+| Region | USEAST |
+| Lobby Creation Time | Friday, October 27, 2023 17:38:22 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494257689723005 |
-| Players | 16/24 |
+| Players | 21/24 |
 | Host Name | Ainz Ooal Gown |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, October 27, 2023 17:34:01 |
@@ -77,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494257691832466 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | МОЙ УМ - МОЕ ВОЛШЕБСТВО! |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, October 27, 2023 17:37:02 |
@@ -85,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494257692230332 |
-| Players | 3/8 |
-| Host Name | Пиноккио |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, October 27, 2023 17:37:37 |
+| Lobby ID | 28494257692721265 |
+| Players | 1/8 |
+| Host Name | Ril Saspens |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, October 27, 2023 17:38:21 |
 
 
 |  | ot3_gardens_duo |
@@ -101,30 +83,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, October 27, 2023 17:37:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494257692223882 |
-| Players | 6/10 |
-| Host Name | El Zorro |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, October 27, 2023 17:37:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28494257692364379 |
-| Players | 1/15 |
-| Host Name | аликанте |
+| Lobby ID | 28494257692695720 |
+| Players | 1/8 |
+| Host Name | EZ FEEEEEEEED??????? |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, October 27, 2023 17:37:49 |
+| Lobby Creation Time | Friday, October 27, 2023 17:38:18 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494257692459020 |
-| Players | 1/15 |
-| Host Name | matane |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, October 27, 2023 17:37:57 |
+| Lobby ID | 28494257692974315 |
+| Players | 5/15 |
+| Host Name | LOVE_yandere |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, October 27, 2023 17:38:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28494257692753837 |
+| Players | 2/8 |
+| Host Name | l3nxナ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, October 27, 2023 17:38:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28494257693065101 |
+| Players | 1/8 |
+| Host Name | пчила |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, October 27, 2023 17:38:50 |
 
 
