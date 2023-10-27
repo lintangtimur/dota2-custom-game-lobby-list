@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28494257603114201 |
-| Players | 5/10 |
-| Host Name | largogem21 |
+| Players | 3/10 |
+| Host Name | marcibeacoup |
 | Region | USWEST |
 | Lobby Creation Time | Friday, October 27, 2023 15:16:16 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28494257616496285 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | {O.N} -999- Inferno {H.C} |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, October 27, 2023 15:40:39 |
@@ -65,48 +65,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, October 27, 2023 14:48:26 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28494257618772289 |
-| Players | 1/10 |
-| Host Name | Savolnik |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, October 27, 2023 15:44:22 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494257618606970 |
-| Players | 9/15 |
-| Host Name | Logen |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, October 27, 2023 15:44:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28494257612354155 |
-| Players | 1/10 |
-| Host Name | laughing stock |
-| Region | USWEST |
-| Lobby Creation Time | Friday, October 27, 2023 15:33:26 |
+| Lobby ID | 28494257619610083 |
+| Players | 5/15 |
+| Host Name | Anti_Death |
+| Region | USEAST |
+| Lobby Creation Time | Friday, October 27, 2023 15:45:40 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494257618918946 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | ITS ONLY SMELLZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, October 27, 2023 15:44:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494257619093618 |
-| Players | 5/8 |
-| Host Name | Ведьмак |
+| Lobby ID | 28494257612354155 |
+| Players | 2/10 |
+| Host Name | laughing stock |
+| Region | USWEST |
+| Lobby Creation Time | Friday, October 27, 2023 15:33:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494257619596242 |
+| Players | 1/15 |
+| Host Name | прочитал = пидop |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, October 27, 2023 15:44:51 |
+| Lobby Creation Time | Friday, October 27, 2023 15:45:39 |
 
 
