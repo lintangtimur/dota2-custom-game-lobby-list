@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494257636812594 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | ITS ONLY SMELLZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, October 27, 2023 16:12:37 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494257637225141 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Baki |
 | Region | USEAST |
 | Lobby Creation Time | Friday, October 27, 2023 16:13:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494257638390748 |
-| Players | 6/15 |
-| Host Name | Руина на Дифронте |
+| Lobby ID | 28494257639742561 |
+| Players | 1/8 |
+| Host Name | Get4kd |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, October 27, 2023 16:15:02 |
+| Lobby Creation Time | Friday, October 27, 2023 16:17:08 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494257634924573 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Spookuni |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, October 27, 2023 16:09:41 |
@@ -74,30 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, October 27, 2023 16:15:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494257639455948 |
-| Players | 3/8 |
-| Host Name | ITS_SHOWTIME |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, October 27, 2023 16:16:42 |
+| Lobby ID | 28494257640069912 |
+| Players | 3/15 |
+| Host Name | BestFriendoooo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, October 27, 2023 16:17:39 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494257639530985 |
+| Lobby ID | 28494257640172243 |
 | Players | 2/10 |
-| Host Name | distrudted issues of my pain |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, October 27, 2023 16:16:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28494257639602816 |
-| Players | 1/8 |
-| Host Name | ꧁Nongma ꧂ "PURIFIED" |
+| Host Name | Жека Потрашитель |
 | Region | JAPAN |
-| Lobby Creation Time | Friday, October 27, 2023 16:16:55 |
+| Lobby Creation Time | Friday, October 27, 2023 16:17:48 |
 
 
