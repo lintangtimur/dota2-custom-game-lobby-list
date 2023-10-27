@@ -20,22 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, October 27, 2023 14:35:08 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28494257592908125 |
-| Players | 12/15 |
-| Host Name | Летчик Зигзаг |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, October 27, 2023 14:55:22 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494257591434364 |
-| Players | 3/8 |
-| Host Name | Kucher |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, October 27, 2023 14:52:33 |
+| Lobby ID | 28494257593900793 |
+| Players | 6/8 |
+| Host Name | Священная Рана |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, October 27, 2023 14:57:15 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28494257594092874 |
+| Players | 1/24 |
+| Host Name | Violon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, October 27, 2023 14:57:37 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494257593324278 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Девид Тренч |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, October 27, 2023 14:56:09 |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494257593131750 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Cham |
 | Region | USWEST |
 | Lobby Creation Time | Friday, October 27, 2023 14:55:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28494257592357369 |
-| Players | 7/8 |
-| Host Name | бижко владик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, October 27, 2023 14:54:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28494257592832706 |
-| Players | 10/15 |
-| Host Name | Felaz |
-| Region | USEAST |
-| Lobby Creation Time | Friday, October 27, 2023 14:55:13 |
 
 
 |  | ot3_gardens_duo |
@@ -99,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | JUANETO MAMANE QUESPE (TO PAPE) |
 | Region | PERU |
 | Lobby Creation Time | Friday, October 27, 2023 14:55:41 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494257592832706 |
+| Players | 13/15 |
+| Host Name | Felaz |
+| Region | USEAST |
+| Lobby Creation Time | Friday, October 27, 2023 14:55:13 |
 
 
