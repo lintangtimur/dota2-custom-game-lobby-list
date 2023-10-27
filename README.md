@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28494058728820101 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | dasdas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, October 27, 2023 13:54:49 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494058726462935 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Walter The Grey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, October 27, 2023 13:50:23 |
@@ -31,47 +31,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494058729939404 |
+| Lobby ID | 28494058729932786 |
 | Players | 3/8 |
-| Host Name | эчпочмак |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, October 27, 2023 13:56:54 |
+| Host Name | moryaz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, October 27, 2023 13:56:53 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494058729082986 |
-| Players | 1/15 |
-| Host Name | Убийца Билла |
+| Players | 7/15 |
+| Host Name | Alpen Gold |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, October 27, 2023 13:55:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28494058728890786 |
-| Players | 5/10 |
-| Host Name | combowombotop |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, October 27, 2023 13:54:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28494058721477450 |
-| Players | 5/8 |
-| Host Name | неужели..? |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, October 27, 2023 13:40:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28494058727056597 |
-| Players | 1/8 |
-| Host Name | [Б.О.М.Ж.И.]нубасик |
-| Region | USEAST |
-| Lobby Creation Time | Friday, October 27, 2023 13:51:31 |
 
 
 |  | ot3_desert_octet |
@@ -85,10 +58,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494058729932786 |
-| Players | 1/8 |
-| Host Name | moryaz |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, October 27, 2023 13:56:53 |
+| Lobby ID | 28494058721477450 |
+| Players | 7/8 |
+| Host Name | неужели..? |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, October 27, 2023 13:40:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494058730390620 |
+| Players | 1/15 |
+| Host Name | Топ 100 Антарктиды |
+| Region | USEAST |
+| Lobby Creation Time | Friday, October 27, 2023 13:57:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28494058730409252 |
+| Players | 1/10 |
+| Host Name | [D]iomegod |
+| Region | PERU |
+| Lobby Creation Time | Friday, October 27, 2023 13:57:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28494058730440882 |
+| Players | 3/10 |
+| Host Name | Мабута Виктор |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, October 27, 2023 13:57:49 |
 
 
