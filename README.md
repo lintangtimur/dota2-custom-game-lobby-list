@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28493921365596751 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | ? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, October 27, 2023 10:21:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28493921365665694 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | El gatito erotico |
 | Region | USEAST |
 | Lobby Creation Time | Friday, October 27, 2023 10:21:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28493921364868255 |
-| Players | 12/24 |
+| Players | 19/24 |
 | Host Name | Blue-Label |
 | Region | PERU |
 | Lobby Creation Time | Friday, October 27, 2023 10:20:08 |
@@ -86,37 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28493921362415766 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | 死亡 |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, October 27, 2023 10:15:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28493921365617460 |
-| Players | 3/8 |
-| Host Name | To Fu |
-| Region | PERU |
-| Lobby Creation Time | Friday, October 27, 2023 10:21:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28493921365474227 |
-| Players | 3/10 |
-| Host Name | lANGOSTINY |
-| Region | PERU |
-| Lobby Creation Time | Friday, October 27, 2023 10:21:22 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28493921365336830 |
-| Players | 5/10 |
-| Host Name | don't even try to talk to me |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, October 27, 2023 10:21:05 |
 
 
 |  | ot3_gardens_duo |
@@ -126,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | !Co2e_Fi@$ko$! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, October 27, 2023 10:21:35 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28493921365474227 |
+| Players | 4/10 |
+| Host Name | lANGOSTINY |
+| Region | PERU |
+| Lobby Creation Time | Friday, October 27, 2023 10:21:22 |
 
 
