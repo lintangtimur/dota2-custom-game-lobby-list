@@ -4,29 +4,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28494058724420837 |
+| Lobby ID | 28494058728692147 |
 | Players | 1/10 |
 | Host Name | Fey |
 | Region | USEAST |
-| Lobby Creation Time | Friday, October 27, 2023 13:46:33 |
+| Lobby Creation Time | Friday, October 27, 2023 13:54:35 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28494058726186062 |
-| Players | 3/10 |
-| Host Name | Alwahsh#FKIsraelTeez |
+| Lobby ID | 28494058728820101 |
+| Players | 2/10 |
+| Host Name | dasdas |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, October 27, 2023 13:49:51 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28494058726911481 |
-| Players | 1/5 |
-| Host Name | (0)WoY(0) |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, October 27, 2023 13:51:14 |
+| Lobby Creation Time | Friday, October 27, 2023 13:54:49 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494058726844056 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ⌐◨-◨ |
 | Region | PERU |
 | Lobby Creation Time | Friday, October 27, 2023 13:51:06 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494058725227969 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | roswel |
 | Region | PERU |
 | Lobby Creation Time | Friday, October 27, 2023 13:48:03 |
@@ -77,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494058727056597 |
-| Players | 3/8 |
-| Host Name | Sugrob |
+| Players | 1/8 |
+| Host Name | Dew |
 | Region | USEAST |
 | Lobby Creation Time | Friday, October 27, 2023 13:51:31 |
 
@@ -95,9 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494058728273721 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Friday, October 27, 2023 13:53:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28494058728384325 |
+| Players | 5/8 |
+| Host Name | mersa。(monkey) |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, October 27, 2023 13:54:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28494058728860895 |
+| Players | 1/10 |
+| Host Name |  |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, October 27, 2023 13:54:54 |
 
 
