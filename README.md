@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28494257751212614 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Hector Pantollana |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, October 27, 2023 18:52:58 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28494257750850582 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Booberries |
 | Region | USEAST |
 | Lobby Creation Time | Friday, October 27, 2023 18:52:33 |
@@ -38,31 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, October 27, 2023 18:53:26 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494257753913725 |
-| Players | 2/10 |
-| Host Name | 不狂菜狗子 |
+| Lobby ID | 28494257755545254 |
+| Players | 1/15 |
+| Host Name | QB |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, October 27, 2023 18:56:03 |
+| Lobby Creation Time | Friday, October 27, 2023 18:57:54 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494257750125644 |
-| Players | 21/24 |
-| Host Name | 蓝胖舌吻双头龙 |
+| Lobby ID | 28494257754904560 |
+| Players | 8/15 |
+| Host Name | P O W E R |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, October 27, 2023 18:51:43 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28494257754135788 |
-| Players | 4/10 |
-| Host Name | SW_Ezhik |
-| Region | USEAST |
-| Lobby Creation Time | Friday, October 27, 2023 18:56:18 |
+| Lobby Creation Time | Friday, October 27, 2023 18:57:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494257753585670 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | DrDisconnect |
 | Region | USEAST |
 | Lobby Creation Time | Friday, October 27, 2023 18:55:41 |
@@ -92,22 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, October 27, 2023 18:49:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494257754511158 |
-| Players | 6/8 |
-| Host Name | Shax |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, October 27, 2023 18:56:44 |
+| Lobby ID | 28494257739699781 |
+| Players | 4/10 |
+| Host Name | benihimaru |
+| Region | USEAST |
+| Lobby Creation Time | Friday, October 27, 2023 18:39:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494257754712952 |
-| Players | 6/8 |
-| Host Name | Vinnie Jones |
+| Lobby ID | 28494257755551377 |
+| Players | 1/15 |
+| Host Name | Ghost |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, October 27, 2023 18:56:58 |
+| Lobby Creation Time | Friday, October 27, 2023 18:57:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -119,21 +110,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, October 27, 2023 18:52:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494257754763709 |
-| Players | 1/10 |
-| Host Name | Illusion |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, October 27, 2023 18:57:01 |
+| Lobby ID | 28494257755422840 |
+| Players | 4/8 |
+| Host Name | Ril Saspens |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, October 27, 2023 18:57:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494257754770612 |
-| Players | 6/10 |
-| Host Name | Ziras |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, October 27, 2023 18:57:02 |
+| Lobby ID | 28494257755574971 |
+| Players | 1/8 |
+| Host Name | Йаcobs monarch |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, October 27, 2023 18:57:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494257755164966 |
+| Players | 14/15 |
+| Host Name | неумехапелемеха |
+| Region | USEAST |
+| Lobby Creation Time | Friday, October 27, 2023 18:57:28 |
 
 
