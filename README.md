@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, October 27, 2023 11:33:15 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28494058663224791 |
-| Players | 1/5 |
-| Host Name | i.mahmadali |
+| Lobby ID | 28494058666655052 |
+| Players | 3/10 |
+| Host Name | 江南第一深情 |
 | Region | JAPAN |
-| Lobby Creation Time | Friday, October 27, 2023 11:44:24 |
+| Lobby Creation Time | Friday, October 27, 2023 11:51:14 |
 
 
 |  | epic_boss_fight_normal |
@@ -29,40 +29,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, October 27, 2023 11:43:21 |
 
 
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28494058666300042 |
-| Players | 1/7 |
-| Host Name | This is a pathetic humanity |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, October 27, 2023 11:50:32 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28494058665889835 |
+| Lobby ID | 28494058666929185 |
 | Players | 1/5 |
-| Host Name | 江南第一深情 |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, October 27, 2023 11:49:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28494058665175635 |
-| Players | 5/8 |
-| Host Name | isn't like holding to the center |
-| Region | USEAST |
-| Lobby Creation Time | Friday, October 27, 2023 11:48:16 |
+| Host Name | King Fish |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, October 27, 2023 11:51:48 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494058665684115 |
-| Players | 4/15 |
-| Host Name | неумехапелемеха |
-| Region | USEAST |
-| Lobby Creation Time | Friday, October 27, 2023 11:49:18 |
+| Lobby ID | 28494058666629062 |
+| Players | 1/15 |
+| Host Name | Niñoblis Tu Terror +.+ |
+| Region | PERU |
+| Lobby Creation Time | Friday, October 27, 2023 11:51:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28494058666850062 |
+| Players | 1/8 |
+| Host Name | SodaZ |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, October 27, 2023 11:51:38 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494058664553385 |
-| Players | 6/24 |
-| Host Name | brandizzles |
+| Players | 8/24 |
+| Host Name | MidNight |
 | Region | USWEST |
 | Lobby Creation Time | Friday, October 27, 2023 11:47:01 |
 
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494058666051593 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Papi te vas< |
 | Region | PERU |
 | Lobby Creation Time | Friday, October 27, 2023 11:50:02 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494058665104927 |
-| Players | 13/24 |
+| Players | 22/24 |
 | Host Name | M o.o M |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, October 27, 2023 11:48:08 |
@@ -113,27 +104,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494058666395344 |
-| Players | 1/24 |
-| Host Name | 11by |
+| Players | 7/24 |
+| Host Name | CroNxTy |
 | Region | PERU |
 | Lobby Creation Time | Friday, October 27, 2023 11:50:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494058666536522 |
-| Players | 6/8 |
-| Host Name | LCS. EL_POMA_MASNA |
-| Region | PERU |
-| Lobby Creation Time | Friday, October 27, 2023 11:51:00 |
+| Lobby ID | 28494058666758399 |
+| Players | 2/10 |
+| Host Name | GrimTales |
+| Region | USWEST |
+| Lobby Creation Time | Friday, October 27, 2023 11:51:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494058666542764 |
-| Players | 1/8 |
-| Host Name | INTERNATIONAL SISGED |
-| Region | CHILE |
-| Lobby Creation Time | Friday, October 27, 2023 11:51:01 |
+| Lobby ID | 28494058667004954 |
+| Players | 1/10 |
+| Host Name | Kuni Nosik |
+| Region | USEAST |
+| Lobby Creation Time | Friday, October 27, 2023 11:51:57 |
 
 
