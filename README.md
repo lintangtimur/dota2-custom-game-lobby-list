@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28494058639616358 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | DeltaBlock |
 | Region | USWEST |
 | Lobby Creation Time | Friday, October 27, 2023 10:54:20 |
@@ -22,35 +22,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494058641940959 |
-| Players | 5/8 |
-| Host Name | LOSBENJAMINS |
-| Region | PERU |
-| Lobby Creation Time | Friday, October 27, 2023 10:59:20 |
+| Lobby ID | 28494058642334810 |
+| Players | 1/8 |
+| Host Name | рубленое мясо |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, October 27, 2023 11:00:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494058641179979 |
-| Players | 7/15 |
-| Host Name | Mr.Bass |
-| Region | PERU |
-| Lobby Creation Time | Friday, October 27, 2023 10:57:40 |
+| Lobby ID | 28494058642805347 |
+| Players | 9/15 |
+| Host Name | Merc |
+| Region | USEAST |
+| Lobby Creation Time | Friday, October 27, 2023 11:01:25 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494058640825177 |
-| Players | 23/24 |
-| Host Name | RONPEcraneos |
-| Region | PERU |
-| Lobby Creation Time | Friday, October 27, 2023 10:56:53 |
+| Lobby ID | 28494058642791779 |
+| Players | 7/10 |
+| Host Name | Dios Padre |
+| Region | USEAST |
+| Lobby Creation Time | Friday, October 27, 2023 11:01:23 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494058642350454 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Prime говядина" |
 | Region | USEAST |
 | Lobby Creation Time | Friday, October 27, 2023 11:00:18 |
@@ -77,27 +77,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494058640027122 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | 一叶之秋 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, October 27, 2023 10:55:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494058640109269 |
-| Players | 2/8 |
-| Host Name | Hope |
-| Region | PERU |
-| Lobby Creation Time | Friday, October 27, 2023 10:55:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28494058642334810 |
-| Players | 2/8 |
-| Host Name | рубленое мясо |
+| Lobby ID | 28494058642746411 |
+| Players | 2/15 |
+| Host Name | Elber ML |
 | Region | JAPAN |
-| Lobby Creation Time | Friday, October 27, 2023 11:00:15 |
+| Lobby Creation Time | Friday, October 27, 2023 11:01:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28494058642949941 |
+| Players | 3/10 |
+| Host Name | Cobblepot |
+| Region | USEAST |
+| Lobby Creation Time | Friday, October 27, 2023 11:01:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28494058642921541 |
+| Players | 1/8 |
+| Host Name | Hope |
+| Region | USEAST |
+| Lobby Creation Time | Friday, October 27, 2023 11:01:42 |
 
 
