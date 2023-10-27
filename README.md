@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494058677442479 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | неужели..? |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, October 27, 2023 12:12:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494058680890692 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | PEGASUS |
 | Region | PERU |
 | Lobby Creation Time | Friday, October 27, 2023 12:19:27 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494058678306191 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Alherian |
 | Region | USWEST |
 | Lobby Creation Time | Friday, October 27, 2023 12:14:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494058679660891 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | STINKY BUTTHOLE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, October 27, 2023 12:17:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494058680326749 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | sEMJON |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, October 27, 2023 12:18:21 |
@@ -65,21 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, October 27, 2023 12:03:36 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28494058681122989 |
-| Players | 1/24 |
-| Host Name | AMOROZO |
-| Region | PERU |
-| Lobby Creation Time | Friday, October 27, 2023 12:19:55 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494058679221125 |
-| Players | 6/8 |
+| Players | 4/8 |
 | Host Name | Scrayl |
 | Region | PERU |
 | Lobby Creation Time | Friday, October 27, 2023 12:16:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28494058681351358 |
+| Players | 3/10 |
+| Host Name | bONE |
+| Region | PERU |
+| Lobby Creation Time | Friday, October 27, 2023 12:20:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494058681523806 |
+| Players | 2/15 |
+| Host Name | Imagio |
+| Region | USEAST |
+| Lobby Creation Time | Friday, October 27, 2023 12:20:42 |
 
 
