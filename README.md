@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28494058648137808 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Harakiri Squad |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, October 27, 2023 11:13:20 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494058648153403 |
-| Players | 7/24 |
+| Players | 22/24 |
 | Host Name | WilifWilofWilai |
 | Region | PERU |
 | Lobby Creation Time | Friday, October 27, 2023 11:13:22 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494058645009740 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | เทพเทอร์โบ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, October 27, 2023 11:06:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494058648234389 |
-| Players | 6/10 |
-| Host Name | Setvigon |
-| Region | USEAST |
-| Lobby Creation Time | Friday, October 27, 2023 11:13:31 |
+| Lobby ID | 28494058647410818 |
+| Players | 1/15 |
+| Host Name | I HATE STUPID KIDS |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, October 27, 2023 11:11:43 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, October 27, 2023 10:28:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494058648395883 |
-| Players | 1/8 |
-| Host Name | ezzzzzzz |
+| Lobby ID | 28494058648684285 |
+| Players | 2/10 |
+| Host Name | CHAD NORRIZ |
 | Region | PERU |
-| Lobby Creation Time | Friday, October 27, 2023 11:13:53 |
+| Lobby Creation Time | Friday, October 27, 2023 11:14:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -85,28 +85,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494058646940365 |
-| Players | 9/10 |
-| Host Name | leonidas |
+| Lobby ID | 28494058647114008 |
+| Players | 8/10 |
+| Host Name | El Zar |
 | Region | PERU |
-| Lobby Creation Time | Friday, October 27, 2023 11:10:41 |
+| Lobby Creation Time | Friday, October 27, 2023 11:11:04 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494058647410818 |
-| Players | 1/15 |
-| Host Name | I HATE STUPID KIDS |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, October 27, 2023 11:11:43 |
+| Lobby ID | 28494058648746569 |
+| Players | 2/15 |
+| Host Name | 0xGorabax |
+| Region | USEAST |
+| Lobby Creation Time | Friday, October 27, 2023 11:14:39 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494058647437698 |
+| Lobby ID | 28494058645276181 |
 | Players | 7/10 |
-| Host Name | JOSEP |
-| Region | PERU |
-| Lobby Creation Time | Friday, October 27, 2023 11:11:47 |
+| Host Name | 홍은채) 내 동료가 돼라 홍은채) 물고기 캠 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, October 27, 2023 11:07:00 |
 
 
