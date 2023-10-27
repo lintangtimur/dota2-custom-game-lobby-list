@@ -5,25 +5,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28493921368608060 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Fey |
 | Region | USEAST |
 | Lobby Creation Time | Friday, October 27, 2023 10:27:46 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28494045049119324 |
+| Players | 2/10 |
+| Host Name | Raiden Ei |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, October 27, 2023 10:38:16 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494045046665221 |
-| Players | 1/8 |
-| Host Name | Vitrex1111 |
-| Region | PERU |
-| Lobby Creation Time | Friday, October 27, 2023 10:34:37 |
+| Lobby ID | 28494045048787546 |
+| Players | 5/8 |
+| Host Name | pos 1 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, October 27, 2023 10:37:35 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494045048007438 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | обюз говна |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, October 27, 2023 10:36:11 |
@@ -31,20 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28494045048260612 |
+| Lobby ID | 28494045049306140 |
 | Players | 1/24 |
-| Host Name | SucraM |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, October 27, 2023 10:36:34 |
+| Host Name | Disastrous Luck |
+| Region | USEAST |
+| Lobby Creation Time | Friday, October 27, 2023 10:38:40 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494045047073351 |
-| Players | 21/24 |
-| Host Name | 13 |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, October 27, 2023 10:35:03 |
+| Lobby ID | 28494045048770608 |
+| Players | 5/10 |
+| Host Name | RMT(McMani Rockefeller) |
+| Region | PERU |
+| Lobby Creation Time | Friday, October 27, 2023 10:37:33 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28492436836095761 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Pivo |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, October 27, 2023 08:19:43 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494045046550407 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Moon |
 | Region | USWEST |
 | Lobby Creation Time | Friday, October 27, 2023 10:34:30 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494045048714959 |
-| Players | 4/24 |
+| Players | 16/24 |
 | Host Name | BabyMiko |
 | Region | PERU |
 | Lobby Creation Time | Friday, October 27, 2023 10:37:27 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28493921367177763 |
-| Players | 5/24 |
+| Players | 11/24 |
 | Host Name | Silky Johnson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, October 27, 2023 10:24:51 |
@@ -104,36 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494045048623053 |
-| Players | 3/24 |
-| Host Name | Blank |
+| Players | 2/24 |
+| Host Name | Gregor Mendel |
 | Region | PERU |
 | Lobby Creation Time | Friday, October 27, 2023 10:37:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28494045048626202 |
-| Players | 3/15 |
-| Host Name | Angry |
-| Region | PERU |
-| Lobby Creation Time | Friday, October 27, 2023 10:37:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28494045048770608 |
-| Players | 3/10 |
-| Host Name | RMT(McMani Rockefeller) |
-| Region | PERU |
-| Lobby Creation Time | Friday, October 27, 2023 10:37:33 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494045048787546 |
+| Lobby ID | 28494045049445038 |
 | Players | 1/8 |
-| Host Name | pos 1 |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, October 27, 2023 10:37:35 |
+| Host Name | Papi te vas< |
+| Region | PERU |
+| Lobby Creation Time | Friday, October 27, 2023 10:38:57 |
 
 
