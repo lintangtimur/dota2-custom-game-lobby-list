@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28494257670641077 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Solo Dr. Zola |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, October 27, 2023 17:04:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494257667015190 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Cyubert01 |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, October 27, 2023 16:58:40 |
@@ -40,26 +40,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494257672187476 |
+| Lobby ID | 28494257673167979 |
 | Players | 2/10 |
-| Host Name | She looks like starry sky |
-| Region | USEAST |
-| Lobby Creation Time | Friday, October 27, 2023 17:07:01 |
+| Host Name | Расскажешь |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, October 27, 2023 17:08:35 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494257672694328 |
-| Players | 1/15 |
-| Host Name | Twitch.tv/KreiK1_ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, October 27, 2023 17:07:49 |
+| Lobby ID | 28494257672985451 |
+| Players | 3/15 |
+| Host Name | matinebm |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, October 27, 2023 17:08:17 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494257670783465 |
-| Players | 15/24 |
+| Players | 20/24 |
 | Host Name | Ohayo! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, October 27, 2023 17:04:49 |
@@ -67,19 +67,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494257672644811 |
-| Players | 1/8 |
+| Lobby ID | 28494257673252497 |
+| Players | 2/8 |
 | Host Name | Денис |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, October 27, 2023 17:07:44 |
+| Lobby Creation Time | Friday, October 27, 2023 17:08:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494257670781211 |
-| Players | 2/8 |
-| Host Name | Молоток |
+| Lobby ID | 28494257673292503 |
+| Players | 1/10 |
+| Host Name | Хабиб Нурбабагет |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, October 27, 2023 17:04:49 |
+| Lobby Creation Time | Friday, October 27, 2023 17:08:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494257673354885 |
+| Players | 1/15 |
+| Host Name | Lootomania |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, October 27, 2023 17:08:52 |
 
 
