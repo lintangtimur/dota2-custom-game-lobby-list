@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28494058691282581 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | lupanamaingatrasa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, October 27, 2023 12:40:08 |
@@ -56,48 +56,57 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, October 27, 2023 12:38:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494058696025763 |
-| Players | 3/15 |
-| Host Name | 1st_JOKER** |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, October 27, 2023 12:49:46 |
+| Lobby ID | 28494058696320481 |
+| Players | 4/10 |
+| Host Name | RypeezySqueezy |
+| Region | USWEST |
+| Lobby Creation Time | Friday, October 27, 2023 12:50:23 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494058694211514 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | El niño guerrero |
 | Region | PERU |
 | Lobby Creation Time | Friday, October 27, 2023 12:46:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28494058695182464 |
-| Players | 6/8 |
-| Host Name | -=DCS_Technician=- |
-| Region | USEAST |
-| Lobby Creation Time | Friday, October 27, 2023 12:48:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28494058695700525 |
-| Players | 9/10 |
-| Host Name | OD.Of Emiel ' Regis Rogelach |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, October 27, 2023 12:49:06 |
+| Lobby ID | 28494058696406746 |
+| Players | 1/24 |
+| Host Name | S |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, October 27, 2023 12:50:33 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494058695949814 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | (/_-) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, October 27, 2023 12:49:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28494058696207873 |
+| Players | 1/8 |
+| Host Name | isn't like holding to the center |
+| Region | USEAST |
+| Lobby Creation Time | Friday, October 27, 2023 12:50:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28494058696512571 |
+| Players | 1/10 |
+| Host Name | vimpro |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, October 27, 2023 12:50:46 |
 
 
