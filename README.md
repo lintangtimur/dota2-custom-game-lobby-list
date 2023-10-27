@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28494058676673773 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Leinach |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, October 27, 2023 12:11:13 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494058681523806 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | Imagio |
 | Region | USEAST |
 | Lobby Creation Time | Friday, October 27, 2023 12:20:42 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, October 27, 2023 12:21:19 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494058679660891 |
-| Players | 23/24 |
-| Host Name | STINKY BUTTHOLE |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, October 27, 2023 12:17:03 |
+| Lobby ID | 28494058682328642 |
+| Players | 6/10 |
+| Host Name | Hecker |
+| Region | USEAST |
+| Lobby Creation Time | Friday, October 27, 2023 12:22:16 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,18 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494058681843270 |
-| Players | 11/24 |
+| Players | 18/24 |
 | Host Name | Bonitos y gorditos hijos de puta |
 | Region | PERU |
 | Lobby Creation Time | Friday, October 27, 2023 12:21:19 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494058682538148 |
+| Players | 3/15 |
+| Host Name | Rolling rolling Rock |
+| Region | PERU |
+| Lobby Creation Time | Friday, October 27, 2023 12:22:41 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494058681794239 |
-| Players | 6/8 |
-| Host Name | LeamuR |
-| Region | USEAST |
-| Lobby Creation Time | Friday, October 27, 2023 12:21:14 |
+| Lobby ID | 28494058682519514 |
+| Players | 2/8 |
+| Host Name | CAMARADA CAPIBARA |
+| Region | PERU |
+| Lobby Creation Time | Friday, October 27, 2023 12:22:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28494058682624503 |
+| Players | 2/8 |
+| Host Name | Flade |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, October 27, 2023 12:22:51 |
 
 
