@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28494258181140692 |
-| Players | 3/5 |
+| Players | 1/5 |
 | Host Name | Пипин Короткий |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 01:16:39 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28494258183090201 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Forever Dumb |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 01:19:01 |
@@ -47,13 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 01:19:52 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28494258183606125 |
-| Players | 1/5 |
-| Host Name | -__- |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 01:19:39 |
+| Lobby ID | 28494258184530352 |
+| Players | 1/10 |
+| Host Name | MR.VenoM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 01:20:46 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28494258184639566 |
+| Players | 1/10 |
+| Host Name | 我愛我們的習主席 |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, October 28, 2023 01:20:52 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28494258184703009 |
+| Players | 2/10 |
+| Host Name | шлюхи стервы суки |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 01:20:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,43 +86,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258178521629 |
-| Players | 15/24 |
+| Players | 22/24 |
 | Host Name | YaMa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 01:13:30 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28494258184148257 |
+| Players | 1/24 |
+| Host Name | f0r3 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 01:20:19 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494258183657106 |
-| Players | 2/10 |
-| Host Name | Арматура 80мм |
+| Lobby ID | 28494258184599934 |
+| Players | 1/10 |
+| Host Name | Dubl-Gandon |
 | Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 01:19:43 |
+| Lobby Creation Time | Saturday, October 28, 2023 01:20:50 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494258183527976 |
+| Lobby ID | 28494258184685724 |
 | Players | 1/8 |
-| Host Name | ##TRENDSETTER |
+| Host Name | Пила струна |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 01:19:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28494258181970063 |
-| Players | 7/8 |
-| Host Name | Ukuku |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 01:17:40 |
+| Lobby Creation Time | Saturday, October 28, 2023 01:20:55 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494258181158738 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | myclauss! |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 01:16:40 |
@@ -137,29 +155,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 01:18:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28494258183570288 |
-| Players | 7/8 |
-| Host Name | q |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 01:19:36 |
+| Lobby ID | 28494258174000675 |
+| Players | 17/24 |
+| Host Name | CRIMINAL |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 01:08:14 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494258183591459 |
-| Players | 3/8 |
-| Host Name | wakudso |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 01:19:38 |
+| Lobby ID | 28494258184317617 |
+| Players | 1/8 |
+| Host Name | https://www.twitch.tv/indyyss |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 01:20:31 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494258182001533 |
-| Players | 7/10 |
-| Host Name | ZXCUTYBQ |
+| Players | 1/10 |
+| Host Name | Ajr |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 01:17:42 |
 
@@ -173,39 +191,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 01:17:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494258182696443 |
-| Players | 8/15 |
-| Host Name | Rover |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 01:18:33 |
+| Lobby ID | 28494258184633040 |
+| Players | 1/8 |
+| Host Name | im strong im built for this shit |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, October 28, 2023 01:20:52 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494258162236702 |
-| Players | 5/15 |
-| Host Name | Ligma Joke Enjoyer |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 00:58:30 |
+| Lobby ID | 28494258184616091 |
+| Players | 3/15 |
+| Host Name | ПЕДИК |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 01:20:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28494258184700327 |
+| Players | 1/8 |
+| Host Name | susmogus |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 01:20:56 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494258181413136 |
-| Players | 8/10 |
-| Host Name | Beta-Тестировщик |
+| Lobby ID | 28494258184723749 |
+| Players | 2/10 |
+| Host Name | ярослав ясно солн |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 01:16:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28494258183917944 |
-| Players | 4/10 |
-| Host Name | crying |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 01:20:02 |
+| Lobby Creation Time | Saturday, October 28, 2023 01:20:57 |
 
 
