@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494257581957546 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | антон перфоратор |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, October 27, 2023 14:35:08 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, October 27, 2023 15:15:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494257604334860 |
-| Players | 9/15 |
-| Host Name | SenorMouse |
-| Region | USEAST |
-| Lobby Creation Time | Friday, October 27, 2023 15:18:48 |
+| Lobby ID | 28494257605235273 |
+| Players | 3/10 |
+| Host Name | 홍은채) 내 동료가 돼라 홍은채) 물고기 캠 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, October 27, 2023 15:20:36 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494257599987580 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | YOLAAMOPEROOTROSELACULEA |
 | Region | PERU |
 | Lobby Creation Time | Friday, October 27, 2023 15:09:42 |
@@ -86,9 +86,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494257602929753 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | i have no enemies |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, October 27, 2023 15:15:52 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28494257605007770 |
+| Players | 3/24 |
+| Host Name | barking monkey, bad monkey |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, October 27, 2023 15:20:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494257605297127 |
+| Players | 1/15 |
+| Host Name | Makhmut.Amagomedov |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, October 27, 2023 15:20:43 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494257605395065 |
+| Players | 1/15 |
+| Host Name | аРБУЗ |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, October 27, 2023 15:20:54 |
 
 
