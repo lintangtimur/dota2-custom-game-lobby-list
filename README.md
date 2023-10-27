@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494058653177357 |
-| Players | 7/8 |
-| Host Name | Weaponised Autism |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, October 27, 2023 11:23:53 |
+| Lobby ID | 28494058654573906 |
+| Players | 2/8 |
+| Host Name | scam mamonta |
+| Region | USEAST |
+| Lobby Creation Time | Friday, October 27, 2023 11:26:47 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494058649441387 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | USWEST |
 | Lobby Creation Time | Friday, October 27, 2023 11:16:07 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494058654066312 |
+| Lobby ID | 28494058654526313 |
 | Players | 1/8 |
-| Host Name | scam mamonta |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, October 27, 2023 11:25:45 |
+| Host Name | stroub |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, October 27, 2023 11:26:41 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28492436836095761 |
-| Players | 6/15 |
+| Players | 4/15 |
 | Host Name | Pivo |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, October 27, 2023 08:19:43 |
@@ -86,27 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494058652799043 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | LilaLouSi@rkardo |
 | Region | PERU |
 | Lobby Creation Time | Friday, October 27, 2023 11:23:07 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28494058650385501 |
-| Players | 21/24 |
-| Host Name | Aimer-|` |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, October 27, 2023 11:18:00 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494058654170307 |
-| Players | 1/15 |
-| Host Name | Chandideadmoon |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, October 27, 2023 11:25:57 |
+| Lobby ID | 28494058654332478 |
+| Players | 6/15 |
+| Host Name | Commend para menos toxicos |
+| Region | PERU |
+| Lobby Creation Time | Friday, October 27, 2023 11:26:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28494058654527017 |
+| Players | 1/10 |
+| Host Name | catharsis |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, October 27, 2023 11:26:41 |
 
 
