@@ -14,19 +14,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28494257676028190 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | Gentlesiree |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, October 27, 2023 17:13:09 |
 
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28494257676228599 |
-| Players | 3/10 |
-| Host Name | БИБЛИОТЕКА |
-| Region | CHILE |
-| Lobby Creation Time | Friday, October 27, 2023 17:13:28 |
+| Lobby ID | 28494257676552028 |
+| Players | 1/10 |
+| Host Name | hhgg |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, October 27, 2023 17:13:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494257676833788 |
+| Players | 5/15 |
+| Host Name | ЄXѺҬӉЄГӍіС |
+| Region | USEAST |
+| Lobby Creation Time | Friday, October 27, 2023 17:14:25 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, October 27, 2023 15:47:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494257676475568 |
-| Players | 1/8 |
-| Host Name | Борис арматура |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, October 27, 2023 17:13:50 |
+| Lobby ID | 28494257674850788 |
+| Players | 4/10 |
+| Host Name | Wws |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, October 27, 2023 17:11:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494257675797896 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | Rick & Clancy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, October 27, 2023 17:12:46 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494257673465713 |
-| Players | 10/15 |
+| Players | 7/15 |
 | Host Name | Lootomania |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, October 27, 2023 17:09:03 |
@@ -67,64 +76,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494257675339993 |
+| Lobby ID | 28494257676885624 |
 | Players | 1/8 |
-| Host Name | hidden pool resident |
-| Region | USWEST |
-| Lobby Creation Time | Friday, October 27, 2023 17:12:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28494257675920587 |
-| Players | 8/15 |
-| Host Name | Nvp |
-| Region | USEAST |
-| Lobby Creation Time | Friday, October 27, 2023 17:12:58 |
+| Host Name | Feelingpeace’s |
+| Region | PERU |
+| Lobby Creation Time | Friday, October 27, 2023 17:14:30 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494257673909033 |
-| Players | 1/10 |
-| Host Name | Morningstar |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, October 27, 2023 17:09:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28494257674850788 |
-| Players | 4/10 |
-| Host Name | _H1BoT_2 |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, October 27, 2023 17:11:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28494257675385150 |
-| Players | 1/15 |
-| Host Name | ) |
+| Lobby ID | 28494257677150224 |
+| Players | 2/10 |
+| Host Name | إِنَّا ِلِلَّٰهِ وَإِنَّا إِلَيْ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, October 27, 2023 17:12:07 |
+| Lobby Creation Time | Friday, October 27, 2023 17:14:55 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494257676498262 |
-| Players | 1/8 |
+| Lobby ID | 28494257676555310 |
+| Players | 6/8 |
 | Host Name | Am1le |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, October 27, 2023 17:13:52 |
+| Lobby Creation Time | Friday, October 27, 2023 17:13:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494257676501513 |
-| Players | 3/8 |
-| Host Name | MDMA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, October 27, 2023 17:13:53 |
+| Lobby ID | 28494257677203571 |
+| Players | 1/10 |
+| Host Name | shalalei |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, October 27, 2023 17:15:00 |
 
 
