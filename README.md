@@ -2,24 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28494257585843950 |
-| Players | 7/10 |
-| Host Name | PeppaChan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, October 27, 2023 14:42:15 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28494257588870419 |
-| Players | 1/10 |
-| Host Name | yorichi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, October 27, 2023 14:47:42 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494257581957546 |
@@ -50,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494257587425869 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | asura |
 | Region | USEAST |
 | Lobby Creation Time | Friday, October 27, 2023 14:45:08 |
@@ -65,30 +47,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, October 27, 2023 14:43:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494257588906686 |
-| Players | 1/8 |
-| Host Name | mAtArrr |
-| Region | USWEST |
-| Lobby Creation Time | Friday, October 27, 2023 14:47:46 |
+| Lobby ID | 28494257588956596 |
+| Players | 1/15 |
+| Host Name | P. |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, October 27, 2023 14:47:52 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494257588915405 |
-| Players | 1/24 |
+| Players | 12/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, October 27, 2023 14:47:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494257588946373 |
-| Players | 1/15 |
-| Host Name | BP2022.cc ＢＯＺＨＥ　Ｋ |
+| Lobby ID | 28494257589228106 |
+| Players | 5/10 |
+| Host Name | Сиёга |
 | Region | JAPAN |
-| Lobby Creation Time | Friday, October 27, 2023 14:47:51 |
+| Lobby Creation Time | Friday, October 27, 2023 14:48:22 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28494257589263280 |
+| Players | 8/24 |
+| Host Name | Cancell ^^ |
+| Region | PERU |
+| Lobby Creation Time | Friday, October 27, 2023 14:48:26 |
 
 
