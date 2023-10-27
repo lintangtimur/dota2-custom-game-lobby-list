@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28494058728692147 |
 | Players | 2/10 |
-| Host Name | Fey |
+| Host Name | абвыбвагыагавгву |
 | Region | USEAST |
 | Lobby Creation Time | Friday, October 27, 2023 13:54:35 |
 
@@ -14,45 +14,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28494058730705601 |
-| Players | 8/10 |
-| Host Name | ꜱʏꜰʏ |
+| Players | 1/10 |
+| Host Name | Ofair |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, October 27, 2023 13:58:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28494058730390620 |
-| Players | 7/15 |
-| Host Name | Топ 100 Антарктиды |
+| Lobby ID | 28494257563548053 |
+| Players | 1/10 |
+| Host Name | Fey |
 | Region | USEAST |
-| Lobby Creation Time | Friday, October 27, 2023 13:57:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28494257560901628 |
-| Players | 1/8 |
-| Host Name | фрукты не дышать |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, October 27, 2023 14:03:01 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28494058726462935 |
-| Players | 23/24 |
-| Host Name | Walter The Grey |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, October 27, 2023 13:50:23 |
+| Lobby Creation Time | Friday, October 27, 2023 14:04:56 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494058730472869 |
-| Players | 2/24 |
-| Host Name | RiftBreaker |
+| Players | 1/24 |
+| Host Name | 照屋光男 (Teruya Mitsuo) |
 | Region | USWEST |
 | Lobby Creation Time | Friday, October 27, 2023 13:57:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28494257562966843 |
+| Players | 1/8 |
+| Host Name | ДЕТРИГНУС |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, October 27, 2023 14:04:33 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28494058726462935 |
+| Players | 15/24 |
+| Host Name | Act Hee MEYD-845 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, October 27, 2023 13:50:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494058729082986 |
+| Players | 5/15 |
+| Host Name | Random |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, October 27, 2023 13:55:19 |
 
 
