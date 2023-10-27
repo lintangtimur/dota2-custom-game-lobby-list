@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494058717357046 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | Avocado0 |
 | Region | PERU |
 | Lobby Creation Time | Friday, October 27, 2023 13:33:04 |
@@ -41,18 +41,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494058719142149 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | 一叶之秋 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, October 27, 2023 13:36:30 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28494058721876105 |
+| Players | 1/10 |
+| Host Name | You will die |
+| Region | USEAST |
+| Lobby Creation Time | Friday, October 27, 2023 13:41:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28494058721477450 |
+| Players | 1/8 |
+| Host Name | неужели..? |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, October 27, 2023 13:40:58 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494058721468495 |
-| Players | 1/15 |
+| Lobby ID | 28494058721604593 |
+| Players | 9/15 |
 | Host Name | Speedball |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, October 27, 2023 13:40:57 |
+| Lobby Creation Time | Friday, October 27, 2023 13:41:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28494058721949083 |
+| Players | 1/8 |
+| Host Name | young moon若月 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, October 27, 2023 13:41:52 |
 
 
