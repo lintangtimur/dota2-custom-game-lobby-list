@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28494258520843130 |
-| Players | 1/7 |
+| Players | 3/7 |
 | Host Name | Lt. Wade Jackson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 10:18:39 |
@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28494258520049871 |
+| Lobby ID | 28494258521208440 |
 | Players | 1/10 |
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 10:17:10 |
+| Lobby Creation Time | Saturday, October 28, 2023 10:19:20 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258520859070 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | Mr.Bass |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 10:18:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258520194412 |
-| Players | 5/24 |
+| Players | 10/24 |
 | Host Name | Bonitos y gorditos hijos de puta |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 10:17:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258519862538 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | Nerfstyle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 10:16:49 |
@@ -74,39 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 10:16:51 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28494258519588806 |
-| Players | 8/10 |
-| Host Name | 1 |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 10:16:19 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494258520707021 |
-| Players | 3/8 |
-| Host Name | practice |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 10:18:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28494258521033807 |
-| Players | 2/10 |
-| Host Name | Merl1n |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, October 28, 2023 10:19:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28494258521034481 |
-| Players | 1/15 |
-| Host Name | NoMaD |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 10:19:00 |
+| Lobby ID | 28494258521116755 |
+| Players | 4/8 |
+| Host Name | Carrying dogs |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 10:19:10 |
 
 
