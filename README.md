@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28494258526001946 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Apsulov |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, October 28, 2023 10:28:40 |
@@ -41,34 +41,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258501651911 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | 李沖 ZENONZARD |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, October 28, 2023 09:40:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494258523805052 |
-| Players | 20/24 |
-| Host Name | ZARZ |
+| Lobby ID | 28494258525987161 |
+| Players | 1/8 |
+| Host Name | CURSE |
 | Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 10:24:21 |
+| Lobby Creation Time | Saturday, October 28, 2023 10:28:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494258524566131 |
-| Players | 13/15 |
-| Host Name | Mr-ATLAS |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 10:25:51 |
+| Lobby ID | 28494258526012752 |
+| Players | 6/8 |
+| Host Name | Quiero ser feliz |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 10:28:42 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258525089663 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | freshejka |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 10:26:53 |
@@ -86,27 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258525667537 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | dv3xxx |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 10:28:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28494258526012752 |
-| Players | 5/8 |
-| Host Name | Quiero ser feliz |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 10:28:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28494258525987161 |
-| Players | 1/8 |
-| Host Name | CURSE |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 10:28:39 |
 
 
