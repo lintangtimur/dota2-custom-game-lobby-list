@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258601872396 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Winter Night |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 12:57:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258562268031 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Murble |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, October 28, 2023 11:42:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258601067320 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Mr-ATLAS |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 12:56:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494258599268902 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | Evlogos |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, October 28, 2023 12:52:50 |
@@ -77,27 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258600008517 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Nietono No Shana |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 12:54:18 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28494258602472204 |
-| Players | 14/15 |
-| Host Name | Good2cu |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 12:58:54 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494258603016968 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Hecker |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 12:59:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494258603191011 |
+| Players | 1/15 |
+| Host Name | кот (или пёс) |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, October 28, 2023 13:00:01 |
 
 
