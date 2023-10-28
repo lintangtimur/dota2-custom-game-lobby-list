@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 12:26:21 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28494258586927137 |
+| Players | 1/5 |
+| Host Name | BIG FUDGE |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, October 28, 2023 12:28:06 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258586515236 |
@@ -23,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258584848880 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | LiaoLiao |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 12:24:05 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258586076677 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Zz |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 12:26:26 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494258585947594 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | LeonN |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 12:26:11 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494258586458046 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 12:27:11 |
