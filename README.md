@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 21:32:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715429593051 |
-| Players | 7/8 |
-| Host Name | Loveless |
+| Lobby ID | 28495715432520737 |
+| Players | 1/10 |
+| Host Name | Дуд или Dude? |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 21:31:54 |
+| Lobby Creation Time | Saturday, October 28, 2023 21:34:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715431176199 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | Jenducky |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 21:33:02 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715429850096 |
-| Players | 10/24 |
+| Players | 15/24 |
 | Host Name | MiKchero |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 21:32:05 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715431085041 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | руский?В ПАКЕТ! |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, October 28, 2023 21:32:59 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715421667997 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | АНДРЮХА |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, October 28, 2023 21:26:05 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715429210498 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | dingo tokatlayan |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 21:31:38 |
@@ -191,13 +191,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 21:33:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715432342951 |
-| Players | 1/24 |
-| Host Name | sloofikwf |
+| Lobby ID | 28495715432493709 |
+| Players | 1/8 |
+| Host Name | Лис |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, October 28, 2023 21:34:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495715420880236 |
+| Players | 8/10 |
+| Host Name | Deiz y ocho añitos |
 | Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 21:33:53 |
+| Lobby Creation Time | Saturday, October 28, 2023 21:25:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495715432593061 |
+| Players | 2/10 |
+| Host Name | Милана я Absolute ♡ |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, October 28, 2023 21:34:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -239,7 +257,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715430844780 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | deF |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, October 28, 2023 21:32:48 |
@@ -257,9 +275,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715424402955 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | にこ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 21:28:06 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495715432539648 |
+| Players | 1/10 |
+| Host Name | Vладимир Zeленский |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, October 28, 2023 21:34:02 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495715432604053 |
+| Players | 1/10 |
+| Host Name | Дядя Леопольд |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, October 28, 2023 21:34:05 |
 
 
