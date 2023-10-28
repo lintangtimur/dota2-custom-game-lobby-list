@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715296262664 |
-| Players | 4/15 |
+| Players | 1/15 |
 | Host Name | GHOST |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 19:47:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715300375661 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Nuterez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 19:50:48 |
@@ -94,20 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715301662062 |
-| Players | 2/10 |
-| Host Name | ThePterodactyl |
+| Lobby ID | 28495715301879273 |
+| Players | 1/10 |
+| Host Name | СЫН ПАНГОЛЬЕРА |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 19:51:53 |
+| Lobby Creation Time | Saturday, October 28, 2023 19:52:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715300868464 |
-| Players | 12/15 |
-| Host Name | Mouches Volantes |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, October 28, 2023 19:51:13 |
+| Lobby ID | 28495715301546395 |
+| Players | 2/8 |
+| Host Name | ПРОКЛЯТИЕ ГАБЕНА |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, October 28, 2023 19:51:47 |
 
 
 |  | ot3_jungle_quintet |
@@ -130,29 +130,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715301546395 |
-| Players | 2/8 |
-| Host Name | ПРОКЛЯТИЕ ГАБЕНА |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 19:51:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495715301659072 |
-| Players | 1/10 |
-| Host Name | СЫН ПАНГОЛЬЕРА |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 19:51:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715301686431 |
-| Players | 4/8 |
-| Host Name | фармлюКабанчиков |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 19:51:54 |
+| Lobby ID | 28495715301889618 |
+| Players | 1/8 |
+| Host Name | Ṩaภ​d༒ᏦIng |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 19:52:05 |
 
 
 |  | epic_boss_fight_nightmare |
