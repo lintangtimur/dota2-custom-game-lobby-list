@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 10:56:39 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494258539022519 |
-| Players | 23/24 |
-| Host Name | El Maldito Tedy |
+| Lobby ID | 28494258539909549 |
+| Players | 11/15 |
+| Host Name | DGL |
 | Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 10:54:19 |
+| Lobby Creation Time | Saturday, October 28, 2023 10:56:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,22 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 10:53:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28494258539273731 |
-| Players | 4/10 |
-| Host Name | aburre el dota |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 10:54:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28494258539225216 |
-| Players | 5/10 |
-| Host Name | 50% |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 10:54:45 |
+| Lobby ID | 28494258539861742 |
+| Players | 9/24 |
+| Host Name | ben |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 10:56:02 |
 
 
 |  | ot3_desert_octet |
@@ -90,32 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 10:54:55 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28494258539861742 |
-| Players | 7/24 |
-| Host Name | ben |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 10:56:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28494258539909549 |
-| Players | 4/15 |
-| Host Name | DGL |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 10:56:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28494258536720059 |
-| Players | 7/8 |
-| Host Name | -_- |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 10:49:41 |
 
 
