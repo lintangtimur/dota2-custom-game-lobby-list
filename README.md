@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715055920391 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Yobi D. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 15:21:56 |
@@ -85,29 +85,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715056686806 |
+| Lobby ID | 28495715056763404 |
+| Players | 2/15 |
+| Host Name | dARE |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 15:23:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715056766438 |
 | Players | 1/15 |
-| Host Name | osdd |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 15:22:56 |
+| Host Name | Pauk-Shnuk |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 15:23:02 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715050527175 |
-| Players | 3/5 |
-| Host Name | ™♥™ |
+| Lobby ID | 28495715056834156 |
+| Players | 1/15 |
+| Host Name | Ballin Colin |
 | Region | USWEST |
-| Lobby Creation Time | Saturday, October 28, 2023 15:14:56 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495715052499286 |
-| Players | 5/10 |
-| Host Name | 𝕸𝖆𝖘𝖍𝖑𝖊 |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 15:17:30 |
+| Lobby Creation Time | Saturday, October 28, 2023 15:23:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 15:21:16 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495715052499286 |
+| Players | 5/10 |
+| Host Name | 𝕸𝖆𝖘𝖍𝖑𝖊 |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 15:17:30 |
 
 
