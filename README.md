@@ -4,15 +4,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28494258567605953 |
-| Players | 9/10 |
-| Host Name | Zeni |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, October 28, 2023 11:51:56 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28494258574022220 |
 | Players | 3/10 |
 | Host Name | DonalDuck |
@@ -22,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28494258578734166 |
+| Lobby ID | 28494258579105726 |
 | Players | 2/5 |
-| Host Name | лиза барби |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, October 28, 2023 12:12:35 |
+| Host Name | Jupiter Dee Lost |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 12:13:16 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258577663819 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | MoonWalker |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 12:10:38 |
@@ -65,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 12:13:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494258576155358 |
-| Players | 7/15 |
-| Host Name | lucho cartucho |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 12:07:48 |
+| Lobby ID | 28494258578066546 |
+| Players | 4/10 |
+| Host Name | cbx Compendium sucks |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, October 28, 2023 12:11:23 |
 
 
 |  | ot3_gardens_duo |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494258578705688 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Br0ker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 12:12:32 |
@@ -103,10 +94,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494258578066546 |
-| Players | 3/10 |
-| Host Name | cbx Compendium sucks |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, October 28, 2023 12:11:23 |
+| Lobby ID | 28494258579442441 |
+| Players | 1/10 |
+| Host Name | ob1to |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, October 28, 2023 12:13:51 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28494258579332503 |
+| Players | 2/24 |
+| Host Name | turbo enjoyer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 12:13:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28494258578545385 |
+| Players | 6/8 |
+| Host Name | YUKICHI |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 12:12:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28494258576885064 |
+| Players | 8/10 |
+| Host Name | Niserzh |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, October 28, 2023 12:09:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494258579485787 |
+| Players | 4/15 |
+| Host Name | Goodbye Bystander |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 12:13:55 |
 
 
