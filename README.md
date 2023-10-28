@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715342128060 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | WalestRoosevelt |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, October 28, 2023 20:24:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715341825305 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | CRINGE |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 20:24:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715331198591 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Henya Enjoyer |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 20:15:50 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715341010944 |
-| Players | 7/15 |
-| Host Name | Heb |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 20:23:39 |
+| Lobby ID | 28495715342453277 |
+| Players | 3/15 |
+| Host Name | RADIANCE ENJOYER |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 20:24:49 |
 
 
 |  | ot3_gardens_duo |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715341796413 |
-| Players | 5/8 |
-| Host Name | Gikayou |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 20:24:17 |
+| Lobby ID | 28495715342788192 |
+| Players | 1/8 |
+| Host Name | 1 ФИД 100 рублей |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 20:25:05 |
 
 
 |  | ot3_gardens_duo |
@@ -137,13 +137,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 20:24:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495715342453277 |
-| Players | 1/15 |
-| Host Name | RADIANCE ENJOYER |
+| Lobby ID | 28495715342808493 |
+| Players | 2/24 |
+| Host Name | Dsan |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 20:24:49 |
+| Lobby Creation Time | Saturday, October 28, 2023 20:25:06 |
 
 
 |  | epic_boss_fight_challenger |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715336652788 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | kolpacheque |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 20:20:10 |
@@ -167,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715340519125 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | ุ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 20:23:15 |
