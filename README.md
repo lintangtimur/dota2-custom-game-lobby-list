@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715011903454 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | -rowin¿我 |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, October 28, 2023 14:26:35 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715012068762 |
+| Lobby ID | 28495715011946108 |
 | Players | 2/15 |
-| Host Name | ASSASSINS CREEP |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 14:26:48 |
+| Host Name | SSao |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, October 28, 2023 14:26:38 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715009421089 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | ANIKI 兄貴 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 14:23:05 |
@@ -92,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 14:23:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495715011854207 |
-| Players | 1/15 |
-| Host Name | ezTEC9 |
+| Lobby ID | 28495715012198350 |
+| Players | 1/24 |
+| Host Name | wildfirezg |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 14:26:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495715011946108 |
-| Players | 1/15 |
-| Host Name | SSao |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, October 28, 2023 14:26:38 |
+| Lobby Creation Time | Saturday, October 28, 2023 14:27:00 |
 
 
 |  | epic_boss_fight_nightmare |
