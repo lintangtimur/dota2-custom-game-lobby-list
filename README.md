@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715131151656 |
-| Players | 8/24 |
-| Host Name | ƬΛIᒪΣDΛΛƧIMΛЯ |
+| Players | 9/24 |
+| Host Name | TicTac |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 16:56:30 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715132220469 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Roosevelt |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, October 28, 2023 16:57:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715129131494 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 16:53:59 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715132934717 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | shichibukai |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, October 28, 2023 16:58:45 |
@@ -131,10 +131,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715133040002 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Продажник |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 16:58:53 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495715133203777 |
+| Players | 1/24 |
+| Host Name | Black Raven |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, October 28, 2023 16:59:05 |
 
 
 |  | epic_boss_fight_hard |
@@ -149,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715132524747 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | アノニーメ | #0_Sanity |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 16:58:14 |
