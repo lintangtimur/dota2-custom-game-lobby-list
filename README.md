@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715028305757 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | AYUDAME A CARREARTE |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 14:47:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715030930759 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | LOVE_yandere |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 14:50:16 |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 14:51:30 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495715032322582 |
-| Players | 1/5 |
-| Host Name | visual |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 14:51:59 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495715032376563 |
-| Players | 5/10 |
-| Host Name | Quesah |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 14:52:03 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28495715033087853 |
@@ -90,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kerry Copito |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 14:52:53 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495715032376563 |
+| Players | 6/10 |
+| Host Name | Quesah |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 14:52:03 |
 
 
