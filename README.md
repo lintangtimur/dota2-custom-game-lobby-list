@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715095466212 |
+| Lobby ID | 28495715095988954 |
 | Players | 1/15 |
-| Host Name | Slavjo. |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 16:12:11 |
+| Host Name | LuddeKudde |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, October 28, 2023 16:12:48 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715094412488 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Smoke weed every Day |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 16:10:53 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715095630557 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Разрушитель |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 16:12:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715095643199 |
-| Players | 13/15 |
-| Host Name | LOVE_yandere |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 16:12:24 |
+| Lobby ID | 28495715096098562 |
+| Players | 3/8 |
+| Host Name | 1 ФИД 100 рублей |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 16:12:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -110,19 +110,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 16:12:13 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495715095988954 |
-| Players | 1/15 |
-| Host Name | LuddeKudde |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, October 28, 2023 16:12:48 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715093968694 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | ἱεγλύ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 16:10:20 |
@@ -135,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | впихнул в нее киllo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 16:12:05 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495715096212161 |
+| Players | 1/5 |
+| Host Name | Rendori |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, October 28, 2023 16:13:04 |
 
 
