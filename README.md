@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494258621853589 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | BrokenMirror |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, October 28, 2023 13:30:26 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258625386165 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 13:35:50 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 11:42:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28494258625745217 |
-| Players | 1/10 |
-| Host Name | Ломаю Лица |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 13:36:23 |
+| Lobby ID | 28494258625813965 |
+| Players | 8/24 |
+| Host Name | Anjogs |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 13:36:29 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,21 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 13:24:02 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28494258625813965 |
-| Players | 8/24 |
-| Host Name | Anjogs |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 13:36:29 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494258625716090 |
-| Players | 2/10 |
-| Host Name | ZEN MODE |
+| Lobby ID | 28494258626202888 |
+| Players | 1/10 |
+| Host Name | Ломаю Лица |
 | Region | DUBAI |
-| Lobby Creation Time | Saturday, October 28, 2023 13:36:20 |
+| Lobby Creation Time | Saturday, October 28, 2023 13:37:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28494258626203584 |
+| Players | 2/8 |
+| Host Name | BlooP |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 13:37:05 |
 
 
