@@ -65,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 11:42:25 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28494258566388778 |
-| Players | 7/8 |
-| Host Name | ايراي الشاذ |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 11:49:42 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258567004210 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Warahira |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 11:50:50 |
