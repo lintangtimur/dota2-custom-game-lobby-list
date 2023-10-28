@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494258557790516 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | DAEMON |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 11:33:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258553886229 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Murble |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, October 28, 2023 11:25:43 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258556783897 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | СИЛЬНО УЕБАЛ?☭ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 11:31:32 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494258558267321 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Жеча |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 11:34:34 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258558120308 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 11:34:16 |
@@ -146,12 +146,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 11:33:54 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28494258558507510 |
+| Players | 2/10 |
+| Host Name | Gojo Satoru |
+| Region | AUSTRIA |
+| Lobby Creation Time | Saturday, October 28, 2023 11:35:03 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494258556390943 |
-| Players | 7/8 |
-| Host Name | XD |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 11:30:44 |
+| Lobby ID | 28494258558484852 |
+| Players | 5/8 |
+| Host Name | KAZ |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 11:35:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494258555369529 |
+| Players | 14/15 |
+| Host Name | R3sist4nce. |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, October 28, 2023 11:28:42 |
 
 
