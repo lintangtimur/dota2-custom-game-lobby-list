@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715093378492 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 16:09:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715093351852 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | retrigwaves |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 16:09:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715094070863 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | GoodWeek |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, October 28, 2023 16:10:27 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715093969647 |
+| Lobby ID | 28495715094513199 |
 | Players | 1/8 |
-| Host Name | мазня говном |
+| Host Name | Tima |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 16:10:20 |
+| Lobby Creation Time | Saturday, October 28, 2023 16:11:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715092898133 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Денис |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 16:09:00 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715094031755 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | Alonzo |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, October 28, 2023 16:10:25 |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ἱεγλύ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 16:10:20 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495715094067111 |
-| Players | 2/5 |
-| Host Name | 张大彪 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 16:10:27 |
 
 
