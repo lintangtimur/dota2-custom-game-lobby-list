@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715154813777 |
+| Lobby ID | 28495715155424902 |
 | Players | 1/8 |
-| Host Name | schizo kid ¿ |
+| Host Name | суka на старт |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 17:25:50 |
+| Lobby Creation Time | Saturday, October 28, 2023 17:26:33 |
 
 
 |  | ot3_desert_octet |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 17:25:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495715154948686 |
-| Players | 4/8 |
-| Host Name | Nn |
+| Lobby ID | 28495715155341059 |
+| Players | 1/24 |
+| Host Name | monkey king |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 17:25:59 |
+| Lobby Creation Time | Saturday, October 28, 2023 17:26:27 |
 
 
 |  | ot3_jungle_quintet |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715154627400 |
+| Lobby ID | 28495715155651220 |
 | Players | 1/8 |
-| Host Name | DickHunter |
+| Host Name | baby walker |
 | Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 17:25:36 |
+| Lobby Creation Time | Saturday, October 28, 2023 17:26:49 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715152322073 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | СИЛЬНО УЕБАЛ?☭ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 17:22:52 |
@@ -92,66 +92,57 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 17:22:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715154660327 |
-| Players | 6/10 |
-| Host Name | Thawne |
+| Lobby ID | 28495715155160587 |
+| Players | 1/15 |
+| Host Name | Unichevsky |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 17:25:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715154714932 |
-| Players | 1/8 |
-| Host Name | XS гуль |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 17:25:43 |
+| Lobby Creation Time | Saturday, October 28, 2023 17:26:14 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715154885075 |
-| Players | 1/15 |
-| Host Name | Unichevsky |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 17:25:55 |
+| Lobby ID | 28495715155245618 |
+| Players | 8/15 |
+| Host Name | Mentos |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, October 28, 2023 17:26:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495715154936962 |
-| Players | 1/8 |
-| Host Name | .no lose |
-| Region | AUSTRIA |
-| Lobby Creation Time | Saturday, October 28, 2023 17:25:58 |
+| Lobby ID | 28495715154991680 |
+| Players | 1/24 |
+| Host Name | wildfirezg |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 17:26:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495715154969960 |
+| Players | 16/24 |
+| Host Name | Dr. Strange |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 17:26:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495715155585941 |
+| Players | 6/10 |
+| Host Name | Дэнчик |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, October 28, 2023 17:26:44 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495715149035978 |
+| Lobby ID | 28495715155451550 |
 | Players | 1/10 |
 | Host Name | 𝕸𝖆𝖘𝖍𝖑𝖊 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 17:18:55 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495715152866444 |
-| Players | 3/5 |
-| Host Name | KMJ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 17:23:31 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495715154830438 |
-| Players | 1/10 |
-| Host Name | ??? |
 | Region | USWEST |
-| Lobby Creation Time | Saturday, October 28, 2023 17:25:51 |
+| Lobby Creation Time | Saturday, October 28, 2023 17:26:35 |
 
 
