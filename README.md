@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715157062832 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 17:28:28 |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 17:26:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715157881056 |
-| Players | 7/8 |
-| Host Name | übermensch |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 17:29:27 |
+| Lobby ID | 28495715157980109 |
+| Players | 9/15 |
+| Host Name | world doesn't exist |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 17:29:34 |
 
 
 |  | ot3_necropolis_ffa |
@@ -182,29 +182,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 17:29:00 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715157551022 |
-| Players | 1/8 |
-| Host Name | люблю владу |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 17:29:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495715157980109 |
-| Players | 8/15 |
-| Host Name | world doesn't exist |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 17:29:34 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715152259682 |
-| Players | 7/15 |
-| Host Name | They're getting tired of me |
+| Players | 5/15 |
+| Host Name | FuManChu |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 17:22:48 |
 
@@ -221,18 +203,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28495715157151061 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | MeRson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 17:28:34 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495715158200913 |
-| Players | 1/10 |
-| Host Name | {O.N} -999- Inferno {H.C} |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 17:29:49 |
 
 
