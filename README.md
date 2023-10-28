@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715286534375 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | 天鸽out |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 19:39:00 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715291707324 |
-| Players | 2/10 |
-| Host Name | Rot_v_ponose |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, October 28, 2023 19:43:27 |
+| Lobby ID | 28495715292260919 |
+| Players | 1/10 |
+| Host Name | Данарка енджоер |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 19:43:56 |
 
 
 |  | ot3_gardens_duo |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 19:43:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715291800103 |
-| Players | 10/15 |
-| Host Name | Mr. Peanutbutter |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, October 28, 2023 19:43:32 |
+| Lobby ID | 28495715292407304 |
+| Players | 1/8 |
+| Host Name | りfeeling aliveり |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 19:44:03 |
 
 
 |  | ot3_jungle_quintet |
@@ -130,20 +130,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715292009659 |
-| Players | 1/8 |
-| Host Name | Peak Comedy |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 19:43:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715292110842 |
+| Lobby ID | 28495715292333068 |
 | Players | 2/8 |
-| Host Name | りfeeling aliveり |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, October 28, 2023 19:43:48 |
+| Host Name | HellRim |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, October 28, 2023 19:44:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495715292366485 |
+| Players | 2/10 |
+| Host Name | YamadЫЧ |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 19:44:01 |
 
 
 |  | epic_boss_fight_nightmare |
