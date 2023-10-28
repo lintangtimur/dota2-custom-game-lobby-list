@@ -40,44 +40,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494258516957841 |
-| Players | 7/10 |
-| Host Name | Lyand |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 10:11:39 |
+| Lobby ID | 28494258517206710 |
+| Players | 2/10 |
+| Host Name | playa) |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, October 28, 2023 10:12:05 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258501651911 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | 李沖 ZENONZARD |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, October 28, 2023 09:40:02 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28494258516565629 |
-| Players | 4/10 |
-| Host Name | FL |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, October 28, 2023 10:10:58 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494258515581817 |
-| Players | 14/15 |
-| Host Name | Matthew |
+| Lobby ID | 28494258517313266 |
+| Players | 8/15 |
+| Host Name | COCAINE BEAR |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 10:12:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28494258517261260 |
+| Players | 1/24 |
+| Host Name | ElHombreQueCarreoAlIncarreable |
 | Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 10:09:17 |
+| Lobby Creation Time | Saturday, October 28, 2023 10:12:11 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258515126800 |
-| Players | 11/24 |
+| Players | 19/24 |
 | Host Name | CSY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 10:08:30 |
@@ -86,27 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258515038156 |
-| Players | 12/24 |
+| Players | 17/24 |
 | Host Name | freshejka |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 10:08:21 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28494258517275910 |
+| Players | 7/10 |
+| Host Name | Lyand |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 10:12:12 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494258516994948 |
-| Players | 2/8 |
-| Host Name | s4 |
+| Lobby ID | 28494258517610363 |
+| Players | 3/8 |
+| Host Name | Losing Interest |
 | Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 10:11:43 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28494258517128373 |
-| Players | 1/24 |
-| Host Name | Xxecho-slamxX |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 10:11:57 |
+| Lobby Creation Time | Saturday, October 28, 2023 10:12:48 |
 
 
