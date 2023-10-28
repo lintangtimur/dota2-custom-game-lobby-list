@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28494258632266592 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 13:46:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494258634591888 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ISRAELITA DE INKASEXXX |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 13:49:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258635564435 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | Goodbye Bystander |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 13:50:47 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258614920122 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | -_^ |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, October 28, 2023 13:19:22 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258634676098 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | fshstz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 13:49:31 |
@@ -113,18 +113,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258636342232 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Bona |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 13:51:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494258636388378 |
-| Players | 2/10 |
-| Host Name | YA NE DOTA RAPER |
+| Lobby ID | 28494258636392167 |
+| Players | 1/15 |
+| Host Name | Our Existence Is Pointless |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 13:51:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28494258636502726 |
+| Players | 2/8 |
+| Host Name | YA NE DOTA RAPER |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 13:52:06 |
 
 
