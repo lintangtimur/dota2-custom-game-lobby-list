@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258592688097 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | 姫森ルーナ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 12:39:35 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258589984034 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | COCAINE BEAR |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 12:34:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258592750637 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Hatsui |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 12:39:42 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 12:36:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494258592606590 |
-| Players | 7/8 |
-| Host Name | schapaevo |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 12:39:25 |
+| Lobby ID | 28494258593289786 |
+| Players | 3/10 |
+| Host Name | TIO RAMBITO -v |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, October 28, 2023 12:40:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ORANG |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 12:40:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28494258593289786 |
-| Players | 2/10 |
-| Host Name | TIO RAMBITO -v |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, October 28, 2023 12:40:47 |
 
 
