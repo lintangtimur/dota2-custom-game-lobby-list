@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715244275850 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Kzr |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, October 28, 2023 18:59:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715251619254 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | moryaz |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 19:07:06 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715248735951 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | 🍌 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 19:04:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715251140617 |
-| Players | 4/8 |
-| Host Name | Pretty boy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 19:06:39 |
+| Lobby ID | 28495715252564787 |
+| Players | 1/15 |
+| Host Name | manifesto |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, October 28, 2023 19:08:00 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715248593202 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Naive |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 19:04:11 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715252175871 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | землекоп антон |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, October 28, 2023 19:07:38 |
@@ -130,11 +130,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715252419448 |
-| Players | 1/8 |
-| Host Name | 0.95% to win |
+| Lobby ID | 28495715252478012 |
+| Players | 2/8 |
+| Host Name | ReSulfur |
 | Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 19:07:52 |
+| Lobby Creation Time | Saturday, October 28, 2023 19:07:55 |
 
 
 |  | epic_boss_fight_normal |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715242243549 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Sanic6666 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 18:57:59 |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715251372647 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | ✪SĦI₦Ę✪ |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, October 28, 2023 19:06:52 |
