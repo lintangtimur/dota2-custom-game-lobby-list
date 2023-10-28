@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28494258520843130 |
-| Players | 3/7 |
+| Players | 2/7 |
 | Host Name | Lt. Wade Jackson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 10:18:39 |
@@ -14,28 +14,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28494258521208440 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 10:19:20 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28494258520859070 |
-| Players | 8/15 |
-| Host Name | Mr.Bass |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 10:18:40 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28494258520194412 |
-| Players | 10/24 |
-| Host Name | Bonitos y gorditos hijos de puta |
+| Lobby ID | 28494258521980766 |
+| Players | 1/24 |
+| Host Name | Mike_To |
 | Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 10:17:26 |
+| Lobby Creation Time | Saturday, October 28, 2023 10:20:49 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28494258521637026 |
+| Players | 5/10 |
+| Host Name | Merl1n |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, October 28, 2023 10:20:09 |
 
 
 |  | ot3_gardens_duo |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258519862538 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | Nerfstyle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 10:16:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494258519883657 |
-| Players | 4/8 |
-| Host Name | Migaelss |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 10:16:51 |
+| Lobby ID | 28494258522012761 |
+| Players | 1/15 |
+| Host Name | В доме 8/16 |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, October 28, 2023 10:20:52 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494258521116755 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Carrying dogs |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 10:19:10 |
