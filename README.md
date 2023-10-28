@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715659781367 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | 青衣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 00:50:05 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 00:49:38 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715653048496 |
-| Players | 22/24 |
-| Host Name | котаныч |
-| Region | AUSTRIA |
-| Lobby Creation Time | Sunday, October 29, 2023 00:43:18 |
+| Lobby ID | 28495715661755850 |
+| Players | 2/10 |
+| Host Name | RANFA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 00:52:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715661496168 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Volt |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, October 29, 2023 00:51:50 |
@@ -112,29 +112,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715661563651 |
+| Lobby ID | 28495715661661983 |
 | Players | 2/15 |
 | Host Name | steam_govno_i_dota_toje |
 | Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 00:51:54 |
+| Lobby Creation Time | Sunday, October 29, 2023 00:52:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715661566919 |
+| Lobby ID | 28495715661663656 |
 | Players | 1/15 |
-| Host Name | финал с перчинкой |
+| Host Name | . |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 00:52:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715661752466 |
+| Players | 1/15 |
+| Host Name | TearAngel |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 00:51:55 |
+| Lobby Creation Time | Sunday, October 29, 2023 00:52:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495715653048496 |
+| Players | 23/24 |
+| Host Name | котаныч |
+| Region | AUSTRIA |
+| Lobby Creation Time | Sunday, October 29, 2023 00:43:18 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715661581350 |
-| Players | 2/10 |
-| Host Name | RANFA |
+| Lobby ID | 28495715661733475 |
+| Players | 1/10 |
+| Host Name | Chronic |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 00:51:56 |
+| Lobby Creation Time | Sunday, October 29, 2023 00:52:05 |
 
 
 |  | epic_boss_fight_nightmare |
