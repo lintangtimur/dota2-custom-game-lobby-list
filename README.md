@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258534139394 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | --ACM1PT-- |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 10:44:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494258535633244 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | DANICH |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, October 28, 2023 10:47:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258534225937 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | -Voxz- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 10:44:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258501651911 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 李沖 ZENONZARD |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, October 28, 2023 09:40:02 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494258534669848 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Nosferato |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 10:45:40 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258535058507 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | Mike_To |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 10:46:26 |
@@ -94,28 +94,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494258535756013 |
+| Lobby ID | 28494258535910566 |
 | Players | 1/8 |
-| Host Name | ТРЕНЕР NAVI 2011 |
+| Host Name | MALUBULUL |
 | Region | DUBAI |
-| Lobby Creation Time | Saturday, October 28, 2023 10:47:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28494258535804651 |
-| Players | 1/8 |
-| Host Name | pdhernadez20 |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 10:47:53 |
+| Lobby Creation Time | Saturday, October 28, 2023 10:48:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494258535806349 |
+| Lobby ID | 28494258535895424 |
 | Players | 2/15 |
-| Host Name | El Imayin |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, October 28, 2023 10:47:53 |
+| Host Name | pdhernadez20 |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, October 28, 2023 10:48:04 |
 
 
