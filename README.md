@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 19:37:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715334176668 |
-| Players | 4/8 |
-| Host Name | тону в омуте |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 20:18:11 |
+| Lobby ID | 28495715332943588 |
+| Players | 9/15 |
+| Host Name | MASTURBAMAN |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 20:17:12 |
 
 
 |  | ot3_gardens_duo |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715334004140 |
+| Lobby ID | 28495715335284224 |
 | Players | 1/15 |
-| Host Name | БОТ ИВАН |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 20:18:03 |
+| Host Name | Cypher |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 20:19:04 |
 
 
 |  | ot3_desert_octet |
@@ -110,40 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 20:12:27 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495715335042811 |
-| Players | 2/10 |
-| Host Name | ManneN |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 20:18:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495715332943588 |
-| Players | 7/15 |
-| Host Name | MASTURBAMAN |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 20:17:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495715334685618 |
-| Players | 1/15 |
-| Host Name | Cyrus |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 20:18:36 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715335026796 |
-| Players | 2/8 |
-| Host Name | DarkRanger |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, October 28, 2023 20:18:52 |
+| Lobby ID | 28495715335269113 |
+| Players | 1/8 |
+| Host Name | Малик |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, October 28, 2023 20:19:04 |
 
 
 |  | epic_boss_fight_challenger |
@@ -164,12 +137,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 20:18:34 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28495715335060849 |
-| Players | 2/7 |
-| Host Name | high eblanity |
+| Lobby ID | 28495715335112486 |
+| Players | 1/7 |
+| Host Name | GULMEN |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 20:18:54 |
+| Lobby Creation Time | Saturday, October 28, 2023 20:18:56 |
 
 
