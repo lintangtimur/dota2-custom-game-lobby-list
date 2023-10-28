@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715363386249 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | BOT#13 |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, October 28, 2023 20:41:14 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715347689645 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | bu-gor |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 20:28:58 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715329501361 |
+| Lobby ID | 28495715364679886 |
 | Players | 13/15 |
-| Host Name | ШАБОЛДА |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 20:14:27 |
+| Host Name | Cosmos |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, October 28, 2023 20:42:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -103,35 +103,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715364017561 |
-| Players | 6/8 |
-| Host Name | мазня говном |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 20:41:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495715364679886 |
-| Players | 7/15 |
-| Host Name | Cosmos |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 20:42:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28495715365431113 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Ṩaภ​d༒ᏦIng |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 20:42:49 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495715365722025 |
+| Players | 2/10 |
+| Host Name | 🍌 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 20:43:03 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715336652788 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Cyrus |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 20:20:10 |
