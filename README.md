@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715939044889 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | X |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, October 29, 2023 06:40:40 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715934643671 |
-| Players | 23/24 |
-| Host Name | murad |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 06:32:31 |
+| Lobby ID | 28495715939119351 |
+| Players | 1/10 |
+| Host Name | Marlin |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 06:40:48 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715938943657 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Elya |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, October 29, 2023 06:40:28 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715937968973 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | Perro chusco |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 06:38:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715938915646 |
-| Players | 2/10 |
-| Host Name | 前五 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 06:40:25 |
+| Lobby ID | 28495715938712522 |
+| Players | 14/15 |
+| Host Name | Okay |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 06:40:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,22 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 06:40:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495715938712522 |
-| Players | 14/15 |
-| Host Name | Okay |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 06:40:02 |
+| Lobby ID | 28495715939256199 |
+| Players | 1/24 |
+| Host Name | Samurai.FAIL |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 06:41:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715939119351 |
-| Players | 1/10 |
-| Host Name | Marlin |
+| Lobby ID | 28495715939262486 |
+| Players | 2/8 |
+| Host Name | 前五 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 06:40:48 |
+| Lobby Creation Time | Sunday, October 29, 2023 06:41:05 |
 
 
 |  | epic_boss_fight_normal |
