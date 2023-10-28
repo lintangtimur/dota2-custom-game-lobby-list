@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715010359484 |
-| Players | 2/10 |
+| Players | 9/10 |
 | Host Name | GEORGIY |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, October 28, 2023 14:24:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495715008136154 |
-| Players | 3/10 |
-| Host Name | Moises |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 14:21:17 |
+| Lobby ID | 28495715011217979 |
+| Players | 1/24 |
+| Host Name | 1 of 1 |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, October 28, 2023 14:25:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715010745628 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | monkey king |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, October 28, 2023 14:24:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715006145648 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 14:18:23 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495714999555900 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | DreamingDemon |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, October 28, 2023 14:12:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715010521414 |
-| Players | 1/24 |
-| Host Name | /////Alpine |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 14:24:40 |
+| Lobby ID | 28495715011195587 |
+| Players | 2/15 |
+| Host Name | Кисуня(^・ω・^ ) |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, October 28, 2023 14:25:36 |
 
 
 |  | ot3_desert_octet |
@@ -95,37 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715010458491 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Griefer Jesus |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 14:24:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495715010505594 |
-| Players | 1/15 |
-| Host Name | OtherView |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 14:24:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715010515568 |
-| Players | 3/8 |
-| Host Name | retrigwaves |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 14:24:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495715010779760 |
-| Players | 1/15 |
-| Host Name | MAMA |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, October 28, 2023 14:25:02 |
 
 
 |  | epic_boss_fight_normal |
