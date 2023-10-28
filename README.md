@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715244275850 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Kzr |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, October 28, 2023 18:59:56 |
@@ -38,58 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 18:46:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715126360813 |
-| Players | 1/15 |
-| Host Name | ZAMBO |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 16:50:31 |
+| Lobby ID | 28495715245662409 |
+| Players | 2/8 |
+| Host Name | mmr is useless |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 19:01:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715243569456 |
-| Players | 6/24 |
-| Host Name | mode: Topson |
+| Players | 5/24 |
+| Host Name | EM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 18:59:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715246207186 |
-| Players | 1/8 |
-| Host Name | ЕЩКЕРЕ |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 19:01:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495715246130419 |
-| Players | 6/15 |
-| Host Name | Пивной Сомелье |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 19:01:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495715245782850 |
-| Players | 1/10 |
-| Host Name | You're excused |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 19:01:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495715244696209 |
-| Players | 1/15 |
-| Host Name | Selim |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 19:00:23 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,22 +65,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 18:56:43 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715246130419 |
+| Players | 6/15 |
+| Host Name | BOT#13 |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, October 28, 2023 19:01:48 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715246292206 |
-| Players | 1/10 |
-| Host Name | Чifir4ik |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 19:01:57 |
+| Lobby ID | 28495715247106535 |
+| Players | 6/10 |
+| Host Name | L-A-K-E-R |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, October 28, 2023 19:02:45 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715245662409 |
-| Players | 2/8 |
-| Host Name | mmr is useless |
+| Lobby ID | 28495715246351866 |
+| Players | 5/8 |
+| Host Name | роналдилдо |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, October 28, 2023 19:02:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715232569704 |
+| Players | 14/15 |
+| Host Name | volodyaツ |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 18:48:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495715247268309 |
+| Players | 2/10 |
+| Host Name | mode: Topson |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 19:01:20 |
+| Lobby Creation Time | Saturday, October 28, 2023 19:02:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715242243549 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Sanic6666 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 18:57:59 |
@@ -149,9 +140,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28495715246133338 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | 4SV Mraz |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, October 28, 2023 19:01:48 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28495715246987440 |
+| Players | 4/7 |
+| Host Name | 1997 Honda Civic ツ |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, October 28, 2023 19:02:38 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28495715247276795 |
+| Players | 1/7 |
+| Host Name | Kazuha |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 19:02:55 |
 
 
