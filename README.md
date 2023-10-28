@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715363800267 |
-| Players | 5/10 |
-| Host Name | БеСпоЩADнЫ^^ |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, October 28, 2023 20:41:33 |
+| Lobby ID | 28495715364862897 |
+| Players | 4/8 |
+| Host Name | sanbek ishakovich |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, October 28, 2023 20:42:23 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715347193036 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | _____________ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 20:28:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715363386249 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | BOT#13 |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, October 28, 2023 20:41:14 |
@@ -65,37 +65,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 20:40:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715364100358 |
-| Players | 2/8 |
-| Host Name | Ratidars |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 20:41:47 |
+| Lobby ID | 28495715347689645 |
+| Players | 3/10 |
+| Host Name | bu-gor |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 20:28:58 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715364227151 |
-| Players | 2/15 |
-| Host Name | Пузожитель |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, October 28, 2023 20:41:53 |
+| Lobby ID | 28495715329501361 |
+| Players | 13/15 |
+| Host Name | ШАБОЛДА |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 20:14:27 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715359905776 |
-| Players | 12/24 |
-| Host Name | ฅ(^◕ᴥ◕^)ฅ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 20:38:31 |
+| Lobby ID | 28495715365364829 |
+| Players | 1/15 |
+| Host Name | Felaz |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 20:42:46 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715361083661 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | ФОРТАНУЛО ЕБАТЬ |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 20:39:27 |
@@ -104,19 +104,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715364017561 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | мазня говном |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, October 28, 2023 20:41:43 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715364243296 |
-| Players | 1/24 |
-| Host Name | MALWARe™ |
+| Lobby ID | 28495715364679886 |
+| Players | 7/15 |
+| Host Name | Cosmos |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 20:41:54 |
+| Lobby Creation Time | Saturday, October 28, 2023 20:42:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715365431113 |
+| Players | 1/8 |
+| Host Name | Ṩaภ​d༒ᏦIng |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 20:42:49 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,18 +140,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715363505485 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Trickby |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 20:41:19 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495715364266393 |
-| Players | 1/5 |
-| Host Name | 别来沾边 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 20:41:55 |
 
 
