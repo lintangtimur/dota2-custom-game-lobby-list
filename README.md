@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 14:47:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715037531490 |
-| Players | 1/8 |
-| Host Name | durak |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 14:58:18 |
+| Lobby ID | 28495715037950075 |
+| Players | 4/15 |
+| Host Name | RADIANCE ENJOYER |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, October 28, 2023 14:58:49 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715035434669 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Say my name |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 14:55:44 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715037950075 |
-| Players | 2/15 |
-| Host Name | RADIANCE ENJOYER |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 14:58:49 |
+| Lobby ID | 28495715038160593 |
+| Players | 1/15 |
+| Host Name | Dream |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 14:59:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715036573153 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | TriHard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 14:57:08 |
