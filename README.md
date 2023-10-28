@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715068869411 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Almond Butter Honey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 15:38:42 |
@@ -85,29 +85,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715070139133 |
+| Lobby ID | 28495715070584163 |
 | Players | 1/15 |
-| Host Name | ikun |
+| Host Name | Sacrificegodx |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 15:40:19 |
+| Lobby Creation Time | Saturday, October 28, 2023 15:40:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715070430311 |
-| Players | 7/8 |
-| Host Name | SmSw |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, October 28, 2023 15:40:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715070166778 |
-| Players | 2/8 |
-| Host Name | aomine daiki |
+| Lobby ID | 28495715070614804 |
+| Players | 6/15 |
+| Host Name | пушер |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 15:40:21 |
+| Lobby Creation Time | Saturday, October 28, 2023 15:40:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495715070650382 |
+| Players | 1/10 |
+| Host Name | хлеб |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 15:40:58 |
 
 
 |  | ot3_gardens_duo |
@@ -119,22 +119,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 15:40:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495715070552876 |
-| Players | 1/10 |
-| Host Name | хлеб |
+| Lobby ID | 28495715070628684 |
+| Players | 1/24 |
+| Host Name | 私めちゃくちゃなあな |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 15:40:51 |
+| Lobby Creation Time | Saturday, October 28, 2023 15:40:56 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715070584163 |
+| Lobby ID | 28495715070629669 |
 | Players | 1/15 |
-| Host Name | Sacrificegodx |
+| Host Name | Lala♥ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 15:40:53 |
+| Lobby Creation Time | Saturday, October 28, 2023 15:40:56 |
 
 
 |  | epic_boss_fight_normal |
