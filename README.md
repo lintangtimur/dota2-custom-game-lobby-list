@@ -4,15 +4,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28494258621096819 |
-| Players | 1/5 |
-| Host Name | 土豆大喵喵 |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 13:29:14 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
 | Lobby ID | 28494258621229014 |
 | Players | 1/5 |
 | Host Name | Soul? |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494258621147850 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | fogY |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, October 28, 2023 13:29:19 |
@@ -58,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494258620159904 |
+| Lobby ID | 28494258618993235 |
 | Players | 1/15 |
-| Host Name | SenorMouse |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 13:27:46 |
+| Host Name | $ SHADOW $ SKN:3 |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 13:25:55 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494258616941916 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Solowind |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 13:22:39 |
@@ -130,10 +121,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494258618993235 |
+| Lobby ID | 28494258621534715 |
 | Players | 1/15 |
-| Host Name | $ SHADOW $ SKN:3 |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 13:25:55 |
+| Host Name | maga.sultanmuradov |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 13:29:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494258621600905 |
+| Players | 1/15 |
+| Host Name | 100г героина |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 13:30:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28494258621609410 |
+| Players | 1/8 |
+| Host Name | dalot |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 13:30:03 |
 
 
