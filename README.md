@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715028739667 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | SubZero |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, October 28, 2023 14:47:34 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715023384145 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Пивная тяга |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, October 28, 2023 14:41:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715028081492 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 14:46:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715027436252 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Sweetie |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 14:45:57 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715028150829 |
-| Players | 1/8 |
-| Host Name | valleyrok |
+| Lobby ID | 28495715029048817 |
+| Players | 4/8 |
+| Host Name | Fajarr2169 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 14:46:50 |
+| Lobby Creation Time | Saturday, October 28, 2023 14:47:56 |
 
 
 |  | ot3_desert_octet |
@@ -83,19 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 14:47:49 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495715029006735 |
-| Players | 1/10 |
-| Host Name | †U.M.H |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, October 28, 2023 14:47:53 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715028341678 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | HarBonDioxide |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 14:47:04 |
