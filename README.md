@@ -5,34 +5,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28494258496814923 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | XVI |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, October 28, 2023 09:29:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494258501802747 |
-| Players | 9/10 |
-| Host Name | verstappen. |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 09:40:22 |
+| Lobby ID | 28494258501940081 |
+| Players | 2/8 |
+| Host Name | Lee Harvey Oswald fan |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, October 28, 2023 09:40:40 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494258501060415 |
-| Players | 11/15 |
-| Host Name | maria.alexandra |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 09:38:45 |
+| Lobby ID | 28494258502475446 |
+| Players | 3/15 |
+| Host Name | hi |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, October 28, 2023 09:41:50 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494258500276397 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, October 28, 2023 09:37:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258501651911 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | mr.dead |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, October 28, 2023 09:40:02 |
@@ -58,37 +58,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494258499993249 |
-| Players | 1/8 |
-| Host Name | thegoat |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, October 28, 2023 09:36:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28494258501104214 |
-| Players | 7/15 |
-| Host Name | d1 |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 09:38:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28494258501796849 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | Hopeful Men (GPRD) |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 09:40:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494258501940081 |
-| Players | 1/8 |
-| Host Name | Lee Harvey Oswald fan |
+| Lobby ID | 28494258501104214 |
+| Players | 14/15 |
+| Host Name | d1 |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 09:38:51 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28494258502404583 |
+| Players | 1/10 |
+| Host Name | Zenigata |
 | Region | DUBAI |
-| Lobby Creation Time | Saturday, October 28, 2023 09:40:40 |
+| Lobby Creation Time | Saturday, October 28, 2023 09:41:41 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28494258502419872 |
+| Players | 1/24 |
+| Host Name | Dash'God |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 09:41:43 |
 
 
