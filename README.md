@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 14:34:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715020123166 |
-| Players | 1/10 |
-| Host Name | ruined image |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, October 28, 2023 14:37:12 |
+| Lobby ID | 28495715020620034 |
+| Players | 1/8 |
+| Host Name | БОНДИД-Джамшут |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, October 28, 2023 14:37:48 |
 
 
 |  | ot3_necropolis_ffa |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715020446156 |
+| Lobby ID | 28495715020753086 |
 | Players | 1/8 |
-| Host Name | Воппер |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 14:37:35 |
+| Host Name | ruined image |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, October 28, 2023 14:37:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715020645933 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | W8TING FOR SEX |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, October 28, 2023 14:37:50 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715019914234 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 14:36:57 |
@@ -101,13 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 14:37:47 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715016684001 |
+| Players | 13/15 |
+| Host Name | king of fools |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, October 28, 2023 14:33:02 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715020620034 |
+| Lobby ID | 28495715020809350 |
 | Players | 1/8 |
-| Host Name | БОНДИД-Джамшут |
+| Host Name | Воппер |
 | Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 14:37:48 |
+| Lobby Creation Time | Saturday, October 28, 2023 14:38:02 |
 
 
 |  | epic_boss_fight_normal |
