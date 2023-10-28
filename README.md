@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715829911238 |
-| Players | 2/8 |
-| Host Name | Beyond Godlike |
+| Lobby ID | 28495715830009352 |
+| Players | 6/8 |
+| Host Name | чупик |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 03:54:51 |
+| Lobby Creation Time | Sunday, October 29, 2023 03:54:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715828932506 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | HuACheX.PuPpeY!* |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 03:53:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715829514367 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Gorgoroth Thunberg |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Sunday, October 29, 2023 03:54:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715828198312 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | humildad 0 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 03:52:47 |
@@ -119,29 +119,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 03:03:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715829498999 |
-| Players | 5/10 |
-| Host Name | extasy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 03:54:21 |
+| Lobby ID | 28495715829963096 |
+| Players | 1/8 |
+| Host Name | ratamanche xs- |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 03:54:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715813535072 |
-| Players | 12/15 |
-| Host Name | ² |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 03:36:04 |
+| Lobby ID | 28495715829000627 |
+| Players | 3/8 |
+| Host Name | Что? |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 03:53:45 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715826158231 |
-| Players | 5/8 |
-| Host Name | KySCYjgDAySBitch |
+| Players | 2/8 |
+| Host Name | Road to 1k |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 03:50:21 |
 
@@ -184,26 +184,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715829000627 |
-| Players | 3/8 |
-| Host Name | Что? |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 03:53:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715829906417 |
-| Players | 3/8 |
-| Host Name | Повелитель леса |
+| Lobby ID | 28495715830035065 |
+| Players | 1/8 |
+| Host Name | Drakoncoop |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 03:54:51 |
+| Lobby Creation Time | Sunday, October 29, 2023 03:55:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495715830084118 |
+| Players | 2/10 |
+| Host Name | worst of the worst |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 03:55:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715826341043 |
+| Players | 14/15 |
+| Host Name | @fuzegangbeatz |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, October 29, 2023 03:50:33 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715827656153 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | npocmodvp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 03:52:08 |
@@ -225,5 +234,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | zewsss |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Sunday, October 29, 2023 03:54:14 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495715830064543 |
+| Players | 1/5 |
+| Host Name | Agent Aerosmith |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 03:55:03 |
 
 
