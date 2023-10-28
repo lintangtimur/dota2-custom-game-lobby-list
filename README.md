@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715085409228 |
-| Players | 5/10 |
-| Host Name | Жека Потрашитель |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 15:59:39 |
+| Lobby ID | 28495715086458218 |
+| Players | 2/8 |
+| Host Name | Кукарача |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, October 28, 2023 16:00:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715086170325 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Malcroine |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 16:00:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715085016415 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | without MoM on pudge |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 15:59:10 |
@@ -108,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Occam's Tome of Knowledge |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 16:00:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495715086537801 |
+| Players | 2/10 |
+| Host Name | swap mid loser |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, October 28, 2023 16:01:04 |
 
 
 |  | epic_boss_fight_nightmare |
