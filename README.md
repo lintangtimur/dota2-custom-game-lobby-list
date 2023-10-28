@@ -11,31 +11,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 17:33:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715172114651 |
-| Players | 7/8 |
-| Host Name | Pupsik |
+| Lobby ID | 28495715172841363 |
+| Players | 2/10 |
+| Host Name | WILD HUNT |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 17:45:44 |
+| Lobby Creation Time | Saturday, October 28, 2023 17:46:33 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715169904115 |
-| Players | 3/15 |
-| Host Name | модератор |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, October 28, 2023 17:43:14 |
+| Lobby ID | 28495715172821616 |
+| Players | 5/15 |
+| Host Name | z[A]zeN |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 17:46:32 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715170288497 |
+| Lobby ID | 28495715173154687 |
 | Players | 2/8 |
-| Host Name | PUK |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 17:43:40 |
+| Host Name | ?LuCkY_F0R_EvER? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 17:46:55 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,37 +47,73 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 16:50:31 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495715172577824 |
+| Players | 3/24 |
+| Host Name | Lion el Messi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 17:46:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715173129056 |
+| Players | 1/15 |
+| Host Name | Mr. Lahey |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, October 28, 2023 17:46:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715173083369 |
+| Players | 1/8 |
+| Host Name | hahahehehoho |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 17:46:50 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715172082187 |
-| Players | 2/10 |
-| Host Name | Akashi |
+| Lobby ID | 28495715172464230 |
+| Players | 3/10 |
+| Host Name | Спасибо, что трахнул |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, October 28, 2023 17:46:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715172494078 |
+| Players | 1/15 |
+| Host Name | Mo0nHunter |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 17:45:42 |
+| Lobby Creation Time | Saturday, October 28, 2023 17:46:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715173119302 |
+| Players | 1/15 |
+| Host Name | Quanta- |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, October 28, 2023 17:46:52 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495715171899478 |
-| Players | 1/24 |
-| Host Name | 加油！ |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 17:45:29 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495715171087104 |
-| Players | 18/24 |
-| Host Name | can I pet dat dawg? |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 17:44:34 |
+| Lobby ID | 28495715172754619 |
+| Players | 2/24 |
+| Host Name | 云海 |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, October 28, 2023 17:46:27 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715171407851 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | 728Q |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 17:44:56 |
