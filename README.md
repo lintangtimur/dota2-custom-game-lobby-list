@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715100726372 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | абсолют топчик |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 16:18:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715099097874 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Winter Night |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 16:16:37 |
@@ -92,10 +92,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 16:17:57 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715100959755 |
+| Players | 1/8 |
+| Host Name | TeeNAl |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 16:18:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495715100974179 |
+| Players | 2/10 |
+| Host Name | ДИЗЕЛЬ В ЯЙЦАХ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, October 28, 2023 16:18:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495715101032949 |
+| Players | 1/24 |
+| Host Name | hatredforanime |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, October 28, 2023 16:19:02 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715097891374 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Ведерко |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, October 28, 2023 16:15:07 |
@@ -104,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715100679991 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | 3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 16:18:36 |
