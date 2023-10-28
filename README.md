@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715385578910 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | RON |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 20:58:15 |
@@ -67,20 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715387128578 |
-| Players | 1/15 |
-| Host Name | once alive |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 20:59:25 |
+| Lobby ID | 28495715387599178 |
+| Players | 3/15 |
+| Host Name | ƘƳƠƬƠ告 |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 20:59:47 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715387570740 |
-| Players | 8/10 |
-| Host Name | ManneN |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 20:59:45 |
+| Lobby ID | 28495715387820356 |
+| Players | 1/10 |
+| Host Name | Addt |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, October 28, 2023 20:59:57 |
 
 
 |  | ot3_desert_octet |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 20:59:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715384439681 |
-| Players | 5/8 |
-| Host Name | burst limit |
+| Lobby ID | 28495715384880699 |
+| Players | 14/15 |
+| Host Name | をobsessedを グѪtalentlessѪ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 20:57:23 |
+| Lobby Creation Time | Saturday, October 28, 2023 20:57:43 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715387421961 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | Kakas |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 20:59:39 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715382052487 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | AS.3h |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 20:55:33 |
@@ -166,47 +166,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715387730844 |
-| Players | 1/15 |
-| Host Name | финал с перчинкой |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 20:59:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495715387599178 |
-| Players | 3/15 |
-| Host Name | ƘƳƠƬƠ告 |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 20:59:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495715387765834 |
-| Players | 1/15 |
-| Host Name | extremely slay |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 20:59:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28495715387765902 |
-| Players | 1/15 |
+| Players | 9/15 |
 | Host Name | IZANAMI |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, October 28, 2023 20:59:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715383389513 |
-| Players | 14/15 |
-| Host Name | S |
+| Lobby ID | 28495715387979862 |
+| Players | 3/8 |
+| Host Name | Prostaandr |
 | Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 20:56:35 |
+| Lobby Creation Time | Saturday, October 28, 2023 21:00:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -254,12 +227,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 20:58:42 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495715387738033 |
-| Players | 1/5 |
-| Host Name | Diykan |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 20:59:53 |
+| Lobby ID | 28495715387817883 |
+| Players | 2/10 |
+| Host Name | 不狂菜狗子 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 20:59:57 |
 
 
