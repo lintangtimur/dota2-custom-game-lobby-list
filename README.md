@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 19:32:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715309708294 |
-| Players | 7/8 |
-| Host Name | outsider火 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, October 28, 2023 19:58:31 |
+| Lobby ID | 28495715310339826 |
+| Players | 2/10 |
+| Host Name | красный еблан |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, October 28, 2023 19:59:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715285054215 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | _________ |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, October 28, 2023 19:37:42 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715296262664 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | niWo |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 19:47:21 |
@@ -122,28 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715310093168 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Cypher |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 19:58:50 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495715310134046 |
-| Players | 2/10 |
-| Host Name | красный еблан |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 19:58:52 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495715309915785 |
+| Lobby ID | 28495715310393892 |
 | Players | 1/10 |
-| Host Name | Baron Afanas |
+| Host Name | Вовчик |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 19:58:41 |
+| Lobby Creation Time | Saturday, October 28, 2023 19:59:05 |
 
 
 |  | epic_boss_fight_hard |
@@ -158,18 +149,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715310086893 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 600 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 19:58:50 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28495715310143454 |
-| Players | 1/10 |
-| Host Name | Nature's Condiment |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 19:58:53 |
+| Lobby ID | 28495715310360543 |
+| Players | 1/7 |
+| Host Name | Baron Afanas |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, October 28, 2023 19:59:03 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495715310402321 |
+| Players | 1/5 |
+| Host Name | Быдло |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 19:59:05 |
 
 
