@@ -14,28 +14,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28494258613673315 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | PINK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 13:17:19 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28494258614594760 |
-| Players | 3/5 |
-| Host Name | ™(*AIC-GangBang*)™ |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 13:18:50 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28494258614616835 |
-| Players | 1/5 |
-| Host Name | cringe creator |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 13:18:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -76,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28494258612826005 |
-| Players | 23/24 |
-| Host Name | 先攻击这个嘲讽英雄 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 13:15:54 |
+| Lobby ID | 28494258614364409 |
+| Players | 1/24 |
+| Host Name | чикипибарум |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, October 28, 2023 13:18:27 |
 
 
 |  | ot3_desert_octet |
@@ -122,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494258614304653 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Blackout |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, October 28, 2023 13:18:21 |
@@ -137,21 +119,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 13:18:30 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28494258614364409 |
-| Players | 1/24 |
-| Host Name | чикипибарум |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, October 28, 2023 13:18:27 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494258614629153 |
+| Lobby ID | 28494258614730912 |
 | Players | 1/15 |
 | Host Name | Lucker |
 | Region | USWEST |
-| Lobby Creation Time | Saturday, October 28, 2023 13:18:53 |
+| Lobby Creation Time | Saturday, October 28, 2023 13:19:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28494258614715034 |
+| Players | 1/10 |
+| Host Name | Enough |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 13:19:01 |
 
 
