@@ -2,29 +2,20 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28494258528530275 |
-| Players | 8/10 |
-| Host Name | 3 |
+| Lobby ID | 28494258530134735 |
+| Players | 2/24 |
+| Host Name | < Blank > |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 10:33:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28494258529696777 |
-| Players | 1/15 |
-| Host Name | ya_ryadom l t.tv |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, October 28, 2023 10:35:56 |
+| Lobby Creation Time | Saturday, October 28, 2023 10:36:44 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258528885806 |
-| Players | 8/15 |
-| Host Name | ♁＊＊ SIA ＊＊ |
+| Players | 7/15 |
+| Host Name | ZonYH |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 10:34:21 |
 
@@ -47,39 +38,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 09:40:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28494258527304656 |
-| Players | 13/15 |
-| Host Name | Riku |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 10:31:15 |
+| Lobby ID | 28494258530011692 |
+| Players | 3/24 |
+| Host Name | Flare★ |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 10:36:31 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494258528712491 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Richi Rage |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 10:34:01 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28494258528875816 |
-| Players | 3/10 |
-| Host Name | She looks like starry sky |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 10:34:20 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494258529634343 |
-| Players | 1/8 |
+| Lobby ID | 28494258530119030 |
+| Players | 3/8 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 10:35:49 |
+| Lobby Creation Time | Saturday, October 28, 2023 10:36:43 |
 
 
