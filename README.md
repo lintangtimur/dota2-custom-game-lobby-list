@@ -23,19 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28494258597638268 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | alauvient |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 12:49:36 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28494258597691678 |
-| Players | 1/5 |
-| Host Name | IceBogart |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 12:49:43 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258595246854 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Noosekabob |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, October 28, 2023 12:44:45 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258596353925 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 12:46:59 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494258596917533 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Ichizu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, October 28, 2023 12:48:07 |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258597058778 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Si pickeas mrds fedeo |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 12:48:24 |
@@ -121,19 +112,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28494258597757266 |
-| Players | 1/24 |
-| Host Name | Gaben Naam Ka Kutta Paalu |
-| Region | DUBAI |
+| Lobby ID | 28494258597756071 |
+| Players | 2/24 |
+| Host Name | _(:з」∠)_ |
+| Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 12:49:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28494258597756071 |
+| Lobby ID | 28494258597804961 |
 | Players | 1/24 |
-| Host Name | _(:з」∠)_ |
+| Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 12:49:51 |
+| Lobby Creation Time | Saturday, October 28, 2023 12:49:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494258597855409 |
+| Players | 3/15 |
+| Host Name | Hatestreakkk |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, October 28, 2023 12:50:03 |
 
 
