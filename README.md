@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715812760781 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Hachiman |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 03:35:13 |
@@ -58,26 +58,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715808712475 |
-| Players | 2/10 |
-| Host Name | МИР |
+| Lobby ID | 28495715813247426 |
+| Players | 6/10 |
+| Host Name | deathrowclassics |
 | Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 03:30:22 |
+| Lobby Creation Time | Sunday, October 29, 2023 03:35:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715813081531 |
-| Players | 9/15 |
-| Host Name | 💀 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 03:35:34 |
+| Lobby ID | 28495715811448088 |
+| Players | 2/10 |
+| Host Name | Nothing |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 03:33:42 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715812868657 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Geegee |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 03:35:20 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715812751275 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | s k ∞ k a |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 03:35:12 |
@@ -135,33 +135,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ❧ƊЯƊЯ ₣₳₦₮₳❧ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 03:33:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495715811448088 |
-| Players | 4/10 |
-| Host Name | gRaFFuTy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 03:33:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495715813247426 |
-| Players | 2/10 |
-| Host Name | deathrowclassics |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 03:35:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495715813332044 |
-| Players | 1/10 |
-| Host Name | Hello Kitty <3 |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 03:35:51 |
 
 
 |  | epic_boss_fight_nightmare |
