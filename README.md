@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715226961816 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | laughter |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, October 28, 2023 18:43:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715126360813 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ZAMBO |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 16:50:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715222051852 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | UuduuZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 18:38:24 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715227611914 |
+| Lobby ID | 28495715227487269 |
 | Players | 1/15 |
-| Host Name | Личность |
+| Host Name | NANANAasd |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 18:43:52 |
+| Lobby Creation Time | Saturday, October 28, 2023 18:43:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715227487269 |
+| Lobby ID | 28495715227778576 |
 | Players | 1/15 |
-| Host Name | NANANAasd |
+| Host Name | Личность |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 18:43:44 |
+| Lobby Creation Time | Saturday, October 28, 2023 18:44:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715226639032 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | TrX. Aki¤€.Fear |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 18:42:55 |
