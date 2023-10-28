@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715799533323 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | BUTTERS S. |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 03:19:19 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715785828733 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | -BRYVN- |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 03:03:02 |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 03:24:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715803054969 |
-| Players | 5/10 |
-| Host Name | Singular |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 03:23:34 |
+| Lobby ID | 28495715804242839 |
+| Players | 6/8 |
+| Host Name | :) |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, October 29, 2023 03:24:59 |
 
 
 |  | ot3_gardens_duo |
@@ -137,31 +137,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 03:24:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715801802081 |
-| Players | 1/8 |
-| Host Name | ладно |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 03:22:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495715803873037 |
-| Players | 14/15 |
-| Host Name | Solo Leveling |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 03:24:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715798174614 |
-| Players | 6/8 |
-| Host Name | Wanderlust |
+| Lobby ID | 28495715803880670 |
+| Players | 7/10 |
+| Host Name | The geese' Goose #FL1XA |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 03:17:39 |
+| Lobby Creation Time | Sunday, October 29, 2023 03:24:33 |
 
 
 |  | ot3_jungle_quintet |
@@ -173,13 +155,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 03:04:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715803880670 |
-| Players | 3/10 |
-| Host Name | The geese' Goose #FL1XA |
+| Lobby ID | 28495715798174614 |
+| Players | 6/8 |
+| Host Name | Wanderlust |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 03:24:33 |
+| Lobby Creation Time | Sunday, October 29, 2023 03:17:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715804190333 |
+| Players | 5/8 |
+| Host Name | 伸筋 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 03:24:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -194,27 +185,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715802201893 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Takoseak |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 03:22:32 |
 
 
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28495715804319203 |
+| Players | 2/7 |
+| Host Name | Not So Fast |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, October 29, 2023 03:25:05 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28495715804082576 |
+| Lobby ID | 28495715804295077 |
 | Players | 1/5 |
-| Host Name | bfugo |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 03:24:48 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495715804159788 |
-| Players | 1/10 |
-| Host Name | 88 |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 03:24:53 |
+| Host Name | crying on the place |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 03:25:03 |
 
 
