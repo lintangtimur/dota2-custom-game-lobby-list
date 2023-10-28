@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258553886229 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Murble |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, October 28, 2023 11:25:43 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258558717525 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 11:35:29 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494258559948977 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Ҝιώi𝕀c𝐜ʰｏ  ☯ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 11:37:59 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258559610760 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | GoDk1nG穿主流 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 11:37:17 |
@@ -95,36 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494258560182057 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | cara con sombrero de vaquero... |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 11:38:28 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28494258558267321 |
-| Players | 7/8 |
-| Host Name | Жеча |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 11:34:34 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494258558120308 |
-| Players | 14/15 |
-| Host Name | SenorMouse |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 11:34:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28494258560380024 |
-| Players | 2/15 |
-| Host Name | ₭۞ђ ☯ ҜÆ |
+| Lobby ID | 28494258560407856 |
+| Players | 1/15 |
+| Host Name | 风梨QAQ |
 | Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 11:38:53 |
+| Lobby Creation Time | Saturday, October 28, 2023 11:38:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28494258560454481 |
+| Players | 6/10 |
+| Host Name | REGALON DE CELARES |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 11:39:02 |
 
 
