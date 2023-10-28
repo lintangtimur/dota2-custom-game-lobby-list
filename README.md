@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715024352427 |
-| Players | 2/15 |
-| Host Name | ??????? |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 14:42:17 |
+| Lobby ID | 28495715027850018 |
+| Players | 2/8 |
+| Host Name | это я |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 14:46:27 |
 
 
 |  | ot3_jungle_quintet |
@@ -20,129 +20,75 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 14:41:22 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715027151373 |
-| Players | 5/8 |
-| Host Name | мазня говном |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 14:45:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495715023384145 |
-| Players | 10/15 |
-| Host Name | [LoveEz25]KaSSpEr |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, October 28, 2023 14:41:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495715026928407 |
-| Players | 1/15 |
-| Host Name | Dangrei |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 14:45:20 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495715020605670 |
-| Players | 9/24 |
-| Host Name | pwnies |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, October 28, 2023 14:37:47 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495715025035956 |
-| Players | 22/24 |
-| Host Name | ryan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 14:43:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495715026603904 |
-| Players | 1/15 |
-| Host Name | Cocaqueen |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 14:44:56 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715019914234 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 14:36:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715026477374 |
-| Players | 2/8 |
-| Host Name | Gabenchik_Huilo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 14:44:47 |
+| Lobby ID | 28495715023384145 |
+| Players | 7/15 |
+| Host Name | [LoveEz25]KaSSpEr |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, October 28, 2023 14:41:08 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715027101423 |
-| Players | 7/10 |
-| Host Name | Griefer Jesus |
+| Lobby ID | 28495715028081492 |
+| Players | 4/10 |
+| Host Name | Moises |
 | Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 14:45:33 |
+| Lobby Creation Time | Saturday, October 28, 2023 14:46:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495715027129301 |
-| Players | 1/15 |
-| Host Name | Palestine is`a Terrorist country |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, October 28, 2023 14:45:35 |
+| Lobby ID | 28495715020605670 |
+| Players | 8/24 |
+| Host Name | pwnies |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, October 28, 2023 14:37:47 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715027436252 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Anton.V |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 14:45:57 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715025110930 |
-| Players | 8/10 |
-| Host Name | QUADMIRE |
+| Lobby ID | 28495715028150829 |
+| Players | 1/8 |
+| Host Name | valleyrok |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 14:43:10 |
+| Lobby Creation Time | Saturday, October 28, 2023 14:46:50 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715027488174 |
-| Players | 1/5 |
-| Host Name | ΤΓΦ.クロネコ |
+| Lobby ID | 28495715028098532 |
+| Players | 1/8 |
+| Host Name | princ****kwiny<3 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 14:46:01 |
+| Lobby Creation Time | Saturday, October 28, 2023 14:46:46 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715027061852 |
-| Players | 1/5 |
-| Host Name | BAN |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 14:45:30 |
+| Lobby ID | 28495715028192740 |
+| Players | 3/8 |
+| Host Name | Olliepommy |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, October 28, 2023 14:46:53 |
 
 
