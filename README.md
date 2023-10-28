@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28494258597105683 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Wkap |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 12:48:30 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258600008517 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Nietono No Shana |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 12:54:18 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494258600268684 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | sdhij9okpmara15 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 12:54:50 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494258601039040 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | headswillroll#_# |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, October 28, 2023 12:56:22 |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | $ SHADOW $ SKN:3 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 12:56:26 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28494258601425586 |
+| Players | 1/24 |
+| Host Name | UmStar |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 12:57:07 |
 
 
