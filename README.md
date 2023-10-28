@@ -22,18 +22,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715131308564 |
-| Players | 1/15 |
-| Host Name | .#confuse |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 16:56:42 |
+| Lobby ID | 28495715131953020 |
+| Players | 2/15 |
+| Host Name | IQ |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 16:57:30 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715131151656 |
-| Players | 5/24 |
-| Host Name | Оргазм_Ебушки |
+| Players | 7/24 |
+| Host Name | ƬΛIᒪΣDΛΛƧIMΛЯ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 16:56:30 |
 
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715131201815 |
-| Players | 12/15 |
-| Host Name | Θεμιστοκλή |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 16:56:34 |
+| Lobby ID | 28495715132220469 |
+| Players | 5/15 |
+| Host Name | Roosevelt |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, October 28, 2023 16:57:51 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715129131494 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 16:53:59 |
@@ -92,31 +92,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 16:55:07 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715130592471 |
-| Players | 7/8 |
-| Host Name | average women avoider |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 16:55:48 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715130767033 |
-| Players | 5/10 |
-| Host Name | GEORGIY |
+| Lobby ID | 28495715131955838 |
+| Players | 1/10 |
+| Host Name | samurai |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, October 28, 2023 16:57:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715131815468 |
+| Players | 3/8 |
+| Host Name | Bailando |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 16:56:01 |
+| Lobby Creation Time | Saturday, October 28, 2023 16:57:20 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715131006974 |
+| Lobby ID | 28495715131971033 |
 | Players | 1/15 |
-| Host Name | finnkawow |
+| Host Name | WTF&!о_О |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 16:57:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715131864884 |
+| Players | 1/8 |
+| Host Name | вбиваю орків |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 16:56:19 |
+| Lobby Creation Time | Saturday, October 28, 2023 16:57:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715131901445 |
+| Players | 3/8 |
+| Host Name | Подливслав |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 16:57:26 |
 
 
 |  | epic_boss_fight_normal |
@@ -128,21 +146,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 16:53:28 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28495715130334980 |
-| Players | 7/10 |
-| Host Name | Solo Dr. Zola |
+| Lobby ID | 28495715132308093 |
+| Players | 2/5 |
+| Host Name | astronaftignat |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 16:55:29 |
+| Lobby Creation Time | Saturday, October 28, 2023 16:57:57 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28495715131573194 |
+| Lobby ID | 28495715132306048 |
 | Players | 1/5 |
-| Host Name | МИРАКЛ (прайм) |
+| Host Name | Блекхол в бабку |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 16:57:02 |
+| Lobby Creation Time | Saturday, October 28, 2023 16:57:57 |
 
 
