@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715384294496 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Apostle Collapse |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 20:57:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715285054215 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | † Omega-Black † |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, October 28, 2023 19:37:42 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715384703816 |
-| Players | 6/8 |
-| Host Name | Jmaster210 |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 20:57:35 |
+| Lobby ID | 28495715383910255 |
+| Players | 5/8 |
+| Host Name | Trishtam |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, October 28, 2023 20:56:59 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715379688149 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | trash teammate |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 20:53:46 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715384880699 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | азлагор |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 20:57:43 |
@@ -182,19 +182,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 20:57:51 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715385099297 |
-| Players | 2/8 |
-| Host Name | Колю чурок |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, October 28, 2023 20:57:53 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715384968019 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | GONE DONE |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, October 28, 2023 20:57:47 |
