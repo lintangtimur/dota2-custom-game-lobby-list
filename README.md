@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715499196180 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Afghanistan |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, October 28, 2023 22:24:32 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715498692721 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | arsen_govnoed |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 22:24:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715498437337 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | too late |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 22:23:57 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715499597137 |
-| Players | 3/15 |
-| Host Name | wbtbfum?:)viperr |
+| Players | 1/15 |
+| Host Name | Lula de Predeiro |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 22:24:51 |
 
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715499010572 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | era |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 22:24:24 |
@@ -139,20 +139,74 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715499689266 |
-| Players | 1/15 |
-| Host Name | Опять смена |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, October 28, 2023 22:24:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28495715499711680 |
 | Players | 1/15 |
 | Host Name | Любимый |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, October 28, 2023 22:24:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495715499760899 |
+| Players | 2/10 |
+| Host Name | ZXC 1007 40AVG |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, October 28, 2023 22:24:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715499763507 |
+| Players | 1/15 |
+| Host Name | QT |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, October 28, 2023 22:24:59 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495715482591273 |
+| Players | 23/24 |
+| Host Name | TTT |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, October 28, 2023 22:11:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715499825056 |
+| Players | 6/8 |
+| Host Name | Quinn gg wp mq |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, October 28, 2023 22:25:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715499907078 |
+| Players | 1/15 |
+| Host Name | Original ZALUP[A] |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, October 28, 2023 22:25:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715499945328 |
+| Players | 1/15 |
+| Host Name | thriller. |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, October 28, 2023 22:25:07 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495715499977655 |
+| Players | 1/24 |
+| Host Name | MJay |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, October 28, 2023 22:25:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -173,21 +227,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 22:15:47 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495715495604070 |
-| Players | 1/5 |
-| Host Name | WraithReaper |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 22:21:41 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495715499708868 |
-| Players | 1/10 |
+| Lobby ID | 28495715499900037 |
+| Players | 2/10 |
 | Host Name | HambacherPanda |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, October 28, 2023 22:24:56 |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, October 28, 2023 22:25:05 |
 
 
