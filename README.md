@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715128749144 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | ♠Korrigan♠ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 16:53:30 |
@@ -95,10 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715130592471 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | average women avoider |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 16:55:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495715130767033 |
+| Players | 2/10 |
+| Host Name | GEORGIY |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 16:56:01 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,9 +131,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715130334980 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Solo Dr. Zola |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 16:55:29 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28495715130814797 |
+| Players | 1/7 |
+| Host Name | :) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 16:56:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495715130821555 |
+| Players | 1/5 |
+| Host Name | YATOGOROT |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, October 28, 2023 16:56:05 |
 
 
