@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715208714620 |
-| Players | 6/8 |
-| Host Name | charka025 |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 18:25:04 |
+| Lobby ID | 28495715211881935 |
+| Players | 9/10 |
+| Host Name | 346515 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 18:28:17 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715210199567 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | yakiro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 18:26:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715203198263 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, October 28, 2023 18:19:24 |
@@ -56,55 +56,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 18:28:03 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495715211452073 |
-| Players | 2/10 |
-| Host Name | Члены? Да! |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 18:27:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495715211881935 |
-| Players | 1/10 |
-| Host Name | 346515 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 18:28:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495715212597202 |
-| Players | 1/15 |
-| Host Name | BIZON |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 18:29:00 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495715209977957 |
-| Players | 21/24 |
-| Host Name | Rick & Clancy |
+| Lobby ID | 28495715212980780 |
+| Players | 2/24 |
+| Host Name | yuyu |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 18:26:21 |
+| Lobby Creation Time | Saturday, October 28, 2023 18:29:24 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495715209997648 |
+| Players | 6/10 |
+| Host Name | StillImmortal |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 18:26:22 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715212521863 |
+| Lobby ID | 28495715213022578 |
 | Players | 1/15 |
-| Host Name | Я нефр |
+| Host Name | Без опыта , но очень порядочный |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 18:28:56 |
+| Lobby Creation Time | Saturday, October 28, 2023 18:29:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715213363005 |
+| Players | 6/15 |
+| Host Name | Slayerds |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, October 28, 2023 18:29:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495715213410397 |
+| Players | 1/10 |
+| Host Name | шкекер |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 18:29:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715213068896 |
+| Players | 11/15 |
+| Host Name | langir |
+| Region | AUSTRIA |
+| Lobby Creation Time | Saturday, October 28, 2023 18:29:29 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715209818589 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Emilia (noobs not wellcome) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 18:26:11 |
@@ -140,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715212444141 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | zxcdown |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, October 28, 2023 18:28:51 |
@@ -148,10 +157,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28495715212543212 |
-| Players | 1/5 |
-| Host Name | Lavinous |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 18:28:57 |
+| Lobby ID | 28495715213496985 |
+| Players | 2/5 |
+| Host Name | чемпик |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, October 28, 2023 18:29:55 |
 
 
