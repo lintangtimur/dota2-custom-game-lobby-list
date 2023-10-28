@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495715112924889 |
-| Players | 19/24 |
-| Host Name | Asam Garam |
+| Lobby ID | 28495715115739701 |
+| Players | 1/24 |
+| Host Name | monkey king |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 16:33:44 |
+| Lobby Creation Time | Saturday, October 28, 2023 16:37:13 |
 
 
 |  | ot3_gardens_duo |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715110321435 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | мяу |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 16:30:32 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715112417821 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | Occam's Tome of Knowledge |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 16:33:07 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715113090645 |
-| Players | 1/24 |
-| Host Name | 蓝胖舌吻双头龙 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 16:33:57 |
+| Lobby ID | 28495715116223151 |
+| Players | 1/8 |
+| Host Name | water dance |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, October 28, 2023 16:37:49 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 16:29:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715114581035 |
-| Players | 4/15 |
-| Host Name | vier |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 16:35:47 |
+| Lobby ID | 28495715115911048 |
+| Players | 4/10 |
+| Host Name | Кто ты воин ? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 16:37:26 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715114386030 |
-| Players | 4/24 |
+| Players | 12/24 |
 | Host Name | Nimbuzz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 16:35:32 |
@@ -85,20 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715115472990 |
-| Players | 1/8 |
-| Host Name | dund |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, October 28, 2023 16:36:53 |
+| Lobby ID | 28495715116091660 |
+| Players | 4/8 |
+| Host Name | pkl0l |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 16:37:39 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715115415111 |
-| Players | 2/8 |
-| Host Name | tati |
+| Lobby ID | 28495715115543189 |
+| Players | 1/8 |
+| Host Name | Leon_nova_ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 16:36:49 |
+| Lobby Creation Time | Saturday, October 28, 2023 16:36:59 |
 
 
 |  | epic_boss_fight_normal |
@@ -110,24 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 16:35:53 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495715115177427 |
-| Players | 1/5 |
-| Host Name | Boroda4 Live |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 16:36:31 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495715115217035 |
-| Players | 2/10 |
-| Host Name | Can i Offlane (Chinese language) |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 16:36:34 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715115307531 |
@@ -135,5 +117,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ✪ Janči |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 16:36:41 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495715115217035 |
+| Players | 3/10 |
+| Host Name | Can i Offlane (Chinese language) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 16:36:34 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28495715116017650 |
+| Players | 1/7 |
+| Host Name | Fran____ |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 16:37:34 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495715116252511 |
+| Players | 1/5 |
+| Host Name | Древний Рус |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, October 28, 2023 16:37:52 |
 
 
