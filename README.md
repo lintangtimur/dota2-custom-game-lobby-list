@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715905661415 |
-| Players | 8/8 |
-| Host Name | Глубокослав |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 05:42:13 |
+| Lobby ID | 28495715906699275 |
+| Players | 1/15 |
+| Host Name | Hippie |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, October 29, 2023 05:43:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715906631079 |
-| Players | 1/10 |
-| Host Name | woman=retarded |
+| Lobby ID | 28495715906733625 |
+| Players | 2/10 |
+| Host Name | Кик Бутовски |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 05:43:48 |
+| Lobby Creation Time | Sunday, October 29, 2023 05:43:59 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715900863303 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | гнилой |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 05:34:22 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715905331830 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | CyborgPenguin |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 05:41:40 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715906168366 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 05:43:03 |
@@ -148,20 +148,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715906691818 |
+| Lobby ID | 28495715906794576 |
 | Players | 1/15 |
 | Host Name | Gidrexx |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 05:43:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495715906699275 |
-| Players | 1/15 |
-| Host Name | Hippie |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, October 29, 2023 05:43:55 |
+| Lobby Creation Time | Sunday, October 29, 2023 05:44:05 |
 
 
 |  | epic_boss_fight_normal |
