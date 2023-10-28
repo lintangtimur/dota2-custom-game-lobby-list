@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715285054215 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | † Omega-Black † |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, October 28, 2023 19:37:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715395191438 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | [K][N] |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, October 28, 2023 21:05:44 |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 21:20:32 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715417433491 |
-| Players | 20/24 |
-| Host Name | Dumb Cat |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 21:22:54 |
+| Lobby ID | 28495715418767048 |
+| Players | 1/8 |
+| Host Name | Jivchik |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 21:23:55 |
 
 
 |  | ot3_jungle_quintet |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715418375293 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | Afghanistan |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 21:23:37 |
@@ -167,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715418453256 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | NEeshkereee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 21:23:41 |
@@ -198,6 +198,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 999 ways to waste your self |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 21:23:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715418715184 |
+| Players | 1/8 |
+| Host Name | moryaz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 21:23:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715418808174 |
+| Players | 1/8 |
+| Host Name | твой черный отец |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 21:23:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495715418845579 |
+| Players | 3/24 |
+| Host Name | Veenix |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 21:23:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715418884923 |
+| Players | 1/8 |
+| Host Name | gluk |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, October 28, 2023 21:24:00 |
 
 
 |  | epic_boss_fight_nightmare |
