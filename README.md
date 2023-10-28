@@ -11,19 +11,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 10:18:39 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28494258521208440 |
-| Players | 9/10 |
-| Host Name | Raiden Ei |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 10:19:20 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258521980766 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | dk-vm |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 10:20:49 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258522554871 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Joe Sniff |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, October 28, 2023 10:21:55 |
@@ -56,30 +47,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 09:40:02 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28494258522975681 |
-| Players | 1/15 |
-| Host Name | 10 |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 10:22:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28494258523077989 |
-| Players | 1/15 |
-| Host Name | В доме 8/16 |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 10:22:56 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28494258523061364 |
-| Players | 1/24 |
-| Host Name | Williusaur |
+| Lobby ID | 28494258523109363 |
+| Players | 6/24 |
+| Host Name | KhaNN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, October 28, 2023 10:22:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494258523108738 |
+| Players | 8/15 |
+| Host Name | KaWka |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 10:22:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28494258523144897 |
+| Players | 1/8 |
+| Host Name | Algebra Esencial |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 10:23:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28494258523180616 |
+| Players | 1/8 |
+| Host Name | * |
 | Region | DUBAI |
-| Lobby Creation Time | Saturday, October 28, 2023 10:22:54 |
+| Lobby Creation Time | Saturday, October 28, 2023 10:23:07 |
 
 
