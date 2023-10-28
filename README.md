@@ -2,19 +2,10 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28494258503167941 |
-| Players | 4/10 |
-| Host Name | breakdown |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 09:43:21 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258502574700 |
-| Players | 8/15 |
+| Players | 6/15 |
 | Host Name | Chemodan |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, October 28, 2023 09:42:04 |
@@ -50,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258500693755 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | atz- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 09:37:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494258502419872 |
-| Players | 23/24 |
-| Host Name | Dash'God |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 09:41:43 |
+| Lobby ID | 28494258503498245 |
+| Players | 7/10 |
+| Host Name | brrrbItva |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 09:44:04 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494258503295445 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | BTW psychopath❄ |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 09:43:37 |
@@ -86,18 +77,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258503415431 |
-| Players | 4/15 |
+| Players | 11/15 |
 | Host Name | Mr-ATLAS |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 09:43:53 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28494258503631314 |
+| Players | 1/8 |
+| Host Name | LLTRA |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 09:44:21 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494258503450995 |
-| Players | 2/15 |
+| Lobby ID | 28494258503636164 |
+| Players | 7/15 |
 | Host Name | Южный Урал |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 09:43:57 |
+| Lobby Creation Time | Saturday, October 28, 2023 09:44:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28494258503766028 |
+| Players | 2/10 |
+| Host Name | Lone_Marshal |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 09:44:39 |
 
 
