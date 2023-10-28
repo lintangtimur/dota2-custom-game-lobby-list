@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715134720412 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Evol |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 17:01:04 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715136456855 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | skewy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 17:03:17 |
@@ -103,20 +103,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715136838715 |
+| Lobby ID | 28495715137033183 |
 | Players | 1/15 |
-| Host Name | VsegoHoroshego |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 17:03:46 |
+| Host Name | kTo TaKou' |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 17:04:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715137047617 |
+| Players | 2/8 |
+| Host Name | XELIon |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, October 28, 2023 17:04:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715136970501 |
+| Lobby ID | 28495715137106275 |
 | Players | 1/15 |
-| Host Name | ×iFLYP× |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 17:03:56 |
+| Host Name | FeederEater |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, October 28, 2023 17:04:06 |
 
 
 |  | epic_boss_fight_hard |
@@ -135,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | lupanamaingatrasa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 17:03:31 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28495715137013621 |
+| Players | 1/7 |
+| Host Name | 土怪 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 17:03:59 |
 
 
