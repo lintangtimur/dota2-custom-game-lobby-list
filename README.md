@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715653558964 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | zxcлопата |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 00:43:48 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715645272900 |
-| Players | 9/15 |
-| Host Name | Бобёр(социалист) |
+| Players | 5/15 |
+| Host Name | [PDPVS] Royal Gosling#bloodrust |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 00:35:31 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715644917661 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Geegee |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 00:35:09 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715638713968 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | AndreXD |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 00:29:03 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715653458803 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Joris |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, October 29, 2023 00:43:42 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715653413055 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | 홍은채) 내 동료가 돼라 홍은채) 물고기 캠 |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Sunday, October 29, 2023 00:43:40 |
@@ -155,10 +155,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 00:43:51 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715653290603 |
+| Players | 2/15 |
+| Host Name | kirilium |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 00:43:32 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715650262638 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Garp eatin a Donut |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 00:40:31 |
