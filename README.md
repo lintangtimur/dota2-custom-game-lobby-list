@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 12:48:30 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494258597085962 |
-| Players | 1/24 |
-| Host Name | Wolfenbolt |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 12:48:28 |
+| Lobby ID | 28494258598571917 |
+| Players | 3/10 |
+| Host Name | Blackout |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, October 28, 2023 12:51:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,69 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 11:42:25 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28494258595394279 |
-| Players | 7/8 |
-| Host Name | MODE PIPI ON </3 |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 12:45:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28494258595246854 |
-| Players | 13/15 |
-| Host Name | Noosekabob |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, October 28, 2023 12:44:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28494258597855409 |
-| Players | 7/15 |
-| Host Name | Hatestreakkk |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, October 28, 2023 12:50:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28494258596353925 |
-| Players | 6/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 12:46:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28494258596917533 |
-| Players | 7/8 |
-| Host Name | Ichizu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, October 28, 2023 12:48:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28494258597058778 |
-| Players | 12/24 |
-| Host Name | Si pickeas mrds fedeo |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 12:48:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28494258597756071 |
-| Players | 7/24 |
-| Host Name | _(:з」∠)_ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 12:49:51 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258597804961 |
@@ -121,10 +58,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494258598295384 |
+| Lobby ID | 28494258597452897 |
 | Players | 2/10 |
-| Host Name | Motyash |
+| Host Name | Untalented~ |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 12:49:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494258597855409 |
+| Players | 11/15 |
+| Host Name | Hatestreakkk |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, October 28, 2023 12:50:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494258596353925 |
+| Players | 3/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 12:46:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28494258598720073 |
+| Players | 7/8 |
+| Host Name | VOLVO DE MRDA |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 12:51:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28494258597058778 |
+| Players | 16/24 |
+| Host Name | Kokodrile |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 12:48:24 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28494258597756071 |
+| Players | 8/24 |
+| Host Name | _(:з」∠)_ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 12:50:58 |
+| Lobby Creation Time | Saturday, October 28, 2023 12:49:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28494258598661101 |
+| Players | 2/8 |
+| Host Name | RODRIGO |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 12:51:40 |
 
 
