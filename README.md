@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715661805009 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | merLO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 00:52:09 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715662174285 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Gikayou |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 00:52:32 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715660956392 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Fox |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 00:51:17 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715661661983 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | steam_govno_i_dota_toje |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 00:52:00 |
@@ -167,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715662461464 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Super八哥 |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, October 29, 2023 00:52:49 |
@@ -176,10 +176,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715662489954 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | САНСАНЫЧ |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 00:52:51 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715662547980 |
+| Players | 1/15 |
+| Host Name | Доктор Ливси |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 00:52:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495715662560652 |
+| Players | 4/10 |
+| Host Name | Расхититель блуд |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 00:52:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495715644924699 |
+| Players | 8/10 |
+| Host Name | Sanya-_-SaharoK |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 00:35:10 |
 
 
 |  | epic_boss_fight_nightmare |
