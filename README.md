@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 06:08:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715925413524 |
-| Players | 3/8 |
-| Host Name | giordota.com |
+| Lobby ID | 28495715925645183 |
+| Players | 1/10 |
+| Host Name | Muy Malo |
 | Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 06:16:21 |
+| Lobby Creation Time | Sunday, October 29, 2023 06:16:47 |
 
 
 |  | ot3_gardens_duo |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715900431773 |
-| Players | 1/10 |
-| Host Name | Uchiha Itachi |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 05:33:41 |
+| Lobby ID | 28495715925798168 |
+| Players | 2/10 |
+| Host Name | L4ever |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 06:17:03 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715924307025 |
-| Players | 8/10 |
-| Host Name | 13.GuB |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 06:14:23 |
+| Lobby ID | 28495715925664807 |
+| Players | 7/15 |
+| Host Name | Good2cu |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 06:16:49 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715925356784 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | paraphrosýnē |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, October 29, 2023 06:16:15 |
@@ -113,35 +113,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715925692477 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Стейк |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 06:16:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495715925645183 |
-| Players | 1/10 |
-| Host Name | Muy Malo |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 06:16:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495715925664807 |
-| Players | 3/15 |
-| Host Name | Good2cu |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 06:16:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715925697367 |
-| Players | 3/8 |
-| Host Name | Josei-ki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 06:16:52 |
 
