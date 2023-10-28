@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715621306728 |
-| Players | 2/15 |
-| Host Name | Ybuvator |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 00:12:45 |
+| Lobby ID | 28495715622541188 |
+| Players | 8/15 |
+| Host Name | Bueno |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, October 29, 2023 00:13:53 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715614830638 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Bonitos y gorditos hijos de puta |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 00:06:44 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 00:13:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715621938854 |
-| Players | 1/15 |
-| Host Name | Moment!!??Av |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 00:13:20 |
+| Lobby ID | 28495715620663948 |
+| Players | 8/10 |
+| Host Name | Упал, отжался! |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, October 29, 2023 00:12:09 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715618983988 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | LilaLouSi@rkardo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 00:10:35 |
@@ -110,22 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 00:12:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495715622306823 |
-| Players | 12/15 |
-| Host Name | K8t |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, October 29, 2023 00:13:40 |
+| Lobby ID | 28495715606917081 |
+| Players | 23/24 |
+| Host Name | ™Slim Shady® |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, October 28, 2023 23:59:19 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715621843891 |
-| Players | 2/8 |
-| Host Name | Super八哥 |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, October 29, 2023 00:13:15 |
+| Lobby ID | 28495715622689654 |
+| Players | 1/8 |
+| Host Name | shigetsuga |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 00:14:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715621881408 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | Waxillium |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 00:13:17 |
@@ -167,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715622399564 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | real mega punk |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 00:13:45 |
@@ -200,6 +200,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 00:13:53 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495715622706323 |
+| Players | 2/10 |
+| Host Name | Fantasma_ |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, October 29, 2023 00:14:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715621682052 |
+| Players | 14/15 |
+| Host Name | Tishka |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, October 29, 2023 00:13:06 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28495715616649035 |
@@ -212,7 +230,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715618853293 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | GreShnik |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 00:10:28 |
