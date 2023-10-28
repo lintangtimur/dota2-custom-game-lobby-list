@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715238013403 |
-| Players | 15/24 |
+| Players | 13/24 |
 | Host Name | ElonMask |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 18:53:57 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715244275850 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Kzr |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, October 28, 2023 18:59:56 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715255579613 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Kill All |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 19:10:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715257589625 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | САНСАНЫЧ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 19:12:44 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 19:07:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715256728926 |
-| Players | 9/10 |
-| Host Name | ПТ на агрессию |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 19:11:56 |
+| Lobby ID | 28495715257742187 |
+| Players | 1/15 |
+| Host Name | Yxguden |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, October 28, 2023 19:12:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,24 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 19:10:17 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715257492009 |
-| Players | 6/8 |
-| Host Name | Хан 7000 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, October 28, 2023 19:12:38 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495715257687231 |
-| Players | 1/15 |
-| Host Name | bratoka |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 19:12:49 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715257698932 |
@@ -130,20 +112,74 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715257744055 |
+| Lobby ID | 28495715257687231 |
 | Players | 1/15 |
-| Host Name | DoctorMom |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, October 28, 2023 19:12:52 |
+| Host Name | bratoka |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 19:12:49 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495715257891143 |
+| Players | 2/10 |
+| Host Name | Lemonade |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, October 28, 2023 19:13:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715257747101 |
+| Lobby ID | 28495715257890412 |
 | Players | 1/15 |
-| Host Name | Сабинина мама |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, October 28, 2023 19:12:52 |
+| Host Name | _(ART-X)_ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, October 28, 2023 19:13:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715257892667 |
+| Players | 4/15 |
+| Host Name | Mouches Volantes |
+| Region | AUSTRIA |
+| Lobby Creation Time | Saturday, October 28, 2023 19:13:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715257898575 |
+| Players | 1/15 |
+| Host Name | ДИДЖЕЙ АРБУЗ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, October 28, 2023 19:13:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715257909867 |
+| Players | 1/8 |
+| Host Name | Дени Франческо |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, October 28, 2023 19:13:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715257927183 |
+| Players | 1/8 |
+| Host Name | Wolfram |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, October 28, 2023 19:13:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715257932706 |
+| Players | 6/8 |
+| Host Name | thegoat |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, October 28, 2023 19:13:03 |
 
 
 |  | epic_boss_fight_normal |
