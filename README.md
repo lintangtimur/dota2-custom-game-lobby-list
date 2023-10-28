@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715008114602 |
-| Players | 8/24 |
+| Players | 14/24 |
 | Host Name | Say my name |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 14:21:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495714999555900 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Cow Tow |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, October 28, 2023 14:12:23 |
@@ -131,19 +131,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715008322945 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Đruiđ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 14:21:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495715008486813 |
-| Players | 3/15 |
-| Host Name | boba messi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 14:21:43 |
 
 
 |  | ot3_necropolis_ffa |
@@ -157,11 +148,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715008597048 |
+| Lobby ID | 28495715008714368 |
 | Players | 1/8 |
 | Host Name | Shmultke |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 14:21:53 |
+| Lobby Creation Time | Saturday, October 28, 2023 14:22:03 |
 
 
 |  | epic_boss_fight_nightmare |
