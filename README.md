@@ -38,69 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 16:46:09 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495715124783069 |
-| Players | 1/10 |
-| Host Name | RUDIK |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 16:48:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715109618857 |
-| Players | 1/8 |
-| Host Name | папа свин |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 16:29:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715124143491 |
-| Players | 1/8 |
-| Host Name | .no lose |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 16:47:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495715122196583 |
-| Players | 1/15 |
-| Host Name | KaRaTeL |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 16:45:17 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495715123760745 |
-| Players | 1/24 |
-| Host Name | arhikent |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 16:47:15 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495715122499299 |
-| Players | 17/24 |
-| Host Name | ไอ้หมวก4 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 16:45:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495715125030911 |
-| Players | 3/10 |
-| Host Name | 100% |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 16:48:50 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715125047065 |
@@ -112,11 +49,56 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715125073105 |
+| Lobby ID | 28495715109618857 |
 | Players | 1/8 |
-| Host Name | шпигун Буданов |
+| Host Name | папа свин |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, October 28, 2023 16:29:40 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495715125030911 |
+| Players | 4/10 |
+| Host Name | 100% |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, October 28, 2023 16:48:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715125206940 |
+| Players | 1/15 |
+| Host Name | rib:y(uhki) |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, October 28, 2023 16:49:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715125185658 |
+| Players | 1/15 |
+| Host Name | RUDIK |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 16:48:53 |
+| Lobby Creation Time | Saturday, October 28, 2023 16:49:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495715122499299 |
+| Players | 17/24 |
+| Host Name | ไอ้หมวก4 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 16:45:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715125182692 |
+| Players | 1/8 |
+| Host Name | winter is coming |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 16:49:02 |
 
 
 |  | epic_boss_fight_normal |
