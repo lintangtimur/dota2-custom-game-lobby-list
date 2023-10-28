@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28494258630271201 |
+| Lobby ID | 28494258631562426 |
 | Players | 1/10 |
 | Host Name | Hermes |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 13:43:07 |
+| Lobby Creation Time | Saturday, October 28, 2023 13:45:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258629480672 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | ฿eͥℝsͣeͫℝk♛ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 13:41:57 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258630017995 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | JGerard0504 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 13:42:44 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494258629463202 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | bcd7b697e |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, October 28, 2023 13:41:55 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258614920122 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | -_^ |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, October 28, 2023 13:19:22 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258629866656 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Magnitude Pop* Pop* |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 13:42:31 |
@@ -144,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Жрун |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 13:44:46 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28494258631592873 |
+| Players | 1/10 |
+| Host Name | JUANETO MAMANE QUESPE (TO PAPE) |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 13:45:03 |
 
 
