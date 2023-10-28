@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715941668121 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Taня Сергеева |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 06:45:32 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715939838915 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | iseedeadp3ople |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 06:42:09 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715942303225 |
-| Players | 1/24 |
-| Host Name | Кон Чен Ый |
+| Lobby ID | 28495715942944736 |
+| Players | 7/15 |
+| Host Name | FightAnyone |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 06:46:43 |
+| Lobby Creation Time | Sunday, October 29, 2023 06:47:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715942714272 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | wawate |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, October 29, 2023 06:47:31 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715942052808 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | NeDix! |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, October 29, 2023 06:46:15 |
@@ -122,19 +122,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715942731037 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Pingu Asado |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 06:47:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715942879063 |
-| Players | 3/10 |
-| Host Name | The owner of the five |
+| Lobby ID | 28495715942974913 |
+| Players | 2/15 |
+| Host Name | Camo_Killer8 |
 | Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 06:47:50 |
+| Lobby Creation Time | Sunday, October 29, 2023 06:48:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715942902745 |
+| Players | 1/8 |
+| Host Name | Comprofiles |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, October 29, 2023 06:47:53 |
 
 
 |  | epic_boss_fight_normal |
