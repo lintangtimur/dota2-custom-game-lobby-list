@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258521980766 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Mike_To |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 10:20:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494258521637026 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Merl1n |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, October 28, 2023 10:20:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258501651911 |
-| Players | 2/24 |
+| Players | 7/24 |
 | Host Name | 李沖 ZENONZARD |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, October 28, 2023 09:40:02 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258519862538 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | Nerfstyle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 10:16:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28494258522012761 |
-| Players | 1/15 |
-| Host Name | В доме 8/16 |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 10:20:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Carrying dogs |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 10:19:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28494258522050785 |
+| Players | 1/10 |
+| Host Name | Mi primera chamba |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 10:20:57 |
 
 
