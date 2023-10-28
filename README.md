@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715214284544 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | .#h21z |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 18:30:42 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715214237671 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | cyberdaemon |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, October 28, 2023 18:30:39 |
@@ -94,20 +94,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715214447992 |
+| Lobby ID | 28495715214491262 |
 | Players | 1/15 |
-| Host Name | LuddeKudde |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 18:30:52 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495715209818589 |
-| Players | 9/10 |
-| Host Name | Emilia (noobs not wellcome) |
+| Host Name | SaatteNacarKadındaMacar |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 18:26:11 |
+| Lobby Creation Time | Saturday, October 28, 2023 18:30:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715214543529 |
+| Players | 1/15 |
+| Host Name | Dr. Rockzo |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, October 28, 2023 18:30:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715214625095 |
+| Players | 1/15 |
+| Host Name | Люблю Настю |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 18:31:02 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495715214306775 |
+| Players | 1/5 |
+| Host Name | NightShade |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 18:30:44 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,14 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Calabreso |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 18:30:21 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495715214306775 |
-| Players | 1/5 |
-| Host Name | NightShade |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 18:30:44 |
 
 
