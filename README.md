@@ -2,22 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494258496814923 |
-| Players | 9/10 |
-| Host Name | XVI |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, October 28, 2023 09:29:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28494258501940081 |
-| Players | 2/8 |
-| Host Name | Lee Harvey Oswald fan |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, October 28, 2023 09:40:40 |
+| Lobby ID | 28494258502727447 |
+| Players | 2/15 |
+| Host Name | maldita perra 0.3 |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 09:42:24 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,45 +41,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258500693755 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | atz- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 09:37:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28494258501796849 |
-| Players | 7/8 |
-| Host Name | Hopeful Men (GPRD) |
+| Lobby ID | 28494258502419872 |
+| Players | 2/24 |
+| Host Name | Dash'God |
 | Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 09:40:21 |
+| Lobby Creation Time | Saturday, October 28, 2023 09:41:43 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494258501104214 |
-| Players | 14/15 |
-| Host Name | d1 |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 09:38:51 |
+| Lobby ID | 28494258502574700 |
+| Players | 3/15 |
+| Host Name | Chemodan |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, October 28, 2023 09:42:04 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494258502404583 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Zenigata |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, October 28, 2023 09:41:41 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28494258502419872 |
-| Players | 1/24 |
-| Host Name | Dash'God |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 09:41:43 |
 
 
