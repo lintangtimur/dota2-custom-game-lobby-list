@@ -2,15 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28494258638355573 |
-| Players | 1/7 |
-| Host Name | dezomashī |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 13:54:42 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28494258639272116 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494258638197655 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Gay ruin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 13:54:29 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258638335347 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Monsiuer LaPadite |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 13:54:41 |
@@ -110,12 +101,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 13:56:48 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28494258639973111 |
+| Players | 1/10 |
+| Host Name | Бородач Лена |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 13:57:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494258638694230 |
+| Players | 13/15 |
+| Host Name | king of fools |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, October 28, 2023 13:55:12 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494258639858447 |
+| Lobby ID | 28494258639920075 |
+| Players | 1/8 |
+| Host Name | Zeylod |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 13:56:55 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28494258639960514 |
+| Players | 1/24 |
+| Host Name | Goa-♥ |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 13:56:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28494258639977147 |
 | Players | 2/8 |
-| Host Name | R3d1 |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 13:56:50 |
+| Host Name | ccured |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 13:57:00 |
 
 
