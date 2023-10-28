@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715764505584 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Spawn[] |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 02:39:21 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715765789295 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | PsychOS [UA] |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, October 29, 2023 02:40:42 |
@@ -131,19 +131,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715760687578 |
-| Players | 6/8 |
+| Players | 4/8 |
 | Host Name | 永遠 |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 02:35:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715766817484 |
-| Players | 7/15 |
-| Host Name | FieryChan |
+| Lobby ID | 28495715766566468 |
+| Players | 5/8 |
+| Host Name | Amanit |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 02:41:47 |
+| Lobby Creation Time | Sunday, October 29, 2023 02:41:31 |
 
 
 |  | ot3_jungle_quintet |
@@ -155,13 +155,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:39:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495715766308751 |
-| Players | 6/8 |
-| Host Name | idc |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 02:41:15 |
+| Lobby ID | 28495715757427052 |
+| Players | 13/24 |
+| Host Name | juan hit juander™ |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 02:32:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -204,34 +204,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28495715765239824 |
 | Players | 7/10 |
-| Host Name | Пивосос666 |
+| Host Name | EL AMANTE DE TU MAMA <3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 02:40:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715766566468 |
-| Players | 3/8 |
-| Host Name | Amanit |
+| Lobby ID | 28495715767065274 |
+| Players | 3/10 |
+| Host Name | Дагер на силу |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 02:41:31 |
+| Lobby Creation Time | Sunday, October 29, 2023 02:42:03 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28495715766706219 |
-| Players | 1/5 |
+| Players | 3/5 |
 | Host Name | shining |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 02:41:40 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495715766704259 |
-| Players | 1/5 |
-| Host Name | OdessaUA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 02:41:40 |
 
