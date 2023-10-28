@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 12:04:25 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494258575669812 |
-| Players | 1/24 |
-| Host Name | highlightkai |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 12:06:53 |
+| Lobby ID | 28494258575697871 |
+| Players | 1/8 |
+| Host Name | XD |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 12:06:56 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258575071646 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | BryanH-insane |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 12:05:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258571534527 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | Weganerd |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 11:59:12 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258575249654 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | ⁽⁽ପ꒰ ྀི ◜ ᴗ ◝ |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 12:06:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494258575083452 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | GYBI |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 12:05:48 |
@@ -95,9 +95,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258575014261 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Grimmjow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 12:05:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494258574665512 |
+| Players | 12/15 |
+| Host Name | GAABOM |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 12:05:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28494258575725150 |
+| Players | 1/24 |
+| Host Name | Immortal Isaw |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 12:06:59 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28494258575732793 |
+| Players | 1/24 |
+| Host Name | CN Dota,Bet Dota! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 12:07:00 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28494258575734251 |
+| Players | 1/24 |
+| Host Name | loot fast shot miss disconnect |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 12:07:00 |
 
 
