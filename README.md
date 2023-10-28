@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715045361808 |
-| Players | 3/8 |
-| Host Name | Deadline |
+| Players | 2/8 |
+| Host Name | XS гуль |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 15:08:25 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715050149659 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | DeX |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 15:14:27 |
