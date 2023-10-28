@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715903379372 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Xenximalti |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 05:38:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715903510455 |
-| Players | 12/15 |
-| Host Name | private krinjarik |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 05:38:39 |
+| Lobby ID | 28495715903675051 |
+| Players | 1/8 |
+| Host Name | Воппер |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 05:38:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715900818313 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Шнурок Полины |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 05:34:18 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715903629243 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Cheque |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 05:38:51 |
@@ -104,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715900316662 |
-| Players | 11/24 |
-| Host Name | ...... |
+| Players | 10/24 |
+| Host Name | pajazlocas |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 05:33:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495715902230400 |
-| Players | 13/15 |
-| Host Name | REM |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 05:36:33 |
 
 
 |  | ot3_jungle_quintet |
@@ -126,15 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | гнилой |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 05:34:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715903662547 |
-| Players | 5/8 |
-| Host Name | Иван Танго |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 05:38:54 |
 
 
 |  | epic_boss_fight_normal |
@@ -185,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28495715898935644 |
-| Players | 2/7 |
+| Players | 1/7 |
 | Host Name | svatoslav |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 05:31:21 |
