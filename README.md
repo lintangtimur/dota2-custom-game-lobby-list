@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494258564503295 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Thalox123 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 11:46:17 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 11:41:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494258565224171 |
-| Players | 1/8 |
-| Host Name | razlagayus` |
+| Lobby ID | 28494258565057655 |
+| Players | 6/15 |
+| Host Name | Владик солёный |
 | Region | DUBAI |
-| Lobby Creation Time | Saturday, October 28, 2023 11:47:35 |
+| Lobby Creation Time | Saturday, October 28, 2023 11:47:16 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,12 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 11:46:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28494258565057655 |
-| Players | 7/15 |
-| Host Name | Владик солёный |
+| Lobby ID | 28494258565482483 |
+| Players | 1/24 |
+| Host Name | 命运叫我去战斗 |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, October 28, 2023 11:48:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28494258565504421 |
+| Players | 1/8 |
+| Host Name | razlagayus` |
 | Region | DUBAI |
-| Lobby Creation Time | Saturday, October 28, 2023 11:47:16 |
+| Lobby Creation Time | Saturday, October 28, 2023 11:48:05 |
 
 
