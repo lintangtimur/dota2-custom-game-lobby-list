@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494258594751260 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | headswillroll#_# |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, October 28, 2023 12:43:45 |
@@ -38,66 +38,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 11:42:25 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28494258595016941 |
-| Players | 5/10 |
-| Host Name | Br0ker |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 12:44:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28494258595246854 |
-| Players | 2/15 |
-| Host Name | Noosekabob |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, October 28, 2023 12:44:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28494258593553155 |
-| Players | 6/10 |
-| Host Name | КГБ Saikin |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 12:41:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28494258585014704 |
-| Players | 1/8 |
-| Host Name | 7 ошибок в слове |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 12:24:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28494258595316142 |
-| Players | 5/8 |
-| Host Name | Techaponotesuelto :v |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 12:44:53 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258595350865 |
-| Players | 1/24 |
-| Host Name | Cloud |
+| Players | 3/24 |
+| Host Name | TicTac |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 12:44:58 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494258595364421 |
-| Players | 1/15 |
-| Host Name | BIDCKER |
+| Lobby ID | 28494258595246854 |
+| Players | 4/15 |
+| Host Name | Noosekabob |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, October 28, 2023 12:44:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28494258595394279 |
+| Players | 1/8 |
+| Host Name | _EziO_ |
 | Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 12:44:59 |
+| Lobby Creation Time | Saturday, October 28, 2023 12:45:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28494258595316142 |
+| Players | 6/8 |
+| Host Name | Techaponotesuelto :v |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 12:44:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494258595819199 |
+| Players | 1/15 |
+| Host Name | ..Mrr..♥..Hamili^^.. |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, October 28, 2023 12:45:54 |
 
 
