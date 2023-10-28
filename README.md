@@ -11,11 +11,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 00:07:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715619300994 |
-| Players | 1/10 |
-| Host Name | real hasta mañana |
+| Lobby ID | 28495715619303102 |
+| Players | 1/8 |
+| Host Name | Mode :LarionovDOTA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 00:10:53 |
 
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 00:08:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715618613822 |
-| Players | 1/15 |
-| Host Name | ДРЕВНИЙ РУС |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 00:10:14 |
+| Lobby ID | 28495715619374607 |
+| Players | 2/10 |
+| Host Name | Bлaдиmиp Bлaдиmиpoвич |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, October 29, 2023 00:10:57 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,22 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 00:10:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715619290431 |
-| Players | 4/8 |
-| Host Name | yqdance |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 00:10:53 |
+| Lobby ID | 28495715619329536 |
+| Players | 2/10 |
+| Host Name | мишка |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 00:10:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715615264704 |
-| Players | 8/15 |
-| Host Name | roadhouse |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 00:07:09 |
+| Lobby ID | 28495715619497135 |
+| Players | 6/10 |
+| Host Name | unlucky |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 00:11:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -119,19 +119,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 00:10:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715617028506 |
-| Players | 6/15 |
-| Host Name | gruyère |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 00:08:46 |
+| Lobby ID | 28495715619458883 |
+| Players | 1/8 |
+| Host Name | Обосрыш |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, October 29, 2023 00:11:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715618089829 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Слайм |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 00:09:45 |
@@ -182,33 +182,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 00:10:53 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715619280974 |
-| Players | 1/8 |
-| Host Name | Биба/Боба |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, October 29, 2023 00:10:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715619303102 |
-| Players | 1/8 |
-| Host Name | Mode :LarionovDOTA |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 00:10:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715619313810 |
-| Players | 1/8 |
-| Host Name | Шляпикс |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 00:10:54 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28495715616649035 |
@@ -227,12 +200,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 00:10:28 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28495715618908704 |
-| Players | 1/10 |
-| Host Name | RynsLer^ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 00:10:31 |
+| Lobby ID | 28495715619413818 |
+| Players | 1/5 |
+| Host Name | CadaVer |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 00:10:59 |
 
 
