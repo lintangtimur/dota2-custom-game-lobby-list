@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715650003171 |
-| Players | 5/8 |
-| Host Name | Вова_Алергик |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 00:40:15 |
+| Lobby ID | 28495715652837999 |
+| Players | 1/8 |
+| Host Name | 想像力상상력想像力— |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, October 29, 2023 00:43:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715644917661 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Geegee |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 00:35:09 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715652199634 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | SmT |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 00:42:27 |
@@ -148,20 +148,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715652668065 |
-| Players | 5/8 |
-| Host Name | Рыжий ĶøŤ |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 00:42:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715652670969 |
-| Players | 2/8 |
-| Host Name | Y - 3 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 00:42:55 |
+| Lobby ID | 28495715652832737 |
+| Players | 1/8 |
+| Host Name | zxcлопата |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 00:43:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -189,14 +180,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GL |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Sunday, October 29, 2023 00:42:40 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495715652683556 |
-| Players | 2/5 |
-| Host Name | Холод деда |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 00:42:56 |
 
 
