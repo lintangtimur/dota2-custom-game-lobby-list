@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715920798333 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | SaiCo |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, October 29, 2023 06:08:10 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715923267095 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | -_- |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 06:12:33 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715925063027 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | another love |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 06:15:44 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 06:05:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495715923561314 |
-| Players | 10/15 |
-| Host Name | Euphoria |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, October 29, 2023 06:13:05 |
+| Lobby ID | 28495715925146049 |
+| Players | 2/24 |
+| Host Name | 盗个铃 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 06:15:53 |
 
 
 |  | ot3_jungle_quintet |
@@ -94,47 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715923991326 |
-| Players | 6/10 |
-| Host Name | tv/abq_elitetv |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 06:13:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715925113912 |
-| Players | 7/8 |
-| Host Name | Дырка-пироженка |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 06:15:49 |
+| Lobby ID | 28495715924307025 |
+| Players | 7/10 |
+| Host Name | 13.GuB |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 06:14:23 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495715925146049 |
-| Players | 2/24 |
-| Host Name | 盗个铃 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 06:15:53 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495715925127599 |
+| Lobby ID | 28495715925263736 |
 | Players | 1/24 |
-| Host Name | paraphrosýnē |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 06:15:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715925171627 |
-| Players | 4/8 |
-| Host Name | ЧудесаNa'viражах |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 06:15:55 |
+| Host Name | MAGINER |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 06:16:05 |
 
 
 |  | epic_boss_fight_normal |
