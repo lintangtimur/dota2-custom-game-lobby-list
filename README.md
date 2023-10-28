@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28494258521208440 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 10:19:20 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258521980766 |
-| Players | 10/24 |
+| Players | 16/24 |
 | Host Name | dk-vm |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 10:20:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494258522448869 |
-| Players | 1/8 |
-| Host Name | -_- |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 10:21:42 |
+| Lobby ID | 28494258522554871 |
+| Players | 13/15 |
+| Host Name | Joe Sniff |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, October 28, 2023 10:21:55 |
 
 
 |  | ot3_gardens_duo |
@@ -56,48 +56,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 09:40:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494258519862538 |
-| Players | 22/24 |
-| Host Name | Nerfstyle |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 10:16:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28494258522144880 |
-| Players | 6/10 |
-| Host Name | Mr. Afinque |
+| Lobby ID | 28494258522975681 |
+| Players | 1/15 |
+| Host Name | 10 |
 | Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 10:21:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28494258522154973 |
-| Players | 3/8 |
-| Host Name | Saint |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, October 28, 2023 10:21:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28494258522116266 |
-| Players | 4/8 |
-| Host Name | pinkcore |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, October 28, 2023 10:21:04 |
+| Lobby Creation Time | Saturday, October 28, 2023 10:22:44 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494258522554871 |
-| Players | 5/15 |
-| Host Name | Joe Sniff |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, October 28, 2023 10:21:55 |
+| Lobby ID | 28494258523077989 |
+| Players | 1/15 |
+| Host Name | В доме 8/16 |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, October 28, 2023 10:22:56 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28494258523061364 |
+| Players | 1/24 |
+| Host Name | Williusaur |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, October 28, 2023 10:22:54 |
 
 
