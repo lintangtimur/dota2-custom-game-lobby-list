@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715052625927 |
-| Players | 2/15 |
-| Host Name | Buc  ₪ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 15:17:39 |
+| Lobby ID | 28495715052794277 |
+| Players | 4/10 |
+| Host Name | Кто ты воин ? |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 15:17:53 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715049493192 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | BootyHunter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 15:13:38 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715052772533 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | pasyans |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, October 28, 2023 15:17:51 |
@@ -92,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 15:17:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715052794277 |
-| Players | 2/10 |
-| Host Name | Space-man ඞ |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 15:17:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495715052832923 |
-| Players | 1/10 |
-| Host Name | cupido |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, October 28, 2023 15:17:56 |
+| Lobby ID | 28495715052987791 |
+| Players | 1/15 |
+| Host Name | Buc  ₪ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 15:18:08 |
 
 
 |  | epic_boss_fight_normal |
@@ -126,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 𝕸𝖆𝖘𝖍𝖑𝖊 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 15:17:30 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495715052986041 |
+| Players | 1/5 |
+| Host Name | ^ 6aHaH4uK ^ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 15:18:07 |
 
 
