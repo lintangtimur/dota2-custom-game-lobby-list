@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258545350418 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | www.instumblr.top |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 11:07:44 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 11:13:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494258547278982 |
-| Players | 5/15 |
-| Host Name | Trafalgar Law |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 11:11:48 |
+| Lobby ID | 28494258548373629 |
+| Players | 3/8 |
+| Host Name | ##TRENDSETTER |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, October 28, 2023 11:14:04 |
 
 
 |  | ot3_desert_octet |
@@ -56,22 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 11:12:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494258547431073 |
-| Players | 15/24 |
-| Host Name | yo+4pezuñas |
+| Lobby ID | 28494258548538159 |
+| Players | 7/10 |
+| Host Name | xtentasion |
 | Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 11:12:07 |
+| Lobby Creation Time | Saturday, October 28, 2023 11:14:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494258547767550 |
-| Players | 5/8 |
-| Host Name | Suki Suki |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 11:12:50 |
+| Lobby ID | 28494258548458340 |
+| Players | 1/15 |
+| Host Name | Keruga |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 11:14:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 11:03:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494258547565045 |
-| Players | 5/15 |
-| Host Name | TIMON |
+| Lobby ID | 28494258548469764 |
+| Players | 5/10 |
+| Host Name | No me jodas o fedeo..!! |
 | Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 11:12:24 |
+| Lobby Creation Time | Saturday, October 28, 2023 11:14:16 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494258545724736 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | El gato con botas |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 11:08:32 |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ASSASSINS CREEP |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 11:13:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28494258548131035 |
-| Players | 9/10 |
-| Host Name | Thalox123 |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 11:13:34 |
 
 
