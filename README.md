@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494258558507510 |
-| Players | 9/10 |
-| Host Name | Gojo Satoru |
-| Region | AUSTRIA |
-| Lobby Creation Time | Saturday, October 28, 2023 11:35:03 |
+| Lobby ID | 28494258559665755 |
+| Players | 3/10 |
+| Host Name | 🍌 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 11:37:24 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258558717525 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 11:35:29 |
@@ -50,28 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258559399963 |
-| Players | 11/24 |
+| Players | 18/24 |
 | Host Name | Amaraki |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 11:36:51 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28494258559498806 |
-| Players | 2/10 |
-| Host Name | ₭۞ђ ☯ ҜÆ |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 11:37:03 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494258559438304 |
+| Lobby ID | 28494258560179854 |
 | Players | 2/15 |
 | Host Name | GAABOM |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, October 28, 2023 11:36:56 |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 11:38:28 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28494258559948977 |
+| Players | 3/10 |
+| Host Name | Ҝιώi𝕀c𝐜ʰｏ  ☯ |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 11:37:59 |
 
 
 |  | ot3_desert_octet |
@@ -86,54 +86,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258559610760 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | GoDk1nG穿主流 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 11:37:17 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28494258559665755 |
-| Players | 1/10 |
-| Host Name | 🍌 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 11:37:24 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28494258559948977 |
-| Players | 1/10 |
-| Host Name | bONE |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 11:37:59 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494258559815659 |
-| Players | 1/8 |
+| Lobby ID | 28494258560182057 |
+| Players | 4/8 |
 | Host Name | cara con sombrero de vaquero... |
 | Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 11:37:42 |
+| Lobby Creation Time | Saturday, October 28, 2023 11:38:28 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494258559850388 |
-| Players | 1/8 |
-| Host Name | W1I |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 11:37:47 |
+| Lobby ID | 28494258558267321 |
+| Players | 7/8 |
+| Host Name | Жеча |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 11:34:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494258559836369 |
-| Players | 7/10 |
-| Host Name | Guadianeitor.giordota.com |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 11:37:45 |
+| Lobby ID | 28494258558120308 |
+| Players | 14/15 |
+| Host Name | SenorMouse |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 11:34:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494258560380024 |
+| Players | 2/15 |
+| Host Name | ₭۞ђ ☯ ҜÆ |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, October 28, 2023 11:38:53 |
 
 
