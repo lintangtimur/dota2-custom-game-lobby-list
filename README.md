@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715012573801 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | 홍은채) 내 동료가 돼라 홍은채) 물고기 캠 |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, October 28, 2023 14:27:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715008350573 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | 087 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 14:21:33 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715010515568 |
-| Players | 7/8 |
-| Host Name | retrigwaves |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 14:24:39 |
+| Lobby ID | 28495715009423904 |
+| Players | 1/8 |
+| Host Name | DGR_901A++ |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, October 28, 2023 14:23:05 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495714999555900 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | 别杀了！别杀了！！ |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, October 28, 2023 14:12:23 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715009421089 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | ANIKI 兄貴 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 14:23:05 |
@@ -85,11 +85,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715009423904 |
-| Players | 1/8 |
-| Host Name | DGR_901A++ |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, October 28, 2023 14:23:05 |
+| Lobby ID | 28495715013276563 |
+| Players | 2/8 |
+| Host Name | жесткий чел |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, October 28, 2023 14:28:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715013475675 |
+| Players | 1/15 |
+| Host Name | king of fools |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, October 28, 2023 14:28:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715013346915 |
+| Players | 1/15 |
+| Host Name | GostRed |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 14:28:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715013354015 |
+| Players | 1/15 |
+| Host Name | ебаклак |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, October 28, 2023 14:28:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715013391904 |
+| Players | 1/15 |
+| Host Name | Veselsak |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, October 28, 2023 14:28:41 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -101,21 +137,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 14:26:00 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495715013160987 |
+| Players | 2/5 |
+| Host Name | Фермерское Подворье |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, October 28, 2023 14:28:21 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495715012056676 |
+| Lobby ID | 28495715013339206 |
 | Players | 1/10 |
 | Host Name | Динозаврик |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 14:26:48 |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, October 28, 2023 14:28:36 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28495715012414301 |
-| Players | 2/5 |
-| Host Name | Фермерское Подворье |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 14:27:18 |
+| Lobby ID | 28495715013440560 |
+| Players | 4/5 |
+| Host Name | alkash2013 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 14:28:45 |
 
 
