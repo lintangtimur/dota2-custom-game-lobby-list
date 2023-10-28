@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715134890820 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | FeRRuMeR     <2 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 17:01:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715131971033 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | WTF&!о_О |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 16:57:32 |
@@ -101,28 +101,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 17:01:04 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715135009691 |
-| Players | 4/8 |
-| Host Name | задоджил аборт |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 17:01:27 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715134784965 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | zzz |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, October 28, 2023 17:01:09 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715135452479 |
+| Players | 1/8 |
+| Host Name | KAJIbI4 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 17:02:01 |
+
+
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28495715132386514 |
-| Players | 3/7 |
+| Players | 2/7 |
 | Host Name | Top 1 zawoda |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 16:58:03 |
@@ -131,18 +131,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715134809604 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | turnOVER |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 17:01:11 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495715135364247 |
-| Players | 1/10 |
-| Host Name | Line-Death |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 17:01:54 |
 
 
