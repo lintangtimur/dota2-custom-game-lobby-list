@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 11:30:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494258556134311 |
-| Players | 7/8 |
-| Host Name | KAZ |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 11:30:12 |
+| Lobby ID | 28494258558004224 |
+| Players | 1/10 |
+| Host Name | let's win |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, October 28, 2023 11:34:01 |
 
 
 |  | ot3_desert_octet |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258557625525 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | TU REPORT ELEVA MI KI |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 11:33:14 |
@@ -128,19 +128,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 11:33:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494258556865312 |
-| Players | 6/8 |
-| Host Name | iseedeadp3ople |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 11:31:42 |
+| Lobby ID | 28494258557946299 |
+| Players | 1/15 |
+| Host Name | Rain |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, October 28, 2023 11:33:54 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494258557694981 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Legna |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 11:33:22 |
@@ -157,37 +157,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494258557977885 |
+| Lobby ID | 28494258557999015 |
+| Players | 2/10 |
+| Host Name | Nzo |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, October 28, 2023 11:34:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28494258558057218 |
 | Players | 2/10 |
 | Host Name | zoned`brng |
 | Region | DUBAI |
-| Lobby Creation Time | Saturday, October 28, 2023 11:33:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28494258556390943 |
-| Players | 7/8 |
-| Host Name | TI_ Polux_Troy |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 11:30:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28494258557946299 |
-| Players | 1/15 |
-| Host Name | Rain |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, October 28, 2023 11:33:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28494258557962994 |
-| Players | 1/15 |
-| Host Name | OctaviNn |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, October 28, 2023 11:33:56 |
+| Lobby Creation Time | Saturday, October 28, 2023 11:34:08 |
 
 
