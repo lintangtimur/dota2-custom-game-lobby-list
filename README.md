@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 14:04:29 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494258645306005 |
-| Players | 18/24 |
-| Host Name | 蓝胖舌吻双头龙 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 14:04:29 |
+| Lobby ID | 28495714999109151 |
+| Players | 2/10 |
+| Host Name | Jack (El Cyborg Hanma) |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 14:12:04 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258639960514 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | 11by |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 13:56:59 |
