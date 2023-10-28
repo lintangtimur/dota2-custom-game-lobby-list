@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715459929994 |
-| Players | 7/10 |
+| Players | 5/10 |
 | Host Name | xëamaze |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, October 28, 2023 21:53:58 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715461926218 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | depko13 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 21:55:27 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715451072861 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Harry Styles |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, October 28, 2023 21:47:30 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715429210498 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Gutta. |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 21:31:38 |
@@ -122,25 +122,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715460869965 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | LOVE_yandere |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 21:54:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715462367810 |
-| Players | 1/8 |
-| Host Name | Kaiser |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 21:55:47 |
+| Lobby ID | 28495715462703107 |
+| Players | 1/10 |
+| Host Name | Данарка енджоер |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, October 28, 2023 21:56:02 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715461769842 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | КуZя иZ УниVера |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 21:55:20 |
@@ -155,13 +155,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 21:54:39 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715461017261 |
-| Players | 22/24 |
-| Host Name | BUTUH DANA CEPAT |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 21:54:46 |
+| Lobby ID | 28495715462093730 |
+| Players | 2/10 |
+| Host Name | 0 похвал |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 21:55:34 |
 
 
 |  | ot3_desert_octet |
@@ -173,13 +173,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 21:55:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715462093730 |
-| Players | 2/10 |
-| Host Name | 0 похвал |
+| Lobby ID | 28495715462781147 |
+| Players | 2/8 |
+| Host Name | Твоя сестра |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, October 28, 2023 21:56:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715462828248 |
+| Players | 3/8 |
+| Host Name | . |
 | Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 21:55:34 |
+| Lobby Creation Time | Saturday, October 28, 2023 21:56:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715462847463 |
+| Players | 5/8 |
+| Host Name | ПРОКЛЯТИЕ ГАБЕНА |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, October 28, 2023 21:56:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -234,14 +252,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ☣Spinozaurus☣ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 21:55:43 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28495715462596892 |
-| Players | 1/7 |
-| Host Name | . |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, October 28, 2023 21:55:57 |
 
 
