@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715049910442 |
-| Players | 7/10 |
-| Host Name | Muy Malo |
+| Players | 6/10 |
+| Host Name | BlooP |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 15:14:09 |
 
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715057356563 |
-| Players | 6/8 |
-| Host Name | fan_do |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, October 28, 2023 15:23:48 |
+| Lobby ID | 28495715057303331 |
+| Players | 1/8 |
+| Host Name | Nice Fight Boy! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 15:23:44 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715053732912 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 15:19:06 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715056834156 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Ballin Colin |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, October 28, 2023 15:23:07 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715056514440 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | -Все-Отец |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 15:22:43 |
@@ -77,61 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715057051828 |
-| Players | 2/24 |
+| Players | 8/24 |
 | Host Name | ハーパー |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 15:23:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28495715057201635 |
-| Players | 4/8 |
-| Host Name | 1 ФИД 100 рублей |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 15:23:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495715057260433 |
-| Players | 1/10 |
-| Host Name | Zanzi |
+| Lobby ID | 28495715057594465 |
+| Players | 2/5 |
+| Host Name | Madgar |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 15:23:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715057303331 |
-| Players | 1/8 |
-| Host Name | Nice Fight Boy! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 15:23:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495715057496310 |
-| Players | 2/10 |
-| Host Name | лёха контэрспэл |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 15:23:59 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495715052499286 |
-| Players | 6/10 |
-| Host Name | 𝕸𝖆𝖘𝖍𝖑𝖊 |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 15:17:30 |
+| Lobby Creation Time | Saturday, October 28, 2023 15:24:07 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715057111997 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 15:23:29 |
