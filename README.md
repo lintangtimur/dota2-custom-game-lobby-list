@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715199697162 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | КОНТЕНТ ПОДЪЕХАЛ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 18:15:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715199885434 |
-| Players | 2/10 |
-| Host Name | 神 |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 18:15:55 |
+| Lobby ID | 28495715200932082 |
+| Players | 3/8 |
+| Host Name | я бы умер,но мне лень 死ぬ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, October 28, 2023 18:17:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,10 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715197281471 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Not Emi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 18:13:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495715200896001 |
+| Players | 1/10 |
+| Host Name | Thawne |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, October 28, 2023 18:16:59 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -110,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 18:07:15 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28495715197657153 |
-| Players | 9/10 |
-| Host Name | Nine Enemies, Nine Bounties |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 18:13:37 |
+| Lobby ID | 28495715200901205 |
+| Players | 1/5 |
+| Host Name | new era |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 18:16:59 |
 
 
