@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28494258537164430 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | devil100 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 10:50:34 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28494258537341299 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Hermes |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 10:50:55 |
@@ -22,35 +22,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494258537869702 |
+| Lobby ID | 28494258536720059 |
 | Players | 1/8 |
-| Host Name | schapaevo |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 10:51:59 |
+| Host Name | 18yrs old(((( |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 10:49:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28494258536474461 |
-| Players | 12/24 |
-| Host Name | · |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 10:49:12 |
+| Lobby ID | 28494258539022519 |
+| Players | 6/24 |
+| Host Name | El Maldito Tedy |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 10:54:19 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494258537237716 |
-| Players | 3/8 |
-| Host Name | AVENA 3 URSITAS |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 10:50:43 |
+| Lobby ID | 28494258538927683 |
+| Players | 1/8 |
+| Host Name | The End |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, October 28, 2023 10:54:08 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258501651911 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | CARLOS TE CACHO |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, October 28, 2023 09:40:02 |
@@ -65,39 +65,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 10:53:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494258537638760 |
-| Players | 6/15 |
-| Host Name | Ahappypuppy |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 10:51:31 |
+| Lobby ID | 28494258537237716 |
+| Players | 7/8 |
+| Host Name | AVENA 3 URSITAS |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 10:50:43 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494258538268130 |
-| Players | 4/10 |
-| Host Name | It's ok I just need a break |
+| Lobby ID | 28494258539225216 |
+| Players | 2/10 |
+| Host Name | 50% |
 | Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 10:52:47 |
+| Lobby Creation Time | Saturday, October 28, 2023 10:54:45 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258538419931 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | เทพเทอร์โบ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 10:53:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494258536720059 |
-| Players | 1/8 |
-| Host Name | 18yrs old(((( |
+| Lobby ID | 28494258538980222 |
+| Players | 6/15 |
+| Host Name | NeDix! |
 | Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 10:49:41 |
+| Lobby Creation Time | Saturday, October 28, 2023 10:54:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28494258539273731 |
+| Players | 1/10 |
+| Host Name | aburre el dota |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 10:54:50 |
 
 
