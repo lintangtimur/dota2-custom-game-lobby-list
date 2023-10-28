@@ -5,43 +5,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28494258537341299 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | shogun - グン様 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 10:50:55 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28494258539891116 |
-| Players | 1/10 |
-| Host Name | Edna |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 10:56:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28494258540162916 |
-| Players | 3/8 |
-| Host Name | Dovle |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 10:56:39 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494258539909549 |
-| Players | 13/15 |
-| Host Name | DGL |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 10:56:08 |
+| Lobby ID | 28494258541188945 |
+| Players | 5/15 |
+| Host Name | ACC for practice |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 10:58:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28494258540857804 |
+| Players | 4/10 |
+| Host Name | `ÐieHÃRÐ´ |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 10:58:03 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258539313277 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 10:54:55 |
@@ -68,18 +59,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258539861742 |
-| Players | 9/24 |
-| Host Name | ben |
+| Players | 15/24 |
+| Host Name | hhhjj |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 10:56:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494258540791868 |
-| Players | 1/10 |
-| Host Name | basics |
+| Lobby ID | 28494258541083399 |
+| Players | 1/15 |
+| Host Name | Murble |
 | Region | DUBAI |
-| Lobby Creation Time | Saturday, October 28, 2023 10:57:55 |
+| Lobby Creation Time | Saturday, October 28, 2023 10:58:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28494258541141795 |
+| Players | 1/8 |
+| Host Name | Hope |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 10:58:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494258541283222 |
+| Players | 1/15 |
+| Host Name | Mand |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, October 28, 2023 10:58:56 |
 
 
