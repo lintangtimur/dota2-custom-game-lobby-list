@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 16:30:32 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715112180191 |
-| Players | 1/10 |
-| Host Name | zj |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, October 28, 2023 16:32:50 |
+| Lobby ID | 28495715112322718 |
+| Players | 8/15 |
+| Host Name | IQ |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 16:33:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715111885307 |
+| Lobby ID | 28495715112285336 |
 | Players | 1/15 |
-| Host Name | OtherView |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 16:32:29 |
+| Host Name | Vala'R |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, October 28, 2023 16:32:58 |
 
 
 |  | ot3_desert_octet |
@@ -92,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 16:32:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715112208530 |
-| Players | 3/8 |
-| Host Name | сын Головоча |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 16:32:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495715112230810 |
-| Players | 1/15 |
-| Host Name | Wolfx |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, October 28, 2023 16:32:54 |
+| Lobby ID | 28495715112373897 |
+| Players | 2/10 |
+| Host Name | zj |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, October 28, 2023 16:33:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BTG.iYuukii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 16:31:12 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495715111743377 |
-| Players | 1/5 |
-| Host Name | Oleja |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 16:32:18 |
 
 
 |  | epic_boss_fight_challenger |
