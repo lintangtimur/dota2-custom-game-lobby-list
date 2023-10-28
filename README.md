@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258619310518 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Goodbye Bystander |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 13:26:26 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494258622640310 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ccured |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 13:31:39 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258622776977 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | 100г героина |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 13:31:52 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258618334389 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | FFF |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 13:24:52 |
@@ -140,18 +140,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494258622820094 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Rambod D. Luffy |
 | Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 13:31:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28494258622829688 |
-| Players | 1/8 |
-| Host Name | gabimonkey |
-| Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 13:31:56 |
 
 
