@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715049586385 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | king of fools |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, October 28, 2023 15:13:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715049642972 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | Гена Цидрусни |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 15:13:49 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715044534892 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | sdfljkghksljdhkljasf |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, October 28, 2023 15:07:20 |
@@ -86,28 +86,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715049493192 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | BootyHunter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 15:13:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715049697103 |
-| Players | 1/8 |
-| Host Name | рома зхц ауе 228 |
+| Lobby ID | 28495715048269891 |
+| Players | 9/10 |
+| Host Name | 홍은채) 내 동료가 돼라 홍은채) 물고기 캠 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 15:13:53 |
+| Lobby Creation Time | Saturday, October 28, 2023 15:12:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715039964194 |
+| Players | 14/15 |
+| Host Name | Luhuti |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, October 28, 2023 15:01:25 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715049715674 |
+| Lobby ID | 28495715049834443 |
 | Players | 1/8 |
-| Host Name | тот самый лысый... |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, October 28, 2023 15:13:55 |
+| Host Name | bring back arcane blink |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 15:14:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715039658723 |
+| Players | 14/15 |
+| Host Name | Lerris |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 15:01:01 |
 
 
 |  | epic_boss_fight_nightmare |
