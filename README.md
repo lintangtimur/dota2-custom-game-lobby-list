@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28494258634093895 |
-| Players | 4/10 |
-| Host Name | ꧁༒☬L*ckthatPU**Y☬༒꧂ |
+| Players | 3/10 |
+| Host Name | Shallowdream、 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 13:48:41 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494258634591888 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Casa Matusita Lujan Carrion |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 13:49:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494258633660311 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Папа Римский |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, October 28, 2023 13:48:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494258634390722 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Bushido 52 |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, October 28, 2023 13:49:06 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258634676098 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | fshstz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 13:49:31 |
@@ -113,27 +113,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258634715762 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | MY EYES |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 13:49:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28494258634867521 |
-| Players | 1/8 |
-| Host Name | numb promises |
+| Lobby ID | 28494258629866656 |
+| Players | 23/24 |
+| Host Name | OPSesad |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 13:49:48 |
+| Lobby Creation Time | Saturday, October 28, 2023 13:42:31 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28494258634906246 |
+| Lobby ID | 28494258634987819 |
 | Players | 1/15 |
 | Host Name | xsilenser |
 | Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 13:49:51 |
+| Lobby Creation Time | Saturday, October 28, 2023 13:49:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494258635045500 |
+| Players | 3/15 |
+| Host Name | 𝘙𝘰𝘭𝘭𝘦𝘹 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 13:50:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28494258635045772 |
+| Players | 1/8 |
+| Host Name | I$uss |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 13:50:03 |
 
 
