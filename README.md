@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 14:00:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715003906634 |
-| Players | 21/24 |
-| Host Name | Winter Night |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 14:15:28 |
+| Lobby ID | 28495715006369592 |
+| Players | 5/15 |
+| Host Name | Seba Соль |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 14:18:43 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 13:54:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715006336499 |
-| Players | 1/15 |
-| Host Name | Josie |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 14:18:40 |
+| Lobby ID | 28495715006521382 |
+| Players | 1/8 |
+| Host Name | Dark king |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 14:18:56 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715000523397 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 14:13:03 |
@@ -110,30 +110,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 14:15:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495715006369592 |
-| Players | 3/15 |
-| Host Name | Seba Соль |
+| Lobby ID | 28495715006617086 |
+| Players | 1/24 |
+| Host Name | www.instumblr.top |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 14:19:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715006625620 |
+| Players | 4/8 |
+| Host Name | ЭТО ВТОРОЙ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 14:19:04 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495715006634843 |
+| Players | 1/24 |
+| Host Name | Zergal_Sensei322 |
 | Region | USEAST |
-| Lobby Creation Time | Saturday, October 28, 2023 14:18:43 |
+| Lobby Creation Time | Saturday, October 28, 2023 14:19:05 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715005294501 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Deads |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 14:17:10 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495715005493631 |
-| Players | 1/5 |
-| Host Name | forz |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 14:17:28 |
 
 
