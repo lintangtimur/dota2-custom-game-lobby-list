@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715315379438 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | asd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 20:03:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715306687014 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Kzr |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, October 28, 2023 19:56:02 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 19:34:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715316105724 |
-| Players | 1/8 |
-| Host Name | Sultike |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 20:03:44 |
+| Lobby ID | 28495715315434694 |
+| Players | 8/10 |
+| Host Name | Ice |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, October 28, 2023 20:03:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715316355932 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Rosar10 |
 | Region | PWTELECOMSHANGHAI |
 | Lobby Creation Time | Saturday, October 28, 2023 20:03:56 |
@@ -131,10 +131,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715316356130 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | yuyu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 20:03:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715316458250 |
+| Players | 4/8 |
+| Host Name | 1 ФИД 100 рублей |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 20:04:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715316460465 |
+| Players | 6/8 |
+| Host Name | ✪Amios |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, October 28, 2023 20:04:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715316537105 |
+| Players | 2/15 |
+| Host Name | baki |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, October 28, 2023 20:04:05 |
 
 
 |  | epic_boss_fight_nightmare |
