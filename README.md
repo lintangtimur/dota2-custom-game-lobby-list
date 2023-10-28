@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715813535072 |
-| Players | 4/15 |
-| Host Name | Ico |
+| Players | 5/15 |
+| Host Name | Nexro |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 03:36:04 |
 
@@ -38,28 +38,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 01:01:59 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715819921803 |
+| Players | 3/15 |
+| Host Name | debestebuschauffeur |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, October 29, 2023 03:43:07 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715815676656 |
-| Players | 1/8 |
-| Host Name | Lootomania |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 03:38:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495715810690762 |
-| Players | 21/24 |
-| Host Name | Reiner |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 03:32:46 |
+| Lobby ID | 28495715819853100 |
+| Players | 4/8 |
+| Host Name | меган кокс |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 03:43:02 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715819737437 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Дагер на силу |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 03:42:54 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715817613640 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | #suspеt# |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 03:40:32 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715818900624 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | dk-vm |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 03:41:58 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715819669929 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | BluiaKA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 03:42:49 |
@@ -164,13 +164,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 03:42:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715818878972 |
-| Players | 7/10 |
-| Host Name | Acasa Erimucci |
+| Lobby ID | 28495715819892411 |
+| Players | 2/8 |
+| Host Name | Злобный_бульбуля |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 03:41:56 |
+| Lobby Creation Time | Sunday, October 29, 2023 03:43:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -185,28 +185,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715819580455 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | SoloYolo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 03:42:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495715819668138 |
-| Players | 1/15 |
-| Host Name | ЗАСКАМЛЮ НАХУЙ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 03:42:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495715819757112 |
-| Players | 2/10 |
-| Host Name | RAPE ME MY FRIENDS |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 03:42:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -216,6 +198,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | y0ngG |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 03:42:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495715819757112 |
+| Players | 2/10 |
+| Host Name | RAPE ME MY FRIENDS |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 03:42:55 |
 
 
 |  | epic_boss_fight_nightmare |
