@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 11:30:46 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28494258559281226 |
-| Players | 1/10 |
-| Host Name | Hasta La Vista |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 11:36:37 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494258553641838 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494258558507510 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | Gojo Satoru |
 | Region | AUSTRIA |
 | Lobby Creation Time | Saturday, October 28, 2023 11:35:03 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258558717525 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 11:35:29 |
@@ -59,45 +50,99 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258559399963 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | Amaraki |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 11:36:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494258559414325 |
-| Players | 1/15 |
-| Host Name | KILI- |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, October 28, 2023 11:36:53 |
+| Lobby ID | 28494258559498806 |
+| Players | 2/10 |
+| Host Name | ₭۞ђ ☯ ҜÆ |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, October 28, 2023 11:37:03 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258559438304 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | GAABOM |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, October 28, 2023 11:36:56 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28494258559610334 |
+| Players | 1/24 |
+| Host Name | Thomas Shelby |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 11:37:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494258559610760 |
+| Players | 4/15 |
+| Host Name | GoDk1nG穿主流 |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 11:37:17 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28494258559470146 |
-| Players | 2/10 |
-| Host Name | ₭۞ђ ☯ ҜÆ |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 11:37:00 |
+| Lobby ID | 28494258559665755 |
+| Players | 1/10 |
+| Host Name | 🍌 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 11:37:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28494258558120308 |
+| Players | 14/15 |
+| Host Name | SenorMouse |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, October 28, 2023 11:34:16 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28494258559470204 |
-| Players | 2/8 |
-| Host Name | g]g]g]gdsssadda |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 11:37:00 |
+| Lobby ID | 28494258559815659 |
+| Players | 1/8 |
+| Host Name | cara con sombrero de vaquero... |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 11:37:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28494258559850388 |
+| Players | 1/8 |
+| Host Name | W1I |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 11:37:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28494258559836369 |
+| Players | 7/10 |
+| Host Name | Guadianeitor.giordota.com |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 11:37:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28494258559918880 |
+| Players | 1/10 |
+| Host Name | bONE |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 11:37:55 |
 
 
