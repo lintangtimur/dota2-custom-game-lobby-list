@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715064090748 |
+| Lobby ID | 28495715064272557 |
 | Players | 1/15 |
-| Host Name | TheBussyBandit |
+| Host Name | Старайся, друг! |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 15:32:37 |
+| Lobby Creation Time | Saturday, October 28, 2023 15:32:51 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715057051828 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | ハーパー |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 15:23:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715060253878 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | 姫森ルーナ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 15:27:38 |
@@ -112,47 +112,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715064261720 |
-| Players | 1/15 |
-| Host Name | zxcv |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 15:32:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495715064278232 |
+| Lobby ID | 28495715064434099 |
 | Players | 1/15 |
 | Host Name | Justhateme |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 15:32:51 |
+| Lobby Creation Time | Saturday, October 28, 2023 15:33:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495715064405031 |
+| Players | 2/10 |
+| Host Name | да |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, October 28, 2023 15:33:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715064272557 |
+| Lobby ID | 28495715064470523 |
 | Players | 1/15 |
-| Host Name | Старайся, друг! |
+| Host Name | zxcv |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 15:32:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715064303996 |
-| Players | 3/8 |
-| Host Name | EL DIDACTICO |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 15:32:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495715064320426 |
-| Players | 1/15 |
-| Host Name | 叁仟 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 15:32:54 |
+| Lobby Creation Time | Saturday, October 28, 2023 15:33:06 |
 
 
 |  | epic_boss_fight_normal |
