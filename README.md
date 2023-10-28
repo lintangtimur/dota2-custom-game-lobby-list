@@ -2,15 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28494258589133552 |
-| Players | 1/5 |
-| Host Name | dymmt |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, October 28, 2023 12:32:30 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28494258587426599 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28494258588262040 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Кривые Руки 228 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 12:30:47 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28494258588401847 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | ⁽⁽ପ꒰ ྀི ◜ ᴗ ◝ |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 12:31:04 |
@@ -68,18 +59,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28494258585014704 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 7 ошибок в слове |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 12:24:24 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28494258589370182 |
+| Players | 2/10 |
+| Host Name | TBustez Koach |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 12:32:58 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28494258585930588 |
-| Players | 23/24 |
-| Host Name | MERLYN |
-| Region | PERU |
-| Lobby Creation Time | Saturday, October 28, 2023 12:26:09 |
+| Lobby ID | 28494258589428087 |
+| Players | 1/24 |
+| Host Name | 林 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, October 28, 2023 12:33:05 |
 
 
