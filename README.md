@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715098268973 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | BlooP |
 | Region | PERU |
 | Lobby Creation Time | Saturday, October 28, 2023 16:15:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715102244800 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Naive |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 16:20:32 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715102568775 |
-| Players | 7/8 |
-| Host Name | y0ngG |
+| Lobby ID | 28495715104106609 |
+| Players | 2/8 |
+| Host Name | Hamas |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 16:20:56 |
+| Lobby Creation Time | Saturday, October 28, 2023 16:22:50 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715102260395 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | IQ |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, October 28, 2023 16:20:33 |
@@ -101,22 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, October 28, 2023 16:22:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715104106609 |
-| Players | 1/8 |
-| Host Name | Hamas |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 16:22:50 |
+| Lobby ID | 28495715104313358 |
+| Players | 4/10 |
+| Host Name | talentless |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, October 28, 2023 16:23:06 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28495715103138647 |
-| Players | 9/10 |
-| Host Name | [*BaSkeTka*] |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 16:21:38 |
+| Lobby ID | 28495715104190811 |
+| Players | 1/5 |
+| Host Name | OWNER YOUR FUCKED MOTHER |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, October 28, 2023 16:22:57 |
 
 
 |  | epic_boss_fight_normal |
