@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715024352427 |
-| Players | 5/15 |
+| Players | 3/15 |
 | Host Name | Anton.V |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, October 28, 2023 14:42:17 |
@@ -14,37 +14,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715023583037 |
-| Players | 4/15 |
-| Host Name | A1ZEN |
+| Players | 2/15 |
+| Host Name | Taco |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 14:41:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715017652216 |
-| Players | 7/10 |
-| Host Name | ցy͙Ӏь z͙ąb͙ìv͙ղo͙վ |
+| Lobby ID | 28495715026139037 |
+| Players | 1/8 |
+| Host Name | XS гуль |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 14:34:13 |
+| Lobby Creation Time | Saturday, October 28, 2023 14:44:23 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715023384145 |
-| Players | 5/15 |
-| Host Name | †U.M.H |
+| Players | 4/15 |
+| Host Name | Zota |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, October 28, 2023 14:41:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715025691963 |
-| Players | 1/8 |
-| Host Name | i'm sad n'low yuh |
+| Lobby ID | 28495715026087114 |
+| Players | 6/10 |
+| Host Name | toflex |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 14:43:51 |
+| Lobby Creation Time | Saturday, October 28, 2023 14:44:19 |
 
 
 |  | ot3_desert_octet |
@@ -59,25 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715025035956 |
-| Players | 6/24 |
-| Host Name | unlucky boy |
+| Players | 12/24 |
+| Host Name | ryan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 14:43:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715025674784 |
-| Players | 1/8 |
-| Host Name | Убейте меня |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, October 28, 2023 14:43:50 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715025110930 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | QUADMIRE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 14:43:10 |
