@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715004379114 |
-| Players | 7/8 |
+| Players | 5/8 |
 | Host Name | i dont sleep i just dream |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 14:16:00 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495714999555900 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Cow Tow |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, October 28, 2023 14:12:23 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715004263697 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Nightcore |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 14:15:51 |
@@ -122,18 +122,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715003906634 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Winter Night |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 14:15:28 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28494258641037364 |
+| Players | 7/8 |
+| Host Name | Scrayl |
+| Region | PERU |
+| Lobby Creation Time | Saturday, October 28, 2023 13:58:29 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715005074292 |
+| Lobby ID | 28495715005177192 |
 | Players | 1/15 |
-| Host Name | FuManChu |
+| Host Name | Sch |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, October 28, 2023 14:16:52 |
+| Lobby Creation Time | Saturday, October 28, 2023 14:17:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495714999408974 |
+| Players | 14/15 |
+| Host Name | . |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, October 28, 2023 14:12:17 |
 
 
