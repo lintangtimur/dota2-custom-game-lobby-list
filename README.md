@@ -105,7 +105,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28495715155245618 |
 | Players | 8/15 |
-| Host Name | Mentos |
+| Host Name | Укуренный хуйней |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, October 28, 2023 17:26:20 |
 
@@ -122,19 +122,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715154969960 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Dr. Strange |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, October 28, 2023 17:26:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715155585941 |
-| Players | 6/10 |
-| Host Name | Дэнчик |
+| Lobby ID | 28495715155886859 |
+| Players | 1/8 |
+| Host Name | chill out |
 | Region | USWEST |
-| Lobby Creation Time | Saturday, October 28, 2023 17:26:44 |
+| Lobby Creation Time | Saturday, October 28, 2023 17:27:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715155858822 |
+| Players | 1/8 |
+| Host Name | Lava |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, October 28, 2023 17:27:04 |
 
 
 |  | epic_boss_fight_nightmare |
