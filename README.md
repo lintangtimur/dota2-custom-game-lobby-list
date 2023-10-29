@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715964956970 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Need? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 07:34:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715919360811 |
-| Players | 8/24 |
+| Players | 6/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 06:05:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715964870894 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Solo Leveling |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 07:34:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715963546007 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Waxillium |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 07:31:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715965187445 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | -Hyde- |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 07:34:50 |
@@ -110,19 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 07:35:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715965604976 |
-| Players | 7/8 |
-| Host Name | LaRubiaExplosiva |
+| Lobby ID | 28495715965745248 |
+| Players | 4/15 |
+| Host Name | 丫卂 乃口工 丂山乇乇丅 |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 07:35:39 |
+| Lobby Creation Time | Sunday, October 29, 2023 07:35:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715965629633 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Antimob |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 07:35:42 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715965647679 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Back |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 07:35:44 |
@@ -155,6 +155,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 07:35:50 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495715965721318 |
+| Players | 2/10 |
+| Host Name | Real1661 |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 07:35:52 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715962958159 |
+| Players | 14/15 |
+| Host Name | LcMander |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 07:30:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715965816698 |
+| Players | 1/8 |
+| Host Name | SwagSeason |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 07:36:03 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28495715837414572 |
@@ -176,7 +203,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715962787850 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Hunter |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 07:30:10 |
@@ -189,5 +216,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SINISTER RAMEN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 07:34:18 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28495715965820688 |
+| Players | 2/7 |
+| Host Name | M.R$JoKeR$ |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 07:36:04 |
 
 
