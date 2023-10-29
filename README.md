@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716118270150 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | OrlyOMG |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 12:43:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716118547522 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Rick Rubin |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 12:43:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716117332608 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Piroco |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, October 29, 2023 12:41:41 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716120305471 |
-| Players | 4/10 |
+| Players | 1/10 |
 | Host Name | CORRALITO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 12:46:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716120927462 |
+| Players | 1/8 |
+| Host Name | 346515 |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, October 29, 2023 12:48:03 |
 
 
 |  | epic_boss_fight_normal |
