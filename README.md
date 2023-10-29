@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 05:43:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717096664981 |
-| Players | 8/10 |
-| Host Name | Artorias |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 05:47:59 |
+| Lobby ID | 28495717092872258 |
+| Players | 2/8 |
+| Host Name | sperm way |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 05:40:09 |
 
 
 |  | ot3_desert_octet |
@@ -83,24 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 05:50:42 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717096152443 |
-| Players | 20/24 |
-| Host Name | NightSuki ツユ |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 05:46:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717092872258 |
-| Players | 2/8 |
-| Host Name | sperm way |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 05:40:09 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717095738938 |
@@ -108,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | get negro |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, October 30, 2023 05:46:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717098096548 |
+| Players | 3/10 |
+| Host Name | selling cache 10% discount |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 05:51:03 |
 
 
 |  | epic_boss_fight_nightmare |
