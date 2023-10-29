@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716018058088 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | Waxillium |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 09:30:51 |
@@ -77,46 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716017705673 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Absolute |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 09:30:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495716018300438 |
-| Players | 8/10 |
-| Host Name | Hokkaidu |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 09:31:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495716018351744 |
-| Players | 13/15 |
-| Host Name | WINNABLEWINNABLEWINNABLEWINNABLE |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 09:31:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716019077397 |
-| Players | 2/8 |
-| Host Name | Стакан |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 09:32:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716019040953 |
-| Players | 1/8 |
-| Host Name | rudy |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 09:32:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -126,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ch0kopie |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 09:32:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716019040953 |
+| Players | 2/8 |
+| Host Name | rudy |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 09:32:41 |
 
 
 |  | epic_boss_fight_normal |
