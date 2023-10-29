@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 05:56:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717100719262 |
-| Players | 3/8 |
-| Host Name | Ебашу на стройке |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 05:56:38 |
+| Lobby ID | 28495717100809131 |
+| Players | 8/15 |
+| Host Name | obrezvani krasivaya |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 05:56:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717099120164 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Bwap |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 05:53:15 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717099340448 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 05:53:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717100734964 |
-| Players | 3/8 |
-| Host Name | MODO SEPSO |
+| Lobby ID | 28495717100741279 |
+| Players | 1/15 |
+| Host Name | ratamache |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 05:56:40 |
+| Lobby Creation Time | Monday, October 30, 2023 05:56:41 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717100063365 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | VaV221 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 05:55:15 |
@@ -104,34 +104,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717099712119 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Si pickeas mrds fedeo |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 05:54:31 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717100741279 |
-| Players | 1/15 |
-| Host Name | ratamache |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 05:56:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717100809131 |
-| Players | 6/15 |
-| Host Name | obrezvani krasivaya |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 05:56:50 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717091959447 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | OID |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 05:38:18 |
