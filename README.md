@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 02:40:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716966535292 |
-| Players | 7/10 |
-| Host Name | de(bil) |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 02:40:25 |
+| Lobby ID | 28495716967152593 |
+| Players | 1/15 |
+| Host Name | TA Assassin |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 02:41:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716966956783 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | all good |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, October 30, 2023 02:40:51 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716829643225 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | SEE KUSS |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 00:15:06 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716948103955 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | JEAN |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 02:21:07 |
@@ -184,11 +184,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716966718151 |
-| Players | 1/8 |
-| Host Name | emptinesss |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 02:40:36 |
+| Lobby ID | 28495716967016003 |
+| Players | 7/8 |
+| Host Name | админ шлюх |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 02:40:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -207,6 +207,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | yamzxy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 02:28:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716967111761 |
+| Players | 7/8 |
+| Host Name | Kepler |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 02:41:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495716967147083 |
+| Players | 6/24 |
+| Host Name | dpr |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, October 30, 2023 02:41:03 |
 
 
 |  | epic_boss_fight_normal |
