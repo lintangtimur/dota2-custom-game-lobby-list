@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716313965166 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Закерман |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 16:56:48 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716307448618 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | ПТ на Нежность |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 16:49:12 |
@@ -92,13 +92,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 16:47:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716308287165 |
-| Players | 23/24 |
-| Host Name | Swagger |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 16:50:10 |
+| Lobby ID | 28495716314975648 |
+| Players | 2/10 |
+| Host Name | Gufner Amself |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, October 29, 2023 16:57:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716298644815 |
+| Players | 6/15 |
+| Host Name | -iV |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 16:38:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716315059433 |
+| Players | 6/8 |
+| Host Name | ебучий |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, October 29, 2023 16:58:05 |
 
 
 |  | epic_boss_fight_normal |
@@ -140,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716313872327 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | CCsenior |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, October 29, 2023 16:56:41 |
@@ -148,10 +166,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495716313881585 |
+| Lobby ID | 28495716315059639 |
 | Players | 1/10 |
 | Host Name | Toha |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, October 29, 2023 16:56:42 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 16:58:05 |
 
 
