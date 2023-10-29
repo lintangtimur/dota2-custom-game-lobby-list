@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716044956230 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | all good |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 10:25:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716045185871 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | El vengador de los Yupanqui |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 10:26:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716045258503 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | KEK |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 10:26:12 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716045570235 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | TOCENO TU TERROR |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 10:26:52 |
@@ -99,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | fated |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 10:26:39 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495716045675154 |
+| Players | 2/24 |
+| Host Name | waytoomany |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, October 29, 2023 10:27:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716045686979 |
+| Players | 1/8 |
+| Host Name | :3~ෆAlbiGail~ෆ<3 |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, October 29, 2023 10:27:06 |
 
 
 |  | epic_boss_fight_normal |
@@ -135,14 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BLACK HOLE |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, October 29, 2023 10:26:48 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495716045624833 |
-| Players | 1/5 |
-| Host Name | '๑bibibibibo☺ |
-| Region | PWUNICOM |
-| Lobby Creation Time | Sunday, October 29, 2023 10:26:58 |
 
 
