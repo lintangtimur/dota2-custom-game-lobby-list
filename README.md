@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715951421729 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Hellsing...!! |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 07:05:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715951604538 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Teo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 07:05:47 |
@@ -103,15 +103,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715951661299 |
-| Players | 1/15 |
-| Host Name | Fantom |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 07:05:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28495715951667085 |
 | Players | 1/15 |
 | Host Name | absolute |
@@ -144,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | pinguinul26.TTV |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 07:02:54 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495715951722557 |
+| Players | 1/5 |
+| Host Name | Rath |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 07:06:03 |
 
 
