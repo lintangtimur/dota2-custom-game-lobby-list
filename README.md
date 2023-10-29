@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716977257968 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Solo estoy pasando el rato |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 02:52:09 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716977687194 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | xXx |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 02:52:38 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716975975594 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | (AUDADCITO) DESBOSTEANDO ANDO |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 02:50:44 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716975838512 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | aonexe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 02:50:34 |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716976306525 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | сквозь баб |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 02:51:06 |
@@ -176,19 +176,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716977888315 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | ksyaksyaksya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 02:52:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716925173845 |
-| Players | 14/15 |
-| Host Name | Канибал |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 01:55:35 |
+| Lobby ID | 28495716975728709 |
+| Players | 7/8 |
+| Host Name | пуртыга |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 02:50:27 |
 
 
 |  | epic_boss_fight_nightmare |
