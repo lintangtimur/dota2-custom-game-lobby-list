@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716363257726 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | k-01 |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 17:51:07 |
@@ -74,6 +74,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 17:51:09 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495716364171051 |
+| Players | 1/10 |
+| Host Name | STOLYA |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 17:52:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495716364181213 |
+| Players | 2/10 |
+| Host Name | Yamete |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 17:52:04 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28495715837414572 |
@@ -81,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | tharman shanmugaratnam |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 04:04:01 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495716364007498 |
-| Players | 1/10 |
-| Host Name | тот самый лысый |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 17:51:53 |
 
 
