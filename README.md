@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716404489691 |
-| Players | 11/15 |
-| Host Name | Главный в дурке |
+| Players | 13/15 |
+| Host Name | SEREGA HUGE FAN |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Sunday, October 29, 2023 18:31:27 |
 
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716403974685 |
-| Players | 8/10 |
-| Host Name | Сын KJ |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 18:30:59 |
+| Lobby ID | 28495716405270214 |
+| Players | 10/15 |
+| Host Name | Тёма Джелатов |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, October 29, 2023 18:32:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716404231622 |
-| Players | 7/8 |
-| Host Name | egoisto |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, October 29, 2023 18:31:13 |
+| Lobby ID | 28495716405416932 |
+| Players | 4/8 |
+| Host Name | Opium |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, October 29, 2023 18:32:20 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716403738458 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | ☠ Kira Yoshikage☢ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 18:30:45 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716404682021 |
+| Lobby ID | 28495716405768035 |
 | Players | 1/15 |
-| Host Name | Yafu |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 18:31:38 |
+| Host Name | gglol |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, October 29, 2023 18:32:39 |
 
 
 |  | ot3_necropolis_ffa |
@@ -119,22 +119,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 18:32:07 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716406010365 |
+| Players | 1/8 |
+| Host Name | тайский боец |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, October 29, 2023 18:32:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716405880331 |
+| Players | 1/8 |
+| Host Name | CCPfrvr |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 18:32:46 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716400649633 |
-| Players | 14/15 |
-| Host Name | iLuckyBoss |
+| Lobby ID | 28495716405901931 |
+| Players | 1/15 |
+| Host Name | Yafu |
 | Region | CHILE |
-| Lobby Creation Time | Sunday, October 29, 2023 18:27:51 |
+| Lobby Creation Time | Sunday, October 29, 2023 18:32:47 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716401020427 |
-| Players | 6/10 |
-| Host Name | Booberries |
+| Lobby ID | 28495716405857937 |
+| Players | 3/10 |
+| Host Name | You will die |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 18:28:12 |
+| Lobby Creation Time | Sunday, October 29, 2023 18:32:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716405991965 |
+| Players | 1/8 |
+| Host Name | Javelin |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, October 29, 2023 18:32:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,5 +171,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Vertual |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 17:55:15 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495716405995998 |
+| Players | 1/10 |
+| Host Name | ™ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 18:32:52 |
 
 
