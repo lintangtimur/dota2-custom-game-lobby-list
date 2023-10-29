@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716654447200 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Lolo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 21:44:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495716658251386 |
-| Players | 9/10 |
-| Host Name | Illusion |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 21:47:19 |
+| Lobby ID | 28495716648043993 |
+| Players | 5/24 |
+| Host Name | H1RO |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 21:39:44 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716658098173 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | moryaz |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, October 29, 2023 21:47:13 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716659004721 |
-| Players | 7/8 |
-| Host Name | BRUTAL SAVAGE REKT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, October 29, 2023 21:47:54 |
+| Lobby ID | 28495716659063582 |
+| Players | 1/15 |
+| Host Name | БАРА БЕРЕ БЕРЕ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, October 29, 2023 21:47:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716658213422 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | CepCap |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, October 29, 2023 21:47:18 |
@@ -140,25 +140,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716658196283 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Kaiju Sand |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 21:47:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716648043993 |
-| Players | 6/24 |
-| Host Name | H1RO |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 21:39:44 |
+| Lobby ID | 28495716654258002 |
+| Players | 5/10 |
+| Host Name | Na'Vi.Lost |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, October 29, 2023 21:44:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716659297910 |
+| Players | 1/15 |
+| Host Name | Thrall |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, October 29, 2023 21:48:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716659307349 |
+| Players | 1/15 |
+| Host Name | Kosshakk |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, October 29, 2023 21:48:08 |
 
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28495716657262105 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | Hench Guy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 21:46:35 |
@@ -185,7 +203,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716651946191 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | Tautologie |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 21:42:37 |
