@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 20:19:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716543212866 |
-| Players | 1/15 |
-| Host Name | Tesco |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 20:23:56 |
+| Lobby ID | 28495716542214473 |
+| Players | 8/10 |
+| Host Name | valorant new patch enjoyer |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, October 29, 2023 20:23:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716539520501 |
-| Players | 17/24 |
+| Players | 22/24 |
 | Host Name | Satan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 20:21:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716543051502 |
-| Players | 1/8 |
-| Host Name | Доктор Ливси |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 20:23:49 |
+| Lobby ID | 28495716543347071 |
+| Players | 2/10 |
+| Host Name | AperolNeGespritz |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 20:24:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -112,17 +112,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716539725625 |
-| Players | 14/15 |
-| Host Name | To infinity and beyond |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 20:21:23 |
+| Lobby ID | 28495716543148979 |
+| Players | 2/15 |
+| Host Name | Lemmy Seasum |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 20:23:53 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716543019372 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | 2027753 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 20:23:47 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716543097451 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | zero y.o talent |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, October 29, 2023 20:23:51 |
@@ -146,33 +146,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 20:23:50 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495716543125751 |
-| Players | 1/15 |
-| Host Name | Barnaba- |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 20:23:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495716543148979 |
-| Players | 1/15 |
-| Host Name | Lemmy Seasum |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 20:23:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716543210102 |
-| Players | 1/8 |
-| Host Name | Сила соли |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 20:23:56 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716531563354 |
@@ -182,13 +155,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 20:15:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716543248251 |
-| Players | 2/8 |
-| Host Name | haracted™ |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, October 29, 2023 20:23:57 |
+| Lobby ID | 28495716543492389 |
+| Players | 1/15 |
+| Host Name | Und3rC0ntr0l |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 20:24:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -234,5 +207,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Черныйкнижник |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, October 29, 2023 20:23:48 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495716529678321 |
+| Players | 8/10 |
+| Host Name | NoHand |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, October 29, 2023 20:14:03 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28495716543498347 |
+| Players | 1/7 |
+| Host Name | Bear |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 20:24:08 |
 
 
