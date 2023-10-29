@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717080097033 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | SHAKAツ |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 05:15:38 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717077125817 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Auge do Stress |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, October 30, 2023 05:10:31 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717077036111 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | АКУНА МАТАТА |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 05:10:22 |
@@ -167,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717082016492 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Threnody |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 05:19:07 |
@@ -207,6 +207,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Торин Дубощит |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 05:19:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717082517447 |
+| Players | 1/15 |
+| Host Name | не менять |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 05:20:03 |
 
 
 |  | epic_boss_fight_nightmare |
