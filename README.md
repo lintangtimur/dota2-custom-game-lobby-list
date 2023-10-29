@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716141496555 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | enishi |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 13:20:28 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716140228610 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ME MUERO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 13:18:31 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716141612786 |
-| Players | 13/15 |
-| Host Name | шлюша |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 13:20:39 |
+| Lobby ID | 28495716141991993 |
+| Players | 3/15 |
+| Host Name | Dream |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 13:21:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716125167344 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, October 29, 2023 12:54:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716141248492 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Pink Certz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 13:20:06 |
@@ -68,26 +68,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716141934328 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | BaRtO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 13:21:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716142105170 |
-| Players | 1/8 |
-| Host Name | dreams don't come true |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 13:21:24 |
+| Lobby ID | 28495716142754553 |
+| Players | 1/15 |
+| Host Name | Degenerate Evolutionary |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, October 29, 2023 13:22:23 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716142297659 |
-| Players | 3/8 |
-| Host Name | Degenerate Evolutionary |
+| Players | 4/8 |
+| Host Name | Кабан |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 13:21:42 |
 
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 13:21:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716141991993 |
-| Players | 3/15 |
-| Host Name | Dream |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 13:21:14 |
+| Lobby ID | 28495716143119934 |
+| Players | 1/10 |
+| Host Name | PIZDEC TOPOR |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 13:22:57 |
 
 
 |  | epic_boss_fight_normal |
@@ -135,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 13:16:06 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495716141036477 |
-| Players | 9/10 |
-| Host Name | what the fuck am i doing |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 13:19:46 |
 
 
