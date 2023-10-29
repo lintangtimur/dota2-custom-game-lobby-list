@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716884584706 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Mekus-Mekus |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 01:13:14 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716872019505 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | Bävern |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 00:58:50 |
@@ -131,28 +131,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716885043415 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Стейк |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 01:13:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716885073345 |
-| Players | 7/8 |
-| Host Name | Ханма Юичиро |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 01:13:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495716885238454 |
-| Players | 4/10 |
-| Host Name | БУЛЬБА FFF РАНГА |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 01:13:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -164,13 +146,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 01:13:59 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495716885238454 |
+| Players | 3/10 |
+| Host Name | БУЛЬБА FFF РАНГА |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 01:13:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716885379454 |
+| Players | 1/8 |
+| Host Name | El Gotto Cuba |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 01:14:09 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716883275529 |
+| Lobby ID | 28495716884881062 |
 | Players | 14/15 |
-| Host Name | FieryChan |
+| Host Name | MistaKupa |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 01:11:43 |
+| Lobby Creation Time | Monday, October 30, 2023 01:13:34 |
 
 
 |  | epic_boss_fight_nightmare |
