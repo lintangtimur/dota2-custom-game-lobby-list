@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716083596891 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | PanConPejerrey |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 11:40:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716083899033 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | cacha gordas 3000 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 11:41:22 |
@@ -65,13 +65,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 11:41:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495716084208542 |
-| Players | 1/15 |
-| Host Name | Sammonnserssing |
+| Lobby ID | 28495716084220731 |
+| Players | 2/24 |
+| Host Name | Dr. Abc |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 11:41:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716084020209 |
+| Players | 1/8 |
+| Host Name | BISAKOL MAHINA ULO |
 | Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 11:41:58 |
+| Lobby Creation Time | Sunday, October 29, 2023 11:41:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716084321948 |
+| Players | 1/8 |
+| Host Name | Zyzma |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, October 29, 2023 11:42:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716084324531 |
+| Players | 1/8 |
+| Host Name | Flam |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, October 29, 2023 11:42:10 |
 
 
 |  | epic_boss_fight_normal |
@@ -113,18 +140,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716082484762 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Alessia Cara |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 11:38:43 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495716084079810 |
-| Players | 1/5 |
-| Host Name | Nibs :) |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 11:41:43 |
 
 
