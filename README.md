@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716312876812 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Danrik |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 16:55:31 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 16:43:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716336959237 |
-| Players | 6/8 |
-| Host Name | bodyguard |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 17:23:20 |
+| Lobby ID | 28495716337578631 |
+| Players | 2/15 |
+| Host Name | TCCookie |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 17:24:02 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716335430291 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | impulse 101 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, October 29, 2023 17:21:39 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716335325565 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 17:21:32 |
@@ -139,10 +139,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495716337497586 |
+| Lobby ID | 28495716337568668 |
+| Players | 2/10 |
+| Host Name | bugdughh |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, October 29, 2023 17:24:01 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495716337657883 |
 | Players | 1/10 |
 | Host Name | ivsc |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 17:23:56 |
+| Lobby Creation Time | Sunday, October 29, 2023 17:24:07 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495716337725923 |
+| Players | 1/5 |
+| Host Name | laskovaya |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 17:24:11 |
 
 
