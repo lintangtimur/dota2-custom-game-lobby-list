@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715988987895 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | H1RO |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 08:23:44 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715989061467 |
+| Lobby ID | 28495715989358987 |
 | Players | 5/8 |
-| Host Name | The Honored One |
+| Host Name | .#h21z |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 08:23:54 |
+| Lobby Creation Time | Sunday, October 29, 2023 08:24:33 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715989236223 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | Yonwalther |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 08:24:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495715989357420 |
-| Players | 7/8 |
-| Host Name | 012929 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 08:24:32 |
+| Lobby ID | 28495715983424291 |
+| Players | 3/24 |
+| Host Name | RuMpLeStILtS |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, October 29, 2023 08:11:52 |
 
 
 |  | ot3_desert_octet |
@@ -74,22 +74,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 08:08:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715989358987 |
-| Players | 2/8 |
-| Host Name | .#h21z |
+| Lobby ID | 28495715989565674 |
+| Players | 2/10 |
+| Host Name | Oklahoma |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 08:24:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715989580998 |
+| Players | 1/15 |
+| Host Name | ⁽⁽ପ꒰ ྀི ◜ ᴗ ◝ |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 08:24:33 |
+| Lobby Creation Time | Sunday, October 29, 2023 08:25:01 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715983424291 |
-| Players | 2/24 |
-| Host Name | RuMpLeStILtS |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, October 29, 2023 08:11:52 |
+| Lobby ID | 28495715989616780 |
+| Players | 1/10 |
+| Host Name | obich |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 08:25:06 |
 
 
 |  | epic_boss_fight_normal |
