@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716036794328 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | Miselaniuz |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 10:08:44 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716034211540 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Nerfstyle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 10:03:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495716035390797 |
-| Players | 9/10 |
-| Host Name | oniqzone- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 10:05:48 |
+| Lobby ID | 28495716036872223 |
+| Players | 1/24 |
+| Host Name | 21Savage |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 10:08:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716036859020 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | ningen |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 10:08:52 |
