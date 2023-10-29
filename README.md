@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716456518741 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Пеноплекс |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 19:17:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716454868221 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | THEY DID ME DIRTY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 19:16:19 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 19:09:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716456354823 |
-| Players | 6/10 |
-| Host Name | ANM |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, October 29, 2023 19:17:34 |
+| Lobby ID | 28495716458146865 |
+| Players | 1/8 |
+| Host Name | ты слабый |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, October 29, 2023 19:19:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716450724113 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Another one? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 19:12:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716457496289 |
-| Players | 2/10 |
-| Host Name | -KUSAKABI- |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 19:18:31 |
+| Lobby ID | 28495716458212323 |
+| Players | 1/8 |
+| Host Name | guts |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 19:19:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -146,13 +146,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 19:18:58 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495716458100637 |
+| Players | 4/24 |
+| Host Name | MeGuesta |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, October 29, 2023 19:19:02 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716458051213 |
-| Players | 1/15 |
-| Host Name | СКОЛЬЗКИЙ ТИП |
+| Lobby ID | 28495716458111245 |
+| Players | 3/15 |
+| Host Name | pos 5 only |
 | Region | BRAZIL |
-| Lobby Creation Time | Sunday, October 29, 2023 19:18:59 |
+| Lobby Creation Time | Sunday, October 29, 2023 19:19:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716458072540 |
+| Players | 1/8 |
+| Host Name | Levi Ackerman |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, October 29, 2023 19:19:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495716458078818 |
+| Players | 2/10 |
+| Host Name | AperolNeGespritz |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 19:19:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -167,7 +194,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716451927167 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Fey |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 19:13:52 |
@@ -176,7 +203,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716454714695 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | npocmodvp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 19:16:11 |
@@ -184,10 +211,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28495716458025647 |
+| Lobby ID | 28495716458233003 |
 | Players | 1/5 |
-| Host Name | TAMARS |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, October 29, 2023 19:18:58 |
+| Host Name | शैतानשטןអារ |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, October 29, 2023 19:19:09 |
 
 
