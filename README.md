@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716273666723 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 1375 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 16:09:49 |
@@ -113,8 +113,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716274231078 |
-| Players | 2/8 |
-| Host Name | Ar4y61 |
+| Players | 1/8 |
+| Host Name | 木瓜 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 16:10:28 |
 
@@ -148,11 +148,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716274564983 |
-| Players | 1/10 |
-| Host Name | RaFXander |
+| Lobby ID | 28495716274660898 |
+| Players | 2/10 |
+| Host Name | . |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 16:10:52 |
+| Lobby Creation Time | Sunday, October 29, 2023 16:10:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -162,6 +162,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | не люблю неформал |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 16:10:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495716274643860 |
+| Players | 1/10 |
+| Host Name | Legend~ |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, October 29, 2023 16:10:57 |
 
 
 |  | epic_boss_fight_normal |
