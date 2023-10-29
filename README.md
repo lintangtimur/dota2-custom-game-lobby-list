@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716460206755 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | wrodee"net~ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 19:20:47 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716458100637 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | MeGuesta |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, October 29, 2023 19:19:02 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716461505124 |
-| Players | 2/10 |
-| Host Name | btcusdt |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, October 29, 2023 19:21:51 |
+| Lobby ID | 28495716461646187 |
+| Players | 5/10 |
+| Host Name | L u 4 i s t i y   P i r o j o k |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, October 29, 2023 19:21:58 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716458275947 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 19:19:11 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716460454846 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Ges |
 | Region | AUSTRIA |
 | Lobby Creation Time | Sunday, October 29, 2023 19:20:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716461492476 |
-| Players | 1/8 |
-| Host Name | clown pepe |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 19:21:50 |
+| Lobby ID | 28495716461231417 |
+| Players | 1/15 |
+| Host Name | Deep Lore Investigator |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, October 29, 2023 19:21:38 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716460890172 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | i |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 19:21:21 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716461005116 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | I ONCE SHAGGED A GOAT |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, October 29, 2023 19:21:27 |
@@ -130,20 +130,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716460998351 |
-| Players | 1/8 |
-| Host Name | BROOKLYN |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 19:21:26 |
+| Lobby ID | 28495716461751367 |
+| Players | 2/8 |
+| Host Name | Jay Jo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 19:22:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716461231417 |
-| Players | 1/15 |
-| Host Name | Deep Lore Investigator |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 19:21:38 |
+| Lobby ID | 28495716461855618 |
+| Players | 2/10 |
+| Host Name | btcusdt |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, October 29, 2023 19:22:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716461824510 |
+| Players | 3/8 |
+| Host Name | def |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 19:22:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -171,5 +180,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | NikEng |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 19:21:34 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495716461675947 |
+| Players | 3/10 |
+| Host Name | alice |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 19:21:59 |
 
 
