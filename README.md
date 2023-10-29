@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715959479425 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | TikTok |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 07:23:08 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715959625246 |
-| Players | 2/8 |
-| Host Name | курение |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 07:23:27 |
+| Lobby ID | 28495715959086481 |
+| Players | 7/8 |
+| Host Name | Дырка-пироженка |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, October 29, 2023 07:22:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 06:05:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715958580965 |
-| Players | 21/24 |
-| Host Name | Lales |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 07:21:09 |
+| Lobby ID | 28495715959860145 |
+| Players | 1/15 |
+| Host Name | Perfect. в деле |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 07:23:58 |
 
 
 |  | ot3_gardens_duo |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715959248363 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | максим |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 07:22:37 |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 07:15:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715959086481 |
-| Players | 5/8 |
-| Host Name | Дырка-пироженка |
+| Lobby ID | 28495715959887612 |
+| Players | 1/15 |
+| Host Name | доброкот |
 | Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 07:22:16 |
+| Lobby Creation Time | Sunday, October 29, 2023 07:24:01 |
 
 
 |  | epic_boss_fight_normal |
