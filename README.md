@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716045194911 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | cawo_14 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 10:26:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716046646202 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Xiomara♡ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 10:29:07 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716047459607 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Su kachero de |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 10:30:51 |
@@ -144,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PR0F3T4 |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, October 29, 2023 10:30:17 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495716047524995 |
+| Players | 1/10 |
+| Host Name | Daee |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 10:30:59 |
 
 
