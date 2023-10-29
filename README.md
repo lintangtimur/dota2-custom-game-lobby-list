@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716791000510 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | wotam |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Sunday, October 29, 2023 23:37:10 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716788893495 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | 1000-7 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 23:35:07 |
@@ -155,13 +155,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 23:37:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495716787256802 |
-| Players | 12/15 |
-| Host Name | Runvaldr |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 23:33:33 |
+| Lobby ID | 28495716791961768 |
+| Players | 1/24 |
+| Host Name | if i can buy brain for idiot |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 23:38:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -171,6 +171,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MR. PENIS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 23:36:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495716791919327 |
+| Players | 1/10 |
+| Host Name | Never |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 23:38:03 |
 
 
 |  | epic_boss_fight_challenger |
@@ -221,7 +230,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28495716791774763 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | DIONE |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 23:37:55 |
