@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495716020321404 |
-| Players | 23/24 |
-| Host Name | The Unknown |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 09:35:08 |
+| Lobby ID | 28495716023384980 |
+| Players | 1/24 |
+| Host Name | H1RO |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 09:41:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 07:41:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716022876485 |
-| Players | 6/8 |
-| Host Name | COCO BASILE |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 09:40:14 |
+| Lobby ID | 28495716024000612 |
+| Players | 9/10 |
+| Host Name | Фанат Частушек |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, October 29, 2023 09:42:31 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,28 +47,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 09:34:42 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716017811413 |
-| Players | 1/24 |
-| Host Name | rushhouratapothecarytower |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, October 29, 2023 09:30:25 |
+| Lobby ID | 28495716024090541 |
+| Players | 2/8 |
+| Host Name | CRYX |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 09:42:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716023719769 |
-| Players | 1/15 |
-| Host Name | 野马跳涧！ |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Sunday, October 29, 2023 09:41:56 |
+| Lobby ID | 28495716024113545 |
+| Players | 1/8 |
+| Host Name | hopeless |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 09:42:44 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716021471494 |
-| Players | 6/24 |
+| Players | 14/24 |
 | Host Name | freshejka |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 09:37:25 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716021352660 |
-| Players | 3/8 |
-| Host Name | White shores...and beyond |
+| Players | 1/8 |
+| Host Name | RockSpirit |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 09:37:10 |
 
@@ -86,55 +86,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716023472713 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | alucarD :) |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 09:41:26 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716023384980 |
-| Players | 1/24 |
-| Host Name | H1RO |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 09:41:15 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495716023172161 |
-| Players | 7/10 |
-| Host Name | ahUO |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, October 29, 2023 09:40:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495716023332449 |
-| Players | 11/15 |
-| Host Name | Dark♥ |
+| Lobby ID | 28495716023988806 |
+| Players | 1/8 |
+| Host Name | MOTOMAMI |
 | Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 09:41:09 |
+| Lobby Creation Time | Sunday, October 29, 2023 09:42:29 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716023416805 |
-| Players | 1/15 |
-| Host Name | Воришка Антон |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 09:41:19 |
+| Lobby ID | 28495716022866713 |
+| Players | 13/15 |
+| Host Name | Si me la cache y ? |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 09:40:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716023703534 |
-| Players | 1/15 |
-| Host Name | STONE-ISLAND |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 09:41:54 |
+| Lobby ID | 28495716024092523 |
+| Players | 3/15 |
+| Host Name | Keyo |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 09:42:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716024050276 |
+| Players | 2/15 |
+| Host Name | Montinha |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 09:42:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716024244552 |
+| Players | 1/8 |
+| Host Name | gravity |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 09:43:00 |
 
 
 |  | epic_boss_fight_normal |
@@ -167,19 +167,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716021182439 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | mad_wisp |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, October 29, 2023 09:36:50 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495716022161511 |
-| Players | 9/10 |
-| Host Name | neikus |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 09:38:47 |
 
 
 |  | epic_boss_fight_normal |
@@ -189,5 +180,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Shadow- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 09:40:09 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28495716024103323 |
+| Players | 1/7 |
+| Host Name | Royko rasa bebek |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 09:42:43 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495716024239496 |
+| Players | 2/5 |
+| Host Name | серёга сникерс |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 09:43:00 |
 
 
