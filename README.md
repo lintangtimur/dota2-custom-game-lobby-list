@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716204410793 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | W |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Sunday, October 29, 2023 14:45:49 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716204995735 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Road to 1k MMR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 14:46:34 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716204387857 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | hi |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, October 29, 2023 14:45:48 |
@@ -146,13 +146,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 14:46:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716205278708 |
-| Players | 5/8 |
-| Host Name | ТОША КОМФОРТИК |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 14:46:56 |
+| Lobby ID | 28495716205348628 |
+| Players | 1/15 |
+| Host Name | alkalines |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 14:47:01 |
 
 
 |  | epic_boss_fight_normal |
@@ -185,8 +185,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28495716202264402 |
-| Players | 2/5 |
-| Host Name | Korol37441 |
+| Players | 1/5 |
+| Host Name | !🙂 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 14:43:05 |
 
@@ -194,18 +194,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716204956875 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | DeD_XacaH |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 14:46:31 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495716205278073 |
-| Players | 1/5 |
-| Host Name | Моргеншприц |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 14:46:56 |
 
 
