@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716712925624 |
-| Players | 1/15 |
-| Host Name | Miracle- |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 22:28:52 |
+| Lobby ID | 28495716713262457 |
+| Players | 1/10 |
+| Host Name | 世界的主人 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 22:29:08 |
 
 
 |  | ot3_desert_octet |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716709011451 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | AndreXD |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 22:25:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716712832882 |
-| Players | 1/15 |
-| Host Name | OoKemikalyoO |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 22:28:47 |
+| Lobby ID | 28495716713142159 |
+| Players | 3/8 |
+| Host Name | durak |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, October 29, 2023 22:29:02 |
 
 
 |  | ot3_gardens_duo |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716712577946 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | жёсткий кумар |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 22:28:35 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716648043993 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Wuusah |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 21:39:44 |
@@ -164,22 +164,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 22:27:51 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716713234231 |
+| Players | 1/8 |
+| Host Name | soy rata |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 22:29:06 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716712982873 |
-| Players | 1/15 |
+| Lobby ID | 28495716713196984 |
+| Players | 8/15 |
 | Host Name | Murzabood |
 | Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 22:28:54 |
+| Lobby Creation Time | Sunday, October 29, 2023 22:29:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716713038109 |
-| Players | 2/15 |
-| Host Name | Devl1cs |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, October 29, 2023 22:28:57 |
+| Lobby ID | 28495716713266625 |
+| Players | 1/10 |
+| Host Name | lera2000 吴利 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 22:29:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -194,7 +203,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716710120121 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Big Gringo |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 22:26:41 |
@@ -209,21 +218,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 22:23:21 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495716712471844 |
-| Players | 1/5 |
-| Host Name | luomadiguodedie |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 22:28:30 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716712696685 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | clglOgck |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 22:28:41 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495716713151733 |
+| Players | 1/5 |
+| Host Name | Odin |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 22:29:02 |
 
 
