@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716735982232 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Pacachontas |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, October 29, 2023 22:47:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716725736830 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, October 29, 2023 22:39:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716738565360 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Asmodese |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 22:49:41 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 22:49:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716738175961 |
-| Players | 1/15 |
-| Host Name | Carolina |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 22:49:21 |
+| Lobby ID | 28495716738937944 |
+| Players | 4/10 |
+| Host Name | Ass weekend |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, October 29, 2023 22:49:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716738702621 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | mimi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 22:49:48 |
@@ -148,20 +148,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716738803898 |
-| Players | 2/10 |
-| Host Name | PajKun |
+| Lobby ID | 28495716738856345 |
+| Players | 1/10 |
+| Host Name | Drughill'нулся |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, October 29, 2023 22:49:53 |
+| Lobby Creation Time | Sunday, October 29, 2023 22:49:55 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716738813668 |
-| Players | 3/8 |
-| Host Name | L.V.Y. |
+| Lobby ID | 28495716739029104 |
+| Players | 1/8 |
+| Host Name | [PDPVS]ZLL✠我干了你妈妈 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, October 29, 2023 22:50:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716738842146 |
+| Players | 1/8 |
+| Host Name | татарская щель |
 | Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 22:49:53 |
+| Lobby Creation Time | Sunday, October 29, 2023 22:49:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716739017655 |
+| Players | 1/15 |
+| Host Name | Ruthless |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 22:50:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716739056305 |
+| Players | 1/8 |
+| Host Name | ешкере |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 22:50:05 |
 
 
 |  | epic_boss_fight_normal |
@@ -176,7 +203,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716738509060 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | KazuyA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 22:49:38 |
@@ -202,19 +229,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28495716738768448 |
+| Lobby ID | 28495716738900402 |
 | Players | 1/5 |
 | Host Name | Сэр Гей |
 | Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 22:49:51 |
+| Lobby Creation Time | Sunday, October 29, 2023 22:49:58 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495716738823219 |
-| Players | 1/5 |
-| Host Name | nighty america |
+| Lobby ID | 28495716739051751 |
+| Players | 1/10 |
+| Host Name | ebachyo |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, October 29, 2023 22:49:54 |
+| Lobby Creation Time | Sunday, October 29, 2023 22:50:05 |
 
 
