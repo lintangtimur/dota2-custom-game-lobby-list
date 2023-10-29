@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716008949583 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | H1RO |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 09:09:35 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716009811144 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Bonitos y gorditos hijos de puta |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 09:11:42 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495716009293294 |
-| Players | 23/24 |
-| Host Name | Surprise |
+| Lobby ID | 28495716010360894 |
+| Players | 1/24 |
+| Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 09:10:25 |
+| Lobby Creation Time | Sunday, October 29, 2023 09:13:04 |
 
 
 |  | ot3_desert_octet |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716009720530 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | F-A-Y-D-A-R-E TONY |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 09:11:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716007369025 |
+| Players | 14/15 |
+| Host Name | FORNICATOR_MAXIMUS |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, October 29, 2023 09:05:33 |
 
 
 |  | epic_boss_fight_normal |
@@ -130,19 +139,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495716010233478 |
+| Lobby ID | 28495716010383582 |
 | Players | 1/10 |
 | Host Name | Двуликий анус |
 | Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 09:12:45 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495716010324041 |
-| Players | 1/10 |
-| Host Name | TriHard |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 09:12:59 |
+| Lobby Creation Time | Sunday, October 29, 2023 09:13:08 |
 
 
