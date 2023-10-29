@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716035434686 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | huge robot penguin |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 10:05:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716034211540 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Nerfstyle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 10:03:21 |
@@ -117,6 +117,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | H1RO |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 10:07:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716036494547 |
+| Players | 1/15 |
+| Host Name | 星十字の騎士 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 10:08:07 |
 
 
 |  | epic_boss_fight_normal |
