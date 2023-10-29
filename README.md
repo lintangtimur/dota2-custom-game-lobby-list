@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716108205978 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ็ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 12:25:11 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716108570766 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | ogubhwe |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 12:25:50 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | i target on madness |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 12:25:52 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716108693564 |
+| Players | 1/15 |
+| Host Name | f |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 12:26:03 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Alessia Cara |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 12:22:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495716108637211 |
+| Players | 1/5 |
+| Host Name | Tesladin_ |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 12:25:57 |
 
 
