@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715968602511 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Coolriree |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 07:41:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716173332814 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | kpeghek |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 14:05:19 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716172358272 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | Cloud |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 14:04:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716172838878 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | ... |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 14:04:39 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716173645662 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Evlogos |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 14:05:44 |
@@ -128,6 +128,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 14:05:52 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495716173810254 |
+| Players | 2/10 |
+| Host Name | Убимуби Осас |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 14:05:57 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28495715837414572 |
@@ -162,14 +171,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GreShnik |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 14:04:52 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495716173727228 |
-| Players | 1/5 |
-| Host Name | SwAk |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, October 29, 2023 14:05:50 |
 
 
