@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716061078392 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Dota Veteran |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, October 29, 2023 10:58:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716061120550 |
-| Players | 14/15 |
-| Host Name | Goahitle |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 10:58:18 |
+| Lobby ID | 28495716061597575 |
+| Players | 2/10 |
+| Host Name | устал... |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, October 29, 2023 10:59:11 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716060342010 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | CAMARADA CAPIBARA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 10:56:51 |
@@ -101,33 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 10:58:37 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716061335240 |
-| Players | 3/8 |
-| Host Name | pinkcore |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 10:58:42 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495716060736984 |
-| Players | 23/24 |
-| Host Name | MiauW |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 10:57:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495716061482089 |
-| Players | 5/15 |
-| Host Name | Robther |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 10:58:58 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28495715837414572 |
@@ -158,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716060612029 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | skyrutt |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 10:57:21 |
