@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716743418095 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | ·•Spirit_BeeR•· |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 22:53:47 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716744736827 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Issou Naite Kleub |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 22:54:54 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716744293094 |
-| Players | 1/8 |
-| Host Name | Batman |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, October 29, 2023 22:54:32 |
+| Lobby ID | 28495716744940548 |
+| Players | 1/15 |
+| Host Name | Замшелый |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 22:55:05 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716725736830 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, October 29, 2023 22:39:03 |
@@ -128,22 +128,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 22:54:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716744756365 |
-| Players | 1/15 |
-| Host Name | mozarella galbani |
+| Lobby ID | 28495716744937445 |
+| Players | 3/8 |
+| Host Name | ilyusha_lavandos |
 | Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 22:54:56 |
+| Lobby Creation Time | Sunday, October 29, 2023 22:55:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716744780837 |
-| Players | 10/15 |
-| Host Name | Heb |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, October 29, 2023 22:54:57 |
+| Lobby ID | 28495716745091278 |
+| Players | 1/8 |
+| Host Name | ☺ |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 22:55:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716745115642 |
+| Players | 2/8 |
+| Host Name | yebuchiy |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 22:55:14 |
 
 
 |  | epic_boss_fight_challenger |
