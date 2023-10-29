@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716393621054 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Nemro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 18:21:16 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716388699412 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | fade away |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 18:16:32 |
@@ -121,20 +121,74 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716394336114 |
+| Lobby ID | 28495716394434797 |
 | Players | 1/15 |
-| Host Name | 喜欢玩花仙子憋点金出A |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 18:21:57 |
+| Host Name | САНСАНЫЧ |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, October 29, 2023 18:22:02 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716394348283 |
+| Lobby ID | 28495716394406673 |
 | Players | 1/8 |
-| Host Name | Synced |
+| Host Name | убийца саппортов |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 18:21:57 |
+| Lobby Creation Time | Sunday, October 29, 2023 18:22:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716394489432 |
+| Players | 1/8 |
+| Host Name | По ГОСТу |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, October 29, 2023 18:22:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716394367574 |
+| Players | 3/15 |
+| Host Name | Eloxiertes Robobärchen |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, October 29, 2023 18:21:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716394404411 |
+| Players | 1/8 |
+| Host Name | Almost |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 18:22:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716394526499 |
+| Players | 1/15 |
+| Host Name | 喜欢玩花仙子憋点金出A |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 18:22:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716394537970 |
+| Players | 1/15 |
+| Host Name | Kareranomono |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 18:22:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716390901440 |
+| Players | 14/15 |
+| Host Name | LRigLana |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, October 29, 2023 18:18:41 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -153,5 +207,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Vertual |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 17:55:15 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495716392207852 |
+| Players | 1/10 |
+| Host Name | KapiToshka |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, October 29, 2023 18:19:56 |
 
 
