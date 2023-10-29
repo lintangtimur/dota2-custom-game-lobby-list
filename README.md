@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 06:58:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715948238242 |
-| Players | 14/15 |
-| Host Name | X |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 06:58:27 |
+| Lobby ID | 28495715948927055 |
+| Players | 1/8 |
+| Host Name | А |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 06:59:50 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715948044243 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | El Diferente |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 06:58:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715948737963 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | soldi |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 06:59:27 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715948706487 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | AcidBlack |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 06:59:24 |
@@ -146,15 +146,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 06:59:03 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715948927055 |
-| Players | 1/8 |
-| Host Name | А |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 06:59:50 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28495715837414572 |
@@ -176,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715948644261 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Гомма |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 06:59:16 |
