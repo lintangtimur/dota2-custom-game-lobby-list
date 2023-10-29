@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716524975155 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | аааа |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, October 29, 2023 20:10:36 |
@@ -122,8 +122,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716525053536 |
-| Players | 7/8 |
-| Host Name | pfxtv? |
+| Players | 3/8 |
+| Host Name | Basar |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Sunday, October 29, 2023 20:10:39 |
 
@@ -153,5 +153,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Wrath of Dolphins |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 20:08:54 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495716525519826 |
+| Players | 2/5 |
+| Host Name | xlntamer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, October 29, 2023 20:11:00 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495716525620796 |
+| Players | 1/5 |
+| Host Name | Velikiy Waaagh! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 20:11:04 |
 
 
