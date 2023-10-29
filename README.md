@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716725751945 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Ｍｒ． Ｒｏｂｏｔ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 22:39:03 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716730668983 |
+| Lobby ID | 28495716729213734 |
 | Players | 1/8 |
-| Host Name | ProL@₽$ |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, October 29, 2023 22:43:05 |
+| Host Name | durak |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 22:41:53 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716722168528 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | A1e3 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 22:36:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716716606229 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | OoKemikalyoO |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 22:31:45 |
@@ -94,29 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495716731746143 |
-| Players | 1/24 |
-| Host Name | 浮生幻梦 |
+| Lobby ID | 28495716731734356 |
+| Players | 2/24 |
+| Host Name | เคย์จัง |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 22:43:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495716731574079 |
-| Players | 3/10 |
-| Host Name | сбил кларити |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 22:43:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716731093777 |
-| Players | 5/8 |
-| Host Name | Йаcobs monarch |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, October 29, 2023 22:43:26 |
+| Lobby Creation Time | Sunday, October 29, 2023 22:43:57 |
 
 
 |  | ot3_desert_octet |
@@ -131,34 +113,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716731571841 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | I.G |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, October 29, 2023 22:43:49 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716729213734 |
-| Players | 1/8 |
-| Host Name | durak |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 22:41:53 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495716731734356 |
-| Players | 1/24 |
-| Host Name | เคย์จัง |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 22:43:57 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716730267262 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Caesar_091 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 22:42:45 |
@@ -176,9 +140,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28495716730895088 |
-| Players | 3/5 |
-| Host Name | Патриарх |
+| Players | 2/5 |
+| Host Name | фэшн демон |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, October 29, 2023 22:43:16 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495716728662699 |
+| Players | 8/10 |
+| Host Name | i lost |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 22:41:26 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495716731972940 |
+| Players | 1/5 |
+| Host Name | die |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, October 29, 2023 22:44:09 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495716731956545 |
+| Players | 1/5 |
+| Host Name | взрывакамакака2012 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, October 29, 2023 22:44:08 |
 
 
