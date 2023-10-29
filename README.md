@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716164791313 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Михей,Ира,Дима,Гена <3<3 |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, October 29, 2023 13:53:44 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 13:54:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716160670986 |
-| Players | 14/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 13:48:08 |
+| Lobby ID | 28495716166468264 |
+| Players | 1/8 |
+| Host Name | Void el Constructor |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 13:56:02 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716164200872 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Missing |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 13:52:56 |
