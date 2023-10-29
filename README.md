@@ -103,29 +103,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716456498727 |
-| Players | 1/15 |
-| Host Name | Michael Jackson Beat it |
+| Lobby ID | 28495716456711365 |
+| Players | 5/15 |
+| Host Name | Ethan |
 | Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 19:17:41 |
+| Lobby Creation Time | Sunday, October 29, 2023 19:17:52 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716456125251 |
 | Players | 12/15 |
-| Host Name | Morflee |
+| Host Name | СладкоеПиво |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 19:17:22 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716456237243 |
-| Players | 1/24 |
-| Host Name | 123456 |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 19:17:28 |
+| Lobby ID | 28495716456695890 |
+| Players | 2/10 |
+| Host Name | -KUSAKABI- |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 19:17:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716456518741 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Пеноплекс |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 19:17:42 |
@@ -148,20 +148,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716456695890 |
+| Lobby ID | 28495716456890974 |
 | Players | 2/10 |
-| Host Name | -KUSAKABI- |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 19:17:51 |
+| Host Name | Morflee |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, October 29, 2023 19:18:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716456711365 |
-| Players | 5/15 |
-| Host Name | Ethan |
+| Lobby ID | 28495716456917398 |
+| Players | 1/8 |
+| Host Name | Michael Jackson Beat it |
 | Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 19:17:52 |
+| Lobby Creation Time | Sunday, October 29, 2023 19:18:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -203,7 +203,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716454714695 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | npocmodvp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 19:16:11 |
