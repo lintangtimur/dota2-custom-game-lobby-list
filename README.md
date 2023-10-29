@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716522961670 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 20:09:06 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716529990212 |
-| Players | 6/24 |
+| Players | 13/24 |
 | Host Name | Say my name |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, October 29, 2023 20:14:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495716529964864 |
-| Players | 7/10 |
-| Host Name | guappa |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, October 29, 2023 20:14:15 |
+| Lobby ID | 28495716531226023 |
+| Players | 1/24 |
+| Host Name | 一天不导积阳德，两天不导积积阳阳德 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, October 29, 2023 20:15:11 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716514481188 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | обед |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 20:02:51 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716529917839 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Ta1sty |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, October 29, 2023 20:14:13 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716530853417 |
+| Lobby ID | 28495716531142107 |
 | Players | 1/8 |
-| Host Name | СУЕТОЛОГ |
+| Host Name | tik-tok/кИРЮхаОФФниК |
 | Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 20:14:55 |
+| Lobby Creation Time | Sunday, October 29, 2023 20:15:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -148,29 +148,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716530935354 |
-| Players | 2/8 |
-| Host Name | <3 </3 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 20:14:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716530951442 |
-| Players | 1/8 |
-| Host Name | tik-tok/кИРЮхаОФФниК |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 20:14:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716530953454 |
+| Lobby ID | 28495716531082692 |
 | Players | 1/8 |
 | Host Name | Я хороший |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, October 29, 2023 20:14:59 |
+| Lobby Creation Time | Sunday, October 29, 2023 20:15:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716531142035 |
+| Players | 1/8 |
+| Host Name | 022 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 20:15:07 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495716531242749 |
+| Players | 2/24 |
+| Host Name | Silenthill |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, October 29, 2023 20:15:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716531213997 |
+| Players | 4/8 |
+| Host Name | Feelingpeace’s |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 20:15:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -185,7 +194,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716514300208 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | k. Danger-Zone |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Sunday, October 29, 2023 20:02:43 |
@@ -227,12 +236,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 20:14:57 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28495716530916168 |
-| Players | 1/7 |
-| Host Name | proulx |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, October 29, 2023 20:14:57 |
+| Lobby ID | 28495716531227893 |
+| Players | 1/5 |
+| Host Name | Sky_Wook ❟❛❟ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 20:15:11 |
 
 
