@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716040361995 |
-| Players | 21/24 |
-| Host Name | ~{ ■} |
+| Lobby ID | 28495716041978978 |
+| Players | 7/15 |
+| Host Name | roswel |
 | Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 10:16:01 |
+| Lobby Creation Time | Sunday, October 29, 2023 10:19:23 |
 
 
 |  | ot3_jungle_quintet |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 07:41:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716040209826 |
-| Players | 9/15 |
-| Host Name | Tike Myson |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, October 29, 2023 10:15:43 |
+| Lobby ID | 28495716042197489 |
+| Players | 1/8 |
+| Host Name | AkiKo Annaisha kim Sung |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 10:19:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 09:34:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495716041093326 |
-| Players | 14/15 |
-| Host Name | Degenerate Evolutionary |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 10:17:32 |
+| Lobby ID | 28495716041782860 |
+| Players | 2/24 |
+| Host Name | Aki ゲーマー |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 10:18:58 |
 
 
 |  | ot3_gardens_duo |
@@ -74,31 +74,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 10:18:51 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716041782860 |
-| Players | 1/24 |
-| Host Name | Aki ゲーマー |
+| Lobby ID | 28495716041819339 |
+| Players | 2/8 |
+| Host Name | Azər Babaev |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 10:18:58 |
+| Lobby Creation Time | Sunday, October 29, 2023 10:19:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495716042008240 |
+| Players | 2/10 |
+| Host Name | UG.Shadow~ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 10:19:27 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716041785076 |
+| Lobby ID | 28495716041937525 |
 | Players | 1/15 |
-| Host Name | глуп3.ц |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 10:18:59 |
+| Host Name | EL MAS CAPITO |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 10:19:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716039659165 |
-| Players | 7/8 |
-| Host Name | In Solo We Trust |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 10:14:37 |
+| Lobby ID | 28495716042126800 |
+| Players | 5/10 |
+| Host Name | Dav |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 10:19:42 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495716042146701 |
+| Players | 2/24 |
+| Host Name | Trymike4Instance |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 10:19:44 |
 
 
 |  | epic_boss_fight_normal |
@@ -113,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28495715898935644 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | svatoslav |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 05:31:21 |
@@ -126,5 +144,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Daywalker |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, October 29, 2023 07:55:42 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495716041940487 |
+| Players | 1/10 |
+| Host Name | 123 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 10:19:18 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495716042254111 |
+| Players | 1/5 |
+| Host Name | Hashirama Senju |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, October 29, 2023 10:19:57 |
 
 
