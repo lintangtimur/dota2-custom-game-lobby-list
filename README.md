@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716028049199 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | 13 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 09:50:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716029468586 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | .anufu |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, October 29, 2023 09:53:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716028245836 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Yung Prawna |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, October 29, 2023 09:51:11 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716029106542 |
-| Players | 7/8 |
+| Players | 2/8 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 09:52:58 |
@@ -113,10 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716029154551 |
-| Players | 10/15 |
-| Host Name | puro baboso |
+| Players | 8/15 |
+| Host Name | TENGO SOBREPESO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 09:53:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495716028521605 |
+| Players | 23/24 |
+| Host Name | POOL VAMOS A TOMAR |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 09:51:45 |
 
 
 |  | epic_boss_fight_normal |
@@ -162,14 +171,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Vivi |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 09:54:48 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495716030034734 |
-| Players | 2/10 |
-| Host Name | поняш |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 09:54:55 |
 
 
