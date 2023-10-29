@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716050952161 |
-| Players | 6/24 |
+| Players | 13/24 |
 | Host Name | :D |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 10:38:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716049829230 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | TicTac |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 10:35:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716049582759 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | H1RO |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 10:35:25 |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716050739845 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | патрик тюряга |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 10:37:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716051384789 |
+| Players | 3/8 |
+| Host Name | DPGaming |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 10:39:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716051646648 |
+| Players | 1/8 |
+| Host Name | Tu Terror |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 10:40:01 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,9 +140,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716049960243 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | 3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 10:36:16 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495716051413952 |
+| Players | 2/10 |
+| Host Name | zickit |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 10:39:29 |
 
 
