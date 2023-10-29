@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716125344166 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ПАНК |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 12:54:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716125852251 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | "[。ヤミ金   。イタミ。 |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 12:55:39 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716126211526 |
-| Players | 3/15 |
-| Host Name | бакуган |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 12:56:13 |
+| Lobby ID | 28495716126718576 |
+| Players | 1/15 |
+| Host Name | DER'MODEMON |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 12:57:00 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716126135610 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | lOOfy |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 12:56:06 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716126200028 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | B.oob |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, October 29, 2023 12:56:12 |
@@ -128,13 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 12:56:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716126693302 |
-| Players | 1/8 |
-| Host Name | MGE BRATOK |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 12:56:58 |
+| Lobby ID | 28495716126798131 |
+| Players | 1/10 |
+| Host Name | Like me pls |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, October 29, 2023 12:57:08 |
 
 
 |  | epic_boss_fight_normal |
