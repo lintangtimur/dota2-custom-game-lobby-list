@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 06:51:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717127795737 |
-| Players | 1/8 |
-| Host Name | h3llg1 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 06:51:51 |
+| Lobby ID | 28495717127874238 |
+| Players | 1/24 |
+| Host Name | Chatter |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 06:52:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717127792531 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | KurkkuMopo |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 06:51:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717127790602 |
-| Players | 1/24 |
-| Host Name | rot |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 06:51:50 |
+| Lobby ID | 28495717127422491 |
+| Players | 6/8 |
+| Host Name | angel may cry. |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 06:50:59 |
 
 
 |  | epic_boss_fight_normal |
