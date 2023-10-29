@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715949257665 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | ☢PELIGRO👽 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 07:00:36 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715946919969 |
-| Players | 7/10 |
-| Host Name | Chunchunmaru |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 06:55:48 |
+| Lobby ID | 28495715949363475 |
+| Players | 3/10 |
+| Host Name | Miku |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 07:00:51 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715947377920 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Elya |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, October 29, 2023 06:56:43 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715948706487 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | AcidBlack |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 06:59:24 |
@@ -103,20 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715949363643 |
-| Players | 1/15 |
-| Host Name | 私が彼を殺す前に？ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 07:00:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495715949363475 |
-| Players | 2/10 |
-| Host Name | Miku |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 07:00:51 |
+| Lobby ID | 28495715949437262 |
+| Players | 4/15 |
+| Host Name | amon |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 07:01:01 |
 
 
 |  | epic_boss_fight_normal |
@@ -144,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MadKing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 07:00:34 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495715949440278 |
+| Players | 1/5 |
+| Host Name | Justers.Ex_Nihilo |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, October 29, 2023 07:01:01 |
 
 
