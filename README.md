@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495715971555969 |
-| Players | 3/10 |
-| Host Name | king.of.the.grace |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 07:47:36 |
+| Lobby ID | 28495715973533683 |
+| Players | 23/24 |
+| Host Name | SmL |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 07:51:45 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715968602511 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Coolriree |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 07:41:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715973899858 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | максим |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 07:52:30 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715974547635 |
-| Players | 3/10 |
-| Host Name | Mental GiGant |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 07:53:51 |
+| Lobby ID | 28495715975008783 |
+| Players | 2/10 |
+| Host Name | shedelok |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, October 29, 2023 07:54:49 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 07:52:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495715973959917 |
-| Players | 7/8 |
-| Host Name | 11 |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 07:52:38 |
+| Lobby ID | 28495715974889280 |
+| Players | 4/24 |
+| Host Name | SiMon Eden :3 |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 07:54:34 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715969100137 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Little Foot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 07:42:36 |
@@ -77,37 +77,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715974341148 |
-| Players | 9/24 |
+| Players | 16/24 |
 | Host Name | DragonBack |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 07:53:26 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715974990281 |
+| Players | 1/8 |
+| Host Name | skeeF |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 07:54:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495715975057059 |
+| Players | 2/10 |
+| Host Name | МарселинZ |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 07:54:55 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715973798366 |
-| Players | 13/15 |
-| Host Name | Amaro |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 07:52:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495715974277423 |
-| Players | 6/10 |
-| Host Name | ♥Miul♥ |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 07:53:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495715974548607 |
-| Players | 8/10 |
-| Host Name | extasy |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 07:53:51 |
+| Lobby ID | 28495715975102217 |
+| Players | 1/15 |
+| Host Name | RoRo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 07:55:00 |
 
 
 |  | epic_boss_fight_normal |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715974447734 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | antuar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 07:53:39 |
