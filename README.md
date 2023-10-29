@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716006428381 |
-| Players | 13/24 |
+| Players | 20/24 |
 | Host Name | :D |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 09:03:13 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716006196800 |
-| Players | 6/10 |
-| Host Name | DANICH |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 09:02:39 |
+| Lobby ID | 28495716006794895 |
+| Players | 1/8 |
+| Host Name | Sebas Tian |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, October 29, 2023 09:04:08 |
 
 
 |  | ot3_gardens_duo |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716006575985 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | A tu vieja la vuelvo mi gata |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 09:03:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716006641118 |
-| Players | 1/15 |
-| Host Name | Yo era ancestral pero me enamore |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 09:03:45 |
+| Lobby ID | 28495716006794961 |
+| Players | 4/8 |
+| Host Name | БОТ Гэрри |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 09:04:08 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716006670243 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Durotan |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 09:03:49 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716006741478 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Pasa la coca CTMR!!! |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, October 29, 2023 09:04:00 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495716007081325 |
+| Players | 1/24 |
+| Host Name | Ky |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 09:04:50 |
 
 
 |  | epic_boss_fight_normal |
