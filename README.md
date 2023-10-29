@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 09:30:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716023231894 |
-| Players | 6/8 |
-| Host Name | Marquise |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, October 29, 2023 09:40:57 |
+| Lobby ID | 28495716023719769 |
+| Players | 1/15 |
+| Host Name | 野马跳涧！ |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Sunday, October 29, 2023 09:41:56 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716023472713 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | alucarD :) |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 09:41:26 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716023332449 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Dark♥ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 09:41:09 |
@@ -135,15 +135,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | STONE-ISLAND |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Sunday, October 29, 2023 09:41:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495716022866713 |
-| Players | 11/15 |
-| Host Name | Si me la cache y ? |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 09:40:12 |
 
 
 |  | epic_boss_fight_normal |
@@ -185,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716022161511 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | neikus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 09:38:47 |
