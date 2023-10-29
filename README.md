@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 20:09:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716529008647 |
-| Players | 14/15 |
-| Host Name | Закерман |
+| Lobby ID | 28495716529473146 |
+| Players | 1/10 |
+| Host Name | Navi_Djcuco |
 | Region | CHILE |
-| Lobby Creation Time | Sunday, October 29, 2023 20:13:34 |
+| Lobby Creation Time | Sunday, October 29, 2023 20:13:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716529269055 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | 让我爱 |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, October 29, 2023 20:13:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716514481188 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | обед |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 20:02:51 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716528796506 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | senseofhumour |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, October 29, 2023 20:13:25 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716528103745 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Матоџа 🏴‍☠ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 20:12:54 |
@@ -101,22 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 20:13:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716529232801 |
-| Players | 2/8 |
-| Host Name | hyakky |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 20:13:44 |
+| Lobby ID | 28495716526552363 |
+| Players | 14/15 |
+| Host Name | emp.error |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 20:11:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716529390646 |
-| Players | 3/8 |
-| Host Name | Maglimur |
+| Lobby ID | 28495716529476570 |
+| Players | 1/15 |
+| Host Name | ЭЛEМEНТAЛЬ ПИВA |
 | Region | USWEST |
-| Lobby Creation Time | Sunday, October 29, 2023 20:13:50 |
+| Lobby Creation Time | Sunday, October 29, 2023 20:13:54 |
 
 
 |  | ot3_gardens_duo |
@@ -130,11 +130,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716529449966 |
-| Players | 1/8 |
-| Host Name | Main |
+| Lobby ID | 28495716529538452 |
+| Players | 5/8 |
+| Host Name | melee 4 pos=afk |
 | Region | CHILE |
-| Lobby Creation Time | Sunday, October 29, 2023 20:13:53 |
+| Lobby Creation Time | Sunday, October 29, 2023 20:13:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495716529698592 |
+| Players | 1/24 |
+| Host Name | Dumb Cat |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 20:14:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495716529700076 |
+| Players | 2/10 |
+| Host Name | Чипс |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, October 29, 2023 20:14:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -162,5 +180,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Velikiy Waaagh! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 20:11:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495716529696875 |
+| Players | 3/5 |
+| Host Name | номер_барыги+7981.... |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, October 29, 2023 20:14:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495716529678321 |
+| Players | 2/10 |
+| Host Name | Kunde |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, October 29, 2023 20:14:03 |
 
 
