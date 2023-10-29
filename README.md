@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716388699412 |
-| Players | 5/8 |
+| Players | 2/8 |
 | Host Name | fade away |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 18:16:32 |
@@ -47,40 +47,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 18:26:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716398350263 |
-| Players | 1/24 |
-| Host Name | Sonya |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 18:25:43 |
+| Lobby ID | 28495716399860748 |
+| Players | 4/8 |
+| Host Name | Onepunchman |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 18:27:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716396344255 |
+| Lobby ID | 28495716400723192 |
 | Players | 1/8 |
 | Host Name | Ыыыпаыйцщозипшш |
 | Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 18:23:50 |
+| Lobby Creation Time | Sunday, October 29, 2023 18:27:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716398300550 |
 | Players | 1/24 |
-| Host Name | BalSik |
+| Host Name | Ban¡¡¡ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 18:25:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716397699479 |
-| Players | 6/10 |
-| Host Name | Empower |
+| Lobby ID | 28495716400615665 |
+| Players | 2/15 |
+| Host Name | Закерман |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 18:25:06 |
+| Lobby Creation Time | Sunday, October 29, 2023 18:27:49 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,52 +95,52 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716373777588 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | ARC WAGNER |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 18:01:50 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495716396831325 |
-| Players | 18/24 |
-| Host Name | Z |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 18:24:17 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716398714380 |
-| Players | 11/15 |
-| Host Name | boqni |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 18:26:03 |
+| Lobby ID | 28495716400649633 |
+| Players | 1/15 |
+| Host Name | KJ |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, October 29, 2023 18:27:51 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716359788180 |
-| Players | 2/8 |
-| Host Name | на половину american g |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 17:47:33 |
+| Lobby ID | 28495716400792669 |
+| Players | 1/8 |
+| Host Name | PawloBoss |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, October 29, 2023 18:27:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495716399649195 |
-| Players | 4/8 |
-| Host Name | Чумовая Крыса |
+| Lobby ID | 28495716400827950 |
+| Players | 1/24 |
+| Host Name | Petabyte |
 | Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 18:26:56 |
+| Lobby Creation Time | Sunday, October 29, 2023 18:28:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495716400842773 |
+| Players | 2/10 |
+| Host Name | BMW-MOSCOW |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, October 29, 2023 18:28:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716399361209 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Haiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 18:26:40 |
@@ -158,9 +158,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716398753217 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Гагуся |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 18:26:06 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495716400833854 |
+| Players | 3/5 |
+| Host Name | АБУТАЛАБАШУНЕБА |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, October 29, 2023 18:28:02 |
 
 
