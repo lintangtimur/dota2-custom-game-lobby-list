@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715968602511 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Coolriree |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 07:41:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716090382476 |
-| Players | 18/24 |
+| Players | 23/24 |
 | Host Name | 游戏蝗虫农师傅 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 11:53:23 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716092966325 |
-| Players | 14/15 |
-| Host Name | !The One! |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 11:57:44 |
+| Lobby ID | 28495716093591336 |
+| Players | 3/8 |
+| Host Name | TrueAndreaFan |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 11:58:49 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716093140640 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | El vengador de los Yupanqui |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 11:58:02 |
@@ -110,40 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 11:58:48 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495716093606129 |
-| Players | 2/10 |
-| Host Name | fuckumean |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 11:58:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716093578953 |
-| Players | 1/8 |
-| Host Name | Одним хуем |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 11:58:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716093591336 |
-| Players | 2/8 |
-| Host Name | TrueAndreaFan |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 11:58:49 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716093638160 |
+| Lobby ID | 28495716093745467 |
 | Players | 1/15 |
-| Host Name | 纽约其实挺无聊的 |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 11:58:54 |
+| Host Name | -Pàpûsitò.Ô_A'm. |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 11:59:05 |
 
 
 |  | epic_boss_fight_normal |
