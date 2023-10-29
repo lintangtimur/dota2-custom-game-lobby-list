@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716049829230 |
-| Players | 19/24 |
-| Host Name | TicTac |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 10:35:58 |
+| Lobby ID | 28495716053045263 |
+| Players | 3/10 |
+| Host Name | Yiegid |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, October 29, 2023 10:43:09 |
 
 
 |  | ot3_jungle_quintet |
@@ -40,26 +40,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495716052414479 |
-| Players | 1/24 |
-| Host Name | Kingdom Of Predators |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 10:41:44 |
+| Lobby ID | 28495716053241782 |
+| Players | 3/24 |
+| Host Name | 乱战先锋第一骚货！ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 10:43:35 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716049663012 |
+| Lobby ID | 28495716053004564 |
 | Players | 9/10 |
-| Host Name | Гангстер |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 10:35:36 |
+| Host Name | Espada |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, October 29, 2023 10:43:03 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716052376482 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | jett |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, October 29, 2023 10:41:39 |
@@ -68,55 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716052414252 |
-| Players | 9/24 |
+| Players | 17/24 |
 | Host Name | Soul |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 10:41:44 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495716052878301 |
-| Players | 1/10 |
-| Host Name | ◥◣MILMACK◢◤ |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 10:42:46 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716052910703 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | DPGaming |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 10:42:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716053004564 |
-| Players | 6/10 |
-| Host Name | Espada |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, October 29, 2023 10:43:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495716053045263 |
-| Players | 2/10 |
-| Host Name | Yiegid |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, October 29, 2023 10:43:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495716053090086 |
-| Players | 2/15 |
-| Host Name | Klip |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, October 29, 2023 10:43:15 |
+| Lobby ID | 28495716053419263 |
+| Players | 1/8 |
+| Host Name | ???% |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 10:43:59 |
 
 
 |  | epic_boss_fight_normal |
