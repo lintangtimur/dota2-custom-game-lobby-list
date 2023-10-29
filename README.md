@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715975630632 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ♥ w3ndy ♥ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 07:56:06 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715968602511 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Coolriree |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 07:41:35 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715975541712 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | GinZa |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 07:55:55 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715975962170 |
-| Players | 2/8 |
-| Host Name | death sentence |
+| Players | 3/8 |
+| Host Name | Frontier |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 07:56:47 |
 
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715975656663 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | YouTube - О май гад ! |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 07:56:09 |
@@ -112,11 +112,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715974788542 |
-| Players | 10/15 |
-| Host Name | Hola Cindy XD |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 07:54:21 |
+| Lobby ID | 28495715976083836 |
+| Players | 1/15 |
+| Host Name | asd |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 07:57:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715975141728 |
+| Players | 14/15 |
+| Host Name | CptMiddleDoor |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 07:55:05 |
 
 
 |  | epic_boss_fight_normal |
