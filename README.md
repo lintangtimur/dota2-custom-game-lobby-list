@@ -13,20 +13,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716326529155 |
-| Players | 9/10 |
-| Host Name | Annette |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 17:11:29 |
+| Lobby ID | 28495716327834259 |
+| Players | 2/10 |
+| Host Name | нихая after пукаю |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, October 29, 2023 17:12:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716324383331 |
-| Players | 9/10 |
-| Host Name | all life was problem |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 17:09:01 |
+| Lobby ID | 28495716327297557 |
+| Players | 6/8 |
+| Host Name | SPA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 17:12:22 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716326032061 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Нет скилла |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 17:10:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716327643658 |
-| Players | 1/15 |
-| Host Name | Tiptop |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 17:12:46 |
+| Lobby ID | 28495716321460369 |
+| Players | 7/8 |
+| Host Name | Медиа киллер |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 17:05:37 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716327742297 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | okayeg |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 17:12:53 |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716317566141 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | x-x |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 17:01:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716327297557 |
-| Players | 6/8 |
-| Host Name | SPA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 17:12:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716321460369 |
-| Players | 6/8 |
-| Host Name | Медиа киллер |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 17:05:37 |
 
 
 |  | epic_boss_fight_normal |
