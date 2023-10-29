@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717127233161 |
-| Players | 10/15 |
-| Host Name | PoggyWoggyDoggy |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 06:50:33 |
+| Lobby ID | 28495717127424213 |
+| Players | 1/10 |
+| Host Name | KurkkuMopo |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 06:50:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717125712051 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Teddy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 06:47:04 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717126567341 |
-| Players | 13/15 |
-| Host Name | Бабушкин крадун |
+| Lobby ID | 28495717127422491 |
+| Players | 4/8 |
+| Host Name | Я БЛИЖЕ К БОГУ |
 | Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 06:49:02 |
+| Lobby Creation Time | Monday, October 30, 2023 06:50:59 |
 
 
 |  | ot3_desert_octet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 06:31:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717126437191 |
-| Players | 14/15 |
-| Host Name | Piminchumo...!!! |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 06:48:43 |
+| Lobby ID | 28495717127409681 |
+| Players | 2/8 |
+| Host Name | Jivchik |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 06:50:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -117,15 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SEHUMILLA:0 |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 06:50:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717127396470 |
-| Players | 1/8 |
-| Host Name | AKA BatmaN |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 06:50:56 |
 
 
 |  | epic_boss_fight_normal |
