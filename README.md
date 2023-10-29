@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716099947566 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | BOOMERTEKA giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 12:10:11 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716098136846 |
-| Players | 9/10 |
-| Host Name | Br0ker |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 12:06:53 |
+| Lobby ID | 28495716100977617 |
+| Players | 5/15 |
+| Host Name | Sr. Wick |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 12:12:01 |
 
 
 |  | ot3_desert_octet |
@@ -56,22 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 12:11:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716100977617 |
-| Players | 2/15 |
-| Host Name | Sr. Wick |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 12:12:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495716101077504 |
-| Players | 2/10 |
-| Host Name | I will always be alone |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 12:12:12 |
+| Lobby ID | 28495716101566966 |
+| Players | 1/8 |
+| Host Name | я сильный |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 12:13:05 |
 
 
 |  | epic_boss_fight_normal |
