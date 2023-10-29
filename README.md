@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716445691557 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | moryaz |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Sunday, October 29, 2023 19:08:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716443870928 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Aimer-|` |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 19:06:59 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716445475768 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | boqni |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Sunday, October 29, 2023 19:08:22 |
@@ -128,13 +128,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 19:06:58 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716446266075 |
+| Players | 1/8 |
+| Host Name | fliz1 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, October 29, 2023 19:09:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716446240640 |
+| Players | 3/8 |
+| Host Name | ПИТЕР РЕПОРТЕР |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 19:09:01 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495716446095374 |
-| Players | 2/24 |
-| Host Name | ПИТЕР РЕПОРТЕР |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 19:08:53 |
+| Lobby ID | 28495716446272914 |
+| Players | 1/24 |
+| Host Name | X-ART |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 19:09:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -149,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716444988528 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | 𝓚𝓪𝓙𝓵𝓾𝓫𝓹𝓾 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 19:07:57 |
