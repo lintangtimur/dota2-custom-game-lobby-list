@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715995123343 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | [is:playername] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 08:37:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715996209280 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Идеалыч |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 08:39:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715996328763 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | VoDka-KimimarO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 08:39:47 |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Режу Плоть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, October 29, 2023 08:41:10 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495715993570082 |
-| Players | 23/24 |
-| Host Name | cacha abuelitas 3k |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 08:33:42 |
 
 
 |  | ot3_jungle_quintet |
@@ -149,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715994379912 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | El Graznadiento |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, October 29, 2023 08:35:28 |
