@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716141496555 |
-| Players | 14/15 |
-| Host Name | enishi |
+| Lobby ID | 28495716142297659 |
+| Players | 1/8 |
+| Host Name | ШИФЕР |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 13:20:28 |
+| Lobby Creation Time | Sunday, October 29, 2023 13:21:42 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716141986378 |
-| Players | 1/15 |
+| Players | 8/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 13:21:13 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716125167344 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, October 29, 2023 12:54:36 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716141248492 |
-| Players | 17/24 |
-| Host Name | Pink Certz |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 13:20:06 |
+| Lobby ID | 28495716144241578 |
+| Players | 2/10 |
+| Host Name | Hatestreakkk |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 13:24:39 |
 
 
 |  | ot3_desert_octet |
@@ -74,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 13:21:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495716142754553 |
-| Players | 1/15 |
-| Host Name | Degenerate Evolutionary |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, October 29, 2023 13:22:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716142297659 |
-| Players | 2/8 |
-| Host Name | Кабан |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 13:21:42 |
+| Lobby ID | 28495716144344452 |
+| Players | 1/24 |
+| Host Name | Eren Yeager |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 13:24:48 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | svatoslav |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 05:31:21 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495716138665654 |
-| Players | 7/10 |
-| Host Name | Fran____ |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 13:16:06 |
 
 
 |  | epic_boss_fight_nightmare |
