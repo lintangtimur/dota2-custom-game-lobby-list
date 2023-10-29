@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716060139946 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Syrconis |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 10:56:29 |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716058223649 |
-| Players | 15/24 |
+| Players | 21/24 |
 | Host Name | DaRk_MaNu |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 10:53:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716057814005 |
-| Players | 22/24 |
-| Host Name | 大炮 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 10:52:22 |
+| Lobby ID | 28495716060342010 |
+| Players | 2/8 |
+| Host Name | CAMARADA CAPIBARA |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 10:56:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716059734427 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | who knows |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 10:55:45 |
@@ -131,19 +131,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716060143729 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Dota Veteran |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, October 29, 2023 10:56:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716060342010 |
-| Players | 2/8 |
-| Host Name | CAMARADA CAPIBARA |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 10:56:51 |
 
 
 |  | epic_boss_fight_normal |
