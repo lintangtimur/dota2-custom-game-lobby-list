@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716002897431 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Jivchik |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 08:54:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716001866166 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Дрил Дядя |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 08:52:19 |
