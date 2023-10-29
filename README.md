@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715968602511 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Coolriree |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 07:41:35 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716059468240 |
-| Players | 4/8 |
-| Host Name | THE SURVIVOR |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 10:55:16 |
+| Lobby ID | 28495716060139946 |
+| Players | 7/15 |
+| Host Name | Syrconis |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 10:56:29 |
 
 
 |  | ot3_gardens_duo |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716058223649 |
-| Players | 9/24 |
+| Players | 15/24 |
 | Host Name | DaRk_MaNu |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 10:53:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495716059505856 |
-| Players | 1/8 |
-| Host Name | Cynic♔ |
+| Lobby ID | 28495716057814005 |
+| Players | 22/24 |
+| Host Name | 大炮 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 10:55:20 |
+| Lobby Creation Time | Sunday, October 29, 2023 10:52:22 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716059734427 |
-| Players | 4/24 |
+| Players | 9/24 |
 | Host Name | who knows |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 10:55:45 |
@@ -104,28 +104,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716059205568 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | El Cacha Gordas del 8 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 10:54:48 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716057814005 |
-| Players | 16/24 |
-| Host Name | 大炮 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 10:52:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495716059867840 |
-| Players | 1/15 |
-| Host Name | Wulfee |
+| Lobby ID | 28495716060029132 |
+| Players | 1/8 |
+| Host Name | Cynic♔ |
 | Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 10:56:00 |
+| Lobby Creation Time | Sunday, October 29, 2023 10:56:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716060081641 |
+| Players | 3/8 |
+| Host Name | Perrolol |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 10:56:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716060143729 |
+| Players | 6/8 |
+| Host Name | Dota Veteran |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, October 29, 2023 10:56:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716060342010 |
+| Players | 2/8 |
+| Host Name | CAMARADA CAPIBARA |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 10:56:51 |
 
 
 |  | epic_boss_fight_normal |
@@ -146,30 +164,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 05:31:21 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495716059722746 |
-| Players | 1/5 |
-| Host Name | Infinitum |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 10:55:44 |
-
-
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28495716059840603 |
-| Players | 1/7 |
+| Players | 4/7 |
 | Host Name | D E G A |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 10:55:57 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495716059886149 |
-| Players | 1/10 |
-| Host Name | SINISTER RAMEN |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 10:56:02 |
 
 
