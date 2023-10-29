@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716006741478 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Pasa la coca CTMR!!! |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, October 29, 2023 09:04:00 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495716006794895 |
-| Players | 1/8 |
-| Host Name | Sebas Tian |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, October 29, 2023 09:04:08 |
+| Lobby ID | 28495716007257686 |
+| Players | 4/24 |
+| Host Name | Insania |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 09:05:16 |
 
 
 |  | ot3_gardens_duo |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716007146644 |
-| Players | 2/24 |
-| Host Name | Ky |
+| Players | 1/24 |
+| Host Name | Shin Ramyun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 09:05:00 |
 
@@ -68,37 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716007369025 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | FORNICATOR_MAXIMUS |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 09:05:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716007257686 |
-| Players | 2/24 |
-| Host Name | Insania |
+| Lobby ID | 28495716007814290 |
+| Players | 3/8 |
+| Host Name | MOTOMAMI |
 | Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 09:05:16 |
+| Lobby Creation Time | Sunday, October 29, 2023 09:06:42 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716007538857 |
-| Players | 1/8 |
-| Host Name | .#h21z |
+| Lobby ID | 28495716007872297 |
+| Players | 4/8 |
+| Host Name | lash a'dash |
 | Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 09:05:59 |
+| Lobby Creation Time | Sunday, October 29, 2023 09:06:51 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716004823668 |
-| Players | 23/24 |
-| Host Name | 9S |
+| Lobby ID | 28495716007872372 |
+| Players | 6/8 |
+| Host Name | LOSBENJAMINS |
 | Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 08:59:09 |
+| Lobby Creation Time | Sunday, October 29, 2023 09:06:51 |
 
 
 |  | epic_boss_fight_normal |
