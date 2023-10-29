@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716056649939 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | freshejka |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 10:50:24 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716057814005 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | 大炮 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 10:52:22 |
@@ -122,19 +122,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716057972004 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | JimPark666 |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 10:52:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716058751195 |
-| Players | 2/10 |
-| Host Name | я печенька из духовки №2 |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 10:54:00 |
+| Lobby ID | 28495716058833416 |
+| Players | 2/8 |
+| Host Name | just trying to win |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, October 29, 2023 10:54:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716058867330 |
+| Players | 5/8 |
+| Host Name | get negro |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, October 29, 2023 10:54:12 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495716058872222 |
+| Players | 6/24 |
+| Host Name | BRASA |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, October 29, 2023 10:54:13 |
 
 
 |  | epic_boss_fight_normal |
@@ -167,18 +185,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716058742261 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | tulindoteiro |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 10:53:59 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495716058737059 |
-| Players | 1/5 |
-| Host Name | 丶丿丶 |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 10:53:58 |
 
 
