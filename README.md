@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715992856507 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | 1x9 |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 08:32:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715993570082 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | cacha abuelitas 3k |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 08:33:42 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715992904743 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | mist |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 08:32:14 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715992710810 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Любимые дрова |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 08:31:50 |
