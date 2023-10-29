@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716347538799 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | ☬ℲØӾ☬ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 17:34:43 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716351009426 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | SMILEツ |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 17:38:23 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 17:37:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716351250018 |
-| Players | 1/15 |
-| Host Name | An |
+| Lobby ID | 28495716351552826 |
+| Players | 5/10 |
+| Host Name | эминем |
 | Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 17:38:38 |
+| Lobby Creation Time | Sunday, October 29, 2023 17:38:58 |
 
 
 |  | ot3_gardens_duo |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 17:38:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495716350938853 |
-| Players | 2/10 |
-| Host Name | Sant.W |
+| Lobby ID | 28495716344101366 |
+| Players | 22/24 |
+| Host Name | Z 24 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 17:38:18 |
+| Lobby Creation Time | Sunday, October 29, 2023 17:31:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716351410544 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | gglol |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 17:38:49 |
@@ -135,15 +135,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Мидорима |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 17:38:19 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495716351296482 |
-| Players | 8/15 |
-| Host Name | niko |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, October 29, 2023 17:38:42 |
 
 
 |  | epic_boss_fight_normal |
