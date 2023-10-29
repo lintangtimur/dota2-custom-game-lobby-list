@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715981632973 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | < blank > |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 08:08:15 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715968602511 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Coolriree |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 07:41:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715993487908 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Laratonika |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, October 29, 2023 08:33:31 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715994541376 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | coup de grâce 力 |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 08:35:50 |
