@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716181726227 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | КИБЕРСКУФ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, October 29, 2023 14:16:29 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716180956841 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | TwentyOneInch |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 14:15:28 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716181798246 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ナナ |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 14:16:35 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716180905506 |
-| Players | 1/8 |
-| Host Name | Masscare |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 14:15:25 |
+| Lobby ID | 28495716182108511 |
+| Players | 5/8 |
+| Host Name | Андрюха шальная |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 14:16:59 |
 
 
 |  | ot3_jungle_quintet |
@@ -137,13 +137,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 14:16:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716182002858 |
-| Players | 1/8 |
-| Host Name | drabash my bro |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 14:16:51 |
+| Lobby ID | 28495716182172143 |
+| Players | 2/10 |
+| Host Name | ГАШУ НЕФАРАФ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, October 29, 2023 14:17:04 |
 
 
 |  | epic_boss_fight_normal |
