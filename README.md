@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716078074238 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | SmashMartin |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 11:30:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716076790406 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | !The One! |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 11:28:14 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716077326991 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Espada |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 11:29:12 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716077543007 |
-| Players | 1/8 |
-| Host Name | Toji |
+| Lobby ID | 28495716078912993 |
+| Players | 3/8 |
+| Host Name | nolan |
 | Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 11:29:35 |
+| Lobby Creation Time | Sunday, October 29, 2023 11:32:05 |
 
 
 |  | ot3_gardens_duo |
@@ -95,10 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716078713756 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | coup de grâce 力 |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 11:31:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495716078935086 |
+| Players | 4/10 |
+| Host Name | Гангстер |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 11:32:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716078944856 |
+| Players | 1/8 |
+| Host Name | Toji |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 11:32:09 |
 
 
 |  | epic_boss_fight_normal |
