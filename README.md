@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716010360894 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 09:13:04 |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716010895934 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | warcharu |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 09:14:25 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716010955492 |
-| Players | 3/8 |
-| Host Name | (ebanaya krыsa) Sanchoyzzz |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 09:14:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716011375437 |
-| Players | 1/8 |
-| Host Name | Cazador de causas |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, October 29, 2023 09:15:35 |
 
 
 |  | ot3_gardens_duo |
@@ -117,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MONCHI |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 09:15:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716011375437 |
+| Players | 1/8 |
+| Host Name | Cazador de causas |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, October 29, 2023 09:15:35 |
 
 
 |  | epic_boss_fight_normal |
@@ -162,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Двуликий анус |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 09:13:08 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495716011599586 |
+| Players | 2/10 |
+| Host Name | Nars Ja |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 09:16:07 |
 
 
