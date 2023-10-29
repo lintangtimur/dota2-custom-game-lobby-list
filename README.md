@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 08:39:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715996209280 |
-| Players | 9/10 |
-| Host Name | Идеалыч |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 08:39:31 |
+| Lobby ID | 28495715997152433 |
+| Players | 13/15 |
+| Host Name | FightAnyone |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 08:41:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715994910151 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | Another |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 08:36:38 |
@@ -67,26 +67,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715996328763 |
-| Players | 7/8 |
-| Host Name | VoDka-KimimarO |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 08:39:47 |
+| Lobby ID | 28495715997420488 |
+| Players | 4/8 |
+| Host Name | I.G |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, October 29, 2023 08:42:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715996134220 |
-| Players | 1/8 |
-| Host Name | ressentiment |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 08:39:21 |
+| Lobby ID | 28495715997683972 |
+| Players | 5/10 |
+| Host Name | Sushi Trash |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 08:42:46 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715996856872 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Juan El Narco |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, October 29, 2023 08:40:56 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715996963104 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Режу Плоть |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, October 29, 2023 08:41:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715997152433 |
-| Players | 9/15 |
-| Host Name | FightAnyone |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 08:41:36 |
+| Lobby ID | 28495715997748368 |
+| Players | 2/10 |
+| Host Name | опачки |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 08:42:54 |
 
 
 |  | epic_boss_fight_normal |
