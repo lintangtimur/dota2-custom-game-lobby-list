@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716452171970 |
-| Players | 2/15 |
+| Players | 13/15 |
 | Host Name | ( ＾◡＾)っ✂ SNIP SNIP |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Sunday, October 29, 2023 19:14:04 |
@@ -101,20 +101,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 19:12:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716450617303 |
-| Players | 7/8 |
-| Host Name | 鈴屋十三 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 19:12:46 |
+| Lobby ID | 28495716451282258 |
+| Players | 5/10 |
+| Host Name | Солевая шлюха |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 19:13:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716453065970 |
-| Players | 5/24 |
-| Host Name | Jao Avas |
+| Players | 7/24 |
+| Host Name | Genie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 19:14:49 |
 
@@ -128,19 +128,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 19:14:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716451282258 |
-| Players | 5/10 |
-| Host Name | Солевая шлюха |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 19:13:20 |
+| Lobby ID | 28495716452331316 |
+| Players | 7/8 |
+| Host Name | Evil girl |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, October 29, 2023 19:14:12 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716448206733 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | k. Danger-Zone |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, October 29, 2023 19:10:42 |
@@ -176,9 +176,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716450605593 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Big Gringo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 19:12:46 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28495716453386214 |
+| Players | 2/7 |
+| Host Name | Techugo |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, October 29, 2023 19:15:05 |
 
 
