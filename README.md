@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717041820238 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Please Recommend me |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 04:12:44 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717041893636 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Твоя мама |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 04:12:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717040252467 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | a mimir |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 04:10:20 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717042175364 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | The Cat's Meow |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 04:13:17 |
@@ -126,6 +126,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 0xB4BE97 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 04:14:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717043365239 |
+| Players | 1/8 |
+| Host Name | ШАМА ЛЕКСУС |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 04:15:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717043311042 |
+| Players | 4/8 |
+| Host Name | ShNaks |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 04:15:02 |
 
 
 |  | epic_boss_fight_nightmare |
