@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495716224136566 |
-| Players | 22/24 |
-| Host Name | LA FEED ES LO MAS LINDO DE LA VI |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 15:10:54 |
+| Lobby ID | 28495716232520478 |
+| Players | 6/24 |
+| Host Name | lone wolf |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 15:21:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716231981265 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Дагер на силу |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Sunday, October 29, 2023 15:20:35 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716228897014 |
-| Players | 22/24 |
-| Host Name | 逐逐月 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 15:16:46 |
+| Lobby ID | 28495716233018261 |
+| Players | 1/15 |
+| Host Name | Molodoy |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, October 29, 2023 15:21:52 |
 
 
 |  | ot3_gardens_duo |
@@ -65,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 15:19:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716231800170 |
-| Players | 1/10 |
-| Host Name | gRaFFuTy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 15:20:22 |
+| Lobby ID | 28495716232119827 |
+| Players | 4/8 |
+| Host Name | DickHunter |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, October 29, 2023 15:20:46 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716229623022 |
-| Players | 10/15 |
-| Host Name | d1 |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 15:17:39 |
+| Lobby ID | 28495716232022706 |
+| Players | 2/15 |
+| Host Name | кукуруза |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, October 29, 2023 15:20:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -103,38 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716232022706 |
-| Players | 2/15 |
-| Host Name | кукуруза |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, October 29, 2023 15:20:38 |
+| Lobby ID | 28495716233042095 |
+| Players | 1/15 |
+| Host Name | Shinobizxc |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, October 29, 2023 15:21:54 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716232094136 |
+| Lobby ID | 28495716233048458 |
 | Players | 1/8 |
 | Host Name | NineFortres |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 15:20:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716232119827 |
-| Players | 2/8 |
-| Host Name | DickHunter |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, October 29, 2023 15:20:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495716232318163 |
-| Players | 3/10 |
-| Host Name | Денис |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 15:21:00 |
+| Lobby Creation Time | Sunday, October 29, 2023 15:21:54 |
 
 
 |  | epic_boss_fight_normal |
@@ -149,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716231631246 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 15:20:10 |
@@ -157,19 +139,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495716230674661 |
-| Players | 1/10 |
-| Host Name | Gandy |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 15:18:58 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495716231920586 |
-| Players | 1/5 |
-| Host Name | Gusao (RUS) |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 15:20:31 |
+| Lobby ID | 28495716232545151 |
+| Players | 2/10 |
+| Host Name | Kai |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 15:21:17 |
 
 
