@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716865701810 |
-| Players | 1/10 |
-| Host Name | muscle man |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 00:51:56 |
+| Lobby ID | 28495716862620008 |
+| Players | 4/8 |
+| Host Name | Murlo |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 00:48:39 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716865753737 |
-| Players | 2/10 |
+| Players | 9/10 |
 | Host Name | no mercy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 00:51:59 |
@@ -78,7 +78,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28495716860951759 |
 | Players | 3/15 |
-| Host Name | ВѼчко |
+| Host Name | Буйство! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 00:46:53 |
 
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 00:47:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716859273966 |
-| Players | 11/15 |
-| Host Name | Bubble and Whine |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 00:45:06 |
+| Lobby ID | 28495716865383073 |
+| Players | 5/8 |
+| Host Name | Элвис плесень |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 00:51:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716865071244 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | ЕЩКЕРЕЕЕ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 00:51:16 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716780044816 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Yves Saint Laurent |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 23:26:44 |
@@ -155,31 +155,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 00:51:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716865383073 |
-| Players | 5/8 |
-| Host Name | Элвис плесень |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 00:51:35 |
+| Lobby ID | 28495716865934739 |
+| Players | 1/15 |
+| Host Name | ^_^ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 00:52:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495716865329077 |
-| Players | 6/8 |
-| Host Name | Carbon |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 00:51:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716862620008 |
-| Players | 2/8 |
-| Host Name | ☢ Lucky ☢ |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 00:48:39 |
+| Lobby ID | 28495716858714556 |
+| Players | 22/24 |
+| Host Name | ElGO TITO |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 00:44:30 |
 
 
 |  | epic_boss_fight_normal |
@@ -200,13 +191,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 00:47:41 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28495716865357691 |
-| Players | 1/10 |
-| Host Name | h.uyanik_35 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 00:51:34 |
+| Lobby ID | 28495716865070701 |
+| Players | 1/5 |
+| Host Name | bfugo |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 00:51:16 |
 
 
 |  | epic_boss_fight_challenger |
@@ -216,14 +207,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | _ЗаЙка_ |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, October 30, 2023 00:50:27 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495716865070701 |
-| Players | 1/5 |
-| Host Name | bfugo |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 00:51:16 |
 
 
