@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 15:23:29 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716236281890 |
-| Players | 1/10 |
-| Host Name | FURIOUS GAMING-->!LETS! !GO! |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 15:25:53 |
+| Lobby ID | 28495716237799867 |
+| Players | 3/15 |
+| Host Name | Great Admiral of Mongol Empire |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 15:27:43 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 15:25:56 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716235251820 |
-| Players | 23/24 |
-| Host Name | ハーパー |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 15:24:38 |
+| Lobby ID | 28495716237708272 |
+| Players | 2/10 |
+| Host Name | ZEN MODE |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, October 29, 2023 15:27:36 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716235107290 |
-| Players | 7/10 |
+| Players | 3/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 15:24:27 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716237988008 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Mr.Bones |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, October 29, 2023 15:27:57 |
@@ -146,22 +146,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 15:27:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716237708272 |
-| Players | 2/10 |
-| Host Name | ZEN MODE |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 15:27:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495716237799867 |
-| Players | 2/15 |
-| Host Name | Great Admiral of Mongol Empire |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 15:27:43 |
+| Lobby ID | 28495716238969456 |
+| Players | 2/8 |
+| Host Name | ßæŊřøū x 120fps | #skinape |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 15:29:08 |
 
 
 |  | epic_boss_fight_normal |
