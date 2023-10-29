@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717051924397 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | bs |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 04:29:06 |
@@ -112,20 +112,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717053488730 |
-| Players | 3/8 |
+| Lobby ID | 28495717053684897 |
+| Players | 4/8 |
 | Host Name | komaschlager |
 | Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 04:31:44 |
+| Lobby Creation Time | Monday, October 30, 2023 04:32:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717053102261 |
-| Players | 2/10 |
-| Host Name | Stank |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 04:31:05 |
+| Lobby ID | 28495717053532215 |
+| Players | 1/15 |
+| Host Name | RAM.Diggle |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 04:31:48 |
 
 
 |  | ot3_jungle_quintet |
@@ -166,19 +166,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717053488148 |
+| Lobby ID | 28495717053609261 |
 | Players | 1/15 |
-| Host Name | Rave |
+| Host Name | встал вышел нахуй |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 04:31:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717053635033 |
+| Players | 2/10 |
+| Host Name | Stank |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 04:31:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717053671398 |
+| Players | 2/10 |
+| Host Name | моя ошибка что я сpal |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 04:31:44 |
+| Lobby Creation Time | Monday, October 30, 2023 04:32:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717053532215 |
+| Lobby ID | 28495717053684723 |
 | Players | 1/15 |
-| Host Name | RAM.Diggle |
+| Host Name | ШИШУЛЯ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 04:31:48 |
+| Lobby Creation Time | Monday, October 30, 2023 04:32:04 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495717053674315 |
+| Players | 1/10 |
+| Host Name | RynsLer^ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 04:32:03 |
 
 
