@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716000207789 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 08:48:28 |
@@ -139,11 +139,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495715996070016 |
-| Players | 9/10 |
-| Host Name | MadKing |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 08:39:12 |
+| Lobby ID | 28495716000518804 |
+| Players | 2/10 |
+| Host Name | ebat' eto yzhas |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 08:49:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -153,14 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | El Graznadiento |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, October 29, 2023 08:47:34 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495716000518804 |
-| Players | 2/10 |
-| Host Name | ebat' eto yzhas |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 08:49:10 |
 
 
