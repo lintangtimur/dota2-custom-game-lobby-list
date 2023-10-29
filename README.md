@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716063131679 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | หมดเวลาแล้วครับพี่ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 11:02:09 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716063183218 |
-| Players | 9/10 |
-| Host Name | Pain雨天 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 11:02:15 |
+| Lobby ID | 28495716063617562 |
+| Players | 1/8 |
+| Host Name | El Inge |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, October 29, 2023 11:03:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716063357809 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Turrok |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, October 29, 2023 11:02:36 |
@@ -67,11 +67,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716063505518 |
+| Lobby ID | 28495716063566131 |
 | Players | 1/15 |
 | Host Name | Sunny gay |
 | Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 11:02:53 |
+| Lobby Creation Time | Sunday, October 29, 2023 11:03:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495716062738042 |
+| Players | 9/10 |
+| Host Name | Espada |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 11:01:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716063636457 |
+| Players | 1/15 |
+| Host Name | патрик тюряга |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, October 29, 2023 11:03:08 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | svatoslav |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 05:31:21 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495716060612029 |
-| Players | 9/10 |
-| Host Name | skyrutt |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 10:57:21 |
 
 
