@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717113499595 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | Melmore |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 06:20:30 |
@@ -65,22 +65,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 04:51:05 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717113552114 |
+| Players | 5/10 |
+| Host Name | youngkid |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 06:20:36 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717112035910 |
-| Players | 13/15 |
-| Host Name | get negro |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, October 30, 2023 06:17:30 |
+| Lobby ID | 28495717113775968 |
+| Players | 1/15 |
+| Host Name | ^^ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 06:21:04 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717113552114 |
-| Players | 4/10 |
-| Host Name | youngkid |
+| Lobby ID | 28495717113804859 |
+| Players | 2/10 |
+| Host Name | EbliX |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 06:21:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717113822149 |
+| Players | 4/8 |
+| Host Name | дарья fan =) |
 | Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 06:20:36 |
+| Lobby Creation Time | Monday, October 30, 2023 06:21:10 |
 
 
 |  | epic_boss_fight_nightmare |
