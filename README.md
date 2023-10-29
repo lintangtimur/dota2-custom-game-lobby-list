@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 09:34:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495716034718515 |
-| Players | 7/8 |
-| Host Name | zeshy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 10:04:24 |
+| Lobby ID | 28495716035434686 |
+| Players | 3/24 |
+| Host Name | huge robot penguin |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 10:05:53 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716034211540 |
-| Players | 7/24 |
+| Players | 4/24 |
 | Host Name | Nerfstyle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 10:03:21 |
@@ -113,19 +113,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716035324457 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | TEEHEE |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 10:05:40 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716035434686 |
-| Players | 1/24 |
-| Host Name | huge robot penguin |
+| Lobby ID | 28495716035473407 |
+| Players | 2/10 |
+| Host Name | The Butcher |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 10:05:53 |
+| Lobby Creation Time | Sunday, October 29, 2023 10:05:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495716035525511 |
+| Players | 4/10 |
+| Host Name | Гангстер |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 10:06:05 |
 
 
 |  | epic_boss_fight_normal |
@@ -167,9 +176,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716034487039 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Alessia Cara |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 10:03:55 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495716035523132 |
+| Players | 1/10 |
+| Host Name | Yitane |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, October 29, 2023 10:06:04 |
 
 
