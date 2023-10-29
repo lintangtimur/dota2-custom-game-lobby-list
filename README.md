@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715961233861 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | FORNICATOR_MAXIMUS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 07:27:00 |
@@ -81,6 +81,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | СTO9IK |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 07:27:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715962187206 |
+| Players | 5/8 |
+| Host Name | AQ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 07:28:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715962207902 |
+| Players | 1/8 |
+| Host Name | 11 |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, October 29, 2023 07:29:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715961197667 |
+| Players | 10/15 |
+| Host Name | LaRR_b |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 07:26:56 |
 
 
 |  | epic_boss_fight_normal |
