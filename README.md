@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716064932868 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Richie |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 11:05:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716064174069 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Sunny gay |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 11:04:11 |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | JUANITO ALIMAÑA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 11:06:44 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495716065620121 |
-| Players | 1/24 |
-| Host Name | Egoist |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 11:06:59 |
 
 
 |  | epic_boss_fight_normal |
