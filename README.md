@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716108200618 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | SR. Arteezy |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 12:25:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716110408225 |
-| Players | 1/10 |
-| Host Name | ♪Serpiente Dorada♫ |
+| Lobby ID | 28495716110873624 |
+| Players | 5/8 |
+| Host Name | Topo gigio Provinciano |
 | Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 12:29:11 |
+| Lobby Creation Time | Sunday, October 29, 2023 12:30:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,28 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716109723021 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | trash teammate |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 12:27:56 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495716110454220 |
-| Players | 1/15 |
-| Host Name | sp_flame |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 12:29:16 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716107466375 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Тинкер Сергей |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 12:23:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716110931198 |
+| Players | 3/15 |
+| Host Name | jularo |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 12:30:07 |
 
 
 |  | epic_boss_fight_normal |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | svatoslav |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 05:31:21 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495716110056114 |
-| Players | 7/10 |
-| Host Name | Murrof |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 12:28:33 |
 
 
