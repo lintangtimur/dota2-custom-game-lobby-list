@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716417251361 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 18:43:11 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 18:44:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716419080572 |
-| Players | 1/10 |
-| Host Name | тайский боец |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 18:44:49 |
+| Lobby ID | 28495716419292679 |
+| Players | 4/8 |
+| Host Name | сдох |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, October 29, 2023 18:45:01 |
 
 
 |  | ot3_desert_octet |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 18:39:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716417062344 |
-| Players | 1/10 |
-| Host Name | Солевая шлюха |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 18:43:00 |
+| Lobby ID | 28495716419371782 |
+| Players | 1/8 |
+| Host Name | Дима Жмыходавов |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, October 29, 2023 18:45:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716418180927 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | Закерман |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 18:44:00 |
@@ -119,13 +119,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 18:44:45 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716419080227 |
-| Players | 1/24 |
-| Host Name | 浮生幻梦 |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 18:44:49 |
+| Lobby ID | 28495716419361596 |
+| Players | 3/8 |
+| Host Name | buzzy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 18:45:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716419212647 |
+| Players | 1/8 |
+| Host Name | outxveel |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, October 29, 2023 18:44:57 |
 
 
 |  | epic_boss_fight_nightmare |
