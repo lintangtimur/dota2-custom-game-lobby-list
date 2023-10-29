@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716008949583 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | H1RO |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 09:09:35 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716009180192 |
-| Players | 2/8 |
-| Host Name | не промахиваюсь |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 09:10:08 |
+| Lobby ID | 28495716009760023 |
+| Players | 3/10 |
+| Host Name | Oklahoma |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 09:11:35 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716008254542 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | Анальный дебошир |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 09:07:51 |
@@ -59,55 +59,73 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716008880555 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | RockSpirit |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 09:09:25 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495716008081260 |
-| Players | 11/15 |
-| Host Name | Zpaq |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 09:07:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716008370122 |
-| Players | 7/8 |
-| Host Name | LOSBENJAMINS |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 09:08:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716007872297 |
-| Players | 7/8 |
-| Host Name | lash a'dash |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 09:06:51 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716009293294 |
-| Players | 1/24 |
+| Players | 15/24 |
 | Host Name | Surprise |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 09:10:25 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716008370122 |
+| Players | 1/8 |
+| Host Name | ناتي naty ن |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 09:08:09 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716007369025 |
-| Players | 14/15 |
-| Host Name | FORNICATOR_MAXIMUS |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 09:05:33 |
+| Lobby ID | 28495716009720530 |
+| Players | 4/15 |
+| Host Name | F-A-Y-D-A-R-E TONY |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 09:11:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716009738736 |
+| Players | 6/8 |
+| Host Name | LOSBENJAMINS |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 09:11:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495716009786202 |
+| Players | 1/10 |
+| Host Name | ahUO |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, October 29, 2023 09:11:39 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495716009805701 |
+| Players | 1/24 |
+| Host Name | 游戏蝗虫农师傅 |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 09:11:42 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495716009811144 |
+| Players | 1/24 |
+| Host Name | Bonitos y gorditos hijos de puta |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 09:11:42 |
 
 
 |  | epic_boss_fight_normal |
@@ -137,19 +155,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 07:55:42 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495716007208798 |
-| Players | 6/10 |
-| Host Name | heheehe |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 09:05:09 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28495716009083302 |
-| Players | 1/7 |
+| Players | 3/7 |
 | Host Name | Barbero de Gampis <3 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 09:09:54 |
