@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716374557937 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Dr. Strange |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 18:02:38 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716373138007 |
-| Players | 14/15 |
-| Host Name | xxREXxx |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, October 29, 2023 18:01:12 |
+| Lobby ID | 28495716373932032 |
+| Players | 10/15 |
+| Host Name | BrokenMirror |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 18:02:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716375828256 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | gglol |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, October 29, 2023 18:03:55 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716376809289 |
-| Players | 3/8 |
-| Host Name | Tom |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 18:04:54 |
+| Lobby ID | 28495716376761942 |
+| Players | 2/8 |
+| Host Name | Ozzy |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 18:04:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716373777588 |
-| Players | 11/15 |
+| Players | 9/15 |
 | Host Name | Mafiato |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 18:01:50 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716373222440 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | X-ART |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, October 29, 2023 18:01:17 |
@@ -121,11 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716376584434 |
-| Players | 4/10 |
-| Host Name | kicia nie moge spać |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 18:04:40 |
+| Lobby ID | 28495716376971657 |
+| Players | 5/10 |
+| Host Name | xXx |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, October 29, 2023 18:05:03 |
 
 
 |  | ot3_gardens_duo |
@@ -144,24 +144,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 🍌 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 18:04:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716376761942 |
-| Players | 2/8 |
-| Host Name | Ozzy |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 18:04:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495716373932032 |
-| Players | 10/15 |
-| Host Name | boqni |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 18:02:00 |
 
 
 |  | epic_boss_fight_normal |
@@ -185,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716376410461 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Nengz_Fu3k |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 18:04:30 |
@@ -193,19 +175,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495716376739682 |
-| Players | 4/10 |
-| Host Name | Суетолог Олег |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 18:04:50 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495716373668888 |
-| Players | 8/10 |
-| Host Name | Tovi - |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 18:01:44 |
+| Lobby ID | 28495716377024901 |
+| Players | 1/10 |
+| Host Name | NMA |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 18:05:07 |
 
 
