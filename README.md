@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715968602511 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Coolriree |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 07:41:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716063131679 |
-| Players | 21/24 |
-| Host Name | หมดเวลาแล้วครับพี่ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 11:02:09 |
+| Lobby ID | 28495716064932868 |
+| Players | 7/15 |
+| Host Name | Richie |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 11:05:39 |
 
 
 |  | ot3_jungle_quintet |
@@ -36,69 +36,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name |  |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495716063915860 |
-| Players | 14/15 |
-| Host Name | hxhx |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 11:03:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495716063357809 |
-| Players | 14/15 |
-| Host Name | Turrok |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, October 29, 2023 11:02:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495716063704156 |
-| Players | 1/15 |
-| Host Name | патрик тюряга |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 11:03:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495716064551470 |
-| Players | 5/10 |
-| Host Name | Гангстер |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 11:04:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495716064174069 |
-| Players | 2/15 |
-| Host Name | Sunny gay |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 11:04:11 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495716064206365 |
-| Players | 9/24 |
-| Host Name | STERBLICH |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 11:04:15 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495716064215358 |
-| Players | 1/24 |
-| Host Name | :D |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 11:04:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,10 +50,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716063678598 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | **__An1nh4_++_Tr3v0s4__** |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, October 29, 2023 11:03:13 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495716064215358 |
+| Players | 2/24 |
+| Host Name | :D |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 11:04:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495716064551470 |
+| Players | 5/10 |
+| Host Name | Гангстер |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 11:04:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716064174069 |
+| Players | 4/15 |
+| Host Name | Sunny gay |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 11:04:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716064936114 |
+| Players | 1/15 |
+| Host Name | tmc |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 11:05:39 |
 
 
 |  | epic_boss_fight_normal |
