@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716091142359 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | [is:playername] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 11:54:39 |
@@ -38,19 +38,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495716090839322 |
-| Players | 23/24 |
-| Host Name | freshejka |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 11:54:09 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716092352958 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Peruano promedio come Ducks Dens |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 11:56:41 |
