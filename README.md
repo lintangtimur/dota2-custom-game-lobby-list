@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716550739635 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Bapak Bapak Random |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 20:29:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716552614192 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | lockdwn |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 20:30:46 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716553984895 |
-| Players | 5/8 |
-| Host Name | Jivchik |
+| Lobby ID | 28495716554354808 |
+| Players | 1/8 |
+| Host Name | джагера мейнер |
 | Region | BRAZIL |
-| Lobby Creation Time | Sunday, October 29, 2023 20:31:45 |
+| Lobby Creation Time | Sunday, October 29, 2023 20:32:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716540043552 |
-| Players | 8/15 |
+| Players | 6/15 |
 | Host Name | Шизид Шизушкин |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 20:21:37 |
@@ -121,11 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716552930893 |
-| Players | 13/15 |
-| Host Name | ниггадяй |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, October 29, 2023 20:31:00 |
+| Lobby ID | 28495716554486500 |
+| Players | 1/15 |
+| Host Name | IQ |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 20:32:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -149,10 +149,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716553755061 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | BMW-MOSCOW |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 20:31:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716554266941 |
+| Players | 1/8 |
+| Host Name | melee 4 pos=afk |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, October 29, 2023 20:31:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716551628733 |
+| Players | 9/15 |
+| Host Name | Assviolator_ |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, October 29, 2023 20:30:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716554289807 |
+| Players | 4/8 |
+| Host Name | Bot Michał |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, October 29, 2023 20:31:59 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -191,13 +218,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 20:30:18 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495716552419941 |
-| Players | 1/5 |
-| Host Name | КкОсСоЙ |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 20:30:38 |
+| Lobby ID | 28495716553717692 |
+| Players | 2/10 |
+| Host Name | npocmodvp |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 20:31:34 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -216,23 +243,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Utbarg |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, October 29, 2023 20:31:08 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495716553717692 |
-| Players | 2/10 |
-| Host Name | npocmodvp |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 20:31:34 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495716554160330 |
-| Players | 1/5 |
-| Host Name | andreijegosu |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, October 29, 2023 20:31:53 |
 
 
