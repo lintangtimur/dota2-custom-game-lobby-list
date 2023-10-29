@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716937812465 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | kopral galih |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 02:09:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716938561963 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | B.M.W |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 02:10:22 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716939383811 |
-| Players | 12/15 |
-| Host Name | Quazar[dead] |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 02:11:17 |
+| Lobby ID | 28495716904172832 |
+| Players | 4/15 |
+| Host Name | twitch.tv/lone_strider |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 01:32:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716937669013 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Fairbreeze |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 02:09:23 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716939327019 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | SprintMaster |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 02:11:13 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 02:10:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716939643204 |
-| Players | 7/8 |
-| Host Name | q |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, October 30, 2023 02:11:34 |
+| Lobby ID | 28495716939915103 |
+| Players | 6/15 |
+| Host Name | I ONCE SHAGGED A GOAT |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 02:11:53 |
 
 
 |  | ot3_jungle_quintet |
@@ -164,31 +164,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 02:11:16 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495716939915103 |
-| Players | 4/15 |
-| Host Name | I ONCE SHAGGED A GOAT |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 02:11:53 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716939938915 |
-| Players | 3/8 |
-| Host Name | Atom |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 02:11:54 |
+| Lobby ID | 28495716939990668 |
+| Players | 2/8 |
+| Host Name | худинаг ганаг |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 02:11:58 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495716938741026 |
-| Players | 1/10 |
-| Host Name | ddr1 |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 02:10:34 |
+| Lobby ID | 28495716940118117 |
+| Players | 1/24 |
+| Host Name | lovxjoy❣❣ღ♡ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 02:12:07 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495716939776658 |
+| Players | 1/5 |
+| Host Name | Πονάει η Πλάτη μου |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 02:11:43 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -218,12 +218,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 02:02:01 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495716939776658 |
-| Players | 1/5 |
-| Host Name | Πονάει η Πλάτη μου |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 02:11:43 |
+| Lobby ID | 28495716940096240 |
+| Players | 1/10 |
+| Host Name | ANTOHADANCE666 |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 02:12:05 |
 
 
