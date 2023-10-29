@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716164791313 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | Михей,Ира,Дима,Гена <3<3 |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, October 29, 2023 13:53:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716159338026 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | tu cieja no jodas |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 13:46:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716160576752 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Big Bobby |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 13:48:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716165253962 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Solo estoy pasando el rato |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 13:54:23 |
@@ -68,28 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716160670986 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 13:48:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495716164363867 |
-| Players | 13/15 |
-| Host Name | ни чего себе |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 13:53:09 |
+| Lobby ID | 28495716165989386 |
+| Players | 4/24 |
+| Host Name | 1 of 1 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 13:55:23 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716163959984 |
-| Players | 1/8 |
-| Host Name | Punisher PMA |
+| Lobby ID | 28495716165884185 |
+| Players | 4/8 |
+| Host Name | Blind David Pew |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, October 29, 2023 13:55:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495716164200872 |
+| Players | 8/10 |
+| Host Name | Missing |
 | Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 13:52:36 |
+| Lobby Creation Time | Sunday, October 29, 2023 13:52:56 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716164181053 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 13:52:54 |
