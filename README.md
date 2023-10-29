@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716389163305 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Smurfosaurus-Rekt |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, October 29, 2023 18:16:59 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716390371274 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | тёма трахает |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, October 29, 2023 18:18:10 |
@@ -148,11 +148,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716391048766 |
-| Players | 3/8 |
-| Host Name | талант |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, October 29, 2023 18:18:49 |
+| Lobby ID | 28495716391367873 |
+| Players | 1/8 |
+| Host Name | Борис животное |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 18:19:08 |
 
 
 |  | ot3_gardens_duo |
@@ -164,13 +164,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 18:18:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495716391195330 |
-| Players | 1/10 |
-| Host Name | xBlody |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, October 29, 2023 18:18:58 |
+| Lobby ID | 28495716391312756 |
+| Players | 1/24 |
+| Host Name | murad |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 18:19:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716388814734 |
+| Players | 7/8 |
+| Host Name | babahhh |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 18:16:39 |
 
 
 |  | epic_boss_fight_normal |
@@ -194,7 +203,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716389438176 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Lestat |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 18:17:15 |
