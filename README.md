@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716101849826 |
-| Players | 22/24 |
-| Host Name | part time gamer |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 12:13:36 |
+| Lobby ID | 28495716103604605 |
+| Players | 11/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 12:16:48 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716104543624 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | СЫН ТОЛПЫ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 12:18:31 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Taiga Kagami |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 12:14:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495716103604605 |
-| Players | 11/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 12:16:48 |
 
 
 |  | epic_boss_fight_normal |
