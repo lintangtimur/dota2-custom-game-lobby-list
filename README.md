@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716273343820 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 16:09:27 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716276618824 |
-| Players | 5/8 |
-| Host Name | ГОСТ 31711-2012 |
+| Players | 4/8 |
+| Host Name | 努力 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 16:13:16 |
 
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 16:11:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716276904185 |
-| Players | 1/8 |
-| Host Name | Ghoul SSS+ rank |
+| Lobby ID | 28495716277152244 |
+| Players | 2/10 |
+| Host Name | Duplex |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 16:13:35 |
+| Lobby Creation Time | Sunday, October 29, 2023 16:13:52 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716277090139 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Vamp Anthem |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Sunday, October 29, 2023 16:13:47 |
@@ -104,28 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716277110829 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Sukuna |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 16:13:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495716272102206 |
-| Players | 14/15 |
-| Host Name | ็ |
+| Lobby ID | 28495716275183683 |
+| Players | 23/24 |
+| Host Name | Ganymede |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 16:08:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495716277152244 |
-| Players | 2/10 |
-| Host Name | Duplex |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 16:13:52 |
+| Lobby Creation Time | Sunday, October 29, 2023 16:11:35 |
 
 
 |  | epic_boss_fight_normal |
@@ -180,14 +171,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Rinkatoヅ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 16:13:37 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495716277157670 |
-| Players | 1/5 |
-| Host Name | Dead Бом-Бом |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 16:13:52 |
 
 
