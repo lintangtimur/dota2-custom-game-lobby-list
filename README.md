@@ -113,10 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716057814005 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | 大炮 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 10:52:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716059867840 |
+| Players | 1/15 |
+| Host Name | Wulfee |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, October 29, 2023 10:56:00 |
 
 
 |  | epic_boss_fight_normal |
@@ -144,5 +153,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Infinitum |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 10:55:44 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28495716059840603 |
+| Players | 1/7 |
+| Host Name | D E G A |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 10:55:57 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495716059886149 |
+| Players | 1/10 |
+| Host Name | SINISTER RAMEN |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 10:56:02 |
 
 
