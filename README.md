@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715981632973 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | < blank > |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 08:08:15 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 07:41:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716005928724 |
-| Players | 1/15 |
-| Host Name | NERVOSO JIU-JITSU |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, October 29, 2023 09:01:59 |
+| Lobby ID | 28495716006024643 |
+| Players | 6/10 |
+| Host Name | :_V |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 09:02:13 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 09:02:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495716006024643 |
-| Players | 3/10 |
-| Host Name | :_V |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 09:02:13 |
+| Lobby ID | 28495716006362463 |
+| Players | 1/24 |
+| Host Name | :D |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, October 29, 2023 09:03:03 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Daywalker |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, October 29, 2023 07:55:42 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495716006371433 |
+| Players | 2/5 |
+| Host Name | qwalker |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 09:03:05 |
 
 
