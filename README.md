@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716142297659 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | ШИФЕР |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 13:21:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716141986378 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 13:21:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716144480625 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Void el Constructor |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 13:25:01 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716141934328 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | BaRtO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 13:21:09 |
@@ -77,10 +77,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716144344452 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Eren Yeager |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 13:24:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716144789443 |
+| Players | 3/8 |
+| Host Name | у |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 13:25:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716145084939 |
+| Players | 1/8 |
+| Host Name | W A T O B I X |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 13:25:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716145101273 |
+| Players | 2/8 |
+| Host Name | xDD |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 13:25:56 |
 
 
 |  | epic_boss_fight_normal |
@@ -103,10 +130,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495716143500706 |
+| Lobby ID | 28495716145136090 |
 | Players | 1/10 |
-| Host Name | Mr. Nobody |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 13:23:32 |
+| Host Name | konjiii |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 13:25:59 |
 
 
