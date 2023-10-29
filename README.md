@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717117755407 |
-| Players | 7/15 |
-| Host Name | IStarZoneIoo |
+| Lobby ID | 28495717117950625 |
+| Players | 6/8 |
+| Host Name | @KevinZavaleta |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 06:29:24 |
+| Lobby Creation Time | Monday, October 30, 2023 06:29:48 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717118195335 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | 丫卂 乃口工 丂山乇乇丅 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 06:30:18 |
@@ -74,48 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 06:30:05 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717118159764 |
-| Players | 1/15 |
-| Host Name | "GoPositive.bet" ARS - Bets4.fun |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 06:30:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717117950625 |
-| Players | 6/8 |
-| Host Name | @KevinZavaleta |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 06:29:48 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717118370009 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | KurkkuMopo |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 06:30:40 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717118556723 |
+| Players | 2/15 |
+| Host Name | Pero eres o no eres? |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 06:31:03 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717114442036 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Ezmurf |
 | Region | CHILE |
 | Lobby Creation Time | Monday, October 30, 2023 06:22:29 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495717118467672 |
-| Players | 1/5 |
-| Host Name | helo madafaker |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 06:30:52 |
 
 
