@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716056167938 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | Chunchunmaru |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 10:49:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716055257398 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | 151 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 10:47:57 |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716056762651 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Miselaniuz |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 10:50:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495716056512128 |
-| Players | 12/15 |
-| Host Name | Ligis |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 10:50:10 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495716056649939 |
-| Players | 7/24 |
-| Host Name | freshejka |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 10:50:24 |
 
 
 |  | ot3_gardens_duo |
@@ -90,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Espada |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, October 29, 2023 10:50:23 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495716056649939 |
+| Players | 7/24 |
+| Host Name | freshejka |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 10:50:24 |
 
 
 |  | epic_boss_fight_normal |
