@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716020321404 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | The Unknown |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 09:35:08 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716019906602 |
-| Players | 8/10 |
+| Players | 5/10 |
 | Host Name | Hellsing...!! |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 09:34:20 |
@@ -76,18 +76,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716020473502 |
-| Players | 13/15 |
-| Host Name | Понятой |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 09:35:26 |
+| Lobby ID | 28495716020126948 |
+| Players | 14/15 |
+| Host Name | FORNICATOR_MAXIMUS |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, October 29, 2023 09:34:46 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716021181528 |
 | Players | 6/15 |
-| Host Name | iZoni[x]X |
+| Host Name | kratos el mata inmortal |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 09:36:50 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716017608402 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Poger Clown |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 09:30:04 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716019846797 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Surprise |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 09:34:14 |
@@ -122,19 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716021164316 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Dav |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 09:36:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716021201380 |
-| Players | 1/8 |
-| Host Name | はっかのとがめ |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 09:36:52 |
+| Lobby ID | 28495716018023574 |
+| Players | 9/10 |
+| Host Name | shynecessity |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 09:30:47 |
 
 
 |  | epic_boss_fight_normal |
