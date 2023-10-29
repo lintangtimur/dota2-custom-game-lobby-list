@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 00:33:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716853249709 |
-| Players | 13/15 |
-| Host Name | TCCookie |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 00:38:45 |
+| Lobby ID | 28495716853475193 |
+| Players | 3/8 |
+| Host Name | 雨 |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 00:38:59 |
 
 
 |  | ot3_jungle_quintet |
@@ -112,29 +112,56 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716853166443 |
-| Players | 6/8 |
-| Host Name | MR.HUMSON |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 00:38:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716853475193 |
-| Players | 2/8 |
-| Host Name | 雨 |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 00:38:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716853476694 |
+| Lobby ID | 28495716853517426 |
 | Players | 1/8 |
+| Host Name | Trallhard |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 00:39:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716853587296 |
+| Players | 4/8 |
 | Host Name | I$uss |
 | Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 00:38:59 |
+| Lobby Creation Time | Monday, October 30, 2023 00:39:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716853626498 |
+| Players | 1/8 |
+| Host Name | СПЕРМА👻👻👻👻👻 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 00:39:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716853550969 |
+| Players | 1/15 |
+| Host Name | FoUsTy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 00:39:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716853627342 |
+| Players | 1/15 |
+| Host Name | Серёга Пиздец |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 00:39:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495716853642848 |
+| Players | 2/10 |
+| Host Name | t.me/ojometv |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 00:39:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -158,7 +185,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716852559778 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | где концерт кишлака? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 00:38:01 |
