@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716254334485 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | pandemoniiium |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Sunday, October 29, 2023 15:47:17 |
@@ -121,20 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716255655127 |
-| Players | 1/8 |
-| Host Name | Я АУТИСТ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 15:48:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716255674628 |
+| Lobby ID | 28495716255737609 |
 | Players | 1/8 |
 | Host Name | Bendjomi |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 15:48:52 |
+| Lobby Creation Time | Sunday, October 29, 2023 15:48:56 |
 
 
 |  | ot3_desert_octet |
@@ -144,15 +135,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Little |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 15:40:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716255644702 |
-| Players | 1/8 |
-| Host Name | みあもとむさし |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 15:48:49 |
 
 
 |  | epic_boss_fight_normal |
