@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716295567885 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Justin Weaver |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 16:35:19 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716294127781 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | Nemro |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 16:33:38 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716294797539 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | nil |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 16:34:25 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716295674735 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | baldej |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 16:35:26 |
@@ -117,6 +117,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fantasma_ |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, October 29, 2023 16:36:39 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495716296953121 |
+| Players | 1/24 |
+| Host Name | ВОГНИК-ЖАРКО-ЖАРК |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 16:36:56 |
 
 
 |  | epic_boss_fight_normal |
@@ -153,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Yitane |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 16:11:28 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495716297065672 |
+| Players | 1/10 |
+| Host Name | asd |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 16:37:04 |
 
 
