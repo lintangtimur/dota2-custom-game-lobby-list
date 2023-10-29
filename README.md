@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716234533876 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | 啪！一个Ori |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 15:23:45 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715968602511 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Coolriree |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 07:41:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716232119827 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | DickHunter |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, October 29, 2023 15:20:46 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716235191353 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | xXx |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 15:24:33 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716234829595 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 15:24:06 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716235251820 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Ducky |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 15:24:38 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716232545151 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Kai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 15:21:17 |
