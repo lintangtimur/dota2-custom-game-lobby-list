@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716202297257 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | 豆豆神！ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 14:43:07 |
@@ -41,26 +41,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716210837442 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Slim Shady |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 14:53:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716213003331 |
-| Players | 9/10 |
-| Host Name | GG |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 14:56:44 |
+| Lobby ID | 28495716214366639 |
+| Players | 8/15 |
+| Host Name | BP2022.cc |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 14:58:27 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716212921981 |
-| Players | 2/8 |
-| Host Name | раком саком |
+| Players | 1/8 |
+| Host Name | Artightekt |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 14:56:38 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716194763002 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | TrAfiCanSs |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 14:33:27 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716213652810 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 14:57:33 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716213277887 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | МАМА АКРАМНДЖОНА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, October 29, 2023 14:57:05 |
@@ -94,26 +94,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716213438154 |
-| Players | 6/8 |
-| Host Name | Что если я шаурма? |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 14:57:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495716213214870 |
-| Players | 12/15 |
-| Host Name | 6:06 |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 14:57:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28495716213144012 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | WAYNE |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 14:56:55 |
@@ -122,10 +104,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716206217785 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | アートリア・ペンドラ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 14:48:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716214546590 |
+| Players | 6/15 |
+| Host Name | Тузик) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 14:58:41 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495716210297841 |
+| Players | 22/24 |
+| Host Name | FICHA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 14:53:19 |
 
 
 |  | epic_boss_fight_normal |
@@ -139,17 +139,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495716213305767 |
-| Players | 3/10 |
-| Host Name | nthnl |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 14:57:07 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28495716208466462 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | KhalilMeister |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, October 29, 2023 14:51:00 |
