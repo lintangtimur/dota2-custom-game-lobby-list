@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716001665260 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Sauron |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, October 29, 2023 08:51:51 |
@@ -119,6 +119,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 08:54:42 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495716001880153 |
+| Players | 23/24 |
+| Host Name | lucho chan |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 08:52:21 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28495715837414572 |
@@ -149,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715999818978 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Yitane |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, October 29, 2023 08:47:34 |
@@ -176,7 +185,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715996070016 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | MadKing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 08:39:12 |
