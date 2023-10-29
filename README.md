@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717127627797 |
-| Players | 14/24 |
-| Host Name | D ~ He♥ly |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 06:51:27 |
+| Lobby ID | 28495717128216972 |
+| Players | 5/24 |
+| Host Name | YaMa |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 06:52:48 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717127971891 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Chatter |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 06:52:15 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717127932581 |
-| Players | 14/15 |
-| Host Name | DORURURU |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 06:52:09 |
+| Lobby ID | 28495717128290722 |
+| Players | 3/15 |
+| Host Name | coup de grâce 力 |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 06:52:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717127695766 |
-| Players | 7/8 |
-| Host Name | CHATITO GAS |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 06:51:37 |
+| Lobby ID | 28495717128353046 |
+| Players | 1/8 |
+| Host Name | 76561199196836346 |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 06:53:06 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717128183963 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Kukurudza Striptizerka |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 06:52:43 |
@@ -94,55 +94,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717128158805 |
-| Players | 5/10 |
-| Host Name | Кентавр миурА |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 06:52:40 |
+| Lobby ID | 28495717128652118 |
+| Players | 6/10 |
+| Host Name | Coach |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 06:53:47 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717128155966 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Wagon Wheels |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, October 30, 2023 06:52:39 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717128216972 |
-| Players | 5/24 |
-| Host Name | YaMa |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 06:52:48 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717125712051 |
-| Players | 23/24 |
-| Host Name | Teddy |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 06:47:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717128290722 |
-| Players | 1/15 |
-| Host Name | coup de grâce 力 |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 06:52:58 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495717126909550 |
-| Players | 2/5 |
-| Host Name | Pandiiz |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 06:49:49 |
 
 
