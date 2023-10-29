@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717096139406 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | zer0.k |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 05:46:53 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 04:51:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717097012823 |
-| Players | 1/8 |
-| Host Name | pisia |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 05:48:44 |
+| Lobby ID | 28495717097501934 |
+| Players | 2/10 |
+| Host Name | kakashka |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 05:49:46 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717096152443 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | NightSuki ツユ |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 05:46:55 |
@@ -126,33 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Взрыв Члена |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 05:49:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717097264631 |
-| Players | 1/8 |
-| Host Name | 工匕丹匚卄工 |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 05:49:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717097501934 |
-| Players | 2/10 |
-| Host Name | kakashka |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 05:49:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717097511664 |
-| Players | 4/8 |
-| Host Name | te11 me a $$ecret |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 05:49:47 |
 
 
 |  | epic_boss_fight_nightmare |
