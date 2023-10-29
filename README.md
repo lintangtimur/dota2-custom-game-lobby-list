@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717081392460 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | 想一起玩de请删好友 |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 05:17:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717095991964 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | lz 25$ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 05:46:35 |
@@ -76,20 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717096014528 |
-| Players | 1/15 |
-| Host Name | 보보씨 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 05:46:38 |
+| Lobby ID | 28495717096143308 |
+| Players | 2/15 |
+| Host Name | Tim_046 |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 05:46:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717095856534 |
-| Players | 7/10 |
-| Host Name | дам  в жопу за плитку шоколада |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 05:46:18 |
+| Lobby ID | 28495717096152443 |
+| Players | 2/24 |
+| Host Name | NightSuki ツユ |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 05:46:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,19 +113,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717096139406 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | zer0.k |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 05:46:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717096143308 |
-| Players | 1/15 |
-| Host Name | Tim_046 |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 05:46:54 |
+| Lobby ID | 28495717096221997 |
+| Players | 1/24 |
+| Host Name | prigarka |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 05:47:04 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717096235245 |
+| Players | 1/24 |
+| Host Name | Лысый из Brazzers |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 05:47:05 |
 
 
 |  | epic_boss_fight_nightmare |
