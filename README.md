@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716064932868 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Richie |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 11:05:39 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 11:04:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716063678598 |
-| Players | 9/10 |
-| Host Name | **__An1nh4_++_Tr3v0s4__** |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, October 29, 2023 11:03:13 |
+| Lobby ID | 28495716064936114 |
+| Players | 1/15 |
+| Host Name | tmc |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 11:05:39 |
 
 
 |  | ot3_desert_octet |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716064936114 |
-| Players | 1/15 |
-| Host Name | tmc |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 11:05:39 |
+| Lobby ID | 28495716063915860 |
+| Players | 14/15 |
+| Host Name | hxhx |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 11:03:41 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | svatoslav |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 05:31:21 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495716063673709 |
-| Players | 1/5 |
-| Host Name | БУХОЙ |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 11:03:13 |
 
 
 |  | epic_boss_fight_nightmare |
