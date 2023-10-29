@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716038333305 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Jesse Pinkman |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 10:11:56 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716038683165 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Stringer |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, October 29, 2023 10:12:38 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716039659165 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | In Solo We Trust |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 10:14:37 |
@@ -130,28 +130,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495716037850478 |
-| Players | 1/10 |
-| Host Name | Yitane |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, October 29, 2023 10:10:55 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495716038798866 |
-| Players | 5/10 |
-| Host Name | Vivi |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 10:12:53 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28495716038755582 |
 | Players | 3/10 |
 | Host Name | MESSI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 10:12:47 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495716038798866 |
+| Players | 6/10 |
+| Host Name | Vivi |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 10:12:53 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495716039922834 |
+| Players | 1/5 |
+| Host Name | Yitane |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, October 29, 2023 10:15:09 |
 
 
