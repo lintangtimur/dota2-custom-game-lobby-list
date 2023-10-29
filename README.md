@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716885933890 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | twitch.tv/lone_strider |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, October 30, 2023 01:14:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716883391679 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | . |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 01:11:51 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716885719489 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | Ханма Юичиро |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 01:14:33 |
@@ -148,11 +148,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716885972605 |
-| Players | 4/8 |
-| Host Name | Doctor |
+| Lobby ID | 28495716886094163 |
+| Players | 2/8 |
+| Host Name | Hulumulu |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 01:14:51 |
+| Lobby Creation Time | Monday, October 30, 2023 01:15:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -162,6 +162,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ты молодой банан |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, October 30, 2023 01:14:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716884881062 |
+| Players | 14/15 |
+| Host Name | HaXyuTaKuGRaT |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 01:13:34 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -176,7 +185,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716884950894 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 01:13:38 |
