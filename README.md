@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716166560441 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | hale male |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 13:56:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716160576752 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | dumkuntmagee |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 13:48:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716165253962 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Solo estoy pasando el rato |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 13:54:23 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716169668429 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Shapeek |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 14:00:25 |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 13:58:29 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716169610513 |
-| Players | 1/8 |
-| Host Name | фанат спирта |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 14:00:20 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716169596810 |
@@ -112,11 +103,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716169765828 |
-| Players | 1/8 |
-| Host Name | iseedeadpeople |
+| Lobby ID | 28495716170170722 |
+| Players | 4/8 |
+| Host Name | капикапи |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 14:00:33 |
+| Lobby Creation Time | Sunday, October 29, 2023 14:01:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716170150768 |
+| Players | 1/15 |
+| Host Name | dante |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 14:01:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716170173836 |
+| Players | 1/8 |
+| Host Name | фанат спирта |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 14:01:06 |
 
 
 |  | epic_boss_fight_normal |
