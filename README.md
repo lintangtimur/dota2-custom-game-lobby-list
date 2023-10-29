@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716011825132 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | kaneki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 09:16:41 |
@@ -157,19 +157,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495716012928085 |
-| Players | 9/10 |
-| Host Name | tulindoteiro |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 09:19:27 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28495716014314944 |
 | Players | 1/10 |
 | Host Name | SINISTER RAMEN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 09:22:51 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28495716014393401 |
+| Players | 3/7 |
+| Host Name | ebat' eto yzhas |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 09:23:03 |
 
 
