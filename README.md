@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716042600139 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | 76561199196836346 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 10:20:40 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715968602511 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Coolriree |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 07:41:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716044956230 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | all good |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 10:25:34 |
@@ -40,26 +40,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716044832261 |
-| Players | 6/8 |
-| Host Name | Baby Shark |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 10:25:19 |
+| Lobby ID | 28495716045593513 |
+| Players | 3/8 |
+| Host Name | G |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, October 29, 2023 10:26:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495716044113234 |
-| Players | 14/15 |
-| Host Name | MINATO |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 10:23:49 |
+| Lobby ID | 28495716045194911 |
+| Players | 3/24 |
+| Host Name | cawo_14 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 10:26:04 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716045185871 |
-| Players | 1/24 |
+| Players | 6/24 |
 | Host Name | El vengador de los Yupanqui |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 10:26:03 |
@@ -68,19 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716045174519 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Xiomara♡ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 10:26:01 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716045194911 |
-| Players | 1/24 |
-| Host Name | cawo_14 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 10:26:04 |
+| Lobby ID | 28495716045258503 |
+| Players | 3/15 |
+| Host Name | KEK |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 10:26:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495716045570235 |
+| Players | 2/10 |
+| Host Name | TOCENO TU TERROR |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 10:26:52 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716045473203 |
+| Players | 2/15 |
+| Host Name | fated |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 10:26:39 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28495715898935644 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | svatoslav |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 05:31:21 |
@@ -110,12 +128,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 07:55:42 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28495716042288661 |
-| Players | 9/10 |
-| Host Name | Yitane |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, October 29, 2023 10:20:02 |
+| Lobby ID | 28495716045545326 |
+| Players | 1/5 |
+| Host Name | BLACK HOLE |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, October 29, 2023 10:26:48 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495716045624833 |
+| Players | 1/5 |
+| Host Name | '๑bibibibibo☺ |
+| Region | PWUNICOM |
+| Lobby Creation Time | Sunday, October 29, 2023 10:26:58 |
 
 
