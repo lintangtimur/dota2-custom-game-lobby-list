@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715968602511 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Coolriree |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 07:41:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716125889838 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | сын тазика |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 12:55:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716124763529 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | jinsei87 |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 12:54:00 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716125867627 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | . |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 12:55:40 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | "[。ヤミ金   。イタミ。 |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 12:55:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495716126022416 |
+| Players | 3/10 |
+| Host Name | letmmeenjoy 3k |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 12:55:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716126111276 |
+| Players | 1/8 |
+| Host Name | $$$_ESKOBARRR_$$$ |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 12:56:03 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716125821441 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | SINISTER RAMEN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 12:55:36 |
