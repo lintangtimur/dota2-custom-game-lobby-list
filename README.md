@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 18:29:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716409033643 |
-| Players | 1/15 |
-| Host Name | 76561198056223203 |
+| Lobby ID | 28495716409386145 |
+| Players | 1/8 |
+| Host Name | Gumberdt |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 18:35:41 |
+| Lobby Creation Time | Sunday, October 29, 2023 18:36:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716409034967 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | oh wonder |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Sunday, October 29, 2023 18:35:41 |
@@ -65,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 18:32:20 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716409445556 |
+| Players | 1/8 |
+| Host Name | 𓀡_ŜÃĹЎÃŇЌÃ_𓀠 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 18:36:04 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716409006544 |
-| Players | 1/15 |
-| Host Name | qwe |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 18:35:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495716403738458 |
-| Players | 22/24 |
-| Host Name | ☠ Kira Yoshikage☢ |
+| Lobby ID | 28495716409463810 |
+| Players | 2/15 |
+| Host Name | Márchelano |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 18:30:45 |
+| Lobby Creation Time | Sunday, October 29, 2023 18:36:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716408852788 |
-| Players | 6/24 |
+| Players | 14/24 |
 | Host Name | Lamiel |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Sunday, October 29, 2023 18:35:31 |
@@ -157,11 +157,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716409348897 |
+| Lobby ID | 28495716409422849 |
 | Players | 1/15 |
-| Host Name | Alan |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 18:35:59 |
+| Host Name | OoKemikalyoO |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 18:36:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -173,22 +173,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 18:35:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716409363657 |
-| Players | 2/15 |
-| Host Name | Zortamos |
+| Lobby ID | 28495716409500244 |
+| Players | 1/8 |
+| Host Name | mamoru |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 18:36:00 |
+| Lobby Creation Time | Sunday, October 29, 2023 18:36:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716409367096 |
+| Lobby ID | 28495716409416125 |
 | Players | 1/15 |
-| Host Name | Caesar |
+| Host Name | 76561198056223203 |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 18:36:00 |
+| Lobby Creation Time | Sunday, October 29, 2023 18:36:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716409536363 |
+| Players | 1/15 |
+| Host Name | xolin_dol# |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, October 29, 2023 18:36:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716409550362 |
+| Players | 1/15 |
+| Host Name | Achilles |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 18:36:10 |
 
 
 |  | epic_boss_fight_nightmare |
