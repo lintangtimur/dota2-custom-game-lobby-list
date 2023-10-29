@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495716523951667 |
+| Players | 7/10 |
+| Host Name | moryaz |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, October 29, 2023 20:09:50 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716522836207 |
-| Players | 3/8 |
-| Host Name | Лераещкере(трупанк) |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 20:09:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495716521770268 |
-| Players | 14/15 |
-| Host Name | IQ |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 20:08:14 |
+| Lobby ID | 28495716523195675 |
+| Players | 6/8 |
+| Host Name | Дима OilRIG |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 20:09:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 20:08:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716518769819 |
-| Players | 1/10 |
-| Host Name | Lopper |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 20:06:01 |
+| Lobby ID | 28495716523532241 |
+| Players | 4/8 |
+| Host Name | ПИТЕР РЕПОРТЕР |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, October 29, 2023 20:09:32 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716520548470 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Nanashi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 20:07:20 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716514481188 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 鈴屋十三 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 20:02:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716519929466 |
-| Players | 2/10 |
-| Host Name | Гадюка |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, October 29, 2023 20:06:53 |
+| Lobby ID | 28495716523721151 |
+| Players | 1/8 |
+| Host Name | Feelingpeace’s |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, October 29, 2023 20:09:40 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716522038075 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | WhoUrMaster |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 20:08:26 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716502032618 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Dicayros |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 19:53:30 |
@@ -103,20 +103,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716516872630 |
-| Players | 7/15 |
-| Host Name | Лексей |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 20:04:38 |
+| Lobby ID | 28495716523909729 |
+| Players | 1/15 |
+| Host Name | Cypher |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, October 29, 2023 20:09:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716523016149 |
+| Players | 1/8 |
+| Host Name | 22 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 20:09:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716522961670 |
+| Players | 1/15 |
+| Host Name | I HATE STUPID KIDS |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 20:09:06 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716522919673 |
-| Players | 6/10 |
-| Host Name | Страшный Руин |
+| Lobby ID | 28495716523950400 |
+| Players | 2/10 |
+| Host Name | Гадюка |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, October 29, 2023 20:09:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716523750606 |
+| Players | 6/15 |
+| Host Name | 让我爱 |
 | Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 20:09:05 |
+| Lobby Creation Time | Sunday, October 29, 2023 20:09:42 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -137,19 +164,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 20:02:43 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495716508135664 |
-| Players | 4/5 |
-| Host Name | sky |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 19:58:07 |
+| Lobby ID | 28495716516129915 |
+| Players | 9/10 |
+| Host Name | Toha |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 20:04:05 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716519379572 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | Страдаю в готане на хардкоре |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 20:06:28 |
@@ -162,33 +189,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | xlntamer |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 20:06:06 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495716520437796 |
-| Players | 1/5 |
-| Host Name | शैतानשטןអារ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 20:07:15 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28495716522050592 |
-| Players | 1/7 |
-| Host Name | Navi_Djcuco |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 20:08:26 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495716516129915 |
-| Players | 7/10 |
-| Host Name | Toha |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 20:04:05 |
 
 
 |  | epic_boss_fight_nightmare |
