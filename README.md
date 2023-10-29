@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715968602511 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Coolriree |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 07:41:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715983644620 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Xiao BB |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 08:12:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715981947541 |
-| Players | 8/24 |
+| Players | 6/24 |
 | Host Name | Inukami Korone |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 08:08:53 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495715984864306 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | =)) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 08:14:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495715984625520 |
-| Players | 6/10 |
-| Host Name | PIGMAN |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 08:14:21 |
+| Lobby ID | 28495715985185590 |
+| Players | 2/24 |
+| Host Name | 小心踏得两艘船 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 08:15:31 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715981632973 |
-| Players | 9/15 |
+| Players | 5/15 |
 | Host Name | Strimans (Homo Ludens) |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 08:08:15 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715982538740 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | GL: "Dz_Rascal" Alejito |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 08:10:05 |
@@ -86,25 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715983424291 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | & |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, October 29, 2023 08:11:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715983615709 |
-| Players | 18/24 |
-| Host Name | Casimiro Supo Tito |
+| Lobby ID | 28495715985393837 |
+| Players | 1/10 |
+| Host Name | Gatosor |
 | Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 08:12:16 |
+| Lobby Creation Time | Sunday, October 29, 2023 08:15:58 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715984599903 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | samurai |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, October 29, 2023 08:14:18 |
@@ -117,6 +117,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SUN ♥ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 08:14:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715985024209 |
+| Players | 2/15 |
+| Host Name | Amaro |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, October 29, 2023 08:15:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715985369288 |
+| Players | 1/8 |
+| Host Name | Черноспермий |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, October 29, 2023 08:15:55 |
 
 
 |  | epic_boss_fight_normal |
@@ -149,9 +167,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715983944940 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | ЧмоняChad |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 08:12:57 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495715985365587 |
+| Players | 1/10 |
+| Host Name | Ezmurf |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, October 29, 2023 08:15:55 |
 
 
