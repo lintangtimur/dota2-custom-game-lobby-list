@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715981632973 |
-| Players | 7/15 |
+| Players | 4/15 |
 | Host Name | < blank > |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 08:08:15 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715993487908 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Laratonika |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, October 29, 2023 08:33:31 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715993570082 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | cacha abuelitas 3k |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 08:33:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495715993430412 |
-| Players | 7/10 |
-| Host Name | oniqzone- |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 08:33:23 |
+| Lobby ID | 28495715994910151 |
+| Players | 1/24 |
+| Host Name | Another |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 08:36:38 |
 
 
 |  | ot3_gardens_duo |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715994541376 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | coup de grâce 力 |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 08:35:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495715994720869 |
+| Players | 3/10 |
+| Host Name | Emeritus |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 08:36:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715994778020 |
+| Players | 3/8 |
+| Host Name | AkiKo Annaisha kim Sung |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 08:36:21 |
 
 
 |  | epic_boss_fight_normal |
