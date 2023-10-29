@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716150643399 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | rapier228 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 13:34:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716150843158 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | Silhouette |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 13:34:18 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716125167344 |
-| Players | 9/24 |
-| Host Name | BlackJesusv2 |
+| Players | 5/24 |
+| Host Name | ʀʏυʍ¿ɴcʜ∀ε |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, October 29, 2023 12:54:36 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716152313581 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Кибер Валет |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 13:36:27 |
@@ -83,22 +83,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 13:36:40 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495716152606318 |
-| Players | 1/10 |
-| Host Name | Lymo |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 13:36:52 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716152606477 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Священная Рана |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 13:36:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495716152738054 |
+| Players | 1/10 |
+| Host Name | get negro |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, October 29, 2023 13:37:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495716152739543 |
+| Players | 1/10 |
+| Host Name | Lymo |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 13:37:03 |
 
 
 |  | epic_boss_fight_normal |
