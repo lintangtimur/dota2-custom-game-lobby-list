@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717006988966 |
-| Players | 9/15 |
-| Host Name | САСЬВА |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 03:26:34 |
+| Lobby ID | 28495717007347590 |
+| Players | 1/15 |
+| Host Name | [Suko] |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 03:26:58 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717006953679 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | MORO |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 03:26:31 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716991678140 |
-| Players | 11/15 |
-| Host Name | . |
+| Players | 8/15 |
+| Host Name | GiggleR |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 03:09:19 |
 
@@ -110,37 +110,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 03:22:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716925173845 |
-| Players | 13/15 |
-| Host Name | ms-grizlik |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 01:55:35 |
+| Lobby ID | 28495717006786685 |
+| Players | 5/10 |
+| Host Name | tell me your fears |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 03:26:20 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716999018147 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | РЕКВИЕМ ПО ЧЕЧНЕ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 03:17:32 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717007013578 |
-| Players | 6/10 |
-| Host Name | fuck pretty, i'm gorgeous |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 03:26:35 |
+| Lobby ID | 28495717007302704 |
+| Players | 6/8 |
+| Host Name | SeaPancake |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 03:26:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716829643225 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Holoバカ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 00:15:06 |
@@ -164,13 +164,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 03:26:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717006551525 |
-| Players | 4/8 |
-| Host Name | gravity |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 03:26:04 |
+| Lobby ID | 28495717007312329 |
+| Players | 4/10 |
+| Host Name | 瓦迪姆 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, October 30, 2023 03:26:55 |
 
 
 |  | ot3_gardens_duo |
@@ -203,7 +203,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717001916253 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Cokula |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 03:20:49 |
@@ -212,7 +212,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28495717005836064 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | ✯✞⚡やhͥunͣiͫSheℝ⚡ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 03:25:15 |
@@ -225,15 +225,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | npocmodvp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 03:26:03 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495716971556162 |
-| Players | 3/10 |
-| Host Name | WARR1ORS |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 02:45:46 |
 
 
 |  | epic_boss_fight_challenger |
