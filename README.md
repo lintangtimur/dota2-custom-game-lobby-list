@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716153000042 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | бамбіть бамбас |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, October 29, 2023 13:37:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716125167344 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | ʀʏυʍ¿ɴcʜ∀ε |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, October 29, 2023 12:54:36 |
@@ -68,28 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716153217439 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | Noodle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 13:37:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716153352489 |
-| Players | 1/24 |
-| Host Name | Hachiman |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 13:37:56 |
+| Lobby ID | 28495716153511034 |
+| Players | 2/10 |
+| Host Name | Предприниматель |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 13:38:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716153391807 |
-| Players | 1/8 |
-| Host Name | stingeR. |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 13:37:59 |
+| Lobby ID | 28495716150643399 |
+| Players | 14/15 |
+| Host Name | rapier228 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 13:34:01 |
 
 
 |  | epic_boss_fight_normal |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716152441089 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Fluid |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 13:36:38 |
