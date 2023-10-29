@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716113606549 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Viceroy |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, October 29, 2023 12:35:00 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716113224960 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Chance |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 12:34:18 |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716116840574 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Bajador de Pepa Profesional |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 12:40:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716116897816 |
-| Players | 1/8 |
-| Host Name | Illusion |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 12:40:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716116909594 |
-| Players | 1/8 |
-| Host Name | Inside Power |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 12:40:55 |
 
 
 |  | epic_boss_fight_normal |
@@ -131,19 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716115029214 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Buccue_JR21 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 12:37:32 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495716116446315 |
-| Players | 1/10 |
-| Host Name | [                         ] |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 12:40:06 |
 
 
 |  | epic_boss_fight_normal |
