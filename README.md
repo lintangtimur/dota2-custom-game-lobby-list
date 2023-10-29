@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716054365046 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | LegalizeGayMarijuana |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, October 29, 2023 10:46:01 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716053631937 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | ???% |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 10:44:28 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716054329573 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 10:45:56 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716054583342 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | EL MAS CAPITO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 10:46:29 |
@@ -153,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | zickit |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 10:39:29 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495716054849363 |
+| Players | 1/10 |
+| Host Name | Buccue_JR21 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 10:47:03 |
 
 
