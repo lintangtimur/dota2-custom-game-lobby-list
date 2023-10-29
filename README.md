@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 05:17:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717095328368 |
-| Players | 8/10 |
-| Host Name | FORFITO |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 05:45:12 |
+| Lobby ID | 28495717096139406 |
+| Players | 7/15 |
+| Host Name | zer0.k |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 05:46:53 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717096143308 |
-| Players | 3/15 |
-| Host Name | ND |
+| Players | 5/15 |
+| Host Name | Guppi |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 05:46:54 |
 
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717095738938 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | get negro |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, October 30, 2023 05:46:04 |
@@ -112,29 +112,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717096139406 |
-| Players | 7/15 |
-| Host Name | zer0.k |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 05:46:53 |
+| Lobby ID | 28495717096654052 |
+| Players | 3/15 |
+| Host Name | Tim_046 |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 05:47:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717096592291 |
-| Players | 1/8 |
-| Host Name | kукурузыч.absolute |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 05:47:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717096596684 |
-| Players | 1/8 |
-| Host Name | dd |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 05:47:50 |
+| Lobby ID | 28495717096664981 |
+| Players | 1/10 |
+| Host Name | Artorias |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 05:47:59 |
 
 
 |  | epic_boss_fight_nightmare |
