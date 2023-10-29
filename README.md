@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716115703357 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | trash teammate |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 12:38:46 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 07:41:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716117155792 |
-| Players | 20/24 |
-| Host Name | Pink Certz |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 12:41:22 |
+| Lobby ID | 28495716118052050 |
+| Players | 1/8 |
+| Host Name | Детригнус |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, October 29, 2023 12:42:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716117332608 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Piroco |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, October 29, 2023 12:41:41 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716117154455 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Annette |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 12:41:22 |
@@ -99,24 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Riltex |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 12:42:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716117961714 |
-| Players | 3/8 |
-| Host Name | вахуи |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 12:42:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495716114821577 |
-| Players | 14/15 |
-| Host Name | la nueva promesa del dota SA |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 12:37:10 |
 
 
 |  | epic_boss_fight_normal |
