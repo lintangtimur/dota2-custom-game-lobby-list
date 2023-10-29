@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715962653181 |
-| Players | 3/8 |
-| Host Name | Стейк |
+| Lobby ID | 28495715962981204 |
+| Players | 2/8 |
+| Host Name | rxn |
 | Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 07:29:55 |
+| Lobby Creation Time | Sunday, October 29, 2023 07:30:33 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715962545683 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Invisible |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 07:29:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715919360811 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | YaMa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 06:05:37 |
@@ -58,74 +58,56 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715960761658 |
+| Lobby ID | 28495715963177758 |
 | Players | 2/10 |
-| Host Name | VneShaurmi |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 07:25:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715962611392 |
-| Players | 5/8 |
-| Host Name | Don´t Worry |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 07:29:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495715962311243 |
-| Players | 6/10 |
-| Host Name | Filipowicz |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 07:29:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495715962447815 |
-| Players | 3/15 |
-| Host Name | Xiao BB |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 07:29:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715962207902 |
-| Players | 5/8 |
-| Host Name | 11 |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 07:29:02 |
+| Host Name | extasy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 07:30:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715962555698 |
-| Players | 4/24 |
+| Players | 18/24 |
 | Host Name | BRUTALSICK |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 07:29:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495715962667496 |
-| Players | 1/15 |
-| Host Name | elacs |
+| Lobby ID | 28495715963058864 |
+| Players | 7/8 |
+| Host Name | Need? |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 07:29:56 |
+| Lobby Creation Time | Sunday, October 29, 2023 07:30:42 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715962677487 |
+| Lobby ID | 28495715962906316 |
 | Players | 1/15 |
-| Host Name | Tea |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 07:29:58 |
+| Host Name | I am core |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 07:30:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715962958159 |
+| Players | 5/15 |
+| Host Name | k1 de dia Kcho de noche :v |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 07:30:30 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495715962977823 |
+| Players | 1/24 |
+| Host Name | freshejka |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 07:30:32 |
 
 
 |  | epic_boss_fight_normal |
@@ -149,9 +131,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495715961135154 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | MonlitH |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 07:26:47 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495715962787850 |
+| Players | 1/10 |
+| Host Name | Hunter |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, October 29, 2023 07:30:10 |
 
 
