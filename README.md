@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715968602511 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Coolriree |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 07:41:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715978549143 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 08:01:55 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715978382693 |
-| Players | 6/10 |
-| Host Name | honolulu |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 08:01:35 |
+| Lobby ID | 28495715973899858 |
+| Players | 9/10 |
+| Host Name | максим |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 07:52:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715978323613 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | Muy Malo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 08:01:28 |
@@ -95,10 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715978157573 |
-| Players | 3/24 |
+| Players | 10/24 |
 | Host Name | BKBB |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 08:01:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495715978661822 |
+| Players | 6/15 |
+| Host Name | Fedeando en tu medalla ctmr |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 08:02:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495715977605238 |
+| Players | 9/10 |
+| Host Name | mata limeños |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 08:00:03 |
 
 
 |  | epic_boss_fight_normal |
