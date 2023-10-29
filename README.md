@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 07:41:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716067421173 |
-| Players | 1/8 |
-| Host Name | максим |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 11:10:27 |
+| Lobby ID | 28495716067629120 |
+| Players | 2/10 |
+| Host Name | Kael |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, October 29, 2023 11:10:52 |
 
 
 |  | ot3_jungle_quintet |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495716067033653 |
-| Players | 9/10 |
-| Host Name | Park Shin-hye |
+| Lobby ID | 28495716067695707 |
+| Players | 5/24 |
+| Host Name | Leeney♥ |
 | Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 11:09:42 |
+| Lobby Creation Time | Sunday, October 29, 2023 11:10:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716066900145 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Solo estoy pasando el rato |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 11:09:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716066698575 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | саксамдык |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 11:09:03 |
@@ -103,11 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716067629120 |
-| Players | 2/10 |
-| Host Name | Kael |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 11:10:52 |
+| Lobby ID | 28495716067722649 |
+| Players | 1/10 |
+| Host Name | Ҝιώi𝕀c𝐜ʰｏ  ☯ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 11:11:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495716067729221 |
+| Players | 2/8 |
+| Host Name | CHAPMAN BROWN |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 11:11:03 |
 
 
 |  | epic_boss_fight_normal |
