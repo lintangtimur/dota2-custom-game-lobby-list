@@ -40,20 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717088503185 |
+| Lobby ID | 28495717088693485 |
 | Players | 2/10 |
-| Host Name | L-L |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 05:31:30 |
+| Host Name | Hardcore_Smartie |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 05:31:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717086081840 |
-| Players | 20/24 |
-| Host Name | Black Raven |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 05:26:53 |
+| Lobby ID | 28495717088512883 |
+| Players | 10/15 |
+| Host Name | FORNICATOR_MAXIMUS |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 05:31:31 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717088407455 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | EG.狩猎或杀戮如果我 |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 05:31:19 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717086078234 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | MAGA |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 05:26:53 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717088343756 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Gream_rip |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 05:31:11 |
@@ -128,22 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 05:31:15 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717088512883 |
-| Players | 5/15 |
-| Host Name | FORNICATOR_MAXIMUS |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 05:31:31 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717088693485 |
-| Players | 1/10 |
-| Host Name | Hardcore_Smartie |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 05:31:53 |
+| Lobby ID | 28495717088811587 |
+| Players | 2/10 |
+| Host Name | L-L |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 05:32:07 |
 
 
 |  | epic_boss_fight_nightmare |
