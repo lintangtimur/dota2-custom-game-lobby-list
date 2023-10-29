@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716166560441 |
-| Players | 4/8 |
-| Host Name | Midnight Dew |
+| Players | 5/8 |
+| Host Name | hale male |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 13:56:09 |
 
@@ -65,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 13:54:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716167355180 |
-| Players | 9/10 |
-| Host Name | Space-man ඞ |
+| Lobby ID | 28495716168496167 |
+| Players | 7/8 |
+| Host Name | Священная Рана |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 13:57:15 |
+| Lobby Creation Time | Sunday, October 29, 2023 13:58:48 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716168461252 |
-| Players | 14/15 |
-| Host Name | Кредит на Бэбика |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 13:58:46 |
+| Lobby ID | 28495716168653231 |
+| Players | 6/15 |
+| Host Name | святой источник |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, October 29, 2023 13:59:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,24 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RAV |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Sunday, October 29, 2023 13:58:29 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495716169076696 |
-| Players | 1/24 |
-| Host Name | 虚空大队友 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 13:59:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495716168653231 |
-| Players | 7/15 |
-| Host Name | святой источник |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, October 29, 2023 13:59:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -131,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28495715898935644 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | svatoslav |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 05:31:21 |
