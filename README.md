@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716277468312 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Impactless |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, October 29, 2023 16:14:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716277110829 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | Sukuna |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 16:13:49 |
@@ -101,22 +101,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 16:14:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716277194393 |
-| Players | 2/8 |
-| Host Name | тру нифор |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, October 29, 2023 16:13:55 |
+| Lobby ID | 28495716278229128 |
+| Players | 2/15 |
+| Host Name | . |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 16:15:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495716278110138 |
+| Players | 1/10 |
+| Host Name | i hate myself |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, October 29, 2023 16:14:59 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716278093347 |
-| Players | 3/15 |
-| Host Name | tmc |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 16:14:58 |
+| Lobby ID | 28495716278245540 |
+| Players | 1/15 |
+| Host Name | MJay |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 16:15:09 |
 
 
 |  | epic_boss_fight_normal |
