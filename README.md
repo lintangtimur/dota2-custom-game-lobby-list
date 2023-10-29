@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716156287259 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | ⓞ︎ⓜ︎ⓔ︎ⓝ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 13:42:06 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715968602511 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Coolriree |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 07:41:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716151727631 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | El MALDITO CREEP |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 13:35:36 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716154949388 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Imave |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 13:40:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716156752684 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | wwwwwwwwwwwwwwwwww. |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 13:42:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716157478904 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | o,o |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 13:43:45 |
@@ -81,6 +81,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Shulton 2.0 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 13:38:29 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495716157614610 |
+| Players | 1/10 |
+| Host Name | |DoBro| |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 13:43:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716157714582 |
+| Players | 1/15 |
+| Host Name | Degenerate Evolutionary |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, October 29, 2023 13:44:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495716157722519 |
+| Players | 1/10 |
+| Host Name | Гуакамоле |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, October 29, 2023 13:44:06 |
 
 
 |  | epic_boss_fight_normal |
