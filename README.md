@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717090145327 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Calabreso |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, October 30, 2023 05:34:43 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717092741336 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | PATO |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, October 30, 2023 05:39:53 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717093978526 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | waste |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, October 30, 2023 05:42:25 |
@@ -173,15 +173,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 05:42:27 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717094028819 |
-| Players | 1/8 |
-| Host Name | BrownIkar |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 05:42:31 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717094109125 |
@@ -189,6 +180,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | D ~ He♥ly |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 05:42:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717094263845 |
+| Players | 1/8 |
+| Host Name | BrownIkar |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 05:42:59 |
 
 
 |  | epic_boss_fight_nightmare |
