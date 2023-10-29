@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716108205978 |
-| Players | 9/10 |
+| Players | 7/10 |
 | Host Name | ็ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 12:25:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716107823568 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Jenducky |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 12:24:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716108200618 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | SR. Arteezy |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 12:25:10 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716109723021 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Lymo |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 12:27:56 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716109147872 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Random Access Memories |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 12:26:53 |
