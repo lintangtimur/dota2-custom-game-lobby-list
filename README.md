@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716141496555 |
-| Players | 9/15 |
-| Host Name | money dealer |
+| Players | 5/15 |
+| Host Name | enishi |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 13:20:28 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716125167344 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, October 29, 2023 12:54:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716141248492 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Pink Certz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 13:20:06 |
@@ -95,10 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716141782869 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Brooklyn |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, October 29, 2023 13:20:55 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495716141934328 |
+| Players | 1/24 |
+| Host Name | BaRtO |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 13:21:09 |
 
 
 |  | epic_boss_fight_normal |
@@ -131,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495716141036477 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | what the fuck am i doing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 13:19:46 |
