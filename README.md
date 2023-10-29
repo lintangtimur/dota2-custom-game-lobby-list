@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716302546204 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | murad |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 16:43:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495716309834295 |
-| Players | 2/10 |
-| Host Name | F |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 16:51:59 |
+| Lobby ID | 28495716305934473 |
+| Players | 23/24 |
+| Host Name | Waxillium |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, October 29, 2023 16:47:27 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716305787407 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Mori 𓆩 𓆪 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 16:47:17 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716308287165 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Swagger |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 16:50:10 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 16:51:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716307448618 |
-| Players | 10/15 |
-| Host Name | chikikiks |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, October 29, 2023 16:49:12 |
+| Lobby ID | 28495716309982372 |
+| Players | 1/8 |
+| Host Name | <3 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 16:52:09 |
 
 
 |  | ot3_gardens_duo |
@@ -162,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KAMAZzz |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Sunday, October 29, 2023 16:44:03 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495716309969528 |
+| Players | 1/5 |
+| Host Name | IIpopok |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 16:52:08 |
 
 
