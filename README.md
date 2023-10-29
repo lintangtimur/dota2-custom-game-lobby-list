@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495715983350414 |
-| Players | 2/8 |
-| Host Name | ghost |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, October 29, 2023 08:11:43 |
+| Lobby ID | 28495715983700201 |
+| Players | 1/10 |
+| Host Name | .-. |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, October 29, 2023 08:12:26 |
 
 
 |  | ot3_jungle_quintet |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 07:41:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495715982426093 |
-| Players | 5/10 |
-| Host Name | weffff |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 08:09:51 |
+| Lobby ID | 28495715983644620 |
+| Players | 1/15 |
+| Host Name | Xiao BB |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 08:12:19 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495715981947541 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Inukami Korone |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 08:08:53 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 08:10:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495715982562285 |
-| Players | 7/8 |
-| Host Name | GYBI |
-| Region | PERU |
-| Lobby Creation Time | Sunday, October 29, 2023 08:10:08 |
+| Lobby ID | 28495715983424291 |
+| Players | 1/24 |
+| Host Name | & |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, October 29, 2023 08:11:52 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495715982170648 |
-| Players | 2/15 |
+| Players | 14/15 |
 | Host Name | p[A]ur |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, October 29, 2023 08:09:20 |
@@ -104,28 +104,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495715983113300 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | oniqzone- |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, October 29, 2023 08:11:15 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495715983411997 |
-| Players | 1/8 |
-| Host Name | mode: alone |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, October 29, 2023 08:11:51 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495715983424291 |
-| Players | 1/24 |
-| Host Name | & |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, October 29, 2023 08:11:52 |
+| Lobby ID | 28495715983615709 |
+| Players | 3/24 |
+| Host Name | Casimiro Supo Tito |
+| Region | PERU |
+| Lobby Creation Time | Sunday, October 29, 2023 08:12:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495715983901110 |
+| Players | 1/8 |
+| Host Name | robi |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, October 29, 2023 08:12:51 |
 
 
 |  | epic_boss_fight_normal |
@@ -157,19 +157,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495715983157359 |
+| Lobby ID | 28495715983896112 |
 | Players | 1/10 |
-| Host Name | MonlitH |
+| Host Name | ЧмоняChad |
 | Region | JAPAN |
-| Lobby Creation Time | Sunday, October 29, 2023 08:11:20 |
+| Lobby Creation Time | Sunday, October 29, 2023 08:12:51 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495715983897840 |
+| Players | 1/5 |
+| Host Name | ryodanenjoyer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, October 29, 2023 08:12:51 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495715983048874 |
+| Lobby ID | 28495715983903664 |
 | Players | 1/10 |
-| Host Name | ЧмоняChad |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, October 29, 2023 08:11:07 |
+| Host Name | MonlitH |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, October 29, 2023 08:12:52 |
 
 
