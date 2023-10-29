@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717120060238 |
-| Players | 1/24 |
-| Host Name | DragonBack |
+| Lobby ID | 28495717120417889 |
+| Players | 2/8 |
+| Host Name | 工匕丹匚卄工 |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 06:34:17 |
+| Lobby Creation Time | Monday, October 30, 2023 06:35:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717119163507 |
-| Players | 10/24 |
+| Players | 17/24 |
 | Host Name | shu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 06:32:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717118761313 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Amaraki |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 06:31:28 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 06:34:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717118989358 |
-| Players | 1/15 |
-| Host Name | Umami Enj0yR |
+| Lobby ID | 28495717120396700 |
+| Players | 2/8 |
+| Host Name | NotTryHard_LD |
 | Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 06:31:57 |
+| Lobby Creation Time | Monday, October 30, 2023 06:35:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717120006504 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Jora Napasov |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 06:34:10 |
@@ -103,17 +103,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717119817088 |
-| Players | 13/15 |
-| Host Name | 努力模式666 |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 06:33:45 |
+| Lobby ID | 28495717120386830 |
+| Players | 5/15 |
+| Host Name | zer0.k |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 06:35:00 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717120320313 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | НаПасЧапа |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 06:34:51 |
