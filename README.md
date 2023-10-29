@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716118052050 |
-| Players | 4/8 |
-| Host Name | Детригнус |
+| Players | 3/8 |
+| Host Name | 4TO BI 4TO?????????? |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, October 29, 2023 12:42:58 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716117806609 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | . |
 | Region | PERU |
 | Lobby Creation Time | Sunday, October 29, 2023 12:42:32 |
@@ -119,6 +119,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 12:43:51 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495716113606549 |
+| Players | 15/15 |
+| Host Name | Viceroy |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, October 29, 2023 12:35:00 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28495715837414572 |
@@ -144,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Buccue_JR21 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, October 29, 2023 12:37:32 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495716118586129 |
+| Players | 1/5 |
+| Host Name | Daywalker |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, October 29, 2023 12:43:55 |
 
 
