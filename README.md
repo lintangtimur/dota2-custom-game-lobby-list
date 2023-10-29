@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716954440642 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | te escupo y me voy |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 02:28:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716955701179 |
-| Players | 1/8 |
-| Host Name | Talant192 |
+| Lobby ID | 28495716956445405 |
+| Players | 4/15 |
+| Host Name | Enrage |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 02:29:47 |
+| Lobby Creation Time | Monday, October 30, 2023 02:30:30 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495716955419277 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | senstave_ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 02:29:31 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495716953933236 |
-| Players | 2/24 |
-| Host Name | Cтимуляторы ЦНС |
+| Players | 3/24 |
+| Host Name | ATK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 02:28:00 |
 
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 02:19:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716952814056 |
-| Players | 4/10 |
-| Host Name | Raf1k |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 02:26:39 |
+| Lobby ID | 28495716956588948 |
+| Players | 2/8 |
+| Host Name | Super八哥 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 02:30:38 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495716930132276 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | мамикс |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 02:01:03 |
@@ -110,22 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 02:29:49 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495716956592160 |
+| Players | 4/10 |
+| Host Name | Magadan RQ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 02:30:38 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716955546118 |
-| Players | 3/8 |
-| Host Name | ЯДРЕНБАТОН |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 02:29:38 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495716948103955 |
-| Players | 17/24 |
-| Host Name | Larry kaverga |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 02:21:07 |
+| Lobby ID | 28495716956768720 |
+| Players | 2/8 |
+| Host Name | XxTuviejoxX |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 02:30:49 |
 
 
 |  | ot3_gardens_duo |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495716955318692 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Senko Oi Yaiku |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 02:29:25 |
@@ -148,128 +148,74 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716952476015 |
-| Players | 3/15 |
-| Host Name | kamaromu |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 02:26:15 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495716955474553 |
-| Players | 9/10 |
-| Host Name | Valkyrie |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 02:29:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495716925173845 |
-| Players | 11/15 |
-| Host Name | 俄语 |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 01:55:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495716955701827 |
-| Players | 9/10 |
-| Host Name | Gufner Amself |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 02:29:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495716955521416 |
+| Lobby ID | 28495716956764561 |
 | Players | 1/15 |
-| Host Name | Super八哥 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 02:29:37 |
+| Host Name | Quazar[dead] |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 02:30:48 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716955676660 |
-| Players | 1/8 |
-| Host Name | ☠☠☠ |
+| Lobby ID | 28495716956139707 |
+| Players | 2/8 |
+| Host Name | epileptick1ds bastard |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 02:29:45 |
+| Lobby Creation Time | Monday, October 30, 2023 02:30:13 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495716955414550 |
-| Players | 13/15 |
-| Host Name | ни чего себе |
+| Lobby ID | 28495716956529170 |
+| Players | 1/15 |
+| Host Name | Cтимуляторы ЦНС |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 02:29:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495716955817554 |
-| Players | 3/15 |
-| Host Name | Fastym |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 02:29:54 |
+| Lobby Creation Time | Monday, October 30, 2023 02:30:35 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495716955814779 |
-| Players | 4/10 |
-| Host Name | Жопис |
+| Lobby ID | 28495716956590528 |
+| Players | 2/10 |
+| Host Name | Agap |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 02:29:53 |
+| Lobby Creation Time | Monday, October 30, 2023 02:30:38 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495716955280326 |
-| Players | 6/8 |
-| Host Name | mode: sclkoma |
+| Lobby ID | 28495716956845023 |
+| Players | 3/8 |
+| Host Name | 21 |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 02:30:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495716956805443 |
+| Players | 1/10 |
+| Host Name | mne poxuy |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 02:29:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716955861496 |
-| Players | 1/8 |
-| Host Name | gravity |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, October 30, 2023 02:29:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495716955873297 |
-| Players | 1/8 |
-| Host Name | Fredrik |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 02:29:57 |
+| Lobby Creation Time | Monday, October 30, 2023 02:30:51 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28495716954965557 |
-| Players | 1/5 |
+| Players | 4/5 |
 | Host Name | Bacek |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 02:29:04 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28495716950631215 |
-| Players | 9/10 |
-| Host Name | Tautologie |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 02:24:05 |
+| Lobby ID | 28495716955547411 |
+| Players | 2/5 |
+| Host Name | Alfy Fox |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 02:29:38 |
 
 
 |  | epic_boss_fight_normal |
@@ -283,10 +229,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28495716955547411 |
+| Lobby ID | 28495716956399932 |
 | Players | 1/5 |
-| Host Name | Alfy Fox |
+| Host Name | bob |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 02:29:38 |
+| Lobby Creation Time | Monday, October 30, 2023 02:30:28 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495716956768927 |
+| Players | 1/10 |
+| Host Name | (^^) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 02:30:49 |
 
 
