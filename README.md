@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717190339636 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | OpenAI(Hank Bot) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 08:57:11 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717192365096 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | melancholic October |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 09:01:22 |
@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 09:02:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717193484481 |
-| Players | 5/8 |
-| Host Name | Elon Musk |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:03:38 |
+| Lobby ID | 28495717193405576 |
+| Players | 4/15 |
+| Host Name | I DonT Speak Taco Taco :) |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 09:03:29 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717193265576 |
-| Players | 6/10 |
-| Host Name | yo+4pezuñas |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:03:12 |
+| Lobby ID | 28495717193686813 |
+| Players | 6/15 |
+| Host Name | Bobby Fisher |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 09:04:03 |
 
 
 |  | ot3_gardens_duo |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717193368717 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Matt |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 09:03:24 |
@@ -119,15 +119,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 09:03:55 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717193405576 |
-| Players | 5/15 |
-| Host Name | I DonT Speak Taco Taco :) |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 09:03:29 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717191049318 |
@@ -140,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717191811417 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Odonata |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 09:00:10 |
