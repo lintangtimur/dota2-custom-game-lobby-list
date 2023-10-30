@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717186713365 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Zenigata |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 08:49:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717185651821 |
-| Players | 14/15 |
-| Host Name | I HATE STUPID KIDS |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 08:47:45 |
+| Lobby ID | 28495717187654487 |
+| Players | 2/10 |
+| Host Name | Laokun |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 08:51:44 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717187159328 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Tomoya Uryuu |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 08:50:45 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717187338185 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | PATO CARLOS POTOS |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 08:51:06 |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717187501001 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Sancocho |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 08:51:26 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717187654487 |
-| Players | 2/10 |
-| Host Name | Laokun |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 08:51:44 |
 
 
 |  | epic_boss_fight_nightmare |
