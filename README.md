@@ -20,28 +20,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717725849619 |
-| Players | 7/8 |
-| Host Name | By: H☼†.7<inG-NighT |
-| Region | CHILE |
-| Lobby Creation Time | Monday, October 30, 2023 21:26:19 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717654557994 |
-| Players | 13/15 |
-| Host Name | ASSASSINS CREEP |
-| Region | CHILE |
-| Lobby Creation Time | Monday, October 30, 2023 20:28:52 |
+| Lobby ID | 28495717742825140 |
+| Players | 12/15 |
+| Host Name | Windo |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 21:39:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717742870456 |
+| Players | 1/8 |
+| Host Name | ГИБРИД ПИВО |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 21:39:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717741302102 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | MRppck |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, October 30, 2023 21:38:36 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717735420998 |
+| Lobby ID | 28495717742842380 |
 | Players | 1/15 |
-| Host Name | j.w.milan |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 21:33:57 |
+| Host Name | Greta Thunberg |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 21:39:50 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717740074472 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | EXTERMINATOR |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, October 30, 2023 21:37:38 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717738124731 |
-| Players | 3/10 |
-| Host Name | Tinky Winky |
+| Players | 2/10 |
+| Host Name | panda |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 21:36:06 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717714680698 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | 🍤🍤🍤🍤🍤Anyone🍤 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 21:17:15 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717733172357 |
-| Players | 23/24 |
+| Players | 22/24 |
 | Host Name | 11by |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 21:32:09 |
@@ -104,64 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717741678790 |
-| Players | 1/8 |
-| Host Name | БЕЛЯШ |
+| Players | 3/8 |
+| Host Name | PAIN |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, October 30, 2023 21:38:54 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717741678104 |
-| Players | 1/8 |
-| Host Name | SWAP COMMENDS |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 21:38:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717741877311 |
-| Players | 4/8 |
-| Host Name | Саня |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 21:39:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717741903135 |
-| Players | 1/8 |
-| Host Name | 12999 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 21:39:05 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717741874341 |
+| Lobby ID | 28495717742694191 |
 | Players | 1/15 |
-| Host Name | ГИБРИД ПИВО |
+| Host Name | BLABLABLABLA |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 21:39:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717741900009 |
-| Players | 5/15 |
-| Host Name | OAO Whoha TF |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 21:39:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717742116357 |
-| Players | 1/10 |
-| Host Name | 精神的にバランスが取 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 21:39:15 |
+| Lobby Creation Time | Monday, October 30, 2023 21:39:43 |
 
 
 |  | epic_boss_fight_challenger |
@@ -194,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717730280274 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | SUPERMAN |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 21:29:51 |
@@ -209,13 +164,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 21:35:24 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28495717736935019 |
-| Players | 9/10 |
-| Host Name | A N D Y |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 21:35:09 |
+| Lobby ID | 28495717741535994 |
+| Players | 1/5 |
+| Host Name | ¡ VAMOS҉  ! |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 21:38:47 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -234,23 +189,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hollywood_1337 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 21:38:37 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495717741535994 |
-| Players | 1/5 |
-| Host Name | ¡ VAMOS҉  ! |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 21:38:47 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28495717742121251 |
-| Players | 1/7 |
-| Host Name | Mammon |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 21:39:15 |
 
 
