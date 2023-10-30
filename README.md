@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717412137874 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Flexy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, October 30, 2023 15:46:13 |
@@ -54,6 +54,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 123 |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 15:47:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717415972382 |
+| Players | 2/10 |
+| Host Name | АНАЛЬНЫЙ СКВИРТУН |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 15:51:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717415998443 |
+| Players | 1/8 |
+| Host Name | Darki |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 15:52:00 |
 
 
 |  | epic_boss_fight_normal |
