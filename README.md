@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 07:01:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717157997761 |
-| Players | 1/15 |
-| Host Name | miku |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Monday, October 30, 2023 07:54:49 |
+| Lobby ID | 28495717157402107 |
+| Players | 2/8 |
+| Host Name | CaesarJ |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 07:53:40 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717126513259 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | NonaJerman#165 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 06:48:54 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717149292995 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | bAdfish |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 07:38:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717158019989 |
-| Players | 5/8 |
-| Host Name | Jivchik |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 07:54:52 |
+| Lobby ID | 28495717156635661 |
+| Players | 8/10 |
+| Host Name | BRASA |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, October 30, 2023 07:52:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717155682812 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Piroco |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, October 30, 2023 07:50:20 |
@@ -95,34 +95,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717157659814 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Пивацератопс |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 07:54:10 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717157402107 |
-| Players | 2/8 |
-| Host Name | CaesarJ |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 07:53:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717156635661 |
-| Players | 8/10 |
-| Host Name | BRASA |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, October 30, 2023 07:52:11 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717152461741 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Jurisprudencia |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 07:44:07 |
