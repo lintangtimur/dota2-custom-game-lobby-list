@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717613272374 |
-| Players | 12/15 |
-| Host Name | Purple Star |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 19:53:56 |
+| Lobby ID | 28495717616813076 |
+| Players | 1/8 |
+| Host Name | ALL MUTED |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 19:57:03 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717613327017 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Nadia Omara |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 19:53:58 |
@@ -110,22 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 19:56:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717616657915 |
-| Players | 3/24 |
-| Host Name | road to 2k |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 19:56:55 |
+| Lobby ID | 28495717616654054 |
+| Players | 3/8 |
+| Host Name | OREKI |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 19:56:54 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717616654054 |
+| Lobby ID | 28495717616737231 |
 | Players | 1/8 |
-| Host Name | OREKI |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 19:56:54 |
+| Host Name | КРАСАВЧИК 90 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 19:56:59 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -180,14 +180,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Immortal™Фрукт) |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, October 30, 2023 19:56:23 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28495717616651596 |
-| Players | 2/7 |
-| Host Name | forsil |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 19:56:54 |
 
 
