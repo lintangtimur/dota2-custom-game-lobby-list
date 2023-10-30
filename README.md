@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717131960725 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | WKWKWKWKWK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 07:01:47 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717141063604 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | Ballin Colin |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 07:22:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717136870148 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Snooker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 07:14:03 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 06:48:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717142929384 |
-| Players | 3/8 |
-| Host Name | Forgik |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 07:26:14 |
+| Lobby ID | 28495717143567767 |
+| Players | 4/10 |
+| Host Name | snayderex |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 07:27:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 07:25:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717141114116 |
-| Players | 6/10 |
-| Host Name | amplify09 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 07:22:42 |
+| Lobby ID | 28495717143652465 |
+| Players | 5/8 |
+| Host Name | Ich der Große Mascky |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 07:27:35 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717143218499 |
-| Players | 1/10 |
+| Players | 7/10 |
 | Host Name | Freedom |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, October 30, 2023 07:26:47 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717141450115 |
-| Players | 6/24 |
+| Players | 16/24 |
 | Host Name | Miselaniuz |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 07:23:21 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717143250402 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | dae |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, October 30, 2023 07:26:50 |
@@ -131,19 +131,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717143357628 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Евсегнев |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 07:27:02 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717143484081 |
+| Players | 9/15 |
+| Host Name | Egotheist |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 07:27:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717141298881 |
+| Players | 23/24 |
+| Host Name | ELON TUSK |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 07:23:04 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717143400013 |
-| Players | 5/8 |
-| Host Name | Ich der Große Mascky |
+| Lobby ID | 28495717143712567 |
+| Players | 4/8 |
+| Host Name | порося |
 | Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 07:27:07 |
+| Lobby Creation Time | Monday, October 30, 2023 07:27:41 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717143752453 |
+| Players | 2/24 |
+| Host Name | 想一起玩de请删好友 |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 07:27:46 |
 
 
 |  | epic_boss_fight_nightmare |
