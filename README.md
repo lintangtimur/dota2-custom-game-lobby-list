@@ -2,31 +2,31 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717206005203 |
+| Players | 1/24 |
+| Host Name | Smile |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 09:27:59 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717203587122 |
-| Players | 13/15 |
-| Host Name | Baby Panda! |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 09:23:25 |
+| Lobby ID | 28495717206146057 |
+| Players | 7/15 |
+| Host Name | El gatito erotico |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 09:28:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717204892971 |
-| Players | 2/10 |
-| Host Name | mickeyisdumby |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 09:25:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717205405927 |
-| Players | 4/8 |
-| Host Name | The Versatil |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:26:52 |
+| Lobby ID | 28495717206404798 |
+| Players | 2/15 |
+| Host Name | Thermite |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 09:28:44 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717126513259 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | NonaJerman#165 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 06:48:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717201432794 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 09:19:14 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 09:20:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717204709684 |
-| Players | 10/15 |
-| Host Name | mi cuenta CTM :CCCC |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:25:33 |
+| Lobby ID | 28495717205264180 |
+| Players | 2/10 |
+| Host Name | Taiga Kagami |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 09:26:36 |
 
 
 |  | ot3_gardens_duo |
@@ -94,47 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717205296940 |
-| Players | 4/10 |
-| Host Name | pookityshok |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:26:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717205264180 |
-| Players | 2/10 |
-| Host Name | Taiga Kagami |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 09:26:36 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717206005203 |
-| Players | 1/24 |
-| Host Name | Smile |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:27:59 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495717204848330 |
-| Players | 9/10 |
-| Host Name | Deads |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 09:25:49 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495717205418536 |
-| Players | 2/5 |
-| Host Name | darkafe |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:26:53 |
+| Lobby ID | 28495717206479296 |
+| Players | 5/10 |
+| Host Name | Angmar King |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 09:28:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,5 +108,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | under |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 09:27:55 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495717206502408 |
+| Players | 1/10 |
+| Host Name | Apóstol de Maian Verre |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 09:28:55 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28495717206485049 |
+| Players | 1/7 |
+| Host Name | JellyDarknut |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 09:28:53 |
 
 
