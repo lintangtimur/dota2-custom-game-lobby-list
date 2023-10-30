@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717273220891 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | bdy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 11:37:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717275192718 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 11:41:06 |
@@ -67,19 +67,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717270151554 |
-| Players | 6/8 |
-| Host Name | BomBiTa |
+| Lobby ID | 28495717275703440 |
+| Players | 1/8 |
+| Host Name | Crow |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 11:42:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717275676545 |
+| Players | 2/10 |
+| Host Name | «Dendi es mi Pastor» |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 11:31:14 |
+| Lobby Creation Time | Monday, October 30, 2023 11:42:04 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717274817185 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Kemi Ze Great |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 11:40:22 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495717275723425 |
+| Players | 1/10 |
+| Host Name | -Faceless |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 11:42:09 |
 
 
