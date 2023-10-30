@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717607774165 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | OAO Whoha TF |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 19:49:04 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 19:48:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717605329017 |
-| Players | 1/15 |
-| Host Name | Exteri |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 19:46:52 |
+| Lobby ID | 28495717607782685 |
+| Players | 1/8 |
+| Host Name | .I.*_*.I. |
+| Region | CHILE |
+| Lobby Creation Time | Monday, October 30, 2023 19:49:04 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717606884564 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | 🌌 12.5.1?🌌 |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, October 30, 2023 19:48:16 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717607468990 |
-| Players | 3/8 |
-| Host Name | ТОЛЬКО НЕ АРБУЗ |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 19:48:48 |
+| Lobby ID | 28495717607848739 |
+| Players | 1/8 |
+| Host Name | Hayase |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 19:49:08 |
 
 
 |  | ot3_gardens_duo |
@@ -157,11 +157,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717607782685 |
+| Lobby ID | 28495717607922846 |
 | Players | 1/8 |
-| Host Name | .I.*_*.I. |
-| Region | CHILE |
-| Lobby Creation Time | Monday, October 30, 2023 19:49:04 |
+| Host Name | АЙЗЫК |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 19:49:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717608025811 |
+| Players | 2/8 |
+| Host Name | Vahastas |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, October 30, 2023 19:49:17 |
 
 
 |  | epic_boss_fight_nightmare |
