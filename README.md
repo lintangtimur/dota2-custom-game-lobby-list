@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717379622950 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 14:53:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717377437112 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | 卿如雾里花 |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 14:50:12 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717379401854 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | ArtoftheStateAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 14:53:28 |
@@ -121,10 +121,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495717380243530 |
+| Lobby ID | 28495717380370437 |
 | Players | 1/10 |
 | Host Name | Lamb |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 14:54:52 |
+| Lobby Creation Time | Monday, October 30, 2023 14:55:05 |
 
 
