@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717487066011 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | NEOLAX |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 17:34:48 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717488469574 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | $WAAAAAG |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, October 30, 2023 17:36:45 |
@@ -110,12 +110,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 17:36:11 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717488607964 |
+| Players | 2/10 |
+| Host Name | Volendrung |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 17:36:57 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717488590812 |
+| Lobby ID | 28495717488653190 |
+| Players | 1/15 |
+| Host Name | Fadealy |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 17:37:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717488677687 |
+| Players | 2/10 |
+| Host Name | Flippi Floyd |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 17:37:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717488681525 |
 | Players | 1/15 |
 | Host Name | Basher Balance |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 17:36:55 |
+| Lobby Creation Time | Monday, October 30, 2023 17:37:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717486964629 |
+| Players | 14/15 |
+| Host Name | AjaDozz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 17:34:40 |
 
 
