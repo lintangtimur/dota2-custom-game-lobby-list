@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717131960725 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 07:01:47 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717163239208 |
-| Players | 3/15 |
+| Players | 10/15 |
 | Host Name | bajando mi marimba |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 08:04:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717149292995 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | bAdfish |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 07:38:06 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717162588098 |
-| Players | 4/24 |
+| Players | 18/24 |
 | Host Name | merLO |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 08:03:36 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 08:04:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717163079435 |
-| Players | 6/10 |
-| Host Name | ＧＯ 亗 ＩＮＳＡＮＯ× |
+| Lobby ID | 28495717163814206 |
+| Players | 3/15 |
+| Host Name | Thermite |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 08:04:33 |
+| Lobby Creation Time | Monday, October 30, 2023 08:05:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -128,13 +128,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 07:59:51 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717163659578 |
+| Players | 2/15 |
+| Host Name | Death to America |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 08:05:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717163343401 |
+| Players | 5/15 |
+| Host Name | Emotional Damage |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 08:05:03 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717163166330 |
-| Players | 7/8 |
-| Host Name | answer☦ |
+| Lobby ID | 28495717163702514 |
+| Players | 3/8 |
+| Host Name | я проститутка |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 08:04:43 |
+| Lobby Creation Time | Monday, October 30, 2023 08:05:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717163785028 |
+| Players | 1/15 |
+| Host Name | Trewis 506 |
+| Region | AUSTRIA |
+| Lobby Creation Time | Monday, October 30, 2023 08:05:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717163775556 |
+| Players | 1/10 |
+| Host Name | Anth' |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 08:05:52 |
 
 
 |  | epic_boss_fight_nightmare |
