@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717397980724 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Taco |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 15:24:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717400788053 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Shroom |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 15:28:59 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717399937000 |
-| Players | 1/15 |
-| Host Name | Nalle Puh |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 15:27:40 |
+| Lobby ID | 28495717401511012 |
+| Players | 2/15 |
+| Host Name | depeche mode |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 15:30:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MEDO |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 15:25:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717401452126 |
+| Players | 1/15 |
+| Host Name | Chucky™ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 15:30:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717401532863 |
+| Players | 1/8 |
+| Host Name | ULYA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 15:30:09 |
 
 
 |  | epic_boss_fight_nightmare |
