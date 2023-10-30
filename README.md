@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717131960725 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 07:01:47 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717159486157 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Байландо |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 07:57:41 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717158260226 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | トワ |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 07:55:20 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717158743427 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | gravity |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 07:56:15 |
@@ -122,45 +122,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717159845571 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Histeria |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 07:58:22 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717159885984 |
-| Players | 1/8 |
-| Host Name | cielo |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 07:58:27 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717159960204 |
-| Players | 8/10 |
-| Host Name | Krasava#Happy New year! |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 07:58:36 |
+| Lobby ID | 28495717160207624 |
+| Players | 1/10 |
+| Host Name | Павлик Бейтман |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 07:59:04 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717160092109 |
+| Lobby ID | 28495717160146426 |
+| Players | 5/15 |
+| Host Name | качаюсь на рельеф |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 07:58:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717160187405 |
 | Players | 1/15 |
 | Host Name | СПИРИТ КРАСАВЦЫ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 07:58:51 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495717159419255 |
-| Players | 7/10 |
-| Host Name | Mia Wazowski |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 07:57:33 |
+| Lobby Creation Time | Monday, October 30, 2023 07:59:01 |
 
 
