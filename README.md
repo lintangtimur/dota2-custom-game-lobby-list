@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717331687887 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | boss mentality |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 13:31:40 |
@@ -59,27 +59,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717331151164 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Dragon |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 13:30:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717331662427 |
-| Players | 1/8 |
-| Host Name | анчоус |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 13:31:37 |
+| Lobby ID | 28495717331837762 |
+| Players | 2/10 |
+| Host Name | Muy Malo |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 13:31:57 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717331791464 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Мамикс |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, October 30, 2023 13:31:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717331881194 |
+| Players | 1/8 |
+| Host Name | 76561199196836346 |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 13:32:02 |
 
 
