@@ -38,37 +38,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 13:26:25 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717329817293 |
+| Players | 10/24 |
+| Host Name | Anjogs |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 13:28:13 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717328986753 |
-| Players | 7/8 |
-| Host Name | Подливслав |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 13:26:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717328652504 |
-| Players | 8/10 |
-| Host Name | DANICH |
+| Lobby ID | 28495717329953851 |
+| Players | 1/8 |
+| Host Name | vodonos |
 | Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 13:26:03 |
+| Lobby Creation Time | Monday, October 30, 2023 13:28:29 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717328843495 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | Great Admiral of Mongol Empire |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 13:26:24 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717330205559 |
+| Players | 1/8 |
+| Host Name | menya ebali |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 13:28:57 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717329230473 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Barry Delight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 13:27:07 |
@@ -77,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28495717329691671 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Алкаш блять |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 13:27:59 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495717330082559 |
+| Players | 1/10 |
+| Host Name | Рекрут I |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 13:28:43 |
 
 
