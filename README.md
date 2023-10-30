@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717458182915 |
-| Players | 1/15 |
-| Host Name | Sliyver |
+| Lobby ID | 28495717458634352 |
+| Players | 2/10 |
+| Host Name | Кибок |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 16:52:57 |
+| Lobby Creation Time | Monday, October 30, 2023 16:53:37 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717458084911 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | PLAY WITH BEER |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 16:52:48 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 16:44:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717457848664 |
-| Players | 1/8 |
-| Host Name | Bahhn |
+| Lobby ID | 28495717458877919 |
+| Players | 1/10 |
+| Host Name | Dissmac Volt |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 16:52:27 |
+| Lobby Creation Time | Monday, October 30, 2023 16:53:58 |
 
 
 |  | ot3_desert_octet |
@@ -65,31 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 16:52:48 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717458701158 |
-| Players | 4/8 |
-| Host Name | Leviathan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, October 30, 2023 16:53:43 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717458634352 |
-| Players | 2/10 |
-| Host Name | Кибок |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 16:53:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717458877919 |
+| Lobby ID | 28495717458987149 |
 | Players | 1/10 |
-| Host Name | Dissmac Volt |
+| Host Name | KALMYK |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 16:53:58 |
+| Lobby Creation Time | Monday, October 30, 2023 16:54:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717458998863 |
+| Players | 1/15 |
+| Host Name | 予言の一つ |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 16:54:09 |
 
 
 |  | epic_boss_fight_nightmare |
