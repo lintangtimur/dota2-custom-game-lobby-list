@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717608444709 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | FrUkT |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 19:49:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717606838342 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Kivi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 19:48:13 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 19:48:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717607922846 |
-| Players | 1/8 |
-| Host Name | АЙЗЫК |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 19:49:12 |
+| Lobby ID | 28495717608764269 |
+| Players | 2/10 |
+| Host Name | sava |
+| Region | CHILE |
+| Lobby Creation Time | Monday, October 30, 2023 19:49:57 |
 
 
 |  | ot3_gardens_duo |
@@ -74,28 +74,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 19:46:05 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717607781176 |
-| Players | 1/8 |
-| Host Name | пазволте |
-| Region | CHILE |
-| Lobby Creation Time | Monday, October 30, 2023 19:49:04 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717607472945 |
-| Players | 6/10 |
-| Host Name | -40 enjoyer |
+| Lobby ID | 28495717608566036 |
+| Players | 2/10 |
+| Host Name | Ipsi |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 19:49:46 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717608506547 |
+| Players | 1/24 |
+| Host Name | Ghost_Rotaidalg_USSR |
 | Region | CHILE |
-| Lobby Creation Time | Monday, October 30, 2023 19:48:48 |
+| Lobby Creation Time | Monday, October 30, 2023 19:49:43 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717607504321 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | магазинсообществ |
 | Region | CHILE |
 | Lobby Creation Time | Monday, October 30, 2023 19:48:49 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717607848739 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Hayase |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 19:49:08 |
@@ -126,42 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Saint |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 19:49:42 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717608506547 |
-| Players | 1/24 |
-| Host Name | Ghost_Rotaidalg_USSR |
-| Region | CHILE |
-| Lobby Creation Time | Monday, October 30, 2023 19:49:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717608585724 |
-| Players | 3/8 |
-| Host Name | myatietitki |
-| Region | CHILE |
-| Lobby Creation Time | Monday, October 30, 2023 19:49:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717608566036 |
-| Players | 2/10 |
-| Host Name | Ipsi |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 19:49:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717607774165 |
-| Players | 13/15 |
-| Host Name | OAO Whoha TF |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 19:49:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -194,18 +158,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717607454197 |
-| Players | 2/10 |
-| Host Name | Heuy Heuy |
+| Players | 1/10 |
+| Host Name | `END |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, October 30, 2023 19:48:47 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495717608660765 |
-| Players | 1/10 |
-| Host Name | END |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 19:49:51 |
 
 
