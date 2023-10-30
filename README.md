@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717405426380 |
-| Players | 2/15 |
-| Host Name | 1v9 |
+| Lobby ID | 28495717405663978 |
+| Players | 7/10 |
+| Host Name | 領土の拡大 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 15:36:07 |
+| Lobby Creation Time | Monday, October 30, 2023 15:36:29 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717404000550 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | ♥♥♥♥♥ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 15:33:57 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 15:33:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717405597579 |
-| Players | 14/15 |
-| Host Name | 母亲还活着吗 |
+| Lobby ID | 28495717405780303 |
+| Players | 3/8 |
+| Host Name | нытик |
 | Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 15:36:23 |
+| Lobby Creation Time | Monday, October 30, 2023 15:36:39 |
 
 
 |  | ot3_gardens_duo |
@@ -65,37 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 15:36:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717405663978 |
-| Players | 5/10 |
-| Host Name | 領土の拡大 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 15:36:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717405780303 |
-| Players | 3/8 |
-| Host Name | нытик |
+| Lobby ID | 28495717406137783 |
+| Players | 1/15 |
+| Host Name | 1v9 |
 | Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 15:36:39 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717405993040 |
-| Players | 1/24 |
-| Host Name | purusha |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 15:36:59 |
+| Lobby Creation Time | Monday, October 30, 2023 15:37:12 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717402516977 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Сирник |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 15:31:40 |
