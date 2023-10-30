@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717202439131 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | DANI |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, October 30, 2023 09:21:12 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717203648878 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Дауби Даубиев |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 09:23:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717201432794 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 09:19:14 |
@@ -110,10 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 09:23:36 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717203976182 |
+| Players | 1/24 |
+| Host Name | مرگ شما |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 09:24:10 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717203203272 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Çħίℓℓ |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 09:22:41 |
