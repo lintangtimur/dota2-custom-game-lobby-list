@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717421016233 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Dr Tazerenix |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 15:59:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717420751686 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | heisenburger |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 15:59:05 |
@@ -65,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 16:02:02 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717422762063 |
-| Players | 1/8 |
-| Host Name | mode: KOLOBOK |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 16:02:02 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28495717420100325 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Velikiy Waaagh! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 15:58:08 |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Goblok Slayer |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 16:00:01 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28495717422903606 |
+| Players | 1/7 |
+| Host Name | Стенд ап Задорнов |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 16:02:14 |
 
 
