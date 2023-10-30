@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717178503999 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | rozzetti |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 08:33:43 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717175882077 |
-| Players | 5/24 |
-| Host Name | AlLkIlLnOsEeYoUkIlL |
+| Players | 4/24 |
+| Host Name | LaGood |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 08:28:38 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717178297857 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | NoMerCy (งツ)ว |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 08:33:19 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 08:33:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717178508889 |
-| Players | 9/10 |
-| Host Name | Пивацератопс |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 08:33:44 |
+| Lobby ID | 28495717178584991 |
+| Players | 9/15 |
+| Host Name | ТИММЕЙТЫ МОЛОДЦЫ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 08:33:52 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,28 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717178388553 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Jivchik |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 08:33:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717178584991 |
-| Players | 4/15 |
-| Host Name | ТИММЕЙТЫ МОЛОДЦЫ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 08:33:52 |
+| Lobby ID | 28495717178665072 |
+| Players | 2/10 |
+| Host Name | Zugzwang |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 08:34:02 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717178630572 |
+| Lobby ID | 28495717178677566 |
 | Players | 2/10 |
 | Host Name | Павлик Бейтман |
 | Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 08:33:58 |
+| Lobby Creation Time | Monday, October 30, 2023 08:34:03 |
 
 
 |  | epic_boss_fight_nightmare |
