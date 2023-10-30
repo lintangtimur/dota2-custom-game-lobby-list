@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717332809299 |
-| Players | 7/24 |
+| Players | 5/24 |
 | Host Name | swap commends |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 13:33:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717339569503 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | LO VI EN UNA GUÍA DE SMASH |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 13:46:04 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717342432926 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Anjogs |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 13:51:11 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | vodonos |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 13:51:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717342935272 |
+| Players | 3/8 |
+| Host Name | дамский угодник |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 13:52:05 |
 
 
 |  | epic_boss_fight_normal |
