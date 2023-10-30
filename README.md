@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717131960725 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | WKWKWKWKWK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 07:01:47 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 07:35:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717147570675 |
-| Players | 14/15 |
-| Host Name | Laokun |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 07:34:54 |
+| Lobby ID | 28495717148061865 |
+| Players | 2/24 |
+| Host Name | Ⓥ • ORLANDO BATISTINI • |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, October 30, 2023 07:35:49 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717147784777 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | 私はコックを吸うのが |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 07:35:17 |
@@ -121,11 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717148061865 |
+| Lobby ID | 28495717148180202 |
 | Players | 1/24 |
-| Host Name | Ⓥ • ORLANDO BATISTINI • |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, October 30, 2023 07:35:49 |
+| Host Name | Chupete |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 07:36:02 |
 
 
 |  | epic_boss_fight_nightmare |
