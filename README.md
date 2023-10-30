@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717322538451 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 13:14:14 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717328843495 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Great Admiral of Mongol Empire |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 13:26:24 |
@@ -74,12 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 13:26:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495717324968698 |
-| Players | 14/15 |
-| Host Name | 🅰🆂🅲🅴🆂🅸🆂 |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 13:19:00 |
+| Lobby ID | 28495717329230473 |
+| Players | 1/10 |
+| Host Name | Barry Delight |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 13:27:07 |
 
 
