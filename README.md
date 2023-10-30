@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717371271037 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Me tocan ratas en mi equipo} |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 14:40:01 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717386840282 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | 乱战先锋第一骚货！ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 15:06:11 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717387229421 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Papi |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 15:06:51 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717387211529 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | генерал ривс |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, October 30, 2023 15:06:49 |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Aranis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 15:05:26 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495717387314882 |
-| Players | 1/10 |
-| Host Name | Ren |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 15:07:00 |
 
 
