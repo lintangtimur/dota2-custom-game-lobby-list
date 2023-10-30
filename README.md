@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717246837175 |
-| Players | 2/24 |
+| Players | 11/24 |
 | Host Name | Jr |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 10:44:39 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717247557275 |
-| Players | 1/15 |
+| Players | 9/15 |
 | Host Name | JrY |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 10:46:04 |
@@ -42,9 +42,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28495717247524767 |
 | Players | 2/8 |
-| Host Name | www.twitch.tv/eltiosilencer |
+| Host Name | Luian Camix |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 10:46:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717247637543 |
+| Players | 3/15 |
+| Host Name | Дядя Богдан |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 10:46:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717247701691 |
+| Players | 2/8 |
+| Host Name | melancholic October |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 10:46:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717247852051 |
+| Players | 2/10 |
+| Host Name | Ye |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 10:46:38 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717247877285 |
+| Players | 6/15 |
+| Host Name | ShaDoWars.!!m3Mo |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 10:46:42 |
 
 
 |  | epic_boss_fight_challenger |
@@ -59,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717246491345 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | -Faceless |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 10:43:59 |
@@ -67,10 +103,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495717247570985 |
-| Players | 1/10 |
-| Host Name | under |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 10:46:05 |
+| Lobby ID | 28495717247599544 |
+| Players | 3/10 |
+| Host Name | Apóstol de Maian Verre |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 10:46:09 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495717247917708 |
+| Players | 2/10 |
+| Host Name | THEMaster <3 |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 10:46:46 |
 
 
