@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 09:25:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717204229705 |
-| Players | 1/15 |
-| Host Name | НогаВочке |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 09:24:39 |
+| Lobby ID | 28495717205405927 |
+| Players | 2/8 |
+| Host Name | The Versatil |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 09:26:52 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717204709684 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | mi cuenta CTM :CCCC |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 09:25:33 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717204683746 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | مرگ شما |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 09:25:30 |
@@ -87,7 +87,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28495717205146968 |
 | Players | 1/8 |
-| Host Name | Synced |
+| Host Name | iProbie |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 09:26:23 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717205296940 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | pookityshok |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 09:26:40 |
@@ -104,19 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717205264180 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Taiga Kagami |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 09:26:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717205405927 |
-| Players | 2/8 |
-| Host Name | The Versatil |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:26:52 |
+| Lobby ID | 28495717205479071 |
+| Players | 1/15 |
+| Host Name | ✙ Ukrainian Abrams + |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 09:27:00 |
 
 
 |  | epic_boss_fight_nightmare |
