@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717484774808 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 76561199196836346 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 17:31:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717483650560 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | depressed tilted kid/zxc123 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:30:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717483297325 |
-| Players | 8/24 |
+| Players | 16/24 |
 | Host Name | 游戏蝗虫农师傅 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:29:32 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717482422742 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | heisenburger |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 17:28:17 |
@@ -99,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | เ๓๓เ𝑀𝐸𝒪𝒲 |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, October 30, 2023 17:26:49 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495717485083152 |
+| Players | 1/5 |
+| Host Name | Серый Червь |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 17:32:02 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495717485139278 |
+| Players | 1/5 |
+| Host Name | how to play? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 17:32:07 |
 
 
