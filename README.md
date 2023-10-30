@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717333689811 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Puri-puri Prisoner |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 13:35:22 |
@@ -101,12 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 13:36:32 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495717334532618 |
-| Players | 1/5 |
+| Lobby ID | 28495717334623752 |
+| Players | 2/10 |
 | Host Name | Algia |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Monday, October 30, 2023 13:36:55 |
+| Lobby Creation Time | Monday, October 30, 2023 13:37:05 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495717334650866 |
+| Players | 1/10 |
+| Host Name | Holycopter |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 13:37:08 |
 
 
