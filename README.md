@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717126513259 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | NonaJerman#165 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 06:48:54 |
@@ -74,51 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 09:25:33 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717204683746 |
-| Players | 23/24 |
-| Host Name | مرگ شما |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:25:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717205146968 |
-| Players | 1/8 |
-| Host Name | iProbie |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 09:26:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717205296940 |
-| Players | 2/10 |
-| Host Name | pookityshok |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:26:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717205264180 |
-| Players | 2/10 |
-| Host Name | Taiga Kagami |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 09:26:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717205479071 |
-| Players | 11/15 |
-| Host Name | ✙ Ukrainian Abrams + |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 09:27:00 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717205899432 |
@@ -137,10 +92,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 09:27:49 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717205296940 |
+| Players | 4/10 |
+| Host Name | pookityshok |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 09:26:40 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717205264180 |
+| Players | 2/10 |
+| Host Name | Taiga Kagami |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 09:26:36 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717206005203 |
+| Players | 1/24 |
+| Host Name | Smile |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 09:27:59 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717204848330 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Deads |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 09:25:49 |
@@ -153,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | darkafe |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 09:26:53 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495717205967448 |
+| Players | 2/10 |
+| Host Name | under |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 09:27:55 |
 
 
