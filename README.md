@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717251587930 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 10:53:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717250143130 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Mouches Volantes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, October 30, 2023 10:51:09 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 10:52:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717251180182 |
-| Players | 9/15 |
-| Host Name | JeOS |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 10:53:11 |
+| Lobby ID | 28495717251052992 |
+| Players | 6/8 |
+| Host Name | reaperx9(fakeboi) |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 10:52:56 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717252078536 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Fadealy |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, October 30, 2023 10:54:56 |
@@ -131,9 +131,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717252692216 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | lLitOl |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 10:56:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717251771541 |
+| Players | 9/10 |
+| Host Name | Mirela |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 10:54:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717252976707 |
+| Players | 6/8 |
+| Host Name | Mr.Lulu^^ |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 10:56:40 |
 
 
