@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717253862097 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | PoonDip |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 10:58:26 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717254570152 |
-| Players | 1/15 |
-| Host Name | 梦鱼得鹿 |
-| Region | PWUNICOM |
-| Lobby Creation Time | Monday, October 30, 2023 10:59:49 |
+| Lobby ID | 28495717254334576 |
+| Players | 9/15 |
+| Host Name | hola hola |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 10:59:21 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717254088574 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | ƒ |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 10:58:52 |
@@ -112,20 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717254334576 |
-| Players | 9/15 |
-| Host Name | hola hola |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 10:59:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717254624508 |
-| Players | 4/8 |
-| Host Name | Moscada 3:3 |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 10:59:56 |
+| Lobby ID | 28495717254712460 |
+| Players | 1/15 |
+| Host Name | 梦鱼得鹿 |
+| Region | PWUNICOM |
+| Lobby Creation Time | Monday, October 30, 2023 11:00:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tovi - |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 10:57:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495717254656456 |
+| Players | 1/5 |
+| Host Name | Huskerfan |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 10:59:59 |
 
 
