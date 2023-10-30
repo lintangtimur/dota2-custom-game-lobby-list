@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 11:15:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717265033482 |
-| Players | 1/8 |
-| Host Name | ♡R-set |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 11:21:12 |
+| Lobby ID | 28495717265196248 |
+| Players | 5/10 |
+| Host Name | KJ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 11:21:31 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717261113806 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Kermit Da Frog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 11:13:25 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717258578714 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Shaq |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 11:08:15 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717263869173 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 11:18:52 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717264598364 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | РОМАТИМБЕРСАУ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 11:20:20 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717264054614 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 11:19:14 |
@@ -135,15 +135,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CHIBOLO KK |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 11:20:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717265196248 |
-| Players | 4/10 |
-| Host Name | KJ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 11:21:31 |
 
 
 |  | epic_boss_fight_nightmare |
