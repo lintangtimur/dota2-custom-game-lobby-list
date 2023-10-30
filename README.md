@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717189418154 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | worst of the worst |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 08:55:18 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717188927604 |
-| Players | 12/15 |
-| Host Name | ULQUIORRA-*耶齊. |
+| Players | 13/15 |
+| Host Name | El duderino |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 08:54:18 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717182985429 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | xJw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 08:42:28 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717189473095 |
-| Players | 5/15 |
-| Host Name | YaMa |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 08:55:25 |
+| Lobby ID | 28495717189600270 |
+| Players | 10/15 |
+| Host Name | Friend A |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 08:55:40 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717188908985 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | CUENTA PARA WEBEAR |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 08:54:16 |
@@ -92,19 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 08:55:07 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717189600270 |
-| Players | 6/15 |
-| Host Name | Friend A |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 08:55:40 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717186706042 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | El Graznadiento |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 08:49:51 |
