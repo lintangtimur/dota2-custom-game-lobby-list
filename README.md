@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717357647710 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | †_† |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 14:17:24 |
@@ -20,31 +20,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717363603257 |
-| Players | 1/8 |
-| Host Name | KhanDoto |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 14:27:24 |
+| Lobby ID | 28495717364009395 |
+| Players | 6/24 |
+| Host Name | Tờ Ri |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 14:28:04 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717332809299 |
-| Players | 3/24 |
+| Players | 1/24 |
 | Host Name | ENG  AYYASH THE QASSAM MAN |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 13:33:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717362593436 |
-| Players | 11/15 |
-| Host Name | Papi |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 14:25:43 |
+| Lobby ID | 28495717364042313 |
+| Players | 3/10 |
+| Host Name | pohui proebali |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 14:28:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717361069817 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | Dragon |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 14:23:10 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Rambod D. Luffy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 14:27:04 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717364009395 |
-| Players | 5/24 |
-| Host Name | Tờ Ri |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 14:28:04 |
 
 
