@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717494635408 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | BootyHunter |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 17:45:13 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717498429228 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | AINGMAH :( |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:50:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717506159142 |
-| Players | 2/10 |
-| Host Name | 张宁8 |
+| Lobby ID | 28495717507244467 |
+| Players | 1/15 |
+| Host Name | kalt |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 18:00:25 |
+| Lobby Creation Time | Monday, October 30, 2023 18:01:49 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717506240369 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | YouKnowMyName |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:00:31 |
@@ -67,37 +67,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717506607534 |
+| Lobby ID | 28495717507120563 |
+| Players | 2/10 |
+| Host Name | Pudge Lover |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 18:01:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717507107531 |
 | Players | 1/10 |
 | Host Name | arte |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 18:01:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717506621832 |
-| Players | 7/15 |
-| Host Name | cross and inshallah |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 18:01:01 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, October 30, 2023 18:01:38 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717506643664 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | dotu ude lini |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:01:03 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717507276991 |
+| Players | 1/8 |
+| Host Name | 春丽 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 18:01:51 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717506023976 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ggwp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:00:14 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495717507270662 |
+| Players | 2/10 |
+| Host Name | не замай меня не з |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 18:01:51 |
 
 
