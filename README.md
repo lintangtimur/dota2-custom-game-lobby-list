@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717347711892 |
-| Players | 11/15 |
-| Host Name | ни чего себе |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 14:00:31 |
+| Lobby ID | 28495717349684723 |
+| Players | 1/10 |
+| Host Name | Moises |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 14:03:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717345532428 |
-| Players | 3/10 |
-| Host Name | Muy Malo |
+| Players | 1/10 |
+| Host Name | Thug Life |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 13:56:42 |
 
@@ -50,28 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717347416204 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Nadia Omara |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 14:00:00 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717349684723 |
-| Players | 1/10 |
-| Host Name | Moises |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 14:03:56 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717349730315 |
+| Lobby ID | 28495717349846708 |
 | Players | 1/8 |
 | Host Name | 核心.核心 |
 | Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 14:04:00 |
+| Lobby Creation Time | Monday, October 30, 2023 14:04:12 |
 
 
 |  | epic_boss_fight_normal |
