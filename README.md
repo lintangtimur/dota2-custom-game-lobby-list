@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717375432309 |
-| Players | 8/15 |
+| Players | 4/15 |
 | Host Name | †РайскийВолк† |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 14:46:52 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717375897123 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | 聚光灯往哪儿打 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 14:47:39 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717374298926 |
-| Players | 3/10 |
-| Host Name | Лагман залупа |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 14:44:59 |
+| Lobby ID | 28495717377437112 |
+| Players | 2/10 |
+| Host Name | Doku毒 |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 14:50:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 14:40:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717376767005 |
-| Players | 2/8 |
-| Host Name | фпшу и похуй |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 14:49:05 |
+| Lobby ID | 28495717377747948 |
+| Players | 2/15 |
+| Host Name | . |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 14:50:43 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,27 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717376402521 |
-| Players | 5/8 |
-| Host Name | triwangle |
+| Players | 3/8 |
+| Host Name | ULYA |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 14:48:29 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717377428495 |
+| Lobby ID | 28495717377646419 |
 | Players | 1/15 |
-| Host Name | . |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 14:50:11 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495717374514773 |
-| Players | 3/5 |
-| Host Name | Камень |
+| Host Name | Twitch_VitSmi |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 14:45:20 |
+| Lobby Creation Time | Monday, October 30, 2023 14:50:33 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717377853913 |
+| Players | 1/10 |
+| Host Name | byrning |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 14:50:54 |
 
 
