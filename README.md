@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717307356069 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | EduBan |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 12:43:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717309574105 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Ubuntu |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, October 30, 2023 12:48:09 |
