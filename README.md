@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717573634996 |
-| Players | 1/15 |
-| Host Name | - |
+| Lobby ID | 28495717573167575 |
+| Players | 2/8 |
+| Host Name | я ебануто богатый |
 | Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 19:16:41 |
+| Lobby Creation Time | Monday, October 30, 2023 19:16:13 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,46 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717573913506 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Time Ower |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 19:16:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717573094524 |
-| Players | 1/15 |
-| Host Name | мура хасаму |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 19:16:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717572853247 |
-| Players | 9/10 |
-| Host Name | Finesse |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 19:15:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717573167575 |
-| Players | 2/8 |
-| Host Name | я ебануто богатый |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 19:16:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717573517032 |
-| Players | 2/8 |
-| Host Name | [V] Nero [Z] |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, October 30, 2023 19:16:34 |
 
 
 |  | ot3_jungle_quintet |
@@ -108,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TIMATISHA (СЛОН♗) |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 19:15:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717573517032 |
+| Players | 6/8 |
+| Host Name | [V] Nero [Z] |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, October 30, 2023 19:16:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717574139742 |
+| Players | 3/15 |
+| Host Name | Valium |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 19:17:12 |
 
 
 |  | epic_boss_fight_nightmare |
