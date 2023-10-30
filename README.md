@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717602163457 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Django |
 | Region | CHILE |
 | Lobby Creation Time | Monday, October 30, 2023 19:43:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717602193204 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Und3rC0ntr0l |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, October 30, 2023 19:44:00 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717601651299 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | バットマン |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 19:43:30 |
@@ -101,13 +101,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 19:43:24 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717602354356 |
+| Players | 1/8 |
+| Host Name | wert413 |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 19:44:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717602354915 |
+| Players | 2/8 |
+| Host Name | fey4er |
+| Region | CHILE |
+| Lobby Creation Time | Monday, October 30, 2023 19:44:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717602458136 |
+| Players | 3/8 |
+| Host Name | DиKий001 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 19:44:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717602456104 |
+| Players | 1/8 |
+| Host Name | Shogun Raiden |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 19:44:14 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717602315160 |
-| Players | 2/10 |
-| Host Name | upkankul |
+| Lobby ID | 28495717602487910 |
+| Players | 1/10 |
+| Host Name | zotci# |
 | Region | CHILE |
-| Lobby Creation Time | Monday, October 30, 2023 19:44:07 |
+| Lobby Creation Time | Monday, October 30, 2023 19:44:16 |
 
 
 |  | epic_boss_fight_nightmare |
