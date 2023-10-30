@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717608492028 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Saint |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 19:49:42 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 19:51:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717607048992 |
-| Players | 3/8 |
-| Host Name | Erin |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, October 30, 2023 19:48:25 |
+| Lobby ID | 28495717610946715 |
+| Players | 1/24 |
+| Host Name | Yonwalther |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 19:51:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717609651968 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | заебалс |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 19:50:44 |
@@ -95,28 +95,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717610386395 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | 21 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 19:51:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717610946715 |
-| Players | 2/24 |
-| Host Name | Yonwalther |
+| Lobby ID | 28495717611090181 |
+| Players | 1/8 |
+| Host Name | Shinobizxc |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 19:51:53 |
+| Lobby Creation Time | Monday, October 30, 2023 19:52:00 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717610977380 |
-| Players | 5/8 |
-| Host Name | Добрыня Никитыч и зашебу бабусю |
-| Region | CHILE |
-| Lobby Creation Time | Monday, October 30, 2023 19:51:54 |
+| Lobby ID | 28495717611092272 |
+| Players | 1/8 |
+| Host Name | SVINEЦ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 19:52:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717611125334 |
+| Players | 1/8 |
+| Host Name | Дон подрыв яичек |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 19:52:02 |
 
 
 |  | epic_boss_fight_nightmare |
