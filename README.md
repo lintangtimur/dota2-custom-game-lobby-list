@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717357647710 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | LO VI EN UNA GUÍA DE SMASH |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 14:17:24 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717366641455 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | T.T |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 14:32:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717366590517 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Red John |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 14:32:23 |
@@ -103,28 +103,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717368189583 |
+| Lobby ID | 28495717368502153 |
 | Players | 1/8 |
-| Host Name | Moises |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 14:35:00 |
+| Host Name | kvazimoda |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 14:35:30 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717368270737 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | saylesss |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, October 30, 2023 14:35:08 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717368321074 |
+| Players | 1/15 |
+| Host Name | I'm fat and I'm a troll. |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 14:35:13 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495717364550621 |
-| Players | 9/10 |
-| Host Name | Tony Montana |
+| Lobby ID | 28495717368533370 |
+| Players | 1/10 |
+| Host Name | Rizz |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 14:28:59 |
+| Lobby Creation Time | Monday, October 30, 2023 14:35:33 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28495717368711103 |
+| Players | 1/7 |
+| Host Name | Sin38 |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 14:35:51 |
 
 
