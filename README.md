@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717134096062 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Павук |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 07:07:17 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 06:48:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717133990510 |
-| Players | 3/8 |
-| Host Name | Papi te vas< |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 07:07:01 |
+| Lobby ID | 28495717134658501 |
+| Players | 1/10 |
+| Host Name | Wagon Wheels |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 07:08:44 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717134208175 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | peach |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 07:07:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717132716824 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Nimetal |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, October 30, 2023 07:03:46 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717132280460 |
-| Players | 11/15 |
+| Players | 9/15 |
 | Host Name | zUsPrime |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 07:02:37 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717133400900 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Cheems amnsioso |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 07:05:30 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717133810037 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Solo estoy pasando el rato |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 07:06:32 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717134008943 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | XFullHouse |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 07:07:03 |
@@ -128,22 +128,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 07:07:54 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717129705066 |
-| Players | 1/10 |
-| Host Name | Ezmurf |
-| Region | CHILE |
-| Lobby Creation Time | Monday, October 30, 2023 06:56:14 |
+| Lobby ID | 28495717134400987 |
+| Players | 11/15 |
+| Host Name | Бабушкин крадун |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 07:08:05 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717132677830 |
-| Players | 6/10 |
-| Host Name | BrYaNhC |
+| Lobby ID | 28495717131344063 |
+| Players | 9/10 |
+| Host Name | K1 de Dia, Kbro de Noche |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 07:03:39 |
+| Lobby Creation Time | Monday, October 30, 2023 07:00:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717134521847 |
+| Players | 2/15 |
+| Host Name | гоблин |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, October 30, 2023 07:08:23 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -157,10 +166,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495717133493976 |
-| Players | 1/10 |
-| Host Name | Adamas |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 07:05:44 |
+| Lobby ID | 28495717132677830 |
+| Players | 6/10 |
+| Host Name | BrYaNhC |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 07:03:39 |
 
 
