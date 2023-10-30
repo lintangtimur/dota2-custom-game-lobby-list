@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717489980788 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Shogun Raiden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:38:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717488469574 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | $WAAAAAG |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, October 30, 2023 17:36:45 |
@@ -59,52 +59,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717488022508 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Шизид Шизушкин |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:36:08 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717490073562 |
-| Players | 3/10 |
-| Host Name | Aquaelian |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 17:38:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717490036553 |
-| Players | 1/15 |
-| Host Name | Кишка |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 17:38:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717490056397 |
-| Players | 2/15 |
-| Host Name | ( ＾◡＾)っ✂ SNIP SNIP |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 17:38:57 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717490041184 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | RagingBurgers |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:38:56 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717490227074 |
+| Players | 1/24 |
+| Host Name | 大鲶鱼 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 17:39:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717490056397 |
+| Players | 4/15 |
+| Host Name | ( ＾◡＾)っ✂ SNIP SNIP |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 17:38:57 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717488886733 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | wdym |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:37:20 |
