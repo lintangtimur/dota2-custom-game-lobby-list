@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717375432309 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | drowning |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 14:46:52 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717375897123 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | 聚光灯往哪儿打 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 14:47:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717377437112 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Wws |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 14:50:12 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717378208876 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Papi |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 14:51:29 |
@@ -85,11 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717378513497 |
+| Lobby ID | 28495717378577620 |
+| Players | 1/8 |
+| Host Name | очко фидера |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 14:52:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717378663182 |
 | Players | 1/8 |
 | Host Name | андрей aлпразолам |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 14:51:59 |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 14:52:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | xipaspasp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 14:51:23 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495717378565154 |
+| Players | 1/5 |
+| Host Name | DOOM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 14:52:05 |
 
 
