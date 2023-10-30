@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 16:56:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717483461102 |
-| Players | 1/15 |
-| Host Name | Soulripper |
+| Lobby ID | 28495717483650560 |
+| Players | 1/8 |
+| Host Name | depressed tilted kid/zxc123 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 17:29:45 |
+| Lobby Creation Time | Monday, October 30, 2023 17:30:02 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717483297325 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Swagger |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:29:32 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 17:15:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717479290916 |
-| Players | 1/8 |
-| Host Name | ZV |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 17:23:54 |
+| Lobby ID | 28495717483691638 |
+| Players | 3/15 |
+| Host Name | paranoid |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 17:30:05 |
 
 
 |  | ot3_gardens_duo |
@@ -77,19 +77,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717482530149 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Zinifer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:28:26 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717483687582 |
+| Players | 1/10 |
+| Host Name | You will die |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 17:30:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717483608791 |
+| Players | 3/8 |
+| Host Name | autumn nights |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 17:29:58 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717483588213 |
-| Players | 1/15 |
-| Host Name | Icemania |
+| Lobby ID | 28495717483622939 |
+| Players | 2/15 |
+| Host Name | Huan Son |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 17:29:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717483618291 |
+| Players | 3/10 |
+| Host Name | Blackout |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 17:29:56 |
+| Lobby Creation Time | Monday, October 30, 2023 17:29:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717483715846 |
+| Players | 3/8 |
+| Host Name | PavelVolya |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 17:30:07 |
 
 
 |  | epic_boss_fight_nightmare |
