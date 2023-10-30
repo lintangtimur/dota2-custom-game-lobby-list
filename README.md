@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717198240638 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | . |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 09:13:02 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717198026472 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | merenge |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 09:12:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717198710689 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 09:13:56 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 06:48:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717197226299 |
-| Players | 7/15 |
-| Host Name | tiananmen square (taylor's versi |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 09:11:03 |
+| Lobby ID | 28495717197479014 |
+| Players | 1/8 |
+| Host Name | el chazz |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 09:11:33 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717196418767 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | . |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 09:09:29 |
@@ -85,10 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717197479014 |
-| Players | 1/8 |
-| Host Name | el chazz |
+| Lobby ID | 28495717198763784 |
+| Players | 4/8 |
+| Host Name | FILKAFIKALKIN |
 | Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 09:11:33 |
+| Lobby Creation Time | Monday, October 30, 2023 09:14:02 |
 
 
