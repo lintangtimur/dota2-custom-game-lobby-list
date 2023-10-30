@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717308171979 |
-| Players | 7/15 |
-| Host Name | Bakadura |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 12:45:23 |
+| Lobby ID | 28495717311853033 |
+| Players | 1/15 |
+| Host Name | тёлочка с каре |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 12:52:40 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717310419219 |
-| Players | 23/24 |
+| Players | 22/24 |
 | Host Name | 櫛枝 実乃梨 |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 12:49:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717311404018 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 12:51:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717311049599 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Evlogos |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 12:51:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717311214118 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | +xivisss+ |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 12:51:23 |
@@ -81,32 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tiptop |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 12:51:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717311584469 |
-| Players | 1/8 |
-| Host Name | Buddha★ |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 12:52:08 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495717309732388 |
-| Players | 6/10 |
-| Host Name | Duck My Sick |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 12:48:28 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28495717311563545 |
-| Players | 1/7 |
-| Host Name | С ДЕДСТВА ЗА SPEEREET |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 12:52:05 |
 
 
