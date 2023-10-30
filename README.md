@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717493830846 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | radbix |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, October 30, 2023 17:44:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717488469574 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | $WAAAAAG |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, October 30, 2023 17:36:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717494729876 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | -40 enjoyer |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, October 30, 2023 17:45:21 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 17:42:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717494364178 |
-| Players | 2/10 |
-| Host Name | kak ge vi meny 3aebali |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 17:44:50 |
+| Lobby ID | 28495717494635408 |
+| Players | 4/8 |
+| Host Name | ShNaks |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 17:45:13 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,28 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717494651298 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | boqni |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:45:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717494635408 |
-| Players | 4/8 |
-| Host Name | ShNaks |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 17:45:13 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717493744640 |
-| Players | 14/15 |
-| Host Name | Sam |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 17:43:59 |
 
 
 |  | epic_boss_fight_nightmare |
