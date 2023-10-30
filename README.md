@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218786042726 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | 努力模式666 |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 06:55:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499218786173003 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Rikkad |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 06:55:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499218785732288 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Hope |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 06:54:47 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28499218785494228 |
-| Players | 3/24 |
-| Host Name | nU |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 06:54:16 |
+| Lobby ID | 28499218786284088 |
+| Players | 4/24 |
+| Host Name | Shimdoo |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 06:56:00 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218784221671 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Arthes_Ð |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 06:51:34 |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218785371907 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Zugzwang |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 06:54:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499218786265951 |
-| Players | 2/8 |
-| Host Name | immortal drain |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 06:55:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28499218786284088 |
-| Players | 1/24 |
-| Host Name | Shimdoo |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 06:56:00 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28499218785681385 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | I.G.Y |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 06:54:41 |
