@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717314390766 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | неумехапелемеха |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 12:57:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717311404018 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 12:51:46 |
@@ -56,22 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 12:57:02 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717314512399 |
+| Players | 1/8 |
+| Host Name | L-A-K-E-R |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 12:57:57 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717313870014 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | DajjalWannaFightWithMe ?!! |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 12:56:39 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495717309732388 |
-| Players | 9/10 |
-| Host Name | Duck My Sick |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 12:48:28 |
 
 
 |  | epic_boss_fight_nightmare |
