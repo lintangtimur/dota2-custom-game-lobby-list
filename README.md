@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717394443357 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Deadline |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 15:18:55 |
@@ -22,38 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717394997274 |
-| Players | 4/8 |
-| Host Name | out of season |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 15:19:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717396606718 |
-| Players | 9/10 |
-| Host Name | мамикс |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 15:22:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717396802082 |
-| Players | 5/15 |
-| Host Name | I HATE STUPID KIDS |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 15:22:45 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717396649458 |
-| Players | 14/24 |
-| Host Name | < blank > |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 15:22:30 |
+| Lobby ID | 28495717397418933 |
+| Players | 3/8 |
+| Host Name | yqdance |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 15:23:44 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,13 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 15:23:03 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717393207969 |
-| Players | 8/10 |
-| Host Name | Han |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 15:16:53 |
+| Lobby ID | 28495717396802082 |
+| Players | 13/15 |
+| Host Name | I HATE STUPID KIDS |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 15:22:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717397204986 |
+| Players | 3/10 |
+| Host Name | btcusdt |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 15:23:24 |
 
 
 |  | epic_boss_fight_nightmare |
