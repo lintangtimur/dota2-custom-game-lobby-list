@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717126513259 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | NonaJerman#165 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 06:48:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717241563063 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | It's ok I just need a break |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 10:34:34 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717242391571 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | ccured |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 10:36:08 |
@@ -92,13 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 10:36:45 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717243375506 |
+| Players | 2/15 |
+| Host Name | Her Showerdrain |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 10:37:59 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717243322600 |
-| Players | 1/8 |
-| Host Name | ВЫ В ОПАСНОСТИ。 |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 10:37:53 |
+| Lobby ID | 28495717242676100 |
+| Players | 7/8 |
+| Host Name | ФОРТАНУЛО ЕБАТЬ |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 10:36:40 |
 
 
 |  | epic_boss_fight_nightmare |
