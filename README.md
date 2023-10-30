@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717238495315 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Nagato |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 10:28:45 |
@@ -38,22 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 10:33:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717240174883 |
-| Players | 7/8 |
-| Host Name | ВЫ В ОПАСНОСТИ。 |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 10:31:55 |
+| Lobby ID | 28495717241284982 |
+| Players | 5/10 |
+| Host Name | JerryLee |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 10:34:02 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717234386372 |
+| Lobby ID | 28495717241563063 |
 | Players | 1/8 |
-| Host Name | lowa |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 10:20:58 |
+| Host Name | It's ok I just need a break |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 10:34:34 |
 
 
 |  | ot3_desert_octet |
@@ -110,49 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 10:32:42 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717240113325 |
-| Players | 1/10 |
-| Host Name | Wws |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 10:31:48 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717241169498 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Flyfriend28 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 10:33:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717241284982 |
-| Players | 3/10 |
-| Host Name | JerryLee |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 10:34:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717241563063 |
-| Players | 1/8 |
-| Host Name | It's ok I just need a break |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 10:34:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717241651814 |
-| Players | 1/10 |
-| Host Name | ShaV |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 10:34:43 |
 
 
 |  | epic_boss_fight_nightmare |
