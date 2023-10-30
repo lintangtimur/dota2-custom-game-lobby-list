@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717459173527 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | СУЛЬФАТНЫЙ ДЕРМОЕД |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 16:54:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717460052404 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | АфриканскаяСемка |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 16:55:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717460492102 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Ninja |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 16:56:21 |
@@ -119,13 +119,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 16:56:48 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717460928604 |
+| Players | 3/10 |
+| Host Name | You will die |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 16:57:00 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717460889778 |
+| Lobby ID | 28495717460981854 |
 | Players | 1/15 |
-| Host Name | $Anonim$™ |
+| Host Name | Шизид Шизушкин |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 16:56:57 |
+| Lobby Creation Time | Monday, October 30, 2023 16:57:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717461011008 |
+| Players | 1/15 |
+| Host Name | Kirito Kun! |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 16:57:07 |
 
 
 |  | epic_boss_fight_nightmare |
