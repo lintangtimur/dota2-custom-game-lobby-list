@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717208996182 |
-| Players | 6/8 |
-| Host Name | ולאד |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 09:33:38 |
+| Lobby ID | 28495717209124963 |
+| Players | 1/10 |
+| Host Name | CRIMSON™ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 09:33:53 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717207518181 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | By: H☼†.7<inG-NighT |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 09:30:51 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 09:31:29 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717208936724 |
-| Players | 1/24 |
-| Host Name | Ganymede |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 09:33:32 |
+| Lobby ID | 28495717208322598 |
+| Players | 10/15 |
+| Host Name | Jimo is Back! |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 09:32:23 |
 
 
 |  | ot3_gardens_duo |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717208706007 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | =( |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 09:33:06 |
@@ -104,37 +104,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717208494761 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 09:32:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717208322598 |
-| Players | 10/15 |
-| Host Name | Jimo is Back! |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:32:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717209119500 |
-| Players | 1/15 |
-| Host Name | superazraq |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 09:33:52 |
+| Lobby ID | 28495717209227130 |
+| Players | 1/24 |
+| Host Name | Ganymede |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 09:34:04 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717209124963 |
+| Lobby ID | 28495717209238985 |
 | Players | 1/10 |
-| Host Name | CRIMSON™ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 09:33:53 |
+| Host Name | DIKI- |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 09:34:06 |
 
 
 |  | epic_boss_fight_nightmare |
