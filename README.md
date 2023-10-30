@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717282201140 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | ReRauM |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 11:54:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717284282699 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | Dragon |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 11:58:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717284750724 |
-| Players | 9/24 |
+| Players | 17/24 |
 | Host Name | Snow |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 11:59:46 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717284712903 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 13kk |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 11:59:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717282745761 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | BUTUH DANA CEPAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 11:55:52 |
@@ -92,12 +92,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 12:00:08 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717284957027 |
-| Players | 1/7 |
+| Lobby ID | 28495717285002368 |
+| Players | 5/10 |
+| Host Name | Sband_Mirand |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 12:00:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717285228789 |
+| Players | 5/15 |
+| Host Name | !The One! |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 12:00:42 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495717285082425 |
+| Players | 1/10 |
+| Host Name | DajjalWannaFightWithMe ?!! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 12:00:25 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495717285247041 |
+| Players | 1/5 |
 | Host Name | Deja Vu |
 | Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 12:00:10 |
+| Lobby Creation Time | Monday, October 30, 2023 12:00:44 |
 
 
