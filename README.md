@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717131960725 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | WKWKWKWKWK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 07:01:47 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717140659694 |
-| Players | 19/24 |
-| Host Name | 保生大帝 |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 07:21:50 |
+| Lobby ID | 28495717141063604 |
+| Players | 2/15 |
+| Host Name | Ballin Colin |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 07:22:36 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717136870148 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Snooker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 07:14:03 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717141071303 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Daybreaker |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 07:22:37 |
@@ -94,24 +94,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717140883862 |
-| Players | 1/10 |
-| Host Name | ♀×º°”MOHOWK”°º×♀ |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 07:22:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717141063604 |
-| Players | 2/15 |
-| Host Name | Ballin Colin |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 07:22:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28495717141114116 |
 | Players | 2/10 |
 | Host Name | amplify09 |
@@ -119,19 +101,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 07:22:42 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717139759166 |
-| Players | 14/15 |
-| Host Name | Dendi Collita |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 07:20:06 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717136993852 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Yitane |
 | Region | CHILE |
 | Lobby Creation Time | Monday, October 30, 2023 07:14:20 |
