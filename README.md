@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717447849713 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Absosolut |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 16:37:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717445712734 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | Anata Tsukuyomi |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 16:34:51 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717451792075 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | CryForTheMoon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 16:43:27 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717450831799 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | who knows |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 16:42:06 |
@@ -128,13 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 16:43:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717452216655 |
-| Players | 1/8 |
-| Host Name | Fi_jek |
+| Lobby ID | 28495717452238735 |
+| Players | 6/10 |
+| Host Name | ДАЛИ АВТОМАТ |
 | Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 16:44:04 |
+| Lobby Creation Time | Monday, October 30, 2023 16:44:06 |
 
 
 |  | epic_boss_fight_nightmare |
