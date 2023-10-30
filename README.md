@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 20:28:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717660324836 |
-| Players | 7/8 |
-| Host Name | Shax |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 20:33:32 |
+| Lobby ID | 28495717665930627 |
+| Players | 1/15 |
+| Host Name | Prince Of The Defeat |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 20:38:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717665682743 |
-| Players | 1/15 |
-| Host Name | не Вальдос |
+| Lobby ID | 28495717666009782 |
+| Players | 2/15 |
+| Host Name | Kabanchik |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 20:37:48 |
+| Lobby Creation Time | Monday, October 30, 2023 20:38:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717662907108 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | 没意思 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 20:35:36 |
@@ -128,22 +128,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 20:37:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717665802249 |
-| Players | 1/15 |
-| Host Name | Prince Of The Defeat |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 20:37:54 |
+| Lobby ID | 28495717665881661 |
+| Players | 2/10 |
+| Host Name | Белый Окупант |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, October 30, 2023 20:37:58 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717665806202 |
+| Lobby ID | 28495717665926504 |
 | Players | 1/15 |
-| Host Name | yesskmacho |
-| Region | CHILE |
-| Lobby Creation Time | Monday, October 30, 2023 20:37:54 |
+| Host Name | не Вальдос |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 20:38:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717666044004 |
+| Players | 1/15 |
+| Host Name | Тень |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 20:38:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717665987026 |
+| Players | 1/15 |
+| Host Name | КизлярскаяМашина |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 20:38:03 |
 
 
 |  | epic_boss_fight_nightmare |
