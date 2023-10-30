@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717335364461 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Ferx |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 13:38:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717336477338 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 13:40:28 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 𒇫𒄆 Skvirtoslav 𒂝𒀱 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, October 30, 2023 13:40:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717336782135 |
+| Players | 5/8 |
+| Host Name | No tengo enemigos |
+| Region | CHILE |
+| Lobby Creation Time | Monday, October 30, 2023 13:41:01 |
 
 
 |  | epic_boss_fight_nightmare |
