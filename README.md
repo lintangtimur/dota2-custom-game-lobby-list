@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717248843383 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | CRYX |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 10:48:36 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717259174412 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | TicTac |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 11:09:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717260971852 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Overlord Bagnose |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 11:13:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717261251601 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Standing US |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 11:13:40 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717260823723 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | aea |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 11:12:51 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717261130863 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | 9S |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 11:13:27 |
@@ -126,6 +126,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Full-Time Griefer |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 11:09:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717261503953 |
+| Players | 2/8 |
+| Host Name | Stuff_King |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 11:14:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717261526023 |
+| Players | 1/15 |
+| Host Name | Irom Storm |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 11:14:12 |
 
 
 |  | epic_boss_fight_nightmare |
