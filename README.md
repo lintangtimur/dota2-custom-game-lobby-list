@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717131960725 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | WKWKWKWKWK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 07:01:47 |
@@ -51,7 +51,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28495717144208925 |
 | Players | 1/15 |
-| Host Name | ßęşĕĺäŝĩý Ğąž |
+| Host Name | еблантус |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 07:28:36 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717144188608 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | MADARA666 |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 07:28:34 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717144015112 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | hbit |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, October 30, 2023 07:28:14 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717143752453 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | 想一起玩de请删好友 |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 07:27:46 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717144987352 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | E X f i r e |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 07:30:03 |
@@ -171,5 +171,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | jusplayin |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, October 30, 2023 07:29:07 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495717145097489 |
+| Players | 2/10 |
+| Host Name | А НУ УЕБАНЫ |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 07:30:15 |
 
 
