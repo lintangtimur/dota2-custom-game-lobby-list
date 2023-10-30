@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717504029582 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | RADIANCE ENJOYER |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 17:57:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717501614597 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Arthas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:54:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717503289090 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | Time Ower |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:56:42 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717498429228 |
-| Players | 12/24 |
+| Players | 9/24 |
 | Host Name | Саша Ресторатор |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:50:20 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | )) |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 17:57:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717505973090 |
+| Players | 1/8 |
+| Host Name | water dance |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 18:00:10 |
 
 
