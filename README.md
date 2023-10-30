@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717232562552 |
-| Players | 5/24 |
+| Players | 20/24 |
 | Host Name | 翠流 |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 10:17:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717233947890 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | 65daysofstatic |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 10:20:08 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717233833330 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | paraphrosýnē |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 10:19:56 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717234219195 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | QUINN |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 10:20:39 |
@@ -86,27 +86,72 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717234337451 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | melancholic October |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 10:20:53 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717234429313 |
+| Players | 1/8 |
+| Host Name | GhosTNeal |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 10:21:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717234379938 |
+| Players | 1/24 |
+| Host Name | El Peluca |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 10:20:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717234386372 |
+| Players | 1/8 |
+| Host Name | lowa |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 10:20:58 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717234332462 |
+| Lobby ID | 28495717234397281 |
 | Players | 1/15 |
-| Host Name | Папу мажет |
+| Host Name | COSMO EL GATO |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 10:20:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717234403959 |
+| Players | 5/8 |
+| Host Name | DeadBoy |
 | Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 10:20:52 |
+| Lobby Creation Time | Monday, October 30, 2023 10:21:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717234399543 |
+| Players | 1/15 |
+| Host Name | CHIBOLO KK |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 10:21:00 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495717232318208 |
-| Players | 8/10 |
-| Host Name | -Faceless |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 10:17:04 |
+| Lobby ID | 28495717234410399 |
+| Players | 1/10 |
+| Host Name | Catador de Conchas |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 10:21:01 |
 
 
