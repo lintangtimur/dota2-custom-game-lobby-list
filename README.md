@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717282201140 |
-| Players | 14/15 |
-| Host Name | ReRauM |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 11:54:49 |
+| Lobby ID | 28495717285535331 |
+| Players | 8/10 |
+| Host Name | ёбырь |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 12:01:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717279424887 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 11:49:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717285228789 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | WAWITA DE 18 AÑITOS |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 12:00:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717286700920 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | unging |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 12:03:34 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717287035441 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Te amo Raysha |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 12:04:13 |
@@ -110,21 +110,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 12:04:37 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717286736344 |
-| Players | 1/7 |
+| Lobby ID | 28495717287405663 |
+| Players | 2/8 |
+| Host Name | Skillz0r |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 12:04:56 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495717287438739 |
+| Players | 1/5 |
 | Host Name | Deja Vu |
 | Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 12:03:38 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495717286568362 |
-| Players | 8/10 |
-| Host Name | Tovi - |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 12:03:19 |
+| Lobby Creation Time | Monday, October 30, 2023 12:04:59 |
 
 
