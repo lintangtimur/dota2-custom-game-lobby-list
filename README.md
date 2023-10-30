@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717595668729 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Machine being |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, October 30, 2023 19:38:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717595922009 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | CinderFall |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 19:38:17 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717597146979 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | SUPERKLITOR |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 19:39:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717585483316 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | кактак |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 19:28:26 |
@@ -90,6 +90,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | hu? |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 19:39:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717597839765 |
+| Players | 3/8 |
+| Host Name | Corp edit |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 19:40:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717597989308 |
+| Players | 1/15 |
+| Host Name | qq |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 19:40:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717597995770 |
+| Players | 1/15 |
+| Host Name | пыво |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, October 30, 2023 19:40:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717597996278 |
+| Players | 4/8 |
+| Host Name | Tima |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, October 30, 2023 19:40:10 |
 
 
 |  | epic_boss_fight_nightmare |
