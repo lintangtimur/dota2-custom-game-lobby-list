@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717301024980 |
+| Lobby ID | 28495717305422884 |
 | Players | 1/8 |
-| Host Name | Упал, отжался! |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 12:31:23 |
+| Host Name | Atomic bomb to Phillippin |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 12:40:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Boris |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 12:39:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717305392356 |
+| Players | 1/8 |
+| Host Name | Упал, отжался! |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 12:39:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717305449463 |
+| Players | 1/15 |
+| Host Name | DEJEN PUDGE giordota.com |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 12:40:05 |
 
 
 |  | epic_boss_fight_nightmare |
