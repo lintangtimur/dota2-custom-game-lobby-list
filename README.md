@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717532183455 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | ExSide- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:32:06 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717522476840 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Edit Profile |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 18:20:39 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717529018459 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:28:25 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717532818108 |
-| Players | 1/24 |
-| Host Name | ————————— |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 18:32:50 |
+| Lobby ID | 28495717532878358 |
+| Players | 1/8 |
+| Host Name | 76561198985680651 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 18:32:54 |
 
 
 |  | ot3_gardens_duo |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 18:30:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717527948276 |
-| Players | 6/10 |
-| Host Name | ItsKarma |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 18:27:09 |
+| Lobby ID | 28495717532899002 |
+| Players | 5/8 |
+| Host Name | twitch.tv/deathwatcher28 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 18:32:56 |
 
 
 |  | ot3_desert_octet |
@@ -112,20 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717532899002 |
-| Players | 5/8 |
-| Host Name | twitch.tv/deathwatcher28 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 18:32:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717532878358 |
+| Lobby ID | 28495717533060638 |
 | Players | 1/8 |
-| Host Name | 76561198985680651 |
+| Host Name | Культурист!? |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 18:32:54 |
+| Lobby Creation Time | Monday, October 30, 2023 18:33:07 |
 
 
 |  | epic_boss_fight_normal |
@@ -140,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717531129579 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | C A S S I A |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:30:53 |
