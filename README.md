@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717205916339 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Dohman32 |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 09:27:49 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717211291705 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Muy Malo |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 09:37:57 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 06:48:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717211336813 |
-| Players | 11/15 |
-| Host Name | MoNsTeR! |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 09:38:02 |
+| Lobby ID | 28495717210885892 |
+| Players | 5/8 |
+| Host Name | MasonLayble |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 09:37:12 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717210360625 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Syberian Huskar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 09:36:13 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717209495337 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | In L♥ve With a Fat Pikachu =3 |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 09:34:35 |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717211799604 |
-| Players | 2/10 |
-| Host Name | Taiga Kagami |
+| Players | 3/10 |
+| Host Name | Hanna |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 09:38:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717210885892 |
-| Players | 6/8 |
-| Host Name | MasonLayble |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 09:37:12 |
 
 
 |  | epic_boss_fight_nightmare |
