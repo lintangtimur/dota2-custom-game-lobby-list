@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717202209597 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Filipo |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 09:20:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717207847503 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | treep |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 09:31:29 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717207928022 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Ganseame 7w7 |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 09:31:38 |
@@ -122,28 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717208057931 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | MCFISHERMANPRO |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 09:31:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717208111833 |
-| Players | 1/24 |
-| Host Name | bader |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 09:31:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717208120942 |
-| Players | 2/10 |
-| Host Name | Taiga Kagami |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 09:32:00 |
+| Lobby ID | 28495717208221202 |
+| Players | 1/15 |
+| Host Name | Jimo is Back! |
+| Region | CHILE |
+| Lobby Creation Time | Monday, October 30, 2023 09:32:11 |
 
 
 |  | epic_boss_fight_nightmare |
