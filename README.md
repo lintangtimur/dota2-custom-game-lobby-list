@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717440255010 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Арк маджестир |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 16:27:04 |
@@ -65,28 +65,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 16:24:36 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717438973877 |
-| Players | 2/8 |
-| Host Name | Kreoneo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 16:25:15 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717439677086 |
-| Players | 1/10 |
-| Host Name | Запердышь |
+| Lobby ID | 28495717440171638 |
+| Players | 5/10 |
+| Host Name | Werl1X |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 16:26:14 |
+| Lobby Creation Time | Monday, October 30, 2023 16:26:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717440294281 |
+| Players | 2/8 |
+| Host Name | Крутая Сигма |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, October 30, 2023 16:27:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717438587197 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Almond Butter Honey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 16:24:42 |
@@ -114,27 +114,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28495717439981820 |
 | Players | 2/15 |
-| Host Name | depeche mode |
+| Host Name | waddle |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 16:26:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717440171638 |
-| Players | 2/10 |
-| Host Name | Werl1X |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 16:26:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717440294281 |
-| Players | 2/8 |
-| Host Name | Крутая Сигма |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, October 30, 2023 16:27:07 |
 
 
 |  | epic_boss_fight_normal |
