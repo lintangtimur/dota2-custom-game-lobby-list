@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717345532428 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Muy Malo |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 13:56:42 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717332809299 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | swap commends |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 13:33:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717346097686 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 76561199196836346 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 13:57:42 |
@@ -50,37 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717346293189 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Good2cu |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 13:58:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717346056044 |
-| Players | 1/15 |
-| Host Name | FFF |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 13:57:37 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717346275325 |
-| Players | 5/24 |
-| Host Name | ♥ ради нее ♥ |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 13:58:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717346196894 |
-| Players | 4/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 13:57:52 |
 
 
 |  | ot3_gardens_duo |
@@ -92,12 +65,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 13:58:08 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717341579916 |
-| Players | 4/5 |
-| Host Name | 2PaC |
+| Lobby ID | 28495717346275325 |
+| Players | 12/24 |
+| Host Name | ♥ ради нее ♥ |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 13:58:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717346196894 |
+| Players | 1/15 |
+| Host Name | Clean Cat |
 | Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 13:49:39 |
+| Lobby Creation Time | Monday, October 30, 2023 13:57:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717346780014 |
+| Players | 2/10 |
+| Host Name | БЛЕБ |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 13:58:54 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495717346661007 |
+| Players | 2/10 |
+| Host Name | Figarland |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 13:58:41 |
 
 
