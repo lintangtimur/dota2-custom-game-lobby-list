@@ -38,22 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 10:17:32 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717232923162 |
+| Players | 8/10 |
+| Host Name | wanakito123 |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 10:18:12 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717230186446 |
-| Players | 14/15 |
-| Host Name | Mostachito |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 10:13:08 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717231169093 |
-| Players | 23/24 |
-| Host Name | Amaraki |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 10:14:56 |
+| Lobby ID | 28495717232941981 |
+| Players | 1/15 |
+| Host Name | AllExcellent |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 10:18:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717232725954 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | 65daysofstatic |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 10:17:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717232923162 |
-| Players | 7/10 |
-| Host Name | wanakito123 |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 10:18:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717232941981 |
-| Players | 1/15 |
-| Host Name | AllExcellent |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 10:18:14 |
 
 
 |  | epic_boss_fight_nightmare |
