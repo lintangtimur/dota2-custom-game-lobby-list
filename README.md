@@ -2,31 +2,31 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717211048615 |
-| Players | 8/10 |
-| Host Name | Y donde esta el manuelito |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:37:30 |
+| Lobby ID | 28495717210574108 |
+| Players | 7/15 |
+| Host Name | I HATE STUPID KIDS |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 09:36:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717205916339 |
-| Players | 10/24 |
+| Players | 21/24 |
 | Host Name | Dohman32 |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 09:27:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717209652508 |
-| Players | 2/8 |
-| Host Name | melancholic October |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 09:34:52 |
+| Lobby ID | 28495717211291705 |
+| Players | 2/10 |
+| Host Name | Muy Malo |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 09:37:57 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 06:48:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717210885892 |
-| Players | 1/8 |
-| Host Name | MasonLayble |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 09:37:12 |
+| Lobby ID | 28495717211336813 |
+| Players | 11/15 |
+| Host Name | MoNsTeR! |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 09:38:02 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717202209597 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | smokey (metamorphosed) |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 09:20:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717209814874 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | (₴ł₦ ₦Ø₥฿ⱤɆ) |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 09:35:11 |
@@ -83,85 +83,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 09:36:13 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717210362279 |
-| Players | 1/10 |
-| Host Name | CRIMSON™ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 09:36:13 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717209488769 |
-| Players | 22/24 |
-| Host Name | Perro chusco |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:34:34 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717209495337 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | In L♥ve With a Fat Pikachu =3 |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 09:34:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717210574108 |
-| Players | 7/15 |
-| Host Name | I HATE STUPID KIDS |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 09:36:37 |
+| Lobby ID | 28495717211799604 |
+| Players | 2/10 |
+| Host Name | Taiga Kagami |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 09:38:54 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717211222963 |
-| Players | 2/8 |
-| Host Name | Xiao Qing |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:37:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717211291705 |
-| Players | 1/10 |
-| Host Name | Muy Malo |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:37:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717211311848 |
-| Players | 2/10 |
-| Host Name | anylvl.com |
+| Lobby ID | 28495717210885892 |
+| Players | 6/8 |
+| Host Name | MasonLayble |
 | Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 09:37:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717211336813 |
-| Players | 1/15 |
-| Host Name | MoNsTeR! |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 09:38:02 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495717210083567 |
-| Players | 3/5 |
-| Host Name | Мамкин Лев |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 09:35:41 |
+| Lobby Creation Time | Monday, October 30, 2023 09:37:12 |
 
 
 |  | epic_boss_fight_nightmare |
