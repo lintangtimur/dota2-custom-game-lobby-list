@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717255062125 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | CestJusteSimon |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 11:00:56 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717255954919 |
-| Players | 2/15 |
-| Host Name | ₳ⱠɆӾ₳₳₦ĐɆⱤ ☦ |
+| Players | 1/15 |
+| Host Name | 烈烈风中、 |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 11:02:51 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717252070960 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | eh? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 10:54:55 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717256229794 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Blank |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 11:03:26 |
@@ -130,20 +130,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717256448770 |
-| Players | 1/15 |
-| Host Name | Plan B |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 11:03:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28495717256452709 |
 | Players | 1/15 |
 | Host Name | Hasbik |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 11:03:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717256582188 |
+| Players | 1/15 |
+| Host Name | Novox black |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 11:04:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717256613582 |
+| Players | 1/15 |
+| Host Name | 龙 |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 11:04:13 |
 
 
 |  | epic_boss_fight_challenger |
