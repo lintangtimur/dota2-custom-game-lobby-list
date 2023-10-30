@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717687390340 |
-| Players | 23/24 |
-| Host Name | lil dozhd |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, October 30, 2023 20:55:05 |
+| Lobby ID | 28495717692526809 |
+| Players | 1/10 |
+| Host Name | Jerabis |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, October 30, 2023 20:59:12 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717685519478 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | YES |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 20:53:35 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 20:58:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717691855527 |
-| Players | 8/15 |
-| Host Name | RUSSIAN POWER Z |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, October 30, 2023 20:58:39 |
+| Lobby ID | 28495717692188198 |
+| Players | 1/24 |
+| Host Name | 4mascapenes y yo |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 20:58:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717689254891 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | 不和小人一般见识 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 20:56:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717684351665 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | BLESS THIS MESS |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 20:52:39 |
@@ -94,29 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717691708023 |
-| Players | 7/8 |
-| Host Name | ЯДРЕНБАТОН |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 20:58:32 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717692188198 |
-| Players | 1/24 |
-| Host Name | 4mascapenes y yo |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 20:58:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717692248348 |
-| Players | 2/10 |
-| Host Name | 6yxou'^myGirl.no.aim? |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 20:58:58 |
+| Lobby ID | 28495717692540314 |
+| Players | 3/8 |
+| Host Name | worst |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, October 30, 2023 20:59:12 |
 
 
 |  | epic_boss_fight_nightmare |
