@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717397980724 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Taco |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 15:24:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717399720569 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Лагман залупа |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 15:27:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717398386277 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Rozeanne |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 15:25:15 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717400212672 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Styx |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, October 30, 2023 15:28:06 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717400834618 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ЧумаГей |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 15:29:04 |
@@ -104,28 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717400286853 |
-| Players | 3/8 |
-| Host Name | WertyX |
+| Players | 2/8 |
+| Host Name | ??? |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 15:28:12 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717400838722 |
-| Players | 3/8 |
-| Host Name | SOsy JOpy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 15:29:04 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717400823312 |
-| Players | 1/15 |
-| Host Name | Ugandan Interviewer |
+| Lobby ID | 28495717399988826 |
+| Players | 14/15 |
+| Host Name | . |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 15:29:03 |
+| Lobby Creation Time | Monday, October 30, 2023 15:27:45 |
 
 
 |  | epic_boss_fight_nightmare |
