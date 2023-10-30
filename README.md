@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717598144288 |
-| Players | 7/8 |
-| Host Name | Саня, го в  baldurs gate |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 19:40:19 |
+| Lobby ID | 28495717598694717 |
+| Players | 1/15 |
+| Host Name | RUSSIAN POWER Z |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, October 30, 2023 19:40:49 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717595922009 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | CinderFall |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 19:38:17 |
@@ -95,37 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717598396219 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Guido |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, October 30, 2023 19:40:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717598694717 |
-| Players | 1/15 |
-| Host Name | RUSSIAN POWER Z |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, October 30, 2023 19:40:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717598704716 |
-| Players | 1/8 |
-| Host Name | zxcлопата |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, October 30, 2023 19:40:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717598674497 |
-| Players | 8/15 |
-| Host Name | FieryChan |
-| Region | CHILE |
-| Lobby Creation Time | Monday, October 30, 2023 19:40:48 |
 
 
 |  | epic_boss_fight_nightmare |
