@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717210574108 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 09:36:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717211799604 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Hanna |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 09:38:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717212201226 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Chupete |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 09:39:40 |
@@ -69,7 +69,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28495717211927527 |
 | Players | 1/15 |
-| Host Name | 冂囗山仨几 廾丹乂丫认 |
+| Host Name | Dejame mid Soy Sideral |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 09:39:09 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717210360625 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Syberian Huskar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 09:36:13 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717212146481 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Jens |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 09:39:34 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717212316596 |
-| Players | 1/8 |
-| Host Name | Smokee☹ |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 09:39:53 |
+| Lobby ID | 28495717212468874 |
+| Players | 2/8 |
+| Host Name | boku wa saikyo! |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 09:40:10 |
 
 
 |  | ot3_desert_octet |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 09:39:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717212398620 |
-| Players | 1/8 |
-| Host Name | JJJJJJ |
+| Lobby ID | 28495717212412787 |
+| Players | 1/15 |
+| Host Name | AmirDevil |
 | Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 09:40:02 |
+| Lobby Creation Time | Monday, October 30, 2023 09:40:04 |
 
 
 |  | epic_boss_fight_nightmare |
