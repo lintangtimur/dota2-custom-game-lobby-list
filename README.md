@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717373754240 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Мамут Рахал |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 14:44:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717373406857 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | کر |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 14:43:31 |
@@ -94,26 +94,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717374290507 |
-| Players | 1/10 |
-| Host Name | Nemo |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 14:44:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28495717374298926 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Лагман залупа |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 14:44:59 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717374363053 |
+| Players | 1/10 |
+| Host Name | iuh |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 14:45:05 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717372324032 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Farewell, My paradise |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 14:41:43 |
