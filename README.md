@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717288912379 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Smoke weed every Day |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 12:07:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717287098077 |
-| Players | 16/24 |
+| Players | 23/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 12:04:20 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717285228789 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | WAWITA DE 18 AÑITOS |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 12:00:42 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Piroco |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, October 30, 2023 12:09:41 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717290112097 |
+| Players | 1/15 |
+| Host Name | Nexro |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 12:10:13 |
 
 
