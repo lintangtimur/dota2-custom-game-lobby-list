@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717462943639 |
-| Players | 9/10 |
+| Players | 6/10 |
 | Host Name | AVE REVIVUS |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 16:59:56 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717464150246 |
-| Players | 2/8 |
-| Host Name | натёр писюн |
+| Players | 1/8 |
+| Host Name | Godjo |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 17:01:50 |
 
@@ -101,22 +101,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 17:00:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717464080700 |
-| Players | 1/8 |
-| Host Name | Be Grateful |
+| Lobby ID | 28495717462971633 |
+| Players | 6/10 |
+| Host Name | EBLOX |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 17:01:44 |
+| Lobby Creation Time | Monday, October 30, 2023 16:59:59 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717463701364 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | 🍺хозяин таверны🍺 |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, October 30, 2023 17:01:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717464336242 |
+| Players | 1/8 |
+| Host Name | Бубалешек |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 17:02:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717464370031 |
+| Players | 1/8 |
+| Host Name | Be Grateful |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 17:02:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717464379112 |
+| Players | 1/8 |
+| Host Name | divine favor |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 17:02:11 |
 
 
 |  | epic_boss_fight_nightmare |
