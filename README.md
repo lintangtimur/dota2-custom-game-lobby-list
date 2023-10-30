@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717423177006 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Electro Zaza |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 16:02:38 |
@@ -83,31 +83,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 16:02:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717423135748 |
-| Players | 6/8 |
-| Host Name | mode: KOLOBOK |
+| Lobby ID | 28495717423528999 |
+| Players | 1/15 |
+| Host Name | tw1ch// forzroone |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 16:02:34 |
+| Lobby Creation Time | Monday, October 30, 2023 16:03:08 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717423404113 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | pe4enka |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 16:02:57 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717423541917 |
+| Players | 1/8 |
+| Host Name | ШИПАСТЫЙ ГРИБ |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, October 30, 2023 16:03:09 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717423397018 |
+| Lobby ID | 28495717423579299 |
 | Players | 1/15 |
-| Host Name | Sid |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 16:02:57 |
+| Host Name | ʕ •ᴥ•ʔ Big Russian Lion |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 16:03:12 |
 
 
 |  | epic_boss_fight_nightmare |
