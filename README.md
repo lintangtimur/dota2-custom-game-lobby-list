@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717355815881 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Бабушкин крадун |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 14:14:19 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717354040774 |
-| Players | 13/15 |
-| Host Name | Mafiato |
+| Players | 12/15 |
+| Host Name | SUPER SSSANIN |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 14:11:20 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717332809299 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ENG  AYYASH THE QASSAM MAN |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 13:33:45 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 14:10:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717352335417 |
-| Players | 4/8 |
-| Host Name | Lotus(A fleeting character) |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 14:08:26 |
+| Lobby ID | 28495717356312114 |
+| Players | 1/24 |
+| Host Name | We live We love We lie |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 14:15:09 |
 
 
 |  | ot3_gardens_duo |
