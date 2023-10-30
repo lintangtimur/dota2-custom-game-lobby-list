@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717432210955 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | 饿了饿了 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 16:15:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717431729556 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Jim |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 16:14:55 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717424505911 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Flexy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 16:04:33 |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Задоджил аборт |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 16:16:31 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28495717433126836 |
-| Players | 1/7 |
-| Host Name | zeon |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 16:16:56 |
 
 
