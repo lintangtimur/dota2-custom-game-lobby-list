@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717196549746 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Rem |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 09:09:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717196214026 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Jimo is Back! |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 09:09:05 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717196418767 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Fen1xxx |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 09:09:29 |
