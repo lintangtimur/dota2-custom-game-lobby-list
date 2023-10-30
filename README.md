@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717322450341 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | JeOS |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 13:14:03 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717322538451 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 13:14:14 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717324968698 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | 🅰🆂🅲🅴🆂🅸🆂 |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 13:19:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717322363714 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | EPM.Skraas |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 13:13:53 |
@@ -77,19 +77,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717322923272 |
-| Players | 6/8 |
+| Players | 4/8 |
 | Host Name | Meid |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 13:14:59 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717325436851 |
+| Players | 1/8 |
+| Host Name | Подливслав |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 13:19:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717325464526 |
+| Players | 1/15 |
+| Host Name | неумехапелемеха |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 13:19:59 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717325391562 |
+| Lobby ID | 28495717325485539 |
 | Players | 1/24 |
 | Host Name | S |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 13:19:51 |
+| Lobby Creation Time | Monday, October 30, 2023 13:20:02 |
 
 
 |  | epic_boss_fight_nightmare |
