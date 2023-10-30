@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717488469574 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | $WAAAAAG |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, October 30, 2023 17:36:45 |
@@ -56,31 +56,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 17:15:44 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717494247672 |
+| Players | 1/15 |
+| Host Name | Boogie Woogie O'Man |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 17:44:41 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717492500267 |
+| Players | 1/15 |
+| Host Name | SHIZIK |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 17:42:17 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717493338864 |
-| Players | 7/10 |
-| Host Name | Aquaelian |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, October 30, 2023 17:43:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717493744640 |
-| Players | 4/15 |
-| Host Name | Моя мама не такая! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 17:43:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717493377465 |
-| Players | 1/15 |
-| Host Name | Juzo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 17:43:29 |
+| Lobby ID | 28495717494364178 |
+| Players | 2/10 |
+| Host Name | kak ge vi meny 3aebali |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 17:44:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,40 +101,58 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 17:40:22 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717493554420 |
-| Players | 2/15 |
-| Host Name | Mongral ゲ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 17:43:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717493537768 |
-| Players | 1/8 |
-| Host Name | ЭЩЩРЕЕКЕЕЕЕ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 17:43:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717492500267 |
-| Players | 1/15 |
-| Host Name | SHIZIK |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 17:42:17 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717492511707 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Playb0y |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:42:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717494372230 |
+| Players | 1/10 |
+| Host Name | REAPER |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 17:44:51 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717494421923 |
+| Players | 1/15 |
+| Host Name | Девственник2003 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 17:44:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717494411988 |
+| Players | 1/10 |
+| Host Name | Asakura? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 17:44:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717494444764 |
+| Players | 1/15 |
+| Host Name | Minister Zabawy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 17:44:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717494425569 |
+| Players | 1/15 |
+| Host Name | Trefyra |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 17:44:55 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -149,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717493376397 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | Hello |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:43:29 |
