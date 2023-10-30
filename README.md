@@ -31,20 +31,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717462175980 |
-| Players | 6/8 |
-| Host Name | waiting for death |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 16:58:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717465863417 |
-| Players | 1/10 |
-| Host Name | Бугименчик |
+| Lobby ID | 28495717466333105 |
+| Players | 4/8 |
+| Host Name | ПУДЖ ДЛЯ АУТИСТОВ |
 | Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 17:04:26 |
+| Lobby Creation Time | Monday, October 30, 2023 17:05:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717466252054 |
+| Players | 1/15 |
+| Host Name | Стич |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 17:05:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717460981854 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Шизид Шизушкин |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 16:57:05 |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717464150246 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Godjo |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 17:01:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717466281991 |
+| Players | 1/10 |
+| Host Name | Бугименчик |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 17:05:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717466287722 |
+| Players | 1/24 |
+| Host Name | Superman Pans |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 17:05:04 |
 
 
 |  | epic_boss_fight_nightmare |
