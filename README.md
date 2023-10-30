@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717234877437 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | ✪ [W]_love ✪ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 10:21:54 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 10:20:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717238466847 |
-| Players | 6/8 |
-| Host Name | Me tocan ratas en mi equipo} |
+| Lobby ID | 28495717239038230 |
+| Players | 21/24 |
+| Host Name | zero |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 10:28:42 |
+| Lobby Creation Time | Monday, October 30, 2023 10:29:47 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,39 +74,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 10:29:26 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717239038230 |
-| Players | 7/24 |
-| Host Name | zero |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 10:29:47 |
+| Lobby ID | 28495717239423816 |
+| Players | 2/15 |
+| Host Name | Zumbarios |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 10:30:31 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717239146734 |
+| Lobby ID | 28495717239454298 |
 | Players | 1/8 |
 | Host Name | CRYX |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 10:30:00 |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 10:30:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717239616836 |
+| Players | 3/8 |
+| Host Name | JUANITO ALIMAÑA |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 10:30:53 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717238777267 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | KhalilMeister |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 10:29:18 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495717234410399 |
-| Players | 9/10 |
-| Host Name | Catador de Conchas |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 10:21:01 |
 
 
