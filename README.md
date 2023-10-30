@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717337330438 |
-| Players | 2/15 |
-| Host Name | JeOS |
+| Players | 1/15 |
+| Host Name | xdxdxd |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 13:42:01 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717339569503 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | LO VI EN UNA GUÍA DE SMASH |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 13:46:04 |
@@ -59,28 +59,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717342432926 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | Anjogs |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 13:51:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717344584280 |
-| Players | 1/15 |
-| Host Name | Happy |
+| Lobby ID | 28495717344700554 |
+| Players | 1/8 |
+| Host Name | Олег_12_пОшЛаЯ |
 | Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 13:55:01 |
+| Lobby Creation Time | Monday, October 30, 2023 13:55:13 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717344513587 |
-| Players | 5/8 |
-| Host Name | Tetrinx |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 13:54:54 |
+| Lobby ID | 28495717344655189 |
+| Players | 1/8 |
+| Host Name | moncler |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 13:55:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717344656563 |
+| Players | 7/15 |
+| Host Name | SOCRATES |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 13:55:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717344777699 |
+| Players | 1/10 |
+| Host Name | Философ Матье Бал |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 13:55:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717344914450 |
+| Players | 2/10 |
+| Host Name | Arthas Menethil |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 13:55:36 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 2PaC |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 13:49:39 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495717342154158 |
-| Players | 9/10 |
-| Host Name | cece |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 13:50:41 |
 
 
