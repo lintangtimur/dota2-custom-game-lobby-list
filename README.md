@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717371825616 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | QPAD. RED PANDA |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 14:40:55 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717332809299 |
-| Players | 2/24 |
-| Host Name | Lulalelilo |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 13:33:45 |
+| Lobby ID | 28495717372655994 |
+| Players | 2/8 |
+| Host Name | SOsy JOpy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 14:42:16 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717372750594 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | i dont sleep i just dream |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 14:42:25 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | I'm fat and I'm a troll. |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 14:35:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717372655994 |
-| Players | 2/8 |
-| Host Name | SOsy JOpy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 14:42:16 |
 
 
 |  | epic_boss_fight_nightmare |
