@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717254225894 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | JerryLee |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 10:59:08 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717255062125 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | CestJusteSimon |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 11:00:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717255123766 |
-| Players | 7/10 |
-| Host Name | La realeza de los andes |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 11:01:04 |
+| Lobby ID | 28495717255954919 |
+| Players | 1/15 |
+| Host Name | ₳ⱠɆӾ₳₳₦ĐɆⱤ ☦ |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 11:02:51 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717255510028 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | ゲイ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 11:01:54 |
@@ -76,29 +76,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717254940493 |
-| Players | 4/8 |
-| Host Name | MAPACHE_$INC0LA |
+| Lobby ID | 28495717255910238 |
+| Players | 5/8 |
+| Host Name | BARON |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 11:00:39 |
+| Lobby Creation Time | Monday, October 30, 2023 11:02:45 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717255477046 |
-| Players | 8/15 |
-| Host Name | 𝑆𝑒𝑐𝑟𝑒𝑡 |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 11:01:50 |
+| Lobby ID | 28495717255891108 |
+| Players | 3/15 |
+| Host Name | Plan B |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 11:02:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717255620808 |
-| Players | 1/8 |
-| Host Name | BARON |
+| Lobby ID | 28495717255981268 |
+| Players | 1/24 |
+| Host Name | LA FEED ES LO MAS LINDO DE LA VI |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 11:02:08 |
+| Lobby Creation Time | Monday, October 30, 2023 11:02:54 |
 
 
 |  | epic_boss_fight_nightmare |
