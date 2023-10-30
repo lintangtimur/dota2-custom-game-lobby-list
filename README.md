@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717131960725 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | WKWKWKWKWK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 07:01:47 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717145279282 |
-| Players | 6/10 |
-| Host Name | rxn |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 07:30:35 |
+| Lobby ID | 28495717145760767 |
+| Players | 1/10 |
+| Host Name | Wagon Wheels |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 07:31:30 |
 
 
 |  | ot3_jungle_quintet |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717141524930 |
-| Players | 6/8 |
-| Host Name | BRASA |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, October 30, 2023 07:23:30 |
+| Lobby ID | 28495717145778229 |
+| Players | 3/8 |
+| Host Name | Incensus |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 07:31:32 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717144987352 |
-| Players | 5/24 |
+| Players | 10/24 |
 | Host Name | E X f i r e |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 07:30:03 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717143752453 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 想一起玩de请删好友 |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 07:27:46 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717144576898 |
-| Players | 2/8 |
-| Host Name | necrophilia |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 07:29:17 |
+| Lobby ID | 28495717145620330 |
+| Players | 5/8 |
+| Host Name | Jivchik |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 07:31:14 |
 
 
 |  | ot3_desert_octet |
