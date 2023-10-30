@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717287765343 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Papi te vas< |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 12:05:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717287098077 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 12:04:20 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717287995875 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | Muy Malo |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 12:06:05 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717289654372 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | 69x64 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 12:09:19 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717289672612 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | 9 SEMANAS PARA NAVIDAD |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 12:09:21 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717285228789 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | WAWITA DE 18 AÑITOS |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 12:00:42 |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Piroco |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, October 30, 2023 12:09:41 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495717289629382 |
-| Players | 1/5 |
-| Host Name | Sand Of A Beach |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 12:09:16 |
 
 
