@@ -65,21 +65,3 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 13:19:59 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717327503936 |
-| Players | 1/8 |
-| Host Name | Calldown Па рашки |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 13:23:53 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495717326945045 |
-| Players | 9/10 |
-| Host Name | Vhiyoulette |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 13:22:50 |
-
-
