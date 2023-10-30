@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717498429228 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | AINGMAH :( |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:50:20 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717506643664 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | dotu ude lini |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:01:03 |
@@ -95,10 +95,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717507276991 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 春丽 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:01:51 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717507393204 |
+| Players | 5/15 |
+| Host Name | boqni |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 18:02:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717507312084 |
+| Players | 1/8 |
+| Host Name | ZXC_PARMEZAN |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 18:01:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717507341295 |
+| Players | 2/15 |
+| Host Name | Minister Zabawy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 18:01:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717507433717 |
+| Players | 1/15 |
+| Host Name | Tea |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 18:02:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ggwp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:00:14 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495717507270662 |
-| Players | 2/10 |
-| Host Name | не замай меня не з |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 18:01:51 |
 
 
