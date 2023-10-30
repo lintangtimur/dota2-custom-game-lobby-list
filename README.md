@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717226890836 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | ACC for practice |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 10:07:02 |
@@ -47,20 +47,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 10:06:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717225215714 |
-| Players | 1/24 |
-| Host Name | SoulKing |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 10:03:55 |
+| Lobby ID | 28495717227376629 |
+| Players | 1/8 |
+| Host Name | Toksi |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 10:07:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717226671545 |
-| Players | 11/24 |
-| Host Name | CriTzuz |
+| Players | 1/24 |
+| Host Name | CanYouFeel |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 10:06:37 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717226558254 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Wake up to reality |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 10:06:24 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717226896133 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | izi pipilin |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 10:07:02 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717221879756 |
-| Players | 9/10 |
-| Host Name | 偉大なLexRuL♥Kunn |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 09:57:43 |
+| Lobby ID | 28495717227421755 |
+| Players | 1/8 |
+| Host Name | ПАНК |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 10:08:00 |
 
 
 |  | epic_boss_fight_nightmare |
