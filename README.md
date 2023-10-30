@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717584422594 |
-| Players | 6/10 |
-| Host Name | ёбырь |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 19:27:25 |
+| Lobby ID | 28495717584976470 |
+| Players | 1/10 |
+| Host Name | regretfu |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 19:27:56 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717583734924 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Psychological |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 19:26:45 |
@@ -68,37 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717583962203 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Мясорубка |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 19:26:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717584297203 |
-| Players | 6/8 |
-| Host Name | .no lose |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, October 30, 2023 19:27:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717584335398 |
-| Players | 13/15 |
-| Host Name | bahcheeeparis |
-| Region | CHILE |
-| Lobby Creation Time | Monday, October 30, 2023 19:27:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717584632768 |
-| Players | 2/10 |
-| Host Name | ghostwhite |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 19:27:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 19:27:48 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717585143879 |
+| Players | 1/8 |
+| Host Name | Sorry |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 19:28:06 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717584976470 |
-| Players | 1/10 |
-| Host Name | regretfu |
+| Lobby ID | 28495717584632768 |
+| Players | 4/10 |
+| Host Name | ghostwhite |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 19:27:56 |
+| Lobby Creation Time | Monday, October 30, 2023 19:27:37 |
 
 
 |  | epic_boss_fight_nightmare |
