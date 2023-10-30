@@ -24,7 +24,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28495717277215525 |
 | Players | 1/15 |
-| Host Name | Mortyasd |
+| Host Name | Miilastyle |
 | Region | CHILE |
 | Lobby Creation Time | Monday, October 30, 2023 11:45:04 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717277271349 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | NothingFeelsRight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 11:45:11 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ✪Harley Quinn DouYou TV |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 11:43:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717278685010 |
+| Players | 2/15 |
+| Host Name | Noosekabob |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 11:47:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717278753696 |
+| Players | 6/8 |
+| Host Name | Shottas ktk 24/7! |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 11:48:05 |
 
 
 |  | epic_boss_fight_nightmare |
