@@ -40,26 +40,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717703368508 |
-| Players | 4/15 |
-| Host Name | MStr Otъebistr |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 21:08:05 |
+| Lobby ID | 28495717706006966 |
+| Players | 1/15 |
+| Host Name | Шизид Шизушкин |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 21:10:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717707200940 |
-| Players | 7/8 |
-| Host Name | Im next (bald) TI winner |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 21:11:12 |
+| Lobby ID | 28495717705324960 |
+| Players | 9/10 |
+| Host Name | ТрьЯВластелинЕба |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 21:09:41 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717703566674 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Greta Thunberg |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 21:08:15 |
@@ -86,25 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717707921514 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | PerTzo |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, October 30, 2023 21:11:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717707893039 |
-| Players | 5/15 |
-| Host Name | SSK |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 21:11:45 |
+| Lobby ID | 28495717708402968 |
+| Players | 6/10 |
+| Host Name | order in my head |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, October 30, 2023 21:12:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717707787802 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | 我们几乎要赢了不是吗 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 21:11:40 |
@@ -119,42 +119,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 21:11:05 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717707481016 |
-| Players | 7/8 |
-| Host Name | Yondaime |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 21:11:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717707692587 |
-| Players | 4/10 |
-| Host Name | what is this all for? |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 21:11:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717706006966 |
-| Players | 1/15 |
-| Host Name | Шизид Шизушкин |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 21:10:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717705324960 |
-| Players | 6/10 |
-| Host Name | ТрьЯВластелинЕба |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 21:09:41 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717698507978 |
@@ -162,6 +126,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hermano? Ni de mi perro |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 21:04:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717707692587 |
+| Players | 6/10 |
+| Host Name | what is this all for? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 21:11:36 |
 
 
 |  | epic_boss_fight_normal |
@@ -185,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717680711839 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Путевод |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 20:49:45 |
@@ -212,8 +185,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28495717707959688 |
-| Players | 2/5 |
-| Host Name | / |
+| Players | 1/5 |
+| Host Name | Fihed |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 21:11:49 |
 
