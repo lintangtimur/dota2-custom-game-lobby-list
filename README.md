@@ -2,20 +2,20 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717182338841 |
-| Players | 6/8 |
-| Host Name | Duro |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 08:41:11 |
+| Lobby ID | 28495717185019649 |
+| Players | 3/10 |
+| Host Name | DeezNuts |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 08:46:29 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717184730426 |
-| Players | 3/8 |
-| Host Name | 前五 |
+| Players | 1/8 |
+| Host Name | dying |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 08:45:54 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717181424666 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 08:39:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717183666567 |
-| Players | 10/24 |
+| Players | 16/24 |
 | Host Name | freshejka |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 08:43:48 |
@@ -65,20 +65,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 08:42:28 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717180367657 |
-| Players | 23/24 |
-| Host Name | Dohman32 |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 08:37:20 |
+| Lobby ID | 28495717184763214 |
+| Players | 11/15 |
+| Host Name | tv|artOfmagnus |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 08:45:58 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717184532734 |
 | Players | 7/15 |
-| Host Name | Fish |
+| Host Name | In L♥ve With a Fat Pikachu =3 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 08:45:31 |
 
@@ -95,34 +95,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717184695237 |
-| Players | 5/15 |
+| Players | 3/15 |
 | Host Name | Jimo is Back! |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 08:45:50 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717184716339 |
-| Players | 8/10 |
-| Host Name | BLESS THIS MESS |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 08:45:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717184763214 |
-| Players | 5/15 |
-| Host Name | tv|artOfmagnus |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 08:45:58 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717184730009 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | MYB11RU |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 08:45:54 |
