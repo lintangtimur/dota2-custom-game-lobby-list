@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717270158498 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | MODO PICANTE |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 11:31:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717270057966 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Matstukoy |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 11:31:03 |
@@ -56,6 +56,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 11:32:25 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717271583353 |
+| Players | 1/15 |
+| Host Name | Unlucky |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 11:34:03 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717268779071 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717271463119 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Tovi - |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 11:33:49 |
