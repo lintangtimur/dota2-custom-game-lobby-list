@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717311853033 |
-| Players | 1/15 |
-| Host Name | тёлочка с каре |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 12:52:40 |
+| Lobby ID | 28495717311986344 |
+| Players | 5/8 |
+| Host Name | Buddha★ |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 12:52:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717308376050 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | ОЛЯ ПЕТУШАРА |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 12:45:47 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717310419219 |
-| Players | 22/24 |
-| Host Name | 櫛枝 実乃梨 |
+| Lobby ID | 28495717312030484 |
+| Players | 1/8 |
+| Host Name | булдозер |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 12:49:49 |
+| Lobby Creation Time | Monday, October 30, 2023 12:53:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717311404018 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 12:51:46 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tiptop |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 12:51:32 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28495717312067175 |
+| Players | 2/7 |
+| Host Name | Joxi |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 12:53:05 |
 
 
