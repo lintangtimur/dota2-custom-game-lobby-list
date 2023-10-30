@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717509555518 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | $WAAAAAG |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:04:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717473550859 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:15:44 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 18:06:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717508599235 |
-| Players | 1/10 |
-| Host Name | arte |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 18:03:33 |
+| Lobby ID | 28495717511126256 |
+| Players | 1/8 |
+| Host Name | Саша 11см |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 18:06:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,58 +101,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 18:05:35 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717511079283 |
-| Players | 12/15 |
-| Host Name | Valium |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 18:06:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717511126256 |
-| Players | 1/8 |
-| Host Name | Саша 11см |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 18:06:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717511066027 |
-| Players | 1/8 |
-| Host Name | | Z | |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 18:06:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717511051954 |
-| Players | 1/8 |
-| Host Name | Злобный_бульбуля |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 18:06:39 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717511253497 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | БЕЗНОГNМ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, October 30, 2023 18:06:54 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717511382632 |
+| Players | 2/10 |
+| Host Name | Жест доброй воли |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 18:07:04 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717511392531 |
+| Players | 1/24 |
+| Host Name | TZT |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 18:07:04 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717511248408 |
-| Players | 3/8 |
-| Host Name | Я В МУТЕ |
+| Lobby ID | 28495717511385498 |
+| Players | 2/8 |
+| Host Name | dyrachyo |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 18:06:54 |
+| Lobby Creation Time | Monday, October 30, 2023 18:07:04 |
 
 
 |  | epic_boss_fight_hard |
