@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717579056451 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | ELita.LFW |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 19:22:08 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 19:19:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717579823497 |
-| Players | 5/8 |
-| Host Name | crx |
+| Lobby ID | 28495717580135754 |
+| Players | 2/10 |
+| Host Name | /\йм с3д энд 6роkeн~!! |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 19:22:54 |
+| Lobby Creation Time | Monday, October 30, 2023 19:23:12 |
 
 
 |  | ot3_desert_octet |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717579932685 |
-| Players | 1/24 |
-| Host Name | TaLaNt |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, October 30, 2023 19:23:00 |
+| Lobby ID | 28495717579769060 |
+| Players | 4/24 |
+| Host Name | Aerwyna |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 19:22:50 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717574976381 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Ajr |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 19:18:02 |
@@ -85,38 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717580032433 |
+| Lobby ID | 28495717580259527 |
 | Players | 1/15 |
-| Host Name | Lesabon |
+| Host Name | Mr. Lahey |
 | Region | BRAZIL |
-| Lobby Creation Time | Monday, October 30, 2023 19:23:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717579769060 |
-| Players | 4/24 |
-| Host Name | Aerwyna |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 19:22:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717580061182 |
-| Players | 6/8 |
-| Host Name | 𝓥𝓪𝓵𝔂𝓪𝓡𝓿𝓾 |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, October 30, 2023 19:23:08 |
+| Lobby Creation Time | Monday, October 30, 2023 19:23:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717580092764 |
-| Players | 1/15 |
-| Host Name | пыво |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, October 30, 2023 19:23:10 |
+| Lobby ID | 28495717580122427 |
+| Players | 3/15 |
+| Host Name | SEGA |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 19:23:11 |
 
 
 |  | epic_boss_fight_nightmare |
