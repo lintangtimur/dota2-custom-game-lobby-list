@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717443615267 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Blackout |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, October 30, 2023 16:31:51 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 16:22:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717443745200 |
-| Players | 8/15 |
-| Host Name | Moccio ( mood: HOTDOG ) |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, October 30, 2023 16:32:02 |
+| Lobby ID | 28495717444288219 |
+| Players | 1/8 |
+| Host Name | smthels. |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 16:32:49 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717443737201 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | lostrofl |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 16:32:02 |
@@ -90,24 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Gankmers |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 16:31:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717444288219 |
-| Players | 1/8 |
-| Host Name | smthels. |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 16:32:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717441158466 |
-| Players | 5/8 |
-| Host Name | Чак-Чак Норрис |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 16:28:21 |
 
 
 |  | epic_boss_fight_nightmare |
