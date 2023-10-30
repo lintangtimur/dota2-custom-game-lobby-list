@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717489865888 |
-| Players | 2/10 |
-| Host Name | ☽Eternal_Moonshine☾ |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 17:38:41 |
+| Lobby ID | 28495717490621601 |
+| Players | 6/8 |
+| Host Name | Klink |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, October 30, 2023 17:39:43 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717490437978 |
-| Players | 2/10 |
-| Host Name | ёбырь |
+| Players | 1/10 |
+| Host Name | trash teammate |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:39:28 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717488469574 |
-| Players | 6/24 |
+| Players | 3/24 |
 | Host Name | $WAAAAAG |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, October 30, 2023 17:36:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717490650875 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | az.trllngfc [KTVS] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, October 30, 2023 17:39:46 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717490041184 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | RagingBurgers |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:38:56 |
@@ -81,23 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Кириешки |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:39:19 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717490056397 |
-| Players | 13/15 |
-| Host Name | ( ＾◡＾)っ✂ SNIP SNIP |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 17:38:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717490621601 |
-| Players | 4/8 |
-| Host Name | Klink |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, October 30, 2023 17:39:43 |
 
 
