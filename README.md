@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 08:57:11 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717193907657 |
-| Players | 16/24 |
-| Host Name | BlanquitaLaPerrita |
+| Lobby ID | 28495717195289227 |
+| Players | 2/8 |
+| Host Name | [TмR] maravisha |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:04:30 |
+| Lobby Creation Time | Monday, October 30, 2023 09:07:15 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717195068045 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | okeokedoke |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 09:06:49 |
@@ -47,46 +47,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 06:48:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717195052916 |
-| Players | 6/15 |
-| Host Name | ximena |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:06:47 |
+| Lobby ID | 28495717195524218 |
+| Players | 3/10 |
+| Host Name | ShaDoWars.!!m3Mo |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 09:07:43 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717192761465 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Лесничек, извинте |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 09:02:11 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717195227286 |
+| Players | 1/15 |
+| Host Name | Gpk-idk my life |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 09:07:08 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717192692702 |
-| Players | 8/24 |
-| Host Name | 123 |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 09:02:02 |
+| Lobby ID | 28495717193907657 |
+| Players | 23/24 |
+| Host Name | BlanquitaLaPerrita |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 09:04:30 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717191049318 |
-| Players | 9/10 |
-| Host Name | under |
+| Lobby ID | 28495717195382542 |
+| Players | 2/10 |
+| Host Name | Bwixs~ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 09:07:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717195665903 |
+| Players | 1/15 |
+| Host Name | MagiX |
 | Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 08:58:35 |
+| Lobby Creation Time | Monday, October 30, 2023 09:08:00 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717191811417 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Odonata |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 09:00:10 |
