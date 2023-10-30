@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717460794180 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Bubbles |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 16:56:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717473550859 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | режу раков на 4 к |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:15:44 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 17:47:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717496286393 |
-| Players | 2/15 |
-| Host Name | ttt.61.ttt |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 17:47:28 |
+| Lobby ID | 28495717496820658 |
+| Players | 3/8 |
+| Host Name | Кириешки |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 17:48:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717496521010 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | бобрик |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, October 30, 2023 17:47:47 |
@@ -101,22 +101,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 17:47:43 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717496783759 |
+| Players | 1/15 |
+| Host Name | ушлепак |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 17:48:08 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717496449594 |
-| Players | 3/8 |
-| Host Name | 76561199196836346 |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 17:47:41 |
+| Lobby ID | 28495717496863304 |
+| Players | 1/8 |
+| Host Name | A.I on Cola |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 17:48:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717496871674 |
+| Players | 1/24 |
+| Host Name | Мда |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 17:48:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717496717787 |
+| Lobby ID | 28495717496859060 |
 | Players | 1/15 |
-| Host Name | till the end |
+| Host Name | аРБУЗ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 17:48:03 |
+| Lobby Creation Time | Monday, October 30, 2023 17:48:14 |
 
 
 |  | epic_boss_fight_nightmare |
