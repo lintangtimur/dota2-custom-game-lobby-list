@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717458084911 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | PLAY WITH BEER |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 16:52:48 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717458242955 |
-| Players | 1/8 |
+| Lobby ID | 28495717458329448 |
+| Players | 3/8 |
 | Host Name | Украинская порка |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 16:53:02 |
+| Lobby Creation Time | Monday, October 30, 2023 16:53:10 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717458032130 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Tovi - |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 16:52:43 |
