@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717314925608 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | Tilapia com Aids |
 | Region | CHILE |
 | Lobby Creation Time | Monday, October 30, 2023 12:58:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717321197480 |
-| Players | 6/24 |
+| Players | 19/24 |
 | Host Name | CYKA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 13:11:38 |
@@ -32,27 +32,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717320965899 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 13:11:11 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717321039122 |
-| Players | 9/10 |
-| Host Name | KarmaSH |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 13:11:19 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717321712606 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Zlo |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 13:12:38 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717322171187 |
+| Players | 1/10 |
+| Host Name | Mandingo Bunnington |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 13:13:33 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717322241436 |
+| Players | 2/10 |
+| Host Name | DANICH |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 13:13:39 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717322363714 |
+| Players | 1/24 |
+| Host Name | EPM.Skraas |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 13:13:53 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495717322003686 |
+| Players | 1/10 |
+| Host Name | PINK |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 13:13:13 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495717322361002 |
+| Players | 1/5 |
+| Host Name | Efraim |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 13:13:53 |
 
 
