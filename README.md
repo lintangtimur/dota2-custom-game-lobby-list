@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717255510028 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ゲイ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 11:01:54 |
@@ -86,19 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717255891108 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Plan B |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 11:02:43 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717255981268 |
-| Players | 1/24 |
-| Host Name | LA FEED ES LO MAS LINDO DE LA VI |
+| Lobby ID | 28495717256018398 |
+| Players | 1/8 |
+| Host Name | El Frabi (¥) |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 11:02:54 |
+| Lobby Creation Time | Monday, October 30, 2023 11:02:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717256033841 |
+| Players | 3/15 |
+| Host Name | < blank > |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 11:03:01 |
 
 
 |  | epic_boss_fight_nightmare |
