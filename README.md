@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717509555518 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | $WAAAAAG |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:04:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717509343277 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Electro Zaza |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 18:04:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717509535309 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | slipknotik |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:04:44 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717508781797 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | az.trllngfc [KTVS] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:03:47 |
@@ -86,25 +86,52 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717506643664 |
-| Players | 3/8 |
-| Host Name | dotu ude lini |
+| Players | 2/8 |
+| Host Name | КОРЕЙКА ДАША |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:01:03 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717510208796 |
+| Players | 1/8 |
+| Host Name | dotu ude lini |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 18:05:35 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717506962499 |
-| Players | 9/10 |
-| Host Name | BaLaJan4ik |
+| Lobby ID | 28495717510169127 |
+| Players | 2/10 |
+| Host Name | Жест доброй воли |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 18:05:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717510341634 |
+| Players | 2/10 |
+| Host Name | Маяковский |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 18:01:27 |
+| Lobby Creation Time | Monday, October 30, 2023 18:05:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717510516515 |
+| Players | 1/8 |
+| Host Name | megaplay2009 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 18:05:59 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717506023976 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | ggwp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:00:14 |
