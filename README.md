@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717276283665 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | REPORT SMURF EN ONE |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 11:43:15 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717272791773 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Feel_Good |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 11:36:26 |
@@ -110,6 +110,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 11:43:56 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717276784102 |
+| Players | 6/10 |
+| Host Name | Capitan wawa |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 11:44:13 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717274817185 |
@@ -117,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kemi Ze Great |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 11:40:22 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495717276778306 |
+| Players | 4/10 |
+| Host Name | BrYaNhC |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 11:44:13 |
 
 
