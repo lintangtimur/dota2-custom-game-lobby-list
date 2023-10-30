@@ -6,27 +6,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28495717190339636 |
 | Players | 2/24 |
-| Host Name | OpenAI(Hank Bot) |
+| Host Name | CHILLING |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 08:57:11 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717192692702 |
-| Players | 21/24 |
-| Host Name | 123 |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 09:02:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717195068045 |
-| Players | 6/10 |
-| Host Name | okeokedoke |
+| Lobby ID | 28495717196301830 |
+| Players | 5/8 |
+| Host Name | 洛普斯塔克 |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:06:49 |
+| Lobby Creation Time | Monday, October 30, 2023 09:09:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717196549746 |
+| Players | 2/15 |
+| Host Name | Rem |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 09:09:44 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,84 +47,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 06:48:54 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717195524218 |
-| Players | 8/10 |
-| Host Name | Виктор Дубоёб |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 09:07:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717192761465 |
-| Players | 2/15 |
-| Host Name | Лесничек, извинте |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 09:02:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717195971332 |
-| Players | 2/10 |
-| Host Name | tareq is the second best Muerta |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 09:08:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717195665903 |
-| Players | 14/15 |
-| Host Name | MagiX |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 09:08:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717195382542 |
-| Players | 2/10 |
-| Host Name | Bwixs~ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 09:07:26 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717195747184 |
-| Players | 6/24 |
-| Host Name | 123 |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:08:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717195052916 |
-| Players | 11/15 |
-| Host Name | ximena |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:06:47 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717196214026 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | Jimo is Back! |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 09:09:05 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717191811417 |
-| Players | 8/10 |
-| Host Name | Odonata |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 09:00:10 |
+| Lobby ID | 28495717192761465 |
+| Players | 1/15 |
+| Host Name | Лесничек, извинте |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 09:02:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717196418767 |
+| Players | 4/8 |
+| Host Name | Fen1xxx |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 09:09:29 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717195747184 |
+| Players | 17/24 |
+| Host Name | 123 |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 09:08:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717195382542 |
+| Players | 5/10 |
+| Host Name | Bwixs~ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 09:07:26 |
 
 
