@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717441538098 |
-| Players | 3/8 |
-| Host Name | под дозой |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 16:28:53 |
+| Lobby ID | 28495717441506371 |
+| Players | 2/10 |
+| Host Name | ГОЛУБЦЫ |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 16:28:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717441333149 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Jan Baljan |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 16:28:36 |
@@ -119,22 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 16:28:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717441506371 |
-| Players | 2/10 |
-| Host Name | ГОЛУБЦЫ |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 16:28:51 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495717441571038 |
-| Players | 1/5 |
-| Host Name | Vugkirov |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 16:28:56 |
+| Lobby ID | 28495717441756591 |
+| Players | 1/8 |
+| Host Name | Крутая Сигма |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 16:29:12 |
 
 
 |  | epic_boss_fight_nightmare |
