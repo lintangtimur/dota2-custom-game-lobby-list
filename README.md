@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717322450341 |
-| Players | 11/15 |
-| Host Name | JeOS |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 13:14:03 |
+| Lobby ID | 28495717325687455 |
+| Players | 1/8 |
+| Host Name | ФОРТАНУЛО ЕБАТЬ |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 13:20:26 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717322538451 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 13:14:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717324968698 |
-| Players | 10/15 |
-| Host Name | 🅰🆂🅲🅴🆂🅸🆂 |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 13:19:00 |
+| Lobby ID | 28495717325513925 |
+| Players | 1/24 |
+| Host Name | fckoff |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 13:20:05 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717322363714 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | EPM.Skraas |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 13:13:53 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717322923272 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Meid |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 13:14:59 |
@@ -104,25 +104,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717325485539 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | S |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 13:20:02 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717325513925 |
-| Players | 1/24 |
-| Host Name | fckoff |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 13:20:05 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717324957773 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | DayDreamer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 13:18:59 |
