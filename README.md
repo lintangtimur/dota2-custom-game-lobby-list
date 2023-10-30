@@ -29,24 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 06:48:54 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717258578714 |
-| Players | 1/8 |
-| Host Name | Rave |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 11:08:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717267849626 |
-| Players | 4/15 |
-| Host Name | GT |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 11:26:43 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717262012892 |
@@ -54,6 +36,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Bakadura |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 11:15:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717267849626 |
+| Players | 2/15 |
+| Host Name | GT |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 11:26:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717268047898 |
+| Players | 1/10 |
+| Host Name | Rei Aya |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 11:27:06 |
 
 
 |  | epic_boss_fight_nightmare |
