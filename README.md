@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717534649008 |
-| Players | 5/15 |
-| Host Name | APPA |
+| Players | 1/15 |
+| Host Name | Squeepi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:34:56 |
 
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717538295878 |
-| Players | 3/15 |
-| Host Name | Ярик Добрый |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 18:39:05 |
+| Lobby ID | 28495717538962137 |
+| Players | 2/15 |
+| Host Name | FieryChan |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 18:39:50 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717530963875 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | SEGA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:30:41 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717532056482 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | fal'Cie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:31:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717538136277 |
-| Players | 1/8 |
-| Host Name | rayx he evpop dya |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 18:38:54 |
+| Lobby ID | 28495717538566163 |
+| Players | 1/24 |
+| Host Name | $WAAAAAG |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 18:39:23 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717538323152 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | -40 enjoyer |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, October 30, 2023 18:39:07 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717538160516 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | JS |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, October 30, 2023 18:38:56 |
@@ -110,46 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 18:38:51 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717538080072 |
-| Players | 1/15 |
-| Host Name | Simpest Pimp |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 18:38:50 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717538398314 |
-| Players | 5/8 |
-| Host Name | я ебануто богатый |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 18:39:12 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717538451415 |
-| Players | 1/24 |
-| Host Name | $WAAAAAG |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, October 30, 2023 18:39:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717538463448 |
+| Lobby ID | 28495717538913089 |
 | Players | 1/8 |
-| Host Name | SOLOD228play |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 18:39:16 |
+| Host Name | емпик |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 18:39:46 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717537404280 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | OID |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:38:04 |
@@ -164,12 +137,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 18:38:33 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28495717538467490 |
-| Players | 2/10 |
-| Host Name | Sano |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, October 30, 2023 18:39:17 |
+| Lobby ID | 28495717538611113 |
+| Players | 1/5 |
+| Host Name | <~PANDA~> |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 18:39:26 |
 
 
