@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717220654943 |
-| Players | 17/24 |
-| Host Name | RyokoOwO |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:55:26 |
+| Lobby ID | 28495717222038002 |
+| Players | 1/8 |
+| Host Name | MasonLayble |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 09:58:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -29,76 +29,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 06:48:54 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717221417273 |
-| Players | 6/8 |
-| Host Name | xoxo |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:56:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717220902222 |
-| Players | 9/24 |
-| Host Name | Snolled |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 09:55:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717221650737 |
-| Players | 3/10 |
-| Host Name | BulletGap |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:57:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717221271669 |
-| Players | 3/8 |
-| Host Name | I.G |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 09:56:35 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717221365435 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | ТИММЕЙТЫ МОЛОДЦЫ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 09:56:46 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717220902222 |
+| Players | 12/24 |
+| Host Name | Snolled |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 09:55:54 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717221356021 |
+| Lobby ID | 28495717221417273 |
+| Players | 7/8 |
+| Host Name | xoxo |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 09:56:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717222353125 |
 | Players | 1/8 |
 | Host Name | Robin serio |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:56:45 |
+| Lobby Creation Time | Monday, October 30, 2023 09:58:37 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717222038002 |
+| Lobby ID | 28495717222289245 |
 | Players | 1/8 |
-| Host Name | MasonLayble |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 09:58:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717222107352 |
-| Players | 3/8 |
-| Host Name | ULQUIORRA-*耶齊. |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:58:08 |
+| Host Name | novak |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 09:58:29 |
 
 
 |  | epic_boss_fight_nightmare |
