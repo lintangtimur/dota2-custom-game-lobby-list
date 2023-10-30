@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717285535331 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | ёбырь |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 12:01:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717286295309 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Balin |
 | Region | CHILE |
 | Lobby Creation Time | Monday, October 30, 2023 12:02:47 |
@@ -67,15 +67,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717284712903 |
-| Players | 1/8 |
-| Host Name | Chris |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 11:59:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28495717286253176 |
 | Players | 3/8 |
 | Host Name | кирюха |
@@ -85,19 +76,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717286413013 |
+| Lobby ID | 28495717286528984 |
 | Players | 1/8 |
-| Host Name | Kamusari |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 12:03:01 |
+| Host Name | Chris |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 12:03:14 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28495717286242943 |
-| Players | 2/10 |
-| Host Name | miles² morales |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 12:02:41 |
+| Lobby ID | 28495717286519156 |
+| Players | 1/5 |
+| Host Name | Tubero |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 12:03:13 |
 
 
