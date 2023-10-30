@@ -65,31 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 13:26:24 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717330205559 |
-| Players | 1/8 |
-| Host Name | menya ebali |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 13:28:57 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717329230473 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Barry Delight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 13:27:07 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495717329691671 |
-| Players | 2/5 |
-| Host Name | Алкаш блять |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 13:27:59 |
 
 
 |  | epic_boss_fight_nightmare |
