@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 15:02:43 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717382364860 |
-| Players | 23/24 |
-| Host Name | ATK |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 14:58:25 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717384942455 |
@@ -90,5 +81,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ⸸aso⸸ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, October 30, 2023 15:02:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717385050383 |
+| Players | 1/10 |
+| Host Name | Valkyrie |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 15:03:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717385120195 |
+| Players | 1/8 |
+| Host Name | Малой |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 15:03:12 |
 
 
