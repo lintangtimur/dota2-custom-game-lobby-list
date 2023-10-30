@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717793271141 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Я умный |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, October 30, 2023 22:21:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717788768540 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | MŘĻǾĻǾĻĚĜAŢǾŘ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 22:17:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717792613771 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | Gromm |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 22:20:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717788778299 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Mimi Overthrow |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 22:17:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717774165413 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Politician=Parasite |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 22:05:08 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717791072524 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Yonwalther |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 22:19:17 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717794120975 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Shax |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, October 30, 2023 22:21:55 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717792954054 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | Bats |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 22:20:54 |
@@ -137,31 +137,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 22:21:29 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717793974200 |
-| Players | 6/15 |
-| Host Name | 100 |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, October 30, 2023 22:21:47 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717793987872 |
-| Players | 4/8 |
-| Host Name | ✿GOJO SATORU✿ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 22:21:48 |
+| Lobby ID | 28495717794387474 |
+| Players | 5/8 |
+| Host Name | Windo |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 22:22:09 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717794265344 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | I.G.Y |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, October 30, 2023 22:22:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717794471788 |
+| Players | 4/15 |
+| Host Name | шумасшедший |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, October 30, 2023 22:22:13 |
 
 
 |  | epic_boss_fight_challenger |
@@ -176,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717793776045 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Kurimawski |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 22:21:37 |
@@ -216,15 +216,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Çħίℓℓ |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, October 30, 2023 22:22:00 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495717794001632 |
-| Players | 2/5 |
-| Host Name | грязный школьник |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, October 30, 2023 22:21:49 |
 
 
 |  | epic_boss_fight_nightmare |
