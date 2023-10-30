@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717380501240 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | 核心.核心 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 14:55:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717377437112 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | tatsumi |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 14:50:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717378247486 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 14:51:33 |
@@ -86,19 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717380729327 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | lostrofl |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 14:55:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717380916182 |
-| Players | 1/8 |
-| Host Name | Wws |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 14:56:00 |
+| Lobby ID | 28495717380969704 |
+| Players | 1/15 |
+| Host Name | kelso |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 14:56:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717381010247 |
+| Players | 1/10 |
+| Host Name | Дуд или Dude? |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 14:56:09 |
 
 
 |  | epic_boss_fight_nightmare |
