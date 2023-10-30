@@ -11,20 +11,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 08:39:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717181899609 |
-| Players | 3/15 |
-| Host Name | CarlCuba |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 08:40:19 |
+| Lobby ID | 28495717181324394 |
+| Players | 2/8 |
+| Host Name | muere bautista |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 08:39:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717182053229 |
 | Players | 1/24 |
-| Host Name | REWQ |
+| Host Name | 陰陽 |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 08:40:37 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717181942595 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Aggressive 战士 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, October 30, 2023 08:40:24 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717181591742 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | 66565564 |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 08:39:44 |
@@ -92,19 +92,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 08:37:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717181324394 |
-| Players | 2/8 |
-| Host Name | muere bautista |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 08:39:12 |
+| Lobby ID | 28495717182284807 |
+| Players | 1/15 |
+| Host Name | i like pho |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 08:41:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717181529167 |
+| Players | 8/10 |
+| Host Name | Miyake |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 08:39:36 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717177279652 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Amputzt@ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 08:31:21 |
