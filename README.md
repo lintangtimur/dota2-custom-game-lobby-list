@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717285535331 |
-| Players | 8/10 |
-| Host Name | ёбырь |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 12:01:18 |
+| Lobby ID | 28495717286969962 |
+| Players | 1/24 |
+| Host Name | Bonitos y gorditos hijos de puta |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 12:04:05 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717286295309 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Balin |
 | Region | CHILE |
 | Lobby Creation Time | Monday, October 30, 2023 12:02:47 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717286700920 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | unging |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 12:03:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717286980534 |
+| Players | 1/8 |
+| Host Name | ПАПАРАРПАПАПА |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 12:04:06 |
 
 
 |  | epic_boss_fight_hard |
