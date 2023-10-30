@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717170055288 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | ITS_SHOWTIME |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 08:17:35 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 07:24:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717170021389 |
-| Players | 8/10 |
-| Host Name | Freedom |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, October 30, 2023 08:17:31 |
+| Lobby ID | 28495717170089328 |
+| Players | 9/15 |
+| Host Name | coup de grâce 力 |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 08:17:39 |
 
 
 |  | ot3_gardens_duo |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 08:15:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717169756831 |
-| Players | 1/15 |
-| Host Name | Ballin Colin |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 08:17:01 |
+| Lobby ID | 28495717170116185 |
+| Players | 6/8 |
+| Host Name | Elon Musk |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 08:17:42 |
 
 
 |  | ot3_necropolis_ffa |
@@ -128,24 +128,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 08:17:42 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717169784396 |
-| Players | 7/8 |
-| Host Name | МУРА ЛЕГАВЫЙ |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 08:17:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717169755738 |
-| Players | 4/10 |
-| Host Name | I love wolf |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 08:17:01 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717170024607 |
@@ -155,22 +137,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 08:17:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717170116185 |
-| Players | 6/8 |
-| Host Name | Elon Musk |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 08:17:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717170089328 |
-| Players | 7/15 |
-| Host Name | coup de grâce 力 |
+| Lobby ID | 28495717169755738 |
+| Players | 4/10 |
+| Host Name | I love wolf |
 | Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 08:17:39 |
+| Lobby Creation Time | Monday, October 30, 2023 08:17:01 |
 
 
 |  | epic_boss_fight_hard |
@@ -185,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717167378591 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Mr. PoTato |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 08:12:36 |
