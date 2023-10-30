@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717514781880 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Mrs Poopoo Lu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:11:17 |
@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28495717517221938 |
 | Players | 1/8 |
-| Host Name | Legends |
+| Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:14:17 |
 
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 18:14:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717517490261 |
-| Players | 8/15 |
-| Host Name | JS |
+| Lobby ID | 28495717517818695 |
+| Players | 1/8 |
+| Host Name | -Gowther |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 18:14:37 |
+| Lobby Creation Time | Monday, October 30, 2023 18:15:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 18:14:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717517650395 |
-| Players | 1/8 |
-| Host Name | Sneaky Beaky Like ¯\_(ツ)_/¯ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 18:14:49 |
+| Lobby ID | 28495717517803379 |
+| Players | 1/15 |
+| Host Name | HWNW |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 18:15:00 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717517065126 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | solution |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:14:05 |
