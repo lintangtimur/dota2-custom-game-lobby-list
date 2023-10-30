@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717277134293 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | спермандепало |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 11:44:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717276500477 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 11:43:40 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 11:44:31 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28495717274817185 |
-| Players | 9/10 |
-| Host Name | Kemi Ze Great |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 11:40:22 |
+| Lobby ID | 28495717276900056 |
+| Players | 2/7 |
+| Host Name | Hench Guy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 11:44:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | paaaabbb###### |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 11:44:23 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28495717276900056 |
-| Players | 1/7 |
-| Host Name | Hench Guy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 11:44:27 |
 
 
