@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717394906661 |
-| Players | 8/10 |
-| Host Name | KarmaSH |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 15:19:41 |
+| Lobby ID | 28495717394443357 |
+| Players | 3/10 |
+| Host Name | Deadline |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 15:18:55 |
 
 
 |  | ot3_jungle_quintet |
@@ -20,49 +20,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717394997274 |
+| Players | 7/8 |
+| Host Name | out of season |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 15:19:50 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717394443357 |
-| Players | 1/10 |
-| Host Name | Deadline |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 15:18:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717396182912 |
-| Players | 6/8 |
-| Host Name | practice |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 15:21:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717396443451 |
-| Players | 1/8 |
-| Host Name | Лагман залупа |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 15:22:11 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717396442433 |
-| Players | 1/24 |
-| Host Name | Simzz |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 15:22:10 |
+| Lobby ID | 28495717396606718 |
+| Players | 6/10 |
+| Host Name | мамикс |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 15:22:27 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717396454068 |
-| Players | 1/15 |
-| Host Name | οὐροβόρος |
+| Lobby ID | 28495717396802082 |
+| Players | 5/15 |
+| Host Name | I HATE STUPID KIDS |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 15:22:45 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717396649458 |
+| Players | 11/24 |
+| Host Name | < blank > |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 15:22:12 |
+| Lobby Creation Time | Monday, October 30, 2023 15:22:30 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717396888048 |
+| Players | 1/24 |
+| Host Name | Cr1t- |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 15:22:53 |
 
 
 |  | epic_boss_fight_nightmare |
