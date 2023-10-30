@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499218786173003 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Rikkad |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 06:55:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218786632710 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | D.NothingToSay萧瑟 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 06:56:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499218786685235 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Slxxxn |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, October 31, 2023 06:56:53 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | I.G.Y |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 06:54:41 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28499218786783000 |
+| Players | 1/5 |
+| Host Name | Сиреневенький |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 06:57:05 |
 
 
