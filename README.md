@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717199675608 |
-| Players | 4/8 |
-| Host Name | Okay |
+| Players | 3/8 |
+| Host Name | 111 |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 09:15:48 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717202263403 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Hanna |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 09:20:52 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717202439131 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | DANI |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, October 30, 2023 09:21:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717201996957 |
-| Players | 9/10 |
-| Host Name | Muy Malo |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, October 30, 2023 09:20:21 |
+| Lobby ID | 28495717202745496 |
+| Players | 1/15 |
+| Host Name | vibeTGK69 |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 09:21:48 |
 
 
 |  | ot3_jungle_quintet |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717202648547 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | tv|artOfmagnus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 09:21:37 |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | HGH |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 09:21:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717202745496 |
-| Players | 1/15 |
-| Host Name | vibeTGK69 |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 09:21:48 |
 
 
