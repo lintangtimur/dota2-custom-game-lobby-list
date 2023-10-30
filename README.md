@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717314925608 |
-| Players | 11/15 |
-| Host Name | Tilapia com Aids |
-| Region | CHILE |
-| Lobby Creation Time | Monday, October 30, 2023 12:58:45 |
+| Lobby ID | 28495717322450341 |
+| Players | 1/15 |
+| Host Name | JeOS |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 13:14:03 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717321197480 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | CYKA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 13:11:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717321712606 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Zlo |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 13:12:38 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | EPM.Skraas |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 13:13:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717322471326 |
+| Players | 1/15 |
+| Host Name | 35/16 |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 13:14:06 |
 
 
 |  | epic_boss_fight_nightmare |
