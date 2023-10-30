@@ -20,69 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717284000937 |
-| Players | 4/10 |
-| Host Name | Hecker |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 11:58:19 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717279424887 |
-| Players | 6/24 |
-| Host Name | RiftBreaker |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 11:49:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717283041167 |
-| Players | 13/15 |
-| Host Name | El chipirón enrojao |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 11:56:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717279697366 |
-| Players | 3/8 |
-| Host Name | Wws |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 11:49:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717284412033 |
-| Players | 1/15 |
-| Host Name | Amigo |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Monday, October 30, 2023 11:59:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717282393843 |
-| Players | 18/24 |
-| Host Name | P |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 11:55:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717283239255 |
-| Players | 2/10 |
-| Host Name | пес свастон |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 11:56:50 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717283374100 |
@@ -94,56 +31,65 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717282745761 |
+| Lobby ID | 28495717279424887 |
 | Players | 8/24 |
-| Host Name | BUTUH DANA CEPAT |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 11:55:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717283057963 |
-| Players | 12/15 |
-| Host Name | Orph3us |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 11:56:29 |
+| Host Name | RiftBreaker |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 11:49:24 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717284282699 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Dragon |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 11:58:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717284408752 |
-| Players | 1/15 |
-| Host Name | 4pok |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 11:59:06 |
+| Lobby ID | 28495717284750724 |
+| Players | 2/24 |
+| Host Name | Snow |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 11:59:46 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717284434000 |
-| Players | 1/8 |
-| Host Name | ебучий казик |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 11:59:09 |
+| Lobby ID | 28495717284441280 |
+| Players | 3/8 |
+| Host Name | Sband_Mirand |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 11:59:10 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717282634108 |
-| Players | 8/10 |
-| Host Name | spaceCadet |
+| Lobby ID | 28495717284712903 |
+| Players | 1/8 |
+| Host Name | 13kk |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 11:59:42 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717282745761 |
+| Players | 7/24 |
+| Host Name | BUTUH DANA CEPAT |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 11:55:39 |
+| Lobby Creation Time | Monday, October 30, 2023 11:55:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717284743088 |
+| Players | 6/10 |
+| Host Name | Antimob |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 11:59:46 |
 
 
 |  | epic_boss_fight_normal |
