@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717447166668 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | А КОГДА НЕ? |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 16:36:55 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717446332153 |
-| Players | 6/8 |
-| Host Name | Злобный_бульбуля |
+| Lobby ID | 28495717447299619 |
+| Players | 1/8 |
+| Host Name | 猫-たん |
 | Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 16:35:43 |
+| Lobby Creation Time | Monday, October 30, 2023 16:37:07 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717445712734 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Anata Tsukuyomi |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 16:34:51 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717445660929 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | My fart doesn't stink |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 16:34:46 |
