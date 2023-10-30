@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717354686610 |
-| Players | 1/8 |
-| Host Name | Blvde |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 14:12:26 |
+| Lobby ID | 28495717355815881 |
+| Players | 7/15 |
+| Host Name | Бабушкин крадун |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 14:14:19 |
 
 
 |  | ot3_jungle_quintet |
@@ -24,7 +24,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28495717354040774 |
 | Players | 13/15 |
-| Host Name | Waldemar |
+| Host Name | Mafiato |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 14:11:20 |
 
@@ -56,19 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 14:10:26 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717352335417 |
+| Players | 4/8 |
+| Host Name | Lotus(A fleeting character) |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 14:08:26 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717355702184 |
-| Players | 2/10 |
-| Host Name | фрукты не дышать |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 14:14:08 |
+| Lobby ID | 28495717356196589 |
+| Players | 1/10 |
+| Host Name | EgelatoR |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 14:14:57 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717355636894 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | gegeegegge |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 14:14:01 |
