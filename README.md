@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 16:24:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717438117979 |
-| Players | 2/8 |
-| Host Name | ИЛЬЯС |
+| Lobby ID | 28495717438830633 |
+| Players | 4/15 |
+| Host Name | чемпионвпиковойф |
 | Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 16:24:02 |
+| Lobby Creation Time | Monday, October 30, 2023 16:25:03 |
 
 
 |  | ot3_jungle_quintet |
@@ -121,11 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717438412512 |
+| Lobby ID | 28495717438788303 |
 | Players | 1/15 |
-| Host Name | GOJO SATORU |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 16:24:27 |
+| Host Name | Player76561198065990340 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 16:24:59 |
 
 
 |  | ot3_jungle_quintet |
@@ -140,10 +140,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717438587197 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Almond Butter Honey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 16:24:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717438755736 |
+| Players | 1/15 |
+| Host Name | same shit but with u |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 16:24:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717438864549 |
+| Players | 2/8 |
+| Host Name | ИЛЬЯС |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 16:25:05 |
 
 
 |  | epic_boss_fight_nightmare |
