@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717133810037 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Solo estoy pasando el rato |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 07:06:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717134208175 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | eooooooooooooooooo |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 07:07:35 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717134521847 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | гоблин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, October 30, 2023 07:08:23 |
@@ -128,13 +128,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 07:10:52 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717132619992 |
-| Players | 9/10 |
-| Host Name | Booberries |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 07:03:30 |
+| Lobby ID | 28495717132280460 |
+| Players | 14/15 |
+| Host Name | zUsPrime |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 07:02:37 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495717135100856 |
+| Players | 2/5 |
+| Host Name | 22 añitos!!!! |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 07:09:51 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,23 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BrYaNhC |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 07:03:39 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495717135100856 |
-| Players | 3/5 |
-| Host Name | 22 añitos!!!! |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 07:09:51 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495717135503402 |
-| Players | 1/5 |
-| Host Name | Hmm |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 07:10:51 |
 
 
