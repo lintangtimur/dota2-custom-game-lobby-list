@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717483650560 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | depressed tilted kid/zxc123 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:30:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717482422742 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | heisenburger |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 17:28:17 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717485773995 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | СвяТой_ТапоК |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 17:33:00 |
@@ -68,45 +68,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717485612076 |
-| Players | 3/24 |
+| Players | 12/24 |
 | Host Name | Blue-Code |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:32:47 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717486119805 |
+| Players | 9/15 |
+| Host Name | ’Mr . Big |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 17:33:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717486059346 |
+| Players | 2/15 |
+| Host Name | only 6 pos! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 17:33:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717486094783 |
+| Players | 1/15 |
+| Host Name | Le Chocolat |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 17:33:27 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717485789192 |
-| Players | 5/8 |
-| Host Name | 11 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 17:33:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717485288826 |
-| Players | 9/10 |
-| Host Name | d |
+| Lobby ID | 28495717486388784 |
+| Players | 1/8 |
+| Host Name | akkachi |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 17:32:19 |
+| Lobby Creation Time | Monday, October 30, 2023 17:33:52 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717483261176 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | i lost |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:29:29 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495717485139278 |
-| Players | 1/5 |
-| Host Name | how to play? |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 17:32:07 |
 
 
