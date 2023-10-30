@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 16:56:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717489980788 |
-| Players | 4/8 |
-| Host Name | Shogun Raiden |
+| Lobby ID | 28495717490437978 |
+| Players | 3/10 |
+| Host Name | ёбырь |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 17:38:51 |
+| Lobby Creation Time | Monday, October 30, 2023 17:39:28 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717488469574 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | $WAAAAAG |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, October 30, 2023 17:36:45 |
@@ -68,36 +68,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717490041184 |
-| Players | 6/24 |
+| Players | 17/24 |
 | Host Name | RagingBurgers |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:38:56 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717490227074 |
-| Players | 1/24 |
-| Host Name | 大鲶鱼 |
+| Lobby ID | 28495717490317820 |
+| Players | 2/8 |
+| Host Name | Кириешки |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 17:39:11 |
+| Lobby Creation Time | Monday, October 30, 2023 17:39:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717490056397 |
-| Players | 4/15 |
+| Players | 11/15 |
 | Host Name | ( ＾◡＾)っ✂ SNIP SNIP |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, October 30, 2023 17:38:57 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717488886733 |
-| Players | 7/10 |
-| Host Name | wdym |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 17:37:20 |
+| Lobby ID | 28495717490621601 |
+| Players | 3/8 |
+| Host Name | Klink |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, October 30, 2023 17:39:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717490650875 |
+| Players | 3/10 |
+| Host Name | az.trllngfc [KTVS] |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, October 30, 2023 17:39:46 |
 
 
