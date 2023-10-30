@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717260971852 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | Overlord Bagnose |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 11:13:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717261251601 |
-| Players | 13/15 |
-| Host Name | Standing US |
+| Lobby ID | 28495717261130863 |
+| Players | 11/24 |
+| Host Name | 9S |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 11:13:40 |
+| Lobby Creation Time | Monday, October 30, 2023 11:13:27 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717261113806 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Kermit Da Frog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 11:13:25 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717258578714 |
-| Players | 2/8 |
-| Host Name | Shaq |
+| Players | 1/8 |
+| Host Name | muted |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 11:08:15 |
 
@@ -101,31 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 11:13:25 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717261130863 |
-| Players | 9/24 |
-| Host Name | 9S |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 11:13:27 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717261135131 |
-| Players | 7/8 |
-| Host Name | inEAk1 |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 11:13:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717261526023 |
-| Players | 1/15 |
-| Host Name | Irom Storm |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 11:14:12 |
+| Lobby ID | 28495717261982316 |
+| Players | 1/8 |
+| Host Name | Crow |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 11:15:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KhalilMeister |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 11:13:23 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495717261973377 |
+| Players | 1/10 |
+| Host Name | Mech ga wa tea |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 11:15:06 |
 
 
