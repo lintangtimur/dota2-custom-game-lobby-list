@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717338218808 |
-| Players | 6/15 |
+| Players | 4/15 |
 | Host Name | hi |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 13:43:39 |
@@ -20,22 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717338429665 |
-| Players | 1/10 |
-| Host Name | Moises |
+| Lobby ID | 28495717338700353 |
+| Players | 1/15 |
+| Host Name | ACC for practice |
 | Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 13:44:02 |
+| Lobby Creation Time | Monday, October 30, 2023 13:44:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717332809299 |
-| Players | 11/24 |
-| Host Name | swap commends |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 13:33:45 |
+| Lobby ID | 28495717338410376 |
+| Players | 10/15 |
+| Host Name | Nexro |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 13:43:59 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,46 +47,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 13:42:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717337137429 |
-| Players | 5/8 |
-| Host Name | o,o |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 13:41:40 |
+| Lobby ID | 28495717339172911 |
+| Players | 14/24 |
+| Host Name | fona_ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 13:45:22 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717338410376 |
-| Players | 4/15 |
-| Host Name | Nexro |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 13:43:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717338700353 |
+| Lobby ID | 28495717339462515 |
 | Players | 1/15 |
-| Host Name | ACC for practice |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 13:44:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717338130997 |
-| Players | 7/8 |
-| Host Name | babahhh |
+| Host Name | 🅰🆂🅲🅴🆂🅸🆂 |
 | Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 13:43:29 |
+| Lobby Creation Time | Monday, October 30, 2023 13:45:52 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717338314976 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Zafina |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 13:43:49 |
