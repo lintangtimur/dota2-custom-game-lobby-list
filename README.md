@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717246328483 |
-| Players | 7/15 |
+| Players | 4/15 |
 | Host Name | самый грустный |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 10:43:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717245985551 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Mazai |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 10:43:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717242724579 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Mel Gibson |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 10:36:45 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717245390064 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | Kenny Mccormick |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 10:41:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717246522917 |
-| Players | 1/8 |
-| Host Name | YURNERO |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 10:44:02 |
 
 
 |  | epic_boss_fight_challenger |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717243763194 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Farewell, My paradise |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 10:38:43 |
