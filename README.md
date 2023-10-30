@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717261108541 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | Solo estoy pasando el rato |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 11:13:25 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717262930168 |
-| Players | 7/8 |
-| Host Name | POISON |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 11:17:00 |
+| Lobby ID | 28495717264420561 |
+| Players | 2/8 |
+| Host Name | haunt |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 11:19:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -128,13 +128,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 11:19:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717264420561 |
-| Players | 2/8 |
-| Host Name | haunt |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 11:19:58 |
+| Lobby ID | 28495717264527555 |
+| Players | 1/15 |
+| Host Name | CHIBOLO KK |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 11:20:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717263076845 |
+| Players | 14/15 |
+| Host Name | Castillo |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 11:17:18 |
 
 
 |  | epic_boss_fight_nightmare |
