@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 07:38:01 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717148180202 |
-| Players | 22/24 |
-| Host Name | Chupete |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 07:36:02 |
+| Lobby ID | 28495717149511556 |
+| Players | 1/8 |
+| Host Name | нытье+посос |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 07:38:31 |
 
 
 |  | ot3_necropolis_ffa |
@@ -94,28 +94,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717148491102 |
-| Players | 15/15 |
-| Host Name | ‡Hanamichi Sakuragi‡ |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 07:36:37 |
+| Lobby ID | 28495717147784777 |
+| Players | 13/15 |
+| Host Name | GN8M8S ARE REAL |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 07:35:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495717149511556 |
-| Players | 1/8 |
-| Host Name | нытье+посос |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 07:38:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717149686225 |
-| Players | 5/8 |
-| Host Name | Itte |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 07:38:50 |
+| Lobby ID | 28495717149737211 |
+| Players | 1/10 |
+| Host Name | Vivi |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 07:38:56 |
 
 
