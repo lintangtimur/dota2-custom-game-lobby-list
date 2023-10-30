@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717423317991 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | MiniSoGood |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 16:02:50 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 16:04:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717423579299 |
-| Players | 14/15 |
-| Host Name | ʕ •ᴥ•ʔ Big Russian Lion |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 16:03:12 |
+| Lobby ID | 28495717424876473 |
+| Players | 3/8 |
+| Host Name | Voxl |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 16:05:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,22 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 16:04:54 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717424818033 |
+| Players | 1/8 |
+| Host Name | Неуязвимый |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 16:05:00 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717421393227 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Goblok Slayer |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 16:00:01 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495717424590179 |
-| Players | 1/10 |
-| Host Name | Сирник |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 16:04:40 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | [P.F.L.] - qwerki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 16:04:56 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495717424855470 |
+| Players | 1/10 |
+| Host Name | Сирник |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 16:05:03 |
 
 
