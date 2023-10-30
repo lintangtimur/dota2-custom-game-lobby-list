@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717261982316 |
-| Players | 6/8 |
-| Host Name | Crow |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 11:15:07 |
+| Lobby ID | 28495717263177580 |
+| Players | 3/10 |
+| Host Name | Fuck Love |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 11:17:30 |
 
 
 |  | ot3_jungle_quintet |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 11:13:25 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717259174412 |
-| Players | 1/24 |
-| Host Name | TicTac |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 11:09:28 |
+| Lobby ID | 28495717262930168 |
+| Players | 3/8 |
+| Host Name | POISON |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 11:17:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 11:15:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717248843383 |
-| Players | 7/8 |
-| Host Name | CRYX |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 10:48:36 |
+| Lobby ID | 28495717263076845 |
+| Players | 7/15 |
+| Host Name | Castillo |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 11:17:18 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717261113806 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Kermit Da Frog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 11:13:25 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717258578714 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Shaq |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 11:08:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717262930168 |
-| Players | 1/8 |
-| Host Name | POISON |
+| Lobby ID | 28495717261130863 |
+| Players | 22/24 |
+| Host Name | 9S |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 11:17:00 |
+| Lobby Creation Time | Monday, October 30, 2023 11:13:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717261096168 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | KhalilMeister |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 11:13:23 |
