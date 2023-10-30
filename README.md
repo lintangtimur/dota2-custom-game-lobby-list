@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717302489960 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 12:34:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717305797860 |
-| Players | 9/15 |
-| Host Name | ACC for practice |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 12:40:46 |
+| Lobby ID | 28495717305643861 |
+| Players | 4/10 |
+| Host Name | ∝  → 3 Knives Knight | |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 12:40:28 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,42 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 12:41:38 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717303056639 |
-| Players | 14/24 |
-| Host Name | Projeju |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 12:35:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717304573122 |
-| Players | 3/10 |
-| Host Name | эль чача |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 12:38:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717305449463 |
-| Players | 1/15 |
-| Host Name | DEJEN PUDGE giordota.com |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 12:40:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717305643861 |
-| Players | 4/10 |
-| Host Name | KarmaSH |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 12:40:28 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717305587214 |
@@ -92,12 +56,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 12:40:21 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717304573122 |
+| Players | 2/10 |
+| Host Name | эль чача |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 12:38:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717306496355 |
+| Players | 1/8 |
+| Host Name | СОЛЕВАЯ МРАЗЬ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 12:42:07 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495717304634396 |
-| Players | 8/10 |
-| Host Name | 10K Behavior Score |
+| Lobby ID | 28495717306907273 |
+| Players | 2/10 |
+| Host Name | djy.xrf |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 12:42:55 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495717306935152 |
+| Players | 1/10 |
+| Host Name | JiNong |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 12:38:29 |
+| Lobby Creation Time | Monday, October 30, 2023 12:42:59 |
 
 
