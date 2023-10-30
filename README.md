@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717199675608 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Okay |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 09:15:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717201117370 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Solo estoy pasando el rato |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 09:18:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717201996957 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Muy Malo |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, October 30, 2023 09:20:21 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717201135257 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Repow.SlimJims |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 09:18:40 |
@@ -112,10 +112,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717202287273 |
+| Lobby ID | 28495717202396815 |
+| Players | 1/8 |
+| Host Name | y0ngG |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 09:21:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717202399782 |
 | Players | 1/8 |
 | Host Name | HGH |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 09:20:54 |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 09:21:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717202419095 |
+| Players | 1/15 |
+| Host Name | vibeTGK69 |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 09:21:10 |
 
 
