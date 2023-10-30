@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717491937323 |
-| Players | 8/10 |
-| Host Name | taehafrazrxt* |
+| Lobby ID | 28495717491143822 |
+| Players | 7/8 |
+| Host Name | Speak rus on EUW = kys |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 17:41:31 |
+| Lobby Creation Time | Monday, October 30, 2023 17:40:27 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 17:15:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717492277625 |
-| Players | 1/8 |
-| Host Name | fp mid |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 17:41:59 |
+| Lobby ID | 28495717492323102 |
+| Players | 2/10 |
+| Host Name | ) |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 17:42:03 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717491154606 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | лобанов |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 17:40:28 |
@@ -95,28 +95,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717491086857 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Alah na Trevelax |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:40:22 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717492288509 |
+| Players | 1/24 |
+| Host Name | альцгеймер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, October 30, 2023 17:42:00 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717492373256 |
+| Players | 1/24 |
+| Host Name | 我是张志文 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Monday, October 30, 2023 17:42:07 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717491143822 |
+| Lobby ID | 28495717492373300 |
 | Players | 5/8 |
-| Host Name | Speak rus on EUW = kys |
+| Host Name | Играли вообще? |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 17:40:27 |
+| Lobby Creation Time | Monday, October 30, 2023 17:42:07 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717491721252 |
-| Players | 1/7 |
-| Host Name | Player1 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 17:41:14 |
+| Lobby ID | 28495717492392732 |
+| Players | 3/15 |
+| Host Name | pOg |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 17:42:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717492388338 |
+| Players | 1/15 |
+| Host Name | медовый |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 17:42:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717492407820 |
+| Players | 1/15 |
+| Host Name | Ярик Добрый |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 17:42:10 |
 
 
 |  | epic_boss_fight_nightmare |
