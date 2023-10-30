@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717302489960 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 12:34:16 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717305797860 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | ACC for practice |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 12:40:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717304958705 |
-| Players | 1/15 |
-| Host Name | Aladdin |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 12:39:07 |
+| Lobby ID | 28495717305768368 |
+| Players | 2/8 |
+| Host Name | 111 |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 12:40:42 |
 
 
 |  | ot3_desert_octet |
@@ -126,15 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KarmaSH |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 12:40:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717305768368 |
-| Players | 2/8 |
-| Host Name | 111 |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 12:40:42 |
 
 
 |  | epic_boss_fight_nightmare |
