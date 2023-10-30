@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717248089328 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | me and 7 animal vs 16 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 10:47:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717248843383 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | CRYX |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 10:48:36 |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717250048523 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Calldown Па рашки |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 10:50:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717250547797 |
+| Players | 2/10 |
+| Host Name | Full-Time Griefer |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 10:51:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717250590640 |
+| Players | 1/8 |
+| Host Name | sichowbob |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 10:52:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717249611686 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | YukineKun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 10:50:07 |
