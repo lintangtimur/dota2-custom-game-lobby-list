@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717482530149 |
-| Players | 2/15 |
-| Host Name | ’Mr . Big |
+| Players | 1/15 |
+| Host Name | Debbuuuuuuuuuuuu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:28:26 |
 
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 17:15:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717485181792 |
-| Players | 14/15 |
-| Host Name | Сыграл как пеле |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, October 30, 2023 17:32:10 |
+| Lobby ID | 28495717485773995 |
+| Players | 2/8 |
+| Host Name | СвяТой_ТапоК |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 17:33:00 |
 
 
 |  | ot3_desert_octet |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717485672768 |
-| Players | 1/8 |
-| Host Name | ¨Ç_-Gonza-_-4 |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 17:32:52 |
+| Lobby ID | 28495717485789192 |
+| Players | 5/8 |
+| Host Name | 11 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 17:33:01 |
 
 
 |  | ot3_gardens_duo |
@@ -92,37 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 17:32:19 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717485773995 |
-| Players | 2/8 |
-| Host Name | СвяТой_ТапоК |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 17:33:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717485789192 |
-| Players | 3/8 |
-| Host Name | 11 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 17:33:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717485790150 |
-| Players | 6/8 |
-| Host Name | Legend[S.L.L] |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, October 30, 2023 17:33:01 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717483261176 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | i lost |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:29:29 |
