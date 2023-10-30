@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717504029582 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | RADIANCE ENJOYER |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 17:57:39 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717504720042 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ты молодой банан |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:58:33 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717504951386 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | pohui proebali |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:58:51 |
