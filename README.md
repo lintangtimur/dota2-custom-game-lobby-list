@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717230060568 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Wu Gensheng |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 10:12:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717230198203 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Nexro |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 10:13:09 |
@@ -58,24 +58,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717230186446 |
-| Players | 12/15 |
-| Host Name | Mostachito |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 10:13:08 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717230128718 |
-| Players | 7/24 |
-| Host Name | 想一起玩de请删好友 |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 10:13:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28495717230153040 |
 | Players | 8/15 |
 | Host Name | Glue Sommelier |
@@ -83,21 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 10:13:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717230186474 |
-| Players | 6/8 |
-| Host Name | Go Arconte I⭐⭐⭐⭐⭐II |
-| Region | CHILE |
-| Lobby Creation Time | Monday, October 30, 2023 10:13:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717230345105 |
-| Players | 4/8 |
-| Host Name | GULPING seamonkies by the GALLON |
+| Lobby ID | 28495717230128718 |
+| Players | 10/24 |
+| Host Name | 想一起玩de请删好友 |
 | Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 10:13:26 |
+| Lobby Creation Time | Monday, October 30, 2023 10:13:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717230675242 |
+| Players | 7/8 |
+| Host Name | PUDGE POS 5 ENJOYER |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, October 30, 2023 10:14:01 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495717230655579 |
+| Players | 1/5 |
+| Host Name | Жалкое отродье |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 10:13:58 |
 
 
