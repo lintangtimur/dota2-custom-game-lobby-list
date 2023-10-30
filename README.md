@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717214725817 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | GabiruMaxx |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, October 30, 2023 09:44:21 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717214693883 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | -_^ |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 09:44:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717214296106 |
-| Players | 5/8 |
-| Host Name | Дауби Даубиев |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 09:43:34 |
+| Lobby ID | 28495717215023045 |
+| Players | 1/24 |
+| Host Name | S |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 09:44:55 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717214894136 |
-| Players | 3/15 |
-| Host Name | PervorodniyСringe AlphaMale |
+| Players | 1/15 |
+| Host Name | Plan B |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 09:44:40 |
 
@@ -74,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 09:44:50 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717215081635 |
+| Players | 2/10 |
+| Host Name | PervorodniyСringe AlphaMale |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 09:45:02 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717215001949 |
+| Lobby ID | 28495717215091292 |
 | Players | 1/15 |
-| Host Name | 4svOn |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 09:44:53 |
+| Host Name | kötsibëu |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 09:45:03 |
 
 
 |  | epic_boss_fight_nightmare |
