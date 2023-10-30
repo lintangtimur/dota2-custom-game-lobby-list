@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717420373101 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Neodarker |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 15:58:33 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717421393227 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Goblok Slayer |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 16:00:01 |
