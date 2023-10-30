@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717131960725 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | WKWKWKWKWK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 07:01:47 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717135413030 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Ripper |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 07:10:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717136935504 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | VEGAS |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 07:14:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717137009042 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Michiking |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 07:14:22 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717137162718 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | merenge |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 07:14:42 |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717137249972 |
+| Players | 3/8 |
+| Host Name | ME LLEGA AL PINCHO TU MMR |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 07:14:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717137318732 |
 | Players | 1/8 |
 | Host Name | nolan |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 07:14:54 |
+| Lobby Creation Time | Monday, October 30, 2023 07:15:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717137332948 |
+| Players | 2/10 |
+| Host Name | МяснаяMашинаПздц |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 07:15:04 |
 
 
 |  | epic_boss_fight_normal |
