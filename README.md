@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717483650560 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | depressed tilted kid/zxc123 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:30:02 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717485181792 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Сыграл как пеле |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, October 30, 2023 17:32:10 |
@@ -83,6 +83,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 17:32:52 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717485288826 |
+| Players | 9/10 |
+| Host Name | d |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 17:32:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717485773995 |
+| Players | 2/8 |
+| Host Name | СвяТой_ТапоК |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 17:33:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717485789192 |
+| Players | 3/8 |
+| Host Name | 11 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 17:33:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717485790150 |
+| Players | 6/8 |
+| Host Name | Legend[S.L.L] |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, October 30, 2023 17:33:01 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717483261176 |
@@ -99,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | how to play? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:32:07 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495717485375564 |
-| Players | 1/5 |
-| Host Name | Серый Червь |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 17:32:27 |
 
 
