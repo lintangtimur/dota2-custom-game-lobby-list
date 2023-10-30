@@ -2,28 +2,28 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717196418767 |
-| Players | 6/8 |
-| Host Name | . |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 09:09:29 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717198026472 |
-| Players | 9/10 |
-| Host Name | merenge |
+| Lobby ID | 28495717199490359 |
+| Players | 2/10 |
+| Host Name | BulletGap |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:12:37 |
+| Lobby Creation Time | Monday, October 30, 2023 09:15:27 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717199524443 |
+| Players | 2/24 |
+| Host Name | Trewis 506 |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 09:15:31 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717198710689 |
-| Players | 13/24 |
+| Players | 19/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 09:13:56 |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717126513259 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | NonaJerman#165 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 06:48:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717197226299 |
-| Players | 15/15 |
-| Host Name | tiananmen square (taylor's versi |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 09:11:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,30 +56,66 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 09:14:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717199290158 |
-| Players | 1/15 |
-| Host Name | Trewis 506 |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 09:15:04 |
+| Lobby ID | 28495717199475277 |
+| Players | 1/10 |
+| Host Name | CRIMSON™ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 09:15:25 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717199287273 |
-| Players | 1/24 |
-| Host Name | °° |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 09:15:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717199294468 |
-| Players | 4/15 |
-| Host Name | Kira |
+| Lobby ID | 28495717199484359 |
+| Players | 6/8 |
+| Host Name | Kick.com/lumaid |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:15:04 |
+| Lobby Creation Time | Monday, October 30, 2023 09:15:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717199496809 |
+| Players | 2/15 |
+| Host Name | Illusion |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 09:15:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717199675608 |
+| Players | 1/8 |
+| Host Name | Okay |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 09:15:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717199733118 |
+| Players | 1/10 |
+| Host Name | Хюстон |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 09:15:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717199734820 |
+| Players | 1/15 |
+| Host Name | DIGITAL STYLE |
+| Region | CHILE |
+| Lobby Creation Time | Monday, October 30, 2023 09:15:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717199747896 |
+| Players | 2/10 |
+| Host Name | ДУХ ГОВНА |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 09:15:57 |
 
 
