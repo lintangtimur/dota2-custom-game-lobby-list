@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717392092631 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | эль чача |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 15:15:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717392951004 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 15:16:28 |
@@ -83,10 +83,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 15:18:56 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717394529084 |
+| Players | 1/15 |
+| Host Name | BAAS |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 15:19:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717394544111 |
+| Players | 5/10 |
+| Host Name | бусинка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, October 30, 2023 15:19:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717393317312 |
+| Players | 14/15 |
+| Host Name | Great Admiral of Mongol Empire |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 15:17:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717394597970 |
+| Players | 1/8 |
+| Host Name | мяу |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 15:19:10 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717393207969 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Han |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 15:16:53 |
