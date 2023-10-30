@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717238495315 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Nagato |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 10:28:45 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717240322791 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | ShaV |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 10:32:12 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717240529406 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | CHA..MIRAS! |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 10:32:36 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717239935924 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | ng |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 10:31:29 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717240584902 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | 你生我梦 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 10:32:42 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717241169498 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | Flyfriend28 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 10:33:49 |
@@ -130,11 +130,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717241201281 |
+| Lobby ID | 28495717241284982 |
 | Players | 1/10 |
 | Host Name | JerryLee |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 10:33:52 |
+| Lobby Creation Time | Monday, October 30, 2023 10:34:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717241294403 |
+| Players | 1/24 |
+| Host Name | 🦉 don't give a hoot 🦉 |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 10:34:03 |
 
 
 |  | epic_boss_fight_nightmare |
