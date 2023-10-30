@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717332809299 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | ENG  AYYASH THE QASSAM MAN |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 13:33:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717358996872 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Kroenen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, October 30, 2023 14:19:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717359229245 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | Lv.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 14:20:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717359189790 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | БЛЕБ |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 14:20:00 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Erlon |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 14:20:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717359766474 |
+| Players | 1/8 |
+| Host Name | 626 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 14:20:58 |
 
 
 |  | epic_boss_fight_nightmare |
