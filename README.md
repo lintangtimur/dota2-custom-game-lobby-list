@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717251839129 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Hecker |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 10:54:28 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ƒ |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 10:58:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717255112526 |
-| Players | 2/24 |
-| Host Name | Beerseek_DHP |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 11:01:02 |
 
 
 |  | ot3_gardens_duo |
