@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717332809299 |
-| Players | 5/24 |
+| Players | 2/24 |
 | Host Name | swap commends |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 13:33:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717337330438 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | JeOS |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 13:42:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717339569503 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | LO VI EN UNA GUÍA DE SMASH |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 13:46:04 |
@@ -59,28 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717342432926 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Anjogs |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 13:51:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717342935272 |
-| Players | 3/8 |
-| Host Name | дамский угодник |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 13:52:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717343489025 |
-| Players | 3/8 |
-| Host Name | MudYatoro |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 13:53:04 |
+| Lobby ID | 28495717343867978 |
+| Players | 2/15 |
+| Host Name | Олег_12_пОшЛаЯ |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 13:53:44 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | cece |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 13:50:41 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495717344005439 |
+| Players | 2/10 |
+| Host Name | Hundewir |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 13:53:59 |
 
 
