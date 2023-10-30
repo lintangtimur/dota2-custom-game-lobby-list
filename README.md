@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717324968698 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | 🅰🆂🅲🅴🆂🅸🆂 |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 13:19:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717322363714 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | EPM.Skraas |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 13:13:53 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717322923272 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Meid |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 13:14:59 |
@@ -104,10 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717325485539 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | S |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 13:20:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717325513925 |
+| Players | 1/24 |
+| Host Name | fckoff |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 13:20:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28495717324988241 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | twitch.tv/deathwatcher28 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 13:19:03 |
