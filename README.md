@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717379622950 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 14:53:50 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717379401854 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | ArtoftheStateAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 14:53:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717380172304 |
-| Players | 1/8 |
-| Host Name | Desire |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 14:54:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,18 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717378945283 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | •Cyber Gnoy |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 14:52:43 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495717380370437 |
-| Players | 1/10 |
-| Host Name | Lamb |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 14:55:05 |
 
 
