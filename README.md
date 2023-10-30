@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717646615743 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, October 30, 2023 20:22:22 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 20:13:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717643696215 |
-| Players | 22/24 |
-| Host Name | Raul.nsk |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 20:19:57 |
+| Lobby ID | 28495717647536849 |
+| Players | 1/10 |
+| Host Name | merenge |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 20:23:08 |
 
 
 |  | ot3_jungle_quintet |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717646206162 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Ғ ᴱ ᴺ ᴿ ᴵ ᴿ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 20:22:02 |
@@ -144,6 +144,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Саня, го в  baldurs gate |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 20:04:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717647484871 |
+| Players | 2/10 |
+| Host Name | Крошка <<хлебная>> |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 20:23:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -167,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28495717647450297 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | 杀！ |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 20:23:04 |
