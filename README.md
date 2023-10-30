@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717298737958 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Hachiman |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 12:26:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717297980583 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | PamSaf |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 12:25:25 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | :( |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 12:22:17 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495717299386288 |
+| Players | 1/10 |
+| Host Name | Fluffy Potato Skin |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, October 30, 2023 12:28:10 |
 
 
