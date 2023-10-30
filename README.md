@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717647329162 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Gankmers |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 20:22:58 |
@@ -47,28 +47,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 20:34:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717662000095 |
-| Players | 2/15 |
-| Host Name | は☠zxc king☠は suffered |
+| Lobby ID | 28495717662111110 |
+| Players | 1/8 |
+| Host Name | sairo |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 20:34:52 |
+| Lobby Creation Time | Monday, October 30, 2023 20:34:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717661095855 |
-| Players | 1/10 |
-| Host Name | Thanatos |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 20:34:09 |
+| Lobby ID | 28495717662240938 |
+| Players | 3/8 |
+| Host Name | Yela Ackerman |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 20:35:04 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717660662720 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Instantaneous Death//OT3.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 20:33:48 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717660527864 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | HasanabiSimp |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 20:33:42 |
@@ -146,22 +146,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 20:34:32 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717662251349 |
+| Players | 1/10 |
+| Host Name | Thanatos |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, October 30, 2023 20:35:04 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717661875490 |
+| Lobby ID | 28495717662192765 |
 | Players | 1/15 |
-| Host Name | цирк уродов |
+| Host Name | баченок спермы |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 20:34:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717662035956 |
-| Players | 1/8 |
-| Host Name | butter dawg |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 20:34:54 |
+| Lobby Creation Time | Monday, October 30, 2023 20:35:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -184,11 +184,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495717659174323 |
-| Players | 9/10 |
-| Host Name | MakErot |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 20:32:37 |
+| Lobby ID | 28495717661844781 |
+| Players | 1/10 |
+| Host Name | Immortal™Фрукт) |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 20:34:45 |
 
 
 |  | epic_boss_fight_challenger |
@@ -198,23 +198,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | momo&peach princess |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, October 30, 2023 20:33:47 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495717661844781 |
-| Players | 1/10 |
-| Host Name | Immortal™Фрукт) |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 20:34:45 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495717661992825 |
-| Players | 1/10 |
-| Host Name | Slavic balls clamp |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, October 30, 2023 20:34:52 |
 
 
