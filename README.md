@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717428181688 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | 123 |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 16:09:52 |
@@ -20,22 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717430979058 |
-| Players | 2/10 |
-| Host Name | Вертик |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 16:13:50 |
+| Lobby ID | 28495717431130270 |
+| Players | 1/8 |
+| Host Name | playmaker |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, October 30, 2023 16:14:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717424655167 |
-| Players | 9/10 |
-| Host Name | Pudge Lover |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 16:04:46 |
+| Lobby ID | 28495717431049803 |
+| Players | 1/8 |
+| Host Name | булдозер |
+| Region | CHILE |
+| Lobby Creation Time | Monday, October 30, 2023 16:13:56 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717430921510 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | lost myself |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 16:13:45 |
@@ -92,38 +92,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 16:13:45 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717431049803 |
-| Players | 1/8 |
-| Host Name | булдозер |
-| Region | CHILE |
-| Lobby Creation Time | Monday, October 30, 2023 16:13:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717431062953 |
-| Players | 1/10 |
-| Host Name | Durakami |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 16:13:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717431066193 |
-| Players | 1/8 |
-| Host Name | #FREEROSTIK |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 16:13:57 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717428865926 |
 | Players | 14/15 |
-| Host Name | MidoriNoTori |
+| Host Name | лох обычный |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, October 30, 2023 16:10:50 |
 
