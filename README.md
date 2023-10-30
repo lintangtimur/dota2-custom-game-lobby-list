@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717271921395 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Yonwalther |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 11:34:43 |
@@ -65,6 +65,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 11:35:22 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717270151554 |
+| Players | 7/8 |
+| Host Name | «Dendi es mi Pastor» |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 11:31:14 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717268779071 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717271463119 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Tovi - |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 11:33:49 |
