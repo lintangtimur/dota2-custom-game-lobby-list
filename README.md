@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 16:32:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717443337434 |
-| Players | 20/24 |
-| Host Name | Gankmers |
+| Lobby ID | 28495717445163402 |
+| Players | 1/10 |
+| Host Name | НЕПОНЯТЫЙ НЕ Я |
 | Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 16:31:28 |
+| Lobby Creation Time | Monday, October 30, 2023 16:34:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717442976324 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Дейнеріс |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 16:30:56 |
@@ -99,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 1437 FAIL CSGORUN.RUN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 16:33:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717445138501 |
+| Players | 2/10 |
+| Host Name | ВИБРАТОР БРАТА |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 16:34:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717445260321 |
+| Players | 2/10 |
+| Host Name | Кровавый понос |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 16:34:12 |
 
 
 |  | epic_boss_fight_nightmare |
