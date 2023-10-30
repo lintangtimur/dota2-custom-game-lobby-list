@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717225781700 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | BomBiTa |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 10:04:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717226617256 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | ScientificNN |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 10:06:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717226671545 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | CriTzuz |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 10:06:37 |
@@ -85,35 +85,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717226793108 |
-| Players | 6/8 |
-| Host Name | Stich |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 10:06:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717226850921 |
+| Lobby ID | 28495717226911718 |
 | Players | 1/8 |
 | Host Name | lorn |
 | Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 10:06:57 |
+| Lobby Creation Time | Monday, October 30, 2023 10:07:04 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717225608193 |
-| Players | 1/5 |
-| Host Name | KrauZin |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, October 30, 2023 10:04:39 |
+| Lobby ID | 28495717226890836 |
+| Players | 1/15 |
+| Host Name | ACC for practice |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 10:07:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717226896133 |
+| Players | 1/24 |
+| Host Name | izi pipilin |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 10:07:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717221879756 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | 偉大なLexRuL♥Kunn |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 09:57:43 |
