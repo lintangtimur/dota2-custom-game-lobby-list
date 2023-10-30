@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717222038002 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | MasonLayble |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 09:58:01 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717126513259 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | NonaJerman#165 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 06:48:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717221365435 |
-| Players | 10/15 |
-| Host Name | ТИММЕЙТЫ МОЛОДЦЫ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 09:56:46 |
+| Lobby ID | 28495717222791510 |
+| Players | 1/10 |
+| Host Name | RMT(McMani Rockefeller) |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 09:59:26 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717220902222 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | Snolled |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 09:55:54 |
@@ -59,10 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717222353125 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | Robin serio |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 09:58:37 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717222801500 |
+| Players | 2/10 |
+| Host Name | estoy  cansado jefe |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 09:59:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717222803099 |
+| Players | 9/15 |
+| Host Name | Ramenhotep |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 09:59:27 |
 
 
 |  | epic_boss_fight_nightmare |
