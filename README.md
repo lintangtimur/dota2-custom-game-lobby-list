@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717285535331 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | ёбырь |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 12:01:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717279424887 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 11:49:24 |
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28495717285228789 |
 | Players | 8/15 |
-| Host Name | !The One! |
+| Host Name | WAWITA DE 18 AÑITOS |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 12:00:42 |
 
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717286295309 |
-| Players | 7/24 |
+| Players | 13/24 |
 | Host Name | Balin |
 | Region | CHILE |
 | Lobby Creation Time | Monday, October 30, 2023 12:02:47 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717282745761 |
-| Players | 20/24 |
-| Host Name | BUTUH DANA CEPAT |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 11:55:52 |
+| Lobby ID | 28495717286558227 |
+| Players | 2/8 |
+| Host Name | Chris |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 12:03:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,21 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 12:02:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717286528984 |
-| Players | 1/8 |
-| Host Name | Chris |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 12:03:14 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495717286519156 |
-| Players | 1/5 |
-| Host Name | Tubero |
+| Lobby ID | 28495717286700920 |
+| Players | 1/24 |
+| Host Name | unging |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 12:03:13 |
+| Lobby Creation Time | Monday, October 30, 2023 12:03:34 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28495717286736344 |
+| Players | 1/7 |
+| Host Name | Deja Vu |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 12:03:38 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495717286568362 |
+| Players | 6/10 |
+| Host Name | Tovi - |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 12:03:19 |
 
 
