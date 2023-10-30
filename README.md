@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717357647710 |
-| Players | 9/24 |
-| Host Name | Cancell ^^ |
+| Players | 8/24 |
+| Host Name | †_† |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 14:17:24 |
 
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717356499920 |
+| Lobby ID | 28495717363603257 |
 | Players | 1/8 |
-| Host Name | SodaZ |
+| Host Name | KhanDoto |
 | Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 14:15:28 |
+| Lobby Creation Time | Monday, October 30, 2023 14:27:24 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717362593436 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Papi |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 14:25:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717361069817 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | Dragon |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 14:23:10 |
@@ -85,17 +85,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717363327372 |
-| Players | 1/10 |
-| Host Name | ken |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 14:26:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28495717363400965 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Rambod D. Luffy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 14:27:04 |
@@ -103,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28495717363233062 |
+| Lobby ID | 28495717363603659 |
 | Players | 2/5 |
 | Host Name | Anxiety |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 14:26:47 |
+| Lobby Creation Time | Monday, October 30, 2023 14:27:24 |
 
 
