@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717390584609 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | equilibrium |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 15:12:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717391309209 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Ярик Добрый |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 15:13:43 |
@@ -56,13 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 15:13:47 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717391022878 |
+| Lobby ID | 28495717391479814 |
+| Players | 4/10 |
+| Host Name | Rambod D. Luffy |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 15:14:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717391475578 |
 | Players | 1/10 |
-| Host Name | Антонио Еблэнас |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 15:13:17 |
+| Host Name | DisLegends |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 15:14:00 |
 
 
 |  | epic_boss_fight_normal |
@@ -72,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Amveil Stix Nice |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 15:13:29 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495717391497420 |
+| Players | 2/5 |
+| Host Name | B҉     l҉    a҉    c҉    k҉ |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 15:14:02 |
 
 
