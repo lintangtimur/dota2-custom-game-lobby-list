@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717412169626 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Virgo Kyle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 15:46:16 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 15:46:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717412242746 |
-| Players | 11/15 |
-| Host Name | shameonyou |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 15:46:22 |
+| Lobby ID | 28495717412333622 |
+| Players | 2/8 |
+| Host Name | Саня |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 15:46:31 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,27 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717412359618 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ZeNtEx |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 15:46:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495717412333622 |
-| Players | 2/8 |
-| Host Name | Саня |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 15:46:31 |
+| Lobby ID | 28495717410988619 |
+| Players | 5/10 |
+| Host Name | sar-Mirim |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 15:44:29 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495717410988619 |
-| Players | 6/10 |
-| Host Name | sar-Mirim |
+| Lobby ID | 28495717412667691 |
+| Players | 1/10 |
+| Host Name | CMEPTHNK |
 | Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 15:44:29 |
+| Lobby Creation Time | Monday, October 30, 2023 15:47:01 |
 
 
