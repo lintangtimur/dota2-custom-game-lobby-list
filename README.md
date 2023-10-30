@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717645324802 |
-| Players | 14/15 |
-| Host Name | Dude |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 20:21:18 |
+| Lobby ID | 28495717653172900 |
+| Players | 8/15 |
+| Host Name | манук9н |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 20:27:44 |
 
 
 |  | ot3_desert_octet |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 20:23:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717652767716 |
-| Players | 1/15 |
-| Host Name | випказашка <3 |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 20:27:24 |
+| Lobby ID | 28495717650941430 |
+| Players | 3/10 |
+| Host Name | Вася Фармацевт |
+| Region | CHILE |
+| Lobby Creation Time | Monday, October 30, 2023 20:25:54 |
 
 
 |  | ot3_gardens_duo |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717652498260 |
-| Players | 5/8 |
-| Host Name | ♥ ради нее ♥ |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, October 30, 2023 20:27:11 |
+| Lobby ID | 28495717653232630 |
+| Players | 2/8 |
+| Host Name | Another |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 20:27:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,49 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 20:20:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717643696215 |
-| Players | 22/24 |
-| Host Name | Raul.nsk |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 20:19:57 |
+| Lobby ID | 28495717653489338 |
+| Players | 1/15 |
+| Host Name | 雨 |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 20:28:00 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717651896520 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Писенюх |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 20:26:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717653232630 |
-| Players | 2/8 |
-| Host Name | Another |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 20:27:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717650941430 |
-| Players | 3/10 |
-| Host Name | Вася Фармацевт |
-| Region | CHILE |
-| Lobby Creation Time | Monday, October 30, 2023 20:25:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717653172900 |
-| Players | 4/15 |
-| Host Name | манук9н |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 20:27:44 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -155,48 +128,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 20:10:03 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495717651612039 |
-| Players | 1/5 |
-| Host Name | mrmusaev20 |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, October 30, 2023 20:26:27 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717652575661 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | 728Q |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, October 30, 2023 20:27:15 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28495717653129591 |
-| Players | 1/7 |
-| Host Name | 1dR!$ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 20:27:42 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495717653324441 |
-| Players | 1/5 |
-| Host Name | ITS_SHOWTIME |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 20:27:52 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495717653350645 |
-| Players | 1/10 |
-| Host Name | 维他命A |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 20:27:53 |
 
 
