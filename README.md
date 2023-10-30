@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717227711494 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Puerco araña |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 10:08:32 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717226617256 |
-| Players | 8/15 |
-| Host Name | Paxlee |
+| Players | 7/15 |
+| Host Name | cat eats noodles |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 10:06:31 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717226558254 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Wake up to reality |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 10:06:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717228296385 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | MasonLayble |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 10:09:37 |
@@ -104,10 +104,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717228057396 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Привет,Андрей |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 10:09:11 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717228530438 |
+| Players | 1/24 |
+| Host Name | Droguito |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 10:10:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717228547050 |
+| Players | 1/15 |
+| Host Name | GATO |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 10:10:05 |
 
 
 |  | epic_boss_fight_nightmare |
