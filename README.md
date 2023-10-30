@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717242676100 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | MasonLayble |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 10:36:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717242191442 |
-| Players | 9/10 |
+| Players | 10/10 |
 | Host Name | Muy Malo |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 10:35:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717243327838 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Mr.MillF |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 10:37:53 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717242724579 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Mel Gibson |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 10:36:45 |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 10:38:22 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717243690138 |
-| Players | 1/15 |
-| Host Name | Merc |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 10:38:35 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717243759017 |
@@ -110,28 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 10:38:43 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717243856925 |
-| Players | 2/8 |
-| Host Name | DIEGUIÑO |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 10:38:54 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717243860479 |
-| Players | 5/15 |
-| Host Name | Mana Bruh |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 10:38:54 |
+| Lobby ID | 28495717243945595 |
+| Players | 1/15 |
+| Host Name | Merc |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 10:39:04 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717238777267 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | KhalilMeister |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 10:29:18 |
