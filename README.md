@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717261376185 |
-| Players | 8/10 |
-| Host Name | Josecarlino |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 11:13:54 |
+| Lobby ID | 28495717261982316 |
+| Players | 5/8 |
+| Host Name | Crow |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 11:15:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,13 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 11:13:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717261982316 |
-| Players | 5/8 |
-| Host Name | Crow |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 11:15:07 |
+| Lobby ID | 28495717262432724 |
+| Players | 1/10 |
+| Host Name | broskiii |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 11:16:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717262444064 |
+| Players | 1/10 |
+| Host Name | ♥Miul♥ |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 11:16:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,15 +144,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mech ga wa tea |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 11:15:06 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495717262081561 |
-| Players | 1/10 |
-| Host Name | Backdoor Enjoyer |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 11:15:19 |
 
 
 |  | epic_boss_fight_normal |
