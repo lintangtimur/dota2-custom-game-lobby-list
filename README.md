@@ -29,22 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 06:48:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717244693491 |
-| Players | 9/10 |
-| Host Name | ⌐◨-◨ |
+| Lobby ID | 28495717247557275 |
+| Players | 1/15 |
+| Host Name | JrY |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 10:40:29 |
+| Lobby Creation Time | Monday, October 30, 2023 10:46:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717245768915 |
-| Players | 8/10 |
-| Host Name | 123 |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 10:42:35 |
+| Lobby ID | 28495717247524767 |
+| Players | 2/8 |
+| Host Name | www.twitch.tv/eltiosilencer |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 10:46:00 |
 
 
 |  | epic_boss_fight_challenger |
@@ -63,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | -Faceless |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 10:43:59 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495717247570985 |
+| Players | 1/10 |
+| Host Name | under |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 10:46:05 |
 
 
