@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717171458623 |
-| Players | 9/10 |
-| Host Name | SUN ♥ |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 08:20:14 |
+| Lobby ID | 28495717172963898 |
+| Players | 9/15 |
+| Host Name | Nevalyashka |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 08:23:02 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717172663815 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | AyEfKay |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 08:22:28 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717171679736 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | ... |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 08:20:38 |
@@ -47,58 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 06:48:54 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717172475806 |
-| Players | 1/10 |
-| Host Name | NARBERAL GAMA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 08:22:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717172938735 |
-| Players | 2/8 |
-| Host Name | я всё потерял... вс |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 08:23:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717171148987 |
-| Players | 8/10 |
-| Host Name | `ÐieHÃRÐ´ |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 08:19:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717171493037 |
-| Players | 2/10 |
-| Host Name | Laokun |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 08:20:18 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717172775005 |
-| Players | 9/24 |
-| Host Name | BLEHHHHH :P |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 08:22:41 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717172963898 |
-| Players | 10/15 |
-| Host Name | Nevalyashka |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 08:23:02 |
+| Lobby ID | 28495717173769753 |
+| Players | 7/15 |
+| Host Name | бананчик( |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 08:24:34 |
 
 
 |  | epic_boss_fight_nightmare |
