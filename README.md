@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717131319024 |
-| Players | 14/15 |
-| Host Name | Nexro |
+| Lobby ID | 28495717131666964 |
+| Players | 3/10 |
+| Host Name | Takashi |
 | Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 07:00:06 |
+| Lobby Creation Time | Monday, October 30, 2023 07:01:03 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717130295041 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Pipilin |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 06:57:39 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717130318236 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | Sant.W |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 06:57:43 |
@@ -110,19 +110,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 07:00:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717131620419 |
-| Players | 6/10 |
-| Host Name | Coach |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 07:00:56 |
+| Lobby ID | 28495717129684966 |
+| Players | 23/24 |
+| Host Name | Spawn[] |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 06:56:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717131694223 |
+| Players | 2/8 |
+| Host Name | ЧиМиЧаНгА |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 07:01:07 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717129705066 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Ezmurf |
 | Region | CHILE |
 | Lobby Creation Time | Monday, October 30, 2023 06:56:14 |
