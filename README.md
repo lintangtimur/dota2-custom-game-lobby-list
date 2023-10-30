@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717294771318 |
-| Players | 4/15 |
-| Host Name | 𝑆𝑒𝑐𝑟𝑒𝑡 |
+| Lobby ID | 28495717292441950 |
+| Players | 21/24 |
+| Host Name | -_^ |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 12:19:11 |
+| Lobby Creation Time | Monday, October 30, 2023 12:14:41 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,34 +32,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717294516635 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Gatosor |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 12:18:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717293291389 |
-| Players | 1/10 |
-| Host Name | Born from blood dies from cringe |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 12:16:20 |
+| Lobby ID | 28495717294457319 |
+| Players | 7/15 |
+| Host Name | СиловИч |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 12:18:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717292441950 |
-| Players | 21/24 |
-| Host Name | -_^ |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 12:14:41 |
+| Lobby ID | 28495717294480215 |
+| Players | 1/15 |
+| Host Name | Dragon |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 12:18:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717293180785 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | TicTac |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 12:16:07 |
@@ -81,24 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | El chipirón enrojao |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 12:18:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717294457319 |
-| Players | 6/15 |
-| Host Name | СиловИч |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 12:18:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717294480215 |
-| Players | 1/15 |
-| Host Name | Dragon |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 12:18:37 |
 
 
 |  | epic_boss_fight_normal |
