@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717322450341 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | JeOS |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 13:14:03 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717320965899 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 13:11:11 |
@@ -56,13 +56,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 13:15:02 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717322003686 |
-| Players | 1/10 |
-| Host Name | Kiddo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 13:13:13 |
+| Lobby ID | 28495717323262553 |
+| Players | 1/8 |
+| Host Name | Moon |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 13:15:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717323386249 |
+| Players | 5/15 |
+| Host Name | Good2cu |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 13:15:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717323415615 |
+| Players | 1/15 |
+| Host Name | NoWind |
+| Region | PWTELECOMGUANGZHOU |
+| Lobby Creation Time | Monday, October 30, 2023 13:15:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717322923272 |
+| Players | 6/8 |
+| Host Name | L-A-K-E-R |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 13:14:59 |
 
 
 |  | epic_boss_fight_normal |
@@ -72,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Efraim |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 13:14:19 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495717323264639 |
+| Players | 1/10 |
+| Host Name | Kiddo |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 13:15:40 |
 
 
