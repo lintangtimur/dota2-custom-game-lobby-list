@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717267904671 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | Ferrot |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 11:26:49 |
@@ -31,74 +31,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717262012892 |
-| Players | 14/15 |
-| Host Name | Bakadura |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 11:15:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717268888915 |
-| Players | 9/10 |
-| Host Name | 𝑆𝑒𝑐𝑟𝑒𝑡 |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 11:28:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717268047898 |
-| Players | 9/10 |
-| Host Name | Rei Aya |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 11:27:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717268390778 |
-| Players | 13/24 |
-| Host Name | Harbinger |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 11:27:47 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717268471643 |
-| Players | 12/24 |
-| Host Name | me and 7 animal vs 16 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 11:27:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717268522628 |
-| Players | 4/10 |
-| Host Name | Hecker |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 11:28:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28495717268858205 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | GT |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 11:28:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717269084909 |
-| Players | 1/15 |
-| Host Name | FLAMEthrow |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 11:29:09 |
+| Lobby ID | 28495717268522628 |
+| Players | 5/10 |
+| Host Name | Hecker |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 11:28:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717268471643 |
+| Players | 13/24 |
+| Host Name | sprie 小可 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 11:27:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717268390778 |
+| Players | 15/24 |
+| Host Name | Harbinger |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 11:27:47 |
 
 
 |  | epic_boss_fight_nightmare |
