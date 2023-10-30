@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717220654943 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | RyokoOwO |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 09:55:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717221417273 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | xoxo |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 09:56:52 |
@@ -47,40 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 09:55:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717220818113 |
-| Players | 1/8 |
-| Host Name | Dirty Deedz |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 09:55:44 |
+| Lobby ID | 28495717221650737 |
+| Players | 3/10 |
+| Host Name | BulletGap |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 09:57:17 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717221271669 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | I.G |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 09:56:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717221102191 |
-| Players | 7/15 |
-| Host Name | Thermite |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 09:56:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717221356021 |
-| Players | 1/8 |
-| Host Name | Robin serio |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:56:45 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,12 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 09:56:46 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717221356021 |
+| Players | 1/8 |
+| Host Name | Robin serio |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 09:56:45 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717221040204 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | monday left me broken cat |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 09:56:09 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495717221879756 |
+| Players | 1/10 |
+| Host Name | 偉大なLexRuL♥Kunn |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 09:57:43 |
 
 
