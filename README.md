@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717501451381 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | 76561198254294132 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:54:18 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 16:56:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717501317131 |
-| Players | 1/15 |
-| Host Name | niWo |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 17:54:07 |
+| Lobby ID | 28495717501927983 |
+| Players | 8/10 |
+| Host Name | heisenburger |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 17:54:55 |
 
 
 |  | ot3_gardens_duo |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 17:54:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717501979901 |
-| Players | 1/15 |
-| Host Name | ваша доча дотер |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 17:54:59 |
+| Lobby ID | 28495717501923464 |
+| Players | 1/10 |
+| Host Name | You will die |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 17:54:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717501614597 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Arthas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:54:31 |
@@ -110,31 +110,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 17:53:16 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717501927983 |
-| Players | 3/10 |
-| Host Name | heisenburger |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 17:54:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717501923464 |
-| Players | 1/10 |
-| Host Name | You will die |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 17:54:55 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717497207248 |
-| Players | 14/15 |
-| Host Name | Kubrick Stare |
+| Lobby ID | 28495717502114028 |
+| Players | 1/15 |
+| Host Name | Brankinater |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 17:55:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717502151109 |
+| Players | 2/10 |
+| Host Name | 666 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 17:48:42 |
+| Lobby Creation Time | Monday, October 30, 2023 17:55:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717502148290 |
+| Players | 1/10 |
+| Host Name | !Bohemia |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 17:55:12 |
 
 
 |  | epic_boss_fight_nightmare |
