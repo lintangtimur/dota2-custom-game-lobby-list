@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717290169239 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | 櫛枝 実乃梨 |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 12:10:19 |
@@ -54,33 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Muy Malo |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 12:06:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717286558227 |
-| Players | 7/8 |
-| Host Name | MIDAS + TRAVELS = WIN IN LOW ELO |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 12:03:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717290825910 |
-| Players | 6/10 |
-| Host Name | Guadianeitor.giordota.com |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 12:11:35 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495717290358183 |
-| Players | 4/5 |
-| Host Name | Deja Vu |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 12:10:41 |
 
 
 |  | epic_boss_fight_nightmare |
