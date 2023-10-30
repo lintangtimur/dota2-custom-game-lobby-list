@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717375432309 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | †РайскийВолк† |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 14:46:52 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717375897123 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | 聚光灯往哪儿打 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 14:47:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717371271037 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Me tocan ratas en mi equipo} |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 14:40:01 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717361976006 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | hi |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 14:24:41 |
@@ -85,11 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717376077536 |
-| Players | 1/15 |
-| Host Name | dooMix |
+| Lobby ID | 28495717376112608 |
+| Players | 4/15 |
+| Host Name | Vinnie Jones |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 14:48:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717376208123 |
+| Players | 1/8 |
+| Host Name | ULYA |
 | Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 14:47:57 |
+| Lobby Creation Time | Monday, October 30, 2023 14:48:10 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Камень |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 14:45:20 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495717375458175 |
-| Players | 9/10 |
-| Host Name | ⋨Key*Sha⋩ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 14:46:55 |
 
 
