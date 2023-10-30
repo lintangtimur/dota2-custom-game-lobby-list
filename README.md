@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 10:17:50 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717231225326 |
-| Players | 9/10 |
-| Host Name | Apóstol de Maian Verre |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 10:15:02 |
+| Lobby ID | 28495717232868243 |
+| Players | 1/24 |
+| Host Name | 火上木烧 |
+| Region | PWTELECOMZHEJIANG |
+| Lobby Creation Time | Monday, October 30, 2023 10:18:06 |
 
 
 |  | epic_boss_fight_nightmare |
