@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717509555518 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | $WAAAAAG |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:04:46 |
@@ -58,29 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717506643664 |
-| Players | 7/8 |
-| Host Name | КОРЕЙКА ДАША |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 18:01:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717513348764 |
-| Players | 7/10 |
-| Host Name | ghostwhite |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 18:09:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717513159705 |
-| Players | 3/8 |
-| Host Name | badddd |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 18:09:16 |
+| Lobby ID | 28495717513823198 |
+| Players | 1/8 |
+| Host Name | CH1naZEs |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 18:10:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -94,19 +76,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717513610433 |
+| Lobby ID | 28495717513900328 |
 | Players | 1/15 |
-| Host Name | mura666 |
+| Host Name | самба белого мотылька |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 18:09:50 |
+| Lobby Creation Time | Monday, October 30, 2023 18:10:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28495717513738787 |
-| Players | 1/15 |
-| Host Name | ГЦН-195М |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 18:09:59 |
+| Lobby ID | 28495717513785398 |
+| Players | 1/5 |
+| Host Name | Задоджил аборт |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 18:10:03 |
 
 
