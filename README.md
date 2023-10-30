@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717361976006 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | XBOX SERIES Z |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 14:24:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717386275865 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | The GayLord |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 15:05:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717384672857 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ВЫМОГАТЕЛЬ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 15:02:25 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717386336542 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | qqeurtqrwiweq |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 15:05:19 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | InDigo |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 15:05:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717386823207 |
+| Players | 1/8 |
+| Host Name | 111 |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 15:06:09 |
 
 
 |  | epic_boss_fight_nightmare |
