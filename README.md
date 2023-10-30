@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717231128046 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Беззубая ТВарь |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 10:14:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717230748487 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | GATO |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 10:14:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717230153040 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Glue Sommelier |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 10:13:04 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 10:15:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717231614691 |
-| Players | 4/8 |
-| Host Name | TU VIEJA LA PALO SECO |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 10:15:45 |
+| Lobby ID | 28495717231708713 |
+| Players | 4/10 |
+| Host Name | ゲイ |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 10:15:56 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717231169093 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Amaraki |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 10:14:56 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717231327508 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ВЫ В ОПАСНОСТИ。 |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 10:15:14 |
@@ -114,7 +114,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28495717231289327 |
 | Players | 2/10 |
-| Host Name | C A S S I A |
+| Host Name | JL'Esperance |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 10:15:09 |
 
