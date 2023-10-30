@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717210574108 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 09:36:37 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717212146481 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Jens |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 09:39:34 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 06:48:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717212405634 |
-| Players | 1/8 |
-| Host Name | The Manjares |
+| Lobby ID | 28495717213031912 |
+| Players | 7/10 |
+| Host Name | BulletGap |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:40:03 |
+| Lobby Creation Time | Monday, October 30, 2023 09:41:13 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717212201226 |
-| Players | 12/24 |
+| Players | 22/24 |
 | Host Name | Chupete |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 09:39:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717211927527 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Dejame mid Soy Sideral |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 09:39:09 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717210360625 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | Syberian Huskar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 09:36:13 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717212137430 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | DPGaming |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 09:39:33 |
