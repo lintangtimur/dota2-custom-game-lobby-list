@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717542537267 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | 蓝胖舌吻双头龙 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:43:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717541030873 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | скотобойня |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:42:09 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717544151359 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | писядва |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:45:36 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717544380905 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | i hate world |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 18:45:51 |
@@ -128,13 +128,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 18:45:48 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717544654889 |
+| Players | 3/15 |
+| Host Name | JS |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 18:46:09 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717544585892 |
+| Lobby ID | 28495717544649499 |
 | Players | 1/10 |
-| Host Name | 為什麼你很爛 |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 18:46:04 |
+| Host Name | trash teammate |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 18:46:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717544742916 |
+| Players | 1/15 |
+| Host Name | Nutter! |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, October 30, 2023 18:46:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -180,5 +198,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | XXIII |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 18:45:48 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28495717544665007 |
+| Players | 2/7 |
+| Host Name | 1331 |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 18:46:09 |
 
 
