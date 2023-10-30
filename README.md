@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717563911217 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Gallo-24 |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 19:06:46 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717543031749 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | MUTANTxGOD |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 18:44:22 |
@@ -47,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 19:08:58 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717565436141 |
-| Players | 3/8 |
-| Host Name | пазволте |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 19:08:20 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717561674957 |
-| Players | 13/15 |
-| Host Name | ザ-グレイテスト |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 19:04:28 |
+| Lobby ID | 28495717566261427 |
+| Players | 9/15 |
+| Host Name | Sandstorm |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 19:09:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717567017859 |
+| Players | 3/10 |
+| Host Name | -600 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, October 30, 2023 19:09:58 |
 
 
 |  | ot3_gardens_duo |
@@ -77,64 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717563283897 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | [is:playername] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 19:06:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717566107085 |
-| Players | 2/10 |
-| Host Name | YASUMURA【安村】 |
+| Lobby ID | 28495717566877563 |
+| Players | 4/8 |
+| Host Name | ouxish |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 19:09:02 |
+| Lobby Creation Time | Monday, October 30, 2023 19:09:49 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717566151750 |
-| Players | 2/8 |
-| Host Name | прокладка Дуче |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 19:09:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717566173173 |
-| Players | 2/10 |
-| Host Name | Nevermine! |
-| Region | CHILE |
-| Lobby Creation Time | Monday, October 30, 2023 19:09:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717566313282 |
-| Players | 1/10 |
-| Host Name | ДЖОН СИЛЬВЕР |
+| Lobby ID | 28495717566996039 |
+| Players | 6/8 |
+| Host Name | Страшный Руин |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 19:09:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717566261427 |
-| Players | 1/15 |
-| Host Name | Sandstorm |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 19:09:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717566341415 |
-| Players | 2/10 |
-| Host Name | Тайлер Дырдырчик |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 19:09:16 |
+| Lobby Creation Time | Monday, October 30, 2023 19:09:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -148,19 +112,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495717563589918 |
-| Players | 1/10 |
-| Host Name | свиня джакузі |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 19:06:26 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28495717566261490 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Beaned |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, October 30, 2023 19:09:11 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495717566406563 |
+| Players | 1/5 |
+| Host Name | свиня джакузі |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 19:09:20 |
 
 
