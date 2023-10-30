@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717338410376 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Nexro |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 13:43:59 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ACC for practice |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 13:44:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717338130997 |
+| Players | 7/8 |
+| Host Name | babahhh |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 13:43:29 |
 
 
 |  | epic_boss_fight_nightmare |
