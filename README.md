@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717642315808 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | LOOKMYSKILL |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, October 30, 2023 20:18:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717642611285 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Emberfrost5 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 20:19:02 |
@@ -104,55 +104,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717643622802 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Pivo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, October 30, 2023 20:19:53 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717643668919 |
-| Players | 1/15 |
-| Host Name | yuchisan |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 20:19:56 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717643696215 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Топ 100 Антарктиды |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, October 30, 2023 20:19:57 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717643766112 |
+| Players | 1/8 |
+| Host Name | OREKI |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 20:20:00 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717643705760 |
+| Lobby ID | 28495717643934718 |
 | Players | 1/15 |
 | Host Name | Und3rC0ntr0l |
 | Region | BRAZIL |
-| Lobby Creation Time | Monday, October 30, 2023 20:19:57 |
+| Lobby Creation Time | Monday, October 30, 2023 20:20:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717643941772 |
+| Players | 1/8 |
+| Host Name | R0flanPominki |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 20:20:09 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717640793560 |
-| Players | 4/10 |
-| Host Name | ジェース |
+| Players | 2/10 |
+| Host Name | Thin.King |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 20:17:31 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495717636312710 |
-| Players | 9/10 |
-| Host Name | دглист c greн0i |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 20:13:46 |
 
 
 |  | epic_boss_fight_nightmare |
