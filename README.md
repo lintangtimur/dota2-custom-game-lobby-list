@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717506486124 |
-| Players | 2/10 |
-| Host Name | ent |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 18:00:51 |
+| Lobby ID | 28495717494635408 |
+| Players | 5/8 |
+| Host Name | BootyHunter |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 17:45:13 |
 
 
 |  | ot3_jungle_quintet |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 16:56:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717505640619 |
-| Players | 8/15 |
-| Host Name | marvin |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 17:59:44 |
+| Lobby ID | 28495717498429228 |
+| Players | 6/24 |
+| Host Name | AINGMAH :( |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 17:50:20 |
 
 
 |  | ot3_gardens_duo |
@@ -65,22 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 18:00:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717498429228 |
-| Players | 6/24 |
-| Host Name | AINGMAH :( |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 17:50:20 |
+| Lobby ID | 28495717506607534 |
+| Players | 1/10 |
+| Host Name | arte |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 18:01:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717506621832 |
+| Players | 7/15 |
+| Host Name | cross and inshallah |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 18:01:01 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717494635408 |
-| Players | 4/8 |
-| Host Name | BootyHunter |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 17:45:13 |
+| Lobby ID | 28495717506643664 |
+| Players | 1/8 |
+| Host Name | dotu ude lini |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 18:01:03 |
 
 
 |  | epic_boss_fight_nightmare |
