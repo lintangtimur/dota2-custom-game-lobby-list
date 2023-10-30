@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717294516635 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Gatosor |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 12:18:41 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717293291389 |
-| Players | 2/10 |
-| Host Name | Wws |
+| Players | 1/10 |
+| Host Name | Born from blood dies from cringe |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 12:16:20 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717293180785 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | TicTac |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 12:16:07 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717294457319 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | СиловИч |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 12:18:34 |
