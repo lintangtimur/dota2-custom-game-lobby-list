@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717298717882 |
-| Players | 1/24 |
-| Host Name | RiftBreaker |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 12:26:52 |
+| Lobby ID | 28495717308171979 |
+| Players | 7/15 |
+| Host Name | Bakadura |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 12:45:23 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717310419219 |
-| Players | 7/24 |
+| Players | 19/24 |
 | Host Name | 櫛枝 実乃梨 |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 12:49:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717309187834 |
-| Players | 1/10 |
-| Host Name | `ÐieHÃRÐ´ |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 12:47:23 |
+| Lobby ID | 28495717309836413 |
+| Players | 19/24 |
+| Host Name | King |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 12:48:40 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717309354333 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | harosh ponosovich |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 12:47:43 |
@@ -58,29 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717309574105 |
-| Players | 6/8 |
-| Host Name | Ubuntu |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, October 30, 2023 12:48:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717308171979 |
-| Players | 4/15 |
-| Host Name | Deivid Aldair |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 12:45:23 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717309836413 |
-| Players | 8/24 |
-| Host Name | NothingFeelsRight |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 12:48:40 |
+| Lobby ID | 28495717311012364 |
+| Players | 1/8 |
+| Host Name | Ах*евший Байкер |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 12:50:59 |
 
 
 |  | epic_boss_fight_nightmare |
