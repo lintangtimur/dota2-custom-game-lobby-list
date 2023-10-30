@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717361976006 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | hi |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 14:24:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717378962453 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Rambod D. Luffy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 14:52:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717377437112 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | 卿如雾里花 |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 14:50:12 |
@@ -77,25 +77,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717379189304 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | ♥ ради нее ♥ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 14:53:07 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717378149251 |
-| Players | 7/10 |
-| Host Name | xipaspasp |
+| Lobby ID | 28495717379401854 |
+| Players | 8/24 |
+| Host Name | ArtoftheStateAT |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 14:51:23 |
+| Lobby Creation Time | Monday, October 30, 2023 14:53:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717379563707 |
+| Players | 1/15 |
+| Host Name | аРБУЗ |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 14:53:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717379622950 |
+| Players | 1/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 14:53:50 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717378945283 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | •Cyber Gnoy |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 14:52:43 |
