@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717831135855 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | Elinbarrage |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 22:54:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717839539166 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | equilibrium |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 23:02:30 |
@@ -92,20 +92,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 23:00:09 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717835385554 |
-| Players | 22/24 |
-| Host Name | An Opportunity |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 22:58:34 |
+| Lobby ID | 28495717840205550 |
+| Players | 1/8 |
+| Host Name | kurumi |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 23:03:08 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717839950795 |
-| Players | 1/8 |
-| Host Name | average women avoider |
+| Players | 5/8 |
+| Host Name | Atsushi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 23:02:53 |
 
@@ -113,19 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717835952220 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 22:59:05 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717837523274 |
-| Players | 22/24 |
-| Host Name | PRISIONERO LINDO LINDO |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 23:00:33 |
+| Lobby ID | 28495717840188687 |
+| Players | 8/10 |
+| Host Name | Talgat |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 23:03:07 |
 
 
 |  | ot3_gardens_duo |
@@ -209,19 +209,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 23:02:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717839898325 |
-| Players | 1/15 |
-| Host Name | GATO |
+| Lobby ID | 28495717840140542 |
+| Players | 2/10 |
+| Host Name | Snip snip |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 23:02:50 |
+| Lobby Creation Time | Monday, October 30, 2023 23:03:04 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717771071216 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | MagiX |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 22:02:35 |
@@ -238,29 +238,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717839890068 |
-| Players | 2/15 |
-| Host Name | ᴵᵏᵃʳᶦ |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 23:02:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717839993824 |
-| Players | 1/15 |
-| Host Name | Zero |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 23:02:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717840064798 |
-| Players | 2/10 |
-| Host Name | ШаЙлУшАй |
+| Lobby ID | 28495717840111389 |
+| Players | 5/15 |
+| Host Name | Parkur TV |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 23:03:00 |
+| Lobby Creation Time | Monday, October 30, 2023 23:03:03 |
 
 
 |  | epic_boss_fight_hard |
@@ -293,7 +275,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717836362031 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | God Of Noob |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 22:59:27 |
