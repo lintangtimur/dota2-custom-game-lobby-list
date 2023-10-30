@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717357647710 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | LO VI EN UNA GUÍA DE SMASH |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 14:17:24 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717366590517 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Red John |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 14:32:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717364009395 |
-| Players | 17/24 |
-| Host Name | 大炮 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 14:28:04 |
+| Lobby ID | 28495717368103334 |
+| Players | 1/8 |
+| Host Name | ravenpoe |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 14:34:52 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,46 +74,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 14:24:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717365344365 |
-| Players | 2/8 |
-| Host Name | Punisher PMA |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 14:30:19 |
+| Lobby ID | 28495717367739289 |
+| Players | 1/15 |
+| Host Name | enjoyer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 14:34:16 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717367266166 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | 鈴屋十三 |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 14:33:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717367610102 |
-| Players | 1/15 |
-| Host Name | Waldemar |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 14:34:03 |
+| Lobby ID | 28495717367765902 |
+| Players | 4/10 |
+| Host Name | KarmaSH |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 14:34:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717367866297 |
+| Players | 1/8 |
+| Host Name | Shroom |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 14:34:28 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717367703687 |
+| Lobby ID | 28495717368157952 |
 | Players | 1/15 |
-| Host Name | Ivashka |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 14:34:12 |
+| Host Name | 🤪🚼😈 |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 14:34:57 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717364550621 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Tony Montana |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 14:28:59 |
