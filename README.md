@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717235701780 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | 翠流 |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 10:23:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717234877437 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | ✪ [W]_love ✪ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 10:21:54 |
@@ -76,35 +76,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717237087247 |
-| Players | 1/8 |
-| Host Name | BMKM |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 10:26:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717237077295 |
-| Players | 1/8 |
-| Host Name | maseto |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 10:26:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717237082345 |
+| Lobby ID | 28495717237104991 |
 | Players | 6/8 |
-| Host Name | leonardocllc64 |
+| Host Name | Hocus Pocus |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 10:26:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717237168914 |
+| Players | 1/8 |
+| Host Name | 葉王・朝倉 |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 10:26:05 |
+| Lobby Creation Time | Monday, October 30, 2023 10:26:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717237172134 |
+| Players | 1/15 |
+| Host Name | Capitan Capibara |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 10:26:15 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717234410399 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Catador de Conchas |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 10:21:01 |
