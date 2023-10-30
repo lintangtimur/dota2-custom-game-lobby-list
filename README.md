@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717410403518 |
-| Players | 6/15 |
-| Host Name | lostrofl |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 15:43:37 |
+| Lobby ID | 28495717411804193 |
+| Players | 1/8 |
+| Host Name | adiós payasos. |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 15:45:43 |
 
 
 |  | ot3_jungle_quintet |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717410819644 |
-| Players | 5/8 |
-| Host Name | Colours |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, October 30, 2023 15:44:14 |
+| Lobby ID | 28495717411333577 |
+| Players | 2/8 |
+| Host Name | бабакар |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 15:45:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 15:40:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717410381253 |
-| Players | 5/15 |
-| Host Name | А КОГДА НЕ? |
+| Lobby ID | 28495717411742544 |
+| Players | 1/8 |
+| Host Name | мефендронщица |
 | Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 15:43:35 |
+| Lobby Creation Time | Monday, October 30, 2023 15:45:38 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,52 +68,61 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717410169773 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | Almond Butter Honey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 15:43:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717410054457 |
-| Players | 7/10 |
-| Host Name | EBLOX |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 15:43:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717411333577 |
-| Players | 1/8 |
-| Host Name | бабакар |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 15:45:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717411330224 |
-| Players | 1/8 |
-| Host Name | Жаби Жаби |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 15:45:00 |
+| Lobby ID | 28495717411825654 |
+| Players | 1/15 |
+| Host Name | GREEL |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 15:45:45 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717411444064 |
-| Players | 3/15 |
-| Host Name | ??? |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 15:45:10 |
+| Lobby ID | 28495717411840751 |
+| Players | 2/15 |
+| Host Name | Ethereal |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 15:45:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717411894582 |
+| Players | 1/8 |
+| Host Name | Begulik |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 15:45:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717411912746 |
+| Players | 1/8 |
+| Host Name | Electro Zaza |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 15:45:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717411937296 |
+| Players | 1/15 |
+| Host Name | FearSoul |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 15:45:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717410988619 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | sar-Mirim |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 15:44:29 |
@@ -130,10 +139,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28495717411440276 |
+| Lobby ID | 28495717411881860 |
 | Players | 1/5 |
-| Host Name | CMEPTHNK |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 15:45:10 |
+| Host Name | фира |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 15:45:50 |
 
 
