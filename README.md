@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717286558227 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | MIDAS + TRAVELS = WIN IN LOW ELO |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 12:03:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717287240435 |
-| Players | 9/10 |
-| Host Name | harosh ponosovich |
+| Lobby ID | 28495717287824952 |
+| Players | 7/8 |
+| Host Name | че |
 | Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 12:04:37 |
+| Lobby Creation Time | Monday, October 30, 2023 12:05:44 |
 
 
 |  | ot3_jungle_quintet |
@@ -99,24 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | витя пчолкин) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 12:05:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717287824952 |
-| Players | 5/8 |
-| Host Name | че |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 12:05:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717287035441 |
-| Players | 9/10 |
-| Host Name | . |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 12:04:13 |
 
 
 |  | epic_boss_fight_nightmare |
