@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717438973877 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Kreoneo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 16:25:15 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717438587197 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | Almond Butter Honey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 16:24:42 |
@@ -103,11 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717439068831 |
-| Players | 6/8 |
-| Host Name | ИЛЬЯС |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 16:25:23 |
+| Lobby ID | 28495717439485918 |
+| Players | 2/8 |
+| Host Name | Крутая Сигма |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, October 30, 2023 16:25:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717439461941 |
+| Players | 2/15 |
+| Host Name | depeche mode |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 16:25:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | markus1783 |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 16:23:27 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495717439488588 |
+| Players | 1/5 |
+| Host Name | Bebra Гетто |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, October 30, 2023 16:25:58 |
 
 
