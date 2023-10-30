@@ -6,24 +6,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28495717190339636 |
 | Players | 4/24 |
-| Host Name | imba_red_horse |
+| Host Name | LaGood |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 08:57:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717190556578 |
-| Players | 13/15 |
-| Host Name | ТИММЕЙТЫ МОЛОДЦЫ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 08:57:36 |
+| Lobby ID | 28495717191008449 |
+| Players | 3/15 |
+| Host Name | rozzetti |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 08:58:31 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717189381473 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Weganerd |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 08:55:13 |
@@ -41,37 +41,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717126513259 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | NonaJerman#165 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 06:48:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717189328338 |
-| Players | 6/10 |
-| Host Name | Grumbledorp |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 08:55:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717190225833 |
-| Players | 7/8 |
-| Host Name | Батин Член |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 08:56:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717190226474 |
-| Players | 7/8 |
-| Host Name | BanBan |
+| Lobby ID | 28495717188908985 |
+| Players | 23/24 |
+| Host Name | Crunchits |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 08:56:57 |
+| Lobby Creation Time | Monday, October 30, 2023 08:54:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717190461155 |
+| Players | 10/15 |
+| Host Name | Mostachito |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 08:57:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717191053307 |
+| Players | 3/8 |
+| Host Name | y0ngG |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 08:58:36 |
 
 
 |  | ot3_gardens_duo |
@@ -85,35 +85,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717190483800 |
-| Players | 9/15 |
-| Host Name | Angmar King |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, October 30, 2023 08:57:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717190461155 |
+| Lobby ID | 28495717190904852 |
 | Players | 2/15 |
-| Host Name | Mostachito |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 08:57:25 |
+| Host Name | KOKONG |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 08:58:18 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717190743173 |
-| Players | 1/8 |
-| Host Name | Ты сказал семья? |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 08:57:58 |
+| Lobby ID | 28495717191183618 |
+| Players | 3/8 |
+| Host Name | xoxo |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 08:58:52 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495717191049318 |
+| Players | 1/10 |
+| Host Name | under |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 08:58:35 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495717191002983 |
+| Players | 2/10 |
+| Host Name | -Faceless |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 08:58:30 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717186706042 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | El Graznadiento |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 08:49:51 |
