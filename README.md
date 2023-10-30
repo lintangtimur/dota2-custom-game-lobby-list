@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717338274449 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Мамикс |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 13:43:45 |
@@ -83,22 +83,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 13:43:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717338391431 |
-| Players | 1/8 |
-| Host Name | el men |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 13:43:57 |
+| Lobby ID | 28495717338410376 |
+| Players | 2/15 |
+| Host Name | Nexro |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 13:43:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717338429665 |
+| Players | 1/10 |
+| Host Name | Moises |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 13:44:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495717335672998 |
+| Lobby ID | 28495717338314976 |
 | Players | 1/10 |
-| Host Name | 2PaC |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 13:39:00 |
+| Host Name | Zafina |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 13:43:49 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,18 +122,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28495717337617807 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | Myophonus |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 13:42:33 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495717338314976 |
-| Players | 1/10 |
-| Host Name | Zafina |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 13:43:49 |
 
 
