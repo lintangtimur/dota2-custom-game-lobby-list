@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 17:19:32 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717473905386 |
-| Players | 20/24 |
-| Host Name | 友人A |
+| Lobby ID | 28495717473550859 |
+| Players | 1/10 |
+| Host Name | режу раков на 4 к |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 17:16:15 |
+| Lobby Creation Time | Monday, October 30, 2023 17:15:44 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,37 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717477610827 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Yafu |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 17:21:34 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717473550859 |
-| Players | 1/10 |
-| Host Name | режу раков на 4 к |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 17:15:44 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717478700932 |
-| Players | 4/8 |
-| Host Name | absolut милана |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 17:23:05 |
+| Lobby ID | 28495717478794653 |
+| Players | 1/8 |
+| Host Name | 123 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 17:23:13 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717478701619 |
-| Players | 1/10 |
-| Host Name | П_Ё_С |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 17:23:05 |
+| Lobby ID | 28495717478816658 |
+| Players | 2/10 |
+| Host Name | waurma |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 17:23:15 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717478819293 |
+| Players | 1/24 |
+| Host Name | joemaru. |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 17:23:15 |
 
 
 |  | epic_boss_fight_hard |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Solo Dr. Zola |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:20:10 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28495717478692308 |
-| Players | 2/7 |
-| Host Name | LGD.NothingToSay |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, October 30, 2023 17:23:04 |
 
 
