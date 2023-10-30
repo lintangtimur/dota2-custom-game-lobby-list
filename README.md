@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717455594965 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | I$uss |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 16:49:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717455538970 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | T.T |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 16:49:00 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Baron Afanas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 16:45:39 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28495717456240135 |
+| Players | 1/7 |
+| Host Name | SouL SlaYer |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, October 30, 2023 16:50:03 |
 
 
