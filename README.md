@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717388335392 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | OVERTHROW 3.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 15:08:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717388589574 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | ★MMXVII |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 15:09:10 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717388401788 |
-| Players | 3/24 |
-| Host Name | Punisher PMA |
+| Players | 2/24 |
+| Host Name | sitematoeresgay |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 15:08:51 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717389235302 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | bahcheeeparis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 15:10:16 |
