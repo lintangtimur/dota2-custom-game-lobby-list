@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717230060568 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Wu Gensheng |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 10:12:54 |
@@ -41,34 +41,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717230198203 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | Nexro |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 10:13:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717230140831 |
-| Players | 3/8 |
-| Host Name | гойда Z |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 10:13:03 |
+| Lobby ID | 28495717230426459 |
+| Players | 4/10 |
+| Host Name | ◥꧁ད꧁༒༺ŁØBØ༻༒ |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 10:13:35 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717228057396 |
-| Players | 1/15 |
-| Host Name | Привет,Андрей |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 10:09:11 |
+| Lobby ID | 28495717230186446 |
+| Players | 12/15 |
+| Host Name | Mostachito |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 10:13:08 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717230128718 |
-| Players | 2/24 |
+| Players | 7/24 |
 | Host Name | 想一起玩de请删好友 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 10:13:01 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717230153040 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Glue Sommelier |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 10:13:04 |
@@ -92,21 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 10:13:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717230186446 |
-| Players | 5/15 |
-| Host Name | Mostachito |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 10:13:08 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717228530438 |
-| Players | 23/24 |
-| Host Name | Droguito |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 10:10:03 |
+| Lobby ID | 28495717230345105 |
+| Players | 4/8 |
+| Host Name | GULPING seamonkies by the GALLON |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 10:13:26 |
 
 
