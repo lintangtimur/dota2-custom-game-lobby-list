@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717557394232 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | мяу мяу мяу |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 18:59:52 |
@@ -113,34 +113,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717563203903 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | ghostwhite |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, October 30, 2023 19:06:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717563213483 |
-| Players | 1/15 |
-| Host Name | re-l |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 19:06:03 |
+| Lobby ID | 28495717563338775 |
+| Players | 2/8 |
+| Host Name | Gallo-24 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 19:06:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717563290045 |
-| Players | 1/15 |
-| Host Name | A week without drugs |
-| Region | BRAZIL |
+| Lobby ID | 28495717563283897 |
+| Players | 1/24 |
+| Host Name | [is:playername] |
+| Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 19:06:08 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717563280729 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Aneira ❆ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 19:06:07 |
@@ -155,13 +155,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 19:06:08 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717563431731 |
+| Players | 3/15 |
+| Host Name | Feelin' Good |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 19:06:17 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717563283897 |
+| Lobby ID | 28495717563479078 |
 | Players | 1/24 |
-| Host Name | [is:playername] |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 19:06:08 |
+| Host Name | $WAAAAAG |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 19:06:20 |
 
 
 |  | epic_boss_fight_hard |
@@ -180,5 +189,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Montaana |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 19:04:14 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495717563304510 |
+| Players | 1/10 |
+| Host Name | Fey |
+| Region | CHILE |
+| Lobby Creation Time | Monday, October 30, 2023 19:06:09 |
 
 
