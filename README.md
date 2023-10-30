@@ -20,31 +20,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717307033037 |
-| Players | 6/8 |
-| Host Name | баребушек) |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 12:43:10 |
+| Lobby ID | 28495717307172987 |
+| Players | 15/24 |
+| Host Name | me and 7 animal vs 16 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 12:43:27 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717307356069 |
+| Players | 5/24 |
+| Host Name | EduBan |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 12:43:48 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717305643861 |
-| Players | 7/10 |
-| Host Name | ∝  → 3 Knives Knight | |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 12:40:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717306246212 |
-| Players | 10/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 12:41:38 |
+| Lobby ID | 28495717304573122 |
+| Players | 1/10 |
+| Host Name | Biborten! |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 12:38:22 |
 
 
 |  | ot3_gardens_duo |
@@ -56,49 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 12:40:21 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717304573122 |
-| Players | 2/10 |
-| Host Name | эль чача |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 12:38:22 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717306496355 |
-| Players | 1/8 |
-| Host Name | СОЛЕВАЯ МРАЗЬ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 12:42:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717307172987 |
-| Players | 9/24 |
-| Host Name | me and 7 animal vs 16 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 12:43:27 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717307356069 |
-| Players | 2/24 |
-| Host Name | EduBan |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 12:43:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717307494344 |
-| Players | 4/8 |
-| Host Name | СЕРАГА |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 12:44:04 |
+| Lobby ID | 28495717307888100 |
+| Players | 3/8 |
+| Host Name | ponchager |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 12:44:50 |
 
 
 |  | epic_boss_fight_nightmare |
