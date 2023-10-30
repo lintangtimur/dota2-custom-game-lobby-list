@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717559626624 |
-| Players | 13/15 |
-| Host Name | bahcheeeparis |
+| Lobby ID | 28495717559834032 |
+| Players | 3/8 |
+| Host Name | патужний |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 19:02:18 |
+| Lobby Creation Time | Monday, October 30, 2023 19:02:31 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717560640481 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | fal'Cie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 19:03:23 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717559579384 |
-| Players | 4/8 |
-| Host Name | Настя |
+| Players | 1/8 |
+| Host Name | F1c |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 19:02:15 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717558867996 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | deal with it. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 19:01:29 |
@@ -99,24 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | arhikent |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 19:03:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717559834032 |
-| Players | 2/8 |
-| Host Name | патужний |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 19:02:31 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717561178329 |
-| Players | 2/10 |
-| Host Name | SHUTIS |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 19:03:57 |
 
 
 |  | epic_boss_fight_hard |
