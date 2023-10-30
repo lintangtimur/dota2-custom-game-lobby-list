@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717535104232 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Gang-Ьang | дед Эдик |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 18:35:27 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717541030873 |
-| Players | 14/15 |
-| Host Name | YES |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 18:42:09 |
+| Lobby ID | 28495717552861826 |
+| Players | 1/15 |
+| Host Name | F33l Lik3 Dyin |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 18:55:03 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717552657452 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | PerTzo |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, October 30, 2023 18:54:50 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Haze |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 18:53:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717552861826 |
-| Players | 1/15 |
-| Host Name | F33l Lik3 Dyin |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 18:55:03 |
 
 
 |  | epic_boss_fight_nightmare |
