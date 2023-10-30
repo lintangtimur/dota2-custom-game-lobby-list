@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28495717599729526 |
 | Players | 14/15 |
-| Host Name | cute anime girl |
+| Host Name | Clare |
 | Region | CHILE |
 | Lobby Creation Time | Monday, October 30, 2023 19:41:45 |
 
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717598577701 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Finesse |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 19:40:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717602354356 |
-| Players | 1/8 |
-| Host Name | wert413 |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 19:44:09 |
+| Lobby ID | 28495717603511728 |
+| Players | 1/10 |
+| Host Name | хаги вагнер |
+| Region | CHILE |
+| Lobby Creation Time | Monday, October 30, 2023 19:45:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717601651299 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | バットマン |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 19:43:30 |
