@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717458084911 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | PLAY WITH BEER |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 16:52:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717458085226 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 梦醒 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 16:52:48 |
@@ -67,19 +67,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717458329448 |
-| Players | 3/8 |
-| Host Name | Украинская порка |
+| Lobby ID | 28495717458701158 |
+| Players | 4/8 |
+| Host Name | Leviathan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, October 30, 2023 16:53:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717458634352 |
+| Players | 2/10 |
+| Host Name | Кибок |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 16:53:10 |
+| Lobby Creation Time | Monday, October 30, 2023 16:53:37 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717458877919 |
+| Players | 1/10 |
+| Host Name | Dissmac Volt |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 16:53:58 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717458032130 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Tovi - |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 16:52:43 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495717458386087 |
+| Players | 1/5 |
+| Host Name | Moki4 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 16:53:15 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495717458655304 |
+| Players | 1/10 |
+| Host Name | Кустовой монстр |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 16:53:39 |
 
 
