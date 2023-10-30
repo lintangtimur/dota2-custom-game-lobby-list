@@ -85,18 +85,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717262888932 |
-| Players | 2/8 |
-| Host Name | idc |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 11:16:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28495717262930168 |
-| Players | 2/8 |
-| Host Name | yhamas |
+| Players | 1/8 |
+| Host Name | POISON |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 11:17:00 |
 
