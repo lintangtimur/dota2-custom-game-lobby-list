@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 21:08:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717705560082 |
-| Players | 2/15 |
-| Host Name | Dark_H0rse |
+| Lobby ID | 28495717707200940 |
+| Players | 7/8 |
+| Host Name | Im next (bald) TI winner |
 | Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 21:09:52 |
+| Lobby Creation Time | Monday, October 30, 2023 21:11:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717703566674 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Greta Thunberg |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 21:08:15 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717707893039 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | SSK |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 21:11:45 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717707787802 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | 我们几乎要赢了不是吗 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 21:11:40 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717707481016 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Yondaime |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, October 30, 2023 21:11:25 |
@@ -149,19 +149,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717705324960 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | ТрьЯВластелинЕба |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 21:09:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717707200940 |
-| Players | 7/8 |
-| Host Name | Im next (bald) TI winner |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 21:11:12 |
+| Lobby ID | 28495717698507978 |
+| Players | 23/24 |
+| Host Name | Hermano? Ni de mi perro |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 21:04:06 |
 
 
 |  | epic_boss_fight_normal |
@@ -211,11 +211,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28495717707667428 |
-| Players | 1/5 |
-| Host Name | lucker |
-| Region | CHILE |
-| Lobby Creation Time | Monday, October 30, 2023 21:11:34 |
+| Lobby ID | 28495717707959688 |
+| Players | 2/5 |
+| Host Name | / |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 21:11:49 |
 
 
 |  | epic_boss_fight_hard |
@@ -225,32 +225,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 撒尿牛丸 |
 | Region | PWTELECOMSHANGHAI |
 | Lobby Creation Time | Monday, October 30, 2023 21:11:39 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495717707959688 |
-| Players | 1/5 |
-| Host Name | / |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 21:11:49 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495717707970785 |
-| Players | 1/5 |
-| Host Name | узурпатор женской плоти |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 21:11:49 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28495717708013661 |
-| Players | 3/7 |
-| Host Name | горизонтал |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 21:11:51 |
 
 
