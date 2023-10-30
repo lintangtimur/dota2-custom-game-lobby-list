@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717451773317 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Fadealy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 16:43:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717445712734 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Anata Tsukuyomi |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 16:34:51 |
@@ -104,16 +104,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717452858312 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 16:44:59 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717452896337 |
+| Players | 1/8 |
+| Host Name | we |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 16:45:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717452971507 |
+| Players | 1/24 |
+| Host Name | W |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 16:45:10 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717450160455 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ♪ Ragrats-. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 16:41:09 |
