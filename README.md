@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717332187017 |
-| Players | 9/15 |
-| Host Name | ♥ ради нее ♥ |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 13:32:35 |
+| Lobby ID | 28495717333025390 |
+| Players | 9/10 |
+| Host Name | ZEN MODE |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, October 30, 2023 13:34:08 |
 
 
 |  | ot3_jungle_quintet |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717331253833 |
-| Players | 22/24 |
-| Host Name | CYKA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 13:30:52 |
+| Lobby ID | 28495717332809299 |
+| Players | 1/24 |
+| Host Name | swap commends |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 13:33:45 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717331837762 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Muy Malo |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 13:31:57 |
@@ -56,57 +56,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 13:32:02 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717331151164 |
-| Players | 1/15 |
-| Host Name | Dragon |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 13:30:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717332653261 |
-| Players | 2/10 |
-| Host Name | Малыха ^^ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 13:33:27 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717332844321 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | KarmaSH |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 13:33:48 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717332809299 |
-| Players | 1/24 |
-| Host Name | swap commends |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 13:33:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717332976130 |
-| Players | 2/8 |
-| Host Name | T. Spirt Брутальней |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 13:34:03 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495717332066225 |
-| Players | 8/10 |
-| Host Name | MYB11RU |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 13:32:22 |
 
 
