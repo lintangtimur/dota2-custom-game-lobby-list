@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 19:31:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717595482833 |
-| Players | 7/8 |
-| Host Name | 192 |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 19:37:52 |
+| Lobby ID | 28495717595922009 |
+| Players | 4/24 |
+| Host Name | CinderFall |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 19:38:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717596403154 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | ни чего себе |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, October 30, 2023 19:38:43 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | кактак |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 19:28:26 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717595922009 |
-| Players | 2/24 |
-| Host Name | CinderFall |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 19:38:17 |
 
 
 |  | epic_boss_fight_nightmare |
