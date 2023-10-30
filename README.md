@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717259568263 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | 抖音可爱小羊 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 11:10:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717259371553 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Full-Time Griefer |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 11:09:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717260027868 |
-| Players | 1/24 |
+| Players | 6/24 |
 | Host Name | Chupete |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 11:11:13 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717258578714 |
-| Players | 5/8 |
-| Host Name | Dirty Deedz |
+| Players | 4/8 |
+| Host Name | Shaq |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 11:08:15 |
 
@@ -101,10 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 11:11:53 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717260124186 |
+| Players | 7/8 |
+| Host Name | a |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 11:11:24 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717256702719 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Bearmaster  *********** |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, October 30, 2023 11:04:24 |
@@ -113,18 +122,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717260123545 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ☆★Mrs.Panda★☆ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 11:11:24 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495717260399060 |
-| Players | 1/5 |
-| Host Name | ShaniCabx |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 11:11:58 |
 
 
