@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717487831693 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Destroyer of Tartarus Αγάπη |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:35:52 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 17:37:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717487066011 |
-| Players | 7/8 |
-| Host Name | NEOLAX |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 17:34:48 |
+| Lobby ID | 28495717488677687 |
+| Players | 8/10 |
+| Host Name | Flippi Floyd |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 17:37:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,25 +95,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717488469574 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | $WAAAAAG |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, October 30, 2023 17:36:45 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717488677687 |
-| Players | 6/10 |
-| Host Name | Flippi Floyd |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 17:37:02 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717488886733 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | wdym |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:37:20 |
