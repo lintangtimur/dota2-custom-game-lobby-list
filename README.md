@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717494635408 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | waiting for death |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 17:45:13 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 16:56:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717507810554 |
-| Players | 13/15 |
-| Host Name | ZXC_PARMEZAN |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 18:02:32 |
+| Lobby ID | 28495717509017999 |
+| Players | 2/10 |
+| Host Name | Volendrung |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 18:04:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717506240369 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | YouKnowMyName |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:00:31 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717473550859 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:15:44 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717508511394 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | tryhard to be perfect |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 18:03:26 |
@@ -117,6 +117,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | az.trllngfc [KTVS] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:03:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717508960930 |
+| Players | 1/8 |
+| Host Name | Священная Рана |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 18:04:00 |
 
 
 |  | epic_boss_fight_nightmare |
