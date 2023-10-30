@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 16:44:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717449923910 |
-| Players | 1/15 |
-| Host Name | hiro |
+| Lobby ID | 28495717454571540 |
+| Players | 4/8 |
+| Host Name | W1spi |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 16:40:49 |
+| Lobby Creation Time | Monday, October 30, 2023 16:47:34 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717449674649 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | лобанов |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 16:40:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717454473685 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | ₱Ʉ₦₭₴₦Ø₮ĐɆ₳Đ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 16:47:25 |
@@ -101,15 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 16:45:10 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717453903402 |
-| Players | 8/10 |
-| Host Name | Aque- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 16:46:33 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717454530597 |
@@ -119,19 +110,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 16:47:30 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717454571540 |
-| Players | 4/8 |
-| Host Name | W1spi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 16:47:34 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717453297265 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Baron Afanas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 16:45:39 |
