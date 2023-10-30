@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717234877437 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | ✪ [W]_love ✪ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 10:21:54 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717239038230 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | zero |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 10:29:47 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717239146734 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | CRYX |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 10:30:00 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KhalilMeister |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 10:29:18 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28495717234410399 |
+| Players | 9/10 |
+| Host Name | Catador de Conchas |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 10:21:01 |
 
 
