@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717190339636 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | LaGood |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 08:57:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717189381473 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Weganerd |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 08:55:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717190461155 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Mostachito |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 08:57:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717191053307 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | y0ngG |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 08:58:36 |
@@ -92,30 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 08:58:18 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717191716774 |
+| Players | 4/8 |
+| Host Name | Fairday |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 08:59:57 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717191049318 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | under |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 08:58:35 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495717191002983 |
-| Players | 1/10 |
-| Host Name | -Faceless |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 08:58:30 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28495717191669886 |
-| Players | 1/7 |
-| Host Name | Odonata |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 08:59:51 |
 
 
