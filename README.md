@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717225347553 |
-| Players | 12/24 |
+| Players | 17/24 |
 | Host Name | ✪ [W]_love ✪ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 10:04:09 |
@@ -23,34 +23,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717126513259 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | NonaJerman#165 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 06:48:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717227711494 |
-| Players | 12/15 |
-| Host Name | Puerco araña |
+| Lobby ID | 28495717228296385 |
+| Players | 4/8 |
+| Host Name | MasonLayble |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 10:09:37 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717229441596 |
+| Players | 4/24 |
+| Host Name | 123 |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 10:08:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717226617256 |
-| Players | 14/15 |
-| Host Name | cat eats noodles |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 10:06:31 |
+| Lobby Creation Time | Monday, October 30, 2023 10:11:45 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717228671565 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | vibeTGK69 |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 10:10:18 |
@@ -72,33 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Enma悪魔 |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 10:06:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717228296385 |
-| Players | 3/8 |
-| Host Name | MasonLayble |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 10:09:37 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717223666542 |
-| Players | 23/24 |
-| Host Name | RiftBreaker |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 10:01:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717229132773 |
-| Players | 1/10 |
-| Host Name | HALO |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 10:11:10 |
 
 
 |  | epic_boss_fight_nightmare |
