@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717412137874 |
-| Players | 14/24 |
+| Players | 11/24 |
 | Host Name | Flexy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, October 30, 2023 15:46:13 |
@@ -50,37 +50,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717416167612 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | drntmanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 15:52:15 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717417119065 |
-| Players | 9/10 |
-| Host Name | уродец |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, October 30, 2023 15:53:39 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717417247021 |
-| Players | 1/8 |
-| Host Name | ok |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 15:53:51 |
+| Lobby ID | 28495717417423734 |
+| Players | 3/8 |
+| Host Name | Лагман залупа |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 15:54:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717417339345 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | 母亲还活着吗 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 15:53:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717415191966 |
+| Players | 6/8 |
+| Host Name | Ryan Gosling |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 15:50:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717417513445 |
+| Players | 1/10 |
+| Host Name | Shelterダウビ |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 15:54:14 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717415901259 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | moiii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 15:51:51 |
