@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717353127104 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | Styx |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 14:09:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717332809299 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | ENG  AYYASH THE QASSAM MAN |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 13:33:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717351687234 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Rulay |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 14:07:20 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717353169820 |
-| Players | 1/8 |
-| Host Name | Олег_12_пОшЛаЯ |
+| Lobby ID | 28495717352335417 |
+| Players | 3/8 |
+| Host Name | kyoto gyoen |
 | Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 14:09:51 |
+| Lobby Creation Time | Monday, October 30, 2023 14:08:26 |
 
 
 |  | ot3_gardens_duo |
@@ -74,24 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 14:08:24 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717350616431 |
-| Players | 21/24 |
-| Host Name | 青虫叮咚 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 14:05:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717352335417 |
-| Players | 1/8 |
-| Host Name | kyoto gyoen |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 14:08:26 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717353057973 |
@@ -99,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Munes |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 14:09:40 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495717353241902 |
-| Players | 1/5 |
-| Host Name | zeon |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 14:09:58 |
 
 
