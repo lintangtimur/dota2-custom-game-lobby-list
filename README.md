@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717533397175 |
-| Players | 6/8 |
-| Host Name | YURNERO |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 18:33:30 |
+| Lobby ID | 28495717533449260 |
+| Players | 1/15 |
+| Host Name | 香精煎鱼食不食？ |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Monday, October 30, 2023 18:33:34 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717529018459 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:28:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717532706282 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | ХУЛИо |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 18:32:42 |
@@ -101,24 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 18:32:56 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717533449260 |
-| Players | 1/15 |
-| Host Name | 香精煎鱼食不食？ |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Monday, October 30, 2023 18:33:34 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28495717515824150 |
-| Players | 1/5 |
-| Host Name | gla |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 18:12:35 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717531129579 |
@@ -128,12 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 18:30:53 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28495717531961082 |
-| Players | 1/5 |
-| Host Name | ITS_SHOWTIME |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 18:31:51 |
+| Lobby ID | 28495717533871464 |
+| Players | 1/10 |
+| Host Name | melanwaay |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 18:34:02 |
 
 
