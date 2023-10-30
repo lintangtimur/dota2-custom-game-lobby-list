@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717153021797 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 07:45:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717154833952 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | TA Assassin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 07:48:42 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717154265996 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | El tipo N |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 07:47:37 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717151480617 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | Meteoreagle |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, October 30, 2023 07:42:13 |
@@ -137,19 +137,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 07:46:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717155351497 |
-| Players | 2/8 |
-| Host Name | StreamSniper |
+| Lobby ID | 28495717155385992 |
+| Players | 2/10 |
+| Host Name | mokujin |
 | Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 07:49:42 |
+| Lobby Creation Time | Monday, October 30, 2023 07:49:46 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717154651116 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | KEIITARA |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 07:48:21 |
@@ -173,13 +173,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 07:49:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717155385992 |
-| Players | 2/10 |
-| Host Name | mokujin |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 07:49:46 |
+| Lobby ID | 28495717155534744 |
+| Players | 2/8 |
+| Host Name | StreamSniper |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, October 30, 2023 07:50:03 |
 
 
 |  | epic_boss_fight_nightmare |
