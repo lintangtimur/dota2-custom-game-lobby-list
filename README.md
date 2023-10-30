@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717131960725 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | WKWKWKWKWK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 07:01:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717140534120 |
-| Players | 3/15 |
-| Host Name | ЖидкийКозырек |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 07:21:35 |
+| Lobby ID | 28495717140659694 |
+| Players | 2/24 |
+| Host Name | 保生大帝 |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 07:21:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717140530057 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Fruugu |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 07:21:35 |
@@ -67,20 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717140661138 |
-| Players | 4/8 |
-| Host Name | fell in love / 52 |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 07:21:50 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717140659694 |
-| Players | 1/24 |
-| Host Name | 保生大帝 |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 07:21:50 |
+| Lobby ID | 28495717140722851 |
+| Players | 1/8 |
+| Host Name | ДД по жэнщинам |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 07:21:57 |
 
 
 |  | epic_boss_fight_hard |
@@ -108,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Yitane |
 | Region | CHILE |
 | Lobby Creation Time | Monday, October 30, 2023 07:14:20 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495717138521983 |
-| Players | 5/10 |
-| Host Name | Jose |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 07:17:34 |
 
 
