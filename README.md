@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717207337095 |
-| Players | 7/8 |
-| Host Name | JJJJJJ |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 09:30:31 |
+| Lobby ID | 28495717207653467 |
+| Players | 2/8 |
+| Host Name | maseto |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 09:31:07 |
 
 
 |  | ot3_desert_octet |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 06:48:54 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717201432794 |
-| Players | 23/24 |
-| Host Name | RAT LEGENDS SEASON 18 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 09:19:14 |
+| Lobby ID | 28495717208047232 |
+| Players | 2/8 |
+| Host Name | melancholic October |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 09:31:52 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717202209597 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Filipo |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 09:20:45 |
@@ -67,29 +67,83 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717205264180 |
+| Lobby ID | 28495717207847503 |
 | Players | 2/10 |
-| Host Name | Taiga Kagami |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 09:26:36 |
+| Host Name | treep |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 09:31:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717207067433 |
-| Players | 3/8 |
-| Host Name | LIMONCITO |
+| Lobby ID | 28495717207905638 |
+| Players | 2/10 |
+| Host Name | DIKI- |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 09:30:00 |
+| Lobby Creation Time | Monday, October 30, 2023 09:31:36 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717207665240 |
+| Players | 4/10 |
+| Host Name | mickeyisdumby |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 09:31:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717207771200 |
+| Players | 1/15 |
+| Host Name | MUTANT |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 09:31:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717207575618 |
+| Lobby ID | 28495717208019687 |
+| Players | 5/24 |
+| Host Name | PedroPicaMierda |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 09:31:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717207928022 |
+| Players | 7/15 |
+| Host Name | Ganseame 7w7 |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 09:31:38 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717208057931 |
+| Players | 2/15 |
+| Host Name | MCFISHERMANPRO |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 09:31:53 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717208111833 |
 | Players | 1/24 |
 | Host Name | bader |
 | Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 09:30:58 |
+| Lobby Creation Time | Monday, October 30, 2023 09:31:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717208120942 |
+| Players | 2/10 |
+| Host Name | Taiga Kagami |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 09:32:00 |
 
 
 |  | epic_boss_fight_nightmare |
