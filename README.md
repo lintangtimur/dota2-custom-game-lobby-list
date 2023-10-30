@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717509555518 |
-| Players | 15/24 |
+| Players | 13/24 |
 | Host Name | $WAAAAAG |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:04:46 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717512238892 |
-| Players | 3/8 |
-| Host Name | Я В МУТЕ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, October 30, 2023 18:08:07 |
+| Lobby ID | 28495717512849130 |
+| Players | 1/8 |
+| Host Name | MSI |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 18:08:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717511972120 |
-| Players | 1/15 |
-| Host Name | ХУЛИо |
+| Players | 7/15 |
+| Host Name | Vanguard |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, October 30, 2023 18:07:48 |
 
@@ -92,10 +92,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 18:07:34 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717512827629 |
+| Players | 1/8 |
+| Host Name | badddd |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 18:08:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717512879023 |
+| Players | 1/8 |
+| Host Name | Monokuma |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 18:08:55 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717511229560 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | BAD |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 18:06:52 |
@@ -103,10 +121,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28495717512266069 |
+| Lobby ID | 28495717512381542 |
 | Players | 1/5 |
-| Host Name | 洲际导弹是吧？ |
-| Region | PWUNICOM |
-| Lobby Creation Time | Monday, October 30, 2023 18:08:09 |
+| Host Name | Cock Departament |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 18:08:18 |
 
 
