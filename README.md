@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717244196225 |
-| Players | 1/24 |
-| Host Name | 乱战小菜鸟 |
-| Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Monday, October 30, 2023 10:39:33 |
+| Lobby ID | 28495717244544842 |
+| Players | 4/8 |
+| Host Name | 𝑆𝑒𝑐𝑟𝑒𝑡 |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 10:40:12 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717243327838 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Mr.MillF |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 10:37:53 |
@@ -85,20 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717241563063 |
-| Players | 7/8 |
-| Host Name | It's ok I just need a break |
+| Lobby ID | 28495717244472008 |
+| Players | 1/8 |
+| Host Name | Robin serio |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 10:34:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28495717244447182 |
-| Players | 1/15 |
-| Host Name | 我佛慈悲，双持AK |
-| Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Monday, October 30, 2023 10:40:01 |
+| Lobby Creation Time | Monday, October 30, 2023 10:40:04 |
 
 
 |  | epic_boss_fight_nightmare |
