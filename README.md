@@ -20,22 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717338700353 |
-| Players | 14/15 |
-| Host Name | ACC for practice |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 13:44:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717341703641 |
-| Players | 7/8 |
-| Host Name | Я умный |
+| Lobby ID | 28495717340110085 |
+| Players | 3/10 |
+| Host Name | Remiferia |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 13:49:53 |
+| Lobby Creation Time | Monday, October 30, 2023 13:47:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28495717332809299 |
+| Players | 10/24 |
+| Host Name | swap commends |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 13:33:45 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717339569503 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | LO VI EN UNA GUÍA DE SMASH |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 13:46:04 |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Frigus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 13:49:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717340110085 |
-| Players | 4/10 |
-| Host Name | Remiferia |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 13:47:02 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717332809299 |
-| Players | 10/24 |
-| Host Name | swap commends |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 13:33:45 |
 
 
 |  | epic_boss_fight_normal |
