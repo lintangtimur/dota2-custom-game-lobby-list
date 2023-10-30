@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717256843123 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Nobodys |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 11:04:41 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717126513259 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | NonaJerman#165 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 06:48:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717258416212 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | rua253 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 11:07:55 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717258466429 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | www.twitch.tv/davionws |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 11:08:01 |
@@ -117,6 +117,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dirty Deedz |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 11:08:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717259020355 |
+| Players | 2/10 |
+| Host Name | Пивацератопс |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 11:09:09 |
 
 
 |  | epic_boss_fight_nightmare |
