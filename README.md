@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717392092631 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | эль чача |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 15:15:02 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717393286176 |
-| Players | 1/15 |
-| Host Name | Мыслант Гигисли |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 15:17:01 |
+| Lobby ID | 28495717393317312 |
+| Players | 7/15 |
+| Host Name | 母亲还活着吗 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 15:17:04 |
 
 
 |  | ot3_desert_octet |
@@ -68,27 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717393546654 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | Древнейшая Мечта |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 15:17:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717393317312 |
-| Players | 6/15 |
-| Host Name | 母亲还活着吗 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 15:17:04 |
+| Lobby ID | 28495717393907814 |
+| Players | 3/8 |
+| Host Name | ニカが大好きです |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 15:18:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717393207969 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Xiao |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 15:16:53 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28495717393914080 |
+| Players | 1/5 |
+| Host Name | Lamb |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 15:18:03 |
 
 
