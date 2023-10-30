@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717251839129 |
-| Players | 9/10 |
-| Host Name | Hecker |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 10:54:28 |
+| Lobby ID | 28495717255123766 |
+| Players | 7/10 |
+| Host Name | La realeza de los andes |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 11:01:04 |
 
 
 |  | ot3_gardens_duo |
@@ -77,37 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717254940493 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | MAPACHE_$INC0LA |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 11:00:39 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717254088574 |
-| Players | 22/24 |
-| Host Name | ƒ |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 10:58:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28495717255123766 |
-| Players | 7/10 |
-| Host Name | La realeza de los andes |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 11:01:04 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717255477046 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | 𝑆𝑒𝑐𝑟𝑒𝑡 |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 11:01:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717255620808 |
+| Players | 1/8 |
+| Host Name | BARON |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 11:02:08 |
 
 
 |  | epic_boss_fight_nightmare |
