@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717174472143 |
-| Players | 1/8 |
-| Host Name | answer☦ |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, October 30, 2023 08:25:55 |
+| Lobby ID | 28495717174340308 |
+| Players | 6/8 |
+| Host Name | Enough |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 08:25:40 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717172663815 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | AyEfKay |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 08:22:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717173769753 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | бананчик( |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 08:24:34 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717174409068 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Spooney |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 08:25:48 |
@@ -95,19 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717174280968 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | iseedeadp3ople |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 08:25:33 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717174571328 |
+| Players | 1/10 |
+| Host Name | . |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 08:26:06 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717174340308 |
-| Players | 6/8 |
-| Host Name | Enough |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 08:25:40 |
+| Lobby ID | 28495717174554506 |
+| Players | 1/8 |
+| Host Name | магистр наказующих |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 08:26:04 |
 
 
 |  | epic_boss_fight_nightmare |
