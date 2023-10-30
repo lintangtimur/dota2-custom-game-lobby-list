@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717235701780 |
-| Players | 15/24 |
-| Host Name | 翠流 |
-| Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 10:23:28 |
+| Lobby ID | 28495717237223957 |
+| Players | 2/15 |
+| Host Name | Capitan Capibara |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 10:26:21 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717234877437 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | ✪ [W]_love ✪ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 10:21:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717234386372 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | lowa |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 10:20:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717235050052 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | DragonBack |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 10:22:14 |
@@ -76,29 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717237104991 |
-| Players | 6/8 |
-| Host Name | Hocus Pocus |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 10:26:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717237168914 |
-| Players | 1/8 |
-| Host Name | 葉王・朝倉 |
+| Lobby ID | 28495717237204933 |
+| Players | 4/8 |
+| Host Name | maseto |
 | Region | PERU |
-| Lobby Creation Time | Monday, October 30, 2023 10:26:15 |
+| Lobby Creation Time | Monday, October 30, 2023 10:26:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717237172134 |
-| Players | 1/15 |
-| Host Name | Capitan Capibara |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 10:26:15 |
+| Lobby ID | 28495717237266546 |
+| Players | 3/15 |
+| Host Name | La RATA.. KE TE COME :) |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 10:26:26 |
 
 
 |  | epic_boss_fight_nightmare |
