@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717126513259 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | NonaJerman#165 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 06:48:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717196214026 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Jimo is Back! |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 09:09:05 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717196908194 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | YOLkO |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 09:10:26 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717195382542 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Bwixs~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 09:07:26 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717196840325 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | wanakito123 |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 09:10:18 |
@@ -112,10 +112,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717197163745 |
+| Lobby ID | 28495717197191497 |
 | Players | 1/24 |
-| Host Name | Sebas Tian |
+| Host Name | freshejka |
 | Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 09:10:56 |
+| Lobby Creation Time | Monday, October 30, 2023 09:10:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717197226299 |
+| Players | 2/15 |
+| Host Name | tiananmen square (taylor's versi |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 09:11:03 |
 
 
