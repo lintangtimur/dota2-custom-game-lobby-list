@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717495411983 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | 蓝胖舌吻双头龙 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:46:17 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717497823171 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | 626 |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, October 30, 2023 17:49:32 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717496859060 |
-| Players | 3/15 |
-| Host Name | till the end |
+| Players | 1/15 |
+| Host Name | аРБУЗ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:48:14 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717497614091 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | SIGMA |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, October 30, 2023 17:49:15 |
@@ -104,18 +104,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717497222942 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | ¹³ |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 17:48:43 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717498125675 |
+| Players | 2/15 |
+| Host Name | WTF&!о_О |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 17:49:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717498180499 |
+| Players | 2/15 |
+| Host Name | JOKERGE |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, October 30, 2023 17:50:00 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717498090338 |
-| Players | 1/8 |
+| Lobby ID | 28495717498227887 |
+| Players | 4/8 |
 | Host Name | засолил огурчик |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 17:49:53 |
+| Lobby Creation Time | Monday, October 30, 2023 17:50:04 |
 
 
