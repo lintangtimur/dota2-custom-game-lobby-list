@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, October 29, 2023 02:32:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717432437663 |
-| Players | 1/15 |
-| Host Name | drowning |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 16:15:56 |
+| Lobby ID | 28495717432210955 |
+| Players | 10/24 |
+| Host Name | 饿了饿了 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 16:15:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717424505911 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Flexy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 16:04:33 |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 16:15:38 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28495717431041422 |
-| Players | 4/8 |
-| Host Name | Боби |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 16:13:55 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717432210955 |
-| Players | 7/24 |
-| Host Name | 饿了饿了 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 16:15:37 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717432486015 |
@@ -90,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tear in my heart |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 16:16:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717432613863 |
+| Players | 1/15 |
+| Host Name | Satoru |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 16:16:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28495717432566672 |
+| Players | 4/8 |
+| Host Name | Average 322 game enjoyer |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 16:16:07 |
 
 
 |  | epic_boss_fight_normal |
