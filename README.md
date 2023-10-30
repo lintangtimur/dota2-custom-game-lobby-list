@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717431470903 |
-| Players | 5/8 |
-| Host Name | GOBLIN KING |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 16:14:33 |
+| Lobby ID | 28495717431727922 |
+| Players | 2/8 |
+| Host Name | WR+ROT |
+| Region | USWEST |
+| Lobby Creation Time | Monday, October 30, 2023 16:14:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717430927058 |
-| Players | 16/24 |
+| Players | 23/24 |
 | Host Name | ryan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 16:13:45 |
@@ -51,7 +51,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28495717430004642 |
 | Players | 2/8 |
-| Host Name | Lilya |
+| Host Name | Erlo |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 16:12:28 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717431494576 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Ярик Добрый |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, October 30, 2023 16:14:35 |
@@ -92,30 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 16:14:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717431727922 |
-| Players | 2/8 |
-| Host Name | WR+ROT |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 16:14:55 |
+| Lobby ID | 28495717431955189 |
+| Players | 1/10 |
+| Host Name | maratjpeg. |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, October 30, 2023 16:15:15 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28495717431734567 |
-| Players | 1/10 |
-| Host Name | maratjpeg. |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, October 30, 2023 16:14:56 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28495717427221412 |
-| Players | 9/10 |
-| Host Name | koeto |
+| Lobby ID | 28495717432078048 |
+| Players | 2/10 |
+| Host Name | dol gun |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 16:08:28 |
+| Lobby Creation Time | Monday, October 30, 2023 16:15:25 |
 
 
