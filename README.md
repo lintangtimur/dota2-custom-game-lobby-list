@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717279424887 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, October 30, 2023 11:49:24 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717277134293 |
-| Players | 3/8 |
-| Host Name | Shaq |
+| Players | 1/8 |
+| Host Name | AMAZO |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 11:44:54 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717279871265 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | J O T A |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 11:50:16 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | inEAk1 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 11:51:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717280835557 |
+| Players | 1/15 |
+| Host Name | Упал, отжался! |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, October 30, 2023 11:52:09 |
 
 
 |  | epic_boss_fight_nightmare |
