@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717292682606 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | T.v modo serio |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 12:15:08 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717296261452 |
-| Players | 3/15 |
-| Host Name | Core no bkb= straight mid no def |
+| Players | 1/15 |
+| Host Name | герой бывает мерв |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 12:22:03 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717296387871 |
-| Players | 10/24 |
+| Players | 15/24 |
 | Host Name | ☰︎◣︎ ◢︎☰ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 12:22:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717296322303 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | bUbu |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 12:22:10 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717296742531 |
-| Players | 1/8 |
-| Host Name | Trubblw |
+| Players | 3/8 |
+| Host Name | 111 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 12:22:59 |
 
@@ -77,10 +77,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717296808062 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | Marlito |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 12:23:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717296942020 |
+| Players | 1/15 |
+| Host Name | Ginggay wingay |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 12:23:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717296893160 |
+| Players | 1/10 |
+| Host Name | Gromm |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 12:23:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717297111181 |
+| Players | 2/15 |
+| Host Name | Little BirD |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 12:23:42 |
 
 
 |  | epic_boss_fight_normal |
