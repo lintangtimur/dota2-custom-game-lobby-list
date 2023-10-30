@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28495717388335392 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | OVERTHROW 3.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 15:08:44 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717387210276 |
-| Players | 1/8 |
-| Host Name | ПАНК |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 15:06:49 |
+| Lobby ID | 28495717388496812 |
+| Players | 4/8 |
+| Host Name | equilibrium |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 15:09:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717386254922 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 110 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 15:05:11 |
@@ -83,21 +83,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 15:08:51 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717389235302 |
+| Players | 9/15 |
+| Host Name | bahcheeeparis |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 15:10:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28495717389407913 |
+| Players | 2/10 |
+| Host Name | BRAMBRAGE |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 15:10:34 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717388496812 |
-| Players | 4/8 |
-| Host Name | equilibrium |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 15:09:01 |
+| Lobby ID | 28495717389454687 |
+| Players | 1/8 |
+| Host Name | Вика |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, October 30, 2023 15:10:39 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717388967727 |
-| Players | 1/5 |
-| Host Name | Trickby |
+| Lobby ID | 28495717389473339 |
+| Players | 3/15 |
+| Host Name | Dragoon |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 15:09:48 |
+| Lobby Creation Time | Monday, October 30, 2023 15:10:41 |
 
 
