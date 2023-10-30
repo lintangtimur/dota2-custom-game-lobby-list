@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717464667742 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Muy Malo |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 17:02:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717464439642 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | volshebniy69 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 17:02:17 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717460981854 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Шизид Шизушкин |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 16:57:05 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717465631007 |
+| Lobby ID | 28495717465647446 |
 | Players | 1/15 |
-| Host Name | 4-5 pos, mb1-3 SHULTZ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 17:04:04 |
+| Host Name | -iV |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, October 30, 2023 17:04:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,6 +101,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 17:04:04 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28495717465658325 |
+| Players | 4/15 |
+| Host Name | JS |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, October 30, 2023 17:04:07 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28495717463298129 |
@@ -110,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 17:00:31 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28495717465615739 |
-| Players | 1/5 |
+| Lobby ID | 28495717465753790 |
+| Players | 1/7 |
 | Host Name | Magengilani |
 | Region | JAPAN |
-| Lobby Creation Time | Monday, October 30, 2023 17:04:03 |
+| Lobby Creation Time | Monday, October 30, 2023 17:04:16 |
 
 
