@@ -14,64 +14,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218764307188 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | , |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 06:12:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499218783995390 |
-| Players | 1/15 |
-| Host Name | КПО Карачаганак |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 06:51:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499218783175103 |
-| Players | 5/8 |
-| Host Name | CURSE |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 06:49:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28499218784823702 |
-| Players | 2/10 |
-| Host Name | sT[!]cK ^^ |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 06:52:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28499218784658610 |
-| Players | 2/10 |
-| Host Name | ..combo--IVS |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 06:52:29 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28499218784221671 |
-| Players | 1/24 |
-| Host Name | Arthes_Ð |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 06:51:34 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28499218784216883 |
-| Players | 23/24 |
-| Host Name | A veces Amanda |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 06:51:34 |
 
 
 |  | ot3_desert_octet |
@@ -83,19 +29,82 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 06:51:34 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499218785283404 |
+| Players | 2/10 |
+| Host Name | МЫ С ГАЛЕЙ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 06:53:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499218785144343 |
+| Players | 1/8 |
+| Host Name | Сука |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 06:53:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499218785242321 |
+| Players | 4/8 |
+| Host Name | Pants |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 06:53:43 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28499218784221671 |
+| Players | 4/24 |
+| Host Name | Arthes_Ð |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 06:51:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499218785214228 |
+| Players | 1/8 |
+| Host Name | pothead |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 06:53:40 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499218784584981 |
+| Lobby ID | 28499218785315992 |
 | Players | 1/15 |
-| Host Name | Demitrius Demarcus Bartholomeus  |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 06:52:20 |
+| Host Name | КПО Карачаганак |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 06:53:53 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28499218785326836 |
+| Players | 1/24 |
+| Host Name | -♣ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 06:53:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499218785339295 |
+| Players | 1/15 |
+| Host Name | K1 CESAR |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 06:53:56 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218784634908 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | Scrido |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 06:52:26 |
@@ -108,15 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ryan-541 |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, October 31, 2023 06:51:02 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28499218784654759 |
-| Players | 2/5 |
-| Host Name | Quisper |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 06:52:29 |
 
 
 |  | epic_boss_fight_nightmare |
