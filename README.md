@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 07:01:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28495717161425939 |
-| Players | 13/15 |
-| Host Name | AZ2 |
-| Region | USWEST |
-| Lobby Creation Time | Monday, October 30, 2023 08:01:23 |
+| Lobby ID | 28495717159360607 |
+| Players | 21/24 |
+| Host Name | Aiimer |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 07:57:27 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28495717162134246 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | solevoyq. |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, October 30, 2023 08:02:43 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717161097260 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Saliendo de 4k |
 | Region | PERU |
 | Lobby Creation Time | Monday, October 30, 2023 08:00:45 |
@@ -146,19 +146,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 08:01:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28495717162022162 |
-| Players | 1/10 |
-| Host Name | NE0nK1NG! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, October 30, 2023 08:02:31 |
+| Lobby ID | 28495717162202941 |
+| Players | 1/15 |
+| Host Name | Aarön |
+| Region | USEAST |
+| Lobby Creation Time | Monday, October 30, 2023 08:02:51 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717161597772 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Trewis 506 |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, October 30, 2023 08:01:42 |
@@ -173,12 +173,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, October 30, 2023 08:02:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28495717162202941 |
-| Players | 1/15 |
-| Host Name | Aarön |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 08:02:51 |
+| Lobby ID | 28495717162302704 |
+| Players | 3/8 |
+| Host Name | ツ♛Mr.DracoO♛ツ |
+| Region | PERU |
+| Lobby Creation Time | Monday, October 30, 2023 08:03:03 |
 
 
