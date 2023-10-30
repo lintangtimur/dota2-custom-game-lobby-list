@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717364042313 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | pohui proebali |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 14:28:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28495717361069817 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Dragon |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 14:23:10 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717360764918 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, October 30, 2023 14:22:39 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28495717363400965 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Rambod D. Luffy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, October 30, 2023 14:27:04 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28495717364577483 |
-| Players | 1/24 |
-| Host Name | drmphnkdrgs. |
-| Region | USEAST |
-| Lobby Creation Time | Monday, October 30, 2023 14:29:02 |
 
 
 |  | ot3_jungle_quintet |
