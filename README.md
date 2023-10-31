@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218826324096 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Error.On.Fire.xD |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:21:30 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218829967803 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Grumbledorp |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:29:07 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218829896111 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Aesgard |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:28:58 |
@@ -110,21 +110,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 08:28:24 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499218830048438 |
+| Players | 1/15 |
+| Host Name | DareDevi1 |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:29:16 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499218828084626 |
-| Players | 2/10 |
-| Host Name | Skyrim |
+| Players | 3/10 |
+| Host Name | 12 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:25:15 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28499218829846929 |
-| Players | 8/10 |
-| Host Name | 14k |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 08:28:52 |
 
 
