@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750365370807 |
-| Players | 9/10 |
-| Host Name | < blank > |
+| Lobby ID | 28499750366297475 |
+| Players | 3/8 |
+| Host Name | Perrolol |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:48:19 |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:50:08 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750365684939 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | bloomtodeath |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:48:57 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750363566346 |
-| Players | 23/24 |
+| Players | 22/24 |
 | Host Name | ¾ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:44:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750365860342 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | [NeXus`] CreeW AsaSsiN |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:49:17 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | mata limeños |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:50:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750366297475 |
-| Players | 4/8 |
-| Host Name | Perrolol |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:50:08 |
 
 
 |  | epic_boss_fight_nightmare |
