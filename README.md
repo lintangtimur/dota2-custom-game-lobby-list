@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750441595797 |
-| Players | 14/15 |
-| Host Name | no cheat |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:18:48 |
+| Lobby ID | 28499750441988670 |
+| Players | 12/15 |
+| Host Name | D. Dagrepont |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:19:35 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750440754881 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | erik |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:17:10 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750442468906 |
-| Players | 6/15 |
-| Host Name | me estas diciendo uwu? |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:20:31 |
+| Lobby ID | 28499750442658972 |
+| Players | 1/15 |
+| Host Name | Mr.D |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:20:52 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750441370387 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | BABY-ROSH (AL) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:18:22 |
@@ -74,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 12:20:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750441988670 |
-| Players | 10/15 |
-| Host Name | D. Dagrepont |
+| Lobby ID | 28499750442816355 |
+| Players | 1/8 |
+| Host Name | . |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:19:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499750442658972 |
-| Players | 1/15 |
-| Host Name | Mr.D |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:20:52 |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:21:11 |
 
 
 |  | epic_boss_fight_hard |
