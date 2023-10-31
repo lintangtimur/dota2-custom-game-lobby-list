@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750391109530 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | smokey (metamorphosed) |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:38:31 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750392864406 |
-| Players | 17/24 |
+| Players | 22/24 |
 | Host Name | Undead |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:42:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750392171450 |
-| Players | 2/10 |
-| Host Name | MODE PPK |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:40:40 |
+| Lobby ID | 28499750393737522 |
+| Players | 6/15 |
+| Host Name | Ing.Galvez |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:43:51 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750393349043 |
-| Players | 4/8 |
+| Players | 1/8 |
 | Host Name | ФОРТАНУЛО ЕБАТЬ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:43:04 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750393737522 |
-| Players | 6/15 |
-| Host Name | Ing.Galvez |
+| Lobby ID | 28499750392267723 |
+| Players | 13/15 |
+| Host Name | ♁＊＊ SIA ＊＊ |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:43:51 |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:40:51 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750393208758 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Fihed |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:42:47 |
