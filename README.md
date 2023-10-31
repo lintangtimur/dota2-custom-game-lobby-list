@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750454121349 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | BABY-ROSH (AL) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:42:58 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750452333562 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | Anjogs |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:39:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750454604312 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | РОМАТИМБЕРСАУ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:43:55 |
@@ -76,11 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750455141519 |
+| Lobby ID | 28499750455186298 |
+| Players | 1/8 |
+| Host Name | c |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:45:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750455201440 |
 | Players | 1/8 |
 | Host Name | Moises |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:44:57 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:45:04 |
 
 
 |  | epic_boss_fight_nightmare |
