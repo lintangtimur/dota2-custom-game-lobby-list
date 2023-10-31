@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750399620567 |
-| Players | 7/24 |
-| Host Name | Platinum |
+| Players | 5/24 |
+| Host Name | Maxima |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:55:46 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750401652223 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Disso |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:59:59 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750400457369 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Kermit Da Frog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:57:30 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750402072054 |
+| Lobby ID | 28499750402159746 |
 | Players | 1/15 |
 | Host Name | прочитал = пидop |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:00:55 |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:01:06 |
 
 
 |  | epic_boss_fight_nightmare |
