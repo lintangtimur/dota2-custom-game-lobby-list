@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750472249175 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | me and 7 animal vs 16 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:19:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750472841708 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Vuvuzela Virtuoso Hans Rudolph |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:20:48 |
@@ -95,10 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750472854471 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | LION EL MESI |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:20:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499750472891927 |
+| Players | 1/15 |
+| Host Name | ACC for practice |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:20:54 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28499750472928359 |
+| Players | 1/24 |
+| Host Name | Chrisnochet |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:20:59 |
 
 
 |  | epic_boss_fight_challenger |
@@ -108,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 汐世 |
 | Region | PWTELECOMSHANGHAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:58:33 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28499750472714681 |
-| Players | 1/7 |
-| Host Name | روبوت بي لا ي |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:20:32 |
 
 
