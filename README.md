@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750361101994 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Спейсер |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:39:57 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750361923449 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Elinbarrage |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:41:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750358963107 |
-| Players | 23/24 |
-| Host Name | MD. |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:35:43 |
+| Lobby ID | 28499750362430994 |
+| Players | 3/8 |
+| Host Name | Xeroso Construçoes |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:42:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,25 +68,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750361846383 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | ✙ Ukrainian Abrams + |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:41:25 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750362430994 |
-| Players | 3/8 |
-| Host Name | Xeroso Construçoes |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:42:35 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750362466847 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Kkukku~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:42:39 |
