@@ -2,28 +2,28 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750353850557 |
-| Players | 2/15 |
-| Host Name | ... |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:26:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499750353104041 |
-| Players | 6/15 |
-| Host Name | 4:20 |
+| Lobby ID | 28499750352705127 |
+| Players | 7/8 |
+| Host Name | ✪kaVvo jr |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:24:48 |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:24:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499750354224810 |
+| Players | 1/10 |
+| Host Name | mata limeños |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:26:54 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750347813615 |
-| Players | 9/24 |
+| Players | 15/24 |
 | Host Name | mr.dead |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:14:35 |
@@ -32,64 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750350727993 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Aiimer |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:20:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28499750353001295 |
-| Players | 8/10 |
-| Host Name | El Lechero |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:24:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499750353876559 |
-| Players | 1/15 |
-| Host Name | Gosling |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:26:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750353320059 |
-| Players | 4/8 |
-| Host Name | o gaben me odeia |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:25:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499750351244008 |
-| Players | 14/15 |
-| Host Name | Juan El Narco |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:21:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750352705127 |
-| Players | 5/8 |
-| Host Name | ✪kaVvo jr |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:24:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750353340247 |
-| Players | 3/8 |
-| Host Name | nv |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:25:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,10 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 09:25:58 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499750353001295 |
+| Players | 9/10 |
+| Host Name | El Lechero |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:24:36 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499750354171561 |
+| Players | 1/15 |
+| Host Name | yz |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:26:48 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750353312884 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | C A S S I A |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:25:11 |
@@ -122,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750349939991 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | ℒ☺ℓḯη∂їґ |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:18:44 |
@@ -131,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750352719871 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | BAN |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:24:05 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28499750353725643 |
-| Players | 1/7 |
-| Host Name | Ozzy |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:25:58 |
 
 
