@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 09:48:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499750367835861 |
-| Players | 2/15 |
-| Host Name | 我又把pts泄露了 |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:53:08 |
+| Lobby ID | 28499750367857002 |
+| Players | 1/10 |
+| Host Name | Julius Caesar |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:53:11 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750365991948 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | trash teammate |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:49:32 |
@@ -50,19 +50,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750367641641 |
-| Players | 3/24 |
+| Players | 9/24 |
 | Host Name | mAcHiNe .!. |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:52:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499750364585641 |
-| Players | 14/15 |
-| Host Name | G'Dr |
+| Lobby ID | 28499750367879788 |
+| Players | 1/10 |
+| Host Name | HentaiSuperStar2003 |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:53:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499750367916283 |
+| Players | 4/10 |
+| Host Name | Middleware |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:53:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750367443361 |
+| Players | 7/8 |
+| Host Name | T.v modo pensativo |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:46:47 |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:52:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750367948945 |
+| Players | 1/8 |
+| Host Name | I love Andrey's ass |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:53:21 |
 
 
 |  | epic_boss_fight_nightmare |
