@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218791386481 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | SeT |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:07:21 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499218791570142 |
+| Lobby ID | 28499218794502606 |
 | Players | 1/8 |
-| Host Name | ¥kayser ๖ۣۜ |
+| Host Name | MI PRIMERA CHAAAMBAA |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:07:45 |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:13:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218794341085 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Un Dotita y a mimir |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:13:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499218794300472 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | asd |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:13:32 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218792785172 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | M.R-YoEL |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:10:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499218792977086 |
-| Players | 14/15 |
-| Host Name | Guppi |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:10:39 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,12 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 07:13:32 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499218794561577 |
+| Players | 1/15 |
+| Host Name | HwH |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:14:04 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28499218794376726 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | SmegmaConnoisseur |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:13:40 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28499218794498536 |
+| Players | 2/10 |
+| Host Name | Asura™ |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:13:56 |
 
 
