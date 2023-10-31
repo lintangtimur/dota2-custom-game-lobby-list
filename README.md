@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 11:01:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750399620567 |
-| Players | 2/24 |
-| Host Name | SuMano |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:55:46 |
+| Lobby ID | 28499750403095494 |
+| Players | 1/8 |
+| Host Name | Lemonchill |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:03:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750401652223 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Disso |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:59:59 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750400457369 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Kermit Da Frog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:57:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750402838066 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | * |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:02:33 |
@@ -77,10 +77,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750401818662 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Old Dirty |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:00:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750403082500 |
+| Players | 1/8 |
+| Host Name | Анальный карател |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:03:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28499750397467013 |
+| Players | 22/24 |
+| Host Name | Shuhky |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:51:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750401895124 |
+| Players | 6/8 |
+| Host Name | ФОРТАНУЛО ЕБАТЬ |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:00:32 |
 
 
 |  | epic_boss_fight_nightmare |
