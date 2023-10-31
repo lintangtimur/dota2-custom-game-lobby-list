@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750399620567 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Maxima |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:55:46 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750398163320 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | KITCHEN LIGHTS |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:52:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750400457369 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Kermit Da Frog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:57:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750399170722 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Sharuko |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:54:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750400519362 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Kokodrile |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:57:38 |
