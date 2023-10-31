@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750461104371 |
+| Lobby ID | 28499750461441879 |
 | Players | 1/8 |
-| Host Name | Отдамся за шаурму |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:56:35 |
+| Host Name | Zeus x27 |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:57:15 |
 
 
 |  | ot3_gardens_duo |
@@ -20,22 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 12:52:10 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28499750459353314 |
-| Players | 21/24 |
-| Host Name | Pericotito de Nelly Rossinelli |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:53:07 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750457615674 |
-| Players | 10/15 |
-| Host Name | Cever |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:49:47 |
+| Lobby ID | 28499750461523133 |
+| Players | 1/15 |
+| Host Name | Пулик 83 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:57:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750461407775 |
+| Players | 2/8 |
+| Host Name | The Big March of Animals |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:57:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750460624704 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | HAGAROMA |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:55:37 |
@@ -76,29 +76,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750461209876 |
+| Lobby ID | 28499750461537545 |
 | Players | 1/8 |
-| Host Name | х? |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:56:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750461407775 |
-| Players | 1/8 |
-| Host Name | The Big March of Animals |
+| Host Name | снюс |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:57:11 |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:57:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28499750461441879 |
-| Players | 1/8 |
-| Host Name | Zeus x27 |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:57:15 |
+| Lobby ID | 28499750461753039 |
+| Players | 1/24 |
+| Host Name | pr0ton |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:57:52 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499750461759644 |
+| Players | 1/15 |
+| Host Name | Dr. Chaputin modo Sexo |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:57:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499750461769399 |
+| Players | 1/10 |
+| Host Name | Grumbledorp |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:57:54 |
 
 
 |  | epic_boss_fight_challenger |
@@ -122,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750461017554 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | CodeName 008 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:56:24 |
