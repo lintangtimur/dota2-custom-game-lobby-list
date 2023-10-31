@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750469672713 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | xanax through the veins |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:14:13 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750469631346 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 𝔐𝔞𝔯𝔳𝔦𝔫 |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:14:08 |
@@ -74,6 +74,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 13:14:51 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28499750470130233 |
+| Players | 1/24 |
+| Host Name | Миягу |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:15:09 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28499750462093473 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750467210952 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Buccue_JR21 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:09:10 |
