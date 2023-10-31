@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750385173419 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | KITCHEN LIGHTS |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:26:59 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750387653669 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Пивацератопс |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:31:39 |
@@ -56,22 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 10:29:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750387632422 |
-| Players | 1/8 |
-| Host Name | Dragonik |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:31:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28499750387377474 |
-| Players | 9/10 |
-| Host Name | * |
+| Lobby ID | 28499750387949244 |
+| Players | 1/15 |
+| Host Name | Peko Peko |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:31:07 |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:32:14 |
 
 
 |  | epic_boss_fight_nightmare |
