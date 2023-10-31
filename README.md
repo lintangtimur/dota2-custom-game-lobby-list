@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218792983131 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | URO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:10:40 |
@@ -119,13 +119,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 07:10:39 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499218789301285 |
-| Players | 8/10 |
-| Host Name | BAN |
+| Lobby ID | 28499218793079674 |
+| Players | 2/10 |
+| Host Name | EL DIOS DEL CHESS |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:02:42 |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:10:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499218792225642 |
+| Players | 7/10 |
+| Host Name | magic Mike |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:09:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499218793144476 |
+| Players | 1/15 |
+| Host Name | no sound / ebawy |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:11:01 |
 
 
 |  | epic_boss_fight_normal |
