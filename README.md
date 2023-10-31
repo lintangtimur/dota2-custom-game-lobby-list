@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218797993026 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | BALD AND GAY 3 PLAYER |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:21:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218797749241 |
-| Players | 14/24 |
+| Players | 23/24 |
 | Host Name | coa7279 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:21:04 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218796142945 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | KeiiiiGeee! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:17:33 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218797027778 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | tu culo es mi palacio |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:19:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28499218798208950 |
-| Players | 14/15 |
-| Host Name | Дрочеслав |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:22:05 |
+| Lobby ID | 28499218798508769 |
+| Players | 2/24 |
+| Host Name | Shimdoo |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:22:46 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499218795801054 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | ¿como ta a mente do palhaço? |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:16:49 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218795255123 |
-| Players | 18/24 |
+| Players | 13/24 |
 | Host Name | BRunzilian |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:15:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499218797448635 |
-| Players | 1/10 |
-| Host Name | egir37 |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:20:24 |
+| Lobby ID | 28499218798871620 |
+| Players | 2/15 |
+| Host Name | zer0.k |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:23:34 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218797813208 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Mr.Popo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:21:13 |
@@ -119,24 +119,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 07:20:47 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28499218798508769 |
-| Players | 1/24 |
-| Host Name | Shimdoo |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:22:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28499218798662274 |
-| Players | 8/10 |
-| Host Name | [Wario] Timheid |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:23:06 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499218797425491 |
@@ -149,18 +131,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499218798087779 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | El Graznadiento |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:21:49 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28499218798745396 |
-| Players | 2/7 |
-| Host Name | PMA abuser |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:23:17 |
 
 
