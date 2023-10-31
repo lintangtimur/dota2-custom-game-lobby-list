@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750417968321 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | Moxieee Moxieee♥ |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:32:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499750419391011 |
-| Players | 13/15 |
-| Host Name | TIO CALICHE |
+| Lobby ID | 28499750420269017 |
+| Players | 5/10 |
+| Host Name | dDeneuve |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:35:39 |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:37:21 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750408543902 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | Solowind |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:14:11 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750419936533 |
-| Players | 4/24 |
-| Host Name | haz |
+| Players | 8/24 |
+| Host Name | 1-800-LOW-PRIO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:36:42 |
 
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750419908680 |
-| Players | 6/15 |
-| Host Name | Crow |
+| Players | 1/15 |
+| Host Name | Николай Дроздов |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:36:39 |
 
@@ -74,30 +74,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 11:37:09 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499750420326106 |
+| Players | 5/15 |
+| Host Name | Shankeeto #FreePalestine |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:37:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499750420326745 |
+| Players | 2/15 |
+| Host Name | Joshe ▼♥ ♥☻giordota.com |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:37:28 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750419616960 |
-| Players | 6/8 |
-| Host Name | ФОРТАНУЛО ЕБАТЬ |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:36:05 |
+| Lobby ID | 28499750420529523 |
+| Players | 1/8 |
+| Host Name | HGH |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:37:52 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28499750418855285 |
-| Players | 1/10 |
+| Lobby ID | 28499750420367490 |
+| Players | 2/10 |
 | Host Name | outside |
 | Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:34:37 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28499750419156306 |
-| Players | 7/10 |
-| Host Name | monday left me broken cat |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:35:12 |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:37:33 |
 
 
