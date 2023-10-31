@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750406231199 |
-| Players | 6/24 |
+| Players | 17/24 |
 | Host Name | Bonitos y gorditos hijos de puta |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:09:33 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750405142317 |
-| Players | 5/24 |
+| Players | 3/24 |
 | Host Name | hayo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:07:18 |
@@ -22,65 +22,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750406264671 |
-| Players | 1/8 |
-| Host Name | KCHA PVTAS DE HOBBY |
+| Lobby ID | 28499750406839185 |
+| Players | 3/8 |
+| Host Name | >nØrtendal< |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:09:37 |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:10:47 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750397467013 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | xJw |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:51:24 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28499750404634265 |
-| Players | 6/10 |
-| Host Name | ShaV |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:06:16 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750406207644 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Ant |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:09:30 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28499750400457369 |
-| Players | 22/24 |
-| Host Name | Kermit Da Frog |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:57:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28499750402499985 |
-| Players | 8/10 |
-| Host Name | dDeneuve |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:01:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750406537366 |
-| Players | 1/8 |
-| Host Name | Господин Физик |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:10:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 10K Behavior Score |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:08:52 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28499750406771686 |
+| Players | 1/5 |
+| Host Name | ESCANOR |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:10:39 |
 
 
