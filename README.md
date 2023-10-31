@@ -4,38 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28499750441370387 |
-| Players | 21/24 |
-| Host Name | BABY-ROSH (AL) |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:18:22 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28499750439728895 |
-| Players | 21/24 |
-| Host Name | Gigachad thundercock |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:15:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750442920183 |
-| Players | 3/8 |
-| Host Name | ElsaXD |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:21:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499750443099787 |
-| Players | 3/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:21:44 |
+| Lobby ID | 28499750444137129 |
+| Players | 3/24 |
+| Host Name | Superman Pans |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:23:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,30 +20,57 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 12:18:43 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750443672899 |
-| Players | 1/7 |
-| Host Name | GUILLO_LASSO |
+| Lobby ID | 28499750442920183 |
+| Players | 4/8 |
+| Host Name | ElsaXD |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:22:51 |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:21:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499750443099787 |
+| Players | 10/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:21:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499750444249021 |
+| Players | 1/10 |
+| Host Name | JerryLee |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:23:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750444248189 |
+| Players | 4/8 |
+| Host Name | kyouko sakura |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:23:58 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750443787956 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Vhiyoulette |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:23:04 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28499750443823690 |
-| Players | 1/10 |
-| Host Name | 8itch please |
+| Lobby ID | 28499750444277924 |
+| Players | 1/7 |
+| Host Name | i've been alone in my thoughts |
 | Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:23:08 |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:24:01 |
 
 
