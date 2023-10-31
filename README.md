@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750412061444 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | GL: "Dz_Rascal" Alejito |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:21:23 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750410947375 |
-| Players | 6/10 |
+| Players | 2/10 |
 | Host Name | DANICH |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:19:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750412617403 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Fck around & Fnd out |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:22:30 |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750412912653 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Jordy Cage |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:23:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499750412846457 |
-| Players | 1/15 |
-| Host Name | Whalen |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:22:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499750411947338 |
-| Players | 9/15 |
-| Host Name | Suport |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:21:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,6 +83,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 11:22:50 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499750411947338 |
+| Players | 10/15 |
+| Host Name | Suport |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:21:09 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750411619446 |
@@ -108,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | bodak |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:20:29 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28499750413382281 |
+| Players | 1/10 |
+| Host Name | BadMove |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:24:01 |
 
 
