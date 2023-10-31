@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750373763288 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | +502_Xavix117 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:04:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499750373835565 |
-| Players | 15/24 |
-| Host Name | sangre y luto |
+| Lobby ID | 28499750374616799 |
+| Players | 1/10 |
+| Host Name | NoMerCy (งツ)ว |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:04:52 |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:06:21 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750374309682 |
-| Players | 5/15 |
+| Players | 14/15 |
 | Host Name | another love |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:05:46 |
@@ -56,22 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 10:05:15 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28499750372324352 |
-| Players | 9/10 |
-| Host Name | Fadsol |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:01:58 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750374573655 |
-| Players | 1/8 |
+| Lobby ID | 28499750374643558 |
+| Players | 2/8 |
 | Host Name | мэр пизды |
 | Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:06:16 |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:06:24 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28499750374947384 |
+| Players | 4/24 |
+| Host Name | OoOoO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:06:59 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750373791440 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | TAPIJARO |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:04:47 |
