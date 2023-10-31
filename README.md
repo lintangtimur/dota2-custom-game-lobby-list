@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750451054712 |
-| Players | 8/15 |
+| Players | 6/15 |
 | Host Name | no cheat |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:36:59 |
@@ -22,46 +22,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28499750448361227 |
-| Players | 21/24 |
-| Host Name | MODO PICANTE |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:31:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499750450527320 |
-| Players | 1/15 |
-| Host Name | Conor McGregor |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:35:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750450208706 |
-| Players | 5/8 |
-| Host Name | Evlogos |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:35:20 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
 | Lobby ID | 28499750449950365 |
-| Players | 7/24 |
+| Players | 12/24 |
 | Host Name | GENE- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:34:50 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499750451263725 |
+| Players | 7/10 |
+| Host Name | учитель пoльскoгo banditcamp.com |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:37:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750450208706 |
+| Players | 6/8 |
+| Host Name | Evlogos |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:35:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499750451523392 |
+| Players | 1/15 |
+| Host Name | Dr. Chaputin modo Sexo |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:37:55 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750450438465 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Любимые дрова |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:35:47 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28499750451541535 |
+| Players | 1/7 |
+| Host Name | Стенд ап Задорнов |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:37:57 |
 
 
