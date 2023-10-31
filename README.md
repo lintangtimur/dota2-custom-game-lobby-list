@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750358274715 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | сочные бабули.cum |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:34:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750353070052 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | m a r io |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:24:44 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750357850701 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | OnlyCrew |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:33:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750358668718 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | КАРОЛЬ ДАЛБАЁБОВ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:35:08 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Toxic |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:35:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750358731542 |
+| Players | 4/8 |
+| Host Name | 2rar |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:35:16 |
 
 
 |  | epic_boss_fight_nightmare |
