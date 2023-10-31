@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218801825487 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Anti-Tate |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:29:50 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499218801862044 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | ANEXO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:29:55 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499218797622059 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | xD |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:20:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218799669889 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | danz |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:25:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218801329043 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Bello |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:28:50 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218802014629 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | 65daysofstatic |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:30:13 |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218797480816 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Elinbarrage |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:20:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499218797027778 |
+| Players | 15/15 |
+| Host Name | tu culo es mi palacio |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:19:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499218802461579 |
+| Players | 1/15 |
+| Host Name | Sicario |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:31:09 |
 
 
 |  | epic_boss_fight_normal |
