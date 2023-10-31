@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 13:19:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750472422230 |
-| Players | 2/10 |
-| Host Name | Toxic |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:19:55 |
+| Lobby ID | 28499750472439138 |
+| Players | 4/8 |
+| Host Name | Священная Рана |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:19:57 |
 
 
 |  | ot3_gardens_duo |
@@ -58,11 +58,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750472439138 |
-| Players | 3/8 |
-| Host Name | Священная Рана |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:19:57 |
+| Lobby ID | 28499750472598464 |
+| Players | 1/8 |
+| Host Name | ФОРТАНУЛО ЕБАТЬ |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:20:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499750472598305 |
+| Players | 2/10 |
+| Host Name | Toxic |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:20:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499750472616402 |
+| Players | 1/10 |
+| Host Name | ржавый |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:20:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499750472609440 |
+| Players | 1/15 |
+| Host Name | псих(жеский) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:20:19 |
 
 
 |  | epic_boss_fight_challenger |
