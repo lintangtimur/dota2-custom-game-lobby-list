@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750383816616 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Reediy |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:24:22 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750384111299 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | 1322837 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:24:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499750383542363 |
-| Players | 7/8 |
-| Host Name | ÆꜱᴛʀᴀɪᴋÆ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:23:51 |
+| Lobby ID | 28499750384156119 |
+| Players | 2/10 |
+| Host Name | xxxkrs |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:25:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750382879828 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Platinum |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:22:31 |
@@ -72,6 +72,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 哑巴老六 |
 | Region | PWUNICOM |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:24:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499750384192552 |
+| Players | 1/15 |
+| Host Name | another love |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:25:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499750384180226 |
+| Players | 1/10 |
+| Host Name | d8lf8 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:25:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750384226283 |
+| Players | 4/8 |
+| Host Name | пусси дестроер |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:25:09 |
 
 
 |  | epic_boss_fight_nightmare |
