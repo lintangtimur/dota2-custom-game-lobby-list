@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750493541994 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Кливпатий Яйцeлом |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 14:01:15 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750492556409 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Любимые дрова |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:59:18 |
