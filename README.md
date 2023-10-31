@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750412912653 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Jordy Cage |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:23:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750417428056 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Gonza |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:31:51 |
@@ -56,33 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 11:11:20 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28499750417389905 |
-| Players | 2/10 |
-| Host Name | Toxic |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:31:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499750416502119 |
-| Players | 9/15 |
-| Host Name | Samichpunch |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:30:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28499750416279599 |
-| Players | 20/24 |
-| Host Name | Steven - #Dota |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:29:41 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750417422873 |
@@ -92,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 11:31:50 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750415979089 |
-| Players | 7/8 |
-| Host Name | ФОРТАНУЛО ЕБАТЬ |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:29:06 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750417508414 |
-| Players | 1/15 |
-| Host Name | Николай Дроздов |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:32:00 |
+| Lobby ID | 28499750416502119 |
+| Players | 11/15 |
+| Host Name | Samichpunch |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:30:07 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28499750416279599 |
+| Players | 21/24 |
+| Host Name | Steven - #Dota |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:29:41 |
 
 
 |  | epic_boss_fight_nightmare |
