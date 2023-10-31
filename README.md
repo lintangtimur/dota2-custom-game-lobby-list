@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218797749241 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | coa7279 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:21:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218798208950 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Дрочеслав |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:22:05 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218795255123 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | BRunzilian |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:15:37 |
@@ -126,6 +126,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Shimdoo |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:22:46 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499218798662274 |
+| Players | 6/10 |
+| Host Name | [Wario] Timheid |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:23:06 |
 
 
 |  | epic_boss_fight_nightmare |
