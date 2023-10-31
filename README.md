@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750459493189 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | PMA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:53:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750459488847 |
-| Players | 1/15 |
+| Players | 9/15 |
 | Host Name | IZat |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:53:23 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | JerryLee |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:53:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750459863730 |
+| Players | 1/8 |
+| Host Name | haunt |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:54:07 |
 
 
 |  | epic_boss_fight_challenger |
@@ -117,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Nezu Nae Nae |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:53:00 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28499750459898837 |
+| Players | 1/5 |
+| Host Name | bucK |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:54:11 |
 
 
