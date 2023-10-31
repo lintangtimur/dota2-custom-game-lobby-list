@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750466644901 |
-| Players | 10/15 |
-| Host Name | ¥₹ DeMoNiC ◢ ◤ ﷼§ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:07:59 |
+| Lobby ID | 28499750468703813 |
+| Players | 1/8 |
+| Host Name | milashka |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:12:16 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750465422259 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Lennyt |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:05:25 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750468273036 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | don gato y su pandilla |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:11:23 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750468099316 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | What the fuck is wrong with you |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:11:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750468163243 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:11:09 |
@@ -49,11 +49,56 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750468663635 |
+| Lobby ID | 28499750468844078 |
+| Players | 2/15 |
+| Host Name | TwT |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:12:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750468839059 |
+| Players | 1/8 |
+| Host Name | 갈 리치 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:12:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499750468902956 |
 | Players | 1/15 |
 | Host Name | RIMING |
 | Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:12:11 |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:12:41 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28499750468900561 |
+| Players | 2/24 |
+| Host Name | El Tilin humilde |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:12:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499750468036795 |
+| Players | 14/15 |
+| Host Name | Gojō |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:10:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750469017151 |
+| Players | 1/8 |
+| Host Name | Lippi |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:12:55 |
 
 
 |  | epic_boss_fight_challenger |
