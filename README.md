@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750379727380 |
-| Players | 2/15 |
+| Players | 10/15 |
 | Host Name | The Ruffis 0nE |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:16:13 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750379164857 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | tfg |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:15:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750379395560 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | GGs |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:15:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750377901561 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | dk-vm |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:12:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750375712248 |
-| Players | 5/24 |
+| Players | 16/24 |
 | Host Name | unalien |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:08:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750379075349 |
-| Players | 4/8 |
+| Players | 1/8 |
 | Host Name | Pelúcia |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:14:56 |
@@ -68,27 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750379613055 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | alucarD :) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:16:00 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750378423272 |
-| Players | 9/10 |
-| Host Name | stacked |
+| Lobby ID | 28499750379791151 |
+| Players | 2/8 |
+| Host Name | Gromm |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:13:40 |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:16:21 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750369865962 |
-| Players | 9/10 |
-| Host Name | kimchi |
+| Lobby ID | 28499750380038305 |
+| Players | 2/15 |
+| Host Name | ♁＊＊ SIA ＊＊ |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:57:08 |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:16:50 |
 
 
