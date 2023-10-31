@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750448361227 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | MODO PICANTE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:31:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750447603082 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:30:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750446602496 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | XD |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:28:29 |
@@ -65,10 +65,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 12:32:35 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28499750444989167 |
+| Players | 22/24 |
+| Host Name | Makson! sw3g. |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:25:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750449114985 |
+| Players | 1/8 |
+| Host Name | Quasar |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:33:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499750449155332 |
+| Players | 1/15 |
+| Host Name | ¿Quién mató la vida en mí? |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:33:20 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750448994501 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Tampal Pekpek |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:33:01 |
