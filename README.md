@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750382915138 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | Вайбмеn |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:22:35 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750383145307 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | OoOoO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:23:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750381686984 |
-| Players | 9/10 |
-| Host Name | JerryLee |
+| Lobby ID | 28499750383542363 |
+| Players | 2/8 |
+| Host Name | ÆꜱᴛʀᴀɪᴋÆ |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:20:09 |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:23:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,28 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750382879828 |
-| Players | 4/24 |
-| Host Name | PamSaf |
+| Players | 5/24 |
+| Host Name | Platinum |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:22:31 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499750383096997 |
+| Lobby ID | 28499750383710375 |
 | Players | 1/10 |
 | Host Name | AMATERASU |
 | Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:22:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750383542363 |
-| Players | 1/8 |
-| Host Name | ÆꜱᴛʀᴀɪᴋÆ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:23:51 |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:24:10 |
 
 
 |  | epic_boss_fight_nightmare |
