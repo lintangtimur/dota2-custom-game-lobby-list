@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 07:00:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499218786284088 |
-| Players | 23/24 |
-| Host Name | Shimdoo |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 06:56:00 |
+| Lobby ID | 28499218787984787 |
+| Players | 6/10 |
+| Host Name | Грязный гуч |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 06:59:39 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218788800942 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | zer0.k |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:01:34 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 07:00:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499218787984787 |
-| Players | 6/10 |
-| Host Name | Грязный гуч |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 06:59:39 |
+| Lobby ID | 28499218789006397 |
+| Players | 3/15 |
+| Host Name | Thermite |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:02:02 |
 
 
 |  | epic_boss_fight_normal |
