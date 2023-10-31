@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750424745721 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Curcumalonga |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:46:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750424929312 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | Thomas Shelby |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:46:29 |
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 11:46:41 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750425124744 |
-| Players | 1/8 |
-| Host Name | СЕМЁН_НИВЕАМЕН |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:46:52 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750424339427 |
@@ -86,18 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750423439774 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Leinach |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:43:38 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28499750424996398 |
-| Players | 1/5 |
+| Lobby ID | 28499750425169262 |
+| Players | 1/7 |
 | Host Name | Deja Vu |
 | Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:46:37 |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:46:57 |
 
 
