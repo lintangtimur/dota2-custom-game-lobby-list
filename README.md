@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750400457369 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Kermit Da Frog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:57:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750398822974 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | WilifWilofWilai |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:54:08 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 10:50:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499750400284043 |
-| Players | 11/15 |
-| Host Name | Shinin |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:57:08 |
+| Lobby ID | 28499750398991981 |
+| Players | 7/10 |
+| Host Name | Mary Jane |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:54:29 |
 
 
 |  | ot3_desert_octet |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499750398991981 |
-| Players | 9/10 |
-| Host Name | Вибратор крипов |
+| Lobby ID | 28499750401237487 |
+| Players | 1/10 |
+| Host Name | ТАЁТА |
 | Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:54:29 |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:59:07 |
 
 
 |  | epic_boss_fight_nightmare |
