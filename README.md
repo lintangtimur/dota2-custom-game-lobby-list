@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750452382344 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Solowind |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:39:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750459353314 |
-| Players | 2/24 |
+| Players | 7/24 |
 | Host Name | Pericotito de Nelly Rossinelli |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:53:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750458976028 |
-| Players | 4/24 |
+| Players | 13/24 |
 | Host Name | Ralph.KM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:52:24 |
@@ -51,7 +51,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28499750459566137 |
 | Players | 2/8 |
-| Host Name | Deadline |
+| Host Name | HAGAROMA |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:53:32 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750459488847 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | IZat |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:53:23 |
@@ -94,17 +94,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499750459962499 |
+| Lobby ID | 28499750460199895 |
 | Players | 2/10 |
 | Host Name | всегдамолчун |
 | Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:54:19 |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:54:47 |
 
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28499750458524998 |
-| Players | 6/7 |
+| Players | 5/7 |
 | Host Name | KENT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:51:32 |
