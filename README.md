@@ -2,28 +2,28 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499218805262690 |
-| Players | 1/10 |
-| Host Name | lioN. |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:37:08 |
+| Lobby ID | 28499218805281921 |
+| Players | 1/8 |
+| Host Name | CURSE |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:37:10 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499218805229144 |
+| Lobby ID | 28499218805361209 |
 | Players | 1/8 |
-| Host Name | y0ngG |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:37:04 |
+| Host Name | BLUE MAGIC |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:37:20 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218804275156 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | +502_Xavix117 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:35:01 |
@@ -69,9 +69,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28499218805147192 |
 | Players | 3/15 |
-| Host Name | приятный дагестанец |
+| Host Name | KhamzaT_BorZ_ChimaeV |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:36:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499218805364329 |
+| Players | 1/10 |
+| Host Name | lioN. |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:37:21 |
 
 
 |  | epic_boss_fight_nightmare |
