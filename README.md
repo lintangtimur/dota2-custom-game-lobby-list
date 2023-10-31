@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750461523133 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Пулик 83 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:57:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750460624704 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | HAGAROMA |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:55:37 |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750461537545 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | снюс |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:57:26 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28499750461753039 |
-| Players | 1/24 |
-| Host Name | pr0ton |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:57:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499750461759644 |
-| Players | 1/15 |
-| Host Name | Dr. Chaputin modo Sexo |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:57:53 |
 
 
 |  | ot3_gardens_duo |
@@ -108,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Grumbledorp |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:57:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499750461759644 |
+| Players | 1/15 |
+| Host Name | Dr. Chaputin modo Sexo |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:57:53 |
 
 
 |  | epic_boss_fight_challenger |
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750461017554 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | CodeName 008 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:56:24 |
