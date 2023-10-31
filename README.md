@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750486590018 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | Dragon |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:47:45 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750482885563 |
-| Players | 22/24 |
-| Host Name | Matt Murdock  🆅🅰🅻🆅 |
+| Lobby ID | 28499750484803452 |
+| Players | 5/15 |
+| Host Name | La parquita |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:40:41 |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:44:23 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750486189698 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | ухажёр |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:46:59 |
@@ -54,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | batasai |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:47:19 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499750484803452 |
-| Players | 6/15 |
-| Host Name | La parquita |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:44:23 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28499750486110984 |
-| Players | 3/24 |
-| Host Name | не мыл хуй 3 дня |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:46:51 |
 
 
 |  | epic_boss_fight_challenger |
