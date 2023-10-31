@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750464620561 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | GENE- |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:03:47 |
@@ -56,31 +56,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 13:03:16 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499750463791250 |
-| Players | 14/15 |
-| Host Name | qenty |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:02:04 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750464136965 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | izi pipilin |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:02:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750464792603 |
-| Players | 3/8 |
-| Host Name | АРТЕМ СТРУБЦИНА |
+| Lobby ID | 28499750464873398 |
+| Players | 1/15 |
+| Host Name | Х-=ЯЫЧ |
 | Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:04:08 |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:04:17 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28499750460952161 |
+| Players | 23/24 |
+| Host Name | SharKy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:56:16 |
 
 
 |  | epic_boss_fight_challenger |
@@ -92,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 12:58:33 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28499750464801833 |
-| Players | 1/5 |
+| Lobby ID | 28499750464854345 |
+| Players | 2/10 |
 | Host Name | Tampal Pekpek |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:04:09 |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:04:15 |
 
 
