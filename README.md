@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750394140996 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | вич доктор |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:44:38 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750393349043 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ФОРТАНУЛО ЕБАТЬ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:43:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750394064673 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | The Ruffis 0nE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:44:29 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750394251576 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Bonitos y gorditos hijos de puta |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:44:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28499750394396820 |
-| Players | 2/10 |
-| Host Name | [Epps] odd |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:45:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -99,6 +90,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | _EziO_ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:45:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499750393999043 |
+| Players | 2/10 |
+| Host Name | умер |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:44:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499750394476167 |
+| Players | 1/15 |
+| Host Name | Ant |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:45:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499750394503082 |
+| Players | 1/10 |
+| Host Name | emiecore |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:45:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499750394516259 |
+| Players | 1/10 |
+| Host Name | Reediy |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:45:23 |
 
 
 |  | epic_boss_fight_nightmare |
