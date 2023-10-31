@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218831151986 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | mr.dead |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:31:30 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218826324096 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | smokey (metamorphosed) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:21:30 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218830744821 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Irony |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:30:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218830943034 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | PMA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:31:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218829898786 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | bajando pepa en arconte |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:28:59 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218831201659 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Kez1rE |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:31:36 |
@@ -108,6 +108,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:31:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499218831480866 |
+| Players | 1/10 |
+| Host Name | £ea<3 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:32:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499218831525301 |
+| Players | 6/15 |
+| Host Name | Karl Hungus |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:32:17 |
 
 
 |  | epic_boss_fight_nightmare |
