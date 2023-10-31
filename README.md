@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750361101994 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Спейсер |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:39:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750361398228 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | recovery |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:40:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750361718379 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Muted all |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:41:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750361846383 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | ✙ Ukrainian Abrams + |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:41:25 |
@@ -90,24 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | •Crazy Life• ☻ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:41:57 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28499750360882608 |
-| Players | 9/10 |
-| Host Name | Minerva |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:39:31 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28499750362006318 |
-| Players | 1/10 |
-| Host Name | Hisoka |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:41:44 |
 
 
 |  | epic_boss_fight_challenger |
