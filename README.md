@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750433694942 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | ЯТОРО БОГ ДОТЫ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:03:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750433634397 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | BTW |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:03:32 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750433389664 |
-| Players | 10/15 |
-| Host Name | Dejvy Joens |
+| Lobby ID | 28499750434129824 |
+| Players | 6/15 |
+| Host Name | 33 |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:03:03 |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:04:28 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750432278386 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | pichard |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:00:54 |
@@ -77,27 +77,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750433273196 |
-| Players | 4/24 |
+| Players | 9/24 |
 | Host Name | Coral |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:02:50 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28499750434204722 |
+| Players | 2/24 |
+| Host Name | austrian painter mode ナチス |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:04:36 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499750434222580 |
+| Players | 5/10 |
+| Host Name | DANICH |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:04:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499750433389664 |
+| Players | 14/15 |
+| Host Name | Dejvy Joens |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:03:03 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28499750432795535 |
-| Players | 8/10 |
-| Host Name | ꜱʏꜰʏ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:01:54 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28499750433984689 |
-| Players | 1/7 |
-| Host Name | квас секс эскорт |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:04:12 |
+| Lobby ID | 28499750434294155 |
+| Players | 1/10 |
+| Host Name | Pewpew |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:04:47 |
 
 
