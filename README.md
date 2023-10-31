@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750393252978 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | AKashi~ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:42:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750392267723 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | ♁＊＊ SIA ＊＊ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:40:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750392864406 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Undead |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:42:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750392184581 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Vô Augusto |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:40:41 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750391109530 |
-| Players | 8/10 |
-| Host Name | Mighty Brow |
+| Players | 6/10 |
+| Host Name | smokey (metamorphosed) |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:38:31 |
 
@@ -92,10 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 10:43:04 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750393463136 |
+| Players | 6/8 |
+| Host Name | Ing.Galvez |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:43:18 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750393208758 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Fihed |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:42:47 |
