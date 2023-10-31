@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750398163320 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | KITCHEN LIGHTS |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:52:48 |
@@ -56,24 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 11:02:33 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28499750397467013 |
-| Players | 21/24 |
-| Host Name | Shuhky |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:51:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499750403693226 |
-| Players | 3/15 |
-| Host Name | ya_ryadom l t.tv |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:04:21 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750403794609 |
@@ -81,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TOPSON |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:04:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499750403693226 |
+| Players | 2/15 |
+| Host Name | ya_ryadom l t.tv |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:04:21 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750403616185 |
-| Players | 3/10 |
-| Host Name | BIG D |
+| Players | 1/10 |
+| Host Name | Kuro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:04:12 |
 
