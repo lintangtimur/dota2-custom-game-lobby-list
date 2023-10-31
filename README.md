@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750488431576 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Voyager1 |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:51:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750488415649 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | 죄송합니다 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:51:15 |
@@ -68,10 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750488580705 |
-| Players | 2/15 |
-| Host Name | Grean4ead |
+| Players | 3/15 |
+| Host Name | dzh12111 |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:51:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750488809600 |
+| Players | 4/8 |
+| Host Name | ФОРТАНУЛО ЕБАТЬ |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:52:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499750488880454 |
+| Players | 2/10 |
+| Host Name | Płum |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:52:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499750488871682 |
+| Players | 2/10 |
+| Host Name | Ufanta01#syndicate |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:52:07 |
 
 
 |  | epic_boss_fight_challenger |
