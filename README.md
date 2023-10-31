@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750404634265 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | ShaV |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:06:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750404585765 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | REWQ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:06:10 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 11:07:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28499750404694427 |
-| Players | 13/15 |
-| Host Name | NO ME ESTORBEN VAGINAS |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:06:23 |
+| Lobby ID | 28499750405513732 |
+| Players | 1/24 |
+| Host Name | Shuhky |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:08:04 |
 
 
 |  | ot3_desert_octet |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Punch |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:07:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28499750405513732 |
-| Players | 1/24 |
-| Host Name | Shuhky |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:08:04 |
 
 
 |  | epic_boss_fight_normal |
