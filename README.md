@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750353070052 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | m a r io |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:24:44 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750359316826 |
-| Players | 8/24 |
+| Players | 16/24 |
 | Host Name | Moonmen |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:36:25 |
@@ -23,37 +23,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750358963107 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | MD. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:35:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499750359591630 |
-| Players | 9/15 |
-| Host Name | s@nit@r |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:36:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750359595599 |
-| Players | 1/8 |
-| Host Name | grtgregtre |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:36:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750359701397 |
-| Players | 2/8 |
-| Host Name | ATAULPILCO RUMIÑAWI TAPASWASO |
+| Lobby ID | 28499750359838793 |
+| Players | 2/10 |
+| Host Name | ｔｏｊｉ |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:37:10 |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:37:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499750360020114 |
+| Players | 1/10 |
+| Host Name | чел |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:37:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499750359902715 |
+| Players | 1/10 |
+| Host Name | 我又把pts泄露了 |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:37:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750359980114 |
+| Players | 1/8 |
+| Host Name | Десятиклассница |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:37:43 |
 
 
 |  | epic_boss_fight_nightmare |
