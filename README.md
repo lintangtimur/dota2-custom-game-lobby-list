@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970434658799 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 06:55:43 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970434340188 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | razor blades |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 06:55:04 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970433946098 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Rael8a |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 06:54:15 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970433352780 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | kantusa |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 06:53:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970434570108 |
-| Players | 9/10 |
-| Host Name | MilQ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 06:55:32 |
+| Lobby ID | 28500970434756949 |
+| Players | 1/24 |
+| Host Name | Aka |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 06:55:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -99,6 +99,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fire |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 06:54:41 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970434777891 |
+| Players | 1/24 |
+| Host Name | RyQゆた |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 06:55:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970434827031 |
+| Players | 1/15 |
+| Host Name | О БОЖЕ ЭТО РЕАЛЬНО |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 06:56:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970434834997 |
+| Players | 4/10 |
+| Host Name | buti sito - lindo |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 06:56:05 |
 
 
 |  | epic_boss_fight_nightmare |
