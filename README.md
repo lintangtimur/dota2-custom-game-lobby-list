@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750451054712 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | no cheat |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:36:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750451523392 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Dr. Chaputin modo Sexo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:37:55 |
