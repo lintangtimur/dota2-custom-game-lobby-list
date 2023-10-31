@@ -11,57 +11,66 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 12:31:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750447849667 |
-| Players | 10/15 |
-| Host Name | S∀︎Y∀︎N |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:30:51 |
+| Lobby ID | 28499750448927927 |
+| Players | 3/8 |
+| Host Name | ★Rapud★ |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:32:53 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750448361227 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | MODO PICANTE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:31:49 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750447339578 |
-| Players | 5/8 |
-| Host Name | sakhalinska9 luja |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:29:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750446602496 |
-| Players | 1/8 |
-| Host Name | XD |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:28:29 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750447603082 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:30:23 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750447753352 |
-| Players | 9/10 |
-| Host Name | existengularity |
+| Lobby ID | 28499750446602496 |
+| Players | 2/8 |
+| Host Name | XD |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:28:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750448652619 |
+| Players | 7/8 |
+| Host Name | Хуже не будет |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:30:40 |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:32:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499750448766335 |
+| Players | 2/15 |
+| Host Name | NikoSin |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:32:35 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28499750444989167 |
+| Players | 24/24 |
+| Host Name | 鸡蛋葱花饼 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:25:22 |
 
 
