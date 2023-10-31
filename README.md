@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218831378899 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:31:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218833565850 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | STEW |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:36:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218833566825 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | kvxphantom |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:36:37 |
@@ -83,28 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 08:37:46 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28499218832170411 |
-| Players | 23/24 |
-| Host Name | . . . |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 08:33:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499218834191100 |
-| Players | 1/8 |
-| Host Name | The Weed Doctor |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, October 31, 2023 08:37:55 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499218833589696 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | alauvient |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:36:39 |
