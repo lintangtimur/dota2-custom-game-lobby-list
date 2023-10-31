@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750444137129 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Superman Pans |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:23:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499750445740294 |
-| Players | 10/15 |
-| Host Name | xzc |
+| Lobby ID | 28499750445408586 |
+| Players | 2/10 |
+| Host Name | Grumbledorp |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:26:49 |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:26:11 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750444502056 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | jugador solitario |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:24:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750444361696 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | NoW |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:24:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750444989167 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Makson! sw3g. |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:25:22 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | huy292003 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:27:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28499750445408586 |
-| Players | 2/10 |
-| Host Name | Grumbledorp |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:26:11 |
 
 
 |  | epic_boss_fight_nightmare |
