@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750451054712 |
-| Players | 10/15 |
-| Host Name | no cheat |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:36:59 |
+| Lobby ID | 28499750451523392 |
+| Players | 9/15 |
+| Host Name | Dr. Chaputin modo Sexo |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:37:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750450196789 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | Makson! sw3g. |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:35:19 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750449950365 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | GENE- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:34:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750451263725 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | учитель пoльскoгo banditcamp.com |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:37:24 |
@@ -47,19 +47,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 12:35:20 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499750451523392 |
-| Players | 3/15 |
-| Host Name | Dr. Chaputin modo Sexo |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:37:55 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750450438465 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Любимые дрова |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:35:47 |
