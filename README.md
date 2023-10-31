@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 11:01:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750403492286 |
-| Players | 9/10 |
-| Host Name | skf |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:03:56 |
+| Lobby ID | 28499750405062074 |
+| Players | 1/8 |
+| Host Name | Amidamaru |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:07:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750397467013 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | xJw |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:51:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750404634265 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | ShaV |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:06:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750404585765 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | REWQ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:06:10 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750404335348 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Corey |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:05:39 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750404694427 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | NO ME ESTORBEN VAGINAS |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:06:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28499750405062074 |
-| Players | 1/8 |
-| Host Name | Amidamaru |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:07:08 |
+| Lobby ID | 28499750405142317 |
+| Players | 1/24 |
+| Host Name | hayo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:07:18 |
 
 
 |  | epic_boss_fight_nightmare |
