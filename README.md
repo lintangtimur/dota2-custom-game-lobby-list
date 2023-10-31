@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750409382358 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | The Dawg |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:15:53 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750409143508 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | сочные бабули.cum |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:15:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28499750408060278 |
-| Players | 14/15 |
-| Host Name | Mr.Bass |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:13:15 |
+| Lobby ID | 28499750410015493 |
+| Players | 2/24 |
+| Host Name | Ajax |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:17:11 |
 
 
 |  | ot3_desert_octet |
@@ -117,6 +117,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DOXXEAME PE CTMR |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:17:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499750410038464 |
+| Players | 1/15 |
+| Host Name | samurai |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:17:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499750410052457 |
+| Players | 3/15 |
+| Host Name | 1322837 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:17:16 |
 
 
 |  | epic_boss_fight_nightmare |
