@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218788446212 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | KeiiiiGeee! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:00:44 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499218788533547 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | VoDka-KimimarO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:00:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28499218789006397 |
-| Players | 12/15 |
-| Host Name | Thermite |
+| Lobby ID | 28499218789367031 |
+| Players | 8/24 |
+| Host Name | . |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:02:02 |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:02:50 |
 
 
 |  | ot3_gardens_duo |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218789253851 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | Дрочеслав |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:02:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499218789367031 |
-| Players | 2/24 |
-| Host Name | . |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:02:50 |
+| Lobby ID | 28499218789496452 |
+| Players | 1/8 |
+| Host Name | tv/bar_bariska |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:03:08 |
 
 
 |  | epic_boss_fight_normal |
