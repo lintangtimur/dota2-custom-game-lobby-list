@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750352123584 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 100% ayac?cho :v |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:22:56 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750350727993 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | Aiimer |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:20:14 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750348437326 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | CN Dota,Bet Dota! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:15:46 |
@@ -85,29 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499750352692377 |
-| Players | 1/10 |
-| Host Name | FUPFUPFUPFUP |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:24:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750352719878 |
-| Players | 1/8 |
-| Host Name | Sultan Saladin |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:24:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28499750352725286 |
+| Lobby ID | 28499750352825526 |
 | Players | 1/10 |
 | Host Name | Yxguden |
 | Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:24:05 |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:24:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499750352824228 |
+| Players | 2/15 |
+| Host Name | peanutbutter |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:24:16 |
 
 
 |  | epic_boss_fight_normal |
