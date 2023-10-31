@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 09:29:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28499750357308943 |
-| Players | 1/15 |
-| Host Name | 清晨黄昏夜深 |
-| Region | PWUNICOM |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:32:34 |
+| Lobby ID | 28499750357294523 |
+| Players | 8/24 |
+| Host Name | 乱战先锋专用帐号 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:32:33 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750356861711 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | 1322837 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:31:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750356839190 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | I.G.Y |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:31:42 |
@@ -47,40 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 09:24:44 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750355766553 |
-| Players | 6/8 |
-| Host Name | 夜待ちの冷たい痛み |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:29:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750355561280 |
-| Players | 5/8 |
-| Host Name | yo+4pezuñas |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:29:27 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750355724462 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ComandanteBazinga |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:29:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750357294523 |
-| Players | 4/24 |
-| Host Name | 乱战先锋专用帐号 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:32:33 |
+| Lobby ID | 28499750355561280 |
+| Players | 6/8 |
+| Host Name | yo+4pezuñas |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:29:27 |
 
 
 |  | epic_boss_fight_nightmare |
