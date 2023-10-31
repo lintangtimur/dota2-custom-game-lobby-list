@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750338389159 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Mr.Banana |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:00:22 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750339505982 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | BOMBERMAN |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:01:16 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218842656605 |
-| Players | 8/15 |
+| Players | 5/15 |
 | Host Name | MisNPs |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:55:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218843107808 |
-| Players | 7/10 |
+| Players | 4/10 |
 | Host Name | Lǐzǐ 1899 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:56:30 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750339458760 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Rainz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:01:14 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750338954703 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Ustoveca |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:00:44 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750339528877 |
-| Players | 5/15 |
-| Host Name | ジ |
+| Players | 1/15 |
+| Host Name | Galican |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:01:17 |
 
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499218843120462 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | BigBillzGetPaid |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:56:32 |
@@ -121,17 +121,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750339285429 |
-| Players | 11/15 |
-| Host Name | ym |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:01:04 |
+| Lobby ID | 28499218842411350 |
+| Players | 5/15 |
+| Host Name | Chandideadmoon |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:55:00 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750339338302 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | делаю ВАЦ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:01:07 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218842986380 |
-| Players | 12/24 |
+| Players | 7/24 |
 | Host Name | PAPI |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:56:14 |
@@ -149,26 +149,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750338709468 |
-| Players | 3/8 |
-| Host Name | EMOBED |
+| Players | 1/8 |
+| Host Name | RoyM |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:00:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499218842411350 |
-| Players | 11/15 |
-| Host Name | Keruga |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 08:55:00 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750339048931 |
-| Players | 4/10 |
-| Host Name | MarzteR |
+| Players | 2/10 |
+| Host Name | true |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:00:49 |
 
