@@ -13,35 +13,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750375143665 |
-| Players | 1/8 |
-| Host Name | Heat and Run |
+| Lobby ID | 28499750375523277 |
+| Players | 6/8 |
+| Host Name | _EziO_ |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:07:22 |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:08:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750372941172 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name |  |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:03:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750375293249 |
-| Players | 14/15 |
-| Host Name | DeVIP |
+| Lobby ID | 28499750375541985 |
+| Players | 1/8 |
+| Host Name | I.G.Y |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:07:40 |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:08:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750374947384 |
-| Players | 16/24 |
+| Players | 22/24 |
 | Host Name | OoOoO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:06:59 |
@@ -54,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | W A T O B I X |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:05:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750375427830 |
-| Players | 2/8 |
-| Host Name | мэр пизды |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:07:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750375523277 |
-| Players | 6/8 |
-| Host Name | _EziO_ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:08:07 |
 
 
 |  | epic_boss_fight_nightmare |
