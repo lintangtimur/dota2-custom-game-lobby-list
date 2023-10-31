@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750361923449 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Elinbarrage |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:41:34 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750361718379 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Muted all |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:41:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750361846383 |
-| Players | 14/15 |
-| Host Name | ✙ Ukrainian Abrams + |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:41:25 |
+| Lobby ID | 28499750362763271 |
+| Players | 5/8 |
+| Host Name | g to hell fucking divines |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:43:14 |
 
 
 |  | epic_boss_fight_nightmare |
