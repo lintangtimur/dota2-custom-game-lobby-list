@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750433526696 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Karrigan |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:03:19 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750434468677 |
-| Players | 4/15 |
+| Players | 13/15 |
 | Host Name | Vuvuzela Virtuoso Hans Rudolph |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:05:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750434204722 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | austrian painter mode ナチス |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:04:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750430408390 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | неужели..? |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:57:15 |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750434975921 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | ФОРТАНУЛО ЕБАТЬ |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:06:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750435112796 |
+| Players | 1/8 |
+| Host Name | Madafacar |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:06:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750430071875 |
+| Players | 3/8 |
+| Host Name | Mist |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:56:35 |
 
 
 |  | epic_boss_fight_nightmare |
