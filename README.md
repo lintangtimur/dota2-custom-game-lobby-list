@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 08:27:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499218831882619 |
-| Players | 4/8 |
-| Host Name | TAI LUNG |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 08:33:03 |
+| Lobby ID | 28499218831628640 |
+| Players | 6/10 |
+| Host Name | AtomiXs |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:32:30 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CURSE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:33:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499218831902650 |
+| Players | 1/8 |
+| Host Name | ☠丂HۣۜะĨ尺Oۣۜ≈☣ |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:33:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499218831968593 |
+| Players | 6/8 |
+| Host Name | A Tribe Called Bålly |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:33:14 |
 
 
