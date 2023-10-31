@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750441370387 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | BABY-ROSH (AL) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:18:22 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750439728895 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | Gigachad thundercock |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:15:10 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kyouko sakura |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:21:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750443242336 |
+| Players | 2/8 |
+| Host Name | Imagine Losing |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:22:00 |
 
 
 |  | epic_boss_fight_hard |
