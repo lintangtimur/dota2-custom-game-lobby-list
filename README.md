@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750444248189 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | kyouko sakura |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:23:58 |
@@ -40,11 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750441554835 |
+| Lobby ID | 28499750444984042 |
 | Players | 4/8 |
-| Host Name | Bored- |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:18:43 |
+| Host Name | NeftaLo |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:25:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750444988724 |
+| Players | 3/8 |
+| Host Name | в запое с 12 лет |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:25:22 |
 
 
 |  | epic_boss_fight_nightmare |
