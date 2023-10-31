@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499218822836530 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Vortigern |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:14:11 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499218823538976 |
-| Players | 2/15 |
-| Host Name | Snizz |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 08:15:40 |
+| Lobby ID | 28499218823660328 |
+| Players | 1/15 |
+| Host Name | 65daysofstatic |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:15:56 |
 
 
 |  | ot3_desert_octet |
@@ -83,10 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 08:11:12 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499218823645493 |
+| Players | 9/15 |
+| Host Name | step |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:15:54 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499218823067007 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ► Good gay, noob played |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:14:40 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499218822139264 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | GUILLO_LASSO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:12:45 |
