@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499750438002834 |
-| Players | 1/15 |
-| Host Name | Емпик |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:11:54 |
+| Lobby ID | 28499750437408797 |
+| Players | 9/10 |
+| Host Name | Yosecuidarmicuerpo ♪ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:10:46 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750436141546 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:08:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750436903146 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Работайте БРАТЬЯ!!!! |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:09:49 |
@@ -45,24 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | БаРаГуЗ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:11:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28499750437408797 |
-| Players | 9/10 |
-| Host Name | Yosecuidarmicuerpo ♪ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:10:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750430408390 |
-| Players | 7/8 |
-| Host Name | неужели..? |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:57:15 |
 
 
 |  | epic_boss_fight_nightmare |
