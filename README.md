@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750365350411 |
-| Players | 9/10 |
-| Host Name | 𩠑 |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:48:16 |
+| Lobby ID | 28499750368052568 |
+| Players | 3/15 |
+| Host Name | прочитал = пидop |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:53:33 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750368205574 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | DOXXEAME PE CTMR |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:53:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750367916283 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Middleware |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:53:17 |
@@ -76,29 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750368052568 |
-| Players | 2/15 |
-| Host Name | прочитал = пидop |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:53:33 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28499750368217247 |
-| Players | 1/24 |
-| Host Name | Smile |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:53:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499750368222730 |
+| Lobby ID | 28499750368283239 |
 | Players | 1/15 |
-| Host Name | Серёжа |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:53:53 |
+| Host Name | eboshing |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:54:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750368331221 |
+| Players | 1/8 |
+| Host Name | get negro |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:54:06 |
 
 
 |  | epic_boss_fight_nightmare |
