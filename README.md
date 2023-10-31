@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218821410936 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | YO ERA GOZU PERO ME ENAMORE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:11:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218820672791 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Glue Sommelier |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:09:41 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218821971332 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Piroco |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:12:24 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218822019143 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | RonnieDaBear |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:12:30 |
