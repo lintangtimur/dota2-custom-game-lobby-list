@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 10:03:36 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750375834929 |
-| Players | 22/24 |
-| Host Name | -♣ |
+| Lobby ID | 28499750376289792 |
+| Players | 7/8 |
+| Host Name | ¿? |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:08:44 |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:09:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750376554474 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Turd Ferguson |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:10:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750375712248 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Antidisestablishmentarianism |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:08:30 |
@@ -59,19 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750372324352 |
-| Players | 8/10 |
+| Players | 5/10 |
 | Host Name | iamIBradd™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:01:58 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28499750377108895 |
+| Players | 1/24 |
+| Host Name | HolyUP |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:11:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499750377133154 |
+| Players | 6/15 |
+| Host Name | ONE MORE |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:11:14 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750376289792 |
-| Players | 3/8 |
-| Host Name | ¿? |
+| Lobby ID | 28499750377133220 |
+| Players | 4/8 |
+| Host Name | VOLVO DE MRDA |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:09:38 |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:11:14 |
 
 
 |  | epic_boss_fight_nightmare |
