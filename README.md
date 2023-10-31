@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499218806355216 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Shadow |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:39:27 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218806572026 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Guppi |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:39:55 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499218805426706 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | fell in love / 52 |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:37:29 |
@@ -101,10 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 07:41:07 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499218807226259 |
+| Players | 2/15 |
+| Host Name | VADIM |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:41:18 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499218805883214 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Asura™ |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:38:27 |
