@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750431409443 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Wynd |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:59:12 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750432384832 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Ulqiorra |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:01:06 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750433389664 |
-| Players | 1/15 |
-| Host Name | Loki-en |
+| Players | 2/15 |
+| Host Name | =f |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:03:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499750430582142 |
-| Players | 14/15 |
-| Host Name | ChefsiTo |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:57:36 |
+| Lobby ID | 28499750432278386 |
+| Players | 3/10 |
+| Host Name | No me jodas o fedeo..!! |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:00:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750432690228 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | S.PELLEGRINO |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:01:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750433273196 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Coral |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:02:50 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499750432278386 |
+| Lobby ID | 28499750433526696 |
 | Players | 2/10 |
-| Host Name | No me jodas o fedeo..!! |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:00:54 |
+| Host Name | Karrigan |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:03:19 |
 
 
 |  | epic_boss_fight_nightmare |
