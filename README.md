@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750386020476 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | •Crazy Life• ☻ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:28:39 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750388716682 |
-| Players | 4/15 |
-| Host Name | SRP |
+| Players | 2/15 |
+| Host Name | Whalen |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:33:43 |
 
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 10:32:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499750385190703 |
-| Players | 14/15 |
-| Host Name | darkzero5049 |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:27:01 |
+| Lobby ID | 28499750388940960 |
+| Players | 3/10 |
+| Host Name | ⌐◨-◨ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:34:09 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750388030227 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Mcry |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:32:23 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750388878202 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | IISIMI |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:34:02 |
