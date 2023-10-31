@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750424745721 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Curcumalonga |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:46:08 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750424816534 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | XxDestraxxX |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:46:16 |
