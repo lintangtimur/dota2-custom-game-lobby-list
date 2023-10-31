@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750413812797 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Chrisnochet |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:24:51 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750408543902 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Solowind |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:14:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750414005569 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | сочные бабули.cum |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:25:14 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750413611427 |
-| Players | 4/15 |
-| Host Name | ✙ Ukrainian Abrams + |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:24:28 |
+| Lobby ID | 28499750414814704 |
+| Players | 5/15 |
+| Host Name | Corey |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:26:48 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750412924737 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | [Komm] イレイナ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:23:06 |
@@ -68,25 +68,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750412912653 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Jordy Cage |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:23:05 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499750414587538 |
-| Players | 1/15 |
-| Host Name | Tarimi |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:26:22 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750411619446 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | bodak |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:20:29 |
