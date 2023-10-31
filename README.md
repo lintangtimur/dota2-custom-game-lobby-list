@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750379727380 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | The Ruffis 0nE |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:16:13 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750379164857 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | tfg |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:15:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750377901561 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | dk-vm |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:12:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750375712248 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | unalien |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:08:30 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750380038305 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | ♁＊＊ SIA ＊＊ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:16:50 |
