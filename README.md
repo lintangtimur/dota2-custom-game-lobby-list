@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750353104041 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | 4:20 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:24:48 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750347813615 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | mr.dead |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:14:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750350727993 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Aiimer |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:20:14 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 09:24:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750354345803 |
-| Players | 2/15 |
-| Host Name | ད*_ℭ℟Åℤ¥༒Ï_* |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:27:08 |
+| Lobby ID | 28499750354921170 |
+| Players | 1/8 |
+| Host Name | LovE BlAdeE ECCO2k |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:28:15 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750354403526 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Fitty_spenc |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:27:15 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MRavage |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:27:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28499750354862848 |
-| Players | 1/10 |
-| Host Name | LovE BlAdeE ECCO2k |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:28:08 |
 
 
 |  | epic_boss_fight_nightmare |
