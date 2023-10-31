@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28499750465422259 |
-| Players | 23/24 |
-| Host Name | Lennyt |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:05:25 |
+| Lobby ID | 28499750468900561 |
+| Players | 2/24 |
+| Host Name | El Tilin humilde |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:12:40 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750468163243 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:11:09 |
@@ -56,22 +56,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 13:12:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499750469092902 |
-| Players | 1/15 |
-| Host Name | RIMING |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:13:04 |
+| Lobby ID | 28499750469213730 |
+| Players | 1/10 |
+| Host Name | Dyrachyo |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:13:19 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28499750468900561 |
-| Players | 2/24 |
-| Host Name | El Tilin humilde |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:12:40 |
+| Lobby ID | 28499750469203252 |
+| Players | 4/24 |
+| Host Name | x^n+y^n=z^n |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:13:17 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28499750469201802 |
+| Players | 1/24 |
+| Host Name | Taco |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:13:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499750469214273 |
+| Players | 1/15 |
+| Host Name | 碧落黄泉九千胜 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:13:19 |
 
 
 |  | epic_boss_fight_challenger |
@@ -90,5 +108,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Buccue_JR21 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:09:10 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28499750469226536 |
+| Players | 1/5 |
+| Host Name | бародкин |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:13:20 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28499750469228350 |
+| Players | 1/10 |
+| Host Name | Любимые дрова |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:13:20 |
 
 
