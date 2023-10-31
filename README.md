@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750457712757 |
-| Players | 7/8 |
+| Players | 3/8 |
 | Host Name | ФОРТАНУЛО ЕБАТЬ |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:49:58 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | War |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:49:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750458251608 |
-| Players | 3/8 |
-| Host Name | ИМСПАЙРАС |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:51:01 |
 
 
