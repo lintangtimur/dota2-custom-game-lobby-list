@@ -110,31 +110,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 07:04:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499218790272313 |
-| Players | 1/15 |
-| Host Name | 2hero |
+| Lobby ID | 28499218790386146 |
+| Players | 2/10 |
+| Host Name | SOMNUSGOD |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:04:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499218790311030 |
-| Players | 1/8 |
-| Host Name | SPIRIT OF THE WORLD |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:04:59 |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:05:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218790316558 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | HowDareYou |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:05:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499218790429531 |
+| Players | 1/15 |
+| Host Name | 2hero |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:05:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -153,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ☛†THE GOD† |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:03:58 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28499218790420019 |
+| Players | 1/10 |
+| Host Name | raru |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:05:14 |
 
 
