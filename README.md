@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499218822836530 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Vortigern |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:14:11 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218821971332 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Piroco |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:12:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218817995634 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | return мать; if doter: FALSE |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:04:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218822975520 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | BigChicken |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:14:29 |
@@ -86,16 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499218823211199 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Zeze PMA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:14:59 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499218823235183 |
+| Players | 1/8 |
+| Host Name | CaesarJ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:15:02 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499218814700554 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | bodak |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:57:09 |
