@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750368814394 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | cawo_14 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:55:03 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750369422278 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 月亮 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:56:16 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750368550141 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | 🌞♎Ⅿǐĸʊ♎🌞 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:54:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750369694900 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | ShazaM |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:56:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750369786889 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | 1322837 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:56:59 |
@@ -68,27 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750369241647 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:55:54 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750370436456 |
+| Players | 4/8 |
+| Host Name | Cry- |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:58:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750370424337 |
+| Players | 3/8 |
+| Host Name | Un creep mas |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:58:16 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750365516755 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Ee骏龙 |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:48:36 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28499750369815765 |
-| Players | 1/10 |
-| Host Name | TAPIJARO |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:57:02 |
 
 
