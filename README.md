@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750427955399 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | 11by |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:52:27 |
@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750429481440 |
+| Lobby ID | 28499750429722467 |
 | Players | 1/8 |
-| Host Name | whyny |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:55:26 |
+| Host Name | roll |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:55:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750429063625 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | 1322837 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:54:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750427261857 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | Gigachad thundercock |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:51:04 |
@@ -58,20 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750429722467 |
+| Lobby ID | 28499750429846689 |
 | Players | 1/8 |
-| Host Name | roll |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:55:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499750428756226 |
-| Players | 14/15 |
-| Host Name | Priamo v rojy |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:54:00 |
+| Host Name | eve |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:56:08 |
 
 
 |  | epic_boss_fight_nightmare |
