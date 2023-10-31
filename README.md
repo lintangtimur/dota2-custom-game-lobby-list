@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750419391011 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | TIO CALICHE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:35:39 |
@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28499750419936533 |
 | Players | 4/24 |
-| Host Name | REM |
+| Host Name | haz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:36:42 |
 
@@ -45,6 +45,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Crow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:36:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499750420128903 |
+| Players | 1/10 |
+| Host Name | victoredu8998 godota2.com |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:37:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750420142899 |
+| Players | 1/8 |
+| Host Name | неужели..? |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:37:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28499750420163523 |
+| Players | 2/24 |
+| Host Name | |°Sam°| |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:37:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750419616960 |
+| Players | 6/8 |
+| Host Name | ФОРТАНУЛО ЕБАТЬ |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:36:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | monday left me broken cat |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:35:12 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28499750420123362 |
-| Players | 1/5 |
-| Host Name | . |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:37:04 |
 
 
