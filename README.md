@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28499750419936533 |
 | Players | 8/24 |
-| Host Name | 1-800-LOW-PRIO |
+| Host Name | REM |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:36:42 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750420326106 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Shankeeto #FreePalestine |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:37:28 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750420529523 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | HGH |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:37:52 |
