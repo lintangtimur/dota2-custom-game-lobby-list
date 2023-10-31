@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750368205574 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | DOXXEAME PE CTMR |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:53:51 |
@@ -83,13 +83,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 09:54:01 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28499750368410585 |
+| Players | 1/24 |
+| Host Name | El Bebecito |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:54:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28499750368414678 |
+| Players | 3/24 |
+| Host Name | -a |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:54:16 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750368331221 |
+| Lobby ID | 28499750368404279 |
 | Players | 1/8 |
-| Host Name | get negro |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:54:06 |
+| Host Name | Robin serio |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:54:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | momo&peach princess |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:47:24 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28499750368356190 |
+| Players | 1/10 |
+| Host Name | TAPIJARO |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:54:09 |
 
 
