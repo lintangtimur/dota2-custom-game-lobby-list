@@ -65,6 +65,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 13:43:55 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499750484652714 |
+| Players | 1/15 |
+| Host Name | MR.CHIKI |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:44:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750484669581 |
+| Players | 3/8 |
+| Host Name | Megamente |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:44:08 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28499750462093473 |
