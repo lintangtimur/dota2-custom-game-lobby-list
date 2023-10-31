@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750444137129 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | Superman Pans |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:23:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750446114147 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | huy292003 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:27:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750444989167 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Makson! sw3g. |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:25:22 |
@@ -60,9 +60,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28499750446602496 |
 | Players | 2/8 |
-| Host Name | Tamborsito |
+| Host Name | XD |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:28:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499750446986695 |
+| Players | 2/15 |
+| Host Name | coomerbot |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:29:14 |
 
 
 |  | epic_boss_fight_nightmare |
