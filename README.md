@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750435112796 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Manu |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:06:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750434204722 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | austrian painter mode ナチス |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:04:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750436057830 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | AMAZO |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:08:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750435604378 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | YATOO |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:07:17 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750434975921 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | ФОРТАНУЛО ЕБАТЬ |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:06:05 |
