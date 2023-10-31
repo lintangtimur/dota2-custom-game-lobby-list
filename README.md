@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 09:37:34 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750359980114 |
-| Players | 1/8 |
-| Host Name | Десятиклассница |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:37:43 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750357974082 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28499750359116288 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | momo&peach princess |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:36:01 |
