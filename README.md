@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750460952161 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | SharKy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:56:16 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750459863730 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | haunt |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:54:07 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750461769399 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Grumbledorp |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:57:54 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750461759644 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Dr. Chaputin modo Sexo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:57:53 |
@@ -104,10 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750462284142 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:58:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750462416656 |
+| Players | 3/8 |
+| Host Name | АРТЕМ СТРУБЦИНА |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:59:11 |
 
 
 |  | epic_boss_fight_challenger |
@@ -144,14 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Leinach |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:58:53 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28499750462321693 |
-| Players | 1/5 |
-| Host Name | POM |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:59:00 |
 
 
