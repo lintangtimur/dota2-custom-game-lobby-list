@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 11:28:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750415660930 |
-| Players | 2/10 |
-| Host Name | Crow |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:28:28 |
+| Lobby ID | 28499750415357547 |
+| Players | 2/15 |
+| Host Name | Я РАЗДРАЖИТЕЛЬНЫЙ МЕНЯ ВСЕ БЕСИТ |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:27:52 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750415022903 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | BULL |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:27:12 |
@@ -86,34 +86,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750415304244 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | TE MATO Y ME ESCAPO. |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:27:46 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499750415953532 |
+| Players | 4/10 |
+| Host Name | Toxic |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:29:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750415979089 |
+| Players | 1/8 |
+| Host Name | ФОРТАНУЛО ЕБАТЬ |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:29:06 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750415357547 |
-| Players | 2/15 |
-| Host Name | Я РАЗДРАЖИТЕЛЬНЫЙ МЕНЯ ВСЕ БЕСИТ |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:27:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28499750415929912 |
-| Players | 1/24 |
-| Host Name | h. |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:29:01 |
+| Lobby ID | 28499750416008280 |
+| Players | 6/15 |
+| Host Name | _EziO_ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:29:10 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750411619446 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | bodak |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:20:29 |
