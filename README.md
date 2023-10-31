@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750348696031 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Mr.Popo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:16:16 |
@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28499750347734125 |
 | Players | 4/24 |
-| Host Name | Kira- |
+| Host Name | Vάιŝ♡√•∆ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:14:26 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750347659175 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | R3sist4nce. |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:14:18 |
@@ -103,29 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750349022441 |
-| Players | 1/15 |
-| Host Name | Bagel Tiger |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:16:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499750349018320 |
-| Players | 6/15 |
-| Host Name | onlyBaiter |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:16:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499750349013486 |
-| Players | 1/15 |
-| Host Name | Elinbarrage |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:16:54 |
+| Lobby ID | 28499750349073523 |
+| Players | 2/15 |
+| Host Name | Mouches Volantes |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:17:01 |
 
 
 |  | epic_boss_fight_normal |
