@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750456167254 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Shulton 2.0 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:46:57 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 12:46:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28499750456056086 |
-| Players | 2/10 |
-| Host Name | Obiwan. |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:46:44 |
+| Lobby ID | 28499750456109736 |
+| Players | 7/24 |
+| Host Name | Dragostea Din Tei |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:46:50 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750454604312 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | РОМАТИМБЕРСАУ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:43:55 |
@@ -74,12 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 12:45:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750456109736 |
-| Players | 4/24 |
-| Host Name | Dragostea Din Tei |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:46:50 |
+| Lobby ID | 28499750456340845 |
+| Players | 2/15 |
+| Host Name | Obiwan. |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:47:17 |
 
 
