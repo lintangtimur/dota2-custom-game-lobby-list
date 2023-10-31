@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218791348334 |
-| Players | 4/10 |
-| Host Name | Punch |
+| Players | 2/10 |
+| Host Name | Грязный гуч |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:07:17 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218791186614 |
-| Players | 7/15 |
+| Players | 4/15 |
 | Host Name | sooshiant |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:06:57 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218792653204 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Smell like teen spirit |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:09:59 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218792785172 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | IfukeNYPD |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:10:15 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218792983131 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | URO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:10:40 |
@@ -122,19 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218793079674 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | EL DIOS DEL CHESS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:10:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499218792225642 |
-| Players | 7/10 |
-| Host Name | magic Mike |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:09:06 |
+| Lobby ID | 28499218793178481 |
+| Players | 1/8 |
+| Host Name | Сука |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:11:05 |
 
 
 |  | ot3_jungle_quintet |
