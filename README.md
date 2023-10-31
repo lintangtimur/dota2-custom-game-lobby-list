@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750373835565 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | sangre y luto |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:04:52 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750373160819 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | . |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:03:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750373935134 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | el ban me hizo mas fuerte |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:05:04 |
@@ -68,28 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750373538307 |
-| Players | 5/10 |
-| Host Name | veigh77 |
+| Players | 4/10 |
+| Host Name | ya no soy mas heraldo ctmr |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:04:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499750373979004 |
-| Players | 5/8 |
-| Host Name | AHSOKA |
+| Lobby ID | 28499750374038568 |
+| Players | 2/10 |
+| Host Name | W A T O B I X |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:05:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499750373686482 |
-| Players | 15/15 |
-| Host Name | P |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:04:36 |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:05:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KENT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:59:18 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28499750373644590 |
-| Players | 1/5 |
-| Host Name | Seo Lee Hin |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:04:31 |
 
 
 |  | epic_boss_fight_nightmare |
