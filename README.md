@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750465422259 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | Lennyt |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:05:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750468099316 |
-| Players | 6/24 |
+| Players | 13/24 |
 | Host Name | What the fuck is wrong with you |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:11:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750468163243 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:11:09 |
@@ -50,28 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750468844078 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | TwT |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:12:33 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750468839059 |
-| Players | 1/8 |
-| Host Name | 갈 리치 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:12:33 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750468902956 |
+| Lobby ID | 28499750469092902 |
 | Players | 1/15 |
 | Host Name | RIMING |
 | Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:12:41 |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:13:04 |
 
 
 |  | ot3_desert_octet |
@@ -81,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | El Tilin humilde |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:12:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499750468036795 |
-| Players | 14/15 |
-| Host Name | Gojō |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:10:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750469017151 |
-| Players | 1/8 |
-| Host Name | Lippi |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:12:55 |
 
 
 |  | epic_boss_fight_challenger |
