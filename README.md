@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750358668718 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | КАРОЛЬ ДАЛБАЁБОВ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:35:08 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750358731542 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | so ez |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:35:16 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 09:30:12 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28499750357355193 |
-| Players | 1/5 |
-| Host Name | _THE_OLD™Hunter™ |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:32:39 |
+| Lobby ID | 28499750359116288 |
+| Players | 1/7 |
+| Host Name | momo&peach princess |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:36:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KhalilMeister |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:33:49 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28499750359116288 |
-| Players | 1/7 |
-| Host Name | momo&peach princess |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:36:01 |
 
 
