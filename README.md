@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970427692753 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | s0987 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 06:41:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970428046641 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Kill 'Em All |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 06:42:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970427909160 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Mor'Grim |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 06:41:44 |
@@ -77,10 +77,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970427983765 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | TvoiTamada |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 06:41:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970428140551 |
+| Players | 5/10 |
+| Host Name | Sadman |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 06:42:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970428117446 |
+| Players | 2/8 |
+| Host Name | An!mEШka |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 06:42:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970428118152 |
+| Players | 1/10 |
+| Host Name | Purple Star |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 06:42:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970428176968 |
+| Players | 6/10 |
+| Host Name | ǝʞʞɒ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 06:42:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970428172206 |
+| Players | 1/8 |
+| Host Name | Rousseau |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 06:42:16 |
 
 
 |  | epic_boss_fight_nightmare |
