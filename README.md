@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750363011190 |
-| Players | 14/15 |
-| Host Name | LOPLELULUEUU |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:43:44 |
+| Lobby ID | 28499750364102821 |
+| Players | 1/8 |
+| Host Name | I.G.Y |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:45:51 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750363624358 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Oklahoma |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:44:55 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750363566346 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | ¾ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:44:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750363370944 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | TrueStories |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:44:25 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | * |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:45:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750364102821 |
-| Players | 1/8 |
-| Host Name | I.G.Y |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:45:51 |
 
 
 |  | epic_boss_fight_nightmare |
