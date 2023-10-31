@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750436141546 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:08:20 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750437772282 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | DIMITREE |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:11:28 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 12:12:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499750437635419 |
-| Players | 7/8 |
-| Host Name | БаРаГуЗ |
+| Lobby ID | 28499750436903146 |
+| Players | 8/10 |
+| Host Name | Работайте БРАТЬЯ!!!! |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:11:12 |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:09:49 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750438355772 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Croockshanks - Benjibur 雨用 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:12:35 |
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 12:12:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750436903146 |
-| Players | 8/10 |
-| Host Name | Работайте БРАТЬЯ!!!! |
+| Lobby ID | 28499750438621905 |
+| Players | 1/15 |
+| Host Name | baoeq |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:13:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750437635419 |
+| Players | 7/8 |
+| Host Name | БаРаГуЗ |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:09:49 |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:11:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | wdym |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:09:58 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28499750438574812 |
-| Players | 1/5 |
-| Host Name | KERRIGAN |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:13:00 |
 
 
