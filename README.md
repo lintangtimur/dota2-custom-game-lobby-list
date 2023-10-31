@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218841695272 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | Kokodrile |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:53:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218840718876 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | EST 19XX |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:51:24 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218842192848 |
-| Players | 2/15 |
-| Host Name | PMA|2001/S<3~ |
+| Players | 1/15 |
+| Host Name | el ban me hizo mas fuerte |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:54:33 |
 
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | zero |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:55:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499218842502117 |
+| Players | 1/8 |
+| Host Name | ГАЙДА МЕДИА |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:55:12 |
 
 
 |  | epic_boss_fight_nightmare |
