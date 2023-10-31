@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750395754661 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Zekken giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:47:55 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750397186084 |
-| Players | 1/15 |
-| Host Name | SanKok |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:50:51 |
+| Lobby ID | 28499750397207124 |
+| Players | 6/15 |
+| Host Name | Ĵύȿṫẏ |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:50:53 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750391187589 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Gaterade |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:38:41 |
@@ -60,17 +60,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28499750397190547 |
 | Players | 1/10 |
-| Host Name | ёбырь |
+| Host Name | !ceDiamond |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:50:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750397207124 |
-| Players | 1/15 |
-| Host Name | Ĵύȿṫẏ |
+| Lobby ID | 28499750397235758 |
+| Players | 2/8 |
+| Host Name | dota 2 говно |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:50:53 |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:50:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499750397306147 |
+| Players | 1/10 |
+| Host Name | ёбырь |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:51:05 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28499750397238554 |
+| Players | 1/5 |
+| Host Name | Leonkill86 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:50:57 |
 
 
