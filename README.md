@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750408790010 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | RMT(McMani Rockefeller) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:14:41 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750409382358 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | The Dawg |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:15:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750409487138 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Gransax |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:16:06 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750409994208 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | EPEEB |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:17:08 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750410096752 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Isagi Yoichi |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:17:21 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750410038464 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | samurai |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:17:14 |
