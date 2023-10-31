@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218797027778 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | tu culo es mi palacio |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:19:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218798208950 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Дрочеслав |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:22:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499218795801054 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | ¿como ta a mente do palhaço? |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:16:49 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218795255123 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | BRunzilian |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:15:37 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218798662274 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | [Wario] Timheid |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:23:06 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499218797425491 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Deus lo vult |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:20:21 |
@@ -153,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | El Graznadiento |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:21:49 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28499218798745396 |
+| Players | 2/7 |
+| Host Name | PMA abuser |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:23:17 |
 
 
