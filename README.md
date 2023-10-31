@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750464136965 |
-| Players | 18/24 |
+| Players | 23/24 |
 | Host Name | izi pipilin |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:02:47 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750464766962 |
-| Players | 3/15 |
-| Host Name | 8 SEMANAS PARA NAVIDAD |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:04:05 |
+| Lobby ID | 28499750460374584 |
+| Players | 14/15 |
+| Host Name | morlock |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:55:07 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750464367928 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | сочные бабули.cum |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:03:16 |
@@ -65,10 +65,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 13:05:05 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28499750465422259 |
+| Players | 1/24 |
+| Host Name | please dont ban AA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:05:25 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499750465580690 |
+| Players | 2/10 |
+| Host Name | DΛЯK SIDΣ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:05:44 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28499750462093473 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | 汐世 |
 | Region | PWTELECOMSHANGHAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:58:33 |
@@ -77,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750464854345 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Tampal Pekpek |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:04:15 |
