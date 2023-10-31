@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218842703993 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Glue Sommelier |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:55:38 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218841338640 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Edit Profile |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:52:43 |
@@ -65,13 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 08:55:00 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28499218842986380 |
+| Players | 2/24 |
+| Host Name | newbrill |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:56:14 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499218842958237 |
-| Players | 1/10 |
-| Host Name | £ea<3 |
+| Lobby ID | 28499218842991158 |
+| Players | 2/10 |
+| Host Name | KiW3^ |
 | Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 08:56:11 |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:56:15 |
 
 
 |  | epic_boss_fight_nightmare |
