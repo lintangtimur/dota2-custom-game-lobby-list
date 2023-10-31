@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218801336060 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | < blank > |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:28:51 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218801021824 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | tu cieja no jodas |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:28:13 |
@@ -101,24 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 07:25:21 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499218800575398 |
-| Players | 14/15 |
-| Host Name | An Innocent Coconut |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:27:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28499218801329043 |
-| Players | 3/10 |
-| Host Name | Bello |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:28:50 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499218801248383 |
@@ -130,11 +112,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499218800637881 |
-| Players | 8/10 |
-| Host Name | pohui proebali |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:27:26 |
+| Lobby ID | 28499218801329043 |
+| Players | 3/10 |
+| Host Name | Bello |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:28:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499218801512350 |
+| Players | 1/15 |
+| Host Name | 小伙伴 |
+| Region | Unknown |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:29:12 |
 
 
 |  | epic_boss_fight_normal |
