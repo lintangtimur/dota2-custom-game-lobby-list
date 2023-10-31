@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750373160819 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | . |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:03:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28499750374309682 |
-| Players | 14/15 |
-| Host Name | another love |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:05:46 |
+| Lobby ID | 28499750374947384 |
+| Players | 5/24 |
+| Host Name | OoOoO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:06:59 |
 
 
 |  | ot3_gardens_duo |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 10:06:24 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750374947384 |
-| Players | 4/24 |
-| Host Name | OoOoO |
+| Lobby ID | 28499750375069166 |
+| Players | 4/8 |
+| Host Name | Rocky |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:06:59 |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:07:13 |
 
 
 |  | epic_boss_fight_nightmare |
