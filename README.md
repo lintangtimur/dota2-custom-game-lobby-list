@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750393252978 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | AKashi~ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:42:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750392267723 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | ♁＊＊ SIA ＊＊ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:40:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750392604261 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Robin serio |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:41:33 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mighty Brow |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:38:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750393349043 |
+| Players | 1/8 |
+| Host Name | ФОРТАНУЛО ЕБАТЬ |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:43:04 |
 
 
 |  | epic_boss_fight_nightmare |
