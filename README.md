@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750406231199 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Bonitos y gorditos hijos de puta |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:09:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750406839185 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | >nØrtendal< |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:10:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750406207644 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Ant |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:09:30 |
@@ -54,6 +54,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Xd |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:10:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750407035955 |
+| Players | 1/8 |
+| Host Name | принеситеигроков |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:11:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750407060832 |
+| Players | 1/8 |
+| Host Name | To Fu |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:11:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750407067885 |
+| Players | 1/8 |
+| Host Name | Spire |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:11:15 |
 
 
 |  | epic_boss_fight_nightmare |
