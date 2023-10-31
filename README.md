@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750441595797 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | no cheat |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:18:48 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750440754881 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | erik |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:17:10 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 12:17:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750440485684 |
-| Players | 8/10 |
-| Host Name | Solowind |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:16:38 |
+| Lobby ID | 28499750441554835 |
+| Players | 3/8 |
+| Host Name | Bored- |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:18:43 |
 
 
 |  | ot3_necropolis_ffa |
@@ -63,23 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BABY-ROSH (AL) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:18:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750441411801 |
-| Players | 7/8 |
-| Host Name | all good |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:18:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750441554835 |
-| Players | 3/8 |
-| Host Name | Bored- |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:18:43 |
 
 
