@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750431409443 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Wynd |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:59:12 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750430071875 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | eve |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:56:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750432384832 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Ulqiorra |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:01:06 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750431410100 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:59:13 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750432730684 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | >nØrtendal< |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:01:47 |
@@ -113,9 +113,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750432735095 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | МИР |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:01:47 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28499750432795535 |
+| Players | 1/10 |
+| Host Name | rbg |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:01:54 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28499750432848426 |
+| Players | 1/5 |
+| Host Name | dyrachoy |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:02:00 |
 
 
