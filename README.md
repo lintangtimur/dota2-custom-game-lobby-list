@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750398393034 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | EPEEB |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:53:16 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750399620567 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Platinum |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:55:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750398953398 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | FOR FUN |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:54:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750399170722 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Sharuko |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:54:51 |
@@ -95,26 +95,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750398991981 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | пошол |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:54:29 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499750399810563 |
-| Players | 2/15 |
-| Host Name | FemLord |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:56:10 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750399037644 |
-| Players | 5/10 |
-| Host Name | Colleen |
+| Players | 6/10 |
+| Host Name | BIG D |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:54:34 |
 
