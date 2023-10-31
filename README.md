@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499218816901584 |
-| Players | 2/15 |
-| Host Name | KoL9 |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 08:01:50 |
+| Lobby ID | 28499218817394279 |
+| Players | 1/15 |
+| Host Name | howdafuqmyteamisagathaallalong |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:02:52 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218816907015 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | szx1e3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:01:50 |
@@ -41,54 +41,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218816750048 |
-| Players | 6/24 |
+| Players | 15/24 |
 | Host Name | Duney |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:01:30 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499218815947471 |
-| Players | 7/15 |
-| Host Name | F |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:59:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499218816628501 |
-| Players | 5/8 |
-| Host Name | Jivchik |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 08:01:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499218817147083 |
-| Players | 2/15 |
-| Host Name | Zuus |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, October 31, 2023 08:02:21 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499218816654963 |
-| Players | 9/10 |
-| Host Name | рокенролю |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 08:01:18 |
+| Lobby ID | 28499218817419706 |
+| Players | 1/10 |
+| Host Name | ♥Miul♥ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:02:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499218814700554 |
 | Players | 2/10 |
-| Host Name | bodak |
+| Host Name | Neil Armstrong |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:57:09 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28499218817414857 |
+| Players | 1/5 |
+| Host Name | олег зеленый |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:02:55 |
 
 
