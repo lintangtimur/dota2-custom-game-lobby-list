@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 12:03:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750434468677 |
-| Players | 13/15 |
-| Host Name | Vuvuzela Virtuoso Hans Rudolph |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:05:07 |
+| Lobby ID | 28499750430071875 |
+| Players | 2/8 |
+| Host Name | Keneki Kam♥♥♥ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:56:35 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750434975921 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | ФОРТАНУЛО ЕБАТЬ |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:06:05 |
@@ -83,21 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 12:06:21 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750430071875 |
-| Players | 3/8 |
-| Host Name | Mist |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:56:35 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750434467102 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Pewpew |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:05:06 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28499750435467624 |
+| Players | 1/5 |
+| Host Name | Стенд ап Задорнов |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:07:01 |
 
 
