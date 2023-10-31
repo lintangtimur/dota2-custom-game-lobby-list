@@ -83,10 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 09:41:34 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28499750362113382 |
+| Players | 1/24 |
+| Host Name | •Crazy Life• ☻ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:41:57 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750360882608 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Minerva |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:39:31 |
@@ -99,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hisoka |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:41:44 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28499750362118942 |
+| Players | 1/7 |
+| Host Name | momo&peach princess |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:41:58 |
 
 
