@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499218801759643 |
-| Players | 1/15 |
-| Host Name | Muco |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:29:42 |
+| Lobby ID | 28499218801846171 |
+| Players | 9/10 |
+| Host Name | magic Mike |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:29:53 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499218800281786 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | shedelok |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:26:42 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 07:16:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499218799657700 |
-| Players | 1/8 |
-| Host Name | Hope |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:25:20 |
+| Lobby ID | 28499218802014629 |
+| Players | 1/15 |
+| Host Name | 65daysofstatic |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:30:13 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218797480816 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Elinbarrage |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:20:29 |
@@ -122,28 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218801825487 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | Anti-Tate |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:29:50 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28499218801846171 |
-| Players | 8/10 |
-| Host Name | magic Mike |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:29:53 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499218801896251 |
-| Players | 1/15 |
-| Host Name | 65daysofstatic |
+| Lobby ID | 28499218802011310 |
+| Players | 2/15 |
+| Host Name | EVA ELFI |
 | Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:29:59 |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:30:13 |
 
 
 |  | epic_boss_fight_normal |
