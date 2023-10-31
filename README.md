@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750408790010 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | RMT(McMani Rockefeller) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:14:41 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750409382358 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | The Dawg |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:15:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750409845049 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | NullPointerException |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:16:50 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499750409143508 |
-| Players | 8/10 |
-| Host Name | сочные бабули.cum |
+| Lobby ID | 28499750410257529 |
+| Players | 1/10 |
+| Host Name | 月亮 |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:15:24 |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:17:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750410015493 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Ajax |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:17:11 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750409994208 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | EPEEB |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:17:08 |
@@ -131,19 +131,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750410052457 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | 1322837 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:17:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28499750410257529 |
-| Players | 1/10 |
-| Host Name | 月亮 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:17:41 |
 
 
 |  | epic_boss_fight_nightmare |
