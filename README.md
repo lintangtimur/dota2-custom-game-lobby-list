@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218826659166 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | MrKiN^ |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:22:13 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218828416526 |
-| Players | 12/24 |
+| Players | 17/24 |
 | Host Name | 1mmolationstayhc |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:25:57 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 08:27:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499218829455966 |
-| Players | 9/10 |
-| Host Name | <ALETHEIA> |
+| Lobby ID | 28499218830251859 |
+| Players | 3/8 |
+| Host Name | L1ger |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 08:28:05 |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:29:40 |
 
 
 |  | ot3_gardens_duo |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499218829967803 |
-| Players | 1/10 |
-| Host Name | Grumbledorp |
+| Lobby ID | 28499218830109841 |
+| Players | 2/10 |
+| Host Name | w0rse |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 08:29:07 |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:29:23 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218829896111 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Aesgard |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:28:58 |
@@ -103,28 +103,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499218829612927 |
-| Players | 2/8 |
-| Host Name | LionEl'Pobi |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 08:28:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499218830048438 |
-| Players | 1/15 |
-| Host Name | DareDevi1 |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 08:29:16 |
+| Lobby ID | 28499218830361006 |
+| Players | 1/8 |
+| Host Name | Pistolita |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:29:53 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499218828084626 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | 12 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:25:15 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28499218830278460 |
+| Players | 1/5 |
+| Host Name | GameMochi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:29:44 |
 
 
