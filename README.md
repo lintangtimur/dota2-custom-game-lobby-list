@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750438355772 |
+| Lobby ID | 28499750437635419 |
 | Players | 7/8 |
-| Host Name | Croockshanks - Benjibur 雨用 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:12:35 |
+| Host Name | БаРаГуЗ |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:11:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750438550915 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Kir-‘๑’-by༊*·˚ |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:12:57 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 12:13:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750437635419 |
-| Players | 7/8 |
-| Host Name | БаРаГуЗ |
+| Lobby ID | 28499750438734841 |
+| Players | 2/15 |
+| Host Name | cheekycheef |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:11:12 |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:13:18 |
 
 
 |  | epic_boss_fight_nightmare |
