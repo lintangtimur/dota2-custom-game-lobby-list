@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 10:13:43 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750378402381 |
-| Players | 1/24 |
-| Host Name | Staz |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:13:38 |
+| Lobby ID | 28499750378657828 |
+| Players | 4/8 |
+| Host Name | Capitan wawa |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:14:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750375712248 |
-| Players | 7/24 |
+| Players | 5/24 |
 | Host Name | unalien |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:08:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750377704936 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | ~{ ■} |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:12:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750377851165 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | InSaNia! |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:12:36 |
@@ -83,19 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 10:12:39 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750378657828 |
-| Players | 4/8 |
-| Host Name | Capitan wawa |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:14:07 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750378423272 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | stacked |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:13:40 |
