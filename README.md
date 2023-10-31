@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750348811040 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | w0rse |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:16:30 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750349841834 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | all good |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:18:33 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750347734125 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Vάιŝ♡√•∆ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:14:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750349374548 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Elinbarrage |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:17:37 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 09:17:54 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28499750349525293 |
-| Players | 1/10 |
-| Host Name | MESSI |
+| Lobby ID | 28499750349995977 |
+| Players | 1/5 |
+| Host Name | Aceson |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:17:55 |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:18:51 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -125,15 +125,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Players | 1/5 |
 | Host Name | brunopumaXD |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:18:51 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28499750349995977 |
-| Players | 1/5 |
-| Host Name | Aceson |
-| Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:18:51 |
 
 
