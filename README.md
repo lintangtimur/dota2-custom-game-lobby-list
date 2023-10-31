@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499218818822081 |
-| Players | 1/8 |
-| Host Name | .Theo |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 08:05:53 |
+| Lobby ID | 28499218817984571 |
+| Players | 7/8 |
+| Host Name | Kukurudza Striptizerka |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:04:07 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218796142945 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | KeiiiiGeee! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:17:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218818532935 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Middleware |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:05:16 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218818740794 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Kad |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:05:43 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218817995634 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | TSpirit.Collapse <3 |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:04:08 |
@@ -95,19 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218818423054 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | ٴ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:05:02 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499218818859884 |
+| Players | 6/8 |
+| Host Name | ᗪ3𝙿𝚁𝟹$$3D💔 |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:05:58 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499218818833617 |
-| Players | 1/15 |
-| Host Name | Дрочеслав |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 08:05:54 |
+| Lobby ID | 28499218818915870 |
+| Players | 3/15 |
+| Host Name | 1322837 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:06:05 |
 
 
 |  | epic_boss_fight_nightmare |
