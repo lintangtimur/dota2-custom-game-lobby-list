@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499218801825487 |
-| Players | 12/15 |
-| Host Name | Anti-Tate |
+| Lobby ID | 28499218797027778 |
+| Players | 11/15 |
+| Host Name | tu culo es mi palacio |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:29:50 |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:19:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218799669889 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | danz |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:25:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499218801329043 |
-| Players | 3/10 |
-| Host Name | Bello |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:28:50 |
+| Lobby ID | 28499218802461579 |
+| Players | 3/15 |
+| Host Name | Sicario |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:31:09 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499218795801054 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ¿como ta a mente do palhaço? |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:16:49 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499218802014629 |
-| Players | 12/15 |
-| Host Name | 65daysofstatic |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:30:13 |
+| Lobby ID | 28499218797480816 |
+| Players | 11/15 |
+| Host Name | Elinbarrage |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:20:29 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218801021824 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | tu cieja no jodas |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:28:13 |
@@ -85,37 +85,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499218797480816 |
-| Players | 9/15 |
-| Host Name | Elinbarrage |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:20:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499218802461579 |
+| Lobby ID | 28499218802726793 |
 | Players | 1/15 |
-| Host Name | Sicario |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:31:09 |
+| Host Name | SyX |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:31:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499218802815931 |
+| Players | 2/10 |
+| Host Name | Bello |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:31:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499218802814564 |
+| Players | 1/10 |
+| Host Name | New God |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:31:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499218802820138 |
+| Players | 1/10 |
+| Host Name | no echo gang |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:31:55 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28499218800995674 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Who?me? |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:28:10 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28499218801130058 |
-| Players | 6/10 |
-| Host Name | bodak |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:28:26 |
 
 
