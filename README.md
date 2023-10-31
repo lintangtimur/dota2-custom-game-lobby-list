@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 08:04:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499218822835268 |
-| Players | 1/10 |
-| Host Name | Error.On.Fire.xD |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 08:14:11 |
+| Lobby ID | 28499218824629842 |
+| Players | 1/15 |
+| Host Name | Es un Elissir xD |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:17:58 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218824148295 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Oklahoma |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:16:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218824496302 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | мориарти///MEGA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:17:41 |
@@ -95,10 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218824446954 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | REYNOSO CTM |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:17:35 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28499218822019143 |
+| Players | 24/24 |
+| Host Name | RonnieDaBear |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:12:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499218824710232 |
+| Players | 1/8 |
+| Host Name | Jivchik |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:18:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,14 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hisoka |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:17:46 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28499218824611783 |
-| Players | 3/10 |
-| Host Name | Настюша АУФ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 08:17:56 |
 
 
