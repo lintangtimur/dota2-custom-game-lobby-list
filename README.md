@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750373835565 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | sangre y luto |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:04:52 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 10:03:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750372868449 |
-| Players | 7/10 |
-| Host Name | Aggressive Koala |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:03:02 |
+| Lobby ID | 28499750374309682 |
+| Players | 4/15 |
+| Host Name | another love |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:05:46 |
 
 
 |  | ot3_gardens_duo |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | W A T O B I X |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:05:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499750374309682 |
-| Players | 3/15 |
-| Host Name | another love |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:05:46 |
 
 
 |  | epic_boss_fight_nightmare |
