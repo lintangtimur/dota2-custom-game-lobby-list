@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499750469203252 |
-| Players | 18/24 |
-| Host Name | x^n+y^n=z^n |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:13:17 |
+| Lobby ID | 28499750471770778 |
+| Players | 8/10 |
+| Host Name | SimpleJust 🇺🇦 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:18:34 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750468900561 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | El Tilin humilde |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:12:40 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750471470809 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | coup de grâce 力 |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:17:57 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | erik |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:16:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28499750471770778 |
-| Players | 7/10 |
-| Host Name | SimpleJust 🇺🇦 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:18:34 |
 
 
 |  | epic_boss_fight_challenger |
