@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218803057170 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Crysstallus |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:32:26 |
@@ -20,31 +20,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 07:32:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499218797622059 |
-| Players | 1/8 |
-| Host Name | Vortigern |
+| Lobby ID | 28499218803924410 |
+| Players | 1/10 |
+| Host Name | GUYI |
 | Region | USWEST |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:20:47 |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:34:16 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218796142945 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | KeiiiiGeee! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:17:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28499218803501098 |
-| Players | 7/8 |
-| Host Name | LOMNI |
+| Lobby ID | 28499218802981275 |
+| Players | 22/24 |
+| Host Name | MAGINER |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:33:23 |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:32:16 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218797480816 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Elinbarrage |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:20:29 |
@@ -99,32 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Horus |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:33:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28499218802981275 |
-| Players | 19/24 |
-| Host Name | MAGINER |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:32:16 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28499218803779230 |
-| Players | 2/24 |
-| Host Name | pan pan cul cul |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:33:58 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28499218803635785 |
-| Players | 4/10 |
-| Host Name | kaihgsdda |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:33:40 |
 
 
