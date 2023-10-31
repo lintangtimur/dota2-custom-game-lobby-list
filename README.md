@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750407280927 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | The Perfect Girl |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:11:41 |
@@ -59,10 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750407060832 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | To Fu |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:11:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499750407568310 |
+| Players | 1/10 |
+| Host Name | sp_flame |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:12:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750407605081 |
+| Players | 2/8 |
+| Host Name | LeD |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:12:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Jewish |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:11:36 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28499750406771686 |
-| Players | 1/5 |
-| Host Name | ESCANOR |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:10:39 |
 
 
