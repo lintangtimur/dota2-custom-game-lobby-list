@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218810398357 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Another |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:48:02 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218818130613 |
-| Players | 23/24 |
+| Players | 21/24 |
 | Host Name | ✪0330 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:04:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218819417695 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | BjornIronsid |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:07:08 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499218820040123 |
-| Players | 6/8 |
-| Host Name | GoldenTrash |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 08:08:24 |
+| Lobby ID | 28499218820438890 |
+| Players | 1/8 |
+| Host Name | YATOROGOD/giordota.com |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:09:13 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218820204766 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | КАРОЛЬ ДАЛБАЁБОВ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:08:45 |
@@ -113,10 +113,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218820326591 |
-| Players | 2/10 |
-| Host Name | Darichin |
+| Players | 1/10 |
+| Host Name | jOey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:08:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499218820423323 |
+| Players | 2/15 |
+| Host Name | zer0.k |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:09:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499218820446542 |
+| Players | 1/8 |
+| Host Name | Darichin |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:09:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499218820434157 |
+| Players | 1/8 |
+| Host Name | CURSE |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:09:13 |
 
 
 |  | epic_boss_fight_nightmare |
