@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218797749241 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | coa7279 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:21:04 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218796142945 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | KeiiiiGeee! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:17:33 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 07:19:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499218797330190 |
-| Players | 7/8 |
-| Host Name | AkiKo Annaisha kim Sung |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:20:09 |
+| Lobby ID | 28499218798208950 |
+| Players | 3/15 |
+| Host Name | Дрочеслав |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:22:05 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499218795801054 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | ¿como ta a mente do palhaço? |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:16:49 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218797498090 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | Dragon |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:20:31 |
@@ -139,11 +139,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499218798159773 |
+| Lobby ID | 28499218798258991 |
 | Players | 2/10 |
 | Host Name | Сапсан пиво |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:21:59 |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:22:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -171,14 +171,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Picachuuuu! |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:21:55 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28499218798170631 |
-| Players | 1/7 |
-| Host Name | 勤学苦练。 |
-| Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:22:00 |
 
 
