@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 07:20:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28499218797737195 |
-| Players | 1/10 |
-| Host Name | Full-Time Griefer |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:21:03 |
+| Lobby ID | 28499218797749241 |
+| Players | 2/24 |
+| Host Name | coa7279 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:21:04 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499218797330190 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:20:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499218795801054 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | ¿como ta a mente do palhaço? |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:16:49 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218797498090 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Dragon |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:20:31 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499218797622059 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | xD |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:20:47 |
@@ -121,20 +121,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499218797693787 |
+| Lobby ID | 28499218797814117 |
 | Players | 3/8 |
 | Host Name | ЖаРеНые ОльГи |
 | Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:20:57 |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:21:13 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499218797754447 |
-| Players | 2/10 |
-| Host Name | молитесь |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:21:05 |
+| Lobby ID | 28499218797813208 |
+| Players | 3/10 |
+| Host Name | Mr.Popo |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:21:13 |
 
 
 |  | epic_boss_fight_nightmare |
