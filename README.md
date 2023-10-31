@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750491476740 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | 1322837 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:57:08 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750491193644 |
-| Players | 4/15 |
-| Host Name | dW |
+| Players | 1/15 |
+| Host Name | TIO JUANCHI |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:56:34 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750491339993 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:56:52 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750491207303 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | rizzlord69 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:56:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750492073427 |
+| Players | 4/8 |
+| Host Name | smell |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:58:20 |
 
 
 |  | epic_boss_fight_challenger |
