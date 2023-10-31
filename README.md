@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750469203252 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | x^n+y^n=z^n |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:13:17 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750468900561 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | El Tilin humilde |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:12:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750470804627 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | erik |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:16:32 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750471418167 |
-| Players | 2/15 |
-| Host Name | Andromaqve |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:17:50 |
+| Lobby ID | 28499750471470809 |
+| Players | 3/15 |
+| Host Name | coup de grâce 力 |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:17:57 |
 
 
 |  | epic_boss_fight_challenger |
