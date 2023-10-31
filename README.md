@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218811152622 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Ī₦MŌṜŦĀĿĒЖƵLEGEND亗 |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:49:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218810747711 |
-| Players | 7/10 |
+| Players | 4/10 |
 | Host Name | Panda |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:48:45 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218811555328 |
-| Players | 3/10 |
-| Host Name | BjornIronsid |
+| Players | 2/10 |
+| Host Name | exis DE |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:50:25 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499218812648571 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Дауби Даубиев |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:52:45 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218812292243 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | RILR |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:52:00 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218811715561 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | zero |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:50:45 |
@@ -94,20 +94,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499218811783027 |
-| Players | 6/8 |
-| Host Name | PinguinoParador |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:50:54 |
+| Lobby ID | 28499218812784784 |
+| Players | 1/8 |
+| Host Name | Hochstapler |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:53:03 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218812714007 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ♥ Hentai Machine ♥ |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:52:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499218812796873 |
+| Players | 1/8 |
+| Host Name | MISARI |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:53:05 |
 
 
 |  | epic_boss_fight_nightmare |
