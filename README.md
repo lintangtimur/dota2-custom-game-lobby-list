@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218834845348 |
-| Players | 2/24 |
-| Host Name | BingBong |
+| Players | 1/24 |
+| Host Name | TreLewEnce |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:39:17 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218834465741 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | MoonRay |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:38:30 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499218835102242 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | 9 SEMANAS PARA NAVIDAD |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:39:49 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218835377671 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | novak |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:40:23 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499218835374448 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | get negro |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:40:23 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499218833589696 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | alauvient |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:36:39 |
@@ -149,8 +149,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499218832644814 |
-| Players | 3/10 |
-| Host Name | Alinraa |
+| Players | 2/10 |
+| Host Name | Ramirez la motoooo |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:34:39 |
 
