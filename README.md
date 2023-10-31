@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28499750386600662 |
-| Players | 7/8 |
-| Host Name | ¡Adич! |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:29:43 |
+| Lobby ID | 28499750387262142 |
+| Players | 4/24 |
+| Host Name | 11k for nothing |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:30:54 |
 
 
 |  | ot3_gardens_duo |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750386614640 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Eggtarts |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:29:44 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750385173419 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | KITCHEN LIGHTS |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:26:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499750386006618 |
-| Players | 6/8 |
-| Host Name | I.G.Y |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:28:37 |
+| Lobby ID | 28499750386380761 |
+| Players | 6/10 |
+| Host Name | OE  CARACHOSO |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:29:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750386626146 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | Михаил cirlce |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:29:46 |
@@ -76,20 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499750386380761 |
-| Players | 6/10 |
-| Host Name | OE  CARACHOSO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:29:19 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28499750387262142 |
-| Players | 4/24 |
-| Host Name | 11k for nothing |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:30:54 |
+| Lobby ID | 28499750387377474 |
+| Players | 4/10 |
+| Host Name | * |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:31:07 |
 
 
 |  | epic_boss_fight_nightmare |
