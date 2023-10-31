@@ -92,22 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 06:58:34 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970436025395 |
-| Players | 11/15 |
-| Host Name | "GoPositive.bet" ARS - Bets4.fun |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 06:58:35 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970436139109 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | たかやん |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 06:58:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970436336171 |
+| Players | 1/15 |
+| Host Name | Ошалелый |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 1, 2023 06:59:14 |
 
 
 |  | epic_boss_fight_nightmare |
