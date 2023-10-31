@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750415357547 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Я РАЗДРАЖИТЕЛЬНЫЙ МЕНЯ ВСЕ БЕСИТ |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:27:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750415979089 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ФОРТАНУЛО ЕБАТЬ |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:29:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750416279599 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Steven - #Dota |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:29:41 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Toxic |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:29:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28499750416115221 |
+| Players | 4/8 |
+| Host Name | el men |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:29:22 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ПРИНИМАЮ В ТУЗА |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:29:39 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28499750416497471 |
+| Players | 1/10 |
+| Host Name | Fihed |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:30:06 |
 
 
