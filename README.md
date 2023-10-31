@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750348811040 |
-| Players | 9/10 |
-| Host Name | w0rse |
+| Lobby ID | 28499750350431719 |
+| Players | 9/15 |
+| Host Name | Mouches Volantes |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:16:30 |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:19:41 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750349841834 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | all good |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:18:33 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 09:14:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28499750350464553 |
-| Players | 7/8 |
-| Host Name | Ing.Galvez |
+| Lobby ID | 28499750350727993 |
+| Players | 1/24 |
+| Host Name | Aiimer |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:19:45 |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:20:14 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750350330253 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Michiking |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:19:29 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MrdEvilsVille |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:19:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499750350431719 |
-| Players | 8/15 |
-| Host Name | Mouches Volantes |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:19:41 |
 
 
 |  | epic_boss_fight_normal |
