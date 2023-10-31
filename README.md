@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750470804627 |
-| Players | 8/10 |
-| Host Name | erik |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:16:32 |
+| Lobby ID | 28499750473576598 |
+| Players | 2/15 |
+| Host Name | Яспер Моглот (Dutchm |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:22:17 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750472854471 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | LION EL MESI |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:20:50 |
@@ -47,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 13:15:56 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499750472359897 |
-| Players | 14/15 |
-| Host Name | Croqtz |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:19:47 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750472598464 |
-| Players | 4/8 |
-| Host Name | ФОРТАНУЛО ЕБАТЬ |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:20:18 |
+| Lobby ID | 28499750474008806 |
+| Players | 2/8 |
+| Host Name | izza (sad..) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:23:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28499750473875259 |
+| Players | 4/15 |
+| Host Name | Nemro |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:22:53 |
 
 
 |  | ot3_desert_octet |
@@ -74,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 13:21:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750473576598 |
-| Players | 2/15 |
-| Host Name | Яспер Моглот (Dutchm |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:22:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499750473875259 |
-| Players | 3/15 |
-| Host Name | Nemro |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:22:53 |
+| Lobby ID | 28499750474087271 |
+| Players | 1/8 |
+| Host Name | El Ohanas |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:23:18 |
 
 
 |  | epic_boss_fight_challenger |
