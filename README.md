@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970435682448 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Teo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 06:57:52 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970435962676 |
-| Players | 2/15 |
-| Host Name | MONSTERKILL |
+| Players | 1/15 |
+| Host Name | Niñoblis Tu Terror +.+ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 06:58:27 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970435695058 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | EPEEB |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 06:57:53 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970436025395 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | "GoPositive.bet" ARS - Bets4.fun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 06:58:35 |
