@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750490408057 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | эль чача |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:55:01 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750489508536 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | George |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:53:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750489211416 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | 字花 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:52:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750489901850 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | _(:з」∠)_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:54:03 |
@@ -63,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | daodao |
 | Region | PWTELECOMSHANGHAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:55:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28499750490563583 |
+| Players | 1/24 |
+| Host Name | marshmallow |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:55:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499750490566373 |
+| Players | 1/10 |
+| Host Name | μVlrka |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:55:20 |
 
 
 |  | epic_boss_fight_challenger |
