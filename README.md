@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 13:53:19 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750489211416 |
-| Players | 1/10 |
-| Host Name | 字花 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:52:46 |
+| Lobby ID | 28499750493541994 |
+| Players | 7/8 |
+| Host Name | Кливпатий Яйцeлом |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 14:01:15 |
 
 
 |  | ot3_desert_octet |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | overflow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 14:02:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750493541994 |
-| Players | 7/8 |
-| Host Name | Кливпатий Яйцeлом |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 14:01:15 |
 
 
 |  | epic_boss_fight_challenger |
