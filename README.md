@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750436141546 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:08:20 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750437302086 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Whalen |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:10:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750437408797 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Yosecuidarmicuerpo ♪ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 12:10:46 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 11:57:15 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750437606443 |
-| Players | 1/24 |
-| Host Name | Kamek |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 12:11:08 |
+| Lobby ID | 28499750437635419 |
+| Players | 1/8 |
+| Host Name | БаРаГуЗ |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 12:11:12 |
 
 
 |  | epic_boss_fight_nightmare |
