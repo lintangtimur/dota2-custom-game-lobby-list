@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750345218312 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | YoEraGosuPeroLeConocíAlGato |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:10:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750344318859 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | $$$ BANENISIMOS $$$ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:08:21 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750343714574 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Toshiro... |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:07:15 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750345566607 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Ayanokouji |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:10:36 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28499750343183105 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | TafureX |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, October 31, 2023 09:06:22 |
@@ -155,12 +155,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 09:09:26 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28499750345485708 |
-| Players | 1/5 |
-| Host Name | Hoop |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 09:10:28 |
+| Lobby ID | 28499750345787721 |
+| Players | 1/7 |
+| Host Name | Hisoka |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, October 31, 2023 09:11:00 |
 
 
