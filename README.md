@@ -49,24 +49,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499218794300472 |
-| Players | 3/8 |
-| Host Name | asd |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:13:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499218792785172 |
-| Players | 2/15 |
-| Host Name | M.R-YoEL |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:10:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28499218794298688 |
 | Players | 1/8 |
 | Host Name | Kukurudza Striptizerka |
@@ -76,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499218794561577 |
-| Players | 1/15 |
-| Host Name | HwH |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 07:14:04 |
+| Lobby ID | 28499218792785172 |
+| Players | 3/15 |
+| Host Name | Hipotenusa² |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:10:15 |
 
 
 |  | epic_boss_fight_challenger |
@@ -99,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Asura™ |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, October 31, 2023 07:13:56 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28499218789301285 |
+| Players | 9/10 |
+| Host Name | BAN |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 07:02:42 |
 
 
