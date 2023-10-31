@@ -4,18 +4,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28499750406231199 |
-| Players | 19/24 |
-| Host Name | Bonitos y gorditos hijos de puta |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:09:33 |
+| Lobby ID | 28499750405470004 |
+| Players | 23/24 |
+| Host Name | Punch |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:07:58 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750405142317 |
 | Players | 4/24 |
-| Host Name | PamSaf |
+| Host Name | 乱战先锋第一骚货！ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:07:18 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750406839185 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | >nØrtendal< |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:10:47 |
@@ -38,58 +38,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 10:51:24 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499750406207644 |
-| Players | 12/15 |
-| Host Name | Ant |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:09:30 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28499750406915311 |
-| Players | 1/10 |
-| Host Name | Xd |
+| Lobby ID | 28499750407280927 |
+| Players | 2/10 |
+| Host Name | The Perfect Girl |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:10:56 |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:11:41 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750407035955 |
+| Lobby ID | 28499750407111089 |
 | Players | 1/8 |
-| Host Name | принеситеигроков |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:11:11 |
+| Host Name | iB.Rock |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:11:20 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750407060832 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | To Fu |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 11:11:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499750407067885 |
-| Players | 1/8 |
-| Host Name | Spire |
+| Lobby ID | 28499750407324279 |
+| Players | 8/15 |
+| Host Name | XD |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:11:15 |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:11:46 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28499750405898116 |
-| Players | 9/10 |
-| Host Name | 10K Behavior Score |
+| Lobby ID | 28499750407244137 |
+| Players | 2/10 |
+| Host Name | Jewish |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 11:08:52 |
+| Lobby Creation Time | Tuesday, October 31, 2023 11:11:36 |
 
 
 |  | epic_boss_fight_normal |
