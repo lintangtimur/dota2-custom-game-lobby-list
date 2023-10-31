@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 10:18:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28499750384987685 |
-| Players | 14/15 |
-| Host Name | Zumpin |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:26:37 |
+| Lobby ID | 28499750386614640 |
+| Players | 2/24 |
+| Host Name | Eggtarts |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:29:44 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750385173419 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | KITCHEN LIGHTS |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:26:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750386020476 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | •Crazy Life• ☻ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:28:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750385069396 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | BrokenMirror |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:26:47 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750386006618 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | I.G.Y |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:28:37 |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750386626146 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Михаил cirlce |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:29:46 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28499750386614640 |
-| Players | 2/24 |
-| Host Name | Eggtarts |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:29:44 |
 
 
 |  | epic_boss_fight_nightmare |
