@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750468900561 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | El Tilin humilde |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:12:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750469672713 |
-| Players | 13/15 |
-| Host Name | xanax through the veins |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:14:13 |
+| Lobby ID | 28499750470619130 |
+| Players | 4/8 |
+| Host Name | Unban |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:16:09 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750470431200 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | ёбырь |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:15:46 |
@@ -108,23 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Buccue_JR21 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:09:10 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28499750469228350 |
-| Players | 9/10 |
-| Host Name | Любимые дрова |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:13:20 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28499750470413635 |
-| Players | 1/5 |
-| Host Name | /[GoD]\ crystallime |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:15:44 |
 
 
