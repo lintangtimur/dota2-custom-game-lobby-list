@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750399620567 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Platinum |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:55:46 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750399482850 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Tryhard |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:55:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750398163320 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | KITCHEN LIGHTS |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:52:48 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750397190547 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | ♠♣♦☼§♠♣♦ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:50:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28499750397859657 |
-| Players | 1/10 |
-| Host Name | 【༺𒋲✶...LombriS...✶༺ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:52:11 |
+| Lobby ID | 28499750397467013 |
+| Players | 23/24 |
+| Host Name | GrandMasterFeed |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:51:24 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750399970249 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Hellkoala |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:56:29 |
@@ -95,26 +95,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750400284043 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Shinin |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:57:08 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750400710259 |
-| Players | 1/8 |
-| Host Name | 76561198292635284 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:58:01 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750398991981 |
-| Players | 9/10 |
-| Host Name | пошол |
+| Players | 8/10 |
+| Host Name | Mary Jane |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:54:29 |
 
