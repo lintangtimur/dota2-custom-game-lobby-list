@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750375117959 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | TSD.Dean |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:07:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750375293249 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | DeVIP |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:07:40 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750375435138 |
+| Lobby ID | 28499750375523277 |
 | Players | 6/8 |
-| Host Name | onlyBaiter |
+| Host Name | _EziO_ |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:07:57 |
+| Lobby Creation Time | Tuesday, October 31, 2023 10:08:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TAPIJARO |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 10:04:47 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28499750375331108 |
-| Players | 1/5 |
-| Host Name | Рамзан Кадыров |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, October 31, 2023 10:07:44 |
 
 
