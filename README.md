@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 13:03:47 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750464136965 |
-| Players | 23/24 |
-| Host Name | izi pipilin |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:02:47 |
+| Lobby ID | 28499750465706938 |
+| Players | 1/8 |
+| Host Name | ADICTO |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:05:59 |
 
 
 |  | ot3_jungle_quintet |
