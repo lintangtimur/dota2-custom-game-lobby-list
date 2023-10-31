@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750472249175 |
-| Players | 15/24 |
+| Players | 20/24 |
 | Host Name | me and 7 animal vs 16 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:19:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750472854471 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | LION EL MESI |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:20:50 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750469978572 |
-| Players | 1/10 |
-| Host Name | elgotito |
+| Players | 2/10 |
+| Host Name | Kinder$urprice |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:14:51 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750474008806 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | izza (sad..) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:23:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750473875259 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Nemro |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:22:53 |
@@ -74,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 13:21:12 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28499750471770778 |
+| Players | 9/10 |
+| Host Name | SimpleJust 🇺🇦 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:18:34 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28499750474087271 |
-| Players | 1/8 |
-| Host Name | El Ohanas |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:23:18 |
+| Lobby ID | 28499750474389656 |
+| Players | 2/8 |
+| Host Name | Жоссский😎 |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, October 31, 2023 13:23:54 |
 
 
 |  | epic_boss_fight_challenger |
