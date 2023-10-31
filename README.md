@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750492382156 |
-| Players | 9/24 |
+| Players | 16/24 |
 | Host Name | MiniSoGood |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:58:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28499750489508536 |
-| Players | 6/24 |
+| Players | 4/24 |
 | Host Name | George |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:53:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499750489211416 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | 字花 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:52:46 |
@@ -50,37 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499750492599821 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Священная Рана |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:59:24 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499750492463040 |
-| Players | 1/8 |
-| Host Name | girls say i'm cute |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 13:59:07 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28499750492962037 |
-| Players | 1/15 |
-| Host Name | Ачун*** |
+| Players | 3/15 |
+| Host Name | Kupnu4 Te6e B roJIoBy |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 14:00:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499750492996151 |
-| Players | 1/15 |
-| Host Name | Badjuju228 |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, October 31, 2023 14:00:11 |
 
 
 |  | epic_boss_fight_challenger |
@@ -95,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28499750492556409 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Любимые дрова |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 13:59:18 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28499750493219941 |
+| Players | 3/10 |
+| Host Name | Bol D. Wally |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, October 31, 2023 14:00:37 |
 
 
