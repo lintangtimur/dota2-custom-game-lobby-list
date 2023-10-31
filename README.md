@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218835746786 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | AtomiXs |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:41:09 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218834330261 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | ZYX-AROUND |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:38:13 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218835044505 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ♥Miul♥ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:39:42 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, October 31, 2023 08:39:39 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28499218835374448 |
-| Players | 1/24 |
-| Host Name | Shimira, Monge Level 20 |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, October 31, 2023 08:40:23 |
+| Lobby ID | 28499218836213764 |
+| Players | 3/15 |
+| Host Name | 21345 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, October 31, 2023 08:42:07 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28499218835377671 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | novak |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:40:23 |
@@ -131,28 +131,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28499218835982586 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | hunter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, October 31, 2023 08:41:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28499218836053554 |
-| Players | 6/8 |
-| Host Name | get negro |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, October 31, 2023 08:41:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28499218836142306 |
-| Players | 1/15 |
-| Host Name | Femme Fatale |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, October 31, 2023 08:41:58 |
 
 
 |  | epic_boss_fight_nightmare |
