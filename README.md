@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970500654714 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | KeiiiiGeee! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:20:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970500845765 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | babyJesus- |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:20:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970501234412 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Casimiro Supo Tito |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:21:44 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 🆁🅰🆀(｡◕‿◕｡)➜ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:17:06 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28500970501357597 |
-| Players | 1/7 |
-| Host Name | 月战老兵 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:22:00 |
 
 
