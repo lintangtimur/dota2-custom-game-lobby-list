@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970760171827 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Gino Evander |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:54:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970762001435 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | WTF&!о_О |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:57:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970763100126 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | S |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:58:36 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970763357415 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Dr. Strange where rampage |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:58:56 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970763373426 |
+| Lobby ID | 28500970763452723 |
 | Players | 1/8 |
-| Host Name | Феликс |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:58:58 |
+| Host Name | фЕЕЧКА ОТ ЛГД |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:59:04 |
 
 
 |  | epic_boss_fight_normal |
@@ -144,14 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MESSI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:56:44 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28500970763185974 |
-| Players | 1/5 |
-| Host Name | EldyPlay |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:58:43 |
 
 
