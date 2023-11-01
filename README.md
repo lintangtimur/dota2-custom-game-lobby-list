@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 17:04:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970766244969 |
-| Players | 13/15 |
-| Host Name | Triplesixgods |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:02:57 |
+| Lobby ID | 28500970767690518 |
+| Players | 2/10 |
+| Host Name | talentless |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:04:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970766755616 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Asam Garam |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:03:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970766456661 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | wp |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:03:15 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970767513682 |
+| Lobby ID | 28500970767750261 |
 | Players | 1/8 |
-| Host Name | Йобана Бобана |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:04:42 |
+| Host Name | мефендронщица |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:05:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -94,20 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970767639289 |
+| Lobby ID | 28500970767681757 |
 | Players | 1/8 |
-| Host Name | sigma based gigachad absolute |
+| Host Name | RichMajor |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:04:52 |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:04:56 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970767673633 |
+| Lobby ID | 28500970767801726 |
 | Players | 1/8 |
-| Host Name |  |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:04:55 |
+| Host Name | Йобана Бобана |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:05:05 |
 
 
 |  | epic_boss_fight_normal |
