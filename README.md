@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970616479973 |
-| Players | 2/10 |
-| Host Name | Система 50% |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:19:22 |
+| Lobby ID | 28500970622085528 |
+| Players | 6/10 |
+| Host Name | Moises |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:29:49 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970622059933 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | жиес |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:29:46 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970620362211 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:26:39 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:29:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970622085528 |
-| Players | 2/10 |
-| Host Name | Moises |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:29:49 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TaLeBun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:28:18 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28500970622085110 |
-| Players | 1/5 |
-| Host Name | Qwatesh |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:29:49 |
 
 
