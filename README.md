@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843501677264 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:57:14 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843502151854 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Comando Pitbull |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:57:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843494137914 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Marinela |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:52:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843505225256 |
-| Players | 8/24 |
+| Players | 14/24 |
 | Host Name | хайпуля |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:59:44 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843505433695 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | GATO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:59:53 |
@@ -110,10 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 22:44:39 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28501843506007940 |
+| Players | 3/10 |
+| Host Name | kLotho' |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 1, 2023 23:00:18 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28501843500906968 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | brook ブルック |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:56:41 |
