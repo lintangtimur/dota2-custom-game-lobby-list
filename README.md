@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843394860758 |
-| Players | 4/24 |
-| Host Name | 啪！一个Ori |
+| Players | 3/24 |
+| Host Name | Aqua's cries power Monsters, Inc |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:49:21 |
 
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843390621968 |
-| Players | 3/15 |
-| Host Name | volodyaツ |
+| Players | 2/15 |
+| Host Name | TerroRY.GoDota2.com |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:46:49 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843397052246 |
-| Players | 6/15 |
-| Host Name | Шизид Шизушкин |
+| Lobby ID | 28501843394961040 |
+| Players | 14/15 |
+| Host Name | sAnkøtteryŁeet |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:50:41 |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:49:25 |
 
 
 |  | ot3_jungle_quintet |
@@ -130,20 +130,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843397324939 |
+| Lobby ID | 28501843397665281 |
 | Players | 1/8 |
-| Host Name | БАРА БЕРЕ БЕРЕ |
+| Host Name | адмирал глебби |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:50:51 |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:51:03 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843397377673 |
+| Lobby ID | 28501843397625501 |
 | Players | 1/8 |
-| Host Name | [TEMKA] SLY :3 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:50:52 |
+| Host Name | asddsaasdsdaassad |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:51:01 |
 
 
 |  | epic_boss_fight_normal |
@@ -171,32 +171,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | d1 |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:49:20 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28501843397305805 |
-| Players | 1/5 |
-| Host Name | Brain))) |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:50:50 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28501843397156926 |
-| Players | 1/5 |
-| Host Name | шашлычник архез |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:50:45 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28501843397388030 |
-| Players | 2/7 |
-| Host Name | 我要飞的更高 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:50:53 |
 
 
