@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970555844100 |
-| Players | 22/24 |
-| Host Name | NAZUN4♥ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:15:51 |
+| Lobby ID | 28500970556648226 |
+| Players | 6/24 |
+| Host Name | yuyu |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:17:34 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 11:13:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970556557140 |
-| Players | 1/8 |
-| Host Name | Vы_VsE_V_muTe_Kloyны |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:17:22 |
+| Lobby ID | 28500970556585928 |
+| Players | 5/10 |
+| Host Name | TV Man |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:17:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,28 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 11:17:25 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970556585928 |
-| Players | 5/10 |
-| Host Name | TV Man |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:17:26 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28500970556648226 |
-| Players | 6/24 |
-| Host Name | yuyu |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:17:34 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28500970538530556 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Mother Stefler |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:38:48 |
