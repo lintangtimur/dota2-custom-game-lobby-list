@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970634844717 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Movistar Perú |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:52:08 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970636248559 |
+| Lobby ID | 28500970636455217 |
 | Players | 1/15 |
-| Host Name | The Dead and the Executioner |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:54:31 |
+| Host Name | ACC for practice |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:54:52 |
 
 
 |  | ot3_desert_octet |
@@ -83,24 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 13:54:50 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970636455217 |
-| Players | 1/15 |
-| Host Name | ACC for practice |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:54:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970636503492 |
-| Players | 1/10 |
-| Host Name | dj dog |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:54:57 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28500970634346963 |
@@ -108,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RODIPIT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:51:17 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28500970634829696 |
-| Players | 8/10 |
-| Host Name | Munes |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:52:06 |
 
 
 |  | epic_boss_fight_nightmare |
