@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970549143592 |
-| Players | 18/24 |
+| Players | 24/24 |
 | Host Name | BRunzilian |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:00:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970549911599 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Tolia22 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:02:46 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970550212181 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | Great Admiral of Mongol Empire |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:03:28 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970549537939 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | IDarkzeroI.Godota2.com |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:01:53 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970549899999 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Alberik |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:02:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970551006224 |
-| Players | 6/8 |
-| Host Name | Mr.Lulu^^ |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:05:15 |
+| Lobby ID | 28500970551291349 |
+| Players | 1/10 |
+| Host Name | ht |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:05:53 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mother Stefler |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:38:48 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28500970550832659 |
-| Players | 1/5 |
-| Host Name | Quakity |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:04:52 |
 
 
