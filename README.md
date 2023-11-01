@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970668264456 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Shax |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:44:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970653963727 |
-| Players | 9/10 |
-| Host Name | Copper Lee |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:23:08 |
+| Lobby ID | 28500970671308212 |
+| Players | 2/15 |
+| Host Name | Кана-фартовый |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:49:31 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970666990799 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | 'le Yan |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:42:58 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970669751656 |
-| Players | 2/8 |
-| Host Name | Gangsta |
+| Players | 1/8 |
+| Host Name | 等不到双子座流星雨洒满天际 |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:47:12 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970669699831 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Fitzcarraldo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:47:07 |
@@ -101,30 +101,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 14:48:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970671063810 |
-| Players | 1/8 |
-| Host Name | Саком раком |
+| Lobby ID | 28500970671429520 |
+| Players | 1/10 |
+| Host Name | Ghost Grave |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:49:09 |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:49:42 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970671097505 |
-| Players | 3/8 |
-| Host Name | reflection |
+| Lobby ID | 28500970671458362 |
+| Players | 1/8 |
+| Host Name | Hanzo |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:49:12 |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:49:44 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970671078182 |
+| Lobby ID | 28500970671605175 |
 | Players | 1/15 |
-| Host Name | nothing错 |
+| Host Name | Luh chonka |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:49:10 |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:49:57 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28500970671583749 |
+| Players | 1/5 |
+| Host Name | SF 8 душ BP2022.cc |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:49:56 |
 
 
