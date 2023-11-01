@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970820686574 |
-| Players | 4/8 |
-| Host Name | Jivchik |
+| Lobby ID | 28500970821011532 |
+| Players | 4/10 |
+| Host Name | . |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:04:42 |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:05:01 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970820663863 |
-| Players | 1/8 |
-| Host Name | Bobo |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:04:41 |
+| Lobby ID | 28500970820324830 |
+| Players | 3/8 |
+| Host Name | Orenbyrgets |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:04:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970818165440 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Donatello |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:02:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970820248973 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | fate/ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:04:17 |
@@ -76,29 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970820324830 |
-| Players | 3/8 |
-| Host Name | Orenbyrgets |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:04:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970820500169 |
-| Players | 13/15 |
-| Host Name | Owl |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:04:31 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970821011532 |
-| Players | 2/10 |
-| Host Name | . |
+| Lobby ID | 28500970820686574 |
+| Players | 4/8 |
+| Host Name | Hy Boт Bce и 3aкoнчилocь |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:05:01 |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:04:42 |
 
 
 |  | epic_boss_fight_normal |
