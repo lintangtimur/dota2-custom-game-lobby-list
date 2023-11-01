@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970564127259 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | isn't like holding to the center |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:32:45 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970564839127 |
-| Players | 6/24 |
-| Host Name | toidi |
+| Players | 7/24 |
+| Host Name | เทพเทอร์โบ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:34:05 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970563456565 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | zima |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:31:25 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28500970564686707 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | LA2000 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:33:48 |
