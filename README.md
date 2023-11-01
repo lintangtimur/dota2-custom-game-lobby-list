@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970775056176 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | неумехапелемеха |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:14:45 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 17:06:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970774088179 |
-| Players | 1/15 |
-| Host Name | Simpest Pimp |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:13:31 |
+| Lobby ID | 28500970775204653 |
+| Players | 1/8 |
+| Host Name | Shizukano |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:14:55 |
 
 
 |  | ot3_gardens_duo |
@@ -112,20 +112,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970775200717 |
+| Lobby ID | 28500970775224558 |
 | Players | 1/8 |
-| Host Name | bring back arcane blink |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:14:55 |
+| Host Name | ♂BOSS♂ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:14:57 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970775204653 |
+| Lobby ID | 28500970775244420 |
 | Players | 1/8 |
-| Host Name | Shizukano |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:14:55 |
+| Host Name | bring back arcane blink |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:14:58 |
 
 
 |  | epic_boss_fight_normal |
