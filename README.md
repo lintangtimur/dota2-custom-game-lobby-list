@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970573590106 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Dr Tazerenix |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:52:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970572744272 |
-| Players | 1/10 |
-| Host Name | UNSTOPPABLE M LuV♥ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:50:31 |
+| Lobby ID | 28500970574509113 |
+| Players | 1/15 |
+| Host Name | Omae Wa Mou Shindeiru |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:54:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970573971306 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | PuroHues0 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:53:05 |
@@ -65,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 11:53:59 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970574436287 |
-| Players | 1/15 |
-| Host Name | Samurayu |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:54:03 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970574436868 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | megakiller2012 |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:54:03 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970572933448 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | bodak |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:50:54 |
