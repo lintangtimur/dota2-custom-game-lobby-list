@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970553644236 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | pepepepe |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:11:08 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970552897958 |
-| Players | 10/15 |
-| Host Name | no excuses |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:09:28 |
+| Lobby ID | 28500970554027662 |
+| Players | 1/15 |
+| Host Name | ...... |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:11:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 11:09:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970553273589 |
-| Players | 8/10 |
-| Host Name | EL YUJiRO FIRULAIS |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:10:19 |
+| Lobby ID | 28500970553974495 |
+| Players | 2/15 |
+| Host Name | dontflame |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:11:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,24 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | mantisoficial |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:11:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970553974495 |
-| Players | 1/15 |
-| Host Name | dontflame |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:11:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970554027662 |
-| Players | 1/15 |
-| Host Name | ...... |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:11:58 |
 
 
 |  | epic_boss_fight_normal |
