@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970465746178 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | бон полма |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:04:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970465488513 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ОСУЖДАЮ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:04:11 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 08:04:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970464925515 |
-| Players | 1/15 |
-| Host Name | гавновоз виталя |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:02:59 |
+| Lobby ID | 28500970465929068 |
+| Players | 2/8 |
+| Host Name | W8TING FOR SEX |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:05:07 |
 
 
 |  | ot3_desert_octet |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 08:01:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970465902463 |
-| Players | 1/24 |
-| Host Name | DICE |
+| Lobby ID | 28500970465032791 |
+| Players | 9/10 |
+| Host Name | DOTA Veteran |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:05:04 |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:03:13 |
 
 
 |  | ot3_gardens_duo |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 08:02:32 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970465032791 |
-| Players | 9/10 |
-| Host Name | DOTA Veteran |
+| Lobby ID | 28500970465975289 |
+| Players | 3/15 |
+| Host Name | ニャシュカ |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:03:13 |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:05:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,15 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GHINZU |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:57:05 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28500970465900929 |
-| Players | 1/5 |
-| Host Name | Thinking |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:05:04 |
 
 
 |  | epic_boss_fight_nightmare |
