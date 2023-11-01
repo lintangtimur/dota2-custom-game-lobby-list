@@ -74,6 +74,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 19:03:13 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970889616645 |
+| Players | 1/8 |
+| Host Name | Dildo shwaggins |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 19:04:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970884646736 |
+| Players | 9/10 |
+| Host Name | Orlando |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:59:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970889734595 |
+| Players | 1/8 |
+| Host Name | убиваю нубов |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 19:04:08 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970882282923 |
