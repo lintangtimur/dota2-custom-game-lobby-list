@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970576298161 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | drowning |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:57:55 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970592702529 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | La parquita |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:31:41 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970590934652 |
-| Players | 3/10 |
-| Host Name | Toxic |
+| Players | 1/10 |
+| Host Name | нюхай бэбру |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:28:04 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970592892834 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:32:04 |
