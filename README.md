@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970576409619 |
-| Players | 3/24 |
+| Players | 13/24 |
 | Host Name | Recluse.Jean |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:58:09 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970576715360 |
-| Players | 12/24 |
+| Players | 20/24 |
 | Host Name | potatoboi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:58:48 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970575404304 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | hi |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:56:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970575176182 |
-| Players | 7/8 |
-| Host Name | One |
+| Lobby ID | 28500970577519208 |
+| Players | 6/15 |
+| Host Name | ¤︻デ≡ 一 |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:55:35 |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:00:28 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970576452943 |
-| Players | 4/10 |
-| Host Name | Moises |
+| Players | 2/10 |
+| Host Name | AMATERASU |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:58:15 |
 
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970576704872 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | zima |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:58:46 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28500970577181236 |
-| Players | 1/24 |
-| Host Name | ᴇᴍᴘᴛɪɴᴇꜱꜱ` |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:59:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970577212915 |
-| Players | 1/15 |
-| Host Name | ESCANOR |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:59:50 |
 
 
 |  | ot3_gardens_duo |
