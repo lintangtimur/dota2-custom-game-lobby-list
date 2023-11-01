@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970475797071 |
-| Players | 13/15 |
-| Host Name | Tzi Pin Lin |
+| Lobby ID | 28500970475988608 |
+| Players | 5/15 |
+| Host Name | no excuses |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:26:01 |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:26:25 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970475412079 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Lamar |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:25:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970473216992 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Order of Melchizedek |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:20:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970474922426 |
-| Players | 10/24 |
+| Players | 15/24 |
 | Host Name | COCOBONGO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:24:09 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 08:24:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970475472857 |
-| Players | 1/15 |
-| Host Name | ewyang |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:25:19 |
+| Lobby ID | 28500970475736770 |
+| Players | 1/8 |
+| Host Name | Galaxy |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:25:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 08:25:20 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970475736770 |
-| Players | 1/8 |
-| Host Name | Galaxy |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:25:53 |
-
-
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28500970473901162 |
@@ -108,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Beautyyy |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:21:58 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28500970472228740 |
-| Players | 5/7 |
-| Host Name | сын шлюхи |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:18:26 |
 
 
 |  | epic_boss_fight_nightmare |
