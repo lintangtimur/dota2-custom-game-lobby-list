@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970595250397 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | [Z]Mr.Killer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:36:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970593236420 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Cazador de Senatinos |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:32:46 |
@@ -101,22 +101,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 12:38:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970596286419 |
-| Players | 3/10 |
-| Host Name | Borz |
+| Lobby ID | 28500970596770233 |
+| Players | 3/15 |
+| Host Name | Panigale X P0XY |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:39:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970596854071 |
+| Players | 1/8 |
+| Host Name | Bajador de Pepa Profesional |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:38:58 |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:40:05 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970596770233 |
+| Lobby ID | 28500970596864316 |
 | Players | 1/15 |
-| Host Name | Panigale X P0XY |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:39:55 |
+| Host Name | K.o.O.p.A. |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:40:06 |
 
 
 |  | epic_boss_fight_nightmare |
