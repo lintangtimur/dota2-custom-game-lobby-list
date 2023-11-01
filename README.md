@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341592702968 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | J-Usp |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 06:38:20 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502341592754589 |
-| Players | 4/8 |
-| Host Name | * |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 06:38:26 |
+| Lobby ID | 28502341593069664 |
+| Players | 3/8 |
+| Host Name | Ｓｏｈｅｅ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 06:39:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843803149349 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | mis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 03:35:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341565318528 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Br0ker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 05:50:18 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341592847281 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | PATITO NICHAN |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 06:38:36 |
@@ -86,25 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341588484414 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | SeT |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 06:30:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502341593046145 |
-| Players | 1/15 |
-| Host Name | Morphorfrost |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 06:38:59 |
+| Lobby ID | 28502341593133104 |
+| Players | 4/8 |
+| Host Name | RaiNight |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 06:39:08 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502341589305699 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | MrMechas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 06:32:03 |
