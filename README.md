@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970601217222 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | Tio Oruga |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:48:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970603793384 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | ミク ♪ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:53:59 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970604147491 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Hani |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:54:44 |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BigTree |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:55:22 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28500970604758865 |
-| Players | 1/5 |
-| Host Name | Handzin |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:55:57 |
 
 
