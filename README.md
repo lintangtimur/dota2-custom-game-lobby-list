@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970576298161 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | FifthyFly |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:57:55 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970582350203 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:10:27 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 12:02:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970583057115 |
-| Players | 19/24 |
-| Host Name | Coral |
+| Lobby ID | 28500970584451402 |
+| Players | 1/10 |
+| Host Name | Кто ты воин ? |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:11:54 |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:14:42 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970583128682 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | CORRALITO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:12:02 |
@@ -77,16 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970584248492 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | FOR FUN |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:14:17 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970584320172 |
+| Players | 4/10 |
+| Host Name | ВвВМ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:14:26 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970584150833 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Edna |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:14:05 |
