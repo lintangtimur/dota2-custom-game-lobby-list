@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970477082482 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Pepega |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:28:44 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 08:28:32 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970476749035 |
-| Players | 20/24 |
-| Host Name | ♥Tocoshly♥ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:28:01 |
+| Lobby ID | 28500970477138862 |
+| Players | 3/10 |
+| Host Name | Moxyounes |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:28:51 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970476882713 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | R3sist4nce. |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:28:18 |
@@ -92,31 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 08:28:50 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970477138862 |
-| Players | 2/10 |
-| Host Name | Moxyounes |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:28:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970477187213 |
-| Players | 3/8 |
-| Host Name | Katen Kyōkotsu |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:28:57 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970477191669 |
-| Players | 1/15 |
-| Host Name | Slon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:28:58 |
+| Lobby ID | 28500970477284492 |
+| Players | 2/15 |
+| Host Name | Dildog_Breaker |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:29:09 |
 
 
 |  | epic_boss_fight_hard |
