@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970437437057 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | MAPACHE_$INC0LA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:01:51 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970436510495 |
-| Players | 8/10 |
-| Host Name | порося |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 06:59:36 |
+| Lobby ID | 28500970437445233 |
+| Players | 2/10 |
+| Host Name | sooshiant |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:01:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,33 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 06:58:25 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970436025395 |
-| Players | 12/15 |
-| Host Name | GODSPEED<3 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 06:58:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970437445233 |
-| Players | 2/10 |
-| Host Name | sooshiant |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:01:53 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28500970433411607 |
-| Players | 9/10 |
-| Host Name | Hanzo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 06:53:08 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970436945807 |
@@ -119,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 07:00:40 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28500970437548565 |
-| Players | 1/5 |
+| Lobby ID | 28500970437604678 |
+| Players | 1/7 |
 | Host Name | сын шлюхи |
 | Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:02:07 |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:02:15 |
 
 
