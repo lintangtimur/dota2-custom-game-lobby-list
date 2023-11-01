@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970856667539 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Dendi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:37:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970852698814 |
-| Players | 7/24 |
+| Players | 5/24 |
 | Host Name | Ghost_Rotaidalg_USSR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:33:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970856045720 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | L-A-K-E-R |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:36:30 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970857199908 |
-| Players | 14/15 |
-| Host Name | YEEZER |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:37:28 |
+| Lobby ID | 28500970858088397 |
+| Players | 2/15 |
+| Host Name | ニャシュカ |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:38:14 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970857153581 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | фпшу и похуй |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:37:26 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970857391360 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | BRAMBRAGE |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:37:38 |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970856174700 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | 두부두부 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:36:36 |
