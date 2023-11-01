@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970491797551 |
-| Players | 5/24 |
+| Players | 12/24 |
 | Host Name | DIMITREE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:00:33 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970492354018 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Egotheist |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:01:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970491628897 |
-| Players | 14/15 |
-| Host Name | D m o n 666 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:00:06 |
+| Lobby ID | 28500970492485362 |
+| Players | 8/10 |
+| Host Name | Размножаев |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:02:12 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970492139355 |
-| Players | 3/15 |
+| Players | 12/15 |
 | Host Name | El gatito erotico |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:01:23 |
@@ -68,36 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970491889886 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | CORRALITO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:00:47 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970492485362 |
-| Players | 4/10 |
-| Host Name | Размножаев |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:02:12 |
-
-
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28500970489358590 |
-| Players | 4/7 |
+| Players | 5/7 |
 | Host Name | FishBunnyCat |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:55:06 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28500970492535078 |
-| Players | 1/5 |
-| Host Name | killua |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:02:19 |
+| Lobby ID | 28500970492729230 |
+| Players | 1/10 |
+| Host Name | Jaaa |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:02:46 |
 
 
