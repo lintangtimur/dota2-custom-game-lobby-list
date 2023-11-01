@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 18:45:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970867273301 |
-| Players | 1/8 |
-| Host Name | Raycon |
+| Lobby ID | 28500970867493733 |
+| Players | 1/10 |
+| Host Name | SUS Egorio 777 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:45:57 |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:46:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -130,11 +130,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970867114609 |
-| Players | 1/8 |
-| Host Name | nolan |
+| Lobby ID | 28500970867474564 |
+| Players | 2/8 |
+| Host Name | gрыжa |
 | Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:45:49 |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:46:07 |
 
 
 |  | epic_boss_fight_normal |
