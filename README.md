@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970800669063 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | 1 of 1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:44:22 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970801980303 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:45:46 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970790347948 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Shawn Oakman |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:33:05 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 17:36:39 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970802724060 |
-| Players | 1/24 |
-| Host Name | Dranxzy |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:46:33 |
+| Lobby ID | 28500970803382347 |
+| Players | 4/8 |
+| Host Name | ThisMightBackfire |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:47:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970802012823 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Veselsak |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:45:48 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970792560762 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | QB |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:35:35 |
@@ -139,11 +139,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970803305846 |
+| Lobby ID | 28500970803477784 |
+| Players | 3/8 |
+| Host Name | 123 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:47:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970803482559 |
 | Players | 5/8 |
-| Host Name | ПарируюЖенщин |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:47:10 |
+| Host Name | Сын Берёзы |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:47:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970803494901 |
+| Players | 3/8 |
+| Host Name | Отдамся за шаурму |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:47:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970803468697 |
+| Players | 1/8 |
+| Host Name | Ichigo Kurasaki |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:47:20 |
 
 
 |  | epic_boss_fight_normal |
