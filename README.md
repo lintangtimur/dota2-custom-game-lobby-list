@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970449837068 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | La Joya 21 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:30:29 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970452167034 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Tamborsito |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:35:33 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970452313100 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Yello |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:35:52 |
