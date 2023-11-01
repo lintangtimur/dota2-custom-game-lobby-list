@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970722127584 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Toxic |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:02:46 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970721295989 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Septer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:01:38 |
@@ -108,6 +108,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | АБАЛА РУКЬУШ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:02:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970722333411 |
+| Players | 1/8 |
+| Host Name | Midateya |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:03:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970722092126 |
+| Players | 5/8 |
+| Host Name | mode: JimPark |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:02:43 |
 
 
 |  | epic_boss_fight_normal |
