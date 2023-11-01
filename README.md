@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843403121996 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Blackout |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:54:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843361274899 |
-| Players | 21/24 |
+| Players | 17/24 |
 | Host Name | Zeroth- |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:29:32 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843400732468 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | ☠︎☠︎☚ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:52:55 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843403210863 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | king of fools |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:54:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28501843403802038 |
-| Players | 6/8 |
-| Host Name | herain |
+| Lobby ID | 28501843403859054 |
+| Players | 1/24 |
+| Host Name | SunShIne |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:54:47 |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:54:49 |
 
 
 |  | ot3_gardens_duo |
@@ -119,13 +119,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 21:54:41 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843403859054 |
-| Players | 1/24 |
-| Host Name | SunShIne |
+| Lobby ID | 28501843404340431 |
+| Players | 1/8 |
+| Host Name | ✟Alucard✟ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:54:49 |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:55:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28501843404298437 |
+| Players | 3/8 |
+| Host Name | 愛.孤独.無関心 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:55:05 |
 
 
 |  | epic_boss_fight_nightmare |
