@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970919210868 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Gentleman |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:26:26 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970919962132 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:26:58 |
@@ -158,18 +158,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970919568647 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Антонио Еблэнас |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:26:41 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28500970918826377 |
-| Players | 2/5 |
-| Host Name | angel2998 |
+| Lobby ID | 28500970920301398 |
+| Players | 2/10 |
+| Host Name | ManiBani |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 19:26:09 |
+| Lobby Creation Time | Wednesday, November 1, 2023 19:27:13 |
 
 
