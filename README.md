@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970541421666 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Chatter |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:44:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970546338662 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | zima |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:54:59 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970544691609 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | GeNeSiS MDL→ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:51:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970546414426 |
-| Players | 1/15 |
-| Host Name | fated |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:55:08 |
+| Lobby ID | 28500970546384132 |
+| Players | 6/8 |
+| Host Name | Chicho_gautier!!! |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:55:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,19 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970546288658 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | режим новичков |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:54:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970546384132 |
-| Players | 6/8 |
-| Host Name | Chicho_gautier!!! |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:55:05 |
 
 
 |  | epic_boss_fight_normal |
