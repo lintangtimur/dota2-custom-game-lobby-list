@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341567775342 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | JAustin |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 05:54:26 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341566155714 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | OctaviNn |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 05:51:42 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502341566460068 |
-| Players | 6/10 |
-| Host Name | Muy Malo |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 05:52:13 |
+| Lobby ID | 28502341569179169 |
+| Players | 5/10 |
+| Host Name | El Zorro |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 05:56:49 |
 
 
 |  | ot3_desert_octet |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 03:35:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502341568736226 |
-| Players | 3/15 |
-| Host Name | ЖидкийКозырек |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 05:56:03 |
+| Lobby ID | 28502341569197740 |
+| Players | 1/8 |
+| Host Name | Nyarro |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 05:56:51 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502341567696833 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ++ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 05:54:18 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341567747937 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | RON |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 05:54:24 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502341568278545 |
-| Players | 2/15 |
-| Host Name | heylo |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 05:55:18 |
+| Lobby ID | 28502341569260057 |
+| Players | 4/15 |
+| Host Name | набэ набэ |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 05:56:57 |
 
 
 |  | ot3_jungle_quintet |
@@ -113,28 +113,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341568646083 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | Lmao Zedong |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 05:55:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502341568807953 |
-| Players | 1/15 |
-| Host Name | Player |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 05:56:11 |
+| Lobby ID | 28502341569238629 |
+| Players | 4/8 |
+| Host Name | Kärss |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 05:56:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502341568841307 |
-| Players | 3/15 |
-| Host Name | ATTAKA |
+| Lobby ID | 28502341569082330 |
+| Players | 1/8 |
+| Host Name | пузо |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 05:56:14 |
+| Lobby Creation Time | Thursday, November 2, 2023 05:56:39 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,23 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ReinH |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 05:54:10 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502341567392148 |
-| Players | 2/10 |
-| Host Name | Maro4ka |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 05:53:48 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502341568181810 |
-| Players | 5/10 |
-| Host Name | d1 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 05:55:08 |
 
 
