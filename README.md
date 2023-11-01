@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970653963727 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | JUICY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:23:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970662533153 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:36:11 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970663120246 |
+| Lobby ID | 28500970663798905 |
 | Players | 1/15 |
-| Host Name | АГЕНТ ГАБЕНА |
+| Host Name | Kubick |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:37:05 |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:38:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970663675827 |
+| Lobby ID | 28500970663809506 |
 | Players | 1/15 |
-| Host Name | Kubick |
+| Host Name | АГЕНТ ГАБЕНА |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:37:56 |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:38:08 |
 
 
 |  | epic_boss_fight_normal |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | vestnikovdenis55 |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:36:28 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28500970660592913 |
+| Players | 8/10 |
+| Host Name | Vincenzo Cassano |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:33:15 |
 
 
