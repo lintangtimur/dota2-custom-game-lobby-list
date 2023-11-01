@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 20:05:10 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843216855697 |
-| Players | 23/24 |
-| Host Name | JohnGali.Ass |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:01:10 |
+| Lobby ID | 28501843224204962 |
+| Players | 6/10 |
+| Host Name | Marraqueta |
+| Region | AUSTRIA |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:05:58 |
 
 
 |  | ot3_gardens_duo |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843223337958 |
+| Lobby ID | 28501843215918609 |
 | Players | 13/15 |
-| Host Name | шлюша |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:05:24 |
+| Host Name | Honour! |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:00:33 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843220008667 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Kärss |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:03:14 |
@@ -110,22 +110,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 20:04:03 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28501843224332973 |
+| Players | 3/15 |
+| Host Name | дед михаил |
+| Region | AUSTRIA |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:06:03 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843224036591 |
-| Players | 2/10 |
-| Host Name | 神の寵愛を受けると悪 |
+| Lobby ID | 28501843223018621 |
+| Players | 9/10 |
+| Host Name | LOSE and LOSE |
 | Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:05:52 |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:05:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28501843224075091 |
-| Players | 4/8 |
-| Host Name | Конский ХЕР |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:05:53 |
+| Lobby ID | 28501843224335175 |
+| Players | 1/24 |
+| Host Name | FC |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:06:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,5 +153,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Watashi Unstoppable |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:25:12 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28501843224324984 |
+| Players | 1/5 |
+| Host Name | Player1 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:06:03 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28501843224336166 |
+| Players | 1/7 |
+| Host Name | Next |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:06:03 |
 
 
