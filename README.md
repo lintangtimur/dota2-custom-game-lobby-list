@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970642888716 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | FOR FUN |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:05:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970640800992 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | [22-1]bbsexxx |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:02:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970642782262 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:05:23 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970642588827 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Shelterダウビ |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:05:04 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:07:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970643956655 |
+| Players | 1/8 |
+| Host Name | PMA |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:07:19 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | pepega |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:03:34 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28500970643759814 |
-| Players | 1/5 |
-| Host Name | СЭР |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:06:59 |
 
 
