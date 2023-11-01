@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970687983395 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Manguito |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:15:38 |
@@ -23,37 +23,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970699038385 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | x^n+y^n=z^n |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:31:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970700248108 |
-| Players | 12/15 |
-| Host Name | ЄXѺҬӉЄГӍіС |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:32:54 |
+| Lobby ID | 28500970701617775 |
+| Players | 1/8 |
+| Host Name | АДСКИЙ САТАНА 666 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:34:45 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970696986839 |
+| Lobby ID | 28500970701423558 |
 | Players | 1/15 |
-| Host Name | twitch.tv/bas0n777 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:28:24 |
+| Host Name | Luh chonka |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:34:29 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970699805494 |
-| Players | 2/10 |
-| Host Name | ЧЁРНЫЙ рекрут |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:32:18 |
+| Lobby ID | 28500970701502374 |
+| Players | 1/15 |
+| Host Name | qqeurtqrwiweq |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:34:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,28 +68,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970701112664 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | philag |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:34:04 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970701586301 |
+| Players | 1/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:34:43 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970701211821 |
-| Players | 1/10 |
-| Host Name | Эщ Эщ Эщ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:34:12 |
+| Lobby ID | 28500970701702228 |
+| Players | 3/10 |
+| Host Name | 1 iq |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:34:52 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970701102299 |
-| Players | 2/8 |
-| Host Name | cursed |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:34:03 |
+| Lobby ID | 28500970701723253 |
+| Players | 3/8 |
+| Host Name | Horosh71 |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:34:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970701725880 |
+| Players | 1/10 |
+| Host Name | Эщ Эщ Эщ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:34:54 |
 
 
 |  | epic_boss_fight_normal |
@@ -135,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | dancing with death |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:34:10 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28500970701533539 |
+| Players | 1/10 |
+| Host Name | Fihed |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:34:38 |
 
 
