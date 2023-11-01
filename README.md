@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341558758950 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | MODO PICANTE |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 05:39:33 |
@@ -95,25 +95,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341559372167 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | reactive someone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 05:40:32 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502341559556921 |
-| Players | 3/10 |
-| Host Name | Мачупил |
+| Lobby ID | 28502341558860188 |
+| Players | 7/8 |
+| Host Name | Need? |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 05:40:50 |
+| Lobby Creation Time | Thursday, November 2, 2023 05:39:42 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502341559171774 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Мегаладон |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 05:40:13 |
@@ -135,15 +135,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ярик титьки |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 05:40:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502341558860188 |
-| Players | 6/8 |
-| Host Name | 1 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 05:39:42 |
 
 
 |  | ot3_necropolis_ffa |
