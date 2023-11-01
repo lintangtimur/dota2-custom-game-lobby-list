@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970686809493 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | 'le Yan |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:13:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970686442450 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Imave |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:13:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970680862858 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 東方白 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:04:32 |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 15:16:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970688762523 |
-| Players | 6/8 |
-| Host Name | Shax |
+| Lobby ID | 28500970688818530 |
+| Players | 1/15 |
+| Host Name | Я дурак |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:16:48 |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:16:53 |
 
 
 |  | ot3_jungle_quintet |
@@ -146,31 +146,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 15:16:45 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970688818530 |
-| Players | 1/15 |
-| Host Name | Я дурак |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:16:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970688859313 |
-| Players | 1/15 |
-| Host Name | Членовещатель |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:16:56 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970688862699 |
+| Lobby ID | 28500970688995110 |
 | Players | 1/10 |
 | Host Name | 吉野順平 |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:16:57 |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:17:09 |
 
 
 |  | epic_boss_fight_normal |
