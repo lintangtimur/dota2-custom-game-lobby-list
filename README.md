@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970643831046 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:07:06 |
@@ -50,37 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970644813126 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | MD. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:08:43 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970645172751 |
+| Players | 2/15 |
+| Host Name | Relax) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:09:18 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970644887933 |
+| Lobby ID | 28500970645186381 |
 | Players | 2/10 |
 | Host Name | Toxic |
 | Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:08:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970645063249 |
-| Players | 4/8 |
-| Host Name | Yatoro㍿ |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:09:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970645066313 |
-| Players | 1/10 |
-| Host Name | Top ice Spike |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:09:08 |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:09:20 |
 
 
 |  | epic_boss_fight_normal |
