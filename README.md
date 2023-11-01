@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970734045005 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Veselsak |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:19:16 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970731898116 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | N9ne |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:16:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970735411171 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Неуязвимый |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:21:10 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970735907008 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | 💀 |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:21:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970735748251 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | I Don't Know You! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:21:38 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970735971109 |
+| Lobby ID | 28500970736024270 |
 | Players | 1/8 |
-| Host Name | Lackadaisical |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:21:57 |
+| Host Name | GIGA CHAD |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:22:01 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970733933452 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | d1 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:19:06 |
