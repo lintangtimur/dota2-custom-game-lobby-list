@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970480352528 |
-| Players | 7/8 |
-| Host Name | EGOISTO |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:35:41 |
+| Lobby ID | 28500970481951012 |
+| Players | 1/8 |
+| Host Name | HUCCI |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:39:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970481016827 |
-| Players | 7/8 |
-| Host Name | Punisher PMA |
+| Players | 6/8 |
+| Host Name | Road to 1k |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:37:06 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970480891692 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | positive mental attitude |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:36:50 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970481608015 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | absolute |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:38:22 |
@@ -110,13 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 08:38:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970481951012 |
-| Players | 1/8 |
-| Host Name | HUCCI |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:39:06 |
+| Lobby ID | 28500970482409821 |
+| Players | 3/15 |
+| Host Name | Amber Spirit |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:40:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970482415418 |
+| Players | 2/10 |
+| Host Name | Might Wanna Try Fortnite |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:40:06 |
 
 
 |  | epic_boss_fight_nightmare |
