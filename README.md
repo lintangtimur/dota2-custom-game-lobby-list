@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502341603587377 |
-| Players | 1/15 |
-| Host Name | Курощуп |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 06:58:54 |
+| Lobby ID | 28502341603793246 |
+| Players | 2/15 |
+| Host Name | pain |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 06:59:18 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843803149349 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | mis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 03:35:21 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 06:57:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502341603484463 |
-| Players | 2/10 |
-| Host Name | в кабине Padalshchik |
+| Lobby ID | 28502341603638293 |
+| Players | 1/15 |
+| Host Name | Quinque |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 06:58:42 |
+| Lobby Creation Time | Thursday, November 2, 2023 06:59:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341603667951 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | vicjug |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 06:59:04 |
@@ -104,28 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341603508636 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 06:58:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502341603562229 |
-| Players | 1/8 |
-| Host Name | Мегаладон |
+| Lobby ID | 28502341603821712 |
+| Players | 1/10 |
+| Host Name | SHELEP |
 | Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 06:58:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502341603638293 |
-| Players | 1/15 |
-| Host Name | Quinque |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 06:59:00 |
+| Lobby Creation Time | Thursday, November 2, 2023 06:59:22 |
 
 
 |  | epic_boss_fight_nightmare |
