@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970786710312 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | КУНИСЛАВ |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:28:56 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970787348016 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | NN |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:29:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970787132767 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Гнилая Скатина |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:29:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970787188552 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | Dr. Strange where rampage |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:29:29 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970787434314 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | MinisterByDay, DotaPlayerByNight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:29:46 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970787662008 |
+| Players | 2/24 |
+| Host Name | Trungdaica |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:30:02 |
 
 
 |  | epic_boss_fight_normal |
