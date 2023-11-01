@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 06:58:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970438131488 |
-| Players | 11/15 |
-| Host Name | Trident |
+| Lobby ID | 28500970438323605 |
+| Players | 1/24 |
+| Host Name | SeT |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:03:30 |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:03:58 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970438117901 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | ебучий |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:03:29 |
@@ -54,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Niñoblis Tu Terror +.+ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 06:58:27 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28500970438323605 |
-| Players | 1/24 |
-| Host Name | SeT |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:03:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970438327673 |
-| Players | 1/8 |
-| Host Name | Big Tobacco |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:03:59 |
 
 
 |  | epic_boss_fight_nightmare |
