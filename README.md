@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970616479973 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Система 50% |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:19:22 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970619672255 |
-| Players | 13/15 |
-| Host Name | Dragon |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:25:22 |
+| Lobby ID | 28500970620587754 |
+| Players | 7/15 |
+| Host Name | БОРЫЧ ТАЙМ БУЛЬВА |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:27:05 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970619264909 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | STINKY BUTTHOLE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:24:36 |
