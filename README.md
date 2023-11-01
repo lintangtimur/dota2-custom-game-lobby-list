@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970758140392 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Yume |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:52:03 |
@@ -49,20 +49,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970755373690 |
-| Players | 11/15 |
-| Host Name | MRX |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:48:23 |
+| Lobby ID | 28500970758649149 |
+| Players | 3/15 |
+| Host Name | Шпингалет |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:52:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970758641449 |
+| Players | 4/15 |
+| Host Name | поletmedieм |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:52:43 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970758363411 |
+| Lobby ID | 28500970758720221 |
+| Players | 2/10 |
+| Host Name | ДЕВОЧКА |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:52:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970758722859 |
+| Players | 1/15 |
+| Host Name | Simpest Pimp |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:52:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970758764188 |
 | Players | 1/10 |
-| Host Name | KeeNobi |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:52:21 |
+| Host Name | ёбырь |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:52:53 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | chris |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:51:46 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28500970758510471 |
+| Players | 1/10 |
+| Host Name | ~Necr0lytuS.ILC |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:52:33 |
 
 
