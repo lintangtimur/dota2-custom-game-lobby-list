@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 14:53:39 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970680209318 |
-| Players | 21/24 |
-| Host Name | ANIKI 兄貴 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:03:28 |
+| Lobby ID | 28500970681082480 |
+| Players | 2/10 |
+| Host Name | You will die |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:04:53 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970669449129 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | BMO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:46:45 |
@@ -65,22 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 15:04:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970680940725 |
-| Players | 11/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:04:40 |
+| Lobby ID | 28500970682342268 |
+| Players | 3/10 |
+| Host Name | . |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:06:54 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970682339421 |
+| Players | 1/24 |
+| Host Name | Lulalelilo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:06:54 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970681082480 |
+| Lobby ID | 28500970682395552 |
 | Players | 2/10 |
-| Host Name | You will die |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:04:53 |
+| Host Name | . |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:06:59 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Гадкий Олег |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:05:24 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28500970681191923 |
-| Players | 7/10 |
-| Host Name | Barry Delight |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:05:04 |
 
 
