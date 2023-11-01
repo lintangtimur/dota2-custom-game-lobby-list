@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 12:48:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970601275920 |
-| Players | 1/8 |
-| Host Name | •Itsupiki ōkami• |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:48:55 |
+| Lobby ID | 28500970600743663 |
+| Players | 14/24 |
+| Host Name | x^n+y^n=z^n |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:47:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,46 +47,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 12:02:34 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970598460475 |
-| Players | 7/8 |
-| Host Name | seepeen |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:43:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970601309940 |
-| Players | 3/8 |
-| Host Name | Ray |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:48:59 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28500970600743663 |
-| Players | 13/24 |
-| Host Name | x^n+y^n=z^n |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:47:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970601899076 |
-| Players | 4/8 |
-| Host Name | nonseses |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:50:09 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970601637261 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | -ScripT: |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:49:38 |
@@ -94,19 +58,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970601936947 |
-| Players | 6/8 |
-| Host Name | Señor de la noche |
+| Lobby ID | 28500970601309940 |
+| Players | 7/8 |
+| Host Name | Ray |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:48:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970602047667 |
+| Players | 6/15 |
+| Host Name | El quispe de la profecia |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:50:14 |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:50:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970602120185 |
+| Players | 5/10 |
+| Host Name | . |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:50:36 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970602285184 |
+| Players | 1/15 |
+| Host Name | Jonsey |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:50:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970602280622 |
+| Players | 2/8 |
+| Host Name | Champions_01 |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:50:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970599345917 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Xypher |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:45:02 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28500970601969451 |
+| Players | 1/7 |
+| Host Name | Balda |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:50:17 |
 
 
