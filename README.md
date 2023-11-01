@@ -11,67 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 04:20:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970451703574 |
-| Players | 5/8 |
-| Host Name | SUPERKLITOR |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:34:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970451601389 |
-| Players | 1/8 |
-| Host Name | Tamborsito |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:34:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970449837068 |
-| Players | 5/10 |
-| Host Name | La Joya 21 |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:30:29 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28500970451169894 |
-| Players | 12/24 |
-| Host Name | Supai |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:33:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970450715108 |
-| Players | 4/10 |
-| Host Name | 月亮 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:32:23 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28500970451786696 |
-| Players | 1/24 |
-| Host Name | Mamo the Mailman |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:34:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970451098124 |
-| Players | 2/10 |
-| Host Name | "DIEGUIXZN//IS BACK" |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:33:14 |
+| Lobby ID | 28500970452046061 |
+| Players | 2/15 |
+| Host Name | GodiAm |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:35:17 |
 
 
 |  | ot3_gardens_duo |
@@ -83,13 +29,76 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 07:32:52 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970449837068 |
+| Players | 6/10 |
+| Host Name | La Joya 21 |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:30:29 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970451169894 |
+| Players | 14/24 |
+| Host Name | Supai |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:33:23 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970452046061 |
+| Lobby ID | 28500970452267203 |
 | Players | 1/15 |
-| Host Name | GodiAm |
+| Host Name | AndreXD |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:35:46 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970451786696 |
+| Players | 2/24 |
+| Host Name | Mamo the Mailman |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:34:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970451098124 |
+| Players | 4/10 |
+| Host Name | "DIEGUIXZN//IS BACK" |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:33:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970452167034 |
+| Players | 2/8 |
+| Host Name | Tamborsito |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:35:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970452313100 |
+| Players | 4/15 |
+| Host Name | Yello |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:35:52 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970452332763 |
+| Players | 1/15 |
+| Host Name | Отпиздил женщину |
 | Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:35:17 |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:35:54 |
 
 
 |  | epic_boss_fight_nightmare |
