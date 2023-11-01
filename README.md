@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843294704082 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | TerroRY.GoDota2.com |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:49:33 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843297984476 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | QJC |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:51:29 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843296682735 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | SwayzE |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:50:43 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843297523196 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | eh? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:51:13 |
@@ -131,8 +131,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843297801025 |
-| Players | 2/15 |
-| Host Name | leni |
+| Players | 1/15 |
+| Host Name | MrKiN^ |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:51:23 |
 
@@ -149,25 +149,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843298419178 |
-| Players | 2/8 |
-| Host Name | 0 ошибок |
+| Players | 1/8 |
+| Host Name | Esperando perseguir |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:51:45 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843298466838 |
-| Players | 2/10 |
-| Host Name | Mya0ナ |
+| Lobby ID | 28501843297841614 |
+| Players | 8/10 |
+| Host Name | ||||||||||||||| |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:51:47 |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:51:24 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843298491517 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | Кончи мне на ноги |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:51:47 |
@@ -176,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843298596953 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | 44 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:51:51 |
@@ -200,39 +200,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 20:21:01 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28501843295938896 |
-| Players | 9/10 |
-| Host Name | Hello |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:50:17 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28501843298613993 |
-| Players | 1/10 |
-| Host Name | king jagvar |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:51:52 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28501843296530019 |
-| Players | 2/10 |
-| Host Name | HOOMAX |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:50:37 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28501843297607820 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | MY NAME IS JOHN WICK |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:51:16 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28501843298761785 |
+| Players | 1/5 |
+| Host Name | Mindov |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:51:57 |
 
 
