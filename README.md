@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970635436283 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Asmoder |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:53:08 |
@@ -58,11 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970640346378 |
-| Players | 7/8 |
-| Host Name | I$uss |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:01:24 |
+| Lobby ID | 28500970639338091 |
+| Players | 2/8 |
+| Host Name | ЛОРД АНАЛА |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:59:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970641330828 |
+| Players | 2/8 |
+| Host Name | ฀ |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:03:01 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | bodak |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:53:55 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28500970641361318 |
+| Players | 2/5 |
+| Host Name | _Falcon_ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:03:04 |
 
 
