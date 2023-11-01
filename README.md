@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341590657274 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | , |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 06:34:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341594932997 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | reactive someone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 06:42:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843803149349 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | mis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 03:35:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341565318528 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Br0ker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 05:50:18 |
@@ -83,13 +83,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 06:42:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502341595300396 |
-| Players | 2/15 |
-| Host Name | .... |
+| Lobby ID | 28502341595346599 |
+| Players | 1/24 |
+| Host Name | 将离 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 06:43:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502341595354355 |
+| Players | 1/24 |
+| Host Name | wos |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 06:43:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502341595343094 |
+| Players | 2/10 |
+| Host Name | Gatito Estudiante😺 |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 06:43:09 |
+| Lobby Creation Time | Thursday, November 2, 2023 06:43:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502341595379193 |
+| Players | 3/8 |
+| Host Name | s$$ss$$$sss$$ssssS$ |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 06:43:18 |
 
 
 |  | epic_boss_fight_normal |
