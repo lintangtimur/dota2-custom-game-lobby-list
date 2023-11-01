@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843777187300 |
-| Players | 18/24 |
+| Players | 16/24 |
 | Host Name | Shulton 2.0 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 03:07:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843778559294 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Slyrak |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 03:08:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843779725984 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | oslak |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 03:10:01 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 03:09:19 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843779400762 |
-| Players | 5/10 |
-| Host Name | 100% |
+| Lobby ID | 28501843780043734 |
+| Players | 3/8 |
+| Host Name | ібрагім |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 03:09:40 |
+| Lobby Creation Time | Thursday, November 2, 2023 03:10:21 |
 
 
 |  | ot3_jungle_quintet |
@@ -110,22 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 03:04:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843778585975 |
-| Players | 2/8 |
-| Host Name | Notmot |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 03:08:48 |
+| Lobby ID | 28501843779885081 |
+| Players | 2/15 |
+| Host Name | Тюбик |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 03:10:11 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843778755998 |
-| Players | 3/8 |
-| Host Name | _Pico_ |
+| Lobby ID | 28501843779902186 |
+| Players | 1/8 |
+| Host Name | ✪Natie<3 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 03:08:58 |
+| Lobby Creation Time | Thursday, November 2, 2023 03:10:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843779768744 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | nessishima |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 03:10:04 |
@@ -148,11 +148,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843779821487 |
-| Players | 1/8 |
-| Host Name | Policia Terna de Cono norte |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 03:10:07 |
+| Lobby ID | 28501843778420573 |
+| Players | 5/8 |
+| Host Name | king |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 03:08:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -179,15 +179,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Players | 5/8 |
 | Host Name | I.G |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 03:10:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28501843779885081 |
-| Players | 2/15 |
-| Host Name | Тюбик |
-| Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 03:10:11 |
 
 
@@ -221,18 +212,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28501843779425486 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | kenuha |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 03:09:42 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28501843779882412 |
-| Players | 1/7 |
-| Host Name | Саня Балтика |
+| Lobby ID | 28501843779916200 |
+| Players | 2/10 |
+| Host Name | ЦЕГЕНБОГЕН |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 03:10:11 |
+| Lobby Creation Time | Thursday, November 2, 2023 03:10:13 |
 
 
