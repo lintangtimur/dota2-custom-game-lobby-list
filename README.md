@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970775056176 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | Zephyr.Tempest |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:14:45 |
@@ -104,19 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970782498077 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | ʕ •ᴥ•ʔ Big Russian Lion |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:23:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970782505322 |
-| Players | 1/10 |
-| Host Name | xxoda04 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:24:00 |
+| Lobby ID | 28500970782700425 |
+| Players | 4/8 |
+| Host Name | Ku (1 or 3) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:24:14 |
 
 
 |  | ot3_gardens_duo |
@@ -126,6 +126,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kakas |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:24:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970760171827 |
+| Players | 22/24 |
+| Host Name | มองหีเทอ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:54:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970782648300 |
+| Players | 9/10 |
+| Host Name | ПиВаня |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:24:10 |
 
 
 |  | epic_boss_fight_normal |
@@ -140,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970781984707 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | BigTree |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:23:22 |
