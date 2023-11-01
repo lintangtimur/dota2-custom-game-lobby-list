@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341555518868 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Stick Figure |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 05:34:20 |
@@ -59,28 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341556274796 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | black enegry drink |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 05:35:32 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502341555600652 |
-| Players | 6/8 |
-| Host Name | ✡️ Radivil 23 y.o. ✡ |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 05:34:28 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502341556467994 |
+| Lobby ID | 28502341556575598 |
 | Players | 1/15 |
-| Host Name | 自来也 |
+| Host Name | RizzLord |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 05:35:51 |
+| Lobby Creation Time | Thursday, November 2, 2023 05:36:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Qal3awi |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 05:35:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502341556513633 |
-| Players | 1/15 |
-| Host Name | Brzeczyszczykiewicz |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 05:35:55 |
 
 
 |  | epic_boss_fight_nightmare |
