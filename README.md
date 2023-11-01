@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970605954608 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | 1322837 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:58:22 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970576298161 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | drowning |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:57:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970605838303 |
-| Players | 9/24 |
+| Players | 6/24 |
 | Host Name | Coral |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:58:08 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 13:00:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970607256075 |
-| Players | 2/8 |
-| Host Name | 50г Сулугуни |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:01:05 |
+| Lobby ID | 28500970605989030 |
+| Players | 6/15 |
+| Host Name | Chaotic_Click |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:58:26 |
 
 
 |  | epic_boss_fight_challenger |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kazuha |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:01:03 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28500970607315309 |
+| Players | 1/10 |
+| Host Name | MrMechas |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:01:12 |
 
 
