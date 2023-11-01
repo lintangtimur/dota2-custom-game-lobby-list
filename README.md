@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970598359510 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | GOOD GAME |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:43:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970598185520 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | zxcLagVoltia |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:42:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970595239215 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Born from blood dies from cringe |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:36:51 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970598074260 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Viceroy |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:42:28 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970598460475 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ¤︻デ≡ 一 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:43:15 |
