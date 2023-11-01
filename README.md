@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970640800992 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | [22-1]bbsexxx |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:02:09 |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 14:08:43 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28500970638306978 |
-| Players | 22/24 |
-| Host Name | appreciate life |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:57:59 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970644887933 |
@@ -76,11 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970644966440 |
-| Players | 1/8 |
+| Lobby ID | 28500970645063249 |
+| Players | 4/8 |
+| Host Name | Yatoro㍿ |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:09:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970645066313 |
+| Players | 1/10 |
 | Host Name | Top ice Spike |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:08:58 |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:09:08 |
 
 
 |  | epic_boss_fight_normal |
