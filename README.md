@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970755122281 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | I.L. Caragiale |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:48:03 |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 16:48:23 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970755780434 |
-| Players | 7/8 |
-| Host Name | lana del rey fan |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:48:56 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970756488857 |
@@ -76,11 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970756497125 |
-| Players | 1/10 |
-| Host Name | Похрюкай |
+| Lobby ID | 28500970752793145 |
+| Players | 9/10 |
+| Host Name | Сын KJ |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:44:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970756607050 |
+| Players | 3/10 |
+| Host Name | pupka |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:49:52 |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:50:01 |
 
 
 |  | epic_boss_fight_normal |
