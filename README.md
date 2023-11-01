@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843243428400 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | 1 of 1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:18:23 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843215934509 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | methics |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:00:33 |
@@ -104,19 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843247616371 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | ( ＾◡＾)っ✂ SNIP SNIP |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:21:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843247366376 |
-| Players | 5/15 |
-| Host Name | -NewR1verrr✪- |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:20:54 |
+| Lobby ID | 28501843247952953 |
+| Players | 1/10 |
+| Host Name | 那年十八 贝隆捡生蚝 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:21:16 |
 
 
 |  | ot3_jungle_quintet |
@@ -132,9 +132,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28501843247693086 |
 | Players | 2/10 |
-| Host Name | pohui proebali |
+| Host Name | d0b3d183d0bbd18c |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:21:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28501843247748276 |
+| Players | 4/8 |
+| Host Name | young girl B |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:21:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28501843228545484 |
+| Players | 6/15 |
+| Host Name | Detelinara{RUBIN} |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:08:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28501843247927677 |
+| Players | 2/10 |
+| Host Name | pohui proebali |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:21:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28501843247950907 |
+| Players | 1/15 |
+| Host Name | cb|fh99^ # have fun :) |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:21:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28501843247979466 |
+| Players | 5/8 |
+| Host Name | ебаные хомяки |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:21:17 |
 
 
 |  | epic_boss_fight_normal |
