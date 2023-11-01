@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970749541524 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | xxoda04 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:40:35 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970749715328 |
-| Players | 3/8 |
-| Host Name | DDreams.Matiskadi.1XBET |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:40:50 |
+| Lobby ID | 28500970751488576 |
+| Players | 1/8 |
+| Host Name | pussy destroyer  2013 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:43:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970750204819 |
-| Players | 9/10 |
-| Host Name | DANICH |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:41:29 |
+| Lobby ID | 28500970751035172 |
+| Players | 6/10 |
+| Host Name | 홍은채) 내 동료가 돼라 홍은채) 물고기 캠 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:42:36 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,19 +95,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970747969385 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | cnm' |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:38:29 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970751035172 |
-| Players | 1/10 |
-| Host Name | 홍은채) 내 동료가 돼라 홍은채) 물고기 캠 |
+| Lobby ID | 28500970751413979 |
+| Players | 1/8 |
+| Host Name | AirFrost |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:43:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970751459850 |
+| Players | 1/8 |
+| Host Name | Greatest of all time |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:42:36 |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:43:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970751442672 |
+| Players | 1/8 |
+| Host Name | DISSO |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:43:09 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970751470233 |
+| Players | 1/24 |
+| Host Name | чмоки чмоки потом |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:43:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970751504995 |
+| Players | 2/8 |
+| Host Name | Bunny |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:43:14 |
 
 
 |  | epic_boss_fight_normal |
