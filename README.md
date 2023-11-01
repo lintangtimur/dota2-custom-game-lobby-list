@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970876437334 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | everythings about you |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:53:29 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 18:56:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970882049483 |
-| Players | 11/15 |
-| Host Name | ʕ •ᴥ•ʔ Big Russian Lion |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:57:56 |
+| Lobby ID | 28500970883500952 |
+| Players | 6/8 |
+| Host Name | Гачимучка |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:59:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970881685256 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Saitama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:57:38 |
