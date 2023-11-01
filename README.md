@@ -74,3 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 12:32:25 |
 
 
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28500970593376799 |
+| Players | 1/7 |
+| Host Name | Ynot |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:33:03 |
+
+
