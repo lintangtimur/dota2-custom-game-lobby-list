@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970467003775 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Guppi |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:07:25 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970467789289 |
+| Lobby ID | 28500970468242355 |
 | Players | 6/15 |
-| Host Name | ASHOT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:09:06 |
+| Host Name | Saint Piсят Два |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:10:03 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970468051618 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | 682 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:09:39 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970468056648 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | el tio de bryan 30CM |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:09:40 |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:09:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970467854773 |
-| Players | 7/8 |
-| Host Name | Esteemed Gentleman |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:09:14 |
 
 
 |  | epic_boss_fight_nightmare |
