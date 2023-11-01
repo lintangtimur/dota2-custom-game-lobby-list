@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970878112566 |
-| Players | 1/15 |
-| Host Name | ElMigo |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:54:48 |
+| Lobby ID | 28500970878321416 |
+| Players | 5/8 |
+| Host Name | https://www.twitch.tv/vabdar |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:54:58 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970877697900 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | Dude |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:54:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970877199281 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Cold and Wild |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:54:05 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970870650177 |
-| Players | 8/10 |
-| Host Name | black enegry drink |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:48:45 |
+| Lobby ID | 28500970878294420 |
+| Players | 3/10 |
+| Host Name | осиху |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:54:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970876437334 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | everythings about you |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:53:29 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 蓝胖舌吻双头龙 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:54:40 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970876552148 |
+| Players | 9/10 |
+| Host Name | 出棋不意必自闭 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:53:34 |
 
 
 |  | epic_boss_fight_normal |
