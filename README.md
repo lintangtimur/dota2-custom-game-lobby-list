@@ -23,28 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970547693418 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | lets_fight |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:57:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970545657785 |
-| Players | 7/8 |
-| Host Name | 愛刀塔 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:53:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970544295524 |
-| Players | 2/10 |
-| Host Name | BLESS THIS MESS |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:50:43 |
 
 
 |  | ot3_gardens_duo |
@@ -56,13 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 10:53:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970547766044 |
-| Players | 2/15 |
-| Host Name | W E L C O M E |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:57:55 |
+| Lobby ID | 28500970544295524 |
+| Players | 4/10 |
+| Host Name | BLESS THIS MESS |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:50:43 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970547963475 |
+| Players | 1/24 |
+| Host Name | SilverWolff |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:58:20 |
 
 
 |  | epic_boss_fight_normal |
