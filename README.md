@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341585457425 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 06:25:08 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341587918799 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | xXx |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 06:29:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502341588076758 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | krakoonity |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 06:29:50 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341587513570 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Ratasor |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 06:28:48 |
@@ -131,19 +131,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341587972772 |
-| Players | 1/15 |
+| Players | 9/15 |
 | Host Name | HowDareYou |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 06:29:39 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502341588140134 |
+| Players | 2/10 |
+| Host Name | MilQ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 06:29:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502341588130025 |
+| Players | 5/10 |
+| Host Name | Mayushii |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 06:29:56 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502341588116354 |
+| Lobby ID | 28502341588220963 |
 | Players | 1/8 |
 | Host Name | Odinn |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 06:29:55 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 06:30:06 |
 
 
 |  | epic_boss_fight_normal |
