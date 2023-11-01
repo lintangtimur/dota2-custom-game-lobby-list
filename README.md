@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970896539545 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | I YVIDEL SMERT' |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:09:33 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970894228152 |
-| Players | 13/15 |
+| Players | 11/15 |
 | Host Name | Liza_Solntseva |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:07:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970896156465 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | 110 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:09:15 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970896322657 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Deni |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:09:23 |
@@ -86,18 +86,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970896554495 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | V I N C E N T |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:09:33 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970867137924 |
+| Players | 3/15 |
+| Host Name | Caesar |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:45:50 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970897067288 |
+| Players | 6/24 |
+| Host Name | POM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 19:09:57 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970896984986 |
+| Lobby ID | 28500970897180918 |
 | Players | 1/8 |
-| Host Name | Kruppa(манная) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 19:09:54 |
+| Host Name | Voxl |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 19:10:03 |
 
 
