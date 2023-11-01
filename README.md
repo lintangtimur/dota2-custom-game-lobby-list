@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502341543934952 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | NO. |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 05:16:37 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341539660175 |
-| Players | 2/24 |
-| Host Name | Auna |
+| Players | 1/24 |
+| Host Name | Miller |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 05:10:09 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341543327076 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | nlt |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 05:15:41 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502341528190474 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | PUNCH1K |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 04:53:21 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341542067299 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | ☆ACVF☆ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 05:13:46 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341543474710 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | kvasova-vexova |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 05:15:55 |
@@ -128,21 +128,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 05:16:53 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502341544142461 |
+| Players | 1/8 |
+| Host Name | LO VI EN UNA GUÍA DE SMASH |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 05:16:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502341544204744 |
+| Players | 1/15 |
+| Host Name | Kalipso |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 05:17:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502341544226478 |
+| Players | 3/15 |
+| Host Name | BBY SKOOF LaFlare |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 05:17:03 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502341535699616 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | 델루치. |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 05:04:12 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502341544075479 |
-| Players | 1/5 |
-| Host Name | Kalipso |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 05:16:50 |
+| Lobby ID | 28502341544207063 |
+| Players | 1/10 |
+| Host Name | breakdown |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 05:17:02 |
 
 
