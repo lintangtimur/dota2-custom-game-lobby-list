@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843373119781 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | (ebanaya krыsa) Sanchoyzzz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:36:25 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843346549332 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | W gli Italiani |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:20:50 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843373317545 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | SalmouR -_- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:36:32 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 21:34:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28501843372585065 |
-| Players | 13/15 |
-| Host Name | ghostwhite |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:36:06 |
+| Lobby ID | 28501843374371587 |
+| Players | 5/24 |
+| Host Name | GeneRaL |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:37:09 |
 
 
 |  | ot3_jungle_quintet |
@@ -149,10 +149,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843373949892 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | black enegry drink |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:36:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28501843374386508 |
+| Players | 1/10 |
+| Host Name | Marshal1 |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:37:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28501843374527186 |
+| Players | 2/8 |
+| Host Name | Ivanbanan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:37:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28501843374592169 |
+| Players | 2/8 |
+| Host Name | Василиса Кукояка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:37:17 |
 
 
 |  | epic_boss_fight_nightmare |
