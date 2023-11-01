@@ -31,20 +31,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970707582846 |
-| Players | 8/10 |
-| Host Name | Too Good To Win? |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:42:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970708336978 |
-| Players | 4/8 |
-| Host Name | Мардикай |
+| Lobby ID | 28500970709234542 |
+| Players | 2/10 |
+| Host Name | my heart will leave you never |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:43:54 |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:45:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970709282053 |
+| Players | 1/10 |
+| Host Name | klim |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:45:11 |
 
 
 |  | ot3_desert_octet |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MidoriNoTori |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:43:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970708377083 |
-| Players | 7/8 |
-| Host Name | nusuntgacijur~ |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:43:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970708513417 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | EL TUNAS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:44:08 |
