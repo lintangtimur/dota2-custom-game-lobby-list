@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970693676678 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | REZSQUAD |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:23:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970686442450 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | LGD wise |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:13:18 |
@@ -83,10 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 15:23:42 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970694077415 |
+| Players | 1/15 |
+| Host Name | Фанат Головача |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:24:21 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28500970676686409 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | Пургинский гуль |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:57:45 |
