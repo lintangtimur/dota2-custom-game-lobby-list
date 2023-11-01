@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502341596063748 |
-| Players | 2/15 |
-| Host Name | Holosas |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 06:44:34 |
+| Lobby ID | 28502341596699968 |
+| Players | 1/24 |
+| Host Name | Chupete |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 06:45:47 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341595982945 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | wos |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 06:44:25 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 06:40:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502341595992550 |
-| Players | 11/15 |
-| Host Name | Demoralizd |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 06:44:26 |
+| Lobby ID | 28502341596736573 |
+| Players | 1/10 |
+| Host Name | Takashi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 06:45:51 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341596326984 |
-| Players | 1/10 |
+| Players | 7/10 |
 | Host Name | <ALETHEIA> |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 06:45:04 |
@@ -92,40 +92,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 06:44:08 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502341595668615 |
-| Players | 5/8 |
-| Host Name | el chazz |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 06:43:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502341596411916 |
-| Players | 1/8 |
-| Host Name | Кумыс припездучи |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 06:45:13 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502341596317646 |
-| Players | 1/10 |
-| Host Name | Takashi |
+| Lobby ID | 28502341565318528 |
+| Players | 9/10 |
+| Host Name | Br0ker |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 06:45:03 |
+| Lobby Creation Time | Thursday, November 2, 2023 05:50:18 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502341596407183 |
+| Lobby ID | 28502341596656034 |
+| Players | 1/8 |
+| Host Name | Suki Suki |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 06:45:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502341596800399 |
+| Players | 1/8 |
+| Host Name | Ростовская мафия |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 06:45:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502341596806577 |
 | Players | 1/8 |
 | Host Name | Valguard |
 | Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 06:45:13 |
+| Lobby Creation Time | Thursday, November 2, 2023 06:45:58 |
 
 
 |  | epic_boss_fight_nightmare |
