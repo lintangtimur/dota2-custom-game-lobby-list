@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970507253043 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | TIJOLADA |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:34:39 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970506466293 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Alonely |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:32:59 |
