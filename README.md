@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 16:16:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970732335180 |
-| Players | 2/10 |
-| Host Name | ZEN MODE |
+| Lobby ID | 28500970734585588 |
+| Players | 1/24 |
+| Host Name | cnm' |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:16:53 |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:20:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970734543855 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ВОДNIK 322 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:19:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970734585588 |
-| Players | 1/24 |
-| Host Name | cnm' |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:20:01 |
+| Lobby ID | 28500970734729103 |
+| Players | 1/8 |
+| Host Name | cf init |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:20:13 |
 
 
 |  | epic_boss_fight_nightmare |
