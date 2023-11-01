@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970519312571 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Shulton 2.0 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:59:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970515765538 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | hhhjj |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:52:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970519470767 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Kukurudza Striptizerka |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:59:55 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970520056351 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ǝʞıN |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:01:07 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970520126274 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | jimmy butler haircut of dota |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:01:16 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970520116677 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | AMA TU PERU CTMRE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:01:15 |
@@ -103,19 +103,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970520180135 |
-| Players | 1/15 |
-| Host Name | Wollem |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:01:22 |
+| Lobby ID | 28500970520310178 |
+| Players | 5/15 |
+| Host Name | Semavik |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:01:38 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970519806778 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | KING  CRIMSON |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:00:36 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28500970520230151 |
+| Players | 6/10 |
+| Host Name | NrAthrMsrh❤ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:01:29 |
 
 
