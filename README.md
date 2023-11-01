@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970569259721 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | -Voxz- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:43:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970564127259 |
-| Players | 5/8 |
-| Host Name | isn't like holding to the center |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:32:45 |
+| Lobby ID | 28500970570986943 |
+| Players | 1/24 |
+| Host Name | Movistar Perú |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:46:49 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970569582513 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | OG.HELLO?! |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:43:54 |
@@ -59,18 +59,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970570941544 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | P1zdaЬoL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:46:43 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28500970570986943 |
-| Players | 1/24 |
-| Host Name | Movistar Perú |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:46:49 |
 
 
