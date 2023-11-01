@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970578092638 |
-| Players | 6/8 |
-| Host Name | 先生 X |
+| Lobby ID | 28500970578965311 |
+| Players | 8/10 |
+| Host Name | EG.狩猎或杀戮如果我 |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:01:40 |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:03:30 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970579174743 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Måneskin |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:03:55 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970578571004 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | STINKY BUTTHOLE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:02:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970578965311 |
-| Players | 4/10 |
-| Host Name | EG.狩猎或杀戮如果我 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:03:30 |
+| Lobby ID | 28500970579371184 |
+| Players | 1/15 |
+| Host Name | Mouches Volantes |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:04:20 |
 
 
 |  | epic_boss_fight_nightmare |
