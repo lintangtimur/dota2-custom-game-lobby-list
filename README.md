@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970931255325 |
-| Players | 4/10 |
-| Host Name | ЧЕМП ПОДВАЛА |
+| Players | 2/10 |
+| Host Name | Sasha Rex ! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:34:56 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843179544935 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | WAYNE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:39:42 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843179727897 |
-| Players | 9/10 |
+| Players | 10/10 |
 | Host Name | LOSE and LOSE |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:39:55 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970933621379 |
-| Players | 5/8 |
-| Host Name | EzaeZ1 |
+| Players | 4/8 |
+| Host Name | Maxima |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:36:34 |
 
@@ -68,25 +68,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843180513956 |
-| Players | 12/15 |
+| Players | 15/15 |
 | Host Name | ghostwhite |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:40:36 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28501843181154081 |
+| Players | 1/8 |
+| Host Name | PRO100 T3RORIST |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 19:41:06 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970934361240 |
-| Players | 1/15 |
-| Host Name | Mute All Chat √ |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 19:37:04 |
+| Lobby ID | 28501843181250043 |
+| Players | 4/15 |
+| Host Name | destrxy lxnely. |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 19:41:10 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28501843178907597 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Yo Shawty |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:39:05 |
