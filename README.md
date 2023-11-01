@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970595838471 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:38:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970578519019 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | 奶茶妹 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:02:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970598460475 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | seepeen |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:43:15 |
@@ -68,37 +68,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970600743663 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | x^n+y^n=z^n |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:47:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970593236420 |
-| Players | 14/15 |
-| Host Name | ab1cd |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:32:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970600753676 |
-| Players | 3/15 |
-| Host Name | eveN_PenguiN |
+| Lobby ID | 28500970600897470 |
+| Players | 2/8 |
+| Host Name | smell |
 | Region | USWEST |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:47:52 |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:48:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970600838467 |
+| Players | 1/15 |
+| Host Name | ᴇᴍᴘᴛɪɴᴇꜱꜱ` |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:48:02 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970595239215 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | 离手鸳鸯刀 |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:36:51 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970600901077 |
+| Players | 1/15 |
+| Host Name | RODOVICH TEAM |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:48:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970600911435 |
+| Players | 3/15 |
+| Host Name | eveN_PenguiN |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:48:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970600918559 |
+| Players | 1/10 |
+| Host Name | Hawkeye |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:48:12 |
 
 
 |  | epic_boss_fight_nightmare |
