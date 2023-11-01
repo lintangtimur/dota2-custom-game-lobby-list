@@ -2,12 +2,12 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843285236641 |
-| Players | 3/8 |
-| Host Name | Гугич |
-| Region | PERU |
+| Lobby ID | 28501843285242606 |
+| Players | 15/15 |
+| Host Name | Bloodscourge |
+| Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:43:58 |
 
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843277241680 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | xVisuals |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:39:16 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843285135041 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | mistakes sequences |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:43:54 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 20:41:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28501843284136867 |
-| Players | 6/10 |
-| Host Name | Дауби Даубиев |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:43:19 |
+| Lobby ID | 28501843285156851 |
+| Players | 2/24 |
+| Host Name | Chisato |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:43:55 |
 
 
 |  | ot3_gardens_duo |
@@ -117,24 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | tamplier |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:42:45 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28501843285156851 |
-| Players | 2/24 |
-| Host Name | Chisato |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:43:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28501843285242606 |
-| Players | 7/15 |
-| Host Name | Bloodscourge |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:43:58 |
 
 
 |  | epic_boss_fight_normal |
