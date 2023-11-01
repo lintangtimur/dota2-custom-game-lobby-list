@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970447800614 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Хуеземлетряс |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:25:57 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970446025541 |
-| Players | 8/10 |
-| Host Name | im goldenfield nice to wheat u |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:22:02 |
+| Lobby ID | 28500970447053659 |
+| Players | 3/10 |
+| Host Name | i miss her |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:24:19 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970447516349 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | GoD |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:25:20 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970446077217 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | NoMercy |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:22:09 |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 07:25:18 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970447053659 |
-| Players | 3/10 |
-| Host Name | i miss her |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:24:19 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970445087961 |
@@ -108,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | jusplayin |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:19:52 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28500970447846100 |
+| Players | 1/5 |
+| Host Name | M0n4rc4 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:26:03 |
 
 
