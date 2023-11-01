@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970647573965 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | you're my favorite pizza place |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:13:08 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970655957082 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | -Все-Отец |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:26:12 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970658484745 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Shadow |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:30:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970659874085 |
-| Players | 1/8 |
-| Host Name | Fuck Shit |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:32:09 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RODIPIT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:51:17 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28500970657822411 |
-| Players | 8/10 |
-| Host Name | Cpt. Douchebag |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:29:03 |
 
 
