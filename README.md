@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970757673171 |
-| Players | 6/8 |
-| Host Name | Afghanistan |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:51:26 |
+| Lobby ID | 28500970758140392 |
+| Players | 1/8 |
+| Host Name | Yume |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:52:03 |
 
 
 |  | ot3_jungle_quintet |
@@ -49,20 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970755373690 |
-| Players | 14/15 |
-| Host Name | MRX |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:48:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28500970758075491 |
 | Players | 1/15 |
 | Host Name | HOUSTON |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:51:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970758202662 |
+| Players | 1/15 |
+| Host Name | vesss13 |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:52:08 |
 
 
 |  | epic_boss_fight_normal |
