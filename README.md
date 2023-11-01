@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970699038385 |
-| Players | 7/24 |
+| Players | 12/24 |
 | Host Name | x^n+y^n=z^n |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:31:16 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970700248108 |
-| Players | 3/15 |
+| Players | 10/15 |
 | Host Name | ЄXѺҬӉЄГӍіС |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:32:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970699805494 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | ЧЁРНЫЙ рекрут |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:32:18 |
@@ -58,26 +58,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970699772729 |
-| Players | 2/8 |
-| Host Name | РАЗРАБОТЧИК |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:32:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970700107148 |
-| Players | 1/15 |
-| Host Name | GG |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:32:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28500970700342111 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:33:01 |
@@ -86,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970700452578 |
-| Players | 1/8 |
-| Host Name | philag |
+| Players | 5/8 |
+| Host Name | вражеский enemy |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:33:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970701029951 |
+| Players | 1/10 |
+| Host Name | .twitch.tv/shatunchick |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:33:57 |
 
 
 |  | epic_boss_fight_normal |
@@ -128,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 15:32:46 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28500970700411506 |
-| Players | 1/7 |
-| Host Name | саня курган |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:33:07 |
+| Lobby ID | 28500970700976232 |
+| Players | 1/10 |
+| Host Name | dancing with death |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:33:53 |
 
 
