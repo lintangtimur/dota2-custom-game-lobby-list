@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 16:23:36 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970737544614 |
-| Players | 17/24 |
-| Host Name | Skippa |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:24:09 |
+| Lobby ID | 28500970739413033 |
+| Players | 1/8 |
+| Host Name | BrokenMirror |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:26:43 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,70 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970738493363 |
-| Players | 4/24 |
-| Host Name | Exzie |
+| Players | 5/24 |
+| Host Name | Ez7 |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:25:27 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970739552515 |
-| Players | 1/10 |
-| Host Name | BringWoodAndOil |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:26:55 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970739148607 |
-| Players | 1/15 |
-| Host Name | YouTy |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:26:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970739440975 |
-| Players | 5/15 |
-| Host Name | HolyDark |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:26:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970738975164 |
-| Players | 2/10 |
-| Host Name | … |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:26:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970739054524 |
-| Players | 2/8 |
-| Host Name | vast abyss |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:26:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970739413033 |
-| Players | 1/8 |
-| Host Name | BrokenMirror |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:26:43 |
+| Lobby ID | 28500970739903691 |
+| Players | 4/15 |
+| Host Name | Exzie |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:27:24 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970733933452 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | d1 |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:19:06 |
@@ -140,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970738851707 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Oni |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:25:57 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28500970740336793 |
+| Players | 2/10 |
+| Host Name | chester.87 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:28:00 |
 
 
