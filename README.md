@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970527909725 |
-| Players | 2/8 |
-| Host Name | JáReportaAeRapidão |
+| Players | 1/8 |
+| Host Name | el cuarto dedo del meepo |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:17:04 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970525384594 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | 为毛？ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:11:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970527956425 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | OPIUM BIRD |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:17:10 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970528118921 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Jesu3fois - TTV |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:17:29 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970526379224 |
-| Players | 14/15 |
+| Players | 15/15 |
 | Host Name | Egotheist |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:13:57 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970527576592 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | babyJesus- |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:16:24 |
@@ -153,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KhalilMeister |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:17:29 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28500970528425369 |
+| Players | 1/10 |
+| Host Name | Wrath of Dolphins |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:18:06 |
 
 
