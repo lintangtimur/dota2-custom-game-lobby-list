@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970758075491 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | HOUSTON |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:51:58 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 16:54:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970759918034 |
-| Players | 14/15 |
-| Host Name | senku |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:54:25 |
+| Lobby ID | 28500970760124245 |
+| Players | 1/10 |
+| Host Name | woe |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:54:42 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,13 +56,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 16:52:59 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970760407454 |
+| Players | 1/8 |
+| Host Name | lana del rey fan |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:55:04 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970760124245 |
-| Players | 1/10 |
-| Host Name | woe |
+| Lobby ID | 28500970760411449 |
+| Players | 2/10 |
+| Host Name | nowhere? |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:54:42 |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:55:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970760414386 |
+| Players | 1/15 |
+| Host Name | 10 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:55:05 |
 
 
 |  | epic_boss_fight_normal |
