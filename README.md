@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970814471919 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | SVR |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:58:36 |
@@ -59,10 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970814843487 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | Mayday Parade |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:58:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970815014918 |
+| Players | 2/10 |
+| Host Name | Кровавый понос |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:59:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970815053671 |
+| Players | 1/8 |
+| Host Name | bring back arcane blink |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:59:11 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ggwp |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:57:59 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28500970814899035 |
-| Players | 1/5 |
-| Host Name | 带娱乐家 |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:59:02 |
 
 
