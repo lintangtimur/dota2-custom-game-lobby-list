@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970529292724 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Freddy Amilcar |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:19:51 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970529471837 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Mike Oxlong |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:20:13 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 10:19:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970526379224 |
-| Players | 14/15 |
-| Host Name | csi las vegas |
+| Lobby ID | 28500970529953858 |
+| Players | 2/10 |
+| Host Name | Jonsey |
 | Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:13:57 |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:21:11 |
 
 
 |  | epic_boss_fight_nightmare |
