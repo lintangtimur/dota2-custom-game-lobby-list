@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970706165958 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Бавовна оркам |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:40:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970706137695 |
-| Players | 2/10 |
-| Host Name | Аня (Фотограф) |
+| Lobby ID | 28500970706669265 |
+| Players | 1/8 |
+| Host Name | УСАТАЯ БУБНА |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:40:54 |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:41:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970703935868 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | dullKing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:37:55 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970706579380 |
-| Players | 7/15 |
-| Host Name | Shax |
+| Lobby ID | 28500970706569292 |
+| Players | 3/15 |
+| Host Name | 绝对 |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:41:30 |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:41:29 |
 
 
 |  | ot3_jungle_quintet |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970706767799 |
+| Lobby ID | 28500970706820102 |
 | Players | 1/8 |
-| Host Name | nusuntgacijur~ |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:41:45 |
+| Host Name | lomtique |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:41:50 |
 
 
 |  | ot3_gardens_duo |
@@ -90,33 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:41:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970706569292 |
-| Players | 3/15 |
-| Host Name | 绝对 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:41:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970706669265 |
-| Players | 1/8 |
-| Host Name | УСАТАЯ БУБНА |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:41:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970706820102 |
-| Players | 1/8 |
-| Host Name | lomtique |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:41:50 |
 
 
 |  | epic_boss_fight_nightmare |
