@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970916789276 |
-| Players | 1/15 |
+| Players | 13/15 |
 | Host Name | приятный чел |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:24:41 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970905687948 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | NARBERAL GAMA |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:16:29 |
@@ -83,28 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 19:24:04 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970916837902 |
-| Players | 6/8 |
-| Host Name | only am |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 19:24:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970917126145 |
-| Players | 1/8 |
-| Host Name | doppelganger |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 1, 2023 19:24:56 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970917243784 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Crazy Leprechaun |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:25:01 |
@@ -112,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970917277926 |
-| Players | 1/8 |
-| Host Name |  |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 19:25:02 |
+| Lobby ID | 28500970916837902 |
+| Players | 7/8 |
+| Host Name | only am |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 19:24:43 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -130,28 +112,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28500970915169554 |
-| Players | 1/10 |
-| Host Name | Watashi Unstoppable |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 19:23:31 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28500970916317192 |
-| Players | 1/5 |
-| Host Name | Я-Алексей |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 19:24:21 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28500970917192228 |
 | Players | 1/10 |
 | Host Name | Hanzo |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:24:59 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28500970917499326 |
+| Players | 1/10 |
+| Host Name | Watashi Unstoppable |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 1, 2023 19:25:12 |
 
 
