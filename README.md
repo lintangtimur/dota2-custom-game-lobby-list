@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843788849887 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Stalker |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 03:19:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843722767308 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | . |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 02:12:02 |
@@ -76,29 +76,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28501843798926563 |
-| Players | 18/24 |
-| Host Name | Mr.Pickles |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 03:30:44 |
+| Lobby ID | 28501843800285839 |
+| Players | 1/24 |
+| Host Name | учат играть на 5к |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 03:32:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28501843798420562 |
-| Players | 2/15 |
-| Host Name | name man |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 03:30:11 |
+| Lobby ID | 28501843800284850 |
+| Players | 1/24 |
+| Host Name | VAaRLeT |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 03:32:13 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843798026783 |
-| Players | 7/8 |
-| Host Name | moryaz |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 03:29:45 |
+| Lobby ID | 28501843800111716 |
+| Players | 3/8 |
+| Host Name | уродец |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 03:32:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -131,27 +131,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843800094518 |
-| Players | 4/15 |
-| Host Name | . |
+| Players | 7/15 |
+| Host Name | McDi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 03:32:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28501843800111716 |
-| Players | 2/8 |
-| Host Name | уродец |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 03:32:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28501843798373184 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | blinkey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 03:30:08 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28501843800191806 |
+| Players | 1/7 |
+| Host Name | iDestik |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 03:32:07 |
 
 
