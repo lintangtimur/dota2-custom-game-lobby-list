@@ -20,22 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 11:57:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970598647608 |
-| Players | 9/10 |
-| Host Name | El simbolo de la soberbia |
+| Lobby ID | 28500970599615359 |
+| Players | 2/8 |
+| Host Name | T.v modo pensativo |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:43:37 |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:45:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970598583463 |
-| Players | 1/10 |
-| Host Name | Moises |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:43:30 |
+| Lobby ID | 28500970599509523 |
+| Players | 6/15 |
+| Host Name | Ник |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:45:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970598460475 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | seepeen |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:43:15 |
@@ -104,43 +104,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970599510005 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | NOrSil |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:45:22 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970599509523 |
-| Players | 6/15 |
-| Host Name | Ник |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:45:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970599615359 |
-| Players | 2/8 |
-| Host Name | T.v modo pensativo |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:45:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970599825017 |
-| Players | 1/10 |
-| Host Name | ⌐◨-◨ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:46:00 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970599345917 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Xypher |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:45:02 |
