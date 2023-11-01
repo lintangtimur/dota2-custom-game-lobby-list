@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970601217222 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Tio Oruga |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:48:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970601115625 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | eeeeeeeeeeeeeeeeeeeeeeeeee |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:48:35 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 12:43:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970598986155 |
-| Players | 9/10 |
-| Host Name | Балдежный Пердеж |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:44:18 |
+| Lobby ID | 28500970601309940 |
+| Players | 1/8 |
+| Host Name | Ray |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:48:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970600743663 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | x^n+y^n=z^n |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:47:51 |
