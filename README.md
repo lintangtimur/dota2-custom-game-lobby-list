@@ -2,28 +2,28 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502341513805401 |
-| Players | 13/15 |
-| Host Name | Jinzo |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 04:33:54 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502341514954380 |
-| Players | 7/8 |
-| Host Name | пуртыга |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 04:35:25 |
+| Lobby ID | 28502341515929322 |
+| Players | 3/8 |
+| Host Name | Vlad III. Drăculea |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 04:36:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502341515491486 |
+| Players | 12/15 |
+| Host Name | Твоя мама |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 04:36:07 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341514792940 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Мачупил |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 04:35:12 |
@@ -50,34 +50,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502341513816746 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | maseto |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 04:33:55 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502341515432552 |
-| Players | 8/10 |
-| Host Name | have fun |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 04:36:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502341504052136 |
-| Players | 6/15 |
-| Host Name | vjoperaze mindset |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 04:21:22 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341514959350 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | BABY-ROSH (AL) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 04:35:25 |
@@ -85,20 +67,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502341515365753 |
-| Players | 11/15 |
-| Host Name | pain |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 04:35:57 |
+| Lobby ID | 28502341504052136 |
+| Players | 7/15 |
+| Host Name | vjoperaze mindset |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 04:21:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502341515811019 |
+| Players | 2/10 |
+| Host Name | ☻ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 04:36:32 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502341515491486 |
-| Players | 1/15 |
-| Host Name | Твоя мама |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 04:36:07 |
+| Lobby ID | 28502341492814382 |
+| Players | 6/15 |
+| Host Name | зсу котик |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 04:07:03 |
 
 
 |  | epic_boss_fight_hard |
@@ -119,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 04:34:33 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28502341514348520 |
-| Players | 6/10 |
-| Host Name | ZAZZY |
+| Lobby ID | 28502341516026461 |
+| Players | 1/5 |
+| Host Name | kokot |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 04:34:36 |
+| Lobby Creation Time | Thursday, November 2, 2023 04:36:50 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ЦЕГЕНБОГЕН |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 04:36:09 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502341515583593 |
-| Players | 1/5 |
-| Host Name | Sajtika |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 04:36:14 |
 
 
