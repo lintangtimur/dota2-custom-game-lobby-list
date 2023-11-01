@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970445897823 |
-| Players | 2/8 |
-| Host Name | hahaha omg lol xd lmfao hehehe |
+| Players | 1/8 |
+| Host Name | BigBillzGetPaid |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:21:45 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970445033452 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | cbx Compendium sucks |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:19:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970445820935 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | no sound / ebawy |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:21:34 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 07:13:01 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970444395684 |
-| Players | 21/24 |
-| Host Name | Shea Dr. |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:18:15 |
+| Lobby ID | 28500970446077217 |
+| Players | 2/15 |
+| Host Name | NoMercy |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:22:09 |
 
 
 |  | ot3_jungle_quintet |
@@ -110,15 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 07:21:59 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970446077217 |
-| Players | 2/15 |
-| Host Name | NoMercy |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:22:09 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970445087961 |
@@ -135,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DAVEYGRAVEY2 |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:20:12 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28500970446172984 |
+| Players | 1/5 |
+| Host Name | forever |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:22:23 |
 
 
