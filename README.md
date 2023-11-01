@@ -11,31 +11,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 04:20:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970473961769 |
-| Players | 12/15 |
-| Host Name | Gabella |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:22:06 |
+| Lobby ID | 28500970474650767 |
+| Players | 6/10 |
+| Host Name | Tu viejo |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:23:33 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970462917393 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | CN Dota,Bet Dota! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:58:43 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970473119496 |
-| Players | 23/24 |
-| Host Name | Andresx1x |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:20:19 |
+| Lobby ID | 28500970474473309 |
+| Players | 2/10 |
+| Host Name | Lamar |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:23:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -49,38 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970474155216 |
+| Lobby ID | 28500970474814406 |
 | Players | 1/8 |
-| Host Name | BigBillzGetPaid |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:22:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970474337529 |
-| Players | 1/8 |
-| Host Name | ОСУЖДАЮ |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:22:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970474473309 |
-| Players | 2/10 |
-| Host Name | Lamar |
+| Host Name | ya heiter |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:23:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970474550512 |
-| Players | 1/8 |
-| Host Name | lets_fight |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:23:20 |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:23:55 |
 
 
 |  | epic_boss_fight_hard |
