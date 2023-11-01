@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970511780413 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | SOLOWAY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:44:05 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970511043010 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Tucan Mistico :v |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:42:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970512059980 |
-| Players | 12/15 |
-| Host Name | Guppi |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:44:40 |
+| Lobby ID | 28500970512766967 |
+| Players | 1/24 |
+| Host Name | -♣ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:46:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | estoy  cansado jefe |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:45:37 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970510619541 |
+| Players | 23/24 |
+| Host Name | aRealKindGuy |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:41:41 |
 
 
 |  | epic_boss_fight_nightmare |
