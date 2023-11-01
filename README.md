@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970522043708 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Hope |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:05:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970523674154 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:08:30 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970523938161 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | isn't like holding to the center |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:09:02 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28500970522080166 |
-| Players | 23/24 |
-| Host Name | quacc |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:05:15 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Neuel |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:08:58 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28500970525075112 |
+| Players | 1/5 |
+| Host Name | inadequate |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:11:21 |
 
 
