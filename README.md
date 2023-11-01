@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843384798107 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Larry Capija |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:43:20 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843390811620 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | 不和小人一般见识 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:46:56 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 21:45:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28501843390783567 |
-| Players | 4/8 |
-| Host Name | ss |
+| Lobby ID | 28501843391275913 |
+| Players | 1/24 |
+| Host Name | nadir907 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:46:55 |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:47:12 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843389744810 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | < blank > |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:46:18 |
@@ -113,8 +113,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843391169401 |
-| Players | 2/15 |
-| Host Name | chaos dunk |
+| Players | 12/15 |
+| Host Name | FeeZy |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:47:09 |
 
@@ -128,10 +128,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 21:47:10 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28501843391239037 |
+| Players | 1/8 |
+| Host Name | egorkakot |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:47:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28501843391238567 |
+| Players | 1/15 |
+| Host Name | Aarön |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:47:11 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28501843387260327 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Dezgan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:44:49 |
