@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843502151854 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Comando Pitbull |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:57:34 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 22:03:19 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843496355402 |
-| Players | 9/10 |
-| Host Name | Ｍ８ |
+| Lobby ID | 28501843505494175 |
+| Players | 1/15 |
+| Host Name | 3.14159 |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 22:53:31 |
+| Lobby Creation Time | Wednesday, November 1, 2023 22:59:55 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,70 +59,61 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843494137914 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Marinela |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:52:00 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28501843502715191 |
-| Players | 8/10 |
-| Host Name | The Perfect Girl |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 22:57:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28501843503547149 |
-| Players | 2/10 |
-| Host Name | DEFINICION ETERNA |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 22:58:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28501843503998167 |
-| Players | 4/8 |
-| Host Name | 医者Adraek– |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 22:58:52 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843505225256 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | хайпуля |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:59:44 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28501843503547149 |
+| Players | 1/10 |
+| Host Name | DEFINICION ETERNA |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 22:58:33 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843505433695 |
-| Players | 2/15 |
-| Host Name | Yxguden |
+| Players | 5/15 |
+| Host Name | GATO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:59:53 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843505494175 |
+| Lobby ID | 28501843505800542 |
 | Players | 1/15 |
-| Host Name | 3.14159 |
+| Host Name | C'EST EUX OU NOUS |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 1, 2023 23:00:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28501843483386921 |
+| Players | 3/15 |
+| Host Name | «ØvêℜÐøšê» |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 22:59:55 |
+| Lobby Creation Time | Wednesday, November 1, 2023 22:44:39 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28501843500906968 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | brook ブルック |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:56:41 |
@@ -135,5 +126,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Zeni |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:27:03 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28501843505730610 |
+| Players | 1/5 |
+| Host Name | Sovinys |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 23:00:06 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28501843505833956 |
+| Players | 1/10 |
+| Host Name | JL'Esperance |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 23:00:10 |
 
 
