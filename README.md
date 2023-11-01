@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970723993475 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | . |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:05:19 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970723379158 |
+| Lobby ID | 28500970724721989 |
 | Players | 1/8 |
-| Host Name | RysuK |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:04:29 |
+| Host Name | Твои зелёные глаза |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:06:19 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970723711205 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | maratjpeg. |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:04:56 |
