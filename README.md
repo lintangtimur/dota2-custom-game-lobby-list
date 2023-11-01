@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970722479840 |
-| Players | 6/8 |
-| Host Name | Света Шумовая |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:03:15 |
+| Lobby ID | 28500970725150024 |
+| Players | 1/8 |
+| Host Name | Norma(tilted) |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:06:54 |
 
 
 |  | ot3_gardens_duo |
@@ -117,24 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ted |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:06:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970725127778 |
-| Players | 1/8 |
-| Host Name | zitraks |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:06:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970725150024 |
-| Players | 1/8 |
-| Host Name | Norma(tilted) |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:06:54 |
 
 
 |  | epic_boss_fight_normal |
