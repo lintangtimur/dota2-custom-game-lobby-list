@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970734045005 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | lalcemt |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:19:16 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 16:30:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970741434567 |
-| Players | 13/15 |
-| Host Name | MRX |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:29:32 |
+| Lobby ID | 28500970742516067 |
+| Players | 1/8 |
+| Host Name | Sim |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:31:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Afghanistan |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:29:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970742506476 |
+| Players | 2/8 |
+| Host Name | DEM20111102 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:31:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970742607799 |
+| Players | 1/15 |
+| Host Name | Dont |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:31:10 |
 
 
 |  | epic_boss_fight_normal |
@@ -113,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970741541443 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Amazon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:29:41 |
@@ -140,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970742241127 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | d1 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:30:39 |
