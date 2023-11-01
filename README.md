@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970757039381 |
-| Players | 1/8 |
-| Host Name | 5 |
+| Lobby ID | 28500970757356996 |
+| Players | 1/10 |
+| Host Name | ЗАЛОЖНИК ЛП |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:50:35 |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:51:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970754270234 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | 177013 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:46:56 |
@@ -50,28 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970755373690 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | MRX |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:48:23 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970757223756 |
-| Players | 2/10 |
-| Host Name | вот бы тянучку |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:50:50 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970757167784 |
-| Players | 3/8 |
-| Host Name | BABULBA |
+| Lobby ID | 28500970757485052 |
+| Players | 1/8 |
+| Host Name | 911 мой номер |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:50:45 |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:51:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Evlogos |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:50:31 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970757313079 |
-| Players | 2/10 |
-| Host Name | huylo |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:50:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970757356996 |
-| Players | 1/10 |
-| Host Name | ЗАЛОЖНИК ЛП |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:51:00 |
 
 
 |  | epic_boss_fight_normal |
