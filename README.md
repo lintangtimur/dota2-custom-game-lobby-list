@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970746327636 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | lady maria |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:36:17 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970737149015 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | андрей монстр |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:23:36 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970746606253 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Norma(tilted) |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:36:39 |
@@ -81,6 +81,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | heisenburger |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:37:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970747032747 |
+| Players | 1/15 |
+| Host Name | рокаю ню роки |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:37:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970741890302 |
+| Players | 23/24 |
+| Host Name | Chris P. Bacon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:30:10 |
 
 
 |  | epic_boss_fight_normal |
