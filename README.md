@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843291811604 |
-| Players | 22/24 |
-| Host Name | asaka |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:47:50 |
+| Lobby ID | 28501843293436893 |
+| Players | 5/10 |
+| Host Name | huylo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:48:48 |
 
 
 |  | ot3_gardens_duo |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843215934509 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | methics |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:00:33 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843292939991 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | АДСКИЙ САТАНА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:48:30 |
@@ -85,26 +85,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843292721845 |
-| Players | 7/8 |
-| Host Name | Sneaky Beaky Like ¯\_(ツ)_/¯ |
+| Lobby ID | 28501843293456616 |
+| Players | 6/8 |
+| Host Name | мэр пизды |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:48:22 |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:48:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843288069423 |
-| Players | 9/15 |
-| Host Name | , |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:45:38 |
+| Lobby ID | 28501843293803472 |
+| Players | 4/8 |
+| Host Name | воняю |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:49:01 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843293386631 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | BL OP |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:48:46 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843292895717 |
-| Players | 10/15 |
-| Host Name | Azafiel |
+| Lobby ID | 28501843293591861 |
+| Players | 1/15 |
+| Host Name | boombox |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:48:28 |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:48:53 |
 
 
 |  | ot3_jungle_quintet |
@@ -149,46 +149,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843282676981 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Макута |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:42:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28501843293424578 |
-| Players | 8/10 |
-| Host Name | pohui proebali |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:48:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28501843293436893 |
-| Players | 2/10 |
-| Host Name | huylo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:48:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28501843293456616 |
-| Players | 6/8 |
-| Host Name | мэр пизды |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:48:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28501843293591861 |
-| Players | 1/15 |
-| Host Name | boombox |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:48:53 |
 
 
 |  | epic_boss_fight_normal |
@@ -221,9 +185,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28501843292467242 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | MY NAME IS JOHN WICK |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:48:13 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28501843293946918 |
+| Players | 1/10 |
+| Host Name | DLove |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:49:06 |
 
 
