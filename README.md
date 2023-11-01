@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970614990860 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | пушкин |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:16:32 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970614811549 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | FORSA AAA N |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:16:12 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970615275311 |
-| Players | 5/15 |
+| Players | 1/15 |
 | Host Name | GT |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:17:05 |
@@ -94,37 +94,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970615687574 |
-| Players | 1/8 |
-| Host Name | Señor de la noche |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:17:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970615634226 |
-| Players | 1/15 |
-| Host Name | РОМАТИМБЕРСАУ |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:17:45 |
+| Lobby ID | 28500970615710312 |
+| Players | 4/8 |
+| Host Name | nissinwafer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:17:54 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28500970614197165 |
-| Players | 9/10 |
-| Host Name | lupanamaingatrasa |
+| Lobby ID | 28500970615734267 |
+| Players | 1/10 |
+| Host Name | Vainglory |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:15:03 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28500970615682570 |
-| Players | 1/5 |
-| Host Name | Christopholies XXIII |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:17:51 |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:17:57 |
 
 
