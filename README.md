@@ -20,22 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 16:41:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970760171827 |
-| Players | 23/24 |
-| Host Name | Gino Evander |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:54:45 |
+| Lobby ID | 28500970766356422 |
+| Players | 1/15 |
+| Host Name | jAmbix |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:03:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970765354441 |
-| Players | 8/10 |
-| Host Name | my heart will leave you never |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:01:42 |
+| Lobby ID | 28500970766244969 |
+| Players | 1/15 |
+| Host Name | Triplesixgods |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:02:57 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970765477590 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | lana del rey fan |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:01:53 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970765951395 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Sliyver |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:02:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970766244969 |
-| Players | 1/15 |
-| Host Name | Triplesixgods |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:02:57 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970765578899 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | конунгеде |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:02:01 |
