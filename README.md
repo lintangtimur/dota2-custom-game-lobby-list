@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970594702963 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | 1322837 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:35:45 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970592836998 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | 我也不狂 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:31:57 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 12:34:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970594016301 |
-| Players | 9/10 |
-| Host Name | los estudios me nerfearon |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:34:21 |
+| Lobby ID | 28500970594794385 |
+| Players | 1/15 |
+| Host Name | The Dead of Marshes |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:35:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 12:35:13 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970594794385 |
-| Players | 1/15 |
-| Host Name | The Dead of Marshes |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:35:56 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970594571649 |
@@ -108,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | La Rata Mayor |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:35:29 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28500970594851942 |
+| Players | 1/10 |
+| Host Name | solution |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:36:03 |
 
 
