@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843502640475 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | 医者Adraek– |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:57:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843497896064 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | dk-vm |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:54:35 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843502538186 |
-| Players | 9/10 |
-| Host Name | Lunakisa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 22:57:50 |
+| Lobby ID | 28501843502715191 |
+| Players | 1/10 |
+| Host Name | The Perfect Girl |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 22:57:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843502605506 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | фан фумимочи |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:57:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843500636566 |
-| Players | 22/24 |
-| Host Name | cpdd要暴力的 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 22:56:30 |
+| Lobby ID | 28501843502391902 |
+| Players | 3/15 |
+| Host Name | < blank > |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 22:57:44 |
 
 
 |  | ot3_desert_octet |
@@ -110,19 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 22:57:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843502421490 |
-| Players | 3/15 |
-| Host Name | ни чего себе |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 1, 2023 22:57:45 |
+| Lobby ID | 28501843502345380 |
+| Players | 1/8 |
+| Host Name | クラピカ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 22:57:42 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843501931485 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | ベルセルク |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:57:24 |
@@ -139,35 +139,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843502345380 |
-| Players | 1/8 |
-| Host Name | クラピカ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 22:57:42 |
+| Lobby ID | 28501843503005076 |
+| Players | 2/8 |
+| Host Name | Гетьман Донецька |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 1, 2023 22:58:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843502391902 |
-| Players | 1/15 |
-| Host Name | < blank > |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 22:57:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28501843502715191 |
-| Players | 1/10 |
-| Host Name | The Perfect Girl |
+| Lobby ID | 28501843503004855 |
+| Players | 3/8 |
+| Host Name | i'll be better than Mira |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 22:57:57 |
+| Lobby Creation Time | Wednesday, November 1, 2023 22:58:10 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28501843500906968 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | brook ブルック |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:56:41 |
@@ -194,8 +185,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28501843493350961 |
-| Players | 3/10 |
-| Host Name | Кардинал |
+| Players | 1/10 |
+| Host Name | KERRIGAN |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:51:27 |
 
