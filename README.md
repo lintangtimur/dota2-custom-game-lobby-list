@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970764350067 |
-| Players | 1/24 |
-| Host Name | Ayana Koji |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:00:17 |
+| Lobby ID | 28500970764609273 |
+| Players | 2/10 |
+| Host Name | . |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:00:40 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970760171827 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Gino Evander |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:54:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970763945684 |
-| Players | 1/8 |
-| Host Name | хикки |
+| Lobby ID | 28500970764639710 |
+| Players | 1/15 |
+| Host Name | НА ТРИДЦАТОМ СТАЛ |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:59:43 |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:00:42 |
 
 
 |  | ot3_jungle_quintet |
@@ -58,47 +58,65 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970761892506 |
-| Players | 2/10 |
-| Host Name | . |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:57:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970763357415 |
+| Lobby ID | 28500970764595103 |
 | Players | 3/10 |
-| Host Name | Dr. Strange where rampage |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:58:56 |
+| Host Name | 欸牙平電冰嫁d1e? |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:00:38 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970764213093 |
+| Lobby ID | 28500970758075491 |
+| Players | 14/15 |
+| Host Name | ФИСБ_ПИ_ПИГС |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:51:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970764781943 |
 | Players | 1/15 |
-| Host Name | 大谷everlasting hate谷大 |
+| Host Name | Yasushi |
 | Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:00:05 |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:00:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970764163188 |
+| Lobby ID | 28500970764790336 |
 | Players | 1/15 |
-| Host Name | Vergessen_1 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:00:00 |
+| Host Name | Corolla |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:00:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970764332556 |
-| Players | 1/15 |
-| Host Name | tilted? |
+| Lobby ID | 28500970764840876 |
+| Players | 3/15 |
+| Host Name | Who we are |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:00:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970764803015 |
+| Players | 1/8 |
+| Host Name | s'ebalsya s mida |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:00:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970764833415 |
+| Players | 3/8 |
+| Host Name | TenasXD |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:00:15 |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:00:59 |
 
 
 |  | epic_boss_fight_normal |
@@ -113,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970761668426 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | MESSI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:56:44 |
