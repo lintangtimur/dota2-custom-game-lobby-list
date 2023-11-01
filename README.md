@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970841858182 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Ralph.KM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:24:07 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 17:36:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970844456869 |
-| Players | 3/15 |
-| Host Name | РАГА И КАПЫТА |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:26:26 |
+| Lobby ID | 28500970845226678 |
+| Players | 1/24 |
+| Host Name | Чувствую smooth criminal |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:27:07 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970831169956 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Yasha |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:14:29 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970844361386 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | wp |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:26:21 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970844971978 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | ???% |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:26:54 |
@@ -114,9 +114,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28500970841866932 |
 | Players | 14/15 |
-| Host Name | Grot |
+| Host Name | daynesty |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:24:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970845202462 |
+| Players | 4/10 |
+| Host Name | Жест доброй воли |
+| Region | AUSTRIA |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:27:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970845210385 |
+| Players | 2/8 |
+| Host Name | Дедус |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:27:07 |
 
 
 |  | epic_boss_fight_normal |
