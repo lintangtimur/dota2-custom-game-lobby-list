@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843379185014 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Lisnry |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:40:00 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843346549332 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | W gli Italiani |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:20:50 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 21:34:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843379933692 |
-| Players | 11/15 |
-| Host Name | 123321 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:40:26 |
+| Lobby ID | 28501843380567062 |
+| Players | 2/10 |
+| Host Name | Kloyn |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:40:49 |
 
 
 |  | ot3_desert_octet |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843379474235 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | fost |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:40:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843380172098 |
-| Players | 2/8 |
-| Host Name | please don't hate me |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:40:35 |
+| Lobby ID | 28501843368476120 |
+| Players | 4/15 |
+| Host Name | budin |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:33:43 |
 
 
 |  | ot3_desert_octet |
@@ -112,11 +112,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843380567062 |
+| Lobby ID | 28501843380899681 |
 | Players | 2/10 |
-| Host Name | Kloyn |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:40:49 |
+| Host Name | please don't hate me |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:41:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28501843380848751 |
+| Players | 5/8 |
+| Host Name | s$$ss$$$sss$$ssssS$ |
+| Region | AUSTRIA |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:40:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28501843380863096 |
+| Players | 6/10 |
+| Host Name | Tree for me |
+| Region | AUSTRIA |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:40:59 |
 
 
 |  | epic_boss_fight_nightmare |
