@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843596527227 |
-| Players | 14/24 |
-| Host Name | LoneWolf |
+| Players | 15/24 |
+| Host Name | Supertuna |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 00:15:14 |
 
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 00:10:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843584904839 |
-| Players | 23/24 |
-| Host Name | #W Kiwi € / \♥ |
+| Lobby ID | 28501843598260678 |
+| Players | 4/10 |
+| Host Name | Julius Caesar |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 00:05:22 |
+| Lobby Creation Time | Thursday, November 2, 2023 00:16:44 |
 
 
 |  | ot3_gardens_duo |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843600876385 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Netske |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 00:18:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843600533038 |
-| Players | 11/15 |
-| Host Name | Von Raesyr |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 00:18:41 |
+| Lobby ID | 28501843601052717 |
+| Players | 1/8 |
+| Host Name | Я умный |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 00:19:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,55 +74,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 00:16:55 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28501843600706565 |
-| Players | 9/10 |
-| Host Name | Zenigata |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 00:18:50 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28501843599180695 |
-| Players | 1/24 |
-| Host Name | Solo estoy pasando el rato |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 00:17:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28501843600479481 |
-| Players | 1/8 |
-| Host Name | Олег закинь бабок |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 00:18:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28501843598260678 |
-| Players | 3/10 |
-| Host Name | Julius Caesar |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 00:16:44 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843598281308 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | It's ok I just need a break |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 00:16:45 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28501843599180695 |
+| Players | 7/24 |
+| Host Name | Solo estoy pasando el rato |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 00:17:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28501843601075909 |
+| Players | 5/15 |
+| Host Name | hase |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 2, 2023 00:19:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28501843601188292 |
+| Players | 1/10 |
+| Host Name | Despicision |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 00:19:16 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28501843592013615 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | MeriMeriMeritos |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 00:11:25 |
