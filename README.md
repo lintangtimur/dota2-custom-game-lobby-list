@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970582350203 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:10:27 |
@@ -77,28 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970584633584 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Top Knot.Maeghan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:15:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970584320172 |
-| Players | 9/10 |
-| Host Name | ВвВМ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:14:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970585057086 |
-| Players | 1/15 |
-| Host Name | Dans12 |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:15:57 |
+| Lobby ID | 28500970585130642 |
+| Players | 1/8 |
+| Host Name | necrophilia |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:16:06 |
 
 
 |  | epic_boss_fight_nightmare |
