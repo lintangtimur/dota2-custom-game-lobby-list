@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970923523248 |
-| Players | 21/24 |
-| Host Name | ♥♥♥♥♥ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 19:29:31 |
+| Lobby ID | 28500970933049330 |
+| Players | 1/15 |
+| Host Name | ZXC_Сапортик__ |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 1, 2023 19:36:10 |
 
 
 |  | ot3_gardens_duo |
@@ -65,28 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 19:35:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970932346093 |
-| Players | 11/15 |
-| Host Name | В доме 8/16 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 19:35:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970932507257 |
-| Players | 3/8 |
-| Host Name | горлодер за щеку |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 19:35:47 |
+| Lobby ID | 28500970933146060 |
+| Players | 6/24 |
+| Host Name | POM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 19:36:14 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28500970926905780 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | shAVA MAX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:31:53 |
@@ -108,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Watashi Unstoppable |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:25:12 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28500970931222396 |
-| Players | 1/10 |
-| Host Name | ジェース |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 19:34:54 |
 
 
