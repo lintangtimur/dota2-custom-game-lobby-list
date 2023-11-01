@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970527576592 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | babyJesus- |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:16:24 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970528118921 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Jesu3fois - TTV |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:17:29 |
@@ -83,31 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 10:17:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970528666886 |
-| Players | 2/8 |
-| Host Name | mid |
+| Lobby ID | 28500970528925029 |
+| Players | 7/10 |
+| Host Name | EGOISTO |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:18:35 |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:19:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970528835929 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Dude |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:18:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970528925029 |
-| Players | 5/10 |
-| Host Name | EGOISTO |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:19:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970528425369 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Wrath of Dolphins |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:18:06 |
