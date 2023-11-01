@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970695949858 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | -Voxz- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:26:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970697301077 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | SIGMA |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:28:51 |
@@ -104,10 +104,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970697538864 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | xd |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:29:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970697541526 |
+| Players | 1/8 |
+| Host Name | DickHunter |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:29:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970697635106 |
+| Players | 2/8 |
+| Host Name | дерьмо3д |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:29:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970697658957 |
+| Players | 1/8 |
+| Host Name | 私を救う |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:29:21 |
 
 
 |  | epic_boss_fight_normal |
@@ -126,15 +153,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RODIPIT |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:16:44 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28500970696819941 |
-| Players | 1/10 |
-| Host Name | {THE~@} |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:28:10 |
 
 
 |  | epic_boss_fight_normal |
