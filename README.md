@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843646247837 |
-| Players | 2/15 |
+| Players | 9/15 |
 | Host Name | Parkur TV |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 00:59:04 |
@@ -122,19 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843642415792 |
-| Players | 9/10 |
-| Host Name | lioN. |
+| Players | 8/10 |
+| Host Name | qweasd |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 00:55:36 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28501843644207235 |
-| Players | 1/10 |
-| Host Name | Kimdyy |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 00:57:13 |
+| Lobby ID | 28501843646010604 |
+| Players | 6/10 |
+| Host Name | d1 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 00:58:51 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -157,10 +157,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28501843646010604 |
-| Players | 6/10 |
-| Host Name | d1 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 00:58:51 |
+| Lobby ID | 28501843646507690 |
+| Players | 5/10 |
+| Host Name | BORUTESU FAIBU |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 00:59:19 |
 
 
