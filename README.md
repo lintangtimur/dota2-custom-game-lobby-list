@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970676835709 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Yao Kamutoherovato |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:57:59 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 15:02:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970678534440 |
-| Players | 14/15 |
-| Host Name | Liza_Solntseva |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:00:41 |
+| Lobby ID | 28500970679067482 |
+| Players | 2/8 |
+| Host Name | go win plz)) |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:01:35 |
 
 
 |  | ot3_gardens_duo |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | . |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:01:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970679067482 |
-| Players | 2/8 |
-| Host Name | go win plz)) |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:01:35 |
 
 
 |  | epic_boss_fight_normal |
