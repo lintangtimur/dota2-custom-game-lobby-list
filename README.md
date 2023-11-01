@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970515093565 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | ? |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:50:58 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970511780413 |
-| Players | 4/15 |
+| Players | 2/15 |
 | Host Name | ...D3V1L... |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:44:05 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970515168882 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | baldej |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:51:08 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970513095593 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:46:48 |
@@ -65,28 +65,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 09:51:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970514817243 |
-| Players | 1/15 |
-| Host Name | шо |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:50:25 |
+| Lobby ID | 28500970515439189 |
+| Players | 3/10 |
+| Host Name | Laplas |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:51:42 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970515238465 |
 | Players | 2/24 |
-| Host Name | Eggtarts |
+| Host Name | Wu Gensheng |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:51:17 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970512438098 |
+| Players | 23/24 |
+| Host Name | Potatoes gonna potate! |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:45:27 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970513229326 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | :v |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:47:05 |
@@ -95,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970514308072 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | [........] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:49:21 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28500970515347578 |
+| Players | 2/5 |
+| Host Name | Puppy Knuckles |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:51:30 |
 
 
