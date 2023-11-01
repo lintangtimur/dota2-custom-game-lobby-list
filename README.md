@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970640517776 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Delay' |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:01:42 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970641330828 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | ฀ |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:03:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970641429504 |
+| Players | 1/15 |
+| Host Name | g32apex |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:03:11 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | bodak |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:53:55 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28500970641361318 |
-| Players | 2/5 |
-| Host Name | _Falcon_ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:03:04 |
 
 
