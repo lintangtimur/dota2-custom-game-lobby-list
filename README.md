@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970871994412 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Displex |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:49:52 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970872233687 |
-| Players | 1/10 |
-| Host Name | Barbie |
+| Lobby ID | 28500970871985507 |
+| Players | 2/10 |
+| Host Name | . |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:50:04 |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:49:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 18:45:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970871630845 |
-| Players | 3/10 |
-| Host Name | 8 |
-| Region | AUSTRIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:49:34 |
+| Lobby ID | 28500970872385975 |
+| Players | 1/8 |
+| Host Name | Kimik |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:50:11 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970871691954 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | DOTA_DIE.JPG |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:49:37 |
@@ -112,11 +112,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970871985507 |
-| Players | 2/10 |
-| Host Name | . |
+| Lobby ID | 28500970872309078 |
+| Players | 1/10 |
+| Host Name | 76561199040826191 |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:50:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970872293226 |
+| Players | 1/8 |
+| Host Name | Витя Кубань |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:49:51 |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:50:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970872284965 |
+| Players | 1/8 |
+| Host Name | Nik_for |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:50:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970872299427 |
+| Players | 1/8 |
+| Host Name | V I N C E N T |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:50:07 |
 
 
 |  | epic_boss_fight_normal |
