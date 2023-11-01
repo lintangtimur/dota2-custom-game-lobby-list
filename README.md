@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970626657579 |
-| Players | 20/24 |
-| Host Name | everythings about you |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:37:56 |
+| Lobby ID | 28500970628704008 |
+| Players | 3/10 |
+| Host Name | Spooney |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:41:31 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970626776273 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | 无限意识 &性交前抽烟 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:38:08 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970627369512 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | I$uss |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:39:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970622059933 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | Born from blood dies from cringe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:29:46 |
@@ -56,37 +56,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 13:38:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970627256941 |
-| Players | 2/15 |
-| Host Name | JhordY |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:38:59 |
+| Lobby ID | 28500970628856101 |
+| Players | 4/8 |
+| Host Name | nissinwafer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:41:47 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970627362441 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | CHOLITO MISIO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:39:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970628489006 |
-| Players | 3/8 |
-| Host Name | Батя дед инсайд |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:41:08 |
+| Lobby ID | 28500970628694357 |
+| Players | 1/15 |
+| Host Name | ’Mr . Big |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:41:30 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970626855566 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | :( |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:38:17 |
