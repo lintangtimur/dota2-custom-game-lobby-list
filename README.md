@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500281366023920 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | GrandMasterFeed |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 04:20:44 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970486610020 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Евший Водочку |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:49:05 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970485236359 |
-| Players | 22/24 |
-| Host Name | SNC |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:46:08 |
+| Lobby ID | 28500970486555959 |
+| Players | 1/24 |
+| Host Name | Akita |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:48:59 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970486527869 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | DEIGO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:48:55 |
@@ -65,28 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 08:48:56 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28500970486555959 |
-| Players | 1/24 |
-| Host Name | Akita |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:48:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970486613849 |
-| Players | 1/15 |
-| Host Name | bjj |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:49:06 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970483798669 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | DajjalWannaFightWithMe ?!! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:43:03 |
