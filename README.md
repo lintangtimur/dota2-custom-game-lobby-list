@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970563852159 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Avena 3 OSITOS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:32:12 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970562070568 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | appreciate life |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:28:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970563383257 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | ShaDoWars.!!m3Mo |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:31:16 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970564130105 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | Ginhão |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:32:45 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970563456565 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | zima |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:31:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970564363061 |
+| Players | 1/24 |
+| Host Name | Nexon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:33:12 |
 
 
 |  | epic_boss_fight_nightmare |
