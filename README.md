@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970643831046 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:07:06 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 14:02:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970635436283 |
-| Players | 1/15 |
-| Host Name | #Mahsaamini-WOMAN-LIFE-FREEDOM |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:53:08 |
+| Lobby ID | 28500970645379185 |
+| Players | 4/8 |
+| Host Name | Ñost |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:09:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,28 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 14:08:43 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970645172751 |
-| Players | 2/15 |
-| Host Name | Relax) |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:09:18 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970645186381 |
-| Players | 2/10 |
-| Host Name | Toxic |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:09:20 |
+| Lobby ID | 28500970645531846 |
+| Players | 1/10 |
+| Host Name | НЕПОНЯТЫЙ НЕ Я |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:09:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970645536143 |
+| Players | 1/8 |
+| Host Name | культ инвалидов |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:09:54 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28500970634346963 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | RODIPIT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:51:17 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kerry Copito |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:08:25 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28500970645444466 |
+| Players | 2/7 |
+| Host Name | ☭Stalin☭ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:09:45 |
 
 
