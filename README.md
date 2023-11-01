@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 18:55:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970877939472 |
-| Players | 22/24 |
-| Host Name | 蓝胖舌吻双头龙 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:54:40 |
+| Lobby ID | 28500970868902187 |
+| Players | 4/10 |
+| Host Name | ImPasTovskiy |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:47:18 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970876437334 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | everythings about you |
 | Region | INDIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:53:29 |
@@ -83,40 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 18:56:45 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970879289466 |
-| Players | 14/15 |
-| Host Name | ʕ •ᴥ•ʔ Big Russian Lion |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:55:44 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970879931189 |
-| Players | 3/8 |
-| Host Name | PRO100 T3RORIST |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:56:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970879948325 |
+| Lobby ID | 28500970880892833 |
 | Players | 1/8 |
-| Host Name | zxcgose |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:56:15 |
+| Host Name | ExSide- |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:57:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970879060574 |
-| Players | 1/15 |
-| Host Name | j.w.milan |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:55:33 |
+| Lobby ID | 28500970881015273 |
+| Players | 2/10 |
+| Host Name | only am |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:57:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -128,40 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 18:55:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970880131841 |
-| Players | 2/10 |
-| Host Name | Saul Goodman |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:56:24 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970880305049 |
-| Players | 9/10 |
-| Host Name | ПРЯНЯ |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:56:32 |
+| Lobby ID | 28500970879060574 |
+| Players | 1/15 |
+| Host Name | j.w.milan |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:55:33 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970880601516 |
-| Players | 5/8 |
-| Host Name | мочалка |
+| Lobby ID | 28500970881087297 |
+| Players | 2/8 |
+| Host Name | папа на аве |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:56:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970868902187 |
-| Players | 5/10 |
-| Host Name | Мохнатое Колесо |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:47:18 |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:57:10 |
 
 
 |  | epic_boss_fight_normal |
@@ -191,19 +155,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 18:53:16 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28500970879511998 |
-| Players | 1/5 |
-| Host Name | destuno |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:55:55 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28500970879412792 |
-| Players | 2/7 |
+| Players | 4/7 |
 | Host Name | momo&peach princess |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:55:50 |
