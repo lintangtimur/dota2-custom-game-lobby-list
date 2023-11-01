@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 04:20:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970459826555 |
-| Players | 1/15 |
-| Host Name | Asmoder |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:52:05 |
+| Lobby ID | 28500970460762001 |
+| Players | 8/10 |
+| Host Name | "DIEGUIXZN//IS BACK" |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:54:06 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970459420657 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Kärss |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:51:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970460751017 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Snow |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:54:05 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 07:53:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970460762001 |
-| Players | 7/10 |
-| Host Name | "DIEGUIXZN//IS BACK" |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:54:06 |
+| Lobby ID | 28500970461238539 |
+| Players | 1/15 |
+| Host Name | Asmoder |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:55:08 |
 
 
 |  | epic_boss_fight_nightmare |
