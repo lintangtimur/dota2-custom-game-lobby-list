@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970500945844 |
-| Players | 8/10 |
-| Host Name | Criptocomunista |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:21:06 |
+| Lobby ID | 28500970501526306 |
+| Players | 2/15 |
+| Host Name | PITILLO |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:22:22 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970496244138 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | ruby3000 |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:10:47 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970500784289 |
-| Players | 3/8 |
-| Host Name | Dispersion |
+| Players | 4/8 |
+| Host Name | eXoDiA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:20:45 |
 
@@ -50,34 +50,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970501107751 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | n7k1 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:21:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970500845765 |
-| Players | 9/15 |
-| Host Name | babyJesus- |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:20:53 |
+| Lobby ID | 28500970501716983 |
+| Players | 1/24 |
+| Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:22:48 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970501234412 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Casimiro Supo Tito |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:21:44 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970501770908 |
+| Players | 1/15 |
+| Host Name | ya_ryadom l t.tv |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:22:55 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28500970497386028 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | killua |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:13:19 |
