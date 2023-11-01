@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970687983395 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | MAad? |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:15:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970686442450 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | LGD wise |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:13:18 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970698065406 |
-| Players | 2/24 |
-| Host Name | llTheCroosII |
+| Players | 1/24 |
+| Host Name | Solo estoy pasando el rato |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:29:56 |
 
@@ -65,22 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 15:28:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970696589005 |
-| Players | 8/10 |
-| Host Name | You will die |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:27:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970697819054 |
-| Players | 6/8 |
-| Host Name | 私を救う |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:29:35 |
+| Lobby ID | 28500970698295812 |
+| Players | 1/15 |
+| Host Name | руинят мне |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:30:15 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | POS 12 OR jungle |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:29:00 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28500970698211917 |
+| Players | 1/10 |
+| Host Name | cadwrdsaw |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:30:08 |
 
 
