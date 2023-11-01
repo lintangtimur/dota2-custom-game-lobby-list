@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 13:12:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970611684403 |
-| Players | 13/15 |
-| Host Name | Goodbye Bystander |
+| Lobby ID | 28500970615119171 |
+| Players | 4/10 |
+| Host Name | WAYAN30 |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:10:08 |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:16:47 |
 
 
 |  | ot3_desert_octet |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 13:16:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970615119171 |
-| Players | 2/10 |
-| Host Name | WAYAN30 |
+| Lobby ID | 28500970615275311 |
+| Players | 5/15 |
+| Host Name | Collapse |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:16:47 |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:17:05 |
 
 
 |  | epic_boss_fight_nightmare |
