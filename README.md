@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500281366023920 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | GrandMasterFeed |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 04:20:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970441059544 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | jo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:10:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970441480272 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Chad Chadinson |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:11:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970441499916 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | ТренажерБорис |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:11:30 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970441613024 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | cuenta solo pal baje de pepa |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:11:46 |
@@ -92,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 07:06:14 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28500970441610041 |
-| Players | 1/10 |
-| Host Name | 1 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:11:46 |
+| Lobby ID | 28500970441696266 |
+| Players | 1/5 |
+| Host Name | ZzZ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:11:58 |
 
 
