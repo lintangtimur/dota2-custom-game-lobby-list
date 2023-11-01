@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970663435634 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | 无限意识 &性交前抽烟 |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:37:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970666990799 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | 'le Yan |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:42:58 |
@@ -94,20 +94,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970670310929 |
+| Lobby ID | 28500970670453020 |
+| Players | 1/15 |
+| Host Name | Bozon_Higgs4 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:48:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970670489179 |
 | Players | 1/15 |
 | Host Name | [TIN] AkikoChan (Core or feed) |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:48:02 |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:48:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970653963727 |
-| Players | 9/10 |
-| Host Name | Copper Lee |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:23:08 |
+| Lobby ID | 28500970670467606 |
+| Players | 1/15 |
+| Host Name | pi_na_tri |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:48:16 |
 
 
 |  | epic_boss_fight_normal |
@@ -117,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Spirit Cock Sucker |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:47:17 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28500970670488157 |
+| Players | 1/10 |
+| Host Name | Твой Батя |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:48:18 |
 
 
