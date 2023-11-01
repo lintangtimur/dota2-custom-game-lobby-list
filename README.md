@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970539282858 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | UNSTOPPABLE M LuV♥ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:40:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970539980039 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | ZZZZZZZZ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:41:48 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970539935679 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Chungha |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:41:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970540192906 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | помни♡ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:42:15 |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 10:42:09 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28500970536644300 |
-| Players | 9/10 |
-| Host Name | 3 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:34:58 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28500970538530556 |
@@ -108,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mother Stefler |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:38:48 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28500970540643144 |
+| Players | 4/10 |
+| Host Name | 極樂蝶 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:43:10 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28500970540665741 |
+| Players | 1/5 |
+| Host Name | Alzheimer |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:43:13 |
 
 
