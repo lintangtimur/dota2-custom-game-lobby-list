@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970595250397 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | [Z]Mr.Killer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:36:52 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970595667864 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | No tengo enemigos |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:37:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970593236420 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | ab1cd |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:32:46 |
@@ -59,34 +59,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970595672309 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | necrophilia |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:37:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970597535885 |
-| Players | 12/15 |
-| Host Name | An Innocent Coconut |
+| Lobby ID | 28500970598185520 |
+| Players | 4/10 |
+| Host Name | zxcLagVoltia |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:41:25 |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:42:42 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970595239215 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Born from blood dies from cringe |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:36:51 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970598074260 |
+| Players | 4/15 |
+| Host Name | Viceroy |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:42:28 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970597065715 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | BigTree |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:40:30 |
