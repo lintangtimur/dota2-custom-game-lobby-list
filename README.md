@@ -11,60 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 04:20:44 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970483947419 |
-| Players | 9/10 |
-| Host Name | 過小評価 |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:43:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970484413982 |
-| Players | 1/8 |
-| Host Name | isn't like holding to the center |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:44:23 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28500970485236359 |
-| Players | 16/24 |
-| Host Name | SNC |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:46:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970485159098 |
-| Players | 12/15 |
-| Host Name | no excuses |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:45:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970485661720 |
-| Players | 2/8 |
-| Host Name | el tio de bryan 30CM |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:47:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970485065028 |
-| Players | 8/10 |
-| Host Name | Oklahoma |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:45:46 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970485091280 |
@@ -77,10 +23,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970485034163 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | vicjug |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:45:42 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970485236359 |
+| Players | 17/24 |
+| Host Name | SNC |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:46:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970485159098 |
+| Players | 13/15 |
+| Host Name | no excuses |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:45:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970485661720 |
+| Players | 3/8 |
+| Host Name | el tio de bryan 30CM |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:47:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970485065028 |
+| Players | 8/10 |
+| Host Name | Oklahoma |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:45:46 |
 
 
 |  | epic_boss_fight_nightmare |
