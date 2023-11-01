@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 15:13:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970697538864 |
-| Players | 7/8 |
-| Host Name | xd |
+| Lobby ID | 28500970698065406 |
+| Players | 2/24 |
+| Host Name | llTheCroosII |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:29:11 |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:29:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970696589005 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | You will die |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:27:50 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970697819054 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | 私を救う |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:29:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970698031539 |
-| Players | 1/15 |
-| Host Name | vagabond |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:29:53 |
 
 
 |  | epic_boss_fight_normal |
