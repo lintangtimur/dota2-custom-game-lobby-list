@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970449109631 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | 21Savage |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:28:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970449128365 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Rousseau |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:28:55 |
@@ -32,10 +32,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970449489495 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | XFullHouse |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:29:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970449658842 |
+| Players | 4/10 |
+| Host Name | OG Kush |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:30:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970449663501 |
+| Players | 2/10 |
+| Host Name | "DIEGUIXZN//IS BACK" |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:30:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970449687791 |
+| Players | 2/15 |
+| Host Name | look at this cool duck |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:30:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970448649578 |
+| Players | 8/10 |
+| Host Name | Too Good To Win? |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:27:50 |
 
 
 |  | epic_boss_fight_nightmare |
