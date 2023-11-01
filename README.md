@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843550550838 |
-| Players | 6/8 |
-| Host Name | fuck marcelo miracles |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 23:35:46 |
+| Lobby ID | 28501843554239327 |
+| Players | 3/8 |
+| Host Name | denji |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 23:38:53 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843549370555 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | BoBo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 23:34:46 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843543483340 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | EL PENE DE ORO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 23:29:52 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843552631371 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | CH1naZEs |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 23:37:32 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843552206629 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | AKKAR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 23:37:11 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843554206468 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | Logen |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 23:38:52 |
@@ -148,20 +148,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843554238213 |
-| Players | 1/10 |
-| Host Name | Павукан |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 23:38:53 |
+| Lobby ID | 28501843554269058 |
+| Players | 4/10 |
+| Host Name | krauzer |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 1, 2023 23:38:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843554239327 |
-| Players | 3/8 |
-| Host Name | denji |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 23:38:53 |
+| Lobby ID | 28501843554367585 |
+| Players | 1/10 |
+| Host Name | Arthemidas |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 1, 2023 23:39:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28501843554397713 |
+| Players | 3/10 |
+| Host Name | amelo vito co-co |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 23:39:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28501843554420099 |
+| Players | 2/15 |
+| Host Name | jif |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 23:39:03 |
 
 
 |  | epic_boss_fight_challenger |
@@ -185,7 +203,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28501843549862754 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | Me llegas al pincho |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 23:35:11 |
@@ -198,5 +216,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | OMGCOLA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 23:32:14 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28501843554452521 |
+| Players | 1/7 |
+| Host Name | Moo |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 1, 2023 23:39:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28501843554453002 |
+| Players | 1/5 |
+| Host Name | JOINT |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 23:39:04 |
 
 
