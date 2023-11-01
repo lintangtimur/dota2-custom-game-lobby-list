@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500281366023920 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | GrandMasterFeed |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 04:20:44 |
@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970490989254 |
-| Players | 2/10 |
-| Host Name | Гангстер |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:58:41 |
+| Lobby ID | 28500970492998685 |
+| Players | 7/10 |
+| Host Name | EGOISTO |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:03:23 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970491797551 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | DIMITREE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:00:33 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 08:58:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970492139355 |
-| Players | 12/15 |
-| Host Name | El gatito erotico |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:01:23 |
+| Lobby ID | 28500970493064227 |
+| Players | 1/10 |
+| Host Name | Marshal1 |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:03:32 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970491889886 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | CORRALITO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:00:47 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970492894498 |
-| Players | 1/8 |
-| Host Name | !Kuroneko-Feyris !Pangolin !MMLD |
+| Players | 4/8 |
+| Host Name | El Padre Doug giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:03:09 |
 
@@ -110,21 +110,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 09:02:46 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970489358590 |
-| Players | 5/7 |
-| Host Name | FishBunnyCat |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:55:06 |
+| Lobby ID | 28500970492967148 |
+| Players | 4/8 |
+| Host Name | shadowheart fucker |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:03:19 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28500970492729230 |
-| Players | 1/10 |
-| Host Name | Jaaa |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:02:46 |
+| Lobby ID | 28500970492996246 |
+| Players | 2/10 |
+| Host Name | heh? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:03:23 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28500970493161613 |
+| Players | 2/5 |
+| Host Name | Бильбо Беггинс |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:03:46 |
 
 
