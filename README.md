@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970520056351 |
-| Players | 1/24 |
-| Host Name | juan hit juander™ |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:01:07 |
+| Lobby ID | 28500970525478614 |
+| Players | 10/15 |
+| Host Name | P@nic |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:12:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970511780413 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | ...D3V1L... |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:44:05 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970523938161 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | isn't like holding to the center |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:09:02 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | -Voxz- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:11:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970525478614 |
-| Players | 7/15 |
-| Host Name | P@nic |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:12:10 |
 
 
 |  | epic_boss_fight_normal |
