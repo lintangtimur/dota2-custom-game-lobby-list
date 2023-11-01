@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843791122836 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | Hunter |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 03:22:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843790930962 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | FusuiK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 03:22:02 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 03:21:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843792441804 |
-| Players | 2/10 |
-| Host Name | Mirkoy |
+| Lobby ID | 28501843792924909 |
+| Players | 3/15 |
+| Host Name | exceptinal confused |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 03:23:41 |
+| Lobby Creation Time | Thursday, November 2, 2023 03:24:13 |
 
 
 |  | ot3_gardens_duo |
@@ -122,19 +122,73 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843792570342 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | . |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 03:23:49 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28501843792905643 |
+| Players | 1/8 |
+| Host Name | 5 нашка |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 03:24:11 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843792751504 |
-| Players | 1/10 |
-| Host Name | Lion |
+| Lobby ID | 28501843792801422 |
+| Players | 2/10 |
+| Host Name | Borgarbeni |
 | Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 03:24:01 |
+| Lobby Creation Time | Thursday, November 2, 2023 03:24:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28501843792829695 |
+| Players | 7/8 |
+| Host Name | tareq is the second best Muerta |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 03:24:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28501843792851813 |
+| Players | 1/15 |
+| Host Name | богиня доты |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 03:24:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28501843792860747 |
+| Players | 1/24 |
+| Host Name | El Sujeto |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 03:24:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28501843792906926 |
+| Players | 1/15 |
+| Host Name | axsea |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 03:24:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28501843792886097 |
+| Players | 4/8 |
+| Host Name | Bweans |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 03:24:10 |
 
 
 |  | epic_boss_fight_nightmare |
