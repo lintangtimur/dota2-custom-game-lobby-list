@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341499609838 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Прикоп3см |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 04:15:36 |
@@ -103,17 +103,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502341501230873 |
+| Lobby ID | 28502341501497990 |
 | Players | 1/15 |
-| Host Name | po |
+| Host Name | [Immolate]JackDevil |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 04:17:41 |
+| Lobby Creation Time | Thursday, November 2, 2023 04:18:02 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341501334831 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | have fun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 04:17:49 |
@@ -121,29 +121,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502341501372114 |
+| Lobby ID | 28502341501634622 |
 | Players | 2/8 |
-| Host Name | Am1le |
+| Host Name | Zen'in |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 04:18:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502341501529380 |
+| Players | 1/15 |
+| Host Name | yutsuken |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 04:18:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502341501595102 |
+| Players | 1/8 |
+| Host Name | 123 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 04:18:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502341501609117 |
+| Players | 1/15 |
+| Host Name | direghoulthatassimilatingthebest |
 | Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 04:17:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502341501441897 |
-| Players | 1/15 |
-| Host Name | Джонни Базука |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 04:17:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502341501497990 |
-| Players | 1/15 |
-| Host Name | [Immolate]JackDevil |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 04:18:02 |
+| Lobby Creation Time | Thursday, November 2, 2023 04:18:11 |
 
 
 |  | epic_boss_fight_nightmare |
