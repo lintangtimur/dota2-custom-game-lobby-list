@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341498693690 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | FOR FUN |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 04:14:27 |
@@ -148,11 +148,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502341497336480 |
-| Players | 8/10 |
-| Host Name | fen009 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 04:12:45 |
+| Lobby ID | 28502341499956578 |
+| Players | 2/10 |
+| Host Name | ☻ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 04:16:03 |
 
 
 |  | ot3_jungle_quintet |
@@ -164,40 +164,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 04:15:57 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502341499959872 |
-| Players | 4/8 |
-| Host Name | алые листья |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 04:16:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502341499988854 |
-| Players | 1/15 |
-| Host Name | Fimo | Chorizoblume |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 04:16:05 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502341499956578 |
-| Players | 2/10 |
-| Host Name | ☻ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 04:16:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502341499990821 |
-| Players | 1/15 |
-| Host Name | A N X I E T Y |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 04:16:06 |
+| Lobby ID | 28502341500051847 |
+| Players | 1/10 |
+| Host Name | Lucius Artorius Castus |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 04:16:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -221,7 +194,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502341491043794 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Yamada Empanada |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 04:04:49 |
