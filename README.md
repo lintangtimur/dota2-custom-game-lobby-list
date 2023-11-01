@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 04:20:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970472606356 |
-| Players | 13/15 |
-| Host Name | jebao |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:19:14 |
+| Lobby ID | 28500970473933105 |
+| Players | 1/10 |
+| Host Name | ежемесячный мут |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:22:02 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970473119496 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Andresx1x |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:20:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970473672124 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | BLESS THIS MESS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:21:29 |
@@ -65,22 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 08:21:44 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970473804901 |
-| Players | 1/10 |
-| Host Name | ежемесячный мут |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:21:45 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970473869391 |
+| Lobby ID | 28500970473961769 |
 | Players | 1/15 |
-| Host Name | xddslayer |
+| Host Name | Gabella |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:21:54 |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:22:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28500970472228740 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | сын шлюхи |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:18:26 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28500970473901162 |
+| Players | 1/7 |
+| Host Name | Beautyyy |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:21:58 |
 
 
