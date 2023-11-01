@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843251163403 |
-| Players | 13/15 |
-| Host Name | Big J |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:23:18 |
+| Lobby ID | 28501843263792464 |
+| Players | 2/10 |
+| Host Name | oOoOoOo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:31:12 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843246220958 |
-| Players | 7/8 |
+| Players | 5/8 |
 | Host Name | Mantra |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:20:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843263610033 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | kiss my ass |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:31:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843261961478 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | i hate myself |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:30:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843263084431 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Vadyao |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:30:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843259358027 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Natural |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:28:27 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | only am |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:30:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28501843263873499 |
+| Players | 3/8 |
+| Host Name | S4I |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:31:14 |
 
 
 |  | epic_boss_fight_normal |
