@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970634844717 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Movistar Perú |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:52:08 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970637297249 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | ACC for practice |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:56:16 |
@@ -56,22 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 13:56:30 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970637669992 |
-| Players | 1/10 |
-| Host Name | dj dog |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:56:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970637704512 |
-| Players | 2/10 |
-| Host Name | Петя Шалопай |
+| Lobby ID | 28500970637778749 |
+| Players | 4/8 |
+| Host Name | nissinwafer |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:56:58 |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:57:05 |
 
 
 |  | epic_boss_fight_normal |
