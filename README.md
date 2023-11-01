@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843507142105 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | wasonbeat. |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 23:01:10 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843509937450 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | LoneWolf |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 23:03:18 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843513362123 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | I hate crying |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 23:05:54 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843514171377 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | GRACIAS JUANCA POR LAS CATEDRAS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 23:06:31 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843499185625 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Rem is life<3 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:55:29 |
@@ -119,22 +119,67 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 23:01:58 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28501843515074237 |
+| Players | 2/10 |
+| Host Name | Великий ученый |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 23:07:12 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843514313522 |
-| Players | 7/8 |
-| Host Name | RB26DETT |
+| Lobby ID | 28501843514882278 |
+| Players | 3/8 |
+| Host Name | MN1D |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 1, 2023 23:07:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28501843514903603 |
+| Players | 1/10 |
+| Host Name | musor |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 1, 2023 23:07:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28501843514879604 |
+| Players | 1/15 |
+| Host Name | A1ZEN |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 23:07:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28501843514899130 |
+| Players | 3/15 |
+| Host Name | toxic グzxc beastグ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 23:06:37 |
+| Lobby Creation Time | Wednesday, November 1, 2023 23:07:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28501843515042175 |
+| Players | 2/10 |
+| Host Name | Anyway |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 1, 2023 23:07:10 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843514840948 |
-| Players | 1/8 |
-| Host Name | puchaoun |
+| Lobby ID | 28501843515052679 |
+| Players | 2/8 |
+| Host Name | 云海 |
 | Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 23:07:01 |
+| Lobby Creation Time | Wednesday, November 1, 2023 23:07:11 |
 
 
 |  | epic_boss_fight_normal |
@@ -158,7 +203,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28501843510514860 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Nabster™ |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 23:03:44 |
@@ -171,5 +216,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | king jagvar |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 23:06:53 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28501843515061299 |
+| Players | 1/10 |
+| Host Name | УкротительГовна |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 1, 2023 23:07:11 |
 
 
