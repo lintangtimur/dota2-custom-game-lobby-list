@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500281366023920 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | GrandMasterFeed |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 04:20:44 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970463865316 |
-| Players | 1/15 |
-| Host Name | -r0mer0- |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:00:45 |
+| Lobby ID | 28500970463944633 |
+| Players | 3/15 |
+| Host Name | ✙ Ukrainian Abrams + |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:00:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970463854833 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Lunatikid |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:00:43 |
@@ -104,28 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970463901708 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | helo madafaker |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:00:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970463919846 |
-| Players | 1/15 |
-| Host Name | 《Black_К1ller》 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:00:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970463944633 |
-| Players | 1/15 |
-| Host Name | ✙ Ukrainian Abrams + |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:00:54 |
+| Lobby ID | 28500970464039421 |
+| Players | 1/10 |
+| Host Name | Tu no me matas y yo no te mato |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:01:06 |
 
 
 |  | epic_boss_fight_nightmare |
