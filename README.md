@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970496790076 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | no excuses |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:12:00 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970495602523 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | The_King |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:09:20 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970496151441 |
-| Players | 6/8 |
-| Host Name | 先生 X |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:10:35 |
+| Lobby ID | 28500970496906399 |
+| Players | 1/8 |
+| Host Name | Kukurudza Striptizerka |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:12:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970496665173 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:11:43 |
@@ -144,14 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ► Good gay, noob played |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:08:58 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28500970496859981 |
-| Players | 1/5 |
-| Host Name | LH. I AM NOOB |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:12:09 |
 
 
