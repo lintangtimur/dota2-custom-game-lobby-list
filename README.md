@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970488591487 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | bajando pepa en arconte |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:53:25 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970487530498 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | Tzi Pin Lin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:51:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970488617959 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | estoy  cansado jefe |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:53:28 |
