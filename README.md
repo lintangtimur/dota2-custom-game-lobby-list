@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970522082806 |
-| Players | 14/15 |
-| Host Name | fated |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:05:16 |
+| Lobby ID | 28500970523873089 |
+| Players | 2/15 |
+| Host Name | Gabella |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:08:55 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970522080166 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | quacc |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:05:15 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970522426617 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | ♁＊＊ SIA ＊＊ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:05:58 |
@@ -94,20 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970523767135 |
+| Lobby ID | 28500970523938868 |
 | Players | 1/8 |
 | Host Name | On The Grind |
 | Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:08:42 |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:09:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970523873089 |
-| Players | 1/15 |
-| Host Name | Gabella |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:08:55 |
+| Lobby ID | 28500970523938161 |
+| Players | 1/8 |
+| Host Name | isn't like holding to the center |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:09:02 |
 
 
 |  | epic_boss_fight_hard |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Neuel |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:08:05 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28500970523902065 |
+| Players | 1/5 |
+| Host Name | juan_carlos_dj |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:08:58 |
 
 
