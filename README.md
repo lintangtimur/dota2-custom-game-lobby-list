@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843605765433 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | ... |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 00:23:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843621395299 |
-| Players | 5/8 |
-| Host Name | All gotem see is numbers |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 00:36:48 |
+| Lobby ID | 28501843619766217 |
+| Players | 8/10 |
+| Host Name | ANONIMOXVR |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 00:35:23 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843619405753 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | ^^!¬¬ (Si cancila) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 00:35:04 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843620035078 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | skf |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 00:35:37 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843621526184 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | zaluper |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 00:36:55 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843621726080 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | Plab Plab |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 00:37:06 |
@@ -139,11 +139,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843621832224 |
-| Players | 1/10 |
-| Host Name | * |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 00:37:11 |
+| Lobby ID | 28501843621853940 |
+| Players | 2/10 |
+| Host Name | gglol |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 00:37:12 |
 
 
 |  | ot3_gardens_duo |
@@ -157,11 +157,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843621853940 |
-| Players | 2/10 |
-| Host Name | gglol |
+| Lobby ID | 28501843621864885 |
+| Players | 1/10 |
+| Host Name | ONEMANARMY |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 00:37:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28501843621988004 |
+| Players | 1/8 |
+| Host Name | Ariana Grande |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 00:37:12 |
+| Lobby Creation Time | Thursday, November 2, 2023 00:37:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28501843622040619 |
+| Players | 2/8 |
+| Host Name | inst all mute |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 00:37:22 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -194,7 +212,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28501843620922248 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | sepierdeysegana |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 00:36:23 |
@@ -203,9 +221,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28501843603817391 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | GHINZU |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 00:21:32 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28501843622032820 |
+| Players | 1/10 |
+| Host Name | DLove |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 00:37:22 |
 
 
