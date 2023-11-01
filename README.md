@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500281366023920 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | GrandMasterFeed |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 04:20:44 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970468849294 |
-| Players | 14/15 |
-| Host Name | DannyJHF |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:11:19 |
+| Lobby ID | 28500970469655042 |
+| Players | 1/15 |
+| Host Name | Insan |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:13:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970469070468 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | mikies |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:11:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970469212825 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | BABY-ROSH (AL) |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:12:05 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970468931568 |
-| Players | 3/8 |
-| Host Name | LobeznoYupanqui |
+| Lobby ID | 28500970469327309 |
+| Players | 1/8 |
+| Host Name | isn't like holding to the center |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:11:30 |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:12:20 |
 
 
 |  | ot3_jungle_quintet |
@@ -103,38 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970468056648 |
-| Players | 3/8 |
-| Host Name | Robin serio |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:09:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970469327309 |
-| Players | 1/8 |
-| Host Name | isn't like holding to the center |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:12:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28500970469566999 |
 | Players | 2/8 |
 | Host Name | el tio de bryan 30CM |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:12:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970469442300 |
-| Players | 2/8 |
-| Host Name | I will always be alone |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:12:35 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -148,10 +121,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28500970469472488 |
+| Lobby ID | 28500970469688751 |
 | Players | 1/7 |
 | Host Name | сын шлюхи |
 | Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:12:39 |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:13:06 |
 
 
