@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 19:52:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843202721878 |
-| Players | 7/8 |
-| Host Name | Бездарность |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 19:52:26 |
+| Lobby ID | 28501843204202589 |
+| Players | 3/10 |
+| Host Name | Harvester of death |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 1, 2023 19:53:13 |
 
 
 |  | ot3_necropolis_ffa |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843203782963 |
-| Players | 2/15 |
+| Players | 13/15 |
 | Host Name | AKashi~ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:52:59 |
@@ -139,11 +139,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28501843203959808 |
-| Players | 1/24 |
-| Host Name | MrMumino |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 19:53:05 |
+| Lobby ID | 28501843184598543 |
+| Players | 23/24 |
+| Host Name | Kwee "KAYPANG" Ceng |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 19:43:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -153,6 +153,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ты слабый |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:53:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28501843204058063 |
+| Players | 1/8 |
+| Host Name | пoтные колбаски |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 19:53:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28501843198044122 |
+| Players | 21/24 |
+| Host Name | S |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 19:50:07 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28501843204295185 |
+| Players | 1/24 |
+| Host Name | MrMumino |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 19:53:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28501843203413572 |
+| Players | 4/8 |
+| Host Name | Water |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 19:52:48 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -167,7 +203,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970917499326 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Watashi Unstoppable |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:25:12 |
@@ -176,7 +212,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28501843203238407 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Aranis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:52:42 |
