@@ -149,8 +149,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843808651411 |
-| Players | 1/10 |
-| Host Name | идущий к реке |
+| Players | 2/10 |
+| Host Name | тварь-мразь |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 03:41:29 |
 
@@ -159,18 +159,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28501843809132905 |
 | Players | 3/8 |
-| Host Name | voney |
+| Host Name | twitch.tv/quuwex |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 03:42:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843808043235 |
-| Players | 7/8 |
-| Host Name | DOMOGAROV |
+| Lobby ID | 28501843809146050 |
+| Players | 1/10 |
+| Host Name | твой мидер |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 03:40:48 |
+| Lobby Creation Time | Thursday, November 2, 2023 03:42:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28501843809282260 |
+| Players | 1/10 |
+| Host Name | ALEXBYRDASHEV |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 03:42:11 |
 
 
 |  | epic_boss_fight_normal |
