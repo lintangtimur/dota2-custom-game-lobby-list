@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 16:41:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970752430860 |
-| Players | 8/10 |
-| Host Name | kindamental |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:44:28 |
+| Lobby ID | 28500970753663005 |
+| Players | 2/8 |
+| Host Name | burn out |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:46:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970749944648 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | ❧ƊЯƊЯ ₣₳₦₮₳❧ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:41:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970753199556 |
-| Players | 14/15 |
-| Host Name | Отребье |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:45:30 |
+| Lobby ID | 28500970753521879 |
+| Players | 2/8 |
+| Host Name | Diamond_TUL |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:45:56 |
 
 
 |  | ot3_gardens_duo |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 16:44:58 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970753363745 |
-| Players | 2/8 |
-| Host Name | milis |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:45:43 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970753287953 |
@@ -90,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Imagio |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:45:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970753521879 |
-| Players | 2/8 |
-| Host Name | Diamond_TUL |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:45:56 |
 
 
 |  | epic_boss_fight_normal |
