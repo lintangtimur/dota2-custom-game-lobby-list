@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970715718519 |
-| Players | 1/10 |
+| Players | 8/10 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:53:56 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970714844899 |
-| Players | 8/24 |
+| Players | 14/24 |
 | Host Name | LeKuLe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:52:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970715637923 |
-| Players | 5/15 |
-| Host Name | senku |
+| Lobby ID | 28500970715677599 |
+| Players | 2/10 |
+| Host Name | heisenburger |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:53:50 |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:53:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970713102377 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Ｐｒａｙｂｉｔｃｈ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:50:24 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970715677599 |
-| Players | 2/10 |
-| Host Name | heisenburger |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:53:53 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28500970711324595 |
-| Players | 8/10 |
-| Host Name | Barry Delight |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:48:00 |
 
 
 |  | epic_boss_fight_normal |
