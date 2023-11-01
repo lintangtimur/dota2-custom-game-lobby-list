@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843721545159 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | +right |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 02:10:50 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843721946751 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | THE MF MR.ZOMBIE |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 02:11:14 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843722496219 |
+| Lobby ID | 28501843722858430 |
 | Players | 1/8 |
-| Host Name | NEVER |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 02:11:46 |
+| Host Name | пуртыга |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 02:12:07 |
 
 
 |  | ot3_gardens_duo |
@@ -92,22 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 02:12:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843722563864 |
-| Players | 10/15 |
-| Host Name | вхожу в готей) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 02:11:50 |
+| Lobby ID | 28501843722900947 |
+| Players | 2/10 |
+| Host Name | my problem |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 02:12:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843722818246 |
-| Players | 2/8 |
-| Host Name | fugsical |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 02:12:05 |
+| Lobby ID | 28501843718418739 |
+| Players | 7/10 |
+| Host Name | жопа |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 02:07:50 |
 
 
 |  | ot3_gardens_duo |
@@ -137,13 +137,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 02:11:48 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28501843704257654 |
+| Players | 3/8 |
+| Host Name | OrlyOMG |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 01:54:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28501843719345313 |
+| Players | 1/10 |
+| Host Name | wesleyaffair |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 02:08:43 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843721660656 |
-| Players | 14/15 |
-| Host Name | Nexro |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 02:10:57 |
+| Lobby ID | 28501843722982798 |
+| Players | 1/15 |
+| Host Name | Pizza Steve |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 02:12:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28501843721839465 |
+| Players | 9/10 |
+| Host Name | neposlushnyyy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 02:11:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28501843723018154 |
+| Players | 2/8 |
+| Host Name | MR.BEAST |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 02:12:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -158,7 +194,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28501843720964544 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Techugo |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 02:10:17 |
@@ -171,5 +207,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Flinten Uschi |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 02:10:39 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28501843722882562 |
+| Players | 2/10 |
+| Host Name | STFU |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 02:12:08 |
 
 
