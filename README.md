@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500281366023920 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | GrandMasterFeed |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 04:20:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970488200757 |
-| Players | 7/10 |
-| Host Name | gk |
+| Lobby ID | 28500970488591487 |
+| Players | 1/24 |
+| Host Name | bajando pepa en arconte |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:52:33 |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:53:25 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970487530498 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Tzi Pin Lin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:51:05 |
@@ -36,6 +36,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | XFullHouse |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:53:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970488617959 |
+| Players | 2/10 |
+| Host Name | estoy  cansado jefe |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:53:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970488800919 |
+| Players | 3/15 |
+| Host Name | Elya |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:53:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -54,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GHINZU |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:46:59 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28500970488460668 |
-| Players | 1/7 |
-| Host Name | 汐世 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:53:07 |
 
 
