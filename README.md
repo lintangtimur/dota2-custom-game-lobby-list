@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970657681744 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Hey Jayyy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:28:50 |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Cpt. Douchebag |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:29:03 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28500970659096693 |
-| Players | 1/5 |
-| Host Name | Awer |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:30:58 |
 
 
