@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341549952535 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Adam Kadyrov |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 05:25:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341552231070 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | M.R-YoEL |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 05:29:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341554335856 |
-| Players | 7/10 |
+| Players | 4/10 |
 | Host Name | сатана |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 05:32:27 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341554428501 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | zer0.k |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 05:32:36 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341553985091 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | NiD |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 05:31:54 |
@@ -122,52 +122,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341552681639 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | ATTAKA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 05:29:48 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502341554530603 |
-| Players | 7/10 |
-| Host Name | βξŦλ ÇθĐξ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 05:32:46 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341554634624 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | IMBA-Psyco |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 05:32:55 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502341554648469 |
-| Players | 1/10 |
-| Host Name | Gucci |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 05:32:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502341554659303 |
-| Players | 2/10 |
-| Host Name | KING GEEDORAH* |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 05:32:58 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502341547812045 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | XVI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 05:22:21 |
