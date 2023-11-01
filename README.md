@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 15:45:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970713514645 |
-| Players | 1/10 |
-| Host Name | b |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:50:57 |
+| Lobby ID | 28500970713331405 |
+| Players | 5/15 |
+| Host Name | Топ 100 Антарктиды |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:50:42 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,37 +104,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970713102377 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Ｐｒａｙｂｉｔｃｈ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:50:24 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970713051173 |
-| Players | 1/10 |
-| Host Name | jkS |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:50:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970713331405 |
-| Players | 4/15 |
-| Host Name | Топ 100 Антарктиды |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:50:42 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970713428602 |
-| Players | 2/8 |
-| Host Name | Champions_01 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:50:50 |
+| Lobby ID | 28500970713615947 |
+| Players | 3/8 |
+| Host Name | PRO100F1LYA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:51:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970713644825 |
+| Players | 1/10 |
+| Host Name | أذرع بازوكا هي أك |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:51:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -157,10 +148,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28500970713486442 |
+| Lobby ID | 28500970713556473 |
 | Players | 1/5 |
 | Host Name | Влад диван |
 | Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:50:54 |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:51:00 |
 
 
