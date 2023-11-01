@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970535680458 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Fadsol |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:32:59 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970535499403 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | DarkMoon |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:32:36 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 10:32:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970535245668 |
-| Players | 8/10 |
-| Host Name | Netske |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:32:05 |
+| Lobby ID | 28500970536038649 |
+| Players | 3/24 |
+| Host Name | viethoangpk94 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:33:43 |
 
 
 |  | ot3_gardens_duo |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970535174484 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | fated |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:31:56 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970536038649 |
-| Players | 3/24 |
-| Host Name | viethoangpk94 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:33:43 |
+| Lobby ID | 28500970535245668 |
+| Players | 9/10 |
+| Host Name | Netske |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:32:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28500970535601402 |
-| Players | 2/7 |
+| Players | 1/7 |
 | Host Name | momo&peach princess |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:32:49 |
