@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 15:56:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970719955217 |
-| Players | 14/15 |
-| Host Name | MRX |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:59:45 |
+| Lobby ID | 28500970720266881 |
+| Players | 1/10 |
+| Host Name | Septer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:00:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,40 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 16:00:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970720412149 |
-| Players | 9/10 |
-| Host Name | I$uss |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:00:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970720266881 |
-| Players | 1/10 |
-| Host Name | Septer |
+| Lobby ID | 28500970720840611 |
+| Players | 1/15 |
+| Host Name | 11 y.o talent |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:00:11 |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:01:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970720773293 |
+| Lobby ID | 28500970720917126 |
 | Players | 1/15 |
-| Host Name | 11 y.o talent |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:00:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970720797897 |
-| Players | 1/8 |
 | Host Name | ZeNtEx |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:00:56 |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:01:06 |
 
 
 |  | epic_boss_fight_normal |
