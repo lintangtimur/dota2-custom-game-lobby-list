@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970734045005 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | lalcemt |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:19:16 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970746643626 |
-| Players | 3/10 |
-| Host Name | Milos Ricardo Nikolaevi4 |
+| Players | 2/10 |
+| Host Name | MikeLangelo |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:36:42 |
 
@@ -65,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 16:23:36 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970744191420 |
-| Players | 14/15 |
-| Host Name | philag |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:33:21 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970746606253 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Norma(tilted) |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:36:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970746896189 |
+| Players | 2/10 |
+| Host Name | heisenburger |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:37:03 |
 
 
 |  | epic_boss_fight_normal |
