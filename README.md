@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843664200725 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | highbrow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 01:16:15 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 01:16:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843664910857 |
-| Players | 6/8 |
-| Host Name | Солнышко |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 01:16:56 |
+| Lobby ID | 28501843661083363 |
+| Players | 3/10 |
+| Host Name | EL PUDZHINO |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 01:13:17 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843663976087 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | loco pajas |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 01:16:02 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843664259442 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | QWERTY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 01:16:19 |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843661817742 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Masha |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 01:14:00 |
@@ -176,82 +176,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843629841722 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | Trimurti |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 00:44:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28501843664655144 |
-| Players | 4/8 |
-| Host Name | Popp |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 01:16:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28501843664593446 |
-| Players | 1/15 |
-| Host Name | Azog |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 01:16:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28501843664605387 |
-| Players | 6/10 |
-| Host Name | -mAnDMAx- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 01:16:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28501843664760997 |
-| Players | 1/15 |
-| Host Name | LIMAVID |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 01:16:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28501843661083363 |
-| Players | 1/10 |
-| Host Name | EL PUDZHINO |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 01:13:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28501843664876697 |
-| Players | 1/8 |
-| Host Name | Odin |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 01:16:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28501843664935195 |
-| Players | 2/15 |
-| Host Name | Илья |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 01:16:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28501843664907733 |
-| Players | 1/15 |
-| Host Name | Mweh |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 01:16:56 |
 
 
 |  | epic_boss_fight_normal |
@@ -261,5 +189,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ppvs |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 01:14:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28501843665149652 |
+| Players | 2/5 |
+| Host Name | KNID_229 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 01:17:09 |
 
 
