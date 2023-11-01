@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970797303605 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | 🚔𝕄𝕚𝕟𝕚𝕤𝕥𝕖 |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:40:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970796517477 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Dranxzy |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:39:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970797446077 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Yume |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:40:57 |
@@ -85,29 +85,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970797508129 |
-| Players | 2/8 |
-| Host Name | Дедус |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:41:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970797524226 |
-| Players | 1/15 |
-| Host Name | TIMATISHA (СЛОН♗) |
+| Lobby ID | 28500970797562212 |
+| Players | 4/8 |
+| Host Name | Larl 天 |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:41:02 |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:41:05 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970797529831 |
+| Lobby ID | 28500970797656361 |
+| Players | 1/15 |
+| Host Name | Status |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:41:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970797642404 |
 | Players | 1/15 |
 | Host Name | .i. CHIKA BOOM .i.︻气デ 一 |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:41:02 |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:41:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970797681948 |
+| Players | 1/15 |
+| Host Name | ez |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:41:12 |
 
 
 |  | epic_boss_fight_normal |
