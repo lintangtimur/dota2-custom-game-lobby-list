@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502341596699968 |
-| Players | 19/24 |
-| Host Name | Chupete |
+| Lobby ID | 28502341597002785 |
+| Players | 4/8 |
+| Host Name | the new FEAR |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 06:45:47 |
+| Lobby Creation Time | Thursday, November 2, 2023 06:46:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502341597626272 |
-| Players | 5/15 |
-| Host Name | MercurУ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 06:47:32 |
+| Lobby ID | 28502341597992243 |
+| Players | 2/10 |
+| Host Name | magic Mike |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 06:48:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502341581285253 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | Slatt amoeba |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 06:17:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341596861308 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | 9 subhumans |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 06:46:04 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341597288982 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Doomzorqe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 06:46:53 |
@@ -119,15 +119,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 06:46:19 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502341597002785 |
-| Players | 4/8 |
-| Host Name | the new FEAR |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 06:46:20 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502341590472603 |
@@ -139,17 +130,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502341594683721 |
-| Players | 9/10 |
-| Host Name | Fran____ |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 06:42:01 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28502341595965364 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | d1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 06:44:23 |
