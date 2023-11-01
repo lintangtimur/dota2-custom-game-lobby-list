@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970552809622 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | 先生 X |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:09:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970552897958 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | no excuses |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:09:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970552197773 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | La parquita |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:07:55 |
@@ -67,11 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970553528652 |
-| Players | 1/8 |
-| Host Name | ночная смена |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:10:53 |
+| Lobby ID | 28500970553575803 |
+| Players | 6/8 |
+| Host Name | falcon |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:10:59 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970553611921 |
+| Players | 1/24 |
+| Host Name | Goldmember |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:11:04 |
 
 
 |  | epic_boss_fight_normal |
