@@ -20,31 +20,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 15:15:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970713102377 |
-| Players | 13/15 |
-| Host Name | Ｐｒａｙｂｉｔｃｈ |
+| Lobby ID | 28500970717219917 |
+| Players | 4/8 |
+| Host Name | OrlyOMG |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:50:24 |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:55:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970714844899 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | LeKuLe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:52:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970717219917 |
-| Players | 1/8 |
-| Host Name | OrlyOMG |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:55:59 |
+| Lobby ID | 28500970717323123 |
+| Players | 1/15 |
+| Host Name | >Юлия Шалаева< |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:56:08 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | XVI |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:55:35 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28500970717280546 |
-| Players | 1/7 |
-| Host Name | Amputzt@ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:56:04 |
 
 
