@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970781285555 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | MASTERMR |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:22:32 |
@@ -65,40 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 17:25:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970783874606 |
-| Players | 6/8 |
-| Host Name | молодой стручо |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:25:38 |
+| Lobby ID | 28500970784227112 |
+| Players | 1/10 |
+| Host Name | Too Good To Win? |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:26:03 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970784063202 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Shohar |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:25:51 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970784139418 |
-| Players | 4/8 |
-| Host Name | EH.Sukidayo<3 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:25:56 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970774407964 |
-| Players | 14/15 |
-| Host Name | Ilon_Cat |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:13:54 |
+| Lobby ID | 28500970784319759 |
+| Players | 1/15 |
+| Host Name | Sm:)e |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:26:09 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CL |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:59:08 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28500970784287396 |
+| Players | 3/5 |
+| Host Name | ПЕРЕЦ |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:26:07 |
 
 
