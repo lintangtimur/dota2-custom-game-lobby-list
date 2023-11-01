@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500281366023920 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | GrandMasterFeed |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 04:20:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970491124861 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | whYveR |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:58:59 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970491276131 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Kukurudza Striptizerka |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:59:19 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 09:00:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970491844532 |
-| Players | 1/15 |
-| Host Name | Biden 2024 |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:00:40 |
+| Lobby ID | 28500970492004311 |
+| Players | 2/10 |
+| Host Name | Fruugu |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:01:03 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970491883017 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | 1322837 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:00:46 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970491889886 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | CORRALITO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:00:47 |
