@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 08:34:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970477900129 |
-| Players | 9/10 |
-| Host Name | XD |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:30:28 |
+| Lobby ID | 28500970479955095 |
+| Players | 3/8 |
+| Host Name | nolan |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:34:51 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970479763372 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | SWAAAAG |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:34:27 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970479483155 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Wapo15 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:33:51 |
@@ -92,13 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 08:33:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970479955095 |
-| Players | 3/8 |
-| Host Name | nolan |
+| Lobby ID | 28500970479037153 |
+| Players | 12/15 |
+| Host Name | Zeus |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:34:51 |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:32:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970480056336 |
+| Players | 1/10 |
+| Host Name | Mute All Chat √ |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:35:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fatal |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:30:37 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28500970480053419 |
+| Players | 1/10 |
+| Host Name | JeppEnjoyer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:35:04 |
 
 
