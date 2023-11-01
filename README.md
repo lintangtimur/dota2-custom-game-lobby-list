@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 16:41:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970783128474 |
-| Players | 20/24 |
-| Host Name | Noodle |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:24:45 |
+| Lobby ID | 28500970787281751 |
+| Players | 2/8 |
+| Host Name | WOU |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:29:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,55 +41,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970786710312 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | КУНИСЛАВ |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:28:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970786945388 |
-| Players | 3/15 |
-| Host Name | 9 avg |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:29:12 |
+| Lobby ID | 28500970787348016 |
+| Players | 5/8 |
+| Host Name | NN |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:29:40 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970786717084 |
-| Players | 3/8 |
-| Host Name | Vamp Anthem |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:28:57 |
+| Lobby ID | 28500970787132767 |
+| Players | 1/8 |
+| Host Name | Гнилая Скатина |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:29:25 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970786967147 |
-| Players | 1/15 |
-| Host Name | REST IN PEACE LIL PEEP |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:29:14 |
+| Lobby ID | 28500970787188552 |
+| Players | 6/15 |
+| Host Name | Dr. Strange where rampage |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:29:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970781285555 |
+| Players | 2/8 |
+| Host Name | charka025 |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:22:32 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970787032081 |
+| Lobby ID | 28500970787434314 |
 | Players | 1/24 |
-| Host Name | FeelMyPain |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:29:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970787044205 |
-| Players | 4/8 |
-| Host Name | [1000-7]๖ۣۜZאָc⌁ǤђØul |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:29:19 |
+| Host Name | MinisterByDay, DotaPlayerByNight |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:29:46 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CL |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:59:08 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28500970784785020 |
-| Players | 7/10 |
-| Host Name | Senjumaru |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:26:42 |
 
 
