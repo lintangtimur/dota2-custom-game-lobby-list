@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970728015117 |
-| Players | 1/24 |
-| Host Name | Winter |
+| Players | 2/24 |
+| Host Name | fal'Cie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:10:55 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970719439711 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | клоун - дар |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:59:02 |
@@ -76,20 +76,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970727998467 |
+| Lobby ID | 28500970728066469 |
 | Players | 1/15 |
-| Host Name | Весёлый алкаш |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:10:53 |
+| Host Name | TO_住む |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:10:59 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970728033513 |
-| Players | 1/24 |
-| Host Name | Little |
+| Lobby ID | 28500970728153567 |
+| Players | 1/15 |
+| Host Name | Тойво |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:10:56 |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:11:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970728167128 |
+| Players | 2/15 |
+| Host Name | How u doin? |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:11:07 |
 
 
 |  | epic_boss_fight_normal |
