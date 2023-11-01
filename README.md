@@ -20,24 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 18:31:25 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970849334607 |
-| Players | 5/10 |
-| Host Name | ПиВаня |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:30:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970831169956 |
-| Players | 3/8 |
-| Host Name | Yasha |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:14:29 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970846452772 |
@@ -49,11 +31,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970850919926 |
-| Players | 1/8 |
-| Host Name | денчик |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:32:07 |
+| Lobby ID | 28500970831169956 |
+| Players | 3/8 |
+| Host Name | Yasha |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:14:29 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970851096163 |
+| Players | 1/10 |
+| Host Name | Too Good To Win? |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:32:16 |
 
 
 |  | epic_boss_fight_normal |
@@ -85,10 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28500970850895816 |
+| Lobby ID | 28500970851018717 |
 | Players | 1/10 |
-| Host Name | djuandaundangan |
+| Host Name | kill20_die300 |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:32:06 |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:32:12 |
 
 
