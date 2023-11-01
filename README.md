@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970541421666 |
-| Players | 3/24 |
-| Host Name | gooday |
+| Players | 2/24 |
+| Host Name | 晴箜 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:44:46 |
 
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970542588769 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | BABY-ROSH (AL) |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:47:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970543009321 |
+| Players | 1/8 |
+| Host Name | OPIUM BIRD |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:48:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28500970542296275 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Alzheimer |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:46:34 |
