@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970545543012 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | One |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:53:19 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | isn't like holding to the center |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:58:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970548391739 |
+| Players | 4/8 |
+| Host Name | bruh |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:59:14 |
 
 
 |  | epic_boss_fight_normal |
