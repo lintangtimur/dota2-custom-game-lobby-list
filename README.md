@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970594702963 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | 1322837 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:35:45 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970576298161 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | drowning |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:57:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970593909750 |
-| Players | 3/8 |
-| Host Name | antisocial |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:34:08 |
+| Lobby ID | 28500970595250397 |
+| Players | 1/24 |
+| Host Name | toidi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:36:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,37 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970594794385 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | The Dead of Marshes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:35:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970594549716 |
-| Players | 1/15 |
-| Host Name | MCFISHERMANPRO |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:35:26 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970594438434 |
-| Players | 4/10 |
-| Host Name | . |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:35:13 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28500970595250397 |
-| Players | 1/24 |
-| Host Name | toidi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:36:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -108,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | АНДРЮХА |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:36:51 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970594438434 |
+| Players | 5/10 |
+| Host Name | . |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:35:13 |
 
 
 |  | epic_boss_fight_nightmare |
