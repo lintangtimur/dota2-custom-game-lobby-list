@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843251163403 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Big J |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:23:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843228545484 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Detelinara{RUBIN} |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:08:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843252865346 |
-| Players | 4/15 |
+| Players | 14/15 |
 | Host Name | Sliyver |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:24:22 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843254056497 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Zabojqa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:25:07 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843253694207 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | гучи тапки |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:24:53 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843253697452 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | -Voxz- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:24:54 |
@@ -171,14 +171,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | koeto |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:22:43 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28501843254134702 |
-| Players | 1/5 |
-| Host Name | Xiao延-晴天 |
-| Region | PWTELECOMZHEJIANG |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:25:10 |
 
 
