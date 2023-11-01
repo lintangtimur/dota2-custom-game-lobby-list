@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970541677837 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | no excuses |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:45:18 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970542411057 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | TV Man |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:46:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970541291264 |
-| Players | 8/10 |
-| Host Name | BetBoombl4 |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:44:30 |
+| Lobby ID | 28500970542588769 |
+| Players | 1/24 |
+| Host Name | BABY-ROSH (AL) |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:47:10 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970542502031 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | EGOISTO |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:47:00 |
