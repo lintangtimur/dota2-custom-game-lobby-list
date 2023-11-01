@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970731898116 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | N9ne |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:16:17 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970735907008 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 💀 |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:21:51 |
@@ -68,19 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970735748251 |
-| Players | 5/24 |
-| Host Name | I Don't Know You! |
+| Players | 11/24 |
+| Host Name | Gigachad thundercock |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:21:38 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970736024270 |
+| Lobby ID | 28500970736228673 |
+| Players | 2/8 |
+| Host Name | Tizo |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:22:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970736233564 |
 | Players | 1/8 |
 | Host Name | GIGA CHAD |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:22:01 |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:22:19 |
 
 
 |  | epic_boss_fight_nightmare |
