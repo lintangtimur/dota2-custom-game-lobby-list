@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970767182023 |
-| Players | 9/10 |
-| Host Name | КУНИСЛАВ |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:04:15 |
+| Lobby ID | 28500970768410647 |
+| Players | 1/8 |
+| Host Name | булдозер |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:05:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970750390019 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | MORRISON |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:41:44 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 17:04:42 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970766755616 |
-| Players | 21/24 |
-| Host Name | Asam Garam |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:03:40 |
+| Lobby ID | 28500970768474315 |
+| Players | 1/8 |
+| Host Name | ATOMIC SAMURAI |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:06:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970766456661 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | wp |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:03:15 |
@@ -83,31 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 17:05:27 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970768474315 |
-| Players | 1/8 |
-| Host Name | ATOMIC SAMURAI |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:06:00 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970760171827 |
-| Players | 23/24 |
-| Host Name | Gino Evander |
+| Lobby ID | 28500970768606688 |
+| Players | 1/24 |
+| Host Name | GeeStyle |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:54:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970768410647 |
-| Players | 1/8 |
-| Host Name | булдозер |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:05:55 |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:06:11 |
 
 
 |  | epic_boss_fight_normal |
