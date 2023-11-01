@@ -65,22 +65,58 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 17:00:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970764790336 |
-| Players | 1/15 |
-| Host Name | Corolla |
+| Lobby ID | 28500970765042782 |
+| Players | 1/10 |
+| Host Name | New era |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:00:55 |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:01:16 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970764803015 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | s'ebalsya s mida |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:00:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970763100126 |
+| Players | 14/15 |
+| Host Name | S |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:58:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970764987719 |
+| Players | 1/8 |
+| Host Name | sloofikwf |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:01:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970765099029 |
+| Players | 1/8 |
+| Host Name | lana del rey fan |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:01:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970765095448 |
+| Players | 4/10 |
+| Host Name | DANICH |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:01:21 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970761668426 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | MESSI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:56:44 |
