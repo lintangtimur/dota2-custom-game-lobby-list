@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843452503631 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | narezchitsyaaaaa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:24:28 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 22:07:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843442718527 |
-| Players | 1/15 |
-| Host Name | , |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 22:18:20 |
+| Lobby ID | 28501843453551132 |
+| Players | 3/8 |
+| Host Name | Роскомпидор |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 22:25:08 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843448901957 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | xVisuals |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:22:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843449679401 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Darklight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:22:40 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843441544449 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | sandercitorz |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:17:37 |
@@ -137,19 +137,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 22:24:54 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843444949182 |
-| Players | 23/24 |
-| Host Name | CACHO CABROS |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 22:19:43 |
+| Lobby ID | 28501843452334844 |
+| Players | 1/10 |
+| Host Name | Moises |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 22:24:22 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843449697059 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | с мида 0 2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:22:41 |
@@ -164,31 +164,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 22:20:29 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28501843452334844 |
-| Players | 1/10 |
-| Host Name | Moises |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 22:24:22 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843453281328 |
-| Players | 1/8 |
-| Host Name | shalalei |
-| Region | AUSTRIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 22:24:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28501843453287261 |
-| Players | 1/24 |
-| Host Name | 太田 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 1, 2023 22:24:58 |
+| Lobby ID | 28501843453382692 |
+| Players | 6/8 |
+| Host Name | Сом |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 22:25:02 |
 
 
 |  | epic_boss_fight_normal |
@@ -203,9 +185,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28501843451989689 |
-| Players | 2/10 |
-| Host Name | 空的 |
+| Players | 1/10 |
+| Host Name | Le Cerf |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:24:08 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28501843453352320 |
+| Players | 1/5 |
+| Host Name | king jagvar |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 22:25:00 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28501843453551391 |
+| Players | 1/7 |
+| Host Name | Flinten Uschi |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 1, 2023 22:25:08 |
 
 
