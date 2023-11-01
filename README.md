@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970925506227 |
-| Players | 14/15 |
-| Host Name | Топ 100 Антарктиды |
+| Lobby ID | 28500970927430182 |
+| Players | 7/15 |
+| Host Name | clueless |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 19:30:54 |
+| Lobby Creation Time | Wednesday, November 1, 2023 19:32:15 |
 
 
 |  | ot3_desert_octet |
@@ -103,11 +103,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970927430182 |
-| Players | 7/15 |
-| Host Name | clueless |
+| Lobby ID | 28500970924691224 |
+| Players | 12/15 |
+| Host Name | Achilles |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 19:30:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970923467341 |
+| Players | 14/15 |
+| Host Name | monke |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 19:32:15 |
+| Lobby Creation Time | Wednesday, November 1, 2023 19:29:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970928852271 |
+| Players | 1/8 |
+| Host Name | PAPA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 19:33:15 |
 
 
 |  | epic_boss_fight_hard |
@@ -122,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970917192228 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Hanzo |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:24:59 |
@@ -140,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970919568647 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Антонио Еблэнас |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:26:41 |
