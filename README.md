@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970559625843 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | За Team Spirit с детств |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:23:50 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 11:22:03 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970558060031 |
-| Players | 19/24 |
-| Host Name | Yonwalther |
+| Lobby ID | 28500970559568862 |
+| Players | 1/8 |
+| Host Name | UNSTOPPABLE M LuV♥ |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:20:35 |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:23:44 |
 
 
 |  | ot3_desert_octet |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970559492108 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | One |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:23:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970559568862 |
-| Players | 1/8 |
-| Host Name | UNSTOPPABLE M LuV♥ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:23:44 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Alessia Cara |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:21:57 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28500970538530556 |
-| Players | 4/5 |
-| Host Name | Mother Stefler |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:38:48 |
 
 
