@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341560389155 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | the easy way |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 05:42:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502341562611003 |
-| Players | 3/15 |
-| Host Name | all good |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 05:45:44 |
+| Lobby ID | 28502341562263634 |
+| Players | 8/10 |
+| Host Name | Na2O |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 05:45:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,46 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 05:45:40 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502341562556370 |
-| Players | 4/8 |
-| Host Name | ПРОСТО БОСС |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 05:45:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502341562263634 |
-| Players | 8/10 |
-| Host Name | Na2O |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 05:45:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502341562629392 |
-| Players | 6/15 |
-| Host Name | a demon invaded vegas |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 05:45:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502341562668039 |
-| Players | 3/8 |
-| Host Name | free rostiK |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 05:45:50 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502341557332336 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | OID |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 05:37:14 |
