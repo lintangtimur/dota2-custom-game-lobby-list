@@ -83,6 +83,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 14:20:40 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970649673939 |
+| Players | 9/10 |
+| Host Name | Vincenzooo |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:16:26 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28500970634346963 |
@@ -99,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | dingo tokatlayan |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:17:46 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28500970652680587 |
+| Players | 1/10 |
+| Host Name | MYB11RU |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:21:09 |
 
 
