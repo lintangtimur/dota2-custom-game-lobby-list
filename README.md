@@ -11,28 +11,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 04:20:44 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970443830664 |
-| Players | 8/10 |
-| Host Name | ТренажерБорис |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:16:55 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970442781268 |
-| Players | 4/8 |
-| Host Name | VENDO TERRENOS 945310902 |
+| Lobby ID | 28500970444420430 |
+| Players | 1/8 |
+| Host Name | pothead |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:18:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970444634235 |
+| Players | 1/10 |
+| Host Name | BLESS THIS MESS |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:14:27 |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:18:48 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970443728839 |
-| Players | 17/24 |
+| Players | 22/24 |
 | Host Name | El vengador de los Yupanqui |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:16:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970444210163 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | |||||||||||| |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:17:49 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970442534581 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | jebao |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:13:53 |
@@ -74,56 +74,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 07:13:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970444021424 |
-| Players | 9/10 |
-| Host Name | R2-D2 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:17:22 |
+| Lobby ID | 28500970444395684 |
+| Players | 1/24 |
+| Host Name | Shea Dr. |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:18:15 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970444070539 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | erik |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:17:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970444210251 |
-| Players | 1/8 |
-| Host Name | CAVE |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:17:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970444313710 |
-| Players | 1/8 |
-| Host Name | y0ngG |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:18:04 |
+| Lobby ID | 28500970444589324 |
+| Players | 2/10 |
+| Host Name | kabslock |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:18:42 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970444375304 |
-| Players | 1/8 |
-| Host Name | pothead |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:18:12 |
+| Lobby ID | 28500970444621007 |
+| Players | 2/8 |
+| Host Name | helo madafaker |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:18:46 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28500970439253720 |
-| Players | 4/7 |
-| Host Name | LOP |
+| Players | 5/7 |
+| Host Name | imuy |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:06:14 |
 
@@ -135,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:16:11 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28500970444267960 |
-| Players | 1/7 |
-| Host Name | Ван Гог |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:17:57 |
 
 
