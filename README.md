@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 15:15:38 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970686809493 |
-| Players | 23/24 |
-| Host Name | 'le Yan |
+| Lobby ID | 28500970690084547 |
+| Players | 9/15 |
+| Host Name | 63 y.o. |
 | Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:13:50 |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:18:45 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,37 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970688576612 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | A |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:16:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970689260752 |
-| Players | 6/8 |
-| Host Name | Я дурак |
-| Region | AUSTRIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:17:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970688650478 |
-| Players | 1/15 |
-| Host Name | Ahappypuppy |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:16:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970690378412 |
-| Players | 2/10 |
-| Host Name | ДенискаЗИКСЕ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:19:10 |
 
 
 |  | ot3_gardens_duo |
@@ -121,20 +94,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970690027326 |
+| Lobby ID | 28500970688650478 |
 | Players | 1/15 |
-| Host Name | Out man |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:18:40 |
+| Host Name | Ahappypuppy |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:16:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970690084547 |
-| Players | 6/15 |
-| Host Name | 63 y.o. |
+| Lobby ID | 28500970690508240 |
+| Players | 2/10 |
+| Host Name | ДенискаЗИКСЕ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:19:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970686809493 |
+| Players | 23/24 |
+| Host Name | 'le Yan |
 | Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:18:45 |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:13:50 |
 
 
 |  | epic_boss_fight_normal |
