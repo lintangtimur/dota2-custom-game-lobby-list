@@ -248,19 +248,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341545250448 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Harry Styles |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 05:18:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502341545316499 |
-| Players | 1/15 |
-| Host Name | LOVE_yandere |
+| Lobby ID | 28502341545390442 |
+| Players | 3/8 |
+| Host Name | haru= |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 05:19:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502341545366299 |
+| Players | 3/8 |
+| Host Name | TTW |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 05:19:06 |
+| Lobby Creation Time | Thursday, November 2, 2023 05:19:13 |
 
 
 |  | epic_boss_fight_nightmare |
