@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970868224226 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | nolan |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:46:45 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 18:47:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970868902187 |
-| Players | 9/10 |
-| Host Name | Saul Goodman |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:47:18 |
+| Lobby ID | 28500970871248861 |
+| Players | 3/24 |
+| Host Name | 游戏蝗虫农师傅 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:49:15 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970870785349 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | осиху |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:48:52 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970867137924 |
-| Players | 11/15 |
+| Players | 9/15 |
 | Host Name | Gojō |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:45:50 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970871121379 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | kak rulit |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:49:08 |
@@ -128,12 +128,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 18:48:20 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28500970871239956 |
+| Players | 2/5 |
+| Host Name | DEPRESSED RIP |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:49:14 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28500970871148165 |
-| Players | 1/10 |
+| Lobby ID | 28500970871258922 |
+| Players | 2/10 |
 | Host Name | Trickby |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:49:10 |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:49:15 |
 
 
