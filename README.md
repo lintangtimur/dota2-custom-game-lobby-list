@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970878321416 |
-| Players | 5/8 |
-| Host Name | https://www.twitch.tv/vabdar |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:54:58 |
+| Lobby ID | 28500970876552148 |
+| Players | 7/10 |
+| Host Name | ender_Wanderer |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:53:34 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970877697900 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Dude |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:54:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970878294420 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | осиху |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:54:57 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970876552148 |
+| Lobby ID | 28500970870650177 |
 | Players | 9/10 |
-| Host Name | 出棋不意必自闭 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:53:34 |
+| Host Name | black enegry drink |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:48:45 |
 
 
 |  | epic_boss_fight_normal |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970875258795 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Fey |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:52:32 |
