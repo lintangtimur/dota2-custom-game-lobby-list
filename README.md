@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970507157081 |
-| Players | 14/15 |
-| Host Name | Davikucho |
+| Lobby ID | 28500970508465106 |
+| Players | 1/15 |
+| Host Name | ᴳᵒᵈ๖ۣۜモンキー・ |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:34:26 |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:37:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970502082834 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:23:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970506601570 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | .Ghostly |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:33:15 |
