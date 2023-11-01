@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970498221847 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | urod |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:15:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970496665173 |
-| Players | 8/24 |
+| Players | 13/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:11:43 |
@@ -68,28 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970496183940 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Hope |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:10:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970497702608 |
-| Players | 12/15 |
-| Host Name | Egotheist |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:13:59 |
+| Lobby ID | 28500970498342865 |
+| Players | 1/8 |
+| Host Name | TI_ Polux_Troy |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:15:23 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970497337535 |
-| Players | 6/10 |
-| Host Name | DajjalWannaFightWithMe ?!! |
+| Lobby ID | 28500970498278311 |
+| Players | 1/8 |
+| Host Name | uziback |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:13:13 |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:15:14 |
 
 
 |  | epic_boss_fight_normal |
