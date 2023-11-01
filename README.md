@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970508034930 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Ken4ik |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:36:17 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970510947567 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | El duderino |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:42:21 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970511780413 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | SOLOWAY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:44:05 |
@@ -85,11 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970511813861 |
+| Lobby ID | 28500970511841114 |
 | Players | 1/15 |
-| Host Name | хекс(секс) |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:44:10 |
+| Host Name | my.pp.hurt |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:44:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970511915033 |
+| Players | 1/15 |
+| Host Name | 1322837 |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:44:22 |
 
 
 |  | epic_boss_fight_nightmare |
