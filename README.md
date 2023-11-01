@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970478751366 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Chandideadmoon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:32:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970480653187 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | exosister mikailis |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:36:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970480891692 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | positive mental attitude |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:36:50 |
@@ -95,19 +95,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970481608015 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | absolute |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:38:22 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970481880147 |
+| Players | 1/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:38:57 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970481878092 |
+| Lobby ID | 28500970481951012 |
 | Players | 1/8 |
-| Host Name | Naruto |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:38:57 |
+| Host Name | HUCCI |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:39:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970480125198 |
+| Players | 14/15 |
+| Host Name | Necrolite |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:35:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970481973731 |
+| Players | 1/10 |
+| Host Name | GoD |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:39:09 |
 
 
 |  | epic_boss_fight_nightmare |
