@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 15:45:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970711225050 |
-| Players | 1/8 |
-| Host Name | Ах*евший Байкер |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:47:51 |
+| Lobby ID | 28500970712900826 |
+| Players | 1/10 |
+| Host Name | Мохнатое Колесо |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:50:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970711784449 |
-| Players | 2/10 |
-| Host Name | zerg |
+| Players | 1/10 |
+| Host Name | 𩠑 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:48:37 |
 
@@ -78,9 +78,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28500970709794969 |
 | Players | 17/24 |
-| Host Name | ;; |
+| Host Name | Zappy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:45:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970712902568 |
+| Players | 2/10 |
+| Host Name | my heart will leave you never |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:50:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970712910177 |
+| Players | 1/10 |
+| Host Name | добрый |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:50:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970712912882 |
+| Players | 6/24 |
+| Host Name | Trungdaica |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:50:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970712925320 |
+| Players | 1/10 |
+| Host Name | أذرع بازوكا هي أك |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:50:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970712939533 |
+| Players | 1/15 |
+| Host Name | Racist Virgin Incel |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:50:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970712955110 |
+| Players | 1/8 |
+| Host Name | Ах*евший Байкер |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:50:12 |
 
 
 |  | epic_boss_fight_nightmare |
