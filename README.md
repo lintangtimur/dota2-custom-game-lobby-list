@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970668264456 |
-| Players | 7/8 |
-| Host Name | Аня (Фотограф) |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:44:56 |
+| Lobby ID | 28500970672282685 |
+| Players | 1/8 |
+| Host Name | 母亲还活着吗 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:50:59 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970669149371 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | takodachi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:46:17 |
@@ -86,25 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970671625178 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | depko13 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:49:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970672171553 |
-| Players | 1/10 |
-| Host Name | ! vlady$ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:50:49 |
+| Lobby ID | 28500970672273863 |
+| Players | 1/8 |
+| Host Name | Afghanistan |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:50:58 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970672004757 |
-| Players | 5/15 |
+| Players | 3/15 |
 | Host Name | Luh chonka |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:50:33 |
@@ -135,6 +135,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ✩ SHIGAR ✩ |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:50:36 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970672339506 |
+| Players | 1/10 |
+| Host Name | ! vlady$ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:51:04 |
 
 
 |  | epic_boss_fight_nightmare |
