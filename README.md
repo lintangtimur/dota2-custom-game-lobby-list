@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970556648226 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | yuyu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:17:34 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970557495700 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Kick.com/lumaid |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:19:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970556573018 |
-| Players | 7/8 |
-| Host Name | Bajito pero soberbio |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:17:25 |
+| Lobby ID | 28500970557879229 |
+| Players | 4/15 |
+| Host Name | ryyyyzzeen_MYR |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:20:12 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970557522855 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | HAMÁS (ALLAHU AKBAR) |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:19:26 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970556585928 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | TV Man |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:17:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970555319342 |
+| Players | 8/10 |
+| Host Name | Lǐzǐ 1899 |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:14:43 |
 
 
 |  | epic_boss_fight_normal |
