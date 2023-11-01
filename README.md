@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970663435634 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Dranxzy |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:37:34 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970663660312 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | I$uss |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:37:55 |
@@ -41,16 +41,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970665270013 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | Ryan Gosling |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:40:20 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970665664265 |
+| Players | 3/8 |
+| Host Name | Afghanistan |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:40:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970665667917 |
+| Players | 1/8 |
+| Host Name | depko13 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:40:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970665728145 |
+| Players | 2/15 |
+| Host Name | Gangsta |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:41:03 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970663921588 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Vegabone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:38:18 |
@@ -72,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Твой Батя |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:39:49 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28500970665620847 |
-| Players | 1/5 |
-| Host Name | kilevar21 |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:40:53 |
 
 
