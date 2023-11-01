@@ -11,46 +11,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 01:53:52 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28501843704257654 |
+| Players | 1/8 |
+| Host Name | OrlyOMG |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 01:54:12 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843703439625 |
+| Lobby ID | 28501843704188627 |
 | Players | 1/15 |
-| Host Name | Без негатива |
+| Host Name | Immortal |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 01:53:25 |
+| Lobby Creation Time | Thursday, November 2, 2023 01:54:08 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843703866099 |
-| Players | 4/10 |
-| Host Name | ХЛЕБУШЕК |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 01:53:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28501843703795224 |
-| Players | 13/15 |
-| Host Name | алена 40 кг |
+| Lobby ID | 28501843703514168 |
+| Players | 1/10 |
+| Host Name | МАСТУР БИСТ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 01:53:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28501843703511708 |
-| Players | 2/10 |
-| Host Name | Captain Bungholio |
-| Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 01:53:29 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28501843704246010 |
+| Players | 2/10 |
+| Host Name | Смотрите кирпич |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 01:54:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843699333858 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | -SHAMPAHUMA |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 01:49:29 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 01:53:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843702674213 |
-| Players | 1/8 |
-| Host Name | OctaviNn |
+| Lobby ID | 28501843704094716 |
+| Players | 1/15 |
+| Host Name | Nihil Habeo Dicere |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 01:52:41 |
+| Lobby Creation Time | Thursday, November 2, 2023 01:54:03 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843701279886 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Sandra |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 01:51:20 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843698907469 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | เทพเทอร์โบ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 01:49:04 |
@@ -122,28 +122,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843703055609 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Mauwi |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 01:53:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28501843703975844 |
-| Players | 1/15 |
-| Host Name | 雨 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 01:53:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28501843701550788 |
-| Players | 14/15 |
-| Host Name | Gerdeki |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 01:51:36 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -162,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | наказан |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 01:49:11 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28501843704220017 |
+| Players | 3/5 |
+| Host Name | Tea |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 01:54:10 |
 
 
