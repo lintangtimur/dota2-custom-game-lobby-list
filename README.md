@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843332372059 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Chunchunmaru |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:12:18 |
@@ -140,28 +140,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843333122806 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | РОМАТИМБЕРСАУ |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:12:45 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28501843333119328 |
-| Players | 7/8 |
-| Host Name | tg: recklesstears |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:12:45 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843330918654 |
+| Lobby ID | 28501843332192548 |
 | Players | 14/15 |
-| Host Name | ghostwhite |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:11:25 |
+| Host Name | FUCK RAIN CHICKPEANS |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:12:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -225,14 +216,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Big Gringo |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:13:08 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28501843333806770 |
-| Players | 1/5 |
-| Host Name | we all d? rage from asd |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:13:10 |
 
 
