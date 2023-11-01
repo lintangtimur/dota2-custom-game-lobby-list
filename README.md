@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 17:43:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970792560762 |
-| Players | 14/15 |
-| Host Name | Faray_iodaq |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:35:35 |
+| Lobby ID | 28500970800470081 |
+| Players | 2/10 |
+| Host Name | ; |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:44:09 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970793521287 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | LA FER  - LA FER+4 |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:36:39 |
@@ -92,13 +92,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 17:43:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970800470081 |
-| Players | 2/10 |
-| Host Name | ; |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:44:09 |
+| Lobby ID | 28500970800532557 |
+| Players | 1/15 |
+| Host Name | Herzen |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:44:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970792560762 |
+| Players | 14/15 |
+| Host Name | Faray_iodaq |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:35:35 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970800669063 |
+| Players | 1/24 |
+| Host Name | 1 of 1 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:44:22 |
 
 
 |  | epic_boss_fight_normal |
@@ -113,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970798212158 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Cpt. Douchebag |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:41:46 |
