@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970445820935 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | no sound / ebawy |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:21:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970444210163 |
-| Players | 14/15 |
-| Host Name | |||||||||||| |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:17:49 |
+| Lobby ID | 28500970446025541 |
+| Players | 1/10 |
+| Host Name | im goldenfield nice to wheat u |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:22:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970444395684 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Shea Dr. |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:18:15 |
@@ -108,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kärss |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:21:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970446077217 |
+| Players | 2/15 |
+| Host Name | NoMercy |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:22:09 |
 
 
 |  | epic_boss_fight_nightmare |
