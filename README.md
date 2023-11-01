@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28500970634346963 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | RODIPIT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:51:17 |
@@ -95,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970650526078 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | dingo tokatlayan |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:17:46 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28500970652066491 |
-| Players | 1/10 |
-| Host Name | MYB11RU |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:20:11 |
 
 
