@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341518231945 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | Miguel Angel Garrido Florez |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 04:39:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502341497518542 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | ГЕЛЕНЖИЖИ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 04:12:59 |
@@ -50,28 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341492814382 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | 神の手 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 04:07:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502341519042663 |
-| Players | 11/15 |
-| Host Name | ǝʞʞɒ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 04:40:53 |
+| Lobby ID | 28502341519864160 |
+| Players | 3/8 |
+| Host Name | KCHA PVTAS DE HOBBY |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 04:41:59 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502341517902287 |
-| Players | 1/10 |
-| Host Name | Biff |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 04:39:21 |
+| Lobby ID | 28502341518904550 |
+| Players | 9/10 |
+| Host Name | Arise |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 04:40:41 |
 
 
 |  | ot3_gardens_duo |
@@ -119,33 +119,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 04:38:39 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502341518550143 |
-| Players | 4/8 |
-| Host Name | ПРОСТО БОСС |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 04:40:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502341519626427 |
-| Players | 3/10 |
-| Host Name | m=MadScientist |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 04:41:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502341513916992 |
-| Players | 5/24 |
-| Host Name | Fam |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 04:34:03 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341519661356 |
@@ -155,13 +128,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 04:41:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502341519864160 |
-| Players | 1/8 |
-| Host Name | KCHA PVTAS DE HOBBY |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 04:41:59 |
+| Lobby ID | 28502341519626427 |
+| Players | 5/10 |
+| Host Name | m=MadScientist |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 04:41:40 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502341513916992 |
+| Players | 4/24 |
+| Host Name | Fam |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 04:34:03 |
 
 
 |  | epic_boss_fight_hard |
