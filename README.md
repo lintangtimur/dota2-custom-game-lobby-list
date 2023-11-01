@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970831734066 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | 123456 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:15:00 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970832190089 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | MeGuesta |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:15:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970833324204 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | 企业家 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:16:26 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 18:14:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970833941247 |
-| Players | 1/15 |
-| Host Name | мистар бисти чоьш |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:17:00 |
+| Lobby ID | 28500970833855192 |
+| Players | 1/8 |
+| Host Name | смертосрач666 |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:16:55 |
 
 
 |  | ot3_gardens_duo |
@@ -85,29 +85,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970834023060 |
+| Lobby ID | 28500970834102997 |
 | Players | 1/10 |
-| Host Name | MyM |
+| Host Name | Lunakisa |
 | Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:17:05 |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:17:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970833855192 |
-| Players | 1/8 |
-| Host Name | смертосрач666 |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:16:55 |
+| Lobby ID | 28500970828510520 |
+| Players | 3/10 |
+| Host Name | Too Good To Win? |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:12:04 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970834021019 |
-| Players | 1/15 |
-| Host Name | 推到白富美 |
-| Region | Unknown |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:17:04 |
+| Lobby ID | 28500970834158578 |
+| Players | 4/15 |
+| Host Name | RAVE! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:17:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970834170757 |
+| Players | 1/8 |
+| Host Name | Секс інструктор |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:17:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970834237907 |
+| Players | 1/10 |
+| Host Name | DOTA_DIE.JPG |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:17:16 |
 
 
 |  | epic_boss_fight_normal |
