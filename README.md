@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 21:20:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28501843372144163 |
-| Players | 1/8 |
-| Host Name | sos |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:35:51 |
+| Lobby ID | 28501843372441428 |
+| Players | 2/24 |
+| Host Name | Ffoerf |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:36:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 21:33:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843371857227 |
-| Players | 5/8 |
-| Host Name | фури в подгузника |
+| Lobby ID | 28501843372700799 |
+| Players | 1/15 |
+| Host Name | sos |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:35:41 |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:36:10 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843371868173 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ๑۩۩BO$$۩۩๑ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:35:41 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843371872885 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ЧЕМП ПОДВАЛА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:35:42 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843371787096 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | OAO Whoha TF |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:35:39 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843372313678 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | Пингун |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:35:57 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843347473790 |
-| Players | 13/15 |
-| Host Name | Imave |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:21:23 |
+| Lobby ID | 28501843372585065 |
+| Players | 4/15 |
+| Host Name | ghostwhite |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:36:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843361274899 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | SwayzE |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:29:32 |
@@ -144,24 +144,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Beatmaker and Producer |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:35:39 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28501843372441428 |
-| Players | 1/24 |
-| Host Name | Ffoerf |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:36:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28501843372456752 |
-| Players | 4/8 |
-| Host Name | KYwau freshmeatt sliwkоOM MAGEt |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:36:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -216,5 +198,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Лапать |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:36:02 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28501843372714472 |
+| Players | 2/7 |
+| Host Name | Stevo11 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:36:11 |
 
 
