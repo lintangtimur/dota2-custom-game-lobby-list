@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970728963672 |
-| Players | 5/8 |
-| Host Name | depko13 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:12:14 |
+| Lobby ID | 28500970728818906 |
+| Players | 12/15 |
+| Host Name | senku |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:12:02 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970728015117 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | fal'Cie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:10:55 |
@@ -47,15 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 15:56:08 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970728666189 |
-| Players | 9/10 |
-| Host Name | КУНИСЛАВ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:11:50 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970719439711 |
@@ -65,19 +56,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 15:59:02 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970729613214 |
+| Players | 3/10 |
+| Host Name | onetkaktakblin |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:13:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970729606915 |
+| Players | 1/10 |
+| Host Name | iVodka |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:13:07 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970728818906 |
-| Players | 10/15 |
-| Host Name | senku |
+| Lobby ID | 28500970728721138 |
+| Players | 14/15 |
+| Host Name | jAmbix |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:12:02 |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:11:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970728963672 |
+| Players | 6/8 |
+| Host Name | depko13 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:12:14 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970729113935 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Bankai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:12:27 |
