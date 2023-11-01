@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970611504956 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Mode : Demon !!! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:09:46 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970611684403 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Goodbye Bystander |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:10:08 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970612451900 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | 卿如雾里花 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:11:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970612573623 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | xdxdxd |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:11:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970612739643 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | HOMBRE EN LLAMAS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:12:15 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970613340314 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Elya |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:13:25 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | zxcлопата |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:13:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970608083085 |
+| Players | 13/15 |
+| Host Name | GidraGoose |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:02:47 |
 
 
