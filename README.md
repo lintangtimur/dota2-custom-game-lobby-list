@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970523938868 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | On The Grind |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:09:02 |
@@ -41,28 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970523674154 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:08:30 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970524279581 |
-| Players | 4/10 |
-| Host Name | eooooooooooooooooo |
+| Lobby ID | 28500970524661349 |
+| Players | 7/24 |
+| Host Name | BABY-ROSH (AL) |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:09:44 |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:10:31 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970523873089 |
-| Players | 10/15 |
-| Host Name | Gabella |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:08:55 |
+| Lobby ID | 28500970524663699 |
+| Players | 13/15 |
+| Host Name | 1322837 |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:10:31 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,20 +74,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 10:09:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970522426617 |
-| Players | 14/15 |
-| Host Name | ♁＊＊ SIA ＊＊ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:05:58 |
+| Lobby ID | 28500970522080166 |
+| Players | 24/24 |
+| Host Name | quacc |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:05:15 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28500970523902065 |
-| Players | 3/5 |
-| Host Name | juan_carlos_dj |
+| Players | 1/5 |
+| Host Name | Neuel |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:08:58 |
 
