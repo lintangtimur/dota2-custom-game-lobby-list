@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970717628139 |
-| Players | 3/24 |
+| Players | 1/24 |
 | Host Name | HOMBRE EN LLAMAS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:56:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970724977201 |
-| Players | 3/10 |
-| Host Name | ёбырь |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:06:40 |
+| Lobby ID | 28500970725656183 |
+| Players | 1/8 |
+| Host Name | water dance |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:07:36 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970724557229 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | MRX |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:06:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970725150024 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Norma(tilted) |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:06:54 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ted |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:06:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970725656183 |
-| Players | 1/8 |
-| Host Name | water dance |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:07:36 |
 
 
 |  | epic_boss_fight_normal |
@@ -121,28 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28500970723402799 |
-| Players | 9/10 |
-| Host Name | .... |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:04:31 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28500970725933708 |
 | Players | 2/10 |
 | Host Name | Kaplya |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:07:59 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28500970725945171 |
-| Players | 1/5 |
-| Host Name | Пелеменный_воин |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:08:00 |
 
 
