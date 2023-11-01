@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502341534006786 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Jivchik |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 05:01:41 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 05:01:29 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502341531296656 |
-| Players | 9/10 |
-| Host Name | An!mEШka |
+| Lobby ID | 28502341524302033 |
+| Players | 23/24 |
+| Host Name | ABYSS |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 04:57:40 |
+| Lobby Creation Time | Thursday, November 2, 2023 04:48:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341533942871 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | kyrachyo. |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 05:01:35 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341533026977 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Chudy McChuddington |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 05:00:09 |
@@ -164,6 +164,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 05:02:04 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502341534346375 |
+| Players | 1/15 |
+| Host Name | lazarteeeeee |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 05:02:11 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502341526997275 |
@@ -176,7 +185,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502341523762217 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Anthony godota2.com |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 04:47:16 |
@@ -185,7 +194,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28502341533421021 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | EL CHUPA TETAS |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 05:00:46 |
