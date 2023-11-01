@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843617282109 |
-| Players | 7/8 |
-| Host Name | hi, Pups |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 00:33:13 |
+| Lobby ID | 28501843618028760 |
+| Players | 10/15 |
+| Host Name | Cap Li`Mochi |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 00:33:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843618034586 |
+| Lobby ID | 28501843618090688 |
 | Players | 1/15 |
-| Host Name | vKid |
+| Host Name | CAPITAN CULO RICO |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 00:33:53 |
+| Lobby Creation Time | Thursday, November 2, 2023 00:33:55 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843605765433 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | ... |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 00:23:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843616811073 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | romchyg |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 00:32:49 |
@@ -103,17 +103,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843618025830 |
-| Players | 1/8 |
-| Host Name | Champions_01 |
+| Lobby ID | 28501843618240856 |
+| Players | 4/8 |
+| Host Name | TSpirit.sosicka |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 00:33:52 |
+| Lobby Creation Time | Thursday, November 2, 2023 00:34:03 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843611207855 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | 0 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 00:27:56 |
@@ -137,31 +137,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 00:33:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843617668115 |
-| Players | 2/15 |
-| Host Name | big pencil |
+| Lobby ID | 28501843618259371 |
+| Players | 1/8 |
+| Host Name | Ultimate Shooting Star Super |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 00:33:34 |
+| Lobby Creation Time | Thursday, November 2, 2023 00:34:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843618027716 |
-| Players | 2/15 |
-| Host Name | Шлифую пилотки |
+| Lobby ID | 28501843618276477 |
+| Players | 4/8 |
+| Host Name | Katerina |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 00:33:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28501843618028760 |
-| Players | 1/15 |
-| Host Name | Cap Li`Mochi |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 00:33:52 |
+| Lobby Creation Time | Thursday, November 2, 2023 00:34:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -176,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28501843592013615 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | WhyBaby? |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 00:11:25 |
