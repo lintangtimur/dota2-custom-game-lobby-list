@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970744107471 |
-| Players | 1/8 |
-| Host Name | ₩₮₣?! |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:33:14 |
+| Lobby ID | 28500970744558913 |
+| Players | 5/8 |
+| Host Name | TOXIC PANDA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:33:52 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970744273454 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Selcouth |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:33:28 |
@@ -94,47 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970744168369 |
-| Players | 1/10 |
-| Host Name | Genera1 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:33:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970744525720 |
-| Players | 1/8 |
-| Host Name | Пыжик |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:33:49 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28500970737544614 |
-| Players | 20/24 |
-| Host Name | WKWKWKWKWK |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:24:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970744558913 |
-| Players | 3/8 |
-| Host Name | TOXIC PANDA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:33:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28500970737149015 |
 | Players | 8/10 |
 | Host Name | Cumen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:23:36 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970737544614 |
+| Players | 19/24 |
+| Host Name | WKWKWKWKWK |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:24:09 |
 
 
 |  | epic_boss_fight_normal |
