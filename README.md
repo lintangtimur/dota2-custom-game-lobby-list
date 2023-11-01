@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 21:17:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843332163944 |
-| Players | 1/8 |
-| Host Name | inactive! |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:12:10 |
+| Lobby ID | 28501843343723876 |
+| Players | 1/10 |
+| Host Name | РуКа_БоГа |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:19:09 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843343446743 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | hebwg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:18:59 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843343585000 |
-| Players | 1/15 |
-| Host Name | i hate n |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:19:04 |
+| Lobby ID | 28501843343678707 |
+| Players | 3/15 |
+| Host Name | Cassackia |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:19:07 |
 
 
 |  | ot3_desert_octet |
@@ -155,13 +155,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 21:19:05 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843343639466 |
-| Players | 3/24 |
-| Host Name | kano |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:19:06 |
+| Lobby ID | 28501843343837424 |
+| Players | 1/15 |
+| Host Name | HAnni |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:19:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28501843343664093 |
+| Players | 2/8 |
+| Host Name | ABOBA BOY |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:19:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28501843343972696 |
+| Players | 1/15 |
+| Host Name | あるどりん |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:19:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28501843343830489 |
+| Players | 1/15 |
+| Host Name | i hate n |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:19:13 |
 
 
 |  | epic_boss_fight_nightmare |
