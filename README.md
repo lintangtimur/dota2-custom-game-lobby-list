@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341581641839 |
-| Players | 2/15 |
-| Host Name | flipflop |
+| Players | 1/15 |
+| Host Name | Adolf Hotler |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 06:18:23 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341586526804 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 06:27:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341587197712 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | when I'm afraid, I lose my mind |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 06:28:14 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502341586773376 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Champions_01 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 06:27:28 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341586383087 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | BrummiKraftgalli |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 06:26:46 |
@@ -128,13 +128,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 06:28:45 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502341586794580 |
+| Players | 14/15 |
+| Host Name | ♁＊＊ SIA ＊＊ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 06:27:30 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502341587609959 |
+| Lobby ID | 28502341587701710 |
 | Players | 1/24 |
-| Host Name | Trent |
+| Host Name | ウェンディゴ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 06:28:59 |
+| Lobby Creation Time | Thursday, November 2, 2023 06:29:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502341587721798 |
+| Players | 1/8 |
+| Host Name | imisscxzasda |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 06:29:11 |
 
 
 |  | epic_boss_fight_normal |
