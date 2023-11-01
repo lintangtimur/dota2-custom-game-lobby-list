@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970475176485 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Moxyounes |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:24:41 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970475702453 |
-| Players | 1/8 |
-| Host Name | Cursor |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:25:49 |
+| Lobby ID | 28500970475477070 |
+| Players | 7/8 |
+| Host Name | EJ-Smill3 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:25:20 |
 
 
 |  | ot3_gardens_duo |
@@ -67,17 +67,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970475477070 |
-| Players | 6/8 |
-| Host Name | EJ-Smill3 |
+| Lobby ID | 28500970476727661 |
+| Players | 1/8 |
+| Host Name | Cursor |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:27:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970476749035 |
+| Players | 1/24 |
+| Host Name | ZZZZZZZZ |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:25:20 |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:28:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970476749208 |
+| Players | 1/15 |
+| Host Name | yhamas |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:28:01 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28500970473901162 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | Beautyyy |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:21:58 |
@@ -95,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28500970476496271 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | LH. I AM NOOB |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:27:29 |
