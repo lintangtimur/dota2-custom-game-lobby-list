@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970594702963 |
-| Players | 13/15 |
-| Host Name | 1322837 |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:35:45 |
+| Lobby ID | 28500970592836998 |
+| Players | 23/24 |
+| Host Name | 我也不狂 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:31:57 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970595250397 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | toidi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:36:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970594794385 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | The Dead of Marshes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:35:56 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970594438434 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:35:13 |
@@ -95,10 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970595468597 |
-| Players | 1/24 |
+| Players | 6/24 |
 | Host Name | MiKchero |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:37:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970595667864 |
+| Players | 3/8 |
+| Host Name | No tengo enemigos |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:37:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970595672309 |
+| Players | 2/8 |
+| Host Name | necrophilia |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:37:44 |
 
 
 |  | epic_boss_fight_nightmare |
