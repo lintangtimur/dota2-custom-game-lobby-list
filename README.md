@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970699038385 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | x^n+y^n=z^n |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:31:16 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 15:31:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970699395319 |
-| Players | 1/15 |
-| Host Name | Tada暁 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:31:45 |
+| Lobby ID | 28500970699535015 |
+| Players | 1/8 |
+| Host Name | Саком раком |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:31:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,24 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Boofi |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:31:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970699535015 |
-| Players | 1/8 |
-| Host Name | Саком раком |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:31:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970699552747 |
-| Players | 1/8 |
-| Host Name | WAYNE |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:31:58 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,27 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970698211917 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | cadwrdsaw |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:30:08 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28500970699497391 |
-| Players | 1/10 |
-| Host Name | ehoo |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:31:53 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28500970699558456 |
-| Players | 1/5 |
-| Host Name | Winston(ultra) |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:31:58 |
 
 
