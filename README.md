@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970710475087 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | overcalibrated |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:46:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970709995604 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | ПРЯНЯ |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:46:10 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970710441853 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Golly |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:46:47 |
@@ -103,20 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970710577083 |
-| Players | 1/8 |
-| Host Name | Ах*евший Байкер |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:46:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28500970710613694 |
 | Players | 1/8 |
 | Host Name | Твои зелёные глаза |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:47:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970710729862 |
+| Players | 1/8 |
+| Host Name | Ах*евший Байкер |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:47:10 |
 
 
 |  | epic_boss_fight_nightmare |
