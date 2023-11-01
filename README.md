@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970883170751 |
-| Players | 1/8 |
-| Host Name | 湊黃色閃電木葉 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:58:49 |
+| Lobby ID | 28500970883752545 |
+| Players | 3/8 |
+| Host Name | Сапожня |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:59:16 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970867137924 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Minadzuki水無月 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:45:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970879446099 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Desireus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:55:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970881118355 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | nissinwafer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:57:11 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970880566277 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | 76561199040826191 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:56:45 |
@@ -113,10 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970879060574 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | j.w.milan |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:55:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970883740477 |
+| Players | 1/8 |
+| Host Name | Paradise |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:59:15 |
 
 
 |  | epic_boss_fight_nightmare |
