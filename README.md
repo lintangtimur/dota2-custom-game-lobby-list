@@ -29,51 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 07:58:43 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970467003775 |
-| Players | 13/15 |
-| Host Name | Guppi |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:07:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970468242355 |
-| Players | 11/15 |
-| Host Name | Saint Piсят Два |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:10:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970467868262 |
-| Players | 4/10 |
-| Host Name | whYveR |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:09:16 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28500970467935805 |
-| Players | 3/24 |
-| Host Name | kagni |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:09:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970468051618 |
-| Players | 8/10 |
-| Host Name | 682 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:09:39 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970467545142 |
@@ -86,10 +41,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970468540866 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Sicario-Ursz |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:10:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970467868262 |
+| Players | 3/10 |
+| Host Name | whYveR |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:09:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970467935805 |
+| Players | 5/24 |
+| Host Name | kagni |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:09:25 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970468051618 |
+| Players | 9/10 |
+| Host Name | 682 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:09:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970468721238 |
+| Players | 1/15 |
+| Host Name | Chandideadmoon |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:11:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970468724870 |
+| Players | 3/10 |
+| Host Name | Ridiculous Tool |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:11:04 |
 
 
 |  | epic_boss_fight_nightmare |
