@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970733519478 |
-| Players | 9/10 |
-| Host Name | Enzo |
+| Lobby ID | 28500970734045005 |
+| Players | 1/15 |
+| Host Name | Veselsak |
 | Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:18:31 |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:19:16 |
 
 
 |  | ot3_gardens_duo |
@@ -56,22 +56,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 16:18:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970734045005 |
-| Players | 1/15 |
-| Host Name | Veselsak |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:19:16 |
+| Lobby ID | 28500970734543855 |
+| Players | 1/8 |
+| Host Name | ВОДNIK 322 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:19:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970734585588 |
+| Players | 1/24 |
+| Host Name | cnm' |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:20:01 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28500970729113935 |
-| Players | 9/10 |
-| Host Name | Bankai |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:12:27 |
+| Lobby ID | 28500970733933452 |
+| Players | 2/10 |
+| Host Name | d1 |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:19:06 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,23 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CL |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:59:08 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28500970732862145 |
-| Players | 1/10 |
-| Host Name | Solo Dr. Zola |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:17:36 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28500970733933452 |
-| Players | 1/10 |
-| Host Name | d1 |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:19:06 |
 
 
