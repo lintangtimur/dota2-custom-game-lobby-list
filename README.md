@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970669449129 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | BMO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:46:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970675460733 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Петя Шалопай |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:55:52 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 14:58:47 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970677305487 |
-| Players | 1/10 |
-| Host Name | Don _Paulo |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:58:43 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970677432047 |
@@ -101,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 14:58:54 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970677524655 |
-| Players | 1/15 |
-| Host Name | ♡DelS♡ |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:59:02 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970677533654 |
-| Players | 2/10 |
-| Host Name | André 3000 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:59:03 |
+| Lobby ID | 28500970677652891 |
+| Players | 1/10 |
+| Host Name | Don _Paulo |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:59:14 |
 
 
 |  | epic_boss_fight_normal |
@@ -131,18 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970677106457 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | 3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:58:24 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28500970677347688 |
-| Players | 1/10 |
-| Host Name | 装B失败 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:58:46 |
 
 
