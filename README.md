@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970820447694 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Naive |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:04:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970823642009 |
-| Players | 8/10 |
-| Host Name | ПиВаня |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:07:30 |
+| Lobby ID | 28500970823118932 |
+| Players | 4/15 |
+| Host Name | οὐροβόρος |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:07:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,40 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 18:06:14 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970824091351 |
-| Players | 1/10 |
-| Host Name | Жажа |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:07:56 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970823201021 |
+| Lobby ID | 28500970818808285 |
 | Players | 14/15 |
-| Host Name | boqni |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:07:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970818165440 |
-| Players | 2/15 |
-| Host Name | Nolinaer_TTV |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:02:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970823118932 |
-| Players | 4/15 |
-| Host Name | οὐροβόρος |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:07:01 |
+| Host Name | Stanieli |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:02:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,22 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 18:07:20 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970823490143 |
-| Players | 7/8 |
-| Host Name | ThisMightBackfire |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:07:22 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970818808285 |
-| Players | 14/15 |
-| Host Name | Stanieli |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:02:54 |
+| Lobby ID | 28500970818165440 |
+| Players | 3/15 |
+| Host Name | Nolinaer_TTV |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:02:16 |
 
 
 |  | epic_boss_fight_normal |
