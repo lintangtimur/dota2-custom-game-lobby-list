@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502341583081582 |
-| Players | 1/10 |
-| Host Name | Vlad Pitoon |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 06:20:57 |
+| Lobby ID | 28502341582681603 |
+| Players | 1/8 |
+| Host Name | 500 дней лета |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 06:20:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341581675120 |
-| Players | 8/24 |
+| Players | 17/24 |
 | Host Name | JAustin |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 06:18:27 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502341582509052 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Suki Suki |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 06:19:55 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502341582981127 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Екстрасенс за 2 гр |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 06:20:46 |
@@ -113,19 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341582836273 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | ЖидкийКозырек |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 06:20:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502341582681603 |
-| Players | 1/8 |
-| Host Name | 500 дней лета |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 06:20:14 |
+| Lobby ID | 28502341583303339 |
+| Players | 1/10 |
+| Host Name | Vlad Pitoon |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 06:21:19 |
 
 
 |  | epic_boss_fight_challenger |
