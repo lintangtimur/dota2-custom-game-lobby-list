@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843208815399 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | 13579 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:55:54 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843226317991 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | ƬΛIᒪΣDΛΛƧIMΛЯ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:07:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843227806482 |
-| Players | 4/15 |
-| Host Name | ЛУЗ НЕИЗБЕЖЕН |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:08:19 |
+| Lobby ID | 28501843228406948 |
+| Players | 1/8 |
+| Host Name | SS PRIEVIDZA |
+| Region | AUSTRIA |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:08:42 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843213498580 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | romchyg |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:58:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843220008667 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Kärss |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:03:14 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843227012751 |
-| Players | 6/8 |
-| Host Name | PRO100 T3RORIST |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:07:48 |
+| Lobby ID | 28501843227849934 |
+| Players | 4/8 |
+| Host Name | apathy |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:08:21 |
 
 
 |  | ot3_gardens_duo |
@@ -92,31 +92,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 20:00:33 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28501843228360466 |
+| Players | 1/8 |
+| Host Name | ็ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:08:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28501843228545484 |
+| Players | 3/15 |
+| Host Name | SUPER SSSANIN |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:08:47 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843227659992 |
-| Players | 6/10 |
-| Host Name | TOP 1 |
-| Region | AUSTRIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:08:13 |
+| Lobby ID | 28501843228600739 |
+| Players | 2/10 |
+| Host Name | ДИКО ТРАХАЮ труп |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:08:50 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28501843215374081 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Иоганн Себастьян Бах |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:00:11 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28500970917499326 |
-| Players | 5/10 |
-| Host Name | Watashi Unstoppable |
+| Lobby ID | 28501843227756916 |
+| Players | 2/5 |
+| Host Name | 我要飞的更高 |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 19:25:12 |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:08:17 |
 
 
 |  | epic_boss_fight_normal |
@@ -128,12 +146,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 20:08:09 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28501843227756916 |
-| Players | 2/5 |
-| Host Name | 我要飞的更高 |
+| Lobby ID | 28500970917499326 |
+| Players | 7/10 |
+| Host Name | Watashi Unstoppable |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:08:17 |
+| Lobby Creation Time | Wednesday, November 1, 2023 19:25:12 |
 
 
