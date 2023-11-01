@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970671308212 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | LGD wise |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:49:31 |
@@ -65,6 +65,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 15:04:32 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970686319826 |
+| Players | 1/15 |
+| Host Name | Luh chonka |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:13:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970686387483 |
+| Players | 1/8 |
+| Host Name | equilibrium |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:13:13 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28500970676686409 |
@@ -86,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970685534144 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | TRASH COMPENDIUM WASTE OF MONEY! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:11:55 |
