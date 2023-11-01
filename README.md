@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970612582465 |
-| Players | 6/10 |
+| Players | 3/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:11:55 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970613340314 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Elya |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:13:25 |
