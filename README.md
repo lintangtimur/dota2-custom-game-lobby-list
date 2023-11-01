@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970652373313 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | 饿了饿了 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:20:40 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970648289152 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Fitzcarraldo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:14:15 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970654629119 |
-| Players | 1/10 |
-| Host Name | She looks like starry sky |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:24:09 |
+| Lobby ID | 28500970655630417 |
+| Players | 2/10 |
+| Host Name | ёбырь |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:25:42 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970653199473 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | El gato con botas |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:21:57 |
@@ -92,22 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 14:23:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970655630417 |
-| Players | 2/10 |
-| Host Name | ёбырь |
+| Lobby ID | 28500970655887183 |
+| Players | 1/15 |
+| Host Name | woody woodpecker |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:25:42 |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:26:05 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970655749735 |
+| Lobby ID | 28500970655891619 |
 | Players | 1/8 |
 | Host Name | Egoist |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:25:53 |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:26:06 |
 
 
 |  | epic_boss_fight_normal |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RODIPIT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:51:17 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28500970652680587 |
-| Players | 9/10 |
-| Host Name | Noel |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:21:09 |
 
 
