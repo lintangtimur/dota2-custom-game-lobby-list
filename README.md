@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341595982945 |
-| Players | 7/24 |
+| Players | 4/24 |
 | Host Name | wos |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 06:44:25 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341595992550 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Demoralizd |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 06:44:26 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502341594636454 |
-| Players | 22/24 |
-| Host Name | 76561198335907364 |
+| Lobby ID | 28502341596326984 |
+| Players | 1/10 |
+| Host Name | <ALETHEIA> |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 06:41:55 |
+| Lobby Creation Time | Thursday, November 2, 2023 06:45:04 |
 
 
 |  | ot3_gardens_duo |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502341595668615 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | el chazz |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 06:43:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502341595822822 |
-| Players | 1/10 |
-| Host Name | Filipo |
+| Lobby ID | 28502341596411916 |
+| Players | 1/8 |
+| Host Name | Кумыс припездучи |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 06:44:07 |
+| Lobby Creation Time | Thursday, November 2, 2023 06:45:13 |
 
 
 |  | ot3_gardens_duo |
@@ -117,6 +117,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Takashi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 06:45:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502341596407183 |
+| Players | 1/8 |
+| Host Name | Valguard |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 06:45:13 |
 
 
 |  | epic_boss_fight_nightmare |
