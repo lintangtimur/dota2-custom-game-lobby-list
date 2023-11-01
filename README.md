@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970763960874 |
-| Players | 7/8 |
-| Host Name | pizdoxryak |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:59:44 |
+| Lobby ID | 28500970764350067 |
+| Players | 1/24 |
+| Host Name | Ayana Koji |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:00:17 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970750390019 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | MORRISON |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:41:44 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970761892506 |
-| Players | 4/10 |
-| Host Name | xxoda04 |
+| Players | 2/10 |
+| Host Name | . |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:57:01 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970763357415 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Dr. Strange where rampage |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:58:56 |
@@ -92,6 +92,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 17:00:00 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970764332556 |
+| Players | 1/15 |
+| Host Name | tilted? |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:00:15 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28500970719509879 |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970761668426 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | MESSI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:56:44 |
