@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970595250397 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | [Z]Mr.Killer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:36:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970597535885 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | An Innocent Coconut |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:41:25 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Born from blood dies from cringe |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:36:51 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970597844649 |
+| Players | 1/10 |
+| Host Name | Niking |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:42:01 |
 
 
 |  | epic_boss_fight_nightmare |
