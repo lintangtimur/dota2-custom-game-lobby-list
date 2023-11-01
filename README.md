@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 20:14:16 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843226317991 |
-| Players | 22/24 |
-| Host Name | Reiz |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:07:21 |
+| Lobby ID | 28501843236786987 |
+| Players | 6/8 |
+| Host Name | only am |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:14:05 |
 
 
 |  | ot3_desert_octet |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 20:15:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843238545934 |
-| Players | 9/10 |
-| Host Name | shAVA MAX |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:15:13 |
+| Lobby ID | 28501843239616403 |
+| Players | 6/15 |
+| Host Name | 火と水 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:15:54 |
 
 
 |  | ot3_gardens_duo |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843238079656 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Gandalf the Racist |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:14:55 |
@@ -130,11 +130,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843239616403 |
+| Lobby ID | 28501843239861179 |
 | Players | 1/15 |
-| Host Name | Pasuk |
+| Host Name | Стандартизированно-упорядоченный |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:15:54 |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:16:04 |
 
 
 |  | epic_boss_fight_normal |
@@ -144,32 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nighty america |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:08:09 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28501843239328980 |
-| Players | 1/5 |
-| Host Name | бластофф в донбас |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:15:43 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28501843239473795 |
-| Players | 1/10 |
-| Host Name | Hello |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:15:49 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28501843239608116 |
-| Players | 1/5 |
-| Host Name | 热心市民 |
-| Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:15:54 |
 
 
