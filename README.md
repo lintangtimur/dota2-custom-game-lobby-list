@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970637297249 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | ACC for practice |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:56:16 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 13:56:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970637430615 |
-| Players | 3/8 |
-| Host Name | ULYA |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:56:30 |
+| Lobby ID | 28500970637836152 |
+| Players | 2/10 |
+| Host Name | Петя Шалопай |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:57:11 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970637778749 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | nissinwafer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:57:05 |
