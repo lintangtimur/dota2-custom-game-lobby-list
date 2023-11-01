@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970774400933 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Harvester of death |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:13:54 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970776371976 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | boqni |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:16:24 |
@@ -103,17 +103,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970776919397 |
+| Lobby ID | 28500970777024214 |
 | Players | 1/8 |
-| Host Name | ya 4ert |
+| Host Name | chop chop |
 | Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:17:05 |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:17:13 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970776874616 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | 猫又 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:17:01 |
@@ -121,11 +121,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970776938584 |
-| Players | 6/8 |
-| Host Name | Yume |
+| Lobby ID | 28500970776984371 |
+| Players | 1/8 |
+| Host Name | Tired Badass |
 | Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:17:06 |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:17:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970777021284 |
+| Players | 1/8 |
+| Host Name | Jmaster210 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:17:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970777111252 |
+| Players | 3/8 |
+| Host Name | Gasert |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:17:19 |
 
 
 |  | epic_boss_fight_normal |
