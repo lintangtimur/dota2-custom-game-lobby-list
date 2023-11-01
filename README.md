@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970678156651 |
+| Lobby ID | 28500970678319908 |
 | Players | 1/15 |
-| Host Name | failure is not an option |
+| Host Name | Bertrand Russell |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:00:01 |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:00:19 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,13 +74,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 14:47:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970678234474 |
-| Players | 1/15 |
-| Host Name | hated |
+| Lobby ID | 28500970678263172 |
+| Players | 2/10 |
+| Host Name | André 3000 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:00:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970678283084 |
+| Players | 2/10 |
+| Host Name | . |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:00:10 |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:00:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970678291212 |
+| Players | 6/8 |
+| Host Name | exes |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:00:16 |
 
 
 |  | epic_boss_fight_normal |
