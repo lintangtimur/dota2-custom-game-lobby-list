@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970490748957 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | MAGA |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:58:10 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970490603491 |
-| Players | 17/24 |
-| Host Name | VEGANO CASUAL |
+| Lobby ID | 28500970491628897 |
+| Players | 1/15 |
+| Host Name | D m o n 666 |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:57:51 |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:00:06 |
 
 
 |  | ot3_gardens_duo |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 08:59:10 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970491628897 |
-| Players | 1/15 |
-| Host Name | D m o n 666 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:00:06 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970486838466 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28500970489358590 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | FishBunnyCat |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:55:06 |
