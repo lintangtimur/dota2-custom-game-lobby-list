@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970661995021 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | Protagonist |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:35:23 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970653963727 |
-| Players | 4/10 |
-| Host Name | JUICY |
+| Players | 3/10 |
+| Host Name | Copper Lee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:23:08 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970665270013 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Ryan Gosling |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:40:20 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970665664265 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Afghanistan |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:40:57 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28500970663921588 |
-| Players | 6/10 |
-| Host Name | Vegabone |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:38:18 |
+| Lobby ID | 28500970664927127 |
+| Players | 1/10 |
+| Host Name | Твой Батя |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:39:49 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | under |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:32:42 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28500970664927127 |
-| Players | 1/10 |
-| Host Name | Твой Батя |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:39:49 |
 
 
