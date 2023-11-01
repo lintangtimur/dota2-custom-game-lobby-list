@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970515093565 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | ? |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:50:58 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970513095593 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:46:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970514977082 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Rumbo a leyenda |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:50:44 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970515439189 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Laplas |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:51:42 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970515238465 |
-| Players | 2/24 |
-| Host Name | Wu Gensheng |
+| Players | 1/24 |
+| Host Name | Eggtarts |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:51:17 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28500970512438098 |
-| Players | 23/24 |
-| Host Name | Potatoes gonna potate! |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:45:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | :v |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:47:05 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28500970514308072 |
-| Players | 9/10 |
-| Host Name | [........] |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:49:21 |
 
 
 |  | epic_boss_fight_normal |
