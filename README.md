@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970647573965 |
-| Players | 7/15 |
-| Host Name | Pivnoi Bolid |
+| Players | 6/15 |
+| Host Name | SaTan<3 |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:13:08 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970648804137 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | xxxd |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:15:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970649019804 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | -- |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:15:24 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970649611598 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | _.c.w.n._ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:16:20 |
@@ -104,8 +104,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970649961208 |
-| Players | 1/24 |
-| Host Name | 'le Yan |
+| Players | 3/24 |
+| Host Name | AbossZz |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:16:53 |
 
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28500970634346963 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | RODIPIT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:51:17 |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Awer |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:16:41 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28500970650061823 |
+| Players | 1/7 |
+| Host Name | dingo tokatlayan |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:17:03 |
 
 
