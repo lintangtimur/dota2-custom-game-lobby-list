@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341574468688 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | BLEHHHHH :P |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 06:05:54 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341574021785 |
-| Players | 1/15 |
+| Players | 10/15 |
 | Host Name | maku |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 06:05:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502341573598971 |
-| Players | 1/15 |
-| Host Name | Vireal |
+| Lobby ID | 28502341574297458 |
+| Players | 3/8 |
+| Host Name | Bob |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 06:04:24 |
+| Lobby Creation Time | Thursday, November 2, 2023 06:05:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -112,38 +112,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502341573344324 |
-| Players | 8/10 |
-| Host Name | Eycca |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 06:03:58 |
+| Lobby ID | 28502341574586675 |
+| Players | 2/10 |
+| Host Name | ++ its trash |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 06:06:06 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341573520407 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | not quite my tempo |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 06:04:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502341574297458 |
-| Players | 1/8 |
-| Host Name | Bob |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 06:05:37 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502341574335451 |
-| Players | 1/24 |
-| Host Name | sangre y luto |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 06:05:41 |
 
 
 |  | epic_boss_fight_nightmare |
