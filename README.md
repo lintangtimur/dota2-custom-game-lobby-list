@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970657681744 |
-| Players | 23/24 |
-| Host Name | Natural |
+| Lobby ID | 28500970661995021 |
+| Players | 3/24 |
+| Host Name | 9527 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:28:50 |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:35:23 |
 
 
 |  | ot3_gardens_duo |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970653963727 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | JUICY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:23:08 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 14:13:08 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970642782262 |
-| Players | 1/24 |
-| Host Name | Iphone 16 Pro max |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:05:23 |
+| Lobby ID | 28500970661950120 |
+| Players | 1/8 |
+| Host Name | qecode |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:35:19 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970660840003 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | sooshiant |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:33:38 |
@@ -59,37 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970658484745 |
-| Players | 4/15 |
-| Host Name | Trade commend |
+| Players | 10/15 |
+| Host Name | DooNuts |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:30:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970660771510 |
-| Players | 13/15 |
-| Host Name | youngkid |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:33:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970661947252 |
-| Players | 1/8 |
-| Host Name | kpeghek |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:35:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970661950120 |
-| Players | 1/8 |
-| Host Name | qecode |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:35:19 |
 
 
 |  | epic_boss_fight_normal |
