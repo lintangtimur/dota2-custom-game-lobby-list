@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843225472777 |
-| Players | 7/15 |
-| Host Name | Logen |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:06:48 |
+| Lobby ID | 28501843227806482 |
+| Players | 4/15 |
+| Host Name | ЛУЗ НЕИЗБЕЖЕН |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:08:19 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843207856737 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Балдежный Пердеж |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:55:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843213498580 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | romchyg |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:58:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843220008667 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Kärss |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:03:14 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843227012751 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | PRO100 T3RORIST |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:07:48 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843227538464 |
-| Players | 1/10 |
-| Host Name | Marraqueta |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:08:09 |
+| Lobby ID | 28501843227659992 |
+| Players | 6/10 |
+| Host Name | TOP 1 |
+| Region | AUSTRIA |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:08:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nighty america |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:08:09 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28501843227756916 |
+| Players | 2/5 |
+| Host Name | 我要飞的更高 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:08:17 |
 
 
