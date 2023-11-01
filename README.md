@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970851232315 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | domino |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:32:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970851512337 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | Skerr1Q |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:32:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970854428770 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Паук |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:35:07 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970855024989 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | ёбырь |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:35:37 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970855427588 |
+| Lobby ID | 28500970855775487 |
 | Players | 1/15 |
 | Host Name | Ry_An |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:35:58 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:36:16 |
 
 
 |  | ot3_jungle_quintet |
@@ -110,31 +110,58 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 18:36:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970855595295 |
-| Players | 1/15 |
-| Host Name | Memre |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:36:07 |
+| Lobby ID | 28500970855754255 |
+| Players | 2/10 |
+| Host Name | RISEN |
+| Region | AUSTRIA |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:36:15 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970855633507 |
-| Players | 3/8 |
-| Host Name | осиху |
+| Lobby ID | 28500970855862158 |
+| Players | 1/8 |
+| Host Name | nolan |
 | Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:36:09 |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:36:21 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970855681467 |
+| Lobby ID | 28500970855908176 |
 | Players | 1/15 |
-| Host Name | Сын Мияги |
+| Host Name | life imitates life |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:36:11 |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:36:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970855888194 |
+| Players | 1/15 |
+| Host Name | Bassett |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:36:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970855912276 |
+| Players | 4/8 |
+| Host Name | EH.Sukidayo<3 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:36:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970855916360 |
+| Players | 1/15 |
+| Host Name | LebONo |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:36:23 |
 
 
 |  | epic_boss_fight_normal |
@@ -171,5 +198,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | lalalalalalalaal |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:34:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28500970855902504 |
+| Players | 1/5 |
+| Host Name | gla |
+| Region | Unknown |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:36:22 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28500970855889356 |
+| Players | 1/10 |
+| Host Name | Vainglory |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:36:22 |
 
 
