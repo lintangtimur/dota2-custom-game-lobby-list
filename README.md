@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 14:28:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970656963432 |
-| Players | 7/10 |
-| Host Name | Shelterダウビ |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:27:45 |
+| Lobby ID | 28500970658484745 |
+| Players | 11/15 |
+| Host Name | Shadow |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:30:02 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970647573965 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | you're my favorite pizza place |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:13:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970653199473 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | Stringer |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:21:57 |
@@ -58,28 +58,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970655957082 |
-| Players | 7/8 |
-| Host Name | -Все-Отец |
+| Lobby ID | 28500970660276974 |
+| Players | 2/8 |
+| Host Name | xdd |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:26:12 |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:32:46 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970658484745 |
-| Players | 6/15 |
-| Host Name | Shadow |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:30:02 |
+| Lobby ID | 28500970660363597 |
+| Players | 1/15 |
+| Host Name | sadboi |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:32:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970660381295 |
+| Players | 1/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:32:56 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28500970634346963 |
-| Players | 3/5 |
+| Players | 1/5 |
 | Host Name | RODIPIT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:51:17 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28500970660235981 |
+| Players | 1/10 |
+| Host Name | under |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:32:42 |
 
 
