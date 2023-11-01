@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970800737610 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | kura |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:44:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970801995954 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Save_Gaza_Children |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:45:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970793521287 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | LA FER  - LA FER+4 |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:36:39 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970808509769 |
-| Players | 9/10 |
-| Host Name | КУНИСЛАВ |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:52:33 |
+| Lobby ID | 28500970808875185 |
+| Players | 2/10 |
+| Host Name | NARBERAL GAMA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:52:55 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970801980303 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:45:46 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970808635868 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | dead blonde |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:52:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970808875185 |
-| Players | 1/10 |
-| Host Name | NARBERAL GAMA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:52:55 |
+| Lobby ID | 28500970809066074 |
+| Players | 1/8 |
+| Host Name | Kryogeniy oгурец |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:53:07 |
 
 
 |  | epic_boss_fight_normal |
