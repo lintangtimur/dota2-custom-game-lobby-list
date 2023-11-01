@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970637297249 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | ACC for practice |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:56:16 |
@@ -56,6 +56,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 13:57:45 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970638306978 |
+| Players | 1/24 |
+| Host Name | appreciate life |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:57:59 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28500970634346963 |
@@ -76,19 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28500970637497897 |
-| Players | 2/10 |
-| Host Name | Old People |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:56:37 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28500970638142899 |
-| Players | 2/7 |
-| Host Name | Kerry Copito |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:57:42 |
+| Lobby ID | 28500970638307938 |
+| Players | 1/10 |
+| Host Name | Гадкий Олег |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:57:59 |
 
 
