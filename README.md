@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970607875002 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | JEAN |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:02:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970576298161 |
-| Players | 14/15 |
-| Host Name | drowning |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:57:55 |
+| Lobby ID | 28500970608574390 |
+| Players | 5/24 |
+| Host Name | everybody mad |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:03:48 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970608542359 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | KarmaSH |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:03:44 |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970606967303 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Человек бензин |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:00:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970607212190 |
-| Players | 6/8 |
-| Host Name | boss mentality |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:00:59 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28500970608574390 |
-| Players | 3/24 |
-| Host Name | everybody mad |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:03:48 |
 
 
 |  | epic_boss_fight_nightmare |
