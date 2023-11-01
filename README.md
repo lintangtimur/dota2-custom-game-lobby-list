@@ -6,24 +6,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28500970501526306 |
 | Players | 3/15 |
-| Host Name | PITILLO |
+| Host Name | bersheker |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:22:22 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970498694447 |
-| Players | 1/24 |
-| Host Name | Order of Melchizedek |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:16:10 |
+| Lobby ID | 28500970501770908 |
+| Players | 1/15 |
+| Host Name | ya_ryadom l t.tv |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:22:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970500654714 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | KeiiiiGeee! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:20:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970501234412 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Casimiro Supo Tito |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:21:44 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970501770908 |
+| Lobby ID | 28500970501946199 |
 | Players | 1/15 |
-| Host Name | ya_ryadom l t.tv |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:22:55 |
+| Host Name | PITILLO |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:23:17 |
 
 
 |  | epic_boss_fight_normal |
