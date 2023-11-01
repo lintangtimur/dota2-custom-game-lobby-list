@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970703935868 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | noob team |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:37:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970704845531 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ★MMXVII |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:39:08 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970706137695 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Shax |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:40:54 |
@@ -121,20 +121,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970706163929 |
-| Players | 1/15 |
-| Host Name | Out man |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:40:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28500970706165958 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Бавовна оркам |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:40:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970706269390 |
+| Players | 1/10 |
+| Host Name | Moises |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:41:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -158,9 +158,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970702775424 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | GreShnik |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:36:20 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28500970706274722 |
+| Players | 1/7 |
+| Host Name | Vincenzo Cassano |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:41:05 |
 
 
