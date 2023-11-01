@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970661995021 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Protagonist |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:35:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970653963727 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Copper Lee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:23:08 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970663660312 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | I$uss |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:37:55 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970665270013 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Ryan Gosling |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:40:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970665667917 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | depko13 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:40:57 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970666300930 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Ass - Как доллар |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:41:55 |
@@ -76,11 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970666357456 |
-| Players | 2/15 |
-| Host Name | City Boyyy |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:42:00 |
+| Lobby ID | 28500970666368440 |
+| Players | 1/15 |
+| Host Name | SOCRATES |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:42:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970666452658 |
+| Players | 2/10 |
+| Host Name | . |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:42:09 |
 
 
 |  | epic_boss_fight_nightmare |
