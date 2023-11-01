@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843774170895 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Sin% |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 03:04:05 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 03:02:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843773914661 |
-| Players | 1/8 |
-| Host Name | CHARITO SOLTERA |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 03:03:49 |
+| Lobby ID | 28501843774327353 |
+| Players | 2/10 |
+| Host Name | ロシアの訓練 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 03:04:15 |
 
 
 |  | ot3_gardens_duo |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 03:01:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843763670474 |
-| Players | 12/15 |
-| Host Name | T 1000 Bot |
+| Lobby ID | 28501843774321638 |
+| Players | 2/10 |
+| Host Name | ttv.hskaneki |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 02:52:54 |
+| Lobby Creation Time | Thursday, November 2, 2023 03:04:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843760533858 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | , |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 02:49:40 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843772920792 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | NO MERCY |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 03:02:45 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843773696906 |
-| Players | 7/24 |
+| Players | 13/24 |
 | Host Name | Гена Цидрусні |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 03:03:35 |
@@ -175,44 +175,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843773984120 |
-| Players | 1/15 |
-| Host Name | 17 |
+| Lobby ID | 28501843774224710 |
+| Players | 3/15 |
+| Host Name | Jimmy2k |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 03:03:53 |
+| Lobby Creation Time | Thursday, November 2, 2023 03:04:09 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843774115928 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Thawne |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 03:04:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843774198716 |
-| Players | 1/15 |
-| Host Name | Xentrifuge |
+| Lobby ID | 28501843774255123 |
+| Players | 3/8 |
+| Host Name | ラグーザ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 03:04:07 |
+| Lobby Creation Time | Thursday, November 2, 2023 03:04:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843774162671 |
-| Players | 1/15 |
-| Host Name | Leo |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 03:04:05 |
+| Lobby ID | 28501843774232884 |
+| Players | 4/8 |
+| Host Name | волосатый |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 03:04:09 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28501843692936426 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | PcMasterBait |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 01:43:24 |
