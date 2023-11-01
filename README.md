@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970785833452 |
-| Players | 6/8 |
-| Host Name | maybe |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:27:55 |
+| Lobby ID | 28500970786500717 |
+| Players | 1/10 |
+| Host Name | Empieza a rezar |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:28:41 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970783128474 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | Noodle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:24:45 |
@@ -32,28 +32,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970768718559 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | ЖМЫШЕНКО |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:06:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970785312206 |
-| Players | 14/15 |
-| Host Name | yuchisan |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:27:19 |
+| Lobby ID | 28500970786481324 |
+| Players | 1/8 |
+| Host Name | Xlola |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:28:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970786596103 |
+| Players | 4/8 |
+| Host Name | maybe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:28:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970786717084 |
+| Players | 2/8 |
+| Host Name | Vamp Anthem |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:28:57 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970784227112 |
-| Players | 8/10 |
-| Host Name | Too Good To Win? |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:26:03 |
+| Lobby ID | 28500970786710312 |
+| Players | 2/10 |
+| Host Name | КУНИСЛАВ |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:28:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970786701998 |
+| Players | 1/10 |
+| Host Name | Asda |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:28:56 |
 
 
 |  | epic_boss_fight_normal |
