@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970581439394 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:08:36 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970576298161 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | FifthyFly |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:57:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970586277769 |
-| Players | 18/24 |
+| Players | 23/24 |
 | Host Name | ℳʸˢᵗᵉʳʸ |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:18:28 |
@@ -83,37 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 12:19:54 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970588256396 |
-| Players | 2/8 |
-| Host Name | eveN_PenguiN |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:22:32 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970588282498 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | estoy cansado jefe |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:22:36 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970588345156 |
-| Players | 10/15 |
-| Host Name | Nemro |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:22:44 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970588312867 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | 930 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:22:40 |
@@ -140,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970588432882 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | genjer genjer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:22:55 |
