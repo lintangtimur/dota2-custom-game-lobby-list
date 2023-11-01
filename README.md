@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970478751366 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Chandideadmoon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:32:16 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970481006923 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Delusional Players Rank Divine |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:37:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970482550518 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Might Wanna Try Fortnite |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:40:24 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ai noma |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:41:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970482863575 |
+| Players | 2/15 |
+| Host Name | Guppi |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:41:04 |
 
 
 |  | epic_boss_fight_nightmare |
