@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843294704082 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | TerroRY.GoDota2.com |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:49:33 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843273556089 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | T y |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:37:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843294489885 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | SwayzE |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:49:25 |
@@ -58,18 +58,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843292372193 |
-| Players | 12/15 |
-| Host Name | ghostwhite |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:48:10 |
+| Lobby ID | 28501843295397820 |
+| Players | 8/15 |
+| Host Name | ЛАРЛ - The International ЧЕМПИОН |
+| Region | AUSTRIA |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:49:58 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843291630519 |
-| Players | 8/10 |
-| Host Name | Free Palestine |
+| Players | 9/10 |
+| Host Name | 12R |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:47:43 |
 
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843295491188 |
-| Players | 1/8 |
-| Host Name | Sneaky Beaky Like ¯\_(ツ)_/¯ |
+| Players | 3/8 |
+| Host Name | Arlequin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:50:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843295397820 |
-| Players | 1/15 |
-| Host Name | ЛАРЛ - The International ЧЕМПИОН |
-| Region | AUSTRIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:49:58 |
+| Lobby ID | 28501843295696925 |
+| Players | 1/8 |
+| Host Name | -_- |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:50:08 |
 
 
 |  | epic_boss_fight_normal |
@@ -126,23 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ikun |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:21:01 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28501843295455281 |
-| Players | 1/5 |
-| Host Name | king jagvar |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:50:00 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28501843295498122 |
-| Players | 1/5 |
-| Host Name | MY NAME IS JOHN WICK |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:50:01 |
 
 
