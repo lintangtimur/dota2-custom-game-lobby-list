@@ -56,37 +56,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 20:51:45 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843296682735 |
-| Players | 22/24 |
-| Host Name | SwayzE |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:50:43 |
+| Lobby ID | 28501843277241680 |
+| Players | 3/10 |
+| Host Name | <{SAM S!CK}> |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:39:16 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843302186601 |
-| Players | 6/8 |
-| Host Name | Бездарность |
+| Lobby ID | 28501843303786491 |
+| Players | 3/8 |
+| Host Name | Командир легкопёр |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:53:59 |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:54:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28501843297841614 |
-| Players | 7/10 |
-| Host Name | death no more |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:51:24 |
+| Lobby ID | 28501843303320893 |
+| Players | 1/24 |
+| Host Name | PeruWildDaddy |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:54:40 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843288069423 |
-| Players | 6/15 |
+| Players | 3/15 |
 | Host Name | , |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:45:38 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 20:54:21 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843297523196 |
-| Players | 20/24 |
-| Host Name | eh? |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:51:13 |
+| Lobby ID | 28501843303323938 |
+| Players | 1/8 |
+| Host Name | loveBoris крутой свин |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:54:40 |
 
 
 |  | ot3_jungle_quintet |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843298352186 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Jenducky |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:51:42 |
@@ -149,37 +149,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843301913098 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | wp |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:53:50 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28501843277241680 |
-| Players | 2/10 |
-| Host Name | <{SAM S!CK}> |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:39:16 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843303323938 |
-| Players | 1/8 |
-| Host Name | loveBoris крутой свин |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:54:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28501843303320893 |
-| Players | 1/24 |
-| Host Name | PeruWildDaddy |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:54:40 |
+| Lobby ID | 28501843303902976 |
+| Players | 2/8 |
+| Host Name | Kung Pao |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:55:01 |
 
 
 |  | epic_boss_fight_normal |
@@ -207,23 +189,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MY NAME IS JOHN WICK |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:51:16 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28501843299782072 |
-| Players | 9/10 |
-| Host Name | mr.Mike |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:52:33 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28501843301198706 |
-| Players | 3/5 |
-| Host Name | Mindov |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:53:24 |
 
 
