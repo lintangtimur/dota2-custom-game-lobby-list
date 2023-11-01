@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970782092468 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | ээDotaтэгжшаадгүшд |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:23:30 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970783128474 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Noodle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:24:45 |
@@ -83,13 +83,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 17:25:51 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970784465200 |
+| Players | 1/8 |
+| Host Name | Uchiha Madara |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:26:20 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970784319759 |
+| Lobby ID | 28500970784374520 |
 | Players | 1/15 |
-| Host Name | Sm:)e |
+| Host Name | reza |
 | Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:26:09 |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:26:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970784382146 |
+| Players | 1/8 |
+| Host Name | panarina14 |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:26:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970774407964 |
+| Players | 14/15 |
+| Host Name | Ilon_Cat |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:13:54 |
 
 
 |  | epic_boss_fight_normal |
@@ -103,10 +130,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28500970784287396 |
+| Lobby ID | 28500970784397437 |
 | Players | 3/5 |
 | Host Name | ПЕРЕЦ |
 | Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:26:07 |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:26:15 |
 
 
