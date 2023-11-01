@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970652373313 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | 饿了饿了 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:20:40 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970648289152 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Fitzcarraldo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:14:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970647573965 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | you're my favorite pizza place |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:13:08 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 14:05:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970650984837 |
-| Players | 1/15 |
-| Host Name | Pikachu187 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:18:30 |
+| Lobby ID | 28500970656538162 |
+| Players | 1/10 |
+| Host Name | ฿eͥℝsͣeͫℝk♛ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:27:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970655978505 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | woody woodpecker |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:26:14 |
@@ -117,15 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ryu |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:27:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970656538162 |
-| Players | 1/10 |
-| Host Name | ฿eͥℝsͣeͫℝk♛ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:27:06 |
 
 
 |  | epic_boss_fight_normal |
