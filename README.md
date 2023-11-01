@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970624891137 |
-| Players | 3/10 |
-| Host Name | СЕРАГА |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:34:51 |
+| Lobby ID | 28500970624631638 |
+| Players | 4/15 |
+| Host Name | StarvieJarvie |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:34:24 |
 
 
 |  | ot3_jungle_quintet |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Beepboop |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:32:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970624631638 |
-| Players | 3/15 |
-| Host Name | StarvieJarvie |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:34:24 |
 
 
 |  | epic_boss_fight_nightmare |
