@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970573590106 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Dr Tazerenix |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:52:16 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970574934319 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | hteqerttrhbthrhrhththtr |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:55:05 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970573971306 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | PuroHues0 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:53:05 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970574406523 |
-| Players | 12/15 |
-| Host Name | Paul Thomas Anderson |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:53:59 |
+| Lobby ID | 28500970575404304 |
+| Players | 3/15 |
+| Host Name | hi |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:56:03 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970572933448 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | bodak |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:50:54 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970573931808 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Ryuzaken |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:53:00 |
