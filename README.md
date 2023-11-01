@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970805832179 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | 游戏蝗虫农师傅 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:49:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970807017097 |
-| Players | 3/8 |
-| Host Name | кепка |
+| Lobby ID | 28500970808257361 |
+| Players | 2/10 |
+| Host Name | томатус / csgorun |
 | Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:51:02 |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:52:18 |
 
 
 |  | ot3_desert_octet |
@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28500970800737610 |
 | Players | 2/15 |
-| Host Name | WTF&!о_О |
+| Host Name | kura |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:44:26 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970801995954 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Save_Gaza_Children |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:45:47 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970808103029 |
-| Players | 2/8 |
-| Host Name | BLOOOOD BRAZHNIKOV |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:52:08 |
+| Lobby ID | 28500970808169730 |
+| Players | 1/8 |
+| Host Name | nenahod |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:52:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 17:51:43 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970808118613 |
-| Players | 1/10 |
-| Host Name | young hollow |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:52:09 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970808151021 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | пoтные колбаски |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:52:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970808353135 |
+| Players | 2/10 |
+| Host Name | amethazine |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:52:23 |
 
 
 |  | epic_boss_fight_normal |
