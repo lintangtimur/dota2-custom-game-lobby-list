@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970750390019 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | MORRISON |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:41:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970772905661 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | EzaeZ1 |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:11:57 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970773019331 |
-| Players | 2/10 |
-| Host Name | mental maxwin enjoyer |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:12:06 |
+| Lobby ID | 28500970773067658 |
+| Players | 3/10 |
+| Host Name | my heart will leave you never |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:12:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,33 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 17:06:20 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970772566161 |
-| Players | 11/15 |
-| Host Name | неумехапелемеха |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:11:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970772662032 |
-| Players | 1/15 |
-| Host Name | Nemro |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:11:37 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28500970760171827 |
-| Players | 22/24 |
-| Host Name | Gino Evander |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:54:45 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970772756663 |
@@ -108,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Vamp Anthem |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:11:45 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970760171827 |
+| Players | 21/24 |
+| Host Name | Gino Evander |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:54:45 |
 
 
 |  | epic_boss_fight_normal |
