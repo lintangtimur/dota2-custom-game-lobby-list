@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970526271883 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | PORTOLITA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:13:44 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970525564835 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Aggressive Koala |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:12:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970525384594 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | -Voxz- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:11:58 |
@@ -47,49 +47,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 10:08:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970525636227 |
-| Players | 1/8 |
-| Host Name | MAPACHE_$INC0LA |
+| Lobby ID | 28500970526231156 |
+| Players | 4/24 |
+| Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:12:29 |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:13:39 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970526379224 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Egotheist |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:13:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970525389064 |
-| Players | 1/24 |
-| Host Name | 为毛？ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:11:59 |
+| Lobby ID | 28500970526524759 |
+| Players | 1/10 |
+| Host Name | iseedeadp3ople |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:14:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970526196058 |
-| Players | 2/15 |
-| Host Name | Trewis 506 |
+| Players | 1/15 |
+| Host Name | Ruben |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:13:35 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28500970526231156 |
-| Players | 3/24 |
-| Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:13:39 |
 
 
 |  | epic_boss_fight_normal |
