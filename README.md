@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843379185014 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Lisnry |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:40:00 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843346549332 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | W gli Italiani |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:20:50 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 21:34:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843379663973 |
-| Players | 1/8 |
-| Host Name | KYwau freshmeatt sliwkоOM MAGEt |
+| Lobby ID | 28501843379933692 |
+| Players | 11/15 |
+| Host Name | 123321 |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:40:17 |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:40:26 |
 
 
 |  | ot3_desert_octet |
@@ -74,31 +74,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 21:40:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28501843377977917 |
-| Players | 9/10 |
-| Host Name | pohui proebali |
+| Lobby ID | 28501843379428352 |
+| Players | 4/24 |
+| Host Name | Mr.Pickles |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:39:17 |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:40:08 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843379474235 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | fost |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:40:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843379356025 |
-| Players | 5/15 |
-| Host Name | Alone |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:40:06 |
+| Lobby ID | 28501843380172098 |
+| Players | 2/8 |
+| Host Name | please don't hate me |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:40:35 |
 
 
 |  | ot3_desert_octet |
@@ -110,40 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 21:40:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843379439920 |
-| Players | 1/8 |
-| Host Name | киса или зая |
+| Lobby ID | 28501843380567062 |
+| Players | 2/10 |
+| Host Name | Kloyn |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:40:09 |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:40:49 |
 
 
-|  | ot3_desert_octet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28501843379428352 |
-| Players | 1/24 |
-| Host Name | Mr.Pickles |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:40:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28501843379623229 |
-| Players | 1/8 |
-| Host Name | water dance |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:40:15 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28501843375351038 |
-| Players | 1/7 |
-| Host Name | ò_ó |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:37:44 |
+| Lobby ID | 28501843376458050 |
+| Players | 6/10 |
+| Host Name | RB19 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:38:23 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -166,28 +148,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28501843376458050 |
-| Players | 5/10 |
-| Host Name | RB19 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:38:23 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28501843379008206 |
-| Players | 2/5 |
-| Host Name | шоумен 󠁳пельмен |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:39:53 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28501843379697661 |
-| Players | 1/5 |
-| Host Name | gla |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:40:18 |
+| Lobby ID | 28501843360177332 |
+| Players | 6/10 |
+| Host Name | Vivi |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:28:53 |
 
 
