@@ -83,10 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 11:33:47 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970564839127 |
+| Players | 1/24 |
+| Host Name | toidi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:34:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970564883775 |
+| Players | 1/10 |
+| Host Name | Nexon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:34:10 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970558715058 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Crap'Tastic Jones IV |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:21:57 |
