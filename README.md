@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 13:43:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970627369512 |
-| Players | 7/8 |
-| Host Name | I$uss |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:39:11 |
+| Lobby ID | 28500970630710079 |
+| Players | 1/10 |
+| Host Name | 155мм демократії |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:45:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28500970578519019 |
 | Players | 1/8 |
-| Host Name | 奶茶妹 |
+| Host Name | predator |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:02:34 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970627362441 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | CHOLITO MISIO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:39:10 |
@@ -68,37 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970629439991 |
-| Players | 5/24 |
+| Players | 9/24 |
 | Host Name | eggsandwich |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:42:48 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970630703378 |
-| Players | 1/15 |
-| Host Name | rolex |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:45:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970630710079 |
-| Players | 1/10 |
-| Host Name | 155мм демократії |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:45:01 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970630771211 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | You will die |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:45:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970630954253 |
+| Players | 1/15 |
+| Host Name | raddanx |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:45:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970630992205 |
+| Players | 3/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:45:31 |
 
 
 |  | epic_boss_fight_nightmare |
