@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843248296526 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | BUTUH DANA CEPAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:21:30 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843237260833 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | reviento chiquitos a domicilio |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:14:23 |
@@ -95,37 +95,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843249591403 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Full-Time Griefer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:22:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843250003004 |
-| Players | 11/15 |
-| Host Name | Ахиллес сын Пелея |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:22:34 |
+| Lobby ID | 28501843250500751 |
+| Players | 2/8 |
+| Host Name | PRO100 T3RORIST |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:22:53 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843249823792 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | СПЕРМА👻👻👻👻👻 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:22:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843250500751 |
-| Players | 1/8 |
-| Host Name | PRO100 T3RORIST |
+| Lobby ID | 28501843250823658 |
+| Players | 1/15 |
+| Host Name | SAMURA4209 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:23:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28501843250833349 |
+| Players | 1/15 |
+| Host Name | IOVI |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:23:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28501843250896810 |
+| Players | 2/10 |
+| Host Name | never lose |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:22:53 |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:23:08 |
 
 
 |  | epic_boss_fight_normal |
