@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970687983395 |
-| Players | 3/10 |
-| Host Name | Manguito |
+| Players | 1/10 |
+| Host Name | MAad? |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:15:38 |
 
@@ -23,73 +23,91 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970692129440 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ♥♥♥♥♥ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:21:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970689719750 |
-| Players | 1/15 |
-| Host Name | уродец |
+| Lobby ID | 28500970693541469 |
+| Players | 7/8 |
+| Host Name | forever |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:18:13 |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:23:36 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970686442450 |
-| Players | 5/15 |
-| Host Name | Mindcore |
+| Players | 2/15 |
+| Host Name | LGD wise |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:13:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970693178288 |
-| Players | 2/15 |
-| Host Name | kostiantynfoka |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:23:06 |
+| Lobby ID | 28500970693711257 |
+| Players | 2/10 |
+| Host Name | . |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:23:50 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970692911170 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | ПерекисьВодорода |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:22:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970693244566 |
-| Players | 2/10 |
-| Host Name | 泰特 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:23:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970693281356 |
-| Players | 1/10 |
-| Host Name | P O W E R |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:23:15 |
+| Lobby ID | 28500970693484713 |
+| Players | 2/8 |
+| Host Name | charka025 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:23:32 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970693285517 |
+| Lobby ID | 28500970693609389 |
 | Players | 1/15 |
-| Host Name | боря терминатор |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:23:15 |
+| Host Name | Alphawolf |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:23:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970693667553 |
+| Players | 1/10 |
+| Host Name | zxc zerо |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:23:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970693676678 |
+| Players | 4/10 |
+| Host Name | REZSQUAD |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:23:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970693799208 |
+| Players | 1/8 |
+| Host Name | Вася Рефрешер |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:23:58 |
 
 
 |  | epic_boss_fight_normal |
@@ -119,12 +137,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 15:16:44 |
 
 
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28500970693020619 |
+| Players | 1/7 |
+| Host Name | Iron_Ghost |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:22:53 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28500970693788875 |
+| Players | 4/7 |
+| Host Name | pizdec |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:23:57 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28500970690540701 |
-| Players | 9/10 |
-| Host Name | Vegabone |
+| Lobby ID | 28500970693778652 |
+| Players | 1/10 |
+| Host Name | Fihed |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:19:24 |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:23:56 |
 
 
