@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970497568739 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:13:41 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970496977233 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Saga |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:12:25 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970496665173 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:11:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970496906399 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Kukurudza Striptizerka |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:12:15 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970497655231 |
+| Lobby ID | 28500970497702608 |
 | Players | 1/15 |
-| Host Name | PITILLO |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:13:53 |
+| Host Name | Egotheist |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:13:59 |
 
 
 |  | epic_boss_fight_nightmare |
