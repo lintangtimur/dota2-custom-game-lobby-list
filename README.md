@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843507438840 |
-| Players | 1/8 |
-| Host Name | ded |
-| Region | AUSTRIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 23:01:23 |
+| Lobby ID | 28501843508199642 |
+| Players | 3/8 |
+| Host Name | ydnic666 |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 1, 2023 23:01:58 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843507927125 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | DG_COACH |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 23:01:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843508093594 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | Mandibular Ramus |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 23:01:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843507047530 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | PastAоne |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 23:01:06 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843483386921 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | «ØvêℜÐøšê» |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:44:39 |
@@ -119,22 +119,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 23:01:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843508221158 |
-| Players | 2/8 |
-| Host Name | ≈NEGODIY≈ |
+| Lobby ID | 28501843508288776 |
+| Players | 2/10 |
+| Host Name | mode: підручник |
+| Region | AUSTRIA |
+| Lobby Creation Time | Wednesday, November 1, 2023 23:02:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28501843508367386 |
+| Players | 1/15 |
+| Host Name | ( ＾◡＾)っ✂ SNIP SNIP |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 23:01:59 |
+| Lobby Creation Time | Wednesday, November 1, 2023 23:02:06 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843508199642 |
-| Players | 3/8 |
-| Host Name | ydnic666 |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 23:01:58 |
+| Lobby ID | 28501843508384385 |
+| Players | 1/8 |
+| Host Name | KORONA |
+| Region | AUSTRIA |
+| Lobby Creation Time | Wednesday, November 1, 2023 23:02:07 |
 
 
 |  | epic_boss_fight_normal |
