@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970539980039 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | ZZZZZZZZ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:41:48 |
@@ -77,25 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970540441269 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Hi BaBy |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:42:46 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28500970535601402 |
-| Players | 1/7 |
-| Host Name | momo&peach princess |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:32:49 |
+| Lobby ID | 28500970540144151 |
+| Players | 2/10 |
+| Host Name | yotsuba |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:42:09 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970536644300 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | 3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:34:58 |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mother Stefler |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:38:48 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28500970540144151 |
-| Players | 2/10 |
-| Host Name | yotsuba |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:42:09 |
 
 
