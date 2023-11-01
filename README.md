@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970731163491 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | 掌握之中，岂可逃之？ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:15:16 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970733745367 |
-| Players | 2/15 |
+| Players | 10/15 |
 | Host Name | КВАZAR |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:18:51 |
@@ -47,20 +47,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 15:56:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970733329776 |
-| Players | 7/8 |
-| Host Name | Ƹ̵̡Ӝ̵̨̄Ʒ 90 gain 100% sync |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:18:16 |
+| Lobby ID | 28500970733843453 |
+| Players | 1/10 |
+| Host Name | Moises |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:18:59 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970732879255 |
-| Players | 2/15 |
-| Host Name | krian |
+| Players | 1/15 |
+| Host Name | Djon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:17:37 |
 
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 16:18:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970733843453 |
-| Players | 1/10 |
-| Host Name | Moises |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:18:59 |
+| Lobby ID | 28500970734045005 |
+| Players | 1/15 |
+| Host Name | Veselsak |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:19:16 |
 
 
 |  | epic_boss_fight_nightmare |
