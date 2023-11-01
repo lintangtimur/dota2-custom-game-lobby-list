@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970868224226 |
-| Players | 2/8 |
-| Host Name | pitsa |
+| Players | 1/8 |
+| Host Name | nolan |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:46:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970867939327 |
-| Players | 9/15 |
-| Host Name | Suck my Big Ball's |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:46:30 |
+| Lobby ID | 28500970869624458 |
+| Players | 1/24 |
+| Host Name | Montie |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:47:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 18:47:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970868736622 |
-| Players | 2/8 |
-| Host Name | Иcтрeбитeль ящeрoв |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:47:10 |
+| Lobby ID | 28500970868902187 |
+| Players | 5/10 |
+| Host Name | Saul Goodman |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:47:18 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970868825454 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Z▶Ġiǥα-Ŋiǥǥα◀V |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:47:14 |
@@ -76,44 +76,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970865251982 |
-| Players | 13/15 |
-| Host Name | 企业家 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:44:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970866823947 |
-| Players | 2/8 |
-| Host Name | Sarapan Srinivasan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:45:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970868879545 |
-| Players | 5/8 |
-| Host Name | wannagotogermany |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:47:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970868757447 |
-| Players | 1/8 |
-| Host Name | Andrew Tate |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:47:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28500970867137924 |
-| Players | 13/15 |
+| Players | 9/15 |
 | Host Name | Gojō |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:45:50 |
@@ -121,29 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970868747953 |
+| Lobby ID | 28500970866823947 |
 | Players | 3/8 |
-| Host Name | Sph1nx <3 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:47:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970868902187 |
-| Players | 3/10 |
-| Host Name | Saul Goodman |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:47:18 |
+| Host Name | Sarapan Srinivasan |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:45:34 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970868926432 |
-| Players | 1/8 |
-| Host Name | tv/Lexaofficial |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:47:19 |
+| Lobby ID | 28500970869506811 |
+| Players | 6/8 |
+| Host Name | пивной гулёнок |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:47:48 |
 
 
 |  | epic_boss_fight_normal |
