@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843324184389 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Kalliana |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:07:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843324175498 |
-| Players | 21/24 |
-| Host Name | TTT |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:07:17 |
+| Lobby ID | 28501843330270802 |
+| Players | 4/15 |
+| Host Name | РОМАТИМБЕРСАУ |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:11:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843329120874 |
+| Lobby ID | 28501843288069423 |
 | Players | 13/15 |
-| Host Name | ice ice ice |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:10:19 |
+| Host Name | dimi |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:45:38 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843327818708 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | -Voxz- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:09:31 |
@@ -94,29 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843328100447 |
-| Players | 7/8 |
-| Host Name | Mengtieng |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:09:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28501843329975061 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | -conman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:10:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28501843288069423 |
-| Players | 13/15 |
-| Host Name | dimi |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:45:38 |
 
 
 |  | epic_boss_fight_normal |
