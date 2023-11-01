@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970820686574 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Jivchik |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:04:42 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970820894080 |
-| Players | 2/8 |
-| Host Name | ≈NEGODIY≈ |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:04:54 |
+| Lobby ID | 28500970820663863 |
+| Players | 1/8 |
+| Host Name | Bobo |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:04:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970818165440 |
-| Players | 9/15 |
+| Players | 7/15 |
 | Host Name | Donatello |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:02:16 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970820500169 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | Owl |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:04:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970820663863 |
-| Players | 1/8 |
-| Host Name | Bobo |
+| Lobby ID | 28500970821011532 |
+| Players | 2/10 |
+| Host Name | . |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:04:41 |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:05:01 |
 
 
 |  | epic_boss_fight_normal |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | loki.9 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:02:16 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28500970820948705 |
-| Players | 1/7 |
-| Host Name | V-gamer |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:04:57 |
 
 
