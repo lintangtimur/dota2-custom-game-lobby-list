@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970776371976 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | boqni |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:16:24 |
@@ -103,29 +103,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970776832241 |
+| Lobby ID | 28500970776919397 |
 | Players | 1/8 |
-| Host Name | 44 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:16:58 |
+| Host Name | ya 4ert |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:17:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970776874616 |
+| Players | 1/24 |
+| Host Name | 猫又 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:17:01 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970776830476 |
-| Players | 1/8 |
-| Host Name | СОЛЕВОЙ БЕРСЕРК |
+| Lobby ID | 28500970776938584 |
+| Players | 6/8 |
+| Host Name | Yume |
 | Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:16:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970776833053 |
-| Players | 1/8 |
-| Host Name | павел бобовка |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:16:58 |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:17:06 |
 
 
 |  | epic_boss_fight_normal |
@@ -135,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CL |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:59:08 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28500970776442298 |
-| Players | 9/10 |
-| Host Name | Monkey D Luffy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:16:29 |
 
 
