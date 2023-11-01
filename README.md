@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970612739643 |
-| Players | 23/24 |
-| Host Name | HOMBRE EN LLAMAS |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:12:15 |
+| Lobby ID | 28500970616479973 |
+| Players | 1/10 |
+| Host Name | пушкин |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:19:22 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970614811549 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | FORSA AAA N |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:16:12 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970606319952 |
-| Players | 9/24 |
+| Players | 5/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:59:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970578519019 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 奶茶妹 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:02:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970615275311 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | :qqq! |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:17:05 |
@@ -65,28 +65,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 13:19:07 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970616731612 |
+| Players | 1/8 |
+| Host Name | SWAP COMMENDS |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:19:51 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970616424913 |
+| Lobby ID | 28500970616742176 |
 | Players | 1/15 |
-| Host Name | andy panda |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:19:16 |
+| Host Name | :-:Mentre:-: |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:19:52 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970616451502 |
+| Lobby ID | 28500970616750452 |
 | Players | 1/15 |
 | Host Name | MalganiS |
 | Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:19:19 |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:19:53 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970615734267 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Vainglory |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:17:57 |
