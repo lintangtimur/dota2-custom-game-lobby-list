@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 13:22:06 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970606319952 |
-| Players | 1/24 |
-| Host Name | KITCHEN LIGHTS |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:59:06 |
+| Lobby ID | 28500970612451900 |
+| Players | 5/10 |
+| Host Name | 卿如雾里花 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:11:40 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970619672255 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Dragon |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:25:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970619264909 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | STINKY BUTTHOLE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:24:36 |
@@ -83,22 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 13:24:12 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970612451900 |
-| Players | 7/10 |
-| Host Name | 卿如雾里花 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:11:40 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970620034262 |
+| Lobby ID | 28500970620142478 |
 | Players | 1/24 |
-| Host Name | Pericotito de Nelly Rossinelli |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:26:02 |
+| Host Name | Wollem |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:26:14 |
 
 
 |  | epic_boss_fight_nightmare |
