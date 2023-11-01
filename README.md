@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843208815399 |
-| Players | 3/15 |
+| Players | 10/15 |
 | Host Name | numb |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:55:54 |
@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843208879271 |
-| Players | 3/24 |
-| Host Name | JohnGali.Ass |
+| Players | 2/24 |
+| Host Name | Platinum |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:55:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843214958057 |
-| Players | 9/10 |
-| Host Name | never lose |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 19:59:55 |
+| Lobby ID | 28501843216440946 |
+| Players | 1/15 |
+| Host Name | ? |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:00:54 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843207856737 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Балдежный Пердеж |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:55:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843213498580 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | romchyg |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:58:58 |
@@ -83,46 +83,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 20:00:17 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28501843215934509 |
+| Players | 1/24 |
+| Host Name | xSantos |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:00:33 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843215641899 |
+| Lobby ID | 28501843215791838 |
 | Players | 1/15 |
-| Host Name | Wa1t |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:00:22 |
+| Host Name | yongbyeong |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:00:28 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843215646253 |
+| Lobby ID | 28501843215705632 |
 | Players | 1/8 |
-| Host Name | R.I.P.КА | | DA-ZZ-LE |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:00:22 |
+| Host Name | tkyurka |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:00:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843215656782 |
-| Players | 1/15 |
-| Host Name | ALF. |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:00:22 |
+| Lobby ID | 28501843216041503 |
+| Players | 1/8 |
+| Host Name | KwL.Serega |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:00:38 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28501843211113933 |
-| Players | 1/5 |
-| Host Name | brioba |
+| Lobby ID | 28501843216263222 |
+| Players | 2/10 |
+| Host Name | Goblok Slayer |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 19:57:25 |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:00:46 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970917499326 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Watashi Unstoppable |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:25:12 |
@@ -139,19 +148,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28501843215578847 |
+| Lobby ID | 28501843216064665 |
 | Players | 1/10 |
-| Host Name | Goblok Slayer |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:00:19 |
+| Host Name | TNT™突擊隊 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:00:39 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28501843215629693 |
+| Lobby ID | 28501843216212517 |
 | Players | 1/10 |
 | Host Name | Jardoses |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:00:21 |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:00:44 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28501843216439776 |
+| Players | 1/10 |
+| Host Name | Hanzo |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:00:53 |
 
 
