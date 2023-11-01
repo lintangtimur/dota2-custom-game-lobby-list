@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970536644300 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:34:58 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mother Stefler |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:38:48 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28500970539770555 |
+| Players | 1/5 |
+| Host Name | inadequate |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:41:23 |
 
 
