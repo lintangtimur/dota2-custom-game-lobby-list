@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502341529070049 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Hopeful Men (GPRD) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 04:54:34 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341527665193 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Phoelix |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 04:52:37 |
@@ -144,6 +144,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DrakeGOD |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 04:54:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502341529437042 |
+| Players | 2/15 |
+| Host Name | Logen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 04:55:04 |
 
 
 |  | epic_boss_fight_nightmare |
