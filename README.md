@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970560373086 |
-| Players | 22/24 |
-| Host Name | kymonster. |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:25:21 |
+| Lobby ID | 28500970561308943 |
+| Players | 2/15 |
+| Host Name | режим новичков |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:27:12 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970560357130 |
-| Players | 6/8 |
+| Players | 4/8 |
 | Host Name | ITS_SHOWTIME |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:25:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970559416989 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | polobum86 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:23:25 |
@@ -101,13 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 11:27:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970561308943 |
-| Players | 2/15 |
-| Host Name | режим новичков |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:27:12 |
+| Lobby ID | 28500970561730979 |
+| Players | 1/10 |
+| Host Name | Myrtenaster |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:28:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970561735058 |
+| Players | 1/24 |
+| Host Name | ChefsiTo |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:28:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | skyrutt |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:26:25 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28500970561653784 |
-| Players | 1/7 |
-| Host Name | KAIBAI1 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:27:52 |
 
 
