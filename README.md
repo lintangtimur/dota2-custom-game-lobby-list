@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970679415025 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ryo |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:02:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970678926555 |
-| Players | 6/8 |
-| Host Name | LA MUERTE |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:01:20 |
+| Lobby ID | 28500970671308212 |
+| Players | 14/15 |
+| Host Name | Отчим Марси |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:49:31 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970678534440 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Liza_Solntseva |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:00:41 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kto myaukaet |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:00:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970679544373 |
+| Players | 1/8 |
+| Host Name | JUANETO MAMANE QUESPE (TO PAPE) |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:02:22 |
 
 
 |  | epic_boss_fight_normal |
