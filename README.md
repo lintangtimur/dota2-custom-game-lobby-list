@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970497568739 |
-| Players | 13/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:13:41 |
+| Lobby ID | 28500970498221847 |
+| Players | 1/24 |
+| Host Name | urod |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:15:07 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970496665173 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:11:43 |
@@ -56,33 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 09:14:24 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970497526105 |
-| Players | 1/15 |
-| Host Name | uziback |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:13:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970496183940 |
-| Players | 1/8 |
-| Host Name | Hope |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:10:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970497702608 |
-| Players | 5/15 |
-| Host Name | Egotheist |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:13:59 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970498119508 |
@@ -92,28 +65,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 09:14:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970498129520 |
-| Players | 1/24 |
-| Host Name | Erick |
+| Lobby ID | 28500970496183940 |
+| Players | 4/8 |
+| Host Name | Hope |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:14:55 |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:10:39 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970498162819 |
-| Players | 1/15 |
-| Host Name | PITILLO |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:14:59 |
+| Lobby ID | 28500970497702608 |
+| Players | 12/15 |
+| Host Name | Egotheist |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:13:59 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970497337535 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | DajjalWannaFightWithMe ?!! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:13:13 |
