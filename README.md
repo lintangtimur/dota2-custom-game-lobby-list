@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970718900183 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:58:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970719439711 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | клоун - дар |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:59:02 |
@@ -85,20 +85,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970720840611 |
+| Lobby ID | 28500970720988882 |
 | Players | 1/15 |
-| Host Name | 11 y.o talent |
+| Host Name | 123 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:01:00 |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:01:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970720954219 |
+| Players | 1/8 |
+| Host Name | ship0vn1k |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:01:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970720917126 |
-| Players | 1/15 |
-| Host Name | ZeNtEx |
+| Lobby ID | 28500970720979422 |
+| Players | 3/15 |
+| Host Name | Нафотомоядевушка |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:01:06 |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:01:11 |
 
 
 |  | epic_boss_fight_normal |
@@ -126,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | devil100 |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:00:48 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28500970720982262 |
+| Players | 1/10 |
+| Host Name | Solo Dr. Zola |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:01:11 |
 
 
