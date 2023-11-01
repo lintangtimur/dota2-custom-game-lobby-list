@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970593236420 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Cazador de Senatinos |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:32:46 |
@@ -65,10 +65,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 12:33:59 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970593858678 |
+| Players | 2/8 |
+| Host Name | eбaшy мeфeдpoн |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:34:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970593909750 |
+| Players | 1/8 |
+| Host Name | antisocial |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:34:08 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970591616965 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Poseidon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:29:28 |
