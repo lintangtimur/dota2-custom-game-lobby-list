@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970519312571 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Shulton 2.0 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:59:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970515765538 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | hhhjj |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:52:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970519527043 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | the house never lose |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:00:02 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970519470767 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Kukurudza Striptizerka |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:59:55 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TIO RAMBITO -v |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:00:00 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970520056351 |
+| Players | 1/24 |
+| Host Name | ǝʞıN |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:01:07 |
 
 
 |  | epic_boss_fight_nightmare |
