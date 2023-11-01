@@ -11,42 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 04:20:44 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28500970488591487 |
-| Players | 18/24 |
-| Host Name | bajando pepa en arconte |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:53:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970489002365 |
-| Players | 7/10 |
-| Host Name | EviL |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:54:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970489060476 |
-| Players | 1/8 |
-| Host Name | To Fu |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:54:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970489081160 |
-| Players | 1/8 |
-| Host Name | трахнул суку без |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:54:29 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970488800919 |
@@ -56,22 +20,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 08:53:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970489254118 |
-| Players | 1/15 |
-| Host Name | SeiyaInuzuka |
+| Lobby ID | 28500970489338353 |
+| Players | 1/8 |
+| Host Name | PrimRose |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:55:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970489060476 |
+| Players | 4/8 |
+| Host Name | To Fu |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:54:52 |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:54:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970489255078 |
-| Players | 1/15 |
-| Host Name | myls |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:54:52 |
+| Lobby ID | 28500970489291574 |
+| Players | 1/8 |
+| Host Name | трахнул суку без |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:54:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970489335094 |
+| Players | 2/24 |
+| Host Name | DarkFlameMaster |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:55:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970489337938 |
+| Players | 1/8 |
+| Host Name | gag |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:55:03 |
 
 
 |  | epic_boss_fight_nightmare |
