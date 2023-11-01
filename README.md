@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970503678409 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Uncle Iroh (Reformed) |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:27:03 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970503434766 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | juan hit juander™ |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:26:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970504054413 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | twitch.tv/chiju_ |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:27:52 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970504005910 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | MODO ELDEN LORD |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:27:46 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970503176448 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | PITILLO |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:25:58 |
@@ -104,19 +104,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970504131780 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | самокруточка |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:28:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970501716983 |
-| Players | 23/24 |
-| Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:22:48 |
+| Lobby ID | 28500970504178738 |
+| Players | 3/15 |
+| Host Name | shadowheart fucker |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:28:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970504233718 |
+| Players | 1/15 |
+| Host Name | Nexro |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:28:15 |
 
 
 |  | epic_boss_fight_normal |
