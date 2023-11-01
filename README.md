@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341599972741 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Garuda |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 06:52:01 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341600755430 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Dron |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 06:53:30 |
@@ -56,33 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 06:54:07 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502341601425852 |
-| Players | 1/8 |
-| Host Name | App.vue |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 06:54:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502341601205110 |
-| Players | 4/10 |
-| Host Name | 塞巴斯蒂安 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 06:54:22 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502341600411999 |
-| Players | 9/10 |
-| Host Name | unrealism |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 06:52:51 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341601383290 |
@@ -90,6 +63,51 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Asmoder |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 06:54:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502341601205110 |
+| Players | 5/10 |
+| Host Name | 塞巴斯蒂安 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 06:54:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502341601506988 |
+| Players | 1/10 |
+| Host Name | Silent |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 06:54:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502341599751897 |
+| Players | 5/8 |
+| Host Name | I.G.Y |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 06:51:36 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502341596861840 |
+| Players | 14/15 |
+| Host Name | Архыз |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 06:46:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502341601574485 |
+| Players | 1/8 |
+| Host Name | Champions_01 |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 06:55:04 |
 
 
 |  | epic_boss_fight_nightmare |
