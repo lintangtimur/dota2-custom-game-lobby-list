@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843326012295 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | AO KI |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:08:25 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843322977477 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:06:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843324679381 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Kärss |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:07:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843324175498 |
-| Players | 5/24 |
+| Players | 10/24 |
 | Host Name | TTT |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:07:17 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843325949134 |
-| Players | 1/10 |
-| Host Name | Лысый Крендель |
+| Lobby ID | 28501843326745836 |
+| Players | 2/10 |
+| Host Name | NIKITUMBAMAN |
 | Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:08:23 |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:08:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,37 +74,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 21:08:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843326729226 |
-| Players | 8/10 |
-| Host Name | CHIDORIGOFUCHI |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:08:51 |
+| Lobby ID | 28501843288069423 |
+| Players | 11/15 |
+| Host Name | dimi |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 1, 2023 20:45:38 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843326485681 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Cinder |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:08:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843325751979 |
-| Players | 1/15 |
-| Host Name | Veselsak |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:08:15 |
+| Lobby ID | 28501843327221911 |
+| Players | 4/8 |
+| Host Name | KUNI RVG |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:09:09 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843324184389 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Kalliana |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:07:17 |
@@ -121,11 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843326745836 |
-| Players | 2/10 |
-| Host Name | NIKITUMBAMAN |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:08:52 |
+| Lobby ID | 28501843327417488 |
+| Players | 1/10 |
+| Host Name | 76561199040826191 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:09:16 |
 
 
 |  | epic_boss_fight_normal |
@@ -149,25 +149,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28501843310262262 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | HIDJRAH <3 |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:58:48 |
 
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28501843297607820 |
-| Players | 4/7 |
-| Host Name | king jagvar |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:51:16 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28501843325309192 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Troy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:07:59 |
