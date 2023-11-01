@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970718900183 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:58:18 |
@@ -56,6 +56,51 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 15:58:13 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970719439711 |
+| Players | 1/15 |
+| Host Name | клоун - дар |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:59:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970719472007 |
+| Players | 2/24 |
+| Host Name | เมียดุมาก |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:59:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970719514013 |
+| Players | 1/15 |
+| Host Name | woody woodpecker |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:59:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970719563508 |
+| Players | 1/8 |
+| Host Name | Быдло |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:59:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970719555007 |
+| Players | 1/15 |
+| Host Name | Шах и мать |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:59:12 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28500970710400749 |
@@ -77,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970717821432 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Fihed |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:56:49 |
@@ -86,9 +131,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970711324595 |
-| Players | 5/10 |
-| Host Name | Monkey D Luffy |
+| Players | 3/10 |
+| Host Name | devil100 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:48:00 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28500970719509879 |
+| Players | 1/5 |
+| Host Name | CL |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:59:08 |
 
 
