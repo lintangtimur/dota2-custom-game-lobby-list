@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970800669063 |
-| Players | 15/24 |
+| Players | 21/24 |
 | Host Name | 1 of 1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:44:22 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970801980303 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:45:46 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 17:36:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970800207864 |
-| Players | 3/8 |
-| Host Name | 123 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:43:53 |
+| Lobby ID | 28500970802724060 |
+| Players | 1/24 |
+| Host Name | Dranxzy |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:46:33 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970802012823 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Veselsak |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:45:48 |
@@ -86,28 +86,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970792560762 |
-| Players | 8/15 |
-| Host Name | Faray_iodaq |
+| Players | 7/15 |
+| Host Name | QB |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:35:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970802296596 |
-| Players | 3/10 |
-| Host Name | mmmMMM |
+| Lobby ID | 28500970803115592 |
+| Players | 1/8 |
+| Host Name | 44 |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:46:06 |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:46:58 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970802375099 |
+| Lobby ID | 28500970802933470 |
 | Players | 1/8 |
-| Host Name | kuni lover |
+| Host Name | кока джамба |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:46:11 |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:46:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970802947796 |
+| Players | 3/8 |
+| Host Name | 123 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:46:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970803000792 |
+| Players | 2/15 |
+| Host Name | dionysusalways1 |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:46:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970803093547 |
+| Players | 1/8 |
+| Host Name | модный шайлушай |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:46:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970800737610 |
+| Players | 4/15 |
+| Host Name | WTF&!о_О |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:44:26 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,18 +158,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970799347966 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Aior |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:42:58 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28500970792018284 |
-| Players | 4/5 |
-| Host Name | Dagan gooy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:34:59 |
+| Lobby ID | 28500970802825251 |
+| Players | 1/10 |
+| Host Name | Le Cerf |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:46:40 |
 
 
