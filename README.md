@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970455146892 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | ya_ryadom l t.tv |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:42:03 |
@@ -122,10 +122,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970455648037 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | у |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:43:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970452332763 |
+| Players | 13/15 |
+| Host Name | Отпиздил женщину |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:35:54 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970455729781 |
+| Players | 1/24 |
+| Host Name | Donkey i see donkey i kill |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:43:18 |
 
 
 |  | epic_boss_fight_nightmare |
