@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970461928837 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | not quite my tempo |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:56:37 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 07:52:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970463854833 |
-| Players | 14/15 |
-| Host Name | Lunatikid |
+| Lobby ID | 28500970465456500 |
+| Players | 1/8 |
+| Host Name | GASTON |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:00:43 |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:04:07 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970465420719 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Tzi Pin Lin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:04:02 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970464710676 |
-| Players | 8/24 |
+| Players | 14/24 |
 | Host Name | 開ღ♥*♥ღ.開•*¨)開(? |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:02:32 |
@@ -113,10 +113,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970464833190 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | ♠ ARTHUR ♠ kING ♠ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:02:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970465463532 |
+| Players | 2/8 |
+| Host Name | mr peet |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:04:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970465488513 |
+| Players | 3/8 |
+| Host Name | ОСУЖДАЮ |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:04:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970465546995 |
+| Players | 1/10 |
+| Host Name | Anth' |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:04:18 |
 
 
 |  | epic_boss_fight_nightmare |
