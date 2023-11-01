@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341590151079 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | Antonio Margharette |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 06:33:37 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 03:35:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502341590927278 |
-| Players | 9/10 |
-| Host Name | I ONCE SHAGGED A GOAT |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 06:35:03 |
+| Lobby ID | 28502341589994042 |
+| Players | 18/24 |
+| Host Name | <Exanime> |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 06:33:19 |
 
 
 |  | ot3_gardens_duo |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341591192573 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Bertono |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 06:35:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502341590511842 |
-| Players | 7/8 |
-| Host Name | PinguinoParador |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 06:34:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502341591331320 |
-| Players | 1/10 |
-| Host Name | Na2O |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 06:35:47 |
 
 
 |  | ot3_desert_octet |
@@ -110,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 06:30:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502341589994042 |
-| Players | 18/24 |
-| Host Name | <Exanime> |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 06:33:19 |
+| Lobby ID | 28502341591331320 |
+| Players | 1/10 |
+| Host Name | Na2O |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 06:35:47 |
 
 
 |  | epic_boss_fight_nightmare |
