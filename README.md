@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970827931794 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | BRAMBRAGE |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:11:32 |
@@ -101,13 +101,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 18:11:30 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970828466528 |
+| Players | 4/8 |
+| Host Name | aggressive kid |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:12:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970828510520 |
+| Players | 1/10 |
+| Host Name | Too Good To Win? |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:12:04 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970828221408 |
-| Players | 12/15 |
-| Host Name | -NewR1verrr✪- |
+| Lobby ID | 28500970828557996 |
+| Players | 1/15 |
+| Host Name | 1210997890 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:12:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970828574604 |
+| Players | 2/15 |
+| Host Name | MeGuesta |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:11:48 |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:12:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970828550127 |
+| Players | 1/15 |
+| Host Name | twitch:arsikgg43 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:12:06 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970827062612 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:10:44 |
