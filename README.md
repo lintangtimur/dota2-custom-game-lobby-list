@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843346549332 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | doughboyanthony |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:20:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843356191720 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Wukash |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:26:33 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843361274899 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | SwayzE |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:29:32 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843358735181 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Gym Parker |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:28:03 |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843362928878 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | ❤Crucio❤ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:30:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28501843359277915 |
-| Players | 14/15 |
-| Host Name | morlock |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:28:22 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tiimii ~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:28:54 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28501843363688488 |
-| Players | 3/5 |
-| Host Name | Бешенный пердун |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:30:55 |
 
 
