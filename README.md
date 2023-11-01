@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970682825260 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | ZayaEbash |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:07:40 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970682339421 |
-| Players | 16/24 |
-| Host Name | Lulalelilo |
+| Players | 17/24 |
+| Host Name | era |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:06:54 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970684274306 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Dragon |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:09:57 |
@@ -101,15 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 15:07:14 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970671308212 |
-| Players | 12/15 |
-| Host Name | ’Mr . Big |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:49:31 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28500970676686409 |
@@ -122,8 +113,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970681396728 |
-| Players | 2/10 |
-| Host Name | Гадкий Олег |
+| Players | 1/10 |
+| Host Name | Neil Armstrong |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:05:24 |
 
@@ -144,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Caesar_091 |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:08:34 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28500970684293207 |
-| Players | 1/5 |
-| Host Name | Fobaleh |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:09:58 |
 
 
