@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970496977233 |
-| Players | 17/24 |
+| Players | 22/24 |
 | Host Name | Saga |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:12:25 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 09:13:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970496906399 |
-| Players | 6/8 |
-| Host Name | Kukurudza Striptizerka |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:12:15 |
+| Lobby ID | 28500970497781141 |
+| Players | 1/15 |
+| Host Name | Canton Iron DDman |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:14:09 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,10 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 09:13:59 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970496790076 |
+| Players | 12/15 |
+| Host Name | no excuses |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:12:00 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970497337535 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | DajjalWannaFightWithMe ?!! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:13:13 |
