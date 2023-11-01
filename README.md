@@ -58,20 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970699535015 |
-| Players | 1/8 |
-| Host Name | Саком раком |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:31:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970699528396 |
+| Lobby ID | 28500970699804944 |
 | Players | 1/8 |
 | Host Name | 76561198985680651 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:31:56 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:32:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -81,6 +72,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Boofi |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:31:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970699805494 |
+| Players | 2/10 |
+| Host Name | ЧЁРНЫЙ рекрут |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:32:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970699823770 |
+| Players | 1/8 |
+| Host Name | grind2021 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:32:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970699772729 |
+| Players | 1/8 |
+| Host Name | РАЗРАБОТЧИК |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:32:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970699823649 |
+| Players | 1/15 |
+| Host Name | GG |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:32:20 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,5 +135,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | cadwrdsaw |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:30:08 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28500970699783380 |
+| Players | 1/7 |
+| Host Name | ehoo |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:32:16 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28500970699793664 |
+| Players | 1/5 |
+| Host Name | думбас |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:32:17 |
 
 
