@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970559625843 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | За Team Spirit с детств |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:23:50 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970558918031 |
-| Players | 4/15 |
+| Players | 14/15 |
 | Host Name | Born of a Star |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:22:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970555791018 |
-| Players | 7/8 |
-| Host Name | BarFaCk |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:15:45 |
+| Lobby ID | 28500970560030699 |
+| Players | 1/15 |
+| Host Name | PuquisParao |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:24:40 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970559568862 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | UNSTOPPABLE M LuV♥ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:23:44 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 11:24:14 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970559872031 |
-| Players | 1/24 |
-| Host Name | tryhard |
+| Lobby ID | 28500970560100880 |
+| Players | 5/8 |
+| Host Name | Bajador de Pepa Profesional |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:24:20 |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:24:48 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Alessia Cara |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:21:57 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28500970560084553 |
+| Players | 2/5 |
+| Host Name | Gol D. Condoriano. |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:24:46 |
 
 
