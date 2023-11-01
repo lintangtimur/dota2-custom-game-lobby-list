@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970496665173 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:11:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970497896472 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | fated |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:14:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970498119508 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Hello World |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:14:53 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970496183940 |
-| Players | 7/8 |
-| Host Name | Hope |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:10:39 |
+| Lobby ID | 28500970498278311 |
+| Players | 4/8 |
+| Host Name | uziback |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:15:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 09:15:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970498278311 |
-| Players | 1/8 |
-| Host Name | uziback |
+| Lobby ID | 28500970498671514 |
+| Players | 1/15 |
+| Host Name | nub. |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:15:14 |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:16:07 |
 
 
 |  | epic_boss_fight_normal |
