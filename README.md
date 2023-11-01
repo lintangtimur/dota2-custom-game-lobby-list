@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970557062474 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Rush |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:18:27 |
@@ -29,42 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 11:15:45 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970554027662 |
-| Players | 13/15 |
-| Host Name | ...... |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:11:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28500970557022991 |
-| Players | 9/24 |
-| Host Name | inflammable |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:18:22 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970556585928 |
-| Players | 9/10 |
-| Host Name | TV Man |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:17:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970556573018 |
-| Players | 6/8 |
-| Host Name | Bajito pero soberbio |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:17:25 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970557407024 |
@@ -72,6 +36,69 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nonseses |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:19:11 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970557022991 |
+| Players | 10/24 |
+| Host Name | inflammable |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:18:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970557410602 |
+| Players | 1/15 |
+| Host Name | ryyyyzzeen_MYR |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:19:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970556573018 |
+| Players | 7/8 |
+| Host Name | Bajito pero soberbio |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:17:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970557461472 |
+| Players | 5/8 |
+| Host Name | 12zak |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:19:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970555319342 |
+| Players | 9/10 |
+| Host Name | Lǐzǐ 1899 |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:14:43 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970557480488 |
+| Players | 1/15 |
+| Host Name | BERGER |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:19:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970557495700 |
+| Players | 3/15 |
+| Host Name | Kick.com/lumaid |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:19:23 |
 
 
 |  | epic_boss_fight_normal |
