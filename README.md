@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970924122218 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | ender_Wanderer |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:29:56 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 19:29:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970923467341 |
-| Players | 10/15 |
-| Host Name | ( ＾◡＾)っ✂ SNIP SNIP |
+| Lobby ID | 28500970924396228 |
+| Players | 1/8 |
+| Host Name | я ебануто богатый |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 19:29:28 |
+| Lobby Creation Time | Wednesday, November 1, 2023 19:30:08 |
 
 
 |  | ot3_desert_octet |
@@ -92,28 +92,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 19:29:31 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970924629587 |
+| Players | 6/10 |
+| Host Name | 9santimetr |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 19:30:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970924551013 |
+| Players | 1/15 |
+| Host Name | Honour! |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 19:30:14 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970924368812 |
+| Lobby ID | 28500970924676709 |
 | Players | 2/8 |
-| Host Name | aaa |
-| Region | AUSTRIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 19:30:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970924396228 |
-| Players | 1/8 |
-| Host Name | я ебануто богатый |
+| Host Name | (V)_('_')_(V) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 19:30:08 |
+| Lobby Creation Time | Wednesday, November 1, 2023 19:30:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970924691224 |
+| Players | 3/15 |
+| Host Name | Achilles |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 19:30:20 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970923649845 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | batman |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:29:36 |
