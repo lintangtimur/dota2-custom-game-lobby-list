@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970511780413 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | ...D3V1L... |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:44:05 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970544290410 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Bajito pero soberbio |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:50:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970543160227 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:48:22 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970544691609 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | GeNeSiS MDL→ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:51:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970545002252 |
+| Players | 1/15 |
+| Host Name | Alex Trebec |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:52:11 |
 
 
 |  | epic_boss_fight_normal |
