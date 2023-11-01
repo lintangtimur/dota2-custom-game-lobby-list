@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970518425466 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | MihaWk |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:57:48 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970516849740 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | ACC for practice |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:54:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970518363418 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | who's |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:57:40 |
@@ -83,31 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 09:57:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970516120328 |
-| Players | 23/24 |
-| Host Name | prepara el anuvis!!!! |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:53:06 |
+| Lobby ID | 28500970516801068 |
+| Players | 14/15 |
+| Host Name | Nexro |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:54:29 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970518507470 |
+| Lobby ID | 28500970518595224 |
 | Players | 1/10 |
-| Host Name | An Innocent Coconut |
+| Host Name | Alonely |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:57:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970518532672 |
-| Players | 1/8 |
-| Host Name | 854 |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:58:01 |
+| Lobby Creation Time | Wednesday, November 1, 2023 09:58:09 |
 
 
 |  | epic_boss_fight_nightmare |
