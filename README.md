@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970635096279 |
-| Players | 5/8 |
+| Players | 2/8 |
 | Host Name | twitch.tv/quuwex |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:52:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970634150411 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | DΛЯK SIDΣ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:50:57 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970635476278 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | kl |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:53:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970634398887 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | < Blank > |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:51:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970635460300 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | WAUTB |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:53:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970635753995 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Olaf |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:53:41 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | oh... even harder... harder... |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:53:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970636046342 |
+| Players | 1/15 |
+| Host Name | -Changretta |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:54:10 |
 
 
 |  | epic_boss_fight_normal |
