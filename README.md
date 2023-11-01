@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970520310178 |
-| Players | 8/15 |
+| Players | 5/15 |
 | Host Name | Semavik |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:01:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970519312571 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | Shulton 2.0 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:59:36 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 09:58:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970515765538 |
-| Players | 23/24 |
-| Host Name | hhhjj |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 09:52:22 |
+| Lobby ID | 28500970520116677 |
+| Players | 3/15 |
+| Host Name | AMA TU PERU CTMRE |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:01:15 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970519527043 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | the house never lose |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:00:02 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 10:01:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970520116677 |
-| Players | 3/15 |
-| Host Name | AMA TU PERU CTMRE |
+| Lobby ID | 28500970520627369 |
+| Players | 3/10 |
+| Host Name | ⌐◨-◨ ⌐◨-◨ |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:01:15 |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:02:18 |
 
 
 |  | epic_boss_fight_nightmare |
