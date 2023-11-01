@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 04:20:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970475176485 |
-| Players | 3/15 |
-| Host Name | Moxyounes |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:24:41 |
+| Lobby ID | 28500970477082482 |
+| Players | 4/24 |
+| Host Name | Pepega |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:28:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -29,46 +29,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 08:27:39 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970475412079 |
-| Players | 9/10 |
-| Host Name | Lamar |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:25:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970476478801 |
-| Players | 1/8 |
-| Host Name | Адилхан Пошлый |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:27:27 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28500970476749035 |
-| Players | 3/24 |
-| Host Name | ZZZZZZZZ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:28:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970475285644 |
-| Players | 6/10 |
-| Host Name | sindi |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:24:55 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970476727661 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Cursor |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:27:58 |
@@ -76,11 +40,83 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970476836931 |
-| Players | 2/8 |
+| Lobby ID | 28500970476991191 |
+| Players | 3/8 |
+| Host Name | Адилхан Пошлый |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:28:32 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970476749035 |
+| Players | 20/24 |
+| Host Name | ♥Tocoshly♥ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:28:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970476882713 |
+| Players | 1/15 |
+| Host Name | R3sist4nce. |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:28:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970477108059 |
+| Players | 3/10 |
+| Host Name | CameraMan |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:28:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970477105500 |
+| Players | 1/10 |
+| Host Name | ☻FISCALIZADOR☺ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:28:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970477130283 |
+| Players | 1/24 |
+| Host Name | Dohman32 |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:28:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970477138862 |
+| Players | 2/10 |
+| Host Name | Moxyounes |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:28:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970477187213 |
+| Players | 3/8 |
 | Host Name | Katen Kyōkotsu |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:28:12 |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:28:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970477191669 |
+| Players | 1/15 |
+| Host Name | Slon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:28:58 |
 
 
 |  | epic_boss_fight_hard |
