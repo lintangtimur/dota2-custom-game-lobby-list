@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970775056176 |
-| Players | 14/15 |
-| Host Name | f4ce^^ |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:14:45 |
+| Lobby ID | 28500970785833452 |
+| Players | 6/8 |
+| Host Name | maybe |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:27:55 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970783128474 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Noodle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:24:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970785312206 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | yuchisan |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:27:19 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:26:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970785833452 |
-| Players | 3/8 |
-| Host Name | maybe |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:27:55 |
 
 
 |  | epic_boss_fight_normal |
