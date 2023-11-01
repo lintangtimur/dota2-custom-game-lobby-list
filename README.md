@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970446532269 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Mouches Volantes |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:23:10 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970445047249 |
-| Players | 1/15 |
-| Host Name | eboshing |
+| Lobby ID | 28500970445820935 |
+| Players | 14/15 |
+| Host Name | no sound / ebawy |
 | Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:19:46 |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:21:34 |
 
 
 |  | ot3_gardens_duo |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970444867591 |
-| Players | 2/15 |
-| Host Name | Nimetal |
+| Players | 1/15 |
+| Host Name | Þ±§ PAINKILLER←♠ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:19:21 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970445931940 |
-| Players | 6/8 |
-| Host Name | XFullHouse |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:21:49 |
+| Lobby ID | 28500970446858157 |
+| Players | 4/8 |
+| Host Name | MN1D |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:23:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -119,15 +119,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 07:23:27 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970446858157 |
-| Players | 4/8 |
-| Host Name | MN1D |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:23:53 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970445087961 |
@@ -144,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Nano |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:23:29 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28500970446930626 |
+| Players | 1/5 |
+| Host Name | RODIPIT |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:24:03 |
 
 
