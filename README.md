@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341582198996 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | PUPU |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 06:19:22 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341581641839 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | бон полма |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 06:18:23 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341565318528 |
-| Players | 6/10 |
+| Players | 3/10 |
 | Host Name | Br0ker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 05:50:18 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341581675120 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | JAustin |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 06:18:27 |
@@ -112,26 +112,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502341582255956 |
-| Players | 14/15 |
-| Host Name | Nutter! |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 06:19:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502341582452895 |
-| Players | 1/8 |
-| Host Name | Dexter |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 06:19:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28502341582546161 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | Anti Tøxic |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 06:19:59 |
@@ -162,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ✖ transcendental ✖ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 06:19:49 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502341582617718 |
+| Players | 3/5 |
+| Host Name | harizmo- |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 06:20:07 |
 
 
