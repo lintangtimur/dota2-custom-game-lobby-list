@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970648289152 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Fitzcarraldo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:14:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970647573965 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | you're my favorite pizza place |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:13:08 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970651452146 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:19:14 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970653160283 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ABOBA BOY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:21:53 |
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 14:21:57 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970653280264 |
+| Players | 4/15 |
+| Host Name | Dragon |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:22:05 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970653238933 |
-| Players | 2/8 |
-| Host Name | fknsdañlkf |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:22:01 |
+| Lobby ID | 28500970653358526 |
+| Players | 1/8 |
+| Host Name | I$uss |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:22:12 |
 
 
 |  | epic_boss_fight_normal |
