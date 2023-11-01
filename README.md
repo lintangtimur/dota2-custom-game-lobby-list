@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502341493733110 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Fire |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 04:08:13 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341493164778 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | KFC el pollito |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 04:07:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341495032907 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | DrakeGOD |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 04:09:51 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 03:35:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502341492360724 |
-| Players | 3/8 |
-| Host Name | tensa |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 04:06:28 |
+| Lobby ID | 28502341494144764 |
+| Players | 3/10 |
+| Host Name | not quite my tempo |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 04:08:44 |
 
 
 |  | ot3_jungle_quintet |
@@ -113,46 +113,82 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341487757621 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | :PowerAutomate |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 04:01:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502341493261433 |
-| Players | 8/10 |
-| Host Name | ESPECTADOR NOMAS |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 04:07:37 |
+| Lobby ID | 28502341495397595 |
+| Players | 1/15 |
+| Host Name | JACO |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 04:10:18 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341492565061 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | DragonBack |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 04:06:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502341494144764 |
-| Players | 4/10 |
-| Host Name | not quite my tempo |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 04:08:44 |
+| Lobby ID | 28502341495383446 |
+| Players | 1/15 |
+| Host Name | aqaca |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 04:10:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502341495240582 |
-| Players | 3/8 |
-| Host Name | absolute? |
+| Lobby ID | 28502341495361447 |
+| Players | 1/15 |
+| Host Name | revamble.. |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 04:10:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502341495349469 |
+| Players | 1/15 |
+| Host Name | [BOT] WALKER |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 04:10:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502341495385394 |
+| Players | 1/15 |
+| Host Name | Свинопёк |
 | Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 04:10:07 |
+| Lobby Creation Time | Thursday, November 2, 2023 04:10:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502341495355873 |
+| Players | 3/15 |
+| Host Name | BBY SKOOF LaFlare |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 04:10:15 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502341495371279 |
+| Players | 1/24 |
+| Host Name | Leave Live a Light on |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 04:10:16 |
 
 
 |  | epic_boss_fight_nightmare |
