@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970558460398 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Alyssa Rayne |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:21:25 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970555791018 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | BarFaCk |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:15:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970558060031 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Yonwalther |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:20:35 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970558643767 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Top Knot.Maeghan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:21:49 |
@@ -58,11 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970558806076 |
+| Lobby ID | 28500970558888330 |
 | Players | 1/15 |
-| Host Name | 2-d |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:22:09 |
+| Host Name | schizoid |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:22:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970555319342 |
+| Players | 9/10 |
+| Host Name | Lǐzǐ 1899 |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:14:43 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Alessia Cara |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:21:57 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28500970558877827 |
+| Players | 2/10 |
+| Host Name | gegeegegge |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:22:18 |
 
 
