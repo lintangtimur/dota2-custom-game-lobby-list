@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970560373086 |
-| Players | 7/24 |
+| Players | 17/24 |
 | Host Name | kymonster. |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:25:21 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970559820170 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Larry |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:24:14 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970560979239 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | hi |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:26:34 |
@@ -94,11 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970561139792 |
+| Lobby ID | 28500970561256575 |
 | Players | 1/15 |
-| Host Name | 老马呀...老马啊！ |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:26:52 |
+| Host Name | Top Knot.Maeghan |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:27:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970561224841 |
+| Players | 1/8 |
+| Host Name | CURSE |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:27:02 |
 
 
 |  | epic_boss_fight_nightmare |
