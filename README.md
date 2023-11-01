@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 14:05:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970647968498 |
-| Players | 21/24 |
-| Host Name | KABUL张 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:13:45 |
+| Lobby ID | 28500970649701570 |
+| Players | 7/15 |
+| Host Name | Chechi boy smurf |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:16:28 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970648804137 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | xxxd |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:15:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970649019804 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | -- |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:15:24 |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970649611598 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | _.c.w.n._ |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:16:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970649673939 |
+| Players | 3/10 |
+| Host Name | Vincenzooo |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:16:26 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970649961208 |
+| Players | 1/24 |
+| Host Name | 'le Yan |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:16:53 |
 
 
 |  | epic_boss_fight_normal |
@@ -101,21 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 13:51:17 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28500970646535209 |
-| Players | 9/10 |
-| Host Name | dasdas |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:11:29 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28500970649435896 |
+| Lobby ID | 28500970649831051 |
 | Players | 1/5 |
 | Host Name | Awer |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:16:03 |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:16:41 |
 
 
