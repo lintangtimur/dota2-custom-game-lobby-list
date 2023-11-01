@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970781813881 |
+| Lobby ID | 28500970781994632 |
 | Players | 1/10 |
-| Host Name | HalfMoon |
+| Host Name | xxoda04 |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:23:10 |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:23:23 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970781285555 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | MASTERMR |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:22:32 |
@@ -67,20 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970781813268 |
+| Lobby ID | 28500970781951958 |
 | Players | 1/10 |
-| Host Name | xxoda04 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:23:10 |
+| Host Name | Annette |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:23:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970774407964 |
-| Players | 14/15 |
-| Host Name | Ilon_Cat |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:13:54 |
+| Lobby ID | 28500970781950298 |
+| Players | 2/10 |
+| Host Name | Zet is Self, and Self is Zet |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:23:20 |
 
 
 |  | ot3_jungle_quintet |
@@ -112,20 +112,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970781790022 |
-| Players | 1/8 |
-| Host Name | Yume |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:23:08 |
+| Lobby ID | 28500970781899633 |
+| Players | 2/8 |
+| Host Name | useless monkey |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:23:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970781846393 |
-| Players | 1/10 |
-| Host Name | Zet is Self, and Self is Zet |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:23:12 |
+| Lobby ID | 28500970778168956 |
+| Players | 10/15 |
+| Host Name | Mini-nub |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:18:39 |
 
 
 |  | epic_boss_fight_normal |
@@ -146,12 +146,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 17:23:10 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28500970781844980 |
-| Players | 1/5 |
-| Host Name | pullup |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:23:12 |
+| Lobby ID | 28500970781984707 |
+| Players | 1/10 |
+| Host Name | BigTree |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:23:22 |
 
 
