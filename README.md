@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341581641839 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | flipflop |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 06:18:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502341581048645 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | 【﻿DESpAIR】 |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 06:17:19 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341585126512 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | [R][O][A][M] |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 06:24:33 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502341585036992 |
-| Players | 1/10 |
-| Host Name | Road to Herald |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 06:24:23 |
+| Lobby ID | 28502341585264335 |
+| Players | 9/10 |
+| Host Name | музыка громче |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 06:24:48 |
 
 
 |  | ot3_gardens_duo |
@@ -128,13 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 06:23:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502341585255104 |
-| Players | 7/15 |
-| Host Name | Fitty_spenc |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 06:24:47 |
+| Lobby ID | 28502341585483829 |
+| Players | 1/10 |
+| Host Name | TU DIOS |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 06:25:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -146,21 +146,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 06:24:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502341585264335 |
-| Players | 8/10 |
-| Host Name | музыка громче |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 06:24:48 |
+| Lobby ID | 28502341585494713 |
+| Players | 1/15 |
+| Host Name | cutie patootie |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 06:25:12 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502341584590595 |
-| Players | 1/5 |
-| Host Name | Quakity |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 06:23:35 |
+| Lobby ID | 28502341585457425 |
+| Players | 1/24 |
+| Host Name | ™Slim Shady® |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 06:25:08 |
 
 
