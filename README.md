@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843598281308 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | It's ok I just need a break |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 00:16:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843599180695 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Solo estoy pasando el rato |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 00:17:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843601718480 |
-| Players | 3/15 |
+| Players | 11/15 |
 | Host Name | BYVSHIY HATER RLARLA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 00:19:43 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 00:19:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843601630537 |
-| Players | 14/15 |
-| Host Name | Cypher |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 00:19:39 |
+| Lobby ID | 28501843602153565 |
+| Players | 6/10 |
+| Host Name | Тайно Дернул |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 00:20:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843601641224 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ^^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 00:19:39 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 00:19:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843601729804 |
-| Players | 1/8 |
-| Host Name | Matie Ball |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 2, 2023 00:19:44 |
+| Lobby ID | 28501843602213351 |
+| Players | 1/10 |
+| Host Name | AHORA SON PODCASTEROS |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 00:20:09 |
 
 
 |  | ot3_jungle_quintet |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843601772243 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | чугун |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 00:19:46 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843601853237 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | понял |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 00:19:50 |
@@ -148,11 +148,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843602031055 |
+| Lobby ID | 28501843602220624 |
+| Players | 3/8 |
+| Host Name | n (◣.◢) n |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 00:20:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28501843602258826 |
 | Players | 1/8 |
 | Host Name | что такое победа |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 00:19:59 |
+| Lobby Creation Time | Thursday, November 2, 2023 00:20:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28501843602273593 |
+| Players | 2/8 |
+| Host Name | Champions_01 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 00:20:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -189,15 +207,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kanito |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 00:19:56 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28501843602030438 |
-| Players | 3/10 |
-| Host Name | ChIdOrI |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 00:19:59 |
 
 
 |  | epic_boss_fight_normal |
