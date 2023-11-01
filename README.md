@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970540441269 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Hi BaBy |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:42:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970541018923 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Lamamba99 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:43:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970540192906 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | помни♡ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:42:15 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 10:42:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970540412706 |
-| Players | 1/15 |
-| Host Name | FeeZy |
+| Lobby ID | 28500970541126429 |
+| Players | 1/10 |
+| Host Name | < blank > |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:42:42 |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:44:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970540819136 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Omae Wa Mou Shindeiru |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:43:32 |
@@ -86,19 +86,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970541024343 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Stayler |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:43:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970541126429 |
-| Players | 1/10 |
-| Host Name | < blank > |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:44:10 |
+| Lobby ID | 28500970539980039 |
+| Players | 23/24 |
+| Host Name | ZZZZZZZZ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:41:48 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970541187104 |
+| Players | 1/24 |
+| Host Name | Chrisnochet |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:44:18 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970541203935 |
+| Players | 1/24 |
+| Host Name | Chatter |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:44:20 |
 
 
 |  | epic_boss_fight_nightmare |
