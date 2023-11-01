@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970805832179 |
-| Players | 2/24 |
+| Players | 10/24 |
 | Host Name | 游戏蝗虫农师傅 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:49:48 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970790347948 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Shawn Oakman |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:33:05 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970792560762 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | kura |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:35:35 |
@@ -50,28 +50,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970793521287 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | LA FER  - LA FER+4 |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:36:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970806338918 |
-| Players | 1/8 |
-| Host Name | WRTK |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:50:20 |
+| Lobby ID | 28500970806685138 |
+| Players | 2/10 |
+| Host Name | Мафиозник |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:50:41 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970806343146 |
-| Players | 2/10 |
-| Host Name | ЗИГ ХАЙП |
+| Lobby ID | 28500970805080646 |
+| Players | 9/10 |
+| Host Name | 76561199040826191 |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:50:20 |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:49:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970806821583 |
+| Players | 1/8 |
+| Host Name | Paradise |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:50:50 |
 
 
 |  | epic_boss_fight_normal |
