@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970845871018 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | PLODOTVOR |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:27:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970827931794 |
-| Players | 8/10 |
-| Host Name | trillvertual |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:11:32 |
+| Lobby ID | 28500970846452772 |
+| Players | 2/24 |
+| Host Name | たらんたど |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:28:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,6 +81,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Wu Gensheng |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:27:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970846208992 |
+| Players | 1/8 |
+| Host Name | rue |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:28:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970846495343 |
+| Players | 2/10 |
+| Host Name | Четверка Уебище |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:28:15 |
 
 
 |  | epic_boss_fight_normal |
