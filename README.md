@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970589463214 |
-| Players | 11/15 |
-| Host Name | DatWretchedCat |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:25:03 |
+| Lobby ID | 28500970590549040 |
+| Players | 16/24 |
+| Host Name | XinQod |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:27:16 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970590833115 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | +502_Xavix117 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:27:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970591041677 |
-| Players | 11/24 |
+| Players | 17/24 |
 | Host Name | x^n+y^n=z^n |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:28:17 |
@@ -56,21 +56,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 12:28:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970590549040 |
-| Players | 12/24 |
-| Host Name | XinQod |
+| Lobby ID | 28500970591830237 |
+| Players | 1/15 |
+| Host Name | ASSASSINS CREEP |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:27:16 |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:29:55 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28500970591557161 |
-| Players | 1/5 |
+| Lobby ID | 28500970591616965 |
+| Players | 1/10 |
+| Host Name | Poseidon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:29:28 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28500970591700661 |
+| Players | 1/10 |
 | Host Name | GUILLO_LASSO |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:29:20 |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:29:38 |
 
 
