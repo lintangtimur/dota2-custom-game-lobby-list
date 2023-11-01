@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970555319342 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Lǐzǐ 1899 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:14:43 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970554654049 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | ya_ryadom l t.tv |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:13:19 |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 11:09:58 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970555501811 |
-| Players | 1/15 |
-| Host Name | k4chaRRo! |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:15:07 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970553951839 |
@@ -86,18 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970554123062 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Leave Me Alone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:12:10 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28500970555510826 |
-| Players | 1/5 |
-| Host Name | Awer |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:15:08 |
 
 
