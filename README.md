@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970535680458 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Fadsol |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:32:59 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970511780413 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | ...D3V1L... |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:44:05 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970535499403 |
-| Players | 12/24 |
+| Players | 19/24 |
 | Host Name | DarkMoon |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:32:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970535656214 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | RedMint |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:32:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970535243094 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | ♁＊＊ SIA ＊＊ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:32:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970534941757 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Eliazz🐯 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:31:28 |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970535174484 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | fated |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:31:56 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970536038649 |
+| Players | 2/24 |
+| Host Name | viethoangpk94 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:33:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970536072958 |
+| Players | 7/8 |
+| Host Name | Stich |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:33:47 |
 
 
 |  | epic_boss_fight_nightmare |
