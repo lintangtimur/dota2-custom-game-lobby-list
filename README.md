@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970734045005 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | lalcemt |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:19:16 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970737149015 |
-| Players | 9/10 |
-| Host Name | Literally Rus |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:23:36 |
+| Lobby ID | 28500970743835006 |
+| Players | 1/10 |
+| Host Name | Ashèr |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:32:52 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970739413033 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | BrokenMirror |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:26:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970741890302 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Chris P. Bacon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:30:10 |
@@ -74,58 +74,67 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 16:32:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970743956672 |
-| Players | 1/15 |
-| Host Name | Sanyo |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:33:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970743835006 |
-| Players | 1/10 |
-| Host Name | Ashèr |
+| Lobby ID | 28500970744097459 |
+| Players | 1/8 |
+| Host Name | Пыжик |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:32:52 |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:33:13 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970743952677 |
-| Players | 1/10 |
-| Host Name | Борис |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:33:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970743953364 |
+| Lobby ID | 28500970744036804 |
 | Players | 1/10 |
 | Host Name | maratjpeg. |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:33:01 |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:33:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970744089660 |
+| Players | 1/15 |
+| Host Name | Борис |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:33:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970744046469 |
+| Players | 1/10 |
+| Host Name | Goku |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:33:09 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970743947014 |
+| Lobby ID | 28500970744107471 |
+| Players | 1/8 |
+| Host Name | ₩₮₣?! |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:33:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970744110156 |
 | Players | 1/8 |
 | Host Name | НИТЬ НАДЕЖДЫ |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:33:01 |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:33:14 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970743970247 |
+| Lobby ID | 28500970744116022 |
 | Players | 1/15 |
-| Host Name | philag |
+| Host Name | TOXIC PANDA |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:33:03 |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:33:15 |
 
 
 |  | epic_boss_fight_normal |
@@ -140,8 +149,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970741393848 |
-| Players | 2/10 |
-| Host Name | :( |
+| Players | 1/10 |
+| Host Name | Shadow Fox |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:29:29 |
 
