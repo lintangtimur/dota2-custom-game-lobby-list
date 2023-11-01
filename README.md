@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 15:56:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970758843320 |
-| Players | 1/15 |
-| Host Name | накручиваю пряди" |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:52:59 |
+| Lobby ID | 28500970767681757 |
+| Players | 1/8 |
+| Host Name | RichMajor |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:04:56 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970766755616 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Asam Garam |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:03:40 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970767750261 |
-| Players | 1/8 |
-| Host Name | мефендронщица |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:05:01 |
+| Lobby ID | 28500970767813398 |
+| Players | 6/8 |
+| Host Name | NN |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:05:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,24 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | jAmbix |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:04:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970767681757 |
-| Players | 1/8 |
-| Host Name | RichMajor |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:04:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970767801726 |
-| Players | 1/8 |
-| Host Name | Йобана Бобана |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:05:05 |
 
 
 |  | epic_boss_fight_normal |
