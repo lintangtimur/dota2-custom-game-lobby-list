@@ -20,40 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 09:44:05 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970539500221 |
-| Players | 3/8 |
-| Host Name | Richi Rage |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:40:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970539456281 |
-| Players | 2/10 |
-| Host Name | помни♡ |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:40:44 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970536038649 |
-| Players | 17/24 |
-| Host Name | Ntz.Galford.24 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:33:43 |
+| Lobby ID | 28500970539980039 |
+| Players | 5/24 |
+| Host Name | ZZZZZZZZ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:41:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970539408187 |
-| Players | 5/15 |
-| Host Name | Egotheist |
+| Lobby ID | 28500970540042728 |
+| Players | 1/8 |
+| Host Name | def gens = leave |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:40:38 |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:41:56 |
 
 
 |  | ot3_gardens_duo |
@@ -65,13 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 10:40:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970539155129 |
-| Players | 7/8 |
-| Host Name | ЖаРеНые ОльГи |
+| Lobby ID | 28500970539408187 |
+| Players | 9/15 |
+| Host Name | Egotheist |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:40:07 |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:40:38 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970539935679 |
+| Players | 5/24 |
+| Host Name | Chungha |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:41:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970540056366 |
+| Players | 2/10 |
+| Host Name | помни♡ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:41:58 |
 
 
 |  | epic_boss_fight_challenger |
