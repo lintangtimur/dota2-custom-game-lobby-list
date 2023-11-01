@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970686442450 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Mindcore |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:13:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970691350973 |
-| Players | 1/15 |
-| Host Name | F.R.I.E.N.D.S |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:20:33 |
+| Lobby ID | 28500970692350630 |
+| Players | 4/8 |
+| Host Name | N9ne |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:21:57 |
 
 
 |  | ot3_gardens_duo |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970688650478 |
+| Lobby ID | 28500970692351411 |
 | Players | 1/15 |
-| Host Name | Ahappypuppy |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:16:38 |
+| Host Name | P O W E R |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:21:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970691699016 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | nigero GEOP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:21:02 |
@@ -95,37 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970692355885 |
-| Players | 3/15 |
+| Players | 11/15 |
 | Host Name | пивовар(тугосрун) |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:21:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970692351411 |
-| Players | 1/15 |
-| Host Name | P O W E R |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:21:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970692333456 |
-| Players | 1/15 |
-| Host Name | tensazangetsu |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:21:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970692350630 |
-| Players | 4/8 |
-| Host Name | N9ne |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:21:57 |
 
 
 |  | epic_boss_fight_normal |
