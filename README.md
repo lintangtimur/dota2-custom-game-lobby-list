@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 09:59:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970522045665 |
-| Players | 13/15 |
-| Host Name | Egotheist |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:05:11 |
+| Lobby ID | 28500970521385446 |
+| Players | 1/8 |
+| Host Name | Saud-Dog Billionaire |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:03:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970522082806 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | fated |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:05:16 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970522043708 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Hope |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:05:11 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970522774185 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | DarkMoon |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:06:40 |
@@ -112,17 +112,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970522882497 |
-| Players | 1/8 |
+| Lobby ID | 28500970522991254 |
+| Players | 2/8 |
 | Host Name | Amer Enjoyer |
 | Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:06:53 |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:07:06 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28500970522859950 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Puppy Knuckles |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:06:51 |
