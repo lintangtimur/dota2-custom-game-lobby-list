@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970549143592 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | BRunzilian |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:00:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970549247054 |
+| Players | 1/8 |
+| Host Name | ВЫЕБАЛ ЧЛЕН ЖОПОЙ |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 11:01:12 |
 
 
 |  | epic_boss_fight_normal |
