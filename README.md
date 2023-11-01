@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500281366023920 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | GrandMasterFeed |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 04:20:44 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970462532571 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | ダークドット2 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:57:53 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970459844814 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Purple Star |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:52:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970463034362 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Kimetsu |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:58:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970461928837 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | not quite my tempo |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:56:37 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970462609765 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | D.NothingToSay萧瑟 |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:58:03 |
@@ -92,31 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 07:58:43 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970461770311 |
-| Players | 3/10 |
-| Host Name | Deloreann |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:56:16 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970462937786 |
-| Players | 2/24 |
-| Host Name | NAZUN4♥ |
+| Players | 4/24 |
+| Host Name | kisper |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:58:45 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970462954187 |
-| Players | 1/15 |
-| Host Name | солевой початок |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:58:47 |
+| Lobby ID | 28500970463152348 |
+| Players | 2/15 |
+| Host Name | Gabella |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:59:13 |
 
 
 |  | epic_boss_fight_challenger |
