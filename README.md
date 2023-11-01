@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970608574390 |
-| Players | 9/24 |
+| Players | 15/24 |
 | Host Name | everybody mad |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:03:48 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970607954708 |
-| Players | 2/15 |
+| Players | 12/15 |
 | Host Name | 无限意识 &性交前抽烟 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:02:31 |
@@ -59,43 +59,70 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970608542359 |
-| Players | 3/10 |
-| Host Name | Darkness |
+| Players | 4/10 |
+| Host Name | KarmaSH |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:03:44 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970608083085 |
-| Players | 14/15 |
-| Host Name | coup de grâce 力 |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:02:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970606967303 |
-| Players | 4/8 |
-| Host Name | Человек бензин |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:00:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28500970576298161 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | drowning |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:57:55 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970606967303 |
+| Players | 3/8 |
+| Host Name | Человек бензин |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:00:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970609381567 |
+| Players | 1/10 |
+| Host Name | [D]iomegod |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:05:28 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970609551474 |
+| Players | 1/24 |
+| Host Name | Rho Aias |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:05:48 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970609497518 |
+| Players | 2/24 |
+| Host Name | J7st |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:05:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970609526790 |
+| Players | 3/15 |
+| Host Name | Dragon |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:05:45 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970607911831 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | MrMechas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:02:26 |
