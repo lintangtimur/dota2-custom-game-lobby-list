@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970538545319 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | It's ok I just need a break |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:38:50 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970511780413 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | ...D3V1L... |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:44:05 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970537931487 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | Mikooz |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:37:35 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970536038649 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | DK.blank |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:33:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970538594459 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | reaperx9(fakeboi) |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:38:56 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970538606485 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | DIMITREE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:38:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970538601743 |
-| Players | 1/8 |
-| Host Name | Sasha Colby |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:38:57 |
 
 
 |  | epic_boss_fight_challenger |
