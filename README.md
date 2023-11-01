@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970663435634 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | 无限意识 &性交前抽烟 |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:37:34 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970667346188 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Mikkolai.Bit米科 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:43:31 |
@@ -83,31 +83,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 14:47:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970670198025 |
-| Players | 1/15 |
-| Host Name | pi_na_tri |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:47:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970670236580 |
-| Players | 1/15 |
-| Host Name | 𝖍𝖍𝖍 |
+| Lobby ID | 28500970670310694 |
+| Players | 1/10 |
+| Host Name | Ghost Grave |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:47:56 |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:48:02 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970667434289 |
+| Lobby ID | 28500970670310929 |
+| Players | 1/15 |
+| Host Name | [TIN] AkikoChan (Core or feed) |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:48:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970653963727 |
 | Players | 9/10 |
-| Host Name | cece |
+| Host Name | Copper Lee |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:43:40 |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:23:08 |
 
 
 |  | epic_boss_fight_normal |
