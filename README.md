@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970918763270 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | EL STEFANO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:26:07 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970920568596 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | io |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:27:24 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 19:26:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970920623982 |
-| Players | 7/8 |
-| Host Name | RISEN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 19:27:27 |
+| Lobby ID | 28500970921612312 |
+| Players | 2/10 |
+| Host Name | (T_T) |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 1, 2023 19:28:09 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970915941204 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Stellar |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:24:04 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970921361584 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | per aspera ad astra |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 19:27:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970921613395 |
-| Players | 2/8 |
-| Host Name | МАСЛО_ШИЗОФРЕНИК |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 19:28:09 |
 
 
 |  | epic_boss_fight_nightmare |
