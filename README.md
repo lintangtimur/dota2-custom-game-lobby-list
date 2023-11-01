@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970584633584 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Top Knot.Maeghan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:15:04 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | necrophilia |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:16:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970584320172 |
+| Players | 9/10 |
+| Host Name | ВвВМ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:14:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970585253984 |
+| Players | 1/15 |
+| Host Name | Paul Thomas Anderson |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:16:21 |
 
 
 |  | epic_boss_fight_nightmare |
