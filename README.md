@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970576409619 |
-| Players | 22/24 |
-| Host Name | Recluse.Jean |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:58:09 |
+| Lobby ID | 28500970578160759 |
+| Players | 4/8 |
+| Host Name | mrph |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:01:49 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970576715360 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | potatoboi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:58:48 |
@@ -59,27 +59,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970576298161 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | cry for me |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:57:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970576286224 |
-| Players | 6/8 |
-| Host Name | ezzzzzzz |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:57:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970578160759 |
-| Players | 4/8 |
-| Host Name | mrph |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:01:49 |
 
 
