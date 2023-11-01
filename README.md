@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970850508512 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:31:46 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 18:32:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970854455652 |
-| Players | 7/15 |
-| Host Name | С ДЕТСТВА ЗА СПИРИТ |
-| Region | AUSTRIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:35:08 |
+| Lobby ID | 28500970856667539 |
+| Players | 5/24 |
+| Host Name | Dendi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:37:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970855024989 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | ёбырь |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:35:37 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970855754255 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | RISEN |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:36:15 |
@@ -135,6 +135,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nolan |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:36:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970856751103 |
+| Players | 1/15 |
+| Host Name | X'Zar |
+| Region | Unknown |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:37:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970856784982 |
+| Players | 1/15 |
+| Host Name | YEEZER |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:37:07 |
 
 
 |  | epic_boss_fight_normal |
