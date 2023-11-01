@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970753864506 |
-| Players | 7/8 |
-| Host Name | lana del rey fan |
+| Players | 1/8 |
+| Host Name | RichMajor |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:46:23 |
 
@@ -49,26 +49,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970754380575 |
-| Players | 1/15 |
-| Host Name | skyline milano |
-| Region | PERU |
+| Lobby ID | 28500970754389437 |
+| Players | 14/15 |
+| Host Name | неумехапелемеха |
+| Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:47:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970752793145 |
-| Players | 8/10 |
-| Host Name | Сын KJ |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:44:58 |
+| Lobby ID | 28500970754513127 |
+| Players | 5/8 |
+| Host Name | boba messi |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:47:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970754270234 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | 177013 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:46:56 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Король ЛНР |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:47:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970754389437 |
-| Players | 8/15 |
-| Host Name | неумехапелемеха |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:47:05 |
 
 
 |  | epic_boss_fight_normal |
