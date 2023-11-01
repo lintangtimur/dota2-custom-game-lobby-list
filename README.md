@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970611072425 |
-| Players | 1/8 |
-| Host Name | TwentyOneInch |
+| Lobby ID | 28500970611504956 |
+| Players | 1/24 |
+| Host Name | Mode : Demon !!! |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:08:53 |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:09:46 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970609497518 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | J7st |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:05:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970609381567 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Moises |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:05:28 |
@@ -68,34 +68,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970608083085 |
-| Players | 11/15 |
-| Host Name | Убийца Билла |
+| Players | 9/15 |
+| Host Name | yeah right |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:02:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970611562449 |
-| Players | 1/8 |
-| Host Name | Nahendos |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:09:53 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28500970611504956 |
-| Players | 1/24 |
-| Host Name | Mode : Demon !!! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:09:46 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970607911831 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | MrMechas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:02:26 |
