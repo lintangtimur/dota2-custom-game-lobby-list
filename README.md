@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970719439711 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | клоун - дар |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:59:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970729613214 |
-| Players | 3/10 |
-| Host Name | onetkaktakblin |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:13:08 |
+| Lobby ID | 28500970730365333 |
+| Players | 5/8 |
+| Host Name | Слабоумный |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:14:09 |
 
 
 |  | ot3_gardens_duo |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970730419571 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | my heart will leave you never |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:14:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970730365333 |
-| Players | 5/8 |
-| Host Name | Слабоумный |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:14:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970728818906 |
-| Players | 14/15 |
-| Host Name | aqfdsdafsaqasskjsadjf |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:12:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -130,10 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28500970730233257 |
+| Lobby ID | 28500970730968455 |
 | Players | 1/10 |
 | Host Name | Solo Dr. Zola |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:13:58 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:15:00 |
 
 
