@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970632345531 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | 123 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:47:51 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970632201976 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | 1322837 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:47:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970626999984 |
-| Players | 8/15 |
+| Players | 6/15 |
 | Host Name | антон перфоратор |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:38:32 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970631835359 |
-| Players | 3/10 |
-| Host Name | Toxic |
+| Players | 1/10 |
+| Host Name | рюбэн |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:46:58 |
 
@@ -83,6 +83,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 13:48:05 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970632589980 |
+| Players | 5/8 |
+| Host Name | LA MUERTE |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:48:16 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970631732585 |
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | lupanamaingatrasa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:46:47 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28500970632589913 |
+| Players | 1/5 |
+| Host Name | Quakity |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:48:16 |
 
 
