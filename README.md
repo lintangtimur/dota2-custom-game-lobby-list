@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843457424347 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | ǝpɐɔꓤⱯ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:27:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843457099251 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | дауннапудже |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:27:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843448901957 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | xVisuals |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:22:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843361274899 |
-| Players | 9/24 |
+| Players | 7/24 |
 | Host Name | Luse🔱 |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:29:32 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843455699060 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Lisa |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:26:31 |
@@ -173,13 +173,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 22:27:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28501843457689892 |
-| Players | 12/15 |
-| Host Name | Коичи |
+| Lobby ID | 28501843458065463 |
+| Players | 1/24 |
+| Host Name | Хамдулиля |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 22:27:47 |
+| Lobby Creation Time | Wednesday, November 1, 2023 22:28:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -194,7 +194,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843449679401 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | RIGHT TO BEAR ARM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:22:40 |
@@ -202,11 +202,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843457769262 |
-| Players | 1/15 |
-| Host Name | 23savage |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 22:27:50 |
+| Lobby ID | 28501843458096406 |
+| Players | 2/15 |
+| Host Name | wsdpoixkl |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 22:28:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -239,7 +239,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28501843446180021 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Иоганн Себастьян Бах |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:20:29 |
@@ -248,7 +248,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28501843454107858 |
-| Players | 8/10 |
+| Players | 10/10 |
 | Host Name | ? ? ? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:25:30 |
@@ -261,5 +261,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | king jagvar |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:27:57 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28501843458091583 |
+| Players | 1/5 |
+| Host Name | Кефтеме |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 22:28:03 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28501843458225994 |
+| Players | 1/5 |
+| Host Name | ю ноу аквадиско |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 22:28:08 |
 
 
