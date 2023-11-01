@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970457844800 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | TONY PARRY |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:47:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970458141828 |
-| Players | 16/24 |
+| Players | 23/24 |
 | Host Name | BABY-ROSH (AL) |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:48:28 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970458353041 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Yappy |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:48:55 |
@@ -85,11 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970458764254 |
-| Players | 2/10 |
-| Host Name | Insanoloco |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:49:49 |
+| Lobby ID | 28500970457859585 |
+| Players | 10/10 |
+| Host Name | macxvii |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:47:51 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970457701742 |
+| Players | 14/15 |
+| Host Name | Bakislav |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:47:31 |
 
 
 |  | epic_boss_fight_challenger |
