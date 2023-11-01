@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970455371332 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | samurai |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:42:32 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 07:39:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970456967713 |
-| Players | 8/10 |
-| Host Name | Ridiculous Tool |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:45:56 |
+| Lobby ID | 28500970457422143 |
+| Players | 1/8 |
+| Host Name | not quite my tempo |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:46:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,21 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 07:46:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970457422143 |
-| Players | 1/8 |
-| Host Name | not quite my tempo |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:46:54 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28500970451908992 |
-| Players | 9/10 |
-| Host Name | tulindoteiro |
+| Lobby ID | 28500970457451987 |
+| Players | 1/10 |
+| Host Name | Loquillo98 |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:35:00 |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:46:58 |
 
 
