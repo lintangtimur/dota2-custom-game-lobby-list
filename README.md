@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 05:49:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502341571321502 |
-| Players | 9/10 |
-| Host Name | oniqzone- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 06:00:30 |
+| Lobby ID | 28502341572321017 |
+| Players | 1/15 |
+| Host Name | Confused Toaster#SmurfMagnet |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 06:02:12 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341570263119 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | A tu vieja la vuelvo mi gata |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 05:58:40 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 05:50:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502341572013403 |
-| Players | 5/8 |
-| Host Name | Champions_01 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 06:01:41 |
+| Lobby ID | 28502341572220606 |
+| Players | 1/15 |
+| Host Name | Fitty_spenc |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 06:02:02 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341572152137 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | xDD |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 06:01:55 |
@@ -95,19 +95,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502341572218728 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Разрушитель |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 06:02:02 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502341572353471 |
+| Players | 1/24 |
+| Host Name | Road to Herald |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 06:02:16 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502341572220606 |
+| Lobby ID | 28502341572361849 |
 | Players | 1/15 |
-| Host Name | Fitty_spenc |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 06:02:02 |
+| Host Name | BUNCHUK |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 06:02:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502341570866116 |
+| Players | 15/15 |
+| Host Name | Ta1sty |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 05:59:42 |
 
 
 |  | epic_boss_fight_nightmare |
