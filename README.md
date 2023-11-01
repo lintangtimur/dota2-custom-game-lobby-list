@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970563852159 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Avena 3 OSITOS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:32:12 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970563456565 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | zima |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:31:25 |
@@ -92,19 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 11:34:05 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970564883775 |
-| Players | 1/10 |
-| Host Name | Nexon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 11:34:10 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970558715058 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Crap'Tastic Jones IV |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:21:57 |
