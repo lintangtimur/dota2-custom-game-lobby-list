@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970859721584 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | Manya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:39:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970859127170 |
-| Players | 6/8 |
-| Host Name | я с псами не вожусь |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:39:07 |
+| Lobby ID | 28500970860002057 |
+| Players | 1/10 |
+| Host Name | Ja So su Bibu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:39:52 |
 
 
 |  | ot3_desert_octet |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970858681247 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | RISEN |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:38:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970856045720 |
-| Players | 9/10 |
-| Host Name | ГАШУ НЕФАРАФ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:36:30 |
+| Lobby ID | 28500970859809166 |
+| Players | 2/8 |
+| Host Name | нет |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:39:42 |
 
 
 |  | ot3_gardens_duo |
@@ -92,22 +92,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 18:39:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970859809166 |
-| Players | 2/8 |
-| Host Name | нет |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:39:42 |
+| Lobby ID | 28500970860120512 |
+| Players | 1/15 |
+| Host Name | неумехапелемеха |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:39:58 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970860002057 |
-| Players | 1/10 |
-| Host Name | Ja So su Bibu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:39:52 |
+| Lobby ID | 28500970851096163 |
+| Players | 2/10 |
+| Host Name | Too Good To Win? |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:32:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970860204928 |
+| Players | 2/10 |
+| Host Name | BRAMBRAGE |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:40:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970860222142 |
+| Players | 6/8 |
+| Host Name | я с псами не вожусь |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:40:03 |
 
 
 |  | epic_boss_fight_normal |
