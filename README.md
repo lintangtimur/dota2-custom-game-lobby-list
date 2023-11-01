@@ -47,19 +47,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 14:05:23 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970647845501 |
-| Players | 1/8 |
-| Host Name | Casa de Saga de Géminis |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:13:34 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970647968498 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | KABUL张 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:13:45 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970646535209 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | dasdas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:11:29 |
