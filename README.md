@@ -92,10 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 16:13:44 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970730365333 |
+| Players | 2/8 |
+| Host Name | Слабоумный |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:14:09 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970729113935 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Bankai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:12:27 |
