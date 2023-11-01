@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970661950120 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | qecode |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:35:19 |
@@ -56,28 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 14:36:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970662857690 |
-| Players | 1/8 |
-| Host Name | FGF |
+| Lobby ID | 28500970663284187 |
+| Players | 1/15 |
+| Host Name | Fadealy |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:36:41 |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:37:20 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970662878793 |
+| Lobby ID | 28500970663247013 |
 | Players | 1/15 |
-| Host Name | Fadealy |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:36:43 |
+| Host Name | ISFT |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:37:17 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970647573965 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | you're my favorite pizza place |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:13:08 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970662943553 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Dranxzy |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:36:49 |
@@ -108,6 +108,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | manto enjoyer |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:37:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970663297003 |
+| Players | 1/15 |
+| Host Name | bersercer khorna |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:37:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970663297581 |
+| Players | 1/8 |
+| Host Name | засолил огурчик |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:37:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970663293649 |
+| Players | 1/15 |
+| Host Name | BP2022.cc |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:37:21 |
 
 
 |  | epic_boss_fight_normal |
