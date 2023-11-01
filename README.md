@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970731163491 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | 掌握之中，岂可逃之？ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:15:16 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970731276169 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | heisenburger |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:15:25 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970728963672 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | depko13 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:12:14 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 16:15:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970731725308 |
-| Players | 2/8 |
-| Host Name | Кк |
+| Lobby ID | 28500970728015117 |
+| Players | 22/24 |
+| Host Name | fal'Cie |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:16:02 |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:10:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970729113935 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Bankai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:12:27 |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Solo Dr. Zola |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:15:00 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28500970731714872 |
-| Players | 1/5 |
-| Host Name | Влад диван |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:16:01 |
 
 
