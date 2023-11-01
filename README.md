@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970671308212 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Desolater |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:49:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970678510465 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | FOR FUN |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:00:39 |
@@ -108,6 +108,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Richi Rage |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:00:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28500970678753654 |
+| Players | 2/10 |
+| Host Name | You will die |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:01:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970678768584 |
+| Players | 4/8 |
+| Host Name | ухажёр |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:01:04 |
 
 
 |  | epic_boss_fight_normal |
