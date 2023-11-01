@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970539282858 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | UNSTOPPABLE M LuV♥ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:40:22 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970539980039 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | ZZZZZZZZ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:41:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970540042728 |
-| Players | 1/8 |
-| Host Name | def gens = leave |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:41:56 |
+| Lobby ID | 28500970539935679 |
+| Players | 7/24 |
+| Host Name | Chungha |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:41:43 |
 
 
 |  | ot3_gardens_duo |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970539408187 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Egotheist |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:40:38 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28500970539935679 |
-| Players | 5/24 |
-| Host Name | Chungha |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:41:43 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970540056366 |
-| Players | 2/10 |
-| Host Name | помни♡ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:41:58 |
 
 
 |  | epic_boss_fight_challenger |
@@ -108,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | inadequate |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:41:23 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28500970540144151 |
+| Players | 1/10 |
+| Host Name | yotsuba |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:42:09 |
 
 
