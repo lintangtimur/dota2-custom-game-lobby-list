@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843747977096 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | DieHard |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 02:36:48 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28501843748989212 |
-| Players | 1/24 |
-| Host Name | Lil Pidril |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 02:37:50 |
+| Lobby ID | 28501843722767308 |
+| Players | 12/24 |
+| Host Name | !!El Zapaton Forever!! |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 02:12:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843687693315 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | ript |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 01:38:29 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843748652285 |
-| Players | 11/15 |
-| Host Name | Gungnir |
+| Lobby ID | 28501843749237517 |
+| Players | 10/15 |
+| Host Name | Carey Mahoney |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 02:37:29 |
+| Lobby Creation Time | Thursday, November 2, 2023 02:38:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843707335447 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Qalile |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 01:57:11 |
@@ -128,31 +128,58 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 02:38:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843749190508 |
-| Players | 1/24 |
-| Host Name | nuTs |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 02:38:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28501843749199445 |
-| Players | 1/10 |
-| Host Name | Rivergod_Sobek |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 02:38:03 |
+| Lobby ID | 28501843744933129 |
+| Players | 14/15 |
+| Host Name | 50 % system (Fucking Peru) |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 02:33:45 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843749199733 |
-| Players | 5/8 |
-| Host Name | ⁿᵒ ʳᵒˡᵉ ᵐᵒᵈᵉˡ |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 02:38:03 |
+| Lobby ID | 28501843749345940 |
+| Players | 2/8 |
+| Host Name | МИНЕТ +79******002 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 02:38:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28501843749268295 |
+| Players | 1/8 |
+| Host Name | КОММЕРС |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 02:38:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28501843749282274 |
+| Players | 2/10 |
+| Host Name | twilight |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 02:38:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28501843749363997 |
+| Players | 3/8 |
+| Host Name | ТАКИЕ ВЕЧЕРИНКИ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 02:38:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28501843748232588 |
+| Players | 7/8 |
+| Host Name | Swift Blink |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 02:37:04 |
 
 
 |  | epic_boss_fight_normal |
