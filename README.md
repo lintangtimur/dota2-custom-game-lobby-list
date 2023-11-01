@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843446737207 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Закерман |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:20:50 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843447900545 |
-| Players | 1/8 |
-| Host Name | таксист Магомед |
+| Lobby ID | 28501843447500449 |
+| Players | 4/8 |
+| Host Name | TonyMewntaNa! |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 1, 2023 22:21:33 |
+| Lobby Creation Time | Wednesday, November 1, 2023 22:21:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843436949561 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Not Emi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:14:48 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843444949182 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | CACHO CABROS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:19:43 |
@@ -167,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843447977276 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | чикиряу |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:21:36 |
@@ -175,11 +175,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843447500449 |
+| Lobby ID | 28501843448532545 |
 | Players | 3/8 |
-| Host Name | TonyMewntaNa! |
+| Host Name | Арбуз |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 22:21:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28501843448602602 |
+| Players | 1/8 |
+| Host Name | таксист Магомед |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 1, 2023 22:21:18 |
+| Lobby Creation Time | Wednesday, November 1, 2023 22:21:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28501843444647805 |
+| Players | 9/10 |
+| Host Name | Gym Parker |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 22:19:32 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -203,7 +221,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28501843436868667 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Сасаки |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:14:45 |
