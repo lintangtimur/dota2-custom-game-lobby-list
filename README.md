@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970813633565 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | КОРЕЙКА ДАША |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:57:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970813272139 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:57:23 |
@@ -56,6 +56,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 17:36:39 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970813993912 |
+| Players | 2/15 |
+| Host Name | Mayday Parade |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:58:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970814185290 |
+| Players | 1/15 |
+| Host Name | ватафак |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:58:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970814192568 |
+| Players | 4/15 |
+| Host Name | Собачий пояс по карате |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:58:19 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28500970719509879 |
@@ -68,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28500970810374714 |
-| Players | 3/5 |
+| Players | 1/5 |
 | Host Name | destuno |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:54:27 |
@@ -77,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970813777105 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | DajjalWannaFightWithMe ?!! |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:57:54 |
