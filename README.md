@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970669699831 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | Fitzcarraldo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:47:07 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970670642195 |
+| Lobby ID | 28500970670934437 |
 | Players | 1/8 |
-| Host Name | Саком раком |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:48:31 |
+| Host Name | nusuntgacijur~ |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:48:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -103,19 +103,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970670934437 |
+| Lobby ID | 28500970671063810 |
 | Players | 1/8 |
-| Host Name | nusuntgacijur~ |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:48:57 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28500970669807317 |
-| Players | 1/5 |
-| Host Name | Spirit Cock Sucker |
+| Host Name | Саком раком |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:47:17 |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:49:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970671097505 |
+| Players | 3/8 |
+| Host Name | reflection |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:49:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970671078182 |
+| Players | 1/15 |
+| Host Name | nothing错 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:49:10 |
 
 
