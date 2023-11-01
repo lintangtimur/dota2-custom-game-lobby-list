@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970719439711 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | клоун - дар |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:59:02 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970719472007 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | x^n+y^n=z^n |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:59:05 |
@@ -94,20 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970721124228 |
-| Players | 5/8 |
-| Host Name | ZeNtEx |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 16:01:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28500970721567154 |
 | Players | 1/8 |
 | Host Name | Максимка |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 16:02:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970721734605 |
+| Players | 1/15 |
+| Host Name | Coyote Starrk |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 16:02:14 |
 
 
 |  | epic_boss_fight_normal |
