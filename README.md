@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970711471968 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | forever |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:48:11 |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970711020011 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Liza_Solntseva |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:47:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970711914175 |
-| Players | 2/10 |
-| Host Name | my heart will leave you never |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:48:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970710441853 |
-| Players | 7/15 |
-| Host Name | Golly |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:46:47 |
 
 
 |  | ot3_gardens_duo |
@@ -90,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | zerg |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:48:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970710441853 |
+| Players | 7/15 |
+| Host Name | Golly |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:46:47 |
 
 
 |  | epic_boss_fight_nightmare |
