@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970601217222 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Tio Oruga |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:48:47 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970576298161 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | drowning |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 11:57:55 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970600743663 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | x^n+y^n=z^n |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:47:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970602285184 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Jonsey |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:50:56 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970593236420 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | ab1cd |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:32:46 |
@@ -99,23 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | seepeen |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:43:15 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970602756386 |
-| Players | 1/10 |
-| Host Name | Дрил Дядя |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:51:53 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28500970602757099 |
-| Players | 1/10 |
-| Host Name | GGКрекерок |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:51:53 |
 
 
