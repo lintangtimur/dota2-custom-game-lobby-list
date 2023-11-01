@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970703935868 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Xunse |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:37:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970704845531 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ★MMXVII |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:39:08 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Out man |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:39:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970705377841 |
-| Players | 2/10 |
-| Host Name | Toxic |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:39:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970703899844 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Noel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:37:52 |
