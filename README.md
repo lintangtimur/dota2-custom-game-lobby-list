@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970539563259 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | LOCO CHESS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:40:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970539408187 |
-| Players | 12/15 |
-| Host Name | Egotheist |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:40:38 |
+| Lobby ID | 28500970540192906 |
+| Players | 2/10 |
+| Host Name | помни♡ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:42:15 |
 
 
 |  | epic_boss_fight_challenger |
