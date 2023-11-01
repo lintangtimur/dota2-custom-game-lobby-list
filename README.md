@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970511780413 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | ...D3V1L... |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 09:44:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970523938868 |
-| Players | 4/8 |
-| Host Name | On The Grind |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:09:02 |
+| Lobby ID | 28500970524918559 |
+| Players | 5/10 |
+| Host Name | чемпик |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:11:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,18 +50,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970524661349 |
-| Players | 7/24 |
+| Players | 13/24 |
 | Host Name | BABY-ROSH (AL) |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:10:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970524663699 |
-| Players | 13/15 |
-| Host Name | 1322837 |
-| Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:10:31 |
 
 
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970522080166 |
-| Players | 24/24 |
+| Players | 23/24 |
 | Host Name | quacc |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:05:15 |
