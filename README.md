@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 14:35:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970661223412 |
-| Players | 8/10 |
-| Host Name | You will die |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:34:12 |
+| Lobby ID | 28500970663435634 |
+| Players | 2/15 |
+| Host Name | Fadealy |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:37:34 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970653963727 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | JUICY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:23:08 |
@@ -38,58 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 14:36:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970661950120 |
-| Players | 7/8 |
-| Host Name | qecode |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:35:19 |
+| Lobby ID | 28500970662943553 |
+| Players | 1/15 |
+| Host Name | Sweetie |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:36:49 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970662533153 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:36:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970663284187 |
-| Players | 1/15 |
-| Host Name | Fadealy |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:37:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970663247013 |
-| Players | 1/15 |
-| Host Name | ISFT |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:37:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970647573965 |
-| Players | 14/15 |
-| Host Name | you're my favorite pizza place |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:13:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970662943553 |
-| Players | 2/15 |
-| Host Name | Dranxzy |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:36:49 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,40 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 14:37:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970663170097 |
-| Players | 1/15 |
-| Host Name | manto enjoyer |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:37:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970663297003 |
-| Players | 1/15 |
-| Host Name | bersercer khorna |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:37:21 |
+| Lobby ID | 28500970663535819 |
+| Players | 1/8 |
+| Host Name | РЯДОВОЙ СЕКЕЛЬ |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:37:43 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970663297581 |
+| Lobby ID | 28500970663660312 |
 | Players | 1/8 |
-| Host Name | засолил огурчик |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:37:21 |
+| Host Name | I$uss |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:37:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970663293649 |
+| Lobby ID | 28500970663675827 |
 | Players | 1/15 |
-| Host Name | BP2022.cc |
+| Host Name | Kubick |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:37:21 |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:37:56 |
 
 
 |  | epic_boss_fight_normal |
@@ -162,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | vestnikovdenis55 |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:36:28 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28500970661573203 |
-| Players | 1/7 |
-| Host Name | 月战老兵 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:34:44 |
 
 
