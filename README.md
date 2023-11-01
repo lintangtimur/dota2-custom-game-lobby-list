@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970473961769 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Gabella |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:22:06 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970473119496 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | Andresx1x |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:20:19 |
@@ -41,46 +41,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970473216992 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Order of Melchizedek |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:20:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970473672124 |
-| Players | 3/10 |
-| Host Name | BLESS THIS MESS |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:21:29 |
+| Lobby ID | 28500970474155216 |
+| Players | 3/8 |
+| Host Name | BigBillzGetPaid |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:22:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970474337529 |
+| Players | 1/8 |
+| Host Name | ОСУЖДАЮ |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:22:53 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970473796508 |
+| Lobby ID | 28500970474385565 |
 | Players | 2/10 |
 | Host Name | Lamar |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:21:44 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28500970471938582 |
-| Players | 9/10 |
-| Host Name | MYB11RU |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:17:49 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28500970472228740 |
-| Players | 3/7 |
-| Host Name | сын шлюхи |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:18:26 |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:22:59 |
 
 
 |  | epic_boss_fight_hard |
@@ -90,5 +81,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Beautyyy |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:21:58 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28500970472228740 |
+| Players | 4/7 |
+| Host Name | сын шлюхи |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:18:26 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28500970474135690 |
+| Players | 2/10 |
+| Host Name | brook ブルック |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:22:27 |
 
 
