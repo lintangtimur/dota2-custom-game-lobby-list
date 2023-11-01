@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970692911170 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | ПерекисьВодорода |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:22:43 |
@@ -67,20 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970692351411 |
+| Lobby ID | 28500970693161329 |
 | Players | 1/15 |
 | Host Name | P O W E R |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:21:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970692997962 |
-| Players | 1/8 |
-| Host Name | charka025 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:22:51 |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:23:05 |
 
 
 |  | epic_boss_fight_normal |
@@ -113,27 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970690540701 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Vegabone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:19:24 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28500970693019428 |
-| Players | 2/5 |
-| Host Name | _Falcon_ |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:22:53 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28500970693020619 |
-| Players | 3/7 |
-| Host Name | pizdec |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:22:53 |
 
 
