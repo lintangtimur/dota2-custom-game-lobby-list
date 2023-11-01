@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970444634235 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | BLESS THIS MESS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:18:48 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970446297825 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | macxvii |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:22:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970445820935 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | no sound / ebawy |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:21:34 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970444867591 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Nimetal |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:19:21 |
@@ -112,11 +112,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970445033452 |
-| Players | 9/10 |
-| Host Name | NGR APEX RAT |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:19:45 |
+| Lobby ID | 28500970446437874 |
+| Players | 3/10 |
+| Host Name | mrph |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:22:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970446432988 |
+| Players | 1/24 |
+| Host Name | No Name |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:22:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -130,10 +139,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28500970446423532 |
+| Lobby ID | 28500970446509445 |
 | Players | 1/5 |
 | Host Name | Nano |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:22:56 |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:23:07 |
 
 
