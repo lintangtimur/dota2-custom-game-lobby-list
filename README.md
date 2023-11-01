@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970634607584 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Chechi boy smurf |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:51:44 |
@@ -65,12 +65,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 13:43:31 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970634847452 |
+| Players | 1/15 |
+| Host Name | Silence |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:52:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970634844717 |
+| Players | 1/24 |
+| Host Name | Movistar Perú |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:52:08 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28500970634346963 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | RODIPIT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:51:17 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28500970634826224 |
+| Players | 1/5 |
+| Host Name | Gray |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:52:06 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28500970634829696 |
+| Players | 1/10 |
+| Host Name | Munes |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:52:06 |
 
 
