@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341572968789 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Mo0nHunter |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 06:03:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843803149349 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | mis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 03:35:21 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341572220606 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Fitty_spenc |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 06:02:02 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341569955271 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | DragonBack |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 05:58:08 |
@@ -122,19 +122,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502341573088645 |
-| Players | 3/8 |
-| Host Name | CТЕНА |
+| Players | 4/8 |
+| Host Name | Похуй |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 06:03:32 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502341573290520 |
+| Lobby ID | 28502341573319515 |
 | Players | 2/10 |
-| Host Name | Purpollapoop |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 06:03:53 |
+| Host Name | x |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 06:03:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502341573314028 |
+| Players | 2/10 |
+| Host Name | в кабине Padalshchik |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 06:03:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502341573344324 |
+| Players | 1/10 |
+| Host Name | Eycca |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 06:03:58 |
 
 
 |  | epic_boss_fight_nightmare |
