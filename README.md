@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843313089883 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Your mom |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:00:30 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843314335601 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Murgath |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 21:01:16 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843276860330 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Elinbarrage |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:39:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843215934509 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | EPEEB |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:00:33 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 21:00:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28501843314979472 |
-| Players | 6/10 |
-| Host Name | Rengoku |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:01:40 |
+| Lobby ID | 28501843314433970 |
+| Players | 2/24 |
+| Host Name | no masteries |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:01:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843303320893 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | Jungle Week |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:54:40 |
@@ -103,38 +103,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843314665140 |
+| Lobby ID | 28501843315381280 |
+| Players | 3/8 |
+| Host Name | . |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:01:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28501843315480235 |
 | Players | 1/8 |
 | Host Name | ruiner |
 | Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:01:28 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28501843314433970 |
-| Players | 1/24 |
-| Host Name | no masteries |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:01:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28501843315277813 |
-| Players | 1/10 |
-| Host Name | I Love Low |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:01:51 |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:01:58 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843315301410 |
+| Lobby ID | 28501843315613759 |
 | Players | 1/15 |
 | Host Name | shik1r |
 | Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:01:52 |
+| Lobby Creation Time | Wednesday, November 1, 2023 21:02:03 |
 
 
 |  | epic_boss_fight_normal |
@@ -185,36 +176,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28501843297607820 |
-| Players | 2/7 |
+| Players | 1/7 |
 | Host Name | king jagvar |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 20:51:16 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28501843315165946 |
-| Players | 3/5 |
-| Host Name | Reizen |
-| Region | AUSTRIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:01:47 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28501843315239552 |
-| Players | 3/7 |
-| Host Name | Zannen |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 21:01:50 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28501843310262262 |
-| Players | 9/10 |
-| Host Name | Thunder Doggo |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 20:58:48 |
 
 
