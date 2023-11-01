@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970462917393 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | CN Dota,Bet Dota! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:58:43 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970472644008 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | vicjug |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:19:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970472349138 |
-| Players | 1/8 |
-| Host Name | isn't like holding to the center |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:18:42 |
+| Lobby ID | 28500970470942824 |
+| Players | 9/10 |
+| Host Name | "DIEGUIXZN//IS BACK" |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:15:42 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,25 +77,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970472412193 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 先生 X |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:18:50 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28500970472607325 |
-| Players | 1/24 |
-| Host Name | Order of Melchizedek |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:19:14 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970471938582 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | MYB11RU |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:17:49 |
