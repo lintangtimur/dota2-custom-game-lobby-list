@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843439400239 |
-| Players | 11/15 |
-| Host Name | JDM |
+| Lobby ID | 28501843438899416 |
+| Players | 7/8 |
+| Host Name | equilibrium |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 22:16:18 |
+| Lobby Creation Time | Wednesday, November 1, 2023 22:16:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843439848439 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | эминем |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:16:35 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843436949561 |
-| Players | 2/24 |
-| Host Name | -Voxz- |
+| Players | 1/24 |
+| Host Name | Sofia is Numba 1 gurl for me |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 22:14:48 |
 
@@ -146,22 +146,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 22:16:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843438398610 |
-| Players | 7/8 |
-| Host Name | Espada.NNR |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 1, 2023 22:15:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28501843438899416 |
-| Players | 5/8 |
-| Host Name | equilibrium |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 22:16:00 |
+| Lobby ID | 28501843440637377 |
+| Players | 4/10 |
+| Host Name | don't skip |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 22:17:03 |
 
 
 |  | epic_boss_fight_nightmare |
