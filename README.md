@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970668264456 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Shax |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:44:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970665270013 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Padoru |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:40:20 |
@@ -68,37 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970667346188 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Mikkolai.Bit米科 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:43:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970668211668 |
-| Players | 1/8 |
-| Host Name | I$uss |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:44:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970668273463 |
-| Players | 1/15 |
-| Host Name | Gangsta |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:44:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970665667917 |
-| Players | 7/8 |
-| Host Name | where is my mind |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:40:57 |
 
 
 |  | ot3_necropolis_ffa |
