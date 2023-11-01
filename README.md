@@ -33,24 +33,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28500970679415025 |
 | Players | 3/8 |
-| Host Name | ryo |
+| Host Name | Пригожин Женя |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:02:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970671308212 |
-| Players | 14/15 |
-| Host Name | Отчим Марси |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:49:31 |
+| Lobby ID | 28500970679544373 |
+| Players | 1/8 |
+| Host Name | JUANETO MAMANE QUESPE (TO PAPE) |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:02:22 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970678534440 |
-| Players | 4/15 |
+| Players | 11/15 |
 | Host Name | Liza_Solntseva |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:00:41 |
@@ -95,19 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970678283084 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | kto myaukaet |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:00:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970679544373 |
-| Players | 1/8 |
-| Host Name | JUANETO MAMANE QUESPE (TO PAPE) |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:02:22 |
+| Lobby ID | 28500970679731506 |
+| Players | 2/10 |
+| Host Name | You will die |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:02:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970679834677 |
+| Players | 1/15 |
+| Host Name | Ballin Colin |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:02:50 |
 
 
 |  | epic_boss_fight_normal |
