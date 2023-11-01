@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970611504956 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Mode : Demon !!! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:09:46 |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970613340314 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Elya |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:13:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970613506303 |
-| Players | 1/15 |
-| Host Name | Boris |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:13:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970613624557 |
-| Players | 2/8 |
-| Host Name | Champions_01 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:13:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -108,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | zxcлопата |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:13:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970613642193 |
-| Players | 1/15 |
-| Host Name | 羊驼家的羊 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:13:58 |
 
 
