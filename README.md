@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500281366023920 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | GrandMasterFeed |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 04:20:44 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970461382342 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | the easy way |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:55:27 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970459844814 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Purple Star |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:52:08 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970461424908 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | ☻CHOLA♥ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:55:32 |
@@ -74,24 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 07:55:33 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970461503191 |
-| Players | 1/8 |
-| Host Name | Drakalian the Dragon King |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:55:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970461542747 |
-| Players | 1/15 |
-| Host Name | Размножаев |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:55:47 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970461565214 |
@@ -103,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970461589786 |
-| Players | 3/15 |
-| Host Name | Анальные ласки |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:55:53 |
+| Lobby ID | 28500970461542747 |
+| Players | 1/15 |
+| Host Name | Размножаев |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:55:47 |
 
 
 |  | epic_boss_fight_challenger |
