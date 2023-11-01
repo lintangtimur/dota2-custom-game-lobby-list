@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970669449129 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | BMO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:46:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970680862858 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | 東方白 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:04:32 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970682825260 |
-| Players | 7/15 |
+| Players | 4/15 |
 | Host Name | ZayaEbash |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:07:40 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 15:06:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970682395552 |
-| Players | 4/10 |
-| Host Name | . |
+| Lobby ID | 28500970683136084 |
+| Players | 2/8 |
+| Host Name | Николай Дроздов |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:06:59 |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:08:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970671308212 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | ’Mr . Big |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:49:31 |
@@ -117,15 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Гнилая Скатина |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:08:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970683136084 |
-| Players | 1/8 |
-| Host Name | Николай Дроздов |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:08:10 |
 
 
 |  | epic_boss_fight_normal |
@@ -146,12 +137,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 15:05:24 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28500970683334621 |
+| Players | 3/10 |
+| Host Name | Miremo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:08:29 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28500970683395829 |
+| Players | 1/10 |
+| Host Name | Caesar_091 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:08:34 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28500970683223978 |
+| Lobby ID | 28500970683430992 |
 | Players | 1/5 |
-| Host Name | Laoz™ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:08:18 |
+| Host Name | RODIPIT |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:08:38 |
 
 
