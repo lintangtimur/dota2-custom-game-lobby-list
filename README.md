@@ -38,64 +38,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 14:10:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970645967174 |
-| Players | 7/8 |
-| Host Name | Love |
+| Lobby ID | 28500970646827622 |
+| Players | 2/15 |
+| Host Name | <chel>you</chel> |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:10:35 |
+| Lobby Creation Time | Wednesday, November 1, 2023 14:11:57 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970646778257 |
-| Players | 2/10 |
-| Host Name | агугу гага |
+| Players | 3/10 |
+| Host Name | Генка Насос |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:11:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28500970646789838 |
-| Players | 1/15 |
-| Host Name | SPIRIT BREAKER |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:11:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970646800320 |
-| Players | 1/10 |
-| Host Name | egoisto mode |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:11:54 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28500970634346963 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | RODIPIT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:51:17 |
 
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28500970644626258 |
-| Players | 2/7 |
-| Host Name | Kerry Copito |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 14:08:25 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970646535209 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | dasdas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 14:11:29 |
