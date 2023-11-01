@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500281366023920 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | GrandMasterFeed |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 1, 2023 04:20:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970485091280 |
-| Players | 1/24 |
-| Host Name | CN Dota,Bet Dota! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:45:50 |
+| Lobby ID | 28500970487648519 |
+| Players | 5/10 |
+| Host Name | Fruugu |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 08:51:21 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970487530498 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Tzi Pin Lin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:51:05 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970486731355 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | COCOBONGO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:49:21 |
@@ -41,37 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970486422552 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Chad Chadinson |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 08:48:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970487316914 |
-| Players | 3/8 |
-| Host Name | と戦うと戦う |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:50:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970486534347 |
-| Players | 1/8 |
-| Host Name | 离手鸳鸯刀 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:48:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970486838341 |
-| Players | 7/10 |
-| Host Name | Soy MUY PRO por eso me dan CACAS |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 08:49:35 |
 
 
 |  | epic_boss_fight_nightmare |
