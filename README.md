@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970841858182 |
-| Players | 4/24 |
+| Players | 9/24 |
 | Host Name | Ralph.KM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:24:07 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970842465748 |
-| Players | 6/15 |
-| Host Name | GRINGo |
+| Players | 11/15 |
+| Host Name | PLODOTVOR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:24:39 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970842758342 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | blur |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:24:55 |
@@ -112,11 +112,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970842882798 |
-| Players | 2/10 |
-| Host Name | ПАНАЦЕЯ |
+| Lobby ID | 28500970842985261 |
+| Players | 4/10 |
+| Host Name | chocoTako |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:25:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970843112350 |
+| Players | 3/8 |
+| Host Name | сырая пися |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:25:02 |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:25:14 |
 
 
 |  | epic_boss_fight_normal |
@@ -131,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970841305923 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Aight, Bet! |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:23:38 |
@@ -140,18 +149,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28500970842654595 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Vincenzo Cassano |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:24:50 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28500970842908957 |
-| Players | 1/10 |
-| Host Name | under |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:25:03 |
 
 
