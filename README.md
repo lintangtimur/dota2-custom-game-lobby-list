@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843687772827 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | M4SS4CR3 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 01:38:33 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843687804165 |
-| Players | 6/10 |
-| Host Name | каловая масса |
+| Players | 9/10 |
+| Host Name | Mαƒµyµ |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 01:38:35 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843690244922 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | El low me hizo reflexionar |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 01:40:52 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843692226353 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | Dr. Strange where rampage |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 01:42:43 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843668831457 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 743676342679754268098786545 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 2, 2023 01:20:41 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843693295553 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | D1sappo1ntment |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 01:43:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28501843690684285 |
-| Players | 1/15 |
-| Host Name | jao shi |
+| Lobby ID | 28501843693734130 |
+| Players | 1/10 |
+| Host Name | CEO |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 01:41:17 |
+| Lobby Creation Time | Thursday, November 2, 2023 01:44:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -123,7 +123,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28501843687693315 |
 | Players | 1/15 |
-| Host Name | Кирилл Буданов |
+| Host Name | myron |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 01:38:29 |
 
@@ -137,13 +137,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 01:42:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843691960802 |
-| Players | 6/10 |
-| Host Name | Дуд или Dude? |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 01:42:28 |
+| Lobby ID | 28501843693509701 |
+| Players | 1/8 |
+| Host Name | крутышка |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 01:43:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -157,17 +157,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843693509701 |
-| Players | 1/8 |
-| Host Name | крутышка |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 01:43:56 |
+| Lobby ID | 28501843693677041 |
+| Players | 3/8 |
+| Host Name | Angel-a |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 01:44:05 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28501843689938777 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | yorichi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 01:40:35 |
@@ -176,9 +176,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28501843692936426 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Booberries |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 01:43:24 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28501843693687634 |
+| Players | 1/5 |
+| Host Name | 412353216546474567343 |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 01:44:06 |
 
 
