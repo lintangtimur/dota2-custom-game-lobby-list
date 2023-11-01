@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502341603068119 |
-| Players | 3/8 |
-| Host Name | Ｓｏｈｅｅ |
+| Players | 6/8 |
+| Host Name | Rousseau |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 06:57:54 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341603110105 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | zer0.k |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 06:57:59 |
@@ -85,20 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502341603143135 |
-| Players | 1/8 |
-| Host Name | Viola Ray |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 06:58:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502341603180572 |
-| Players | 1/8 |
-| Host Name | nol' |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 06:58:07 |
+| Lobby ID | 28502341603184534 |
+| Players | 4/8 |
+| Host Name | radagastr666 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 06:58:08 |
 
 
 |  | epic_boss_fight_nightmare |
