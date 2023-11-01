@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28501843801648473 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Kukurudza Striptizerka |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 03:33:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28501843801711959 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | JDM |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 03:33:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843722767308 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | . |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 02:12:02 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28501843801797259 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Vezia |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 03:33:52 |
@@ -119,13 +119,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 03:32:20 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28501843802098439 |
+| Players | 2/10 |
+| Host Name | такси яндекс? |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 03:34:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28501843802193078 |
+| Players | 2/10 |
+| Host Name | Z |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 03:34:18 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28501843802031648 |
+| Lobby ID | 28501843802223338 |
 | Players | 1/8 |
-| Host Name | 21 |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 03:34:08 |
+| Host Name | Solo estoy pasando el rato |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 03:34:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,15 +162,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | iDestik |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 03:32:07 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28501843801667708 |
-| Players | 1/10 |
-| Host Name | u wanna play with me? |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 03:33:44 |
 
 
 |  | epic_boss_fight_normal |
