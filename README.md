@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970462532571 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | ダークドット2 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:57:53 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970461542747 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Размножаев |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:55:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970461911584 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 离手鸳鸯刀 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:56:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970460719649 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ... |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:54:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970462319751 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | EJ-Smill3 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:57:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970461928837 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | not quite my tempo |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 07:56:37 |
@@ -76,11 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970462562060 |
-| Players | 1/15 |
-| Host Name | CAPYBARA 3MIL |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 07:57:57 |
+| Lobby ID | 28500970462609765 |
+| Players | 2/15 |
+| Host Name | D.NothingToSay萧瑟 |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:58:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970462629456 |
+| Players | 1/24 |
+| Host Name | Coria |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 1, 2023 07:58:06 |
 
 
 |  | epic_boss_fight_challenger |
