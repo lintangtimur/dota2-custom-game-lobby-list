@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970709413776 |
-| Players | 1/8 |
-| Host Name | АБОБА |
+| Players | 3/8 |
+| Host Name | Твои зелёные глаза |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:45:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970707781887 |
-| Players | 14/15 |
-| Host Name | MidoriNoTori |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 15:43:09 |
+| Lobby ID | 28500970709995604 |
+| Players | 1/10 |
+| Host Name | ПРЯНЯ |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:46:10 |
 
 
 |  | ot3_desert_octet |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | average beer enjoyer |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 15:46:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970710039296 |
+| Players | 1/15 |
+| Host Name | . balmain jeans fit like this |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 1, 2023 15:46:13 |
 
 
 |  | epic_boss_fight_nightmare |
