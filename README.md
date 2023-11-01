@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970626776273 |
-| Players | 11/24 |
+| Players | 20/24 |
 | Host Name | 无限意识 &性交前抽烟 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:38:08 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970627369512 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | I$uss |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:39:11 |
@@ -56,31 +56,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 13:38:32 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970628856101 |
-| Players | 7/8 |
-| Host Name | nissinwafer |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:41:47 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970627362441 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | CHOLITO MISIO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 13:39:10 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970629398310 |
+| Players | 4/8 |
+| Host Name | ion |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:42:44 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970628998773 |
-| Players | 2/15 |
-| Host Name | carne de cañón |
+| Lobby ID | 28500970629403118 |
+| Players | 1/15 |
+| Host Name | ’Mr . Big |
 | Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 13:42:02 |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:42:44 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970629439991 |
+| Players | 2/24 |
+| Host Name | eggsandwich |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:42:48 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28500970629436765 |
+| Players | 1/24 |
+| Host Name | JESUS |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 13:42:48 |
 
 
 |  | epic_boss_fight_nightmare |
