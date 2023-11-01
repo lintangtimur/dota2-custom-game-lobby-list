@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502341600435416 |
-| Players | 1/24 |
-| Host Name | YaMa |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 06:52:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502341597387531 |
-| Players | 12/15 |
-| Host Name | Dan |
+| Lobby ID | 28502341599178933 |
+| Players | 6/10 |
+| Host Name | SHAKAツ |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 06:47:04 |
+| Lobby Creation Time | Thursday, November 2, 2023 06:50:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502341599586037 |
+| Players | 1/8 |
+| Host Name | Moodnight |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 06:51:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,58 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 06:52:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502341599955238 |
-| Players | 5/8 |
-| Host Name | Gream_rip |
+| Lobby ID | 28502341599327056 |
+| Players | 8/10 |
+| Host Name | nlt |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 06:51:59 |
+| Lobby Creation Time | Thursday, November 2, 2023 06:50:47 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341599972741 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | MAIQ HUASOSQI |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 06:52:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502341599930724 |
-| Players | 1/10 |
-| Host Name | Silent |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 06:51:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502341599740608 |
-| Players | 11/15 |
-| Host Name | [heat][wave] |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 06:51:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502341599178933 |
-| Players | 4/10 |
-| Host Name | SHAKAツ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 06:50:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502341599586037 |
-| Players | 1/8 |
-| Host Name | Moodnight |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 06:51:17 |
 
 
 |  | epic_boss_fight_nightmare |
