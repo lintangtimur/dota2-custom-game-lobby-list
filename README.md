@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970521644234 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | ♪KEMPER♪ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:04:22 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970520126274 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | jimmy butler haircut of dota |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:01:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970521319192 |
-| Players | 6/8 |
-| Host Name | DEIGO |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 10:03:42 |
+| Lobby ID | 28500970522028181 |
+| Players | 1/10 |
+| Host Name | Aggressive Koala |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:05:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,6 +81,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Yello |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 10:03:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970522037080 |
+| Players | 2/8 |
+| Host Name | Hello World |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:05:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970522043708 |
+| Players | 1/8 |
+| Host Name | Hope |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:05:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28500970522045665 |
+| Players | 1/15 |
+| Host Name | Egotheist |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 1, 2023 10:05:11 |
 
 
 |  | epic_boss_fight_nightmare |
