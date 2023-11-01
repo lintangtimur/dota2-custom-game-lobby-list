@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28500970816583079 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | чикиряу |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 18:00:43 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970812246740 |
+| Lobby ID | 28500970816801009 |
 | Players | 1/8 |
-| Host Name | Беды с башкой |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:56:21 |
+| Host Name | six hundred and six hundred six |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:00:56 |
 
 
 |  | ot3_gardens_duo |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970815519874 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | BootyHunter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:59:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970816307509 |
-| Players | 5/8 |
-| Host Name | Rashomon |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:00:26 |
+| Lobby ID | 28500970816571585 |
+| Players | 1/10 |
+| Host Name | NARBERAL GAMA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:00:42 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 18:00:35 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28500970816571585 |
-| Players | 1/10 |
-| Host Name | NARBERAL GAMA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 18:00:42 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28500970719509879 |
@@ -108,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DajjalWannaFightWithMe ?!! |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:57:54 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28500970816859588 |
+| Players | 2/5 |
+| Host Name | 𓆩Ħⱥīꞩēꞥ𓆪 |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 1, 2023 18:00:59 |
 
 
