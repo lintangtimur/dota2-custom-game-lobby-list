@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970790023819 |
-| Players | 7/15 |
+| Players | 2/15 |
 | Host Name | eboshing |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:32:43 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970790347948 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Shawn Oakman |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:33:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970792896100 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Oversea Sexy Guy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:35:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970792691045 |
-| Players | 1/15 |
+| Players | 10/15 |
 | Host Name | coup de grâce 力 |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:35:44 |
@@ -76,47 +76,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970792389893 |
+| Lobby ID | 28500970793122614 |
 | Players | 1/8 |
-| Host Name | Paradise |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:35:24 |
+| Host Name | Jim |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:36:13 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28500970792560762 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | 65daysofstatic |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:35:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970792666296 |
-| Players | 10/15 |
-| Host Name | Lala♥ |
+| Lobby ID | 28500970793127749 |
+| Players | 1/8 |
+| Host Name | Paradise |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:35:42 |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:36:13 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28500970792989720 |
+| Lobby ID | 28500970793192775 |
 | Players | 1/15 |
-| Host Name | Nemro |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:36:04 |
+| Host Name | Dr. Strange where rampage |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:36:18 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28500970793030348 |
-| Players | 2/10 |
-| Host Name | Izana |
+| Lobby ID | 28500970793192830 |
+| Players | 1/10 |
+| Host Name | k1dnapper |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:36:07 |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:36:18 |
 
 
 |  | epic_boss_fight_normal |
