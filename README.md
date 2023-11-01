@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970601217222 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Tio Oruga |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:48:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970601309940 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Ray |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:48:59 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 1, 2023 12:47:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970601137562 |
-| Players | 14/15 |
-| Host Name | Elya |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 1, 2023 12:48:38 |
+| Lobby ID | 28500970601899076 |
+| Players | 4/8 |
+| Host Name | nonseses |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:50:09 |
 
 
 |  | ot3_desert_octet |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | -ScripT: |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 1, 2023 12:49:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28500970601936947 |
+| Players | 6/8 |
+| Host Name | Señor de la noche |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 12:50:14 |
 
 
 |  | epic_boss_fight_nightmare |
