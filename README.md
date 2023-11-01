@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28500970792896100 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | Oversea Sexy Guy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:35:57 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970793444594 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | Jim |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:36:34 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28500970793127749 |
+| Lobby ID | 28500970793902704 |
 | Players | 1/8 |
-| Host Name | Paradise |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:36:13 |
+| Host Name | FOTTYX |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:37:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28500970793614968 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | KennyKey |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 1, 2023 17:36:46 |
@@ -121,20 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28500970793885887 |
+| Lobby ID | 28500970794043314 |
 | Players | 1/24 |
 | Host Name | alohadance |
 | Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:37:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28500970793902704 |
-| Players | 1/8 |
-| Host Name | FOTTYX |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 1, 2023 17:37:05 |
+| Lobby Creation Time | Wednesday, November 1, 2023 17:37:14 |
 
 
 |  | epic_boss_fight_normal |
