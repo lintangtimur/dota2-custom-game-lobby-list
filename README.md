@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843803149349 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | mis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 03:35:21 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 06:17:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502341617579550 |
-| Players | 2/8 |
-| Host Name | Людмила Петровна |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 07:27:08 |
+| Lobby ID | 28502341617623091 |
+| Players | 2/10 |
+| Host Name | GAAAAAA |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 07:27:13 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341616457870 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | Paneton |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 07:24:53 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341617348049 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Rupicola |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 07:26:39 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341616273807 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | JAustin |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 07:24:31 |
@@ -103,11 +103,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502341617562206 |
-| Players | 5/15 |
-| Host Name | ONE MORE |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 07:27:05 |
+| Lobby ID | 28502341617135597 |
+| Players | 14/15 |
+| Host Name | LOVE_yandere |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 07:26:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502341617616020 |
+| Players | 1/10 |
+| Host Name | Moises |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 07:27:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502341617622186 |
+| Players | 1/15 |
+| Host Name | Great Admiral of Mongol Empire |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 07:27:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502341617682940 |
+| Players | 2/8 |
+| Host Name | Людмила Петровна |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 07:27:20 |
 
 
 |  | epic_boss_fight_nightmare |
