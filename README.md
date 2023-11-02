@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367815424049 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | султан |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 04:08:00 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367814315912 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | merenge |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 04:06:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367784895976 |
-| Players | 12/24 |
+| Players | 9/24 |
 | Host Name | RiftBreaker |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 03:33:06 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367814091713 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | DAY 1.0 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 04:06:24 |
@@ -104,19 +104,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367816231369 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | nyashka nikitka |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 04:08:57 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367816417677 |
+| Players | 1/8 |
+| Host Name | isn't like holding to the center |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 04:09:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367816423150 |
+| Players | 3/8 |
+| Host Name | travis cock |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 04:09:11 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367816337707 |
+| Lobby ID | 28503367816476491 |
 | Players | 1/15 |
-| Host Name | POДHIЧKOBИЙ ДИBEPCAHT |
+| Host Name | FROD |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:09:05 |
+| Lobby Creation Time | Friday, November 3, 2023 04:09:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367816518448 |
+| Players | 1/15 |
+| Host Name | samm- |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 04:09:18 |
 
 
 |  | epic_boss_fight_challenger |
