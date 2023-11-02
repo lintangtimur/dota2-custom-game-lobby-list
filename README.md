@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502341624292681 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | bodak |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 07:40:26 |
@@ -20,10 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 07:51:13 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575257185499 |
+| Players | 1/10 |
+| Host Name | にこ |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 07:51:59 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575252087279 |
-| Players | 15/15 |
+| Players | 14/15 |
 | Host Name | Tuxon |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 07:46:31 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575256715116 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Odinn |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 07:51:21 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341626161154 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | CEPILLIN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 07:44:05 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341625375645 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | ♥Miul♥ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 07:42:33 |
@@ -76,19 +85,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575257156944 |
+| Lobby ID | 28502575257239141 |
 | Players | 1/24 |
-| Host Name | EG.ReGinleif |
+| Host Name | DAN |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 07:51:57 |
+| Lobby Creation Time | Thursday, November 2, 2023 07:52:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575257245104 |
+| Players | 1/15 |
+| Host Name | Carrying more animals than Noah |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 07:52:05 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575257158797 |
+| Lobby ID | 28502575257268451 |
 | Players | 2/10 |
 | Host Name | -Gowther |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 07:51:57 |
+| Lobby Creation Time | Thursday, November 2, 2023 07:52:07 |
 
 
