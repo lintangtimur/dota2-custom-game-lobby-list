@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575294965173 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | 1 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:02:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575270714370 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | JoeShiesty |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 08:15:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575293945972 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | You were nothing but a usurper |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:00:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575295351407 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | GATTSU |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:03:29 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575294592914 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | vicjug |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 09:01:52 |
@@ -74,21 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:02:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575295077411 |
-| Players | 5/8 |
-| Host Name | MasonLayble |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 09:02:55 |
+| Lobby ID | 28502575294515338 |
+| Players | 9/10 |
+| Host Name | macxvii |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 09:01:42 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575295340782 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:03:28 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575293889036 |
+| Players | 23/24 |
+| Host Name | YaMa |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 09:00:21 |
 
 
