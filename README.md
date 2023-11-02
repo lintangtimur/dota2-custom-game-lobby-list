@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575303891210 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | appreciate life |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:20:37 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575303973871 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Muy Malo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:20:46 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575302879464 |
-| Players | 13/15 |
-| Host Name | Waal._ |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 09:18:39 |
+| Lobby ID | 28502575304384620 |
+| Players | 3/15 |
+| Host Name | DIOzawr |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 09:21:33 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575303725671 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | CHAD NORRIZ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:20:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575303839589 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Vάιŝ♡√•∆ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:20:31 |
@@ -68,18 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575303762774 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | MODO ELDEN LORD |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:20:22 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575304475941 |
+| Players | 3/10 |
+| Host Name | Ajr |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 09:21:44 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575304334666 |
+| Lobby ID | 28502575304540713 |
 | Players | 1/8 |
 | Host Name | On The Grind |
 | Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 09:21:27 |
+| Lobby Creation Time | Thursday, November 2, 2023 09:21:51 |
 
 
