@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575456925770 |
+| Lobby ID | 28502575461009813 |
 | Players | 1/10 |
-| Host Name | nthnl |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 13:35:50 |
+| Host Name | ἱεγλύ |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 13:42:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -49,11 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575461009813 |
+| Lobby ID | 28502575461138882 |
 | Players | 1/10 |
-| Host Name | ἱεγλύ |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 13:42:02 |
+| Host Name | UnguViolet |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 13:42:14 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575461210484 |
+| Players | 1/10 |
+| Host Name | Fluffy Potato Skin |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 13:42:20 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575460765797 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Reddy |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 13:41:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575446811565 |
-| Players | 7/8 |
-| Host Name | waiting for death |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 13:19:57 |
+| Lobby ID | 28502575461077923 |
+| Players | 1/15 |
+| Host Name | 異體字爲為为畫畵画線 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 13:42:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -108,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | スモークベア |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 13:42:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575461077923 |
-| Players | 1/15 |
-| Host Name | 異體字爲為为畫畵画線 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 13:42:08 |
 
 
