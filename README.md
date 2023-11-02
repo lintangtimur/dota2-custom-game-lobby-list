@@ -4,15 +4,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575341632058 |
-| Players | 8/10 |
-| Host Name | González Pérez |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 10:27:14 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28502575342773724 |
 | Players | 1/10 |
 | Host Name | Çħίℓℓ |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575339937151 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | j |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:24:17 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575342551479 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | Cotoro en la offlane |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 10:28:51 |
@@ -90,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | tu culo es mi palacio |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:28:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575341144723 |
-| Players | 7/10 |
-| Host Name | Mangudai |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:26:23 |
 
 
