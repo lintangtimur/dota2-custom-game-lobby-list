@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575624762476 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | мя. кing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:11:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575625237142 |
-| Players | 7/8 |
+| Players | 8/8 |
 | Host Name | Missing you happiness |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 17:11:57 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575625553474 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | /[GoD]\ crystallime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 17:12:18 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575625459722 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | · |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 17:12:12 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575625105133 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | BYVSHIY HATER RLARLA |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 17:11:48 |
@@ -135,5 +135,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Дімка українець |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:11:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575626243586 |
+| Players | 1/10 |
+| Host Name | Lunaria |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 17:13:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575626254949 |
+| Players | 1/15 |
+| Host Name | Zephyrus |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 17:13:05 |
 
 
