@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575370280830 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | STFU |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:18:37 |
@@ -29,10 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 11:19:05 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575372148539 |
+| Players | 1/5 |
+| Host Name | inadequate |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 11:21:55 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575367246819 |
-| Players | 9/24 |
+| Players | 7/24 |
 | Host Name | Sirlagsalot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:13:10 |
@@ -40,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575371582164 |
-| Players | 1/10 |
-| Host Name | 7 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 11:20:56 |
+| Lobby ID | 28502575371951547 |
+| Players | 2/10 |
+| Host Name | DANICH |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 11:21:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,57 +74,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575368188345 |
-| Players | 9/10 |
-| Host Name | DANICH |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 11:14:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575368604908 |
-| Players | 9/10 |
-| Host Name | Tucan Mistico :v |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 11:15:35 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575370578823 |
-| Players | 14/24 |
-| Host Name | miserable |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 11:19:09 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575371739322 |
+| Lobby ID | 28502575371962670 |
 | Players | 1/8 |
-| Host Name | ухажёр |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 11:21:13 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575371739025 |
-| Players | 1/15 |
-| Host Name | TOPSON |
+| Host Name | Conchito Coimero |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 11:21:13 |
+| Lobby Creation Time | Thursday, November 2, 2023 11:21:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575371814173 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | Avena 3 OSITOS |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:21:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575371739322 |
+| Players | 2/8 |
+| Host Name | ухажёр |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 11:21:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575372139070 |
+| Players | 1/8 |
+| Host Name | Estafador |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 11:21:54 |
 
 
