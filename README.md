@@ -2,10 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575299670139 |
+| Players | 1/10 |
+| Host Name | Lux |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 09:12:22 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575297605248 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | poppl |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 09:08:15 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575298882623 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Sin.Bryan[HotDog] |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 09:10:50 |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575299366613 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | PUCP, 3er año, Ing, pepin |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:11:46 |
