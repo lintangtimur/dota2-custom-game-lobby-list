@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575658528602 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Faerie Dragon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:45:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575650880234 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | Я НЕ ВЫИГРЫВАЮ |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 17:38:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575659083948 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Maglan |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 17:46:27 |
@@ -83,24 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:47:44 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575660441113 |
-| Players | 12/15 |
-| Host Name | SpiritMoon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:47:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575660552864 |
-| Players | 4/15 |
-| Host Name | Elya |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 17:47:49 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575660710971 |
@@ -112,10 +94,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575657556344 |
-| Players | 14/15 |
-| Host Name | Остеохардбасс |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 17:45:01 |
+| Lobby ID | 28502575660552864 |
+| Players | 5/15 |
+| Host Name | Elya |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 17:47:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575660913075 |
+| Players | 3/8 |
+| Host Name | 火神大我 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 17:48:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575660930852 |
+| Players | 1/8 |
+| Host Name | Missing you happiness |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 17:48:10 |
 
 
