@@ -29,6 +29,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:06:25 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575523231315 |
+| Players | 1/10 |
+| Host Name | Lestat |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 15:07:07 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
@@ -65,21 +74,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:03:19 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575522102227 |
-| Players | 9/10 |
-| Host Name | NT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 15:05:32 |
+| Lobby ID | 28502575523161816 |
+| Players | 2/8 |
+| Host Name | Lorden |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 15:07:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575523091063 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | // |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 15:06:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575523221404 |
+| Players | 4/8 |
+| Host Name | I already knew |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 15:07:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575523225448 |
+| Players | 1/8 |
+| Host Name | Wolfram |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 15:07:06 |
 
 
