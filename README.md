@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575277965462 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | ShazaM |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:29:27 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28501843803149349 |
-| Players | 23/24 |
-| Host Name | Mak Banteng Penguasa |
+| Lobby ID | 28502575278906121 |
+| Players | 1/15 |
+| Host Name | A |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 03:35:21 |
+| Lobby Creation Time | Thursday, November 2, 2023 08:31:12 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575278426562 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | C10H15N |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 08:30:20 |
@@ -86,36 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575277689102 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | Tabarnak de câlisse |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 08:28:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575278884602 |
-| Players | 1/10 |
-| Host Name | GraF044 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 08:31:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575278898912 |
-| Players | 1/8 |
-| Host Name | Mr. WOZ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 08:31:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575278902669 |
-| Players | 1/15 |
-| Host Name | $$$ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 08:31:12 |
 
 
