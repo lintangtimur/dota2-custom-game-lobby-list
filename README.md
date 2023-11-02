@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575567533116 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | waiting for death |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 16:03:54 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575569275155 |
-| Players | 3/15 |
-| Host Name | 34 |
+| Players | 2/15 |
+| Host Name | The Dead of Marshes |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 16:06:00 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575559254910 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | JESUS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 15:53:48 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575567354294 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Great Admiral of Mongol Empire |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 16:03:41 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 16:06:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575569542356 |
-| Players | 9/15 |
-| Host Name | Утюг 64 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 16:06:19 |
+| Lobby ID | 28502575570206576 |
+| Players | 1/10 |
+| Host Name | шея в петле |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 16:07:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,9 +113,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575569821406 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | НЕдушнила |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 16:06:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575570238844 |
+| Players | 2/10 |
+| Host Name | hinno |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 16:07:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575570248735 |
+| Players | 1/8 |
+| Host Name | Odinn |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 16:07:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575570244634 |
+| Players | 1/10 |
+| Host Name | Blackout |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 16:07:09 |
 
 
