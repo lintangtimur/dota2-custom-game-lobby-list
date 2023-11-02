@@ -11,22 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:33:40 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28502575649420443 |
-| Players | 1/7 |
+| Lobby ID | 28502575649549547 |
+| Players | 1/5 |
 | Host Name | LilBozZ |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 17:37:15 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575649432920 |
-| Players | 1/10 |
-| Host Name | NikEng |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:37:15 |
+| Lobby Creation Time | Thursday, November 2, 2023 17:37:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575648483221 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | SUS Egorio 777 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 2, 2023 17:36:19 |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575648366366 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | . |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 2, 2023 17:36:12 |
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575648394998 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | fate/ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:36:14 |
@@ -140,18 +131,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575649170018 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | молодой стручо |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:37:00 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575649539587 |
+| Players | 1/15 |
+| Host Name | Dragon |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 17:37:22 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575649403793 |
-| Players | 2/8 |
-| Host Name | гейский гей |
+| Lobby ID | 28502575649592153 |
+| Players | 1/8 |
+| Host Name | АБОБА |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 17:37:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575649592644 |
+| Players | 1/8 |
+| Host Name | klodminet |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:37:14 |
+| Lobby Creation Time | Thursday, November 2, 2023 17:37:25 |
 
 
