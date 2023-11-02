@@ -83,21 +83,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:09:27 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575523864419 |
-| Players | 22/24 |
-| Host Name | Makson! sw3g. |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 15:07:59 |
+| Lobby ID | 28502575526201774 |
+| Players | 1/10 |
+| Host Name | ошихитэо шихитэо |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 15:11:12 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575526174601 |
+| Lobby ID | 28502575526256666 |
 | Players | 1/8 |
 | Host Name | 111 |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 15:11:10 |
+| Lobby Creation Time | Thursday, November 2, 2023 15:11:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575526311484 |
+| Players | 1/15 |
+| Host Name | arashi' |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 15:11:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575526311868 |
+| Players | 1/15 |
+| Host Name | Byratino |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 15:11:21 |
 
 
