@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575437013489 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Solo estoy pasando el rato |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 13:03:24 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575437316608 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | g32apex |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:03:55 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575432089024 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | **__An1nh4_++_Tr3v0s4__** |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:55:26 |
@@ -103,19 +103,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575437417415 |
-| Players | 9/10 |
-| Host Name | Beryllium |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 13:04:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28502575439535479 |
 | Players | 1/10 |
 | Host Name | rdn* |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 13:07:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575439714339 |
+| Players | 6/15 |
+| Host Name | THinc |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 13:08:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575438583480 |
+| Players | 9/10 |
+| Host Name | Lunaria |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 13:06:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575439746652 |
+| Players | 1/10 |
+| Host Name | 私を救う |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 13:08:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575439755392 |
+| Players | 3/15 |
+| Host Name | aki |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 13:08:09 |
 
 
