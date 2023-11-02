@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503367874049647 |
-| Players | 3/8 |
-| Host Name | БОРЯ комфортик |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:28:26 |
+| Lobby ID | 28503367873638719 |
+| Players | 13/24 |
+| Host Name | Phantom_ |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 05:27:48 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367803026993 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | arda89 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 03:53:26 |
@@ -41,91 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367873153687 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | merenge |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 05:27:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367873483759 |
-| Players | 7/10 |
-| Host Name | Christian "El gordo" Cueva |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 05:27:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503367866923559 |
-| Players | 5/15 |
-| Host Name | Silver |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 3, 2023 05:17:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503367874203128 |
-| Players | 1/8 |
-| Host Name | Ichigo Kurasaki |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 3, 2023 05:28:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367874008880 |
-| Players | 8/10 |
-| Host Name | RavenShadow |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 05:28:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503367874585408 |
-| Players | 1/15 |
-| Host Name | ban |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:29:15 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367872812983 |
-| Players | 1/10 |
-| Host Name | Aggressive Koala |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 05:26:33 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503367873845133 |
-| Players | 1/24 |
-| Host Name | Nekisito lindo |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 05:28:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503367873638719 |
-| Players | 7/24 |
-| Host Name | Phantom_ |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 05:27:48 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503367866730659 |
-| Players | 13/24 |
-| Host Name | CorosionaL DamagE |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 05:17:13 |
 
 
 |  | ot3_jungle_quintet |
@@ -137,6 +56,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 05:29:00 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503367872812983 |
+| Players | 7/10 |
+| Host Name | Aggressive Koala |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 05:26:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367874203128 |
+| Players | 1/8 |
+| Host Name | Ichigo Kurasaki |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 3, 2023 05:28:40 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367874221609 |
@@ -144,6 +81,69 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | mode: JimPark |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 05:28:42 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503367866730659 |
+| Players | 20/24 |
+| Host Name | CorosionaL DamagE |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 05:17:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367874922012 |
+| Players | 1/15 |
+| Host Name | Squish (blind cat) |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 05:29:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367874876383 |
+| Players | 1/15 |
+| Host Name | KRiS |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 05:29:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367875028098 |
+| Players | 3/15 |
+| Host Name | Виктор Лесоруб |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 05:29:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367874935249 |
+| Players | 1/15 |
+| Host Name | Plahish |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 05:29:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367874966177 |
+| Players | 1/15 |
+| Host Name | Трусы Пригожина |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 05:29:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367874836362 |
+| Players | 1/8 |
+| Host Name | Layman |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 05:29:38 |
 
 
 |  | epic_boss_fight_nightmare |
