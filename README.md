@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28502575777204613 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 19:16:56 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575787276981 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | Satoru Gojo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 19:23:30 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575785170594 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Anantherzine-無盡的 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 19:22:08 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575787498431 |
-| Players | 5/8 |
-| Host Name | rof1er |
+| Lobby ID | 28502575787870583 |
+| Players | 1/8 |
+| Host Name | Jmaster210 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 19:23:38 |
+| Lobby Creation Time | Thursday, November 2, 2023 19:23:53 |
 
 
 |  | ot3_jungle_quintet |
@@ -121,37 +121,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575786991898 |
-| Players | 1/15 |
-| Host Name | empathy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 19:23:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575787099794 |
-| Players | 1/8 |
-| Host Name | iriya |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 19:23:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575787870583 |
-| Players | 1/8 |
-| Host Name | Jmaster210 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 19:23:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575788005145 |
-| Players | 1/8 |
-| Host Name | lemme win fellas |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 2, 2023 19:23:58 |
+| Lobby ID | 28502575784313791 |
+| Players | 14/15 |
+| Host Name | 你说你装什么B呢 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 19:21:35 |
 
 
