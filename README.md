@@ -29,22 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 11:19:05 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575371672759 |
-| Players | 1/5 |
-| Host Name | inadequate |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 11:21:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575371229225 |
-| Players | 14/15 |
-| Host Name | 8 SEMANAS PARA NAVIDAD |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 11:20:19 |
+| Lobby ID | 28502575367246819 |
+| Players | 9/24 |
+| Host Name | Sirlagsalot |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 11:13:10 |
 
 
 |  | ot3_gardens_duo |
@@ -76,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575370047256 |
-| Players | 7/10 |
-| Host Name | "DIEGUIXZN//IS BACK" |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 11:18:12 |
+| Lobby ID | 28502575368188345 |
+| Players | 9/10 |
+| Host Name | DANICH |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 11:14:49 |
 
 
 |  | ot3_gardens_duo |
@@ -95,18 +86,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575370578823 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | miserable |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:19:09 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575371739322 |
+| Players | 1/8 |
+| Host Name | ухажёр |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 11:21:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575371739025 |
+| Players | 1/15 |
+| Host Name | TOPSON |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 11:21:13 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575367246819 |
-| Players | 8/24 |
-| Host Name | Sirlagsalot |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 11:13:10 |
+| Lobby ID | 28502575371814173 |
+| Players | 1/24 |
+| Host Name | Avena 3 OSITOS |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 11:21:21 |
 
 
