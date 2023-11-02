@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28502575649549547 |
-| Players | 1/5 |
+| Lobby ID | 28502575651563704 |
+| Players | 2/5 |
 | Host Name | LilBozZ |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 17:37:22 |
+| Lobby Creation Time | Thursday, November 2, 2023 17:39:19 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:20:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575649592153 |
-| Players | 1/8 |
-| Host Name | АБОБА |
+| Lobby ID | 28502575650047448 |
+| Players | 15/15 |
+| Host Name | ДаША 16 лЕт ПоШлАЯ |
 | Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 17:37:25 |
+| Lobby Creation Time | Thursday, November 2, 2023 17:37:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575650329789 |
-| Players | 3/10 |
-| Host Name | zxc |
+| Players | 1/10 |
+| Host Name | UultamatI.RP |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 17:38:08 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575650400236 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | gglol |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 17:38:12 |
@@ -99,5 +99,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | fate/ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:36:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575651453707 |
+| Players | 4/10 |
+| Host Name | Emotional damage |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 17:39:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575651474845 |
+| Players | 1/15 |
+| Host Name | Sake |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 17:39:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575651550850 |
+| Players | 3/8 |
+| Host Name | Люблю Ульяну |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 17:39:19 |
 
 
