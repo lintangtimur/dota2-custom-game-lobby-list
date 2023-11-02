@@ -13,17 +13,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575743344249 |
-| Players | 9/10 |
-| Host Name | AkdVq |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 18:53:41 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28502575766078146 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Vincenzo Cassano |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 19:09:31 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575765921441 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | JR |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, November 2, 2023 19:09:24 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575768027992 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | string |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 19:10:50 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575768582059 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | герой |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 19:11:12 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575767733696 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | LOVE_yandere |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 19:10:38 |
@@ -99,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | cb|fh99^ # have fun :) |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 19:11:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575768748035 |
+| Players | 4/8 |
+| Host Name | Harnioff |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 19:11:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575768799331 |
+| Players | 1/24 |
+| Host Name | MinisterByDay, DotaPlayerByNight |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 19:11:21 |
 
 
