@@ -38,6 +38,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 19:56:07 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575839851992 |
+| Players | 1/5 |
+| Host Name | Alluka |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 19:56:12 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575838205407 |
@@ -49,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575838786703 |
-| Players | 6/8 |
-| Host Name | ? |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 19:55:33 |
+| Lobby ID | 28502575840094290 |
+| Players | 3/8 |
+| Host Name | N9ne |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 19:56:21 |
 
 
 |  | ot3_desert_octet |
@@ -95,27 +104,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575839623538 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Vertditi19 |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 19:56:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575831589233 |
-| Players | 14/15 |
-| Host Name | Player 1 |
+| Lobby ID | 28502575839917498 |
+| Players | 1/24 |
+| Host Name | noob team |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 19:56:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575839971683 |
+| Players | 1/10 |
+| Host Name | Erlon |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 19:51:06 |
+| Lobby Creation Time | Thursday, November 2, 2023 19:56:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575839743029 |
-| Players | 1/15 |
-| Host Name | Eralis |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 19:56:08 |
+| Lobby ID | 28502575839947456 |
+| Players | 1/24 |
+| Host Name | MVRiCK- |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 19:56:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575840096712 |
+| Players | 1/10 |
+| Host Name | Emotional damage |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 19:56:21 |
 
 
