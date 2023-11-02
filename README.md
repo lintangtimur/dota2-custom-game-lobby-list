@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923798191605 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | SeT |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 06:51:01 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923799892528 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Lexa_alekspad |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:54:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923798791807 |
-| Players | 13/15 |
-| Host Name | єℓ ρα∂яιησ |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 06:52:11 |
+| Lobby ID | 28503923800168457 |
+| Players | 2/10 |
+| Host Name | 1 |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 06:54:53 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923799859465 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | :( M O T A :( |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:54:17 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923800055019 |
-| Players | 8/15 |
+| Players | 6/15 |
 | Host Name | DonkayPunch Q(Q'-')!! |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 06:54:40 |
@@ -110,21 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 06:54:50 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923800166965 |
-| Players | 1/8 |
-| Host Name | 2D|CAKE|2D |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 06:54:53 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923800168457 |
-| Players | 2/10 |
-| Host Name | 1 |
+| Lobby ID | 28503923800366925 |
+| Players | 1/10 |
+| Host Name | HELL NO |
 | Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 06:54:53 |
+| Lobby Creation Time | Friday, November 3, 2023 06:55:16 |
 
 
