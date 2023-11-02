@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341617616020 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 07:27:12 |
@@ -56,24 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 06:17:45 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502341617622186 |
-| Players | 13/15 |
-| Host Name | Great Admiral of Mongol Empire |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 07:27:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502341618440009 |
-| Players | 1/8 |
-| Host Name | БаРаГуЗ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 07:28:51 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341618329801 |
@@ -85,11 +67,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502341618516473 |
+| Lobby ID | 28502341618602759 |
+| Players | 1/8 |
+| Host Name | БаРаГуЗ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 07:29:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502341618601999 |
 | Players | 1/8 |
 | Host Name | PTS ENJOYER) |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 07:29:00 |
+| Lobby Creation Time | Thursday, November 2, 2023 07:29:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502341618609492 |
+| Players | 1/8 |
+| Host Name | Try to be the best version |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 07:29:11 |
 
 
 |  | epic_boss_fight_nightmare |
