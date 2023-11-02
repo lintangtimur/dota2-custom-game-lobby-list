@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502341604299436 |
-| Players | 8/10 |
-| Host Name | reactive someone |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 07:00:21 |
+| Lobby ID | 28502341605097380 |
+| Players | 4/15 |
+| Host Name | qwerdf |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 07:02:02 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341604567549 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | XxTuviejoxX |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 07:00:56 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502341605482572 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | DPGaming |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 07:02:49 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341605358213 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ^^bongafonx` |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 07:02:34 |
@@ -95,28 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341605284172 |
-| Players | 5/24 |
+| Players | 12/24 |
 | Host Name | TS.wolf.xbet |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 07:02:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502341605097380 |
-| Players | 3/15 |
-| Host Name | qwerdf |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 07:02:02 |
+| Lobby ID | 28502341605627424 |
+| Players | 4/8 |
+| Host Name | KLEOPATRI |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 07:03:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502341605547892 |
+| Lobby ID | 28502341605626613 |
 | Players | 1/8 |
-| Host Name | БаРаГуЗ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 07:02:57 |
+| Host Name | aaa |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 07:03:07 |
 
 
 |  | epic_boss_fight_nightmare |
