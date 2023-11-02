@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923801052504 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | zero |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 06:56:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923800852757 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | hiro |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 06:56:13 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923801356714 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | 46 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:57:12 |
@@ -95,28 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923800887198 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 06:56:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923801074617 |
-| Players | 8/10 |
-| Host Name | Джони, ОЗОН Диз. |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:56:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923800976370 |
-| Players | 3/8 |
-| Host Name | GoD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 3, 2023 06:56:28 |
 
 
 |  | ot3_jungle_quintet |
@@ -128,30 +110,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 06:56:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923801498679 |
-| Players | 1/10 |
-| Host Name | :x |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 06:57:28 |
+| Lobby ID | 28503923800976370 |
+| Players | 5/8 |
+| Host Name | GoD |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 3, 2023 06:56:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923801228796 |
-| Players | 1/10 |
-| Host Name | Okeysi |
+| Lobby ID | 28503923801630475 |
+| Players | 1/8 |
+| Host Name | Menace2Society |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:56:57 |
+| Lobby Creation Time | Friday, November 3, 2023 06:57:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923801508167 |
-| Players | 1/24 |
-| Host Name | LenSeiker |
+| Lobby ID | 28503923795787450 |
+| Players | 8/8 |
+| Host Name | maseto |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 06:57:30 |
+| Lobby Creation Time | Friday, November 3, 2023 06:46:28 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923801074617 |
+| Players | 9/10 |
+| Host Name | Джони, ОЗОН Диз. |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 06:56:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923801675343 |
+| Players | 1/10 |
+| Host Name | Moises |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 06:57:50 |
 
 
