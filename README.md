@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575474990938 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | lupanamaingatrasa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:02:05 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575472021521 |
-| Players | 1/24 |
-| Host Name | roswel |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 13:57:53 |
+| Lobby ID | 28502575480760881 |
+| Players | 1/8 |
+| Host Name | x_x |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 14:10:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575477876673 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Reddy |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 14:06:11 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575480226268 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | AnGeL |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 14:09:30 |
@@ -83,48 +83,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:07:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575479031779 |
-| Players | 1/15 |
-| Host Name | fly down |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 14:07:50 |
+| Lobby ID | 28502575480957664 |
+| Players | 1/24 |
+| Host Name | roswel |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 14:10:31 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575478261205 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | waiting for death |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 14:06:45 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575479851713 |
-| Players | 17/24 |
-| Host Name | Asam Garam |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 14:08:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575480609275 |
-| Players | 1/15 |
-| Host Name | Darki |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:10:02 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575480760881 |
+| Lobby ID | 28502575481282000 |
 | Players | 1/8 |
-| Host Name | x_x |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:10:15 |
+| Host Name | iKawai |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 14:10:57 |
 
 
