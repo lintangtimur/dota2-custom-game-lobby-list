@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575380411926 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Alessia Cara |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:35:34 |
@@ -47,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 11:36:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575382251458 |
-| Players | 7/8 |
-| Host Name | Jivchik |
+| Lobby ID | 28502575382589564 |
+| Players | 4/24 |
+| Host Name | Stayler |
 | Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 11:38:29 |
+| Lobby Creation Time | Thursday, November 2, 2023 11:39:02 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575381565447 |
-| Players | 23/24 |
-| Host Name | inflammable |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 11:37:24 |
+| Lobby ID | 28502575383572567 |
+| Players | 2/24 |
+| Host Name | Flyfriend28 |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 11:40:35 |
 
 
 |  | ot3_gardens_duo |
@@ -95,25 +95,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575377951417 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | Escanor v2 |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 11:31:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575383251399 |
-| Players | 1/15 |
-| Host Name | Do you feel mandingo`s dick |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 11:40:05 |
+| Lobby ID | 28502575382734732 |
+| Players | 5/24 |
+| Host Name | Kir-‘๑’-by༊*·˚ |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 11:39:16 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575382555536 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | MODE ISSASHOW |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:38:59 |
@@ -121,46 +121,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575382734732 |
-| Players | 4/24 |
-| Host Name | Kir-‘๑’-by༊*·˚ |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 11:39:16 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575382589564 |
-| Players | 4/24 |
-| Host Name | Stayler |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 11:39:02 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575383572567 |
-| Players | 2/24 |
-| Host Name | Flyfriend28 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 11:40:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575383620896 |
-| Players | 1/10 |
-| Host Name | Vergilx |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 11:40:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575383936564 |
+| Lobby ID | 28502575384047331 |
 | Players | 1/24 |
-| Host Name | ☠Ðeaŧђ△lέѕѕ☠ |
+| Host Name | kels |
 | Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 11:41:10 |
+| Lobby Creation Time | Thursday, November 2, 2023 11:41:20 |
 
 
