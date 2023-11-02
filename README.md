@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575468071098 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Crazy-Man |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 13:52:15 |
@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:02:05 |
 
 
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28502575479420430 |
+| Players | 1/7 |
+| Host Name | SanDwicH |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 14:08:23 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575472021521 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Santiago(PAMPLONA) |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:57:53 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575477876673 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Reddy |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 14:06:11 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575478853588 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Teddy |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 14:07:35 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575478570042 |
-| Players | 9/24 |
+| Players | 14/24 |
 | Host Name | 你生我梦 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:07:11 |
@@ -92,30 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:06:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575478692662 |
-| Players | 4/10 |
-| Host Name | amethazine |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 14:07:22 |
+| Lobby ID | 28502575479261352 |
+| Players | 2/15 |
+| Host Name | Sandstorm |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 14:08:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575479031779 |
-| Players | 1/15 |
+| Players | 8/15 |
 | Host Name | How u feel? |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 14:07:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575479261352 |
-| Players | 1/15 |
-| Host Name | Sandstorm |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 14:08:09 |
 
 
