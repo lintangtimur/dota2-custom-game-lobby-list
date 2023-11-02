@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575378139345 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | zxceblan |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:31:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575376789175 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | MiniSoGood |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:29:49 |
@@ -58,26 +58,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575378009648 |
-| Players | 1/8 |
-| Host Name | [♂+♂=♥]6LyaDuKtoR |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 11:31:47 |
+| Lobby ID | 28502575375814961 |
+| Players | 7/8 |
+| Host Name | ezzzzzzz |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 11:28:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575377129490 |
-| Players | 2/10 |
-| Host Name | шифу |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 11:30:22 |
+| Lobby ID | 28502575378393212 |
+| Players | 1/15 |
+| Host Name | Azusa |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 11:32:23 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575377628132 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | JOSIE BROS CANT STOP WINNING |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:31:10 |
@@ -90,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Escanor v2 |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 11:31:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575378411728 |
+| Players | 3/10 |
+| Host Name | шифу |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 11:32:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575378649833 |
+| Players | 1/15 |
+| Host Name | Dragon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 11:32:48 |
 
 
