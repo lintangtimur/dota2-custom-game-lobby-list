@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575412981244 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:25:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575407739940 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Ginggay wingay |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 2, 2023 12:17:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575414347155 |
-| Players | 5/24 |
+| Players | 9/24 |
 | Host Name | Toshiro... |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:27:42 |
@@ -153,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KVASLOVER |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:27:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575414129602 |
+| Players | 9/10 |
+| Host Name | Yizucito♣ |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 12:27:22 |
 
 
