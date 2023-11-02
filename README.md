@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Jazee |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 13:19:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575448815757 |
-| Players | 3/8 |
-| Host Name | ГЕЙ ПАРАД |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 13:23:12 |
 
 
