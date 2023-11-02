@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575321667284 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Plastic Pop can |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:52:53 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575321785378 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | 123 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:53:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575322097389 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | SwizzY |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:53:38 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:51:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575322133828 |
-| Players | 1/15 |
-| Host Name | Zero |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 09:53:42 |
+| Lobby ID | 28502575322308750 |
+| Players | 5/10 |
+| Host Name | Rem |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 09:54:01 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575321697738 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Kukurudza Striptizerka |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 09:52:57 |
@@ -121,19 +121,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575322247005 |
+| Lobby ID | 28502575322350086 |
 | Players | 1/15 |
-| Host Name | GATO |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 09:53:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575322253602 |
-| Players | 5/8 |
-| Host Name | o gaben me odeia |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 09:53:55 |
+| Host Name | Gamehong |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 09:54:05 |
 
 
