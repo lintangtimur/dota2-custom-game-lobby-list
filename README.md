@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923797716180 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Heart |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:50:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923801052504 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | zero |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 06:56:36 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923800887198 |
-| Players | 5/10 |
-| Host Name | SenorMouse |
+| Players | 8/10 |
+| Host Name | INFINITY |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 06:56:17 |
 
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923800822992 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Chandie F1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:56:09 |
@@ -131,19 +131,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923795787450 |
-| Players | 8/8 |
-| Host Name | maseto |
+| Players | 6/8 |
+| Host Name | A tu vieja la vuelvo mi gata |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:46:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923801074617 |
-| Players | 9/10 |
-| Host Name | Джони, ОЗОН Диз. |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:56:39 |
 
 
 |  | ot3_gardens_duo |
@@ -153,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 06:57:50 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503923801783637 |
+| Players | 1/24 |
+| Host Name | Julian Jackson |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 3, 2023 06:58:03 |
 
 
