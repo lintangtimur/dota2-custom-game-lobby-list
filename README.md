@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575451513320 |
-| Players | 3/24 |
-| Host Name | JP |
+| Players | 2/24 |
+| Host Name | super598 |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 13:27:29 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575450723028 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | HOMBRE EN LLAMAS |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 13:26:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575449133812 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | elparteviejas30cm |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:23:42 |
@@ -74,39 +74,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:19:57 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575451978269 |
-| Players | 20/24 |
-| Host Name | Trungdaica |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 13:28:14 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575452413773 |
+| Lobby ID | 28502575452551572 |
 | Players | 1/8 |
 | Host Name | Глубокослав |
 | Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 13:28:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575452275642 |
-| Players | 7/15 |
-| Host Name | BYVSHIY HATER RLARLA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 13:28:42 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:29:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575452426504 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Flawless |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 13:28:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575452275642 |
+| Players | 8/15 |
+| Host Name | BYVSHIY HATER RLARLA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 13:28:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575452547752 |
+| Players | 1/8 |
+| Host Name | ezzzzzzz |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 13:29:07 |
 
 
