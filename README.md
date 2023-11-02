@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575353749531 |
-| Players | 6/8 |
-| Host Name | Chris |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:48:34 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575350025115 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | kels |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:41:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575353708853 |
+| Players | 13/15 |
+| Host Name | Chad Chadinson |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 10:48:30 |
 
 
 |  | ot3_desert_octet |
@@ -49,19 +49,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575353708853 |
-| Players | 11/15 |
-| Host Name | Chad Chadinson |
+| Lobby ID | 28502575355810868 |
+| Players | 4/15 |
+| Host Name | K1 de dia Kchero de noche |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:48:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575355670950 |
-| Players | 4/8 |
-| Host Name | Jumbegung |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:51:55 |
+| Lobby Creation Time | Thursday, November 2, 2023 10:52:10 |
 
 
