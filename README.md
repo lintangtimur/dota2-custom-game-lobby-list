@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575620453311 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | How Do I Play? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:06:30 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575622719583 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | пасха ивановна |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 17:09:06 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:09:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575623208161 |
-| Players | 7/8 |
-| Host Name | baldej |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 17:09:40 |
+| Lobby ID | 28502575623544400 |
+| Players | 4/15 |
+| Host Name | Martin The Flower 🏵 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 17:10:03 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575621411678 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Kapysta Bob1785 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:07:36 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575622916009 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Nelson 닉 |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 17:09:20 |
@@ -110,12 +110,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:10:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575623544400 |
-| Players | 2/15 |
-| Host Name | Martin The Flower 🏵 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:10:03 |
+| Lobby ID | 28502575623713325 |
+| Players | 1/8 |
+| Host Name | 萧瑟 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 17:10:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575623818612 |
+| Players | 1/8 |
+| Host Name | BarFaCk |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 17:10:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575623832371 |
+| Players | 1/8 |
+| Host Name | zucchini |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 17:10:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575623827555 |
+| Players | 1/8 |
+| Host Name | All Hail King Julien |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 17:10:22 |
 
 
