@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575298425169 |
+| Lobby ID | 28502575298541385 |
 | Players | 1/10 |
 | Host Name | Zeni |
 | Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 09:09:56 |
+| Lobby Creation Time | Thursday, November 2, 2023 09:10:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575270714370 |
-| Players | 11/24 |
+| Players | 9/24 |
 | Host Name | JoeShiesty |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 08:15:56 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575297675030 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | THE MF MR.ZOMBIE |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 09:08:24 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575298118191 |
-| Players | 7/8 |
-| Host Name | SCaSO |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 09:09:18 |
+| Lobby ID | 28502575298515095 |
+| Players | 3/8 |
+| Host Name | MasonLayble |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 09:10:07 |
 
 
 |  | ot3_desert_octet |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575297938567 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Dohman32 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 09:08:57 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575298267919 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | ¨S.P.giordota.com  xyz |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:09:37 |
