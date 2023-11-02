@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:22:34 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502575446817574 |
-| Players | 1/5 |
-| Host Name | Estrelinha |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 13:19:58 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575451115490 |
@@ -29,19 +20,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:26:51 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502575452033149 |
-| Players | 1/5 |
-| Host Name | Awer |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 13:28:19 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -50,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575451513320 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | JP |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 13:27:29 |
@@ -95,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575451978269 |
-| Players | 8/24 |
+| Players | 20/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:28:14 |
@@ -103,19 +85,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575451003018 |
-| Players | 3/8 |
-| Host Name | Микро-ничтожыч |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 13:26:40 |
+| Lobby ID | 28502575452413773 |
+| Players | 1/8 |
+| Host Name | Глубокослав |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 13:28:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575452092065 |
+| Lobby ID | 28502575452275642 |
+| Players | 7/15 |
+| Host Name | BYVSHIY HATER RLARLA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 13:28:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575452426504 |
 | Players | 1/15 |
-| Host Name | 包尾 |
+| Host Name | Flawless |
 | Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 13:28:24 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:28:56 |
 
 
