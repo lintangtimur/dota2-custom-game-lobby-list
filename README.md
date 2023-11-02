@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575816317217 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | drowning |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 19:41:48 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 19:41:28 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575817671829 |
-| Players | 1/24 |
-| Host Name | X4nD3riiXx |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 19:42:38 |
+| Lobby ID | 28502575820340206 |
+| Players | 3/10 |
+| Host Name | . |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 19:44:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,29 +56,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 19:39:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575813740071 |
-| Players | 7/10 |
-| Host Name | камбек в таверну |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 19:40:12 |
+| Lobby ID | 28502575820325382 |
+| Players | 1/24 |
+| Host Name | X4nD3riiXx |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 19:44:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575820064553 |
-| Players | 3/15 |
-| Host Name | N9ne |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 19:44:05 |
+| Lobby ID | 28502575808781397 |
+| Players | 14/24 |
+| Host Name | Grand Magus（Rubick） |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 19:37:04 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575818039938 |
-| Players | 3/10 |
-| Host Name | Budzhen |
+| Players | 1/10 |
+| Host Name | BAGGIO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 19:42:51 |
 
@@ -104,43 +104,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575818322425 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Wu Gensheng |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 19:43:02 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575819506232 |
-| Players | 1/8 |
-| Host Name | в пуле один герой |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 19:43:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575818431021 |
-| Players | 1/8 |
-| Host Name | impruve 0 |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 19:43:06 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575818556217 |
+| Lobby ID | 28502575817264470 |
 | Players | 9/10 |
-| Host Name | дензо кудуро |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 19:43:10 |
+| Host Name | НЕПОНЯТЫЙ НЕ Я |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 19:42:23 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575818778413 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | ♥♥♥♥♥ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 19:43:18 |
@@ -155,21 +137,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 19:44:05 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575819563298 |
-| Players | 5/8 |
-| Host Name | depko13 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 19:43:47 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575808781397 |
-| Players | 11/24 |
-| Host Name | Grand Magus（Rubick） |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 19:37:04 |
+| Lobby ID | 28502575820369370 |
+| Players | 1/24 |
+| Host Name | 不和小人一般见识 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 19:44:16 |
 
 
