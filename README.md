@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923799332539 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | SHVEPS |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 06:53:14 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 06:51:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923797727965 |
-| Players | 7/10 |
-| Host Name | Pitón Pituda |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 06:50:08 |
+| Lobby ID | 28503923799892528 |
+| Players | 3/8 |
+| Host Name | Lexa_alekspad |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 06:54:21 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923798791807 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | єℓ ρα∂яιησ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:52:11 |
@@ -83,12 +83,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 06:54:17 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923799986809 |
+| Players | 1/15 |
+| Host Name | Fantikk.exe |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 06:54:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923799979499 |
+| Players | 2/10 |
+| Host Name | 1vs9 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 06:54:31 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923799982086 |
+| Players | 2/10 |
+| Host Name | GoD |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 06:54:31 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923799892528 |
+| Lobby ID | 28503923799990627 |
 | Players | 2/8 |
-| Host Name | Okeysi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:54:21 |
+| Host Name | Bodied in the body |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 3, 2023 06:54:32 |
 
 
