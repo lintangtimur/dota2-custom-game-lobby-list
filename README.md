@@ -29,22 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 10:03:43 |
 
 
-|  | epic_boss_fight_challenger |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575328266062 |
-| Players | 1/7 |
-| Host Name | fentanyl4mg+10## |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 10:04:27 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575326608784 |
-| Players | 21/24 |
-| Host Name | El dios incaico |
+| Lobby ID | 28502575328633839 |
+| Players | 5/8 |
+| Host Name | iseedeadp3ople |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:01:35 |
+| Lobby Creation Time | Thursday, November 2, 2023 10:05:06 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575327538741 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | khay khay |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:03:11 |
@@ -92,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 10:03:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575327959892 |
-| Players | 8/10 |
-| Host Name | los estudios me nerfearon |
+| Lobby ID | 28502575328720251 |
+| Players | 1/8 |
+| Host Name | Diamonds & Dancefloor |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:03:55 |
+| Lobby Creation Time | Thursday, November 2, 2023 10:05:14 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575328129392 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Cockroach |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:04:13 |
@@ -121,37 +112,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575328297855 |
-| Players | 1/15 |
-| Host Name | Fanya |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 10:04:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575328512926 |
-| Players | 2/15 |
-| Host Name | Dragon |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 10:04:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575328633839 |
-| Players | 1/8 |
-| Host Name | iseedeadp3ople |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:05:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28502575328652021 |
 | Players | 1/15 |
 | Host Name | Logen |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 10:05:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575328512926 |
+| Players | 4/15 |
+| Host Name | Dragon |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 10:04:53 |
 
 
