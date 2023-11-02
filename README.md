@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:02:05 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575482853288 |
+| Players | 1/10 |
+| Host Name | GreShnik |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 14:13:08 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575482094804 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | La Pixiris |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 14:12:04 |
@@ -92,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:12:09 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575482798188 |
-| Players | 1/24 |
-| Host Name | 風 |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 14:13:03 |
+| Lobby ID | 28502575482825908 |
+| Players | 1/10 |
+| Host Name | Z |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 14:13:05 |
 
 
