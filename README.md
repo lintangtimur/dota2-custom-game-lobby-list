@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575279144450 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 08:31:38 |
@@ -77,18 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575278098706 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Economista.DRUGGED |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:29:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575279059073 |
-| Players | 14/15 |
-| Host Name | 31st |
+| Lobby ID | 28502575281436357 |
+| Players | 2/10 |
+| Host Name | Liraley |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 08:36:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575281501938 |
+| Players | 1/8 |
+| Host Name | weakkkkkk lol |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 08:31:29 |
+| Lobby Creation Time | Thursday, November 2, 2023 08:36:09 |
 
 
