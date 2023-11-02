@@ -5,25 +5,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575720735982 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | MESSI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 18:37:21 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575722896106 |
-| Players | 1/5 |
-| Host Name | gamealesha.112 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 18:38:58 |
+| Lobby ID | 28502575723065823 |
+| Players | 1/10 |
+| Host Name | 演员已就位2 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Thursday, November 2, 2023 18:39:05 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575723113289 |
+| Players | 1/10 |
+| Host Name | sanQ |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 2, 2023 18:39:07 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575721102452 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Saul Goodman |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 18:37:37 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575720428032 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | 不和小人一般见识 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 18:37:07 |
@@ -56,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 18:35:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575709295264 |
-| Players | 14/15 |
-| Host Name | FriedSprite |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 18:28:40 |
+| Lobby ID | 28502575722916798 |
+| Players | 1/10 |
+| Host Name | 突变体 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 18:38:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575720977840 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Sliyver |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 18:37:32 |
@@ -86,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575718644089 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Odinn |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 18:35:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575720109324 |
-| Players | 8/10 |
-| Host Name | Erlon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 18:36:53 |
+| Lobby ID | 28502575716815424 |
+| Players | 12/15 |
+| Host Name | 私は自 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 18:34:25 |
 
 
 |  | ot3_jungle_quintet |
@@ -110,19 +119,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 18:37:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575717175048 |
-| Players | 2/10 |
-| Host Name | Battusai |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 18:34:41 |
+| Lobby ID | 28502575722903936 |
+| Players | 1/24 |
+| Host Name | АбаканскоеПиво |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 18:38:58 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575722429413 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | boqni |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 18:38:37 |
@@ -135,14 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Yafu |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 18:38:50 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575722903936 |
-| Players | 1/24 |
-| Host Name | АбаканскоеПиво |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 18:38:58 |
 
 
