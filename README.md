@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575596937778 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Virgo Kyle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 16:38:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575597895538 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | похвалите плиз |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 16:40:02 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575597729681 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | потная nиnька |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 16:39:50 |
@@ -113,9 +113,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575598323478 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | GURGEN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 16:40:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575598902520 |
+| Players | 1/15 |
+| Host Name | Brzeczyszczykiewicz |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 16:41:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575598912905 |
+| Players | 1/10 |
+| Host Name | Too Good To Win? |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 16:41:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575598906901 |
+| Players | 1/15 |
+| Host Name | ебалунтик |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 16:41:15 |
 
 
