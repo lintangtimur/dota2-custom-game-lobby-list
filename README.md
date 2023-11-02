@@ -29,19 +29,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 18:28:21 |
 
 
-|  | ot3_desert_octet |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28502575700329033 |
-| Players | 22/24 |
-| Host Name | fate/ |
+| Lobby ID | 28502575711560442 |
+| Players | 1/5 |
+| Host Name | RAGING FURY!! |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 18:21:41 |
+| Lobby Creation Time | Thursday, November 2, 2023 18:30:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575711512068 |
+| Players | 1/8 |
+| Host Name | Pod pivas |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 18:30:23 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575711228585 |
-| Players | 2/10 |
+| Players | 9/10 |
 | Host Name | Crazy Leprechaun |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 18:30:10 |
@@ -77,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575710443542 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Добряк |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 18:29:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575711075840 |
-| Players | 1/8 |
-| Host Name | Pod pivas |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 18:30:03 |
+| Lobby ID | 28502575711419955 |
+| Players | 1/24 |
+| Host Name | 123456 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 18:30:19 |
 
 
 |  | ot3_jungle_quintet |
@@ -112,28 +121,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575711332213 |
-| Players | 1/15 |
-| Host Name | Еблан |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 18:30:14 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575711338304 |
-| Players | 1/24 |
-| Host Name | BootyHunter |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 18:30:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28502575711322777 |
 | Players | 1/15 |
 | Host Name | niWo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 18:30:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575711519309 |
+| Players | 7/15 |
+| Host Name | Simpest Pimp |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 18:30:23 |
 
 
