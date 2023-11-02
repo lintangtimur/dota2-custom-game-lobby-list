@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575405437460 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 12:14:08 |
@@ -68,27 +68,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575401587498 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Solo estoy pasando el rato |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:08:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575403435825 |
-| Players | 14/15 |
-| Host Name | The Spiked Spaghetti |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 12:11:11 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575406038102 |
-| Players | 1/24 |
-| Host Name | ssm016 |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 12:15:04 |
 
 
