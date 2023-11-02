@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:15:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575544582294 |
-| Players | 7/8 |
-| Host Name | Иосиф |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 15:35:06 |
+| Lobby ID | 28502575545343457 |
+| Players | 5/10 |
+| Host Name | μVlrka |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 15:36:04 |
 
 
 |  | ot3_gardens_duo |
@@ -74,21 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:33:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575542592182 |
-| Players | 2/8 |
-| Host Name | CatNecromancer |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 15:32:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575545343457 |
-| Players | 1/10 |
-| Host Name | μVlrka |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 15:36:04 |
+| Lobby ID | 28502575545461687 |
+| Players | 2/15 |
+| Host Name | q1 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 15:36:13 |
 
 
