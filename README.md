@@ -22,20 +22,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28503923777393966 |
+| Lobby ID | 28503923778314222 |
 | Players | 1/10 |
 | Host Name | свиня джакузі |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:12:48 |
+| Lobby Creation Time | Friday, November 3, 2023 06:14:31 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923776736946 |
-| Players | 20/24 |
-| Host Name | Casimiro Supo Tito |
+| Lobby ID | 28503923778206625 |
+| Players | 13/24 |
+| Host Name | ayxnc |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 06:11:36 |
+| Lobby Creation Time | Friday, November 3, 2023 06:14:18 |
 
 
 |  | ot3_desert_octet |
@@ -47,37 +47,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 06:13:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923777655801 |
-| Players | 1/24 |
-| Host Name | Hüskoras |
+| Lobby ID | 28503923778324224 |
+| Players | 3/10 |
+| Host Name | purple rain |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:13:18 |
+| Lobby Creation Time | Friday, November 3, 2023 06:14:32 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923777853589 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Борька Дайдалус |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:13:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923777350973 |
-| Players | 7/8 |
-| Host Name | YUSEPE |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:12:44 |
+| Lobby ID | 28503923778073393 |
+| Players | 2/15 |
+| Host Name | URO |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 06:14:03 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923777375783 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | 'Cry 雨' |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:12:46 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923778120939 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 06:14:09 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923776769903 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | not quite my tempo |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 06:11:40 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923777306037 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | TU DIOS |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:12:39 |
@@ -155,39 +155,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 06:12:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923778012707 |
-| Players | 4/15 |
-| Host Name | УБИВАТЬ УБИВАТЬ |
+| Lobby ID | 28503923778220309 |
+| Players | 2/10 |
+| Host Name | 6a6ka B Hau`KoBCKuX KeDaX |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:13:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923778073393 |
-| Players | 1/15 |
-| Host Name | URO |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 06:14:03 |
+| Lobby Creation Time | Friday, November 3, 2023 06:14:20 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923777608367 |
-| Players | 5/8 |
-| Host Name | Damaroo |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 06:13:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923778189521 |
-| Players | 2/10 |
-| Host Name | speLForce |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:14:17 |
+| Lobby ID | 28503923778514883 |
+| Players | 1/8 |
+| Host Name | 多晒晒太阳 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Friday, November 3, 2023 06:14:53 |
 
 
