@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 18:22:01 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28502575703512411 |
-| Players | 1/7 |
-| Host Name | scanip |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 18:24:10 |
+| Lobby ID | 28502575703722361 |
+| Players | 1/5 |
+| Host Name | Jardoses |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 18:24:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575702676247 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | ame |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 2, 2023 18:23:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575701268825 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | СОЛЕВОЙ БЕРСЕРК |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 2, 2023 18:22:26 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575700329033 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | fate/ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 18:21:41 |
@@ -104,18 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575660710971 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 17:47:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575703263477 |
-| Players | 1/15 |
-| Host Name | Manny |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 18:23:58 |
+| Lobby ID | 28502575703539168 |
+| Players | 6/10 |
+| Host Name | GoDL1Ke |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 18:24:11 |
 
 
