@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575464323820 |
+| Lobby ID | 28502575464348053 |
 | Players | 1/10 |
-| Host Name | ἱεγλύ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 13:46:58 |
+| Host Name | HaaLand |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 13:47:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575462655331 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Barathrum |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 13:44:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575463602877 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | данечка |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:45:54 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:42:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575464188468 |
-| Players | 1/8 |
-| Host Name | CryForTheMoon |
+| Lobby ID | 28502575464408747 |
+| Players | 1/15 |
+| Host Name | Мыслант Гигисли |
 | Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 13:46:46 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:47:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575462493711 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Grim |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:44:16 |
@@ -119,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:46:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575464164023 |
-| Players | 5/10 |
-| Host Name | Mango |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 13:46:44 |
+| Lobby ID | 28502575464361121 |
+| Players | 2/8 |
+| Host Name | БИБ ХУЙС |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 13:47:01 |
 
 
