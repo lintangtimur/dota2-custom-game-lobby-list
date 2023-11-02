@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575270308851 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Booker |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 08:15:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575268921937 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | YaMa |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 08:12:43 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575269786234 |
-| Players | 8/15 |
-| Host Name | 'Cry 雨' |
+| Lobby ID | 28502575270277582 |
+| Players | 2/15 |
+| Host Name | Enough |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 08:14:13 |
+| Lobby Creation Time | Thursday, November 2, 2023 08:15:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575269076785 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | целка на лице |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 08:12:59 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575270016046 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 08:14:39 |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CORRALITO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:14:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575270277582 |
-| Players | 2/15 |
-| Host Name | Enough |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 08:15:07 |
 
 
