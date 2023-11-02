@@ -11,24 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:37:47 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575427287568 |
-| Players | 9/10 |
-| Host Name | How Do I Play? |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 12:47:53 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502575427362062 |
-| Players | 1/5 |
-| Host Name | Ayanokoji Kiyotaka |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 12:48:00 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
@@ -41,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575425569881 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | 1nvoken |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:45:07 |
@@ -68,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575426942752 |
-| Players | 8/24 |
+| Players | 13/24 |
 | Host Name | El Tilin humilde |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:47:20 |
@@ -95,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575427639237 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ᵒⁿᵉᵗᵃᵖ |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:48:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575428047344 |
+| Players | 1/10 |
+| Host Name | я и 4 хай скила |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 12:49:07 |
 
 
