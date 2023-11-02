@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575480226268 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | AnGeL |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 14:09:30 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575479031779 |
-| Players | 2/15 |
-| Host Name | Di ka mabibitin sa Eng Bee Tin |
+| Players | 1/15 |
+| Host Name | fly down |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 14:07:50 |
 
@@ -104,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575479851713 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | Asam Garam |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:08:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575480609275 |
+| Players | 1/15 |
+| Host Name | Darki |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 14:10:02 |
 
 
