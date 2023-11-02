@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367864992884 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Mr. Demiks |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 05:14:33 |
@@ -146,13 +146,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 05:13:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367865260325 |
-| Players | 1/15 |
-| Host Name | Sturmbannführer |
+| Lobby ID | 28503367865308441 |
+| Players | 1/8 |
+| Host Name | никакого эщкере( |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:14:58 |
+| Lobby Creation Time | Friday, November 3, 2023 05:15:02 |
 
 
 |  | ot3_gardens_duo |
@@ -164,13 +164,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 05:14:24 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367865281549 |
+| Players | 2/8 |
+| Host Name | 聖人 |Q |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 05:15:00 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367865256909 |
-| Players | 1/15 |
-| Host Name | Stellar |
+| Lobby ID | 28503367865329851 |
+| Players | 3/15 |
+| Host Name | Realtek |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:14:58 |
+| Lobby Creation Time | Friday, November 3, 2023 05:15:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367864854228 |
+| Players | 13/15 |
+| Host Name | ...... |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 05:14:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367863930815 |
+| Players | 13/15 |
+| Host Name | Ulrich |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 05:12:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503367865385096 |
+| Players | 4/24 |
+| Host Name | БАДУЛАЙ |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 05:15:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -203,7 +239,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28503367863879699 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | ✖ transcendental ✖ |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 05:12:53 |
