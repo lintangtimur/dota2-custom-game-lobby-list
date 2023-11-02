@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575468062571 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Алексей Фоликула |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 13:52:14 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575472671226 |
-| Players | 9/10 |
+| Players | 7/10 |
 | Host Name | 1mistake=lose |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 13:58:47 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575472021521 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Santiago(PAMPLONA) |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:57:53 |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Y5055 |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 13:58:33 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575473712581 |
+| Players | 1/24 |
+| Host Name | is lie.Gc |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 14:00:17 |
 
 
