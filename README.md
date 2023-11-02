@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575390444904 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Moonlight |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:51:19 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575390555286 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Hellsing...!! |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:51:29 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575390510171 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | FORSA AAA N |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:51:25 |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | "Belial" |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:53:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575391303859 |
-| Players | 2/10 |
-| Host Name | бруда алфеева |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 11:52:37 |
 
 
