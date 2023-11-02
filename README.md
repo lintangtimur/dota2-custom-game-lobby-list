@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575461210484 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | MadKing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:42:20 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575456461002 |
+| Lobby ID | 28502575460634107 |
 | Players | 1/10 |
-| Host Name | Гейпад |
+| Host Name | Crazy-Man |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 13:35:08 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:41:28 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575460634107 |
+| Lobby ID | 28502575462469759 |
 | Players | 1/10 |
-| Host Name | Crazy-Man |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 13:41:28 |
+| Host Name | ἱεγλύ |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 13:44:14 |
 
 
 |  | ot3_jungle_quintet |
