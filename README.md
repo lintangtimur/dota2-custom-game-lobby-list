@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575368173476 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Zero |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 11:14:47 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575367246819 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Sirlagsalot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:13:10 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575373446405 |
-| Players | 7/15 |
-| Host Name | заторчал |
+| Players | 8/15 |
+| Host Name | A |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:24:09 |
 
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 11:23:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575372673973 |
-| Players | 6/8 |
-| Host Name | ухажёр |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 11:22:49 |
+| Lobby ID | 28502575373528606 |
+| Players | 1/10 |
+| Host Name | BⱠ₳ĐɆⱤɄ₦₦ɆⱤ |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 11:24:17 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575372688160 |
-| Players | 8/24 |
+| Players | 15/24 |
 | Host Name | 9S |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:22:50 |
@@ -104,18 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575373534417 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | TOGA |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:24:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575373528606 |
-| Players | 1/10 |
-| Host Name | BⱠ₳ĐɆⱤɄ₦₦ɆⱤ |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 11:24:17 |
+| Lobby ID | 28502575373874332 |
+| Players | 4/8 |
+| Host Name | cachorrao |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 11:24:54 |
 
 
