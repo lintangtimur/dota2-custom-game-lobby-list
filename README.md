@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923771105032 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ₡ℝi℘.ฬคɭк-ˢʷᵃᵖ |
 | Region | AUSTRIA |
 | Lobby Creation Time | Friday, November 3, 2023 06:06:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923770459779 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | decaff boy |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 3, 2023 06:05:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367895407203 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | CorosionaL DamagE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:02:31 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923770927047 |
-| Players | 7/8 |
+| Players | 8/8 |
 | Host Name | Kill 'Em All |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:05:58 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923772013541 |
-| Players | 9/10 |
+| Players | 10/10 |
 | Host Name | Snnn |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 06:06:27 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923770637800 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | mia_khalifa |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:05:50 |
@@ -135,5 +135,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | et0 ne pro100 gneV |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 06:03:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923772837590 |
+| Players | 1/10 |
+| Host Name | Walter White |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 06:07:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923772815185 |
+| Players | 4/8 |
+| Host Name | shadow of the goose |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 06:07:01 |
 
 
