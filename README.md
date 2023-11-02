@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367584564285 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | NAZUN4♥ |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 00:31:48 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 00:30:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503367584643446 |
-| Players | 10/15 |
-| Host Name | Xaquel |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 3, 2023 00:31:52 |
+| Lobby ID | 28503367585327823 |
+| Players | 1/24 |
+| Host Name | Bangad |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 00:32:24 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367579788896 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Hopeful Men (GPRD) |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 00:28:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367584962326 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | тимоха самотык) |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 00:32:07 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367584743325 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | ...... |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 00:31:56 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367578253164 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Martin The Flower 🏵 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 3, 2023 00:26:48 |
@@ -104,19 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367579905237 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | TwentyOneInch |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 00:28:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367584365235 |
-| Players | 6/10 |
-| Host Name | Yondaime |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 00:31:38 |
+| Lobby ID | 28503367585242995 |
+| Players | 9/15 |
+| Host Name | サンビーム |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 3, 2023 00:32:20 |
 
 
 |  | ot3_desert_octet |
@@ -128,13 +128,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 00:32:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367585086648 |
-| Players | 6/8 |
-| Host Name | Yoshi |
+| Lobby ID | 28503367585113447 |
+| Players | 2/10 |
+| Host Name | sopli |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 3, 2023 00:32:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503367582783424 |
+| Players | 9/10 |
+| Host Name | Sparatun o.0 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 3, 2023 00:32:13 |
+| Lobby Creation Time | Friday, November 3, 2023 00:30:23 |
 
 
 |  | epic_boss_fight_normal |
@@ -155,12 +164,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 00:31:50 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28503367585138201 |
+| Players | 1/5 |
+| Host Name | Batman |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 3, 2023 00:32:15 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28503367584961522 |
-| Players | 1/10 |
-| Host Name | lExorcistl |
-| Region | AUSTRIA |
-| Lobby Creation Time | Friday, November 3, 2023 00:32:07 |
+| Lobby ID | 28503367585195730 |
+| Players | 3/10 |
+| Host Name | KH93b TbMbl |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 3, 2023 00:32:18 |
 
 
