@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575477876673 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Reddy |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 14:06:11 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575478309852 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Че срал звалк |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 14:06:49 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:03:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575477821254 |
-| Players | 1/8 |
-| Host Name | 死 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:06:07 |
+| Lobby ID | 28502575478002220 |
+| Players | 1/24 |
+| Host Name | RAT LEGENDS SEASON 18 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 14:06:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,30 +110,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:05:30 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575478002220 |
-| Players | 1/24 |
-| Host Name | RAT LEGENDS SEASON 18 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 14:06:22 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575478266320 |
-| Players | 1/24 |
-| Host Name | 你生我梦 |
+| Lobby ID | 28502575477489124 |
+| Players | 6/8 |
+| Host Name | МИР |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:06:45 |
+| Lobby Creation Time | Thursday, November 2, 2023 14:05:38 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575478346731 |
+| Lobby ID | 28502575478474657 |
 | Players | 1/15 |
 | Host Name | Whatafaka |
 | Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 14:06:52 |
+| Lobby Creation Time | Thursday, November 2, 2023 14:07:03 |
 
 
