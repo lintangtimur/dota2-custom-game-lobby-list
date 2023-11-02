@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367776135888 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | K... |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 3, 2023 03:23:38 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367774211941 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | pos 5 - 2 - 1 - 4 - 3 |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 03:21:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367775663753 |
-| Players | 1/15 |
-| Host Name | IMPICMEN |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 03:23:08 |
+| Lobby ID | 28503367776672165 |
+| Players | 1/8 |
+| Host Name | om nom run 2 parkur |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 03:24:13 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367772464262 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | Shinigami Eyes |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 03:19:40 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367774076068 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | ℬúcaro |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 03:21:25 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367697377645 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Animaniacs |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 02:05:16 |
@@ -166,10 +166,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
+| Lobby ID | 28503367776547994 |
+| Players | 2/15 |
+| Host Name | я признаюсь это я шрэк |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 03:24:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503367776559490 |
+| Players | 2/10 |
+| Host Name | Рама велосипеда |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 03:24:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367776606897 |
+| Players | 1/8 |
+| Host Name | F1est |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 03:24:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
 | Lobby ID | 28503367770534003 |
-| Players | 14/15 |
-| Host Name | Arlusha |
+| Players | 13/15 |
+| Host Name | -=Ac=- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 03:17:35 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503367776679453 |
+| Players | 3/10 |
+| Host Name | nut- |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 03:24:14 |
 
 
