@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575403115502 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Ballin Colin |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 12:10:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575403961891 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | бруда алфеева |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 12:11:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575401587498 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Solo estoy pasando el rato |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:08:25 |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GATO |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 12:11:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575404175141 |
+| Players | 1/15 |
+| Host Name | Nowhr to run |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 12:12:17 |
 
 
