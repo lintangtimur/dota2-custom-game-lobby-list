@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575583970373 |
-| Players | 1/5 |
-| Host Name | rtz(Animal Trainer) |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 2, 2023 16:23:17 |
+| Lobby ID | 28502575585414845 |
+| Players | 1/10 |
+| Host Name | ICY |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 16:24:59 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -18,15 +18,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MADMAX |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 16:23:37 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575584533351 |
-| Players | 8/10 |
-| Host Name | пасха ивановна |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 16:23:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -58,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575584989221 |
+| Lobby ID | 28502575585498375 |
 | Players | 1/15 |
-| Host Name | YGBN |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 16:24:29 |
+| Host Name | фишмэн в зоне |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 16:25:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,30 +65,66 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 16:24:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575585348168 |
-| Players | 1/15 |
-| Host Name | маисон марджела |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 16:24:55 |
+| Lobby ID | 28502575585375340 |
+| Players | 1/8 |
+| Host Name | ¤︻デ≡ 一 |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 16:24:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575585320105 |
+| Lobby ID | 28502575585445511 |
 | Players | 1/24 |
 | Host Name | Kajhofish |
 | Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 16:24:53 |
+| Lobby Creation Time | Thursday, November 2, 2023 16:25:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575585326396 |
-| Players | 1/24 |
-| Host Name | 45¿shadow pool¿ |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 16:24:53 |
+| Lobby ID | 28502575585510790 |
+| Players | 1/15 |
+| Host Name | i need more bullets |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 16:25:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575585512266 |
+| Players | 1/15 |
+| Host Name | Straid |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 16:25:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575585512278 |
+| Players | 1/15 |
+| Host Name | cum_show |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 16:25:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575585514054 |
+| Players | 1/15 |
+| Host Name | BOT#13 |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 16:25:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575585512183 |
+| Players | 1/15 |
+| Host Name | Avangard |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 16:25:07 |
 
 
