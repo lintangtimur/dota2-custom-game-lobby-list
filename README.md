@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575468071098 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Crazy-Man |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 13:52:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -68,28 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575478309852 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Че срал звалк |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 14:06:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575476241399 |
-| Players | 1/24 |
-| Host Name | yoasobi |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 14:03:52 |
+| Lobby ID | 28502575478557194 |
+| Players | 1/10 |
+| Host Name | AnGeL |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 14:07:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575478002220 |
-| Players | 1/24 |
-| Host Name | RAT LEGENDS SEASON 18 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 14:06:22 |
+| Lobby ID | 28502575478570042 |
+| Players | 3/24 |
+| Host Name | 你生我梦 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 14:07:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -108,23 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ntz.Galford.24 |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:05:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575477489124 |
-| Players | 6/8 |
-| Host Name | МИР |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:05:38 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575478474657 |
-| Players | 1/15 |
-| Host Name | Whatafaka |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 14:07:03 |
 
 
