@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367238399534 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | 希望 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 20:53:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575932531629 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | i carried more animals than noah |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 20:48:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367238880849 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Bondwewd :3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 20:53:41 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575936603602 |
-| Players | 2/8 |
-| Host Name | Winline.выиграл очки |
+| Players | 1/8 |
+| Host Name | TwentyOneInch |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 20:51:03 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367239380098 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Chisato |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 20:54:13 |
@@ -99,6 +99,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | tv|artOfmagnus |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 20:54:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367239705731 |
+| Players | 1/15 |
+| Host Name | Owl |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 20:54:24 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575935402059 |
+| Players | 1/10 |
+| Host Name | evol tnac uoy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 20:50:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367239709163 |
+| Players | 4/8 |
+| Host Name | sense of human |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 20:54:24 |
 
 
 |  | epic_boss_fight_nightmare |
