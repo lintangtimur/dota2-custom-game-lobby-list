@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575488442466 |
-| Players | 1/10 |
-| Host Name | ꧁༒☬₣ℜøźєη•₣ℓα₥єֆ☬༒꧂ |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 14:20:43 |
+| Lobby ID | 28502575489104608 |
+| Players | 8/10 |
+| Host Name | Raging.Hope |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 14:21:37 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -27,15 +27,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | eue |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:21:30 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575489104608 |
-| Players | 4/10 |
-| Host Name | Raging.Hope |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 14:21:37 |
 
 
 |  | ot3_jungle_quintet |
@@ -49,20 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575488156460 |
-| Players | 1/15 |
-| Host Name | Durakami |
+| Lobby ID | 28502575489865996 |
+| Players | 3/15 |
+| Host Name | cb|fh99^ # have fun :) |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 14:20:19 |
+| Lobby Creation Time | Thursday, November 2, 2023 14:22:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575488909801 |
-| Players | 6/10 |
-| Host Name | 123 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 14:21:21 |
+| Lobby ID | 28502575487300185 |
+| Players | 1/24 |
+| Host Name | roswel |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 14:19:10 |
 
 
 |  | ot3_desert_octet |
@@ -86,36 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575484427462 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | GapZzz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:15:17 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575487300185 |
-| Players | 1/24 |
-| Host Name | roswel |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:19:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575488617156 |
-| Players | 14/15 |
-| Host Name | ꃥꈤꊐ |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 14:20:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575489475663 |
-| Players | 3/8 |
-| Host Name | bring me the necrophos |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 14:22:07 |
 
 
