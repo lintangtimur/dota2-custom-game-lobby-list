@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575816317217 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | drowning |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 19:41:48 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 19:41:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575821334875 |
-| Players | 1/15 |
-| Host Name | Сириус Блэк |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 19:44:50 |
+| Lobby ID | 28502575819563298 |
+| Players | 7/8 |
+| Host Name | depko13 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 19:43:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575808781397 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | appreciate life |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 19:37:04 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575815619202 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | CAPITAN CULO RICO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 19:41:22 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575821803479 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | ^^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 19:45:07 |
@@ -139,10 +139,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575821794398 |
+| Lobby ID | 28502575822103543 |
 | Players | 1/8 |
-| Host Name | дима поршень |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 19:45:07 |
+| Host Name | курбаш |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 19:45:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575822130812 |
+| Players | 1/8 |
+| Host Name | KosenoK <3 U |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 19:45:19 |
 
 
