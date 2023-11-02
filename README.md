@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367836132174 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | merenge |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 04:33:50 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 03:53:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503367836604909 |
-| Players | 7/10 |
-| Host Name | mokujin |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:34:27 |
+| Lobby ID | 28503367837598936 |
+| Players | 3/24 |
+| Host Name | mufasail |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 3, 2023 04:35:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367822138073 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | Cloud |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 04:16:08 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367836744173 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | pinkcore |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 04:34:37 |
@@ -103,29 +103,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367837116255 |
-| Players | 1/8 |
-| Host Name | ПОКИДЬОК |
+| Lobby ID | 28503367837366523 |
+| Players | 7/8 |
+| Host Name | _K_ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:35:07 |
+| Lobby Creation Time | Friday, November 3, 2023 04:35:27 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367834287703 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | BLEHHHHH :P |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 04:31:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503367834354853 |
-| Players | 13/15 |
-| Host Name | DzmP |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 04:31:32 |
+| Lobby ID | 28503367830032985 |
+| Players | 23/24 |
+| Host Name | Todoroki Shoto |
+| Region | Unknown |
+| Lobby Creation Time | Friday, November 3, 2023 04:26:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367837177039 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | La Pixiris |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 04:35:11 |
@@ -167,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367830465198 |
-| Players | 18/24 |
+| Players | 15/24 |
 | Host Name | Mike Oxlong |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 04:26:33 |
@@ -176,36 +176,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367837340080 |
-| Players | 1/15 |
+| Players | 8/15 |
 | Host Name | |I|I|I|I|I|I|I|I| |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 04:35:24 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503367837366523 |
-| Players | 3/8 |
-| Host Name | _K_ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:35:27 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28503367836316482 |
+| Lobby ID | 28503367837499669 |
 | Players | 1/10 |
 | Host Name | Kunde |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:34:04 |
+| Lobby Creation Time | Friday, November 3, 2023 04:35:37 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28503367837361082 |
-| Players | 2/5 |
-| Host Name | Flex.KinG |
+| Lobby ID | 28503367837682736 |
+| Players | 2/7 |
+| Host Name | Protagonist |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:35:26 |
+| Lobby Creation Time | Friday, November 3, 2023 04:35:51 |
 
 
