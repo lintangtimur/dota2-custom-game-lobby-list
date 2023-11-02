@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 23:26:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503367534035723 |
-| Players | 1/8 |
-| Host Name | Михаил Горшенёв |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 23:52:12 |
+| Lobby ID | 28503367536424004 |
+| Players | 1/24 |
+| Host Name | Feedytharex |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 2, 2023 23:54:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367524273267 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Baphomet |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 23:44:28 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 23:51:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367535985065 |
-| Players | 1/8 |
-| Host Name | kto takoi ment>? |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 23:53:46 |
+| Lobby ID | 28503367536431667 |
+| Players | 4/15 |
+| Host Name | ꃥꈤꊐ |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 23:54:07 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367533275792 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | СНЮЛС |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 23:51:36 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367533950410 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | STERBLICH |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 23:52:08 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367534935892 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | destroyed |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 23:52:56 |
@@ -128,13 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 23:54:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367535568676 |
-| Players | 7/15 |
-| Host Name | "_" |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 23:53:26 |
+| Lobby ID | 28503367536039119 |
+| Players | 8/10 |
+| Host Name | from the bottom to the moon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 23:53:48 |
 
 
 |  | ot3_jungle_quintet |
@@ -149,54 +149,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367536399362 |
-| Players | 1/10 |
+| Players | 7/10 |
 | Host Name | .do.kawaii |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 23:54:06 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503367536424004 |
-| Players | 1/24 |
-| Host Name | Feedytharex |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 2, 2023 23:54:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503367536431667 |
-| Players | 1/15 |
-| Host Name | ꃥꈤꊐ |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 23:54:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367536493846 |
-| Players | 1/10 |
-| Host Name | Сладкий слим |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 23:54:11 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28503367535692945 |
+| Lobby ID | 28503367536581048 |
 | Players | 1/10 |
 | Host Name | .!. (-_-) .!. |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 2, 2023 23:53:32 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28503367535873469 |
-| Players | 4/5 |
-| Host Name | Малыш АЙОша |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 23:53:40 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 23:54:15 |
 
 
