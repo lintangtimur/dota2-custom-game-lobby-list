@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28502575701505467 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 18:22:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575708159186 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | zxcdown |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 18:27:47 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 18:26:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575708247843 |
-| Players | 7/10 |
-| Host Name | 小猪佩奇 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 18:27:51 |
+| Lobby ID | 28502575709768615 |
+| Players | 8/15 |
+| Host Name | Тайно Дернул |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 18:29:02 |
 
 
 |  | ot3_gardens_duo |
@@ -101,19 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 18:28:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575709299231 |
-| Players | 8/15 |
-| Host Name | Fireflies |
+| Lobby ID | 28502575709827065 |
+| Players | 1/8 |
+| Host Name | Бог_Сотен_Битв |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 18:28:40 |
+| Lobby Creation Time | Thursday, November 2, 2023 18:29:05 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575709587802 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | малышка — это Comme des Garçons |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 18:28:54 |
@@ -122,9 +122,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575709574345 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Siomai Rice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 18:28:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575709697274 |
+| Players | 1/8 |
+| Host Name | jeyaxed916 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 18:28:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575709710403 |
+| Players | 1/8 |
+| Host Name | missing! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 18:28:59 |
 
 
