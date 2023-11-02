@@ -11,13 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 11:14:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575368390965 |
-| Players | 14/15 |
-| Host Name | Salvatore |
+| Lobby ID | 28502575370280830 |
+| Players | 2/10 |
+| Host Name | STFU |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 11:18:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575370212334 |
+| Players | 2/8 |
+| Host Name | Lucho Tu vieja perra |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 11:15:12 |
+| Lobby Creation Time | Thursday, November 2, 2023 11:18:30 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575369231734 |
-| Players | 8/24 |
+| Players | 15/24 |
 | Host Name | BABY-ROSH (AL) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:16:43 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575369760576 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | OfficialKTChubs |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:17:41 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575367246819 |
-| Players | 7/24 |
+| Players | 4/24 |
 | Host Name | Sirlagsalot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:13:10 |
@@ -90,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DANICH |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:14:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575370448368 |
+| Players | 1/8 |
+| Host Name | ухажёр |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 11:18:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575370446975 |
+| Players | 1/10 |
+| Host Name | CACHA TOMBOS! |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 11:18:55 |
 
 
