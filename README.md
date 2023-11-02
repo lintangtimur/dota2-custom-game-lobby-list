@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575305548641 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | mr.dead |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 09:23:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575308438178 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Cuenta en venta |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:29:13 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575308968599 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Jivchik |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:30:13 |
@@ -86,9 +86,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575309000839 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | dllm |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 09:30:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575309098460 |
+| Players | 2/10 |
+| Host Name | You were nothing but a usurper |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 09:30:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575309095208 |
+| Players | 2/10 |
+| Host Name | Картель |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 09:30:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575309145069 |
+| Players | 1/8 |
+| Host Name | Lotus(A fleeting character) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 09:30:31 |
 
 
