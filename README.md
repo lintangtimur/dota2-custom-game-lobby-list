@@ -38,10 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 06:12:48 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28503923777647156 |
+| Players | 1/5 |
+| Host Name | iTz |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 3, 2023 06:13:17 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923776736946 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Casimiro Supo Tito |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:11:36 |
@@ -49,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923777551803 |
-| Players | 1/15 |
-| Host Name | kc |
+| Lobby ID | 28503923777620995 |
+| Players | 3/15 |
+| Host Name | ОГРОМНЫЙ ПУЛ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:13:06 |
+| Lobby Creation Time | Friday, November 3, 2023 06:13:14 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923777520262 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | ИндиWeed |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:13:02 |
@@ -140,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923776769903 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | not quite my tempo |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 06:11:40 |
@@ -167,18 +176,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923777350973 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Feeling Alive |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:12:44 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923777608367 |
+| Players | 1/8 |
+| Host Name | Damaroo |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 06:13:12 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923776432927 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | AtomiXs |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 06:11:04 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503923777655801 |
+| Players | 1/24 |
+| Host Name | Hüskoras |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 06:13:18 |
 
 
