@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575297605248 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | poppl |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 09:08:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575298602018 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Беспредед |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:10:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575299416273 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Ag01792 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 09:11:52 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575298882623 |
-| Players | 14/15 |
-| Host Name | Sin.Bryan[HotDog] |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 09:10:50 |
+| Lobby ID | 28502575299956038 |
+| Players | 1/15 |
+| Host Name | Es un Elissir xD |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 09:12:55 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575299366613 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | PUCP, 3er año, Ing, pepin |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:11:46 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575299387478 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | Local Optima |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:11:49 |
@@ -110,12 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:08:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575299956038 |
-| Players | 1/15 |
-| Host Name | Es un Elissir xD |
+| Lobby ID | 28502575300078797 |
+| Players | 1/10 |
+| Host Name | P福特メ |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:12:55 |
+| Lobby Creation Time | Thursday, November 2, 2023 09:13:09 |
 
 
