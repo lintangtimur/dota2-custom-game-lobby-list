@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28502575381235880 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | king jagvar |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 11:36:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575382251458 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Jivchik |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:38:29 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575381565447 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | inflammable |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:37:24 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575375998383 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | CHAD NORRIZ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:28:31 |
@@ -101,19 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 11:31:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575380212732 |
-| Players | 5/10 |
-| Host Name | pox na game |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 11:35:16 |
+| Lobby ID | 28502575383251399 |
+| Players | 2/15 |
+| Host Name | Do you feel mandingo`s dick |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 11:40:05 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575382555536 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | MODE ISSASHOW |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:38:59 |
@@ -122,8 +122,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575382734732 |
-| Players | 5/24 |
-| Host Name | Flyfriend28 |
+| Players | 4/24 |
+| Host Name | Kir-‘๑’-by༊*·˚ |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:39:16 |
 
@@ -135,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Stayler |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:39:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575383251399 |
-| Players | 1/15 |
-| Host Name | Do you feel mandingo`s dick |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 11:40:05 |
 
 
