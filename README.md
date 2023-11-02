@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575391182907 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | take it easy' |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 2, 2023 11:52:26 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575391045667 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Apsulov |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:52:13 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575391660034 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | S |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:53:10 |
@@ -59,27 +59,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575390510171 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | FORSA AAA N |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:51:25 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575392917306 |
+| Players | 2/15 |
+| Host Name | Carrying more animals than Noah |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 11:55:06 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575392852092 |
+| Lobby ID | 28502575392919401 |
 | Players | 1/8 |
 | Host Name | KIT |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 11:55:00 |
+| Lobby Creation Time | Thursday, November 2, 2023 11:55:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575392887276 |
-| Players | 1/8 |
-| Host Name | *lrxd氏 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 11:55:03 |
+| Lobby ID | 28502575392920018 |
+| Players | 3/10 |
+| Host Name | Hecker |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 11:55:06 |
 
 
