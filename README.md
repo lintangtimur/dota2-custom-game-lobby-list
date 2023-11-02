@@ -13,20 +13,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575494117482 |
-| Players | 9/10 |
-| Host Name | {THE~@} |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 14:28:22 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28502575495978283 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | DNS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 14:30:48 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575496871483 |
+| Players | 1/5 |
+| Host Name | king jagvar |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 14:31:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575493712159 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Felix |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:27:50 |
@@ -103,28 +103,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575495445276 |
-| Players | 9/10 |
-| Host Name | L-A-K-E-R |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:30:07 |
+| Lobby ID | 28502575496484628 |
+| Players | 3/10 |
+| Host Name | 私を救う |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 14:31:28 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575496156082 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | forever |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 14:31:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575496273991 |
-| Players | 1/8 |
-| Host Name | JustCoolGameR |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 14:31:11 |
+| Lobby ID | 28502575496808431 |
+| Players | 1/15 |
+| Host Name | FrosTy |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 14:31:53 |
 
 
