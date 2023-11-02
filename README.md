@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367872582691 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | Onis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 05:26:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367872717191 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | BryanGT |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 05:26:24 |
@@ -65,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 05:17:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367871896917 |
-| Players | 9/10 |
-| Host Name | El low me hizo reflexionar |
+| Lobby ID | 28503367873045743 |
+| Players | 5/8 |
+| Host Name | Vizara |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:25:08 |
+| Lobby Creation Time | Friday, November 3, 2023 05:26:54 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367872339158 |
-| Players | 2/10 |
-| Host Name | Christian "El gordo" Cueva |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 3, 2023 05:25:50 |
+| Lobby ID | 28503367873001124 |
+| Players | 3/10 |
+| Host Name | Illusion |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 05:26:50 |
 
 
 |  | ot3_gardens_duo |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367872519863 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | G_G |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 05:26:06 |
@@ -121,20 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367873001124 |
-| Players | 2/10 |
-| Host Name | Illusion |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:26:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367873035331 |
+| Lobby ID | 28503367873136572 |
 | Players | 1/10 |
-| Host Name | daddy ♠ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 05:26:53 |
+| Host Name | Lifealope |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 05:27:03 |
 
 
 |  | epic_boss_fight_nightmare |
