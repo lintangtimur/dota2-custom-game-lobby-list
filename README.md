@@ -4,15 +4,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575585854687 |
-| Players | 1/10 |
-| Host Name | chmo |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 16:25:31 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28502575587086742 |
 | Players | 1/10 |
 | Host Name | Äs Nödt |
@@ -23,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575586765599 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Kapa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 16:26:37 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575586261228 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Review旧人 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 16:26:00 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575585611762 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | 45¿shadow pool¿ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 16:25:14 |
@@ -81,5 +72,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | i need more bullets |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 16:25:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575587206582 |
+| Players | 1/8 |
+| Host Name | Детдомовец |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 16:27:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575587237838 |
+| Players | 1/8 |
+| Host Name | тот самый |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 16:27:12 |
 
 
