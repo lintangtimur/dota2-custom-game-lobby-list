@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575520778420 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 15:03:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575519610140 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | rikimaru |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 15:02:00 |
@@ -50,45 +50,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575520539679 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | SuperFranki◄ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 15:03:19 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575520201217 |
-| Players | 22/24 |
-| Host Name | ANIKI 兄貴 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 15:02:50 |
+| Lobby ID | 28502575522102227 |
+| Players | 5/10 |
+| Host Name | NT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 15:05:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575520836300 |
-| Players | 14/15 |
-| Host Name | Dragon |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 15:03:44 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575520992494 |
-| Players | 1/24 |
-| Host Name | Martin The Flower 🏵 |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 15:03:57 |
+| Lobby ID | 28502575521916171 |
+| Players | 2/8 |
+| Host Name | giovanni giorgio |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 2, 2023 15:05:16 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575521317002 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Lorden |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 15:04:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575522390977 |
+| Players | 2/8 |
+| Host Name | Yokomoto |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 15:05:57 |
 
 
