@@ -38,6 +38,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:49:54 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575665409281 |
+| Players | 1/5 |
+| Host Name | JACKSON |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 17:52:15 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575665400851 |
+| Players | 1/10 |
+| Host Name | Techugo |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 17:52:14 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575664283099 |
@@ -67,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575663911327 |
-| Players | 7/8 |
-| Host Name | 6lank |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 17:50:53 |
+| Lobby ID | 28502575665086252 |
+| Players | 3/8 |
+| Host Name | menya seychas stoshnit |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 17:51:57 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575664267745 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | СЛОВНО ХУЙ ДРОЧЁНЫЙ В ЖОПУ ПИДОР |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 17:51:13 |
@@ -119,30 +137,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:51:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575664913959 |
-| Players | 1/8 |
-| Host Name | zxcлопата |
+| Lobby ID | 28502575665323227 |
+| Players | 1/15 |
+| Host Name | скелет воин |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:51:48 |
+| Lobby Creation Time | Thursday, November 2, 2023 17:52:10 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575665086252 |
-| Players | 3/8 |
-| Host Name | menya seychas stoshnit |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 17:51:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575665211051 |
+| Lobby ID | 28502575665442104 |
 | Players | 1/8 |
-| Host Name | trestaningio |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 17:52:04 |
+| Host Name | Slime |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 17:52:17 |
 
 
