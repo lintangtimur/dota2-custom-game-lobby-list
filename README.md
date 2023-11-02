@@ -14,28 +14,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575920439145 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Narkolog |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 20:42:16 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575860360005 |
-| Players | 9/10 |
-| Host Name | Just subscribe for Linda H |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 20:08:32 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28502575921802972 |
-| Players | 1/7 |
-| Host Name | [  ] |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 20:43:01 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575908160324 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | TwentyOneInch |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 20:35:33 |
@@ -59,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575914375395 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | GATO |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 20:38:56 |
@@ -92,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 20:32:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575920213578 |
-| Players | 8/15 |
-| Host Name | DOODLES |
+| Lobby ID | 28502575921031303 |
+| Players | 8/10 |
+| Host Name | L u 4 i s t i y   P i r o j o k |
 | Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 20:42:08 |
+| Lobby Creation Time | Thursday, November 2, 2023 20:42:36 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575909745442 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | XBOX SERIES Z |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 20:36:25 |
@@ -113,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575921234841 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | naglyi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 20:42:42 |
@@ -131,19 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575920776176 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Winter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 20:42:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575920744855 |
-| Players | 7/8 |
-| Host Name | Чеченский атом |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 20:42:26 |
+| Lobby ID | 28502575865010688 |
+| Players | 22/24 |
+| Host Name | Silhouette |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 20:11:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -158,27 +140,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575921562433 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | взаимни лайки 2798 поряды |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 20:42:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575921710412 |
-| Players | 1/8 |
-| Host Name | paradise |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 20:42:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575921798193 |
-| Players | 3/8 |
-| Host Name | Гетьман Донецька |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 2, 2023 20:43:01 |
+| Lobby ID | 28502575921859019 |
+| Players | 1/15 |
+| Host Name | bonqi X phoenix |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 20:43:03 |
 
 
