@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575303839589 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Vάιŝ♡√•∆ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:20:31 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575303762774 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | MODO ELDEN LORD |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:20:22 |
@@ -103,17 +103,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575304683989 |
-| Players | 2/15 |
-| Host Name | Контрпик женщин |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 09:22:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28502575304709801 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Sapa Inca |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 09:22:10 |
