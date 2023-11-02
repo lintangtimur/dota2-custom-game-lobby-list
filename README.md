@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575490674259 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Aranis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:23:44 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575489104608 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | dasdas |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 14:21:37 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28502575491699186 |
-| Players | 1/10 |
-| Host Name | SINISTER RAMEN |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 14:25:07 |
+| Lobby ID | 28502575491820003 |
+| Players | 1/7 |
+| Host Name | Жуж |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 14:25:17 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575491147523 |
-| Players | 8/24 |
+| Players | 16/24 |
 | Host Name | ANIKI 兄貴 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:24:23 |
@@ -110,21 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:24:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575491220712 |
-| Players | 5/8 |
-| Host Name | Netske |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:24:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575491721494 |
-| Players | 1/15 |
-| Host Name | Byratino |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:25:09 |
+| Lobby ID | 28502575491850730 |
+| Players | 2/10 |
+| Host Name | amethazine |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 14:25:19 |
 
 
