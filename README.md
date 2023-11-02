@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367871194461 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | пшл_т |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 05:24:04 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367871099248 |
-| Players | 7/8 |
-| Host Name | СTO9IK |
+| Lobby ID | 28503367871857500 |
+| Players | 2/8 |
+| Host Name | ФОРТАНУЛО ЕБАТЬ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:23:55 |
+| Lobby Creation Time | Friday, November 3, 2023 05:25:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,10 +86,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367871738677 |
-| Players | 7/15 |
-| Host Name | Jeweler |
+| Players | 13/15 |
+| Host Name | MBS |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 05:24:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367871824174 |
+| Players | 2/8 |
+| Host Name | nick Ia |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 05:25:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367871889264 |
+| Players | 1/15 |
+| Host Name | URO |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 05:25:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503367871896917 |
+| Players | 2/10 |
+| Host Name | Illusion |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 05:25:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503367865539367 |
+| Players | 5/10 |
+| Host Name | ToñoRiko |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 05:15:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367871916970 |
+| Players | 2/8 |
+| Host Name | übermensch |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 05:25:10 |
 
 
 |  | epic_boss_fight_nightmare |
