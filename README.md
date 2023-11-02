@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575576487190 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | SINISTER RAMEN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 16:14:32 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28502575576251755 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Zinc |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 16:14:15 |
@@ -27,6 +27,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | NrAthrMsrh❤ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 16:14:40 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575576463526 |
+| Players | 1/5 |
+| Host Name | who? |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 16:14:30 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575576630186 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 不二周助 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 16:14:42 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575574243439 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | gglol |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 16:11:54 |
@@ -90,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | quiescent |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 16:14:53 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575576896513 |
+| Players | 1/24 |
+| Host Name | LIFE LOSER |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 16:15:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575576988124 |
+| Players | 2/10 |
+| Host Name | панк777 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 16:15:07 |
 
 
