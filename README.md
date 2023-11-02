@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367513846002 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Angmar King |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 23:36:25 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367514438682 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Најџел |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 2, 2023 23:36:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367500057564 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | TwentyOneInch |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 23:26:07 |
@@ -58,29 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367514863662 |
-| Players | 6/8 |
-| Host Name | FanChok |
+| Lobby ID | 28503367512500804 |
+| Players | 3/8 |
+| Host Name | JDH-993 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 23:37:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367514141855 |
-| Players | 8/10 |
-| Host Name | Caan |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 23:36:38 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503367508842269 |
-| Players | 5/24 |
-| Host Name | Mr. Bean Bean |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 23:32:36 |
+| Lobby Creation Time | Thursday, November 2, 2023 23:35:23 |
 
 
 |  | ot3_desert_octet |
@@ -92,46 +74,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 23:35:06 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503367508842269 |
+| Players | 6/24 |
+| Host Name | Mr. Bean Bean |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 23:32:36 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367512500804 |
-| Players | 3/8 |
-| Host Name | JDH-993 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 23:35:23 |
+| Lobby ID | 28503367515005017 |
+| Players | 1/8 |
+| Host Name | а когда не nice? |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 23:37:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503367515012419 |
+| Players | 3/10 |
+| Host Name | Vertditi19 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 23:37:18 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367513888284 |
 | Players | 14/15 |
-| Host Name | I'mS oFuckiNg B aD |
+| Host Name | Tishka |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 23:36:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503367514772641 |
-| Players | 6/8 |
-| Host Name | แมววัดบ้อ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 23:37:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503367514890237 |
-| Players | 1/24 |
-| Host Name | MacroGnome |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 23:37:12 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503367509216655 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | OID |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 23:32:53 |
