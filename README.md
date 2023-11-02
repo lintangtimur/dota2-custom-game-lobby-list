@@ -20,10 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 07:59:40 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575262064147 |
+| Players | 1/5 |
+| Host Name | KING  CRIMSON |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 08:00:16 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575259671642 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | WUTFK |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 07:56:07 |
@@ -38,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 03:35:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575259795143 |
-| Players | 12/15 |
-| Host Name | Bald globe |
+| Lobby ID | 28502575261729718 |
+| Players | 2/10 |
+| Host Name | Mört |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 07:56:20 |
+| Lobby Creation Time | Thursday, November 2, 2023 07:59:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575257735656 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Henndrix |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 07:52:49 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575261785594 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | MoonRay |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 07:59:47 |
@@ -92,21 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 07:58:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575261729718 |
-| Players | 2/10 |
-| Host Name | Mört |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 07:59:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575261952260 |
-| Players | 1/8 |
-| Host Name | GG.SPAM.EC |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 08:00:04 |
+| Lobby ID | 28502575262052330 |
+| Players | 1/15 |
+| Host Name | Great Admiral of Mongol Empire |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 08:00:15 |
 
 
