@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367732659658 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | I Love Low |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 02:38:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367732194523 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Барбек не узбек |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 02:38:13 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367732305197 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | baldej |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 02:38:19 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 02:39:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367733597712 |
-| Players | 2/10 |
-| Host Name | foxcya7 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 3, 2023 02:39:35 |
+| Lobby ID | 28503367733862478 |
+| Players | 5/15 |
+| Host Name | FieryChan |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 02:39:51 |
 
 
 |  | ot3_gardens_duo |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367732661223 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 永遠 |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 02:38:40 |
@@ -137,13 +137,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 02:39:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367733587540 |
-| Players | 10/15 |
-| Host Name | RUSSIAN POWER Z |
+| Lobby ID | 28503367734105545 |
+| Players | 1/10 |
+| Host Name | талант |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 02:39:34 |
+| Lobby Creation Time | Friday, November 3, 2023 02:40:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -158,8 +158,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367729220731 |
-| Players | 9/15 |
-| Host Name | имя чел |
+| Players | 8/15 |
+| Host Name | Туалетный утёнок |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 02:35:18 |
 
@@ -167,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367733799184 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | Parasiteِ |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 02:39:47 |
@@ -182,22 +182,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 02:39:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367733862478 |
-| Players | 1/15 |
-| Host Name | FieryChan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 02:39:51 |
+| Lobby ID | 28503367733312640 |
+| Players | 9/10 |
+| Host Name | Κυριλέ.Τάκης ο Raver |
+| Region | AUSTRIA |
+| Lobby Creation Time | Friday, November 3, 2023 02:39:18 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367733913931 |
+| Lobby ID | 28503367734082604 |
 | Players | 1/10 |
-| Host Name | ваша доча дотер |
+| Host Name | R[1]fma |
 | Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 02:39:54 |
+| Lobby Creation Time | Friday, November 3, 2023 02:40:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367734110677 |
+| Players | 1/8 |
+| Host Name | Лизал Чупик |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 3, 2023 02:40:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503367734120598 |
+| Players | 1/10 |
+| Host Name | palorage <3 |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 02:40:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367734129089 |
+| Players | 2/8 |
+| Host Name | foxcya7 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 3, 2023 02:40:07 |
 
 
 |  | epic_boss_fight_normal |
