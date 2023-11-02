@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575332398036 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | NoMerCy (งツ)ว |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:11:35 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575333346942 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | 大炮 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:13:10 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575332944956 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Hope |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:12:30 |
@@ -130,10 +130,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575333383260 |
+| Lobby ID | 28502575333434980 |
 | Players | 1/15 |
-| Host Name | GoDk1nG穿主流 |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 10:13:13 |
+| Host Name | Andrus |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 10:13:18 |
 
 
