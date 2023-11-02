@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575495978283 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | DNS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 14:30:48 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575499560705 |
-| Players | 4/10 |
-| Host Name | 哇得发~ |
+| Players | 1/10 |
+| Host Name | TINONTOTOYO |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 2, 2023 14:35:29 |
 
@@ -32,19 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575500534341 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Da Wae |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:36:45 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28502575500853271 |
-| Players | 1/7 |
-| Host Name | Spirit Cock Sucker |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 14:37:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:25:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575497791593 |
-| Players | 22/24 |
-| Host Name | D4C |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 14:33:10 |
+| Lobby ID | 28502575500535519 |
+| Players | 2/8 |
+| Host Name | очкозавр володя |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 14:36:45 |
 
 
 |  | ot3_jungle_quintet |
@@ -121,19 +112,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575500535519 |
+| Lobby ID | 28502575501113464 |
 | Players | 2/8 |
-| Host Name | очкозавр володя |
+| Host Name | Godjo |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:36:45 |
+| Lobby Creation Time | Thursday, November 2, 2023 14:37:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575500555892 |
-| Players | 1/8 |
-| Host Name | рома кукумбер |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 14:36:47 |
+| Lobby ID | 28502575501130504 |
+| Players | 8/15 |
+| Host Name | ZXC_Сапортик__ |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 14:37:34 |
 
 
