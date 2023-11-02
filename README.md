@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575304707176 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | FudencioES* |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 09:22:10 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575303891210 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | appreciate life |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:20:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575303973871 |
-| Players | 7/8 |
-| Host Name | Muy Malo |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:20:46 |
+| Lobby ID | 28502575305548641 |
+| Players | 2/24 |
+| Host Name | mr.dead |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 09:23:45 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575304384620 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | DIOzawr |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:21:33 |
@@ -56,57 +56,57 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:21:12 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575303725671 |
-| Players | 9/10 |
-| Host Name | CHAD NORRIZ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:20:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575303839589 |
-| Players | 10/15 |
-| Host Name | Vάιŝ♡√•∆ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:20:31 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575303762774 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | MODO ELDEN LORD |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:20:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575305245837 |
-| Players | 4/8 |
-| Host Name | Zuah |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 09:23:11 |
+| Lobby ID | 28502575303839589 |
+| Players | 12/15 |
+| Host Name | Vάιŝ♡√•∆ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 09:20:31 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575305211374 |
-| Players | 5/10 |
-| Host Name | iseedeadp3ople |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:23:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575305334776 |
-| Players | 3/24 |
-| Host Name | Eurico |
+| Lobby ID | 28502575305431851 |
+| Players | 4/10 |
+| Host Name | ahUO |
 | Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 09:23:21 |
+| Lobby Creation Time | Thursday, November 2, 2023 09:23:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575305471203 |
+| Players | 3/15 |
+| Host Name | vicjug |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 09:23:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575305607995 |
+| Players | 2/15 |
+| Host Name | QJC |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 09:23:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575305245837 |
+| Players | 7/8 |
+| Host Name | Zuah |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 09:23:11 |
 
 
