@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575523864419 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Makson! sw3g. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 15:07:59 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575524559850 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | average women avoider |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 15:08:57 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575524443924 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | ꃥꈤꊐ |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 15:08:48 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575524696831 |
-| Players | 1/24 |
-| Host Name | Yatoro | TS |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 15:09:09 |
+| Lobby ID | 28502575524712072 |
+| Players | 4/10 |
+| Host Name | титьки ежевики |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 15:09:10 |
 
 
 |  | ot3_desert_octet |
