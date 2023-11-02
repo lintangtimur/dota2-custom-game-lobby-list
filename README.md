@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -31,20 +31,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575502903033 |
+| Lobby ID | 28502575503065751 |
 | Players | 4/8 |
-| Host Name | бесперспективняк |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 14:39:55 |
+| Host Name | Палыч |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 14:40:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575501497482 |
-| Players | 12/15 |
-| Host Name | Dragon |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 14:38:03 |
+| Lobby ID | 28502575501113464 |
+| Players | 7/8 |
+| Host Name | Godjo |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 14:37:33 |
 
 
 |  | ot3_desert_octet |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575502575722 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | дыра энигмы |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 14:39:29 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575502748808 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | ^^ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:39:43 |
@@ -153,32 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CYKA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:39:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575501113464 |
-| Players | 6/8 |
-| Host Name | Godjo |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:37:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575503015600 |
-| Players | 5/8 |
-| Host Name | Watatofs |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:40:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575503065751 |
-| Players | 4/8 |
-| Host Name | Палыч |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 14:40:07 |
 
 
