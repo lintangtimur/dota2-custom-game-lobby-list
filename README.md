@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575420948985 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | NEO |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 12:37:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575425475661 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | ваня гугугага |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 12:44:58 |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RiftBreaker |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 12:37:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575427409278 |
+| Players | 1/8 |
+| Host Name | я и 4 хай скила |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 12:48:05 |
 
 
