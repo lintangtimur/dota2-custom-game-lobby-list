@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575425569881 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | 1nvoken |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:45:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575426942752 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | El Tilin humilde |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:47:20 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575428694872 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | ♁＊＊ SIA ＊＊ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:50:10 |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | dengi |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:50:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575429389211 |
+| Players | 3/8 |
+| Host Name | бруда алфеева |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 12:51:15 |
 
 
