@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575484306418 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 14:15:07 |
@@ -104,28 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575502572748 |
-| Players | 12/15 |
+| Players | 10/15 |
 | Host Name | tv|artOfmagnus |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 14:39:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575502166356 |
-| Players | 1/8 |
-| Host Name | Netske |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:38:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575502748808 |
-| Players | 8/24 |
-| Host Name | ^^ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 14:39:43 |
 
 
 |  | ot3_necropolis_ffa |
@@ -137,12 +119,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:38:50 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575502748808 |
+| Players | 10/24 |
+| Host Name | ^^ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 14:39:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575503867528 |
+| Players | 1/10 |
+| Host Name | EgelatoR |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 14:41:09 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575502256400 |
-| Players | 9/10 |
-| Host Name | RIMING |
+| Players | 7/10 |
+| Host Name | OneWay ༼つ ◕_◕ ༽つ |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:39:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575503923185 |
+| Players | 1/8 |
+| Host Name | Lorden |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 14:41:14 |
 
 
