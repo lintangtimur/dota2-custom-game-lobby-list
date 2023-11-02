@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367886983510 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Ratasor |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 05:48:40 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367888867058 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Hope |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 05:51:45 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367888773285 |
-| Players | 13/15 |
-| Host Name | Ta1sty |
+| Lobby ID | 28503367887452346 |
+| Players | 14/15 |
+| Host Name | крутой777 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:51:36 |
+| Lobby Creation Time | Friday, November 3, 2023 05:49:26 |
 
 
 |  | ot3_desert_octet |
@@ -50,34 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367889443290 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Пеноплекс |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 05:52:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367889705484 |
-| Players | 1/10 |
-| Host Name | godsplan |
+| Lobby ID | 28503367889838440 |
+| Players | 1/8 |
+| Host Name | glebas |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:53:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367888757007 |
-| Players | 9/10 |
-| Host Name | admi№ DOTA CHESS SUCK MY BALLS |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:51:34 |
+| Lobby Creation Time | Friday, November 3, 2023 05:53:20 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28503367887453315 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | carlos |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 05:49:26 |
