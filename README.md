@@ -31,11 +31,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575511529332 |
+| Lobby ID | 28502575511664628 |
+| Players | 3/10 |
+| Host Name | lupanamaingatrasa |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 14:51:20 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575511633189 |
 | Players | 1/10 |
-| Host Name | MadKing |
+| Host Name | .... |
 | Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 14:51:10 |
+| Lobby Creation Time | Thursday, November 2, 2023 14:51:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575509557100 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Broken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 14:48:35 |
@@ -58,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575505430157 |
-| Players | 14/15 |
-| Host Name | EL HOMBRE SIDA !! |
+| Lobby ID | 28502575510151833 |
+| Players | 2/15 |
+| Host Name | Mafiato |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 14:43:11 |
+| Lobby Creation Time | Thursday, November 2, 2023 14:49:22 |
 
 
 |  | ot3_desert_octet |
@@ -101,21 +110,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:45:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575510151833 |
-| Players | 1/15 |
-| Host Name | Mafiato |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 14:49:22 |
+| Lobby ID | 28502575511737918 |
+| Players | 1/8 |
+| Host Name | 2СЕ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 14:51:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575511607096 |
-| Players | 1/15 |
-| Host Name | Jabroni |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 14:51:16 |
+| Lobby ID | 28502575511735051 |
+| Players | 2/10 |
+| Host Name | Dazar |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 14:51:26 |
 
 
