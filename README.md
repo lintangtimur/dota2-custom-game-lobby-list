@@ -5,34 +5,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575685953149 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | ᴋᴀᴇʟ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 18:10:05 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28502575684569905 |
-| Players | 1/10 |
-| Host Name | 青椒小新 |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 18:08:57 |
+| Lobby ID | 28502575689543825 |
+| Players | 1/7 |
+| Host Name | La luz del Sol |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 18:13:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575660710971 |
-| Players | 4/10 |
-| Host Name | Too Good To Win? |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 17:47:58 |
+| Lobby ID | 28502575688667528 |
+| Players | 1/8 |
+| Host Name | rayx he evpop dya |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 18:12:19 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575686133840 |
-| Players | 3/24 |
+| Players | 8/24 |
 | Host Name | CYKA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 18:10:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575687785759 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | АбаканскоеПиво |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 18:11:35 |
@@ -56,12 +56,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 18:11:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575674417475 |
-| Players | 14/15 |
-| Host Name | Мой топор |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 18:00:18 |
+| Lobby ID | 28502575688696039 |
+| Players | 6/10 |
+| Host Name | Інфляція |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 18:12:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575689486558 |
+| Players | 1/10 |
+| Host Name | Ray |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 18:12:59 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575683629945 |
+| Players | 23/24 |
+| Host Name | nigero GEOP |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 18:08:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575689528932 |
+| Players | 1/10 |
+| Host Name | BrokenMirror |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 18:13:01 |
 
 
