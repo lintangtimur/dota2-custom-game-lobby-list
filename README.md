@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341619767028 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | так гріє <3 |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 07:31:29 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341620015584 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Juan El Narco |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 07:31:59 |
@@ -103,20 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502341620060103 |
-| Players | 1/8 |
-| Host Name | БаРаГуЗ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 07:32:04 |
+| Lobby ID | 28502341620074794 |
+| Players | 2/8 |
+| Host Name | Shamil Basaev |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 07:32:06 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502341620074794 |
-| Players | 1/8 |
-| Host Name | Shamil Basaev |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 07:32:06 |
+| Lobby ID | 28502341620187122 |
+| Players | 2/8 |
+| Host Name | It's ok I just need a break |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 07:32:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dota<3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 07:10:19 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502341620186971 |
+| Players | 1/10 |
+| Host Name | 日本語で何か |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 07:32:19 |
 
 
