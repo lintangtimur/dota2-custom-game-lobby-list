@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575622719583 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | пасха ивановна |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 17:09:06 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575623544400 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | v potoke? ya p2daraz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 17:10:03 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575623397618 |
-| Players | 1/24 |
-| Host Name | 大炮 |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 17:09:53 |
+| Lobby ID | 28502575618235997 |
+| Players | 23/24 |
+| Host Name | noom |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 17:03:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575624030266 |
-| Players | 7/8 |
-| Host Name | Werl1X |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 17:10:36 |
+| Lobby ID | 28502575624241289 |
+| Players | 1/8 |
+| Host Name | I CAN HOST OVERTHROW !!! |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 17:10:50 |
 
 
 |  | ot3_necropolis_ffa |
@@ -108,42 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 萧瑟 |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 17:10:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575623818612 |
-| Players | 1/8 |
-| Host Name | BarFaCk |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 17:10:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575624128142 |
-| Players | 1/15 |
-| Host Name | zxc |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 17:10:42 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575618235997 |
-| Players | 22/24 |
-| Host Name | noom |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 17:03:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575624241289 |
-| Players | 1/8 |
-| Host Name | I CAN HOST OVERTHROW !!! |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 17:10:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -159,7 +123,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28502575623208161 |
 | Players | 7/8 |
-| Host Name | 155мм демократії |
+| Host Name | baldej |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:09:40 |
 
