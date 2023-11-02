@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575364533325 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Martin-Luther-King. |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:08:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575366093931 |
-| Players | 2/15 |
-| Host Name | Spaceman Spiff |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 11:11:06 |
+| Lobby ID | 28502575366199449 |
+| Players | 1/8 |
+| Host Name | COCO BASILE |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 11:11:18 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575365993494 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Kill 'Em All |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:10:56 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575366228798 |
+| Players | 1/24 |
+| Host Name | หยุดเกย์ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 11:11:21 |
 
 
