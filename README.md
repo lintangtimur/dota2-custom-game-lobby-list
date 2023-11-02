@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341603285911 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Muy Malo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 06:58:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502341581285253 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Slatt amoeba |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 06:17:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502341603039566 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Stringer |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 06:57:51 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341603667951 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | vicjug |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 06:59:04 |
@@ -126,6 +126,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | I ONCE SHAGGED A GOAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 06:59:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502341604126498 |
+| Players | 4/8 |
+| Host Name | danye west |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 06:59:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502341604151996 |
+| Players | 3/8 |
+| Host Name | just die aready |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 07:00:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502341604183201 |
+| Players | 2/10 |
+| Host Name | ♥ Hentai Machine ♥ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 07:00:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502341604182060 |
+| Players | 1/24 |
+| Host Name | Ogre Achiever |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 07:00:05 |
 
 
 |  | epic_boss_fight_nightmare |
