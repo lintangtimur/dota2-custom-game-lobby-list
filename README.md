@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575310153990 |
-| Players | 3/7 |
-| Host Name | Arwien |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:32:19 |
+| Lobby ID | 28502575310352234 |
+| Players | 1/10 |
+| Host Name | シャドーダイブ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 09:32:40 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,34 +32,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575308511162 |
-| Players | 8/24 |
+| Players | 17/24 |
 | Host Name | Jhagotoro >:v |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:29:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575309362735 |
-| Players | 11/15 |
-| Host Name | Logen |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 09:30:54 |
+| Lobby ID | 28502575310287266 |
+| Players | 1/8 |
+| Host Name | DPGaming |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 09:32:33 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575309658389 |
+| Lobby ID | 28502575310338695 |
 | Players | 1/15 |
-| Host Name | Imagio |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 09:31:26 |
+| Host Name | Rover |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 09:32:39 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575309098460 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | You were nothing but a usurper |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:30:27 |
@@ -99,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Champions_01 |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 09:32:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575310291346 |
+| Players | 1/8 |
+| Host Name | «Dendi es mi Pastor» |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 09:32:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575310517099 |
+| Players | 1/15 |
+| Host Name | МИША МАВАШИ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 09:32:58 |
 
 
