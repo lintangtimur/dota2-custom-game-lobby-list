@@ -86,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575417000431 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Turbo God |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:31:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575417204061 |
-| Players | 1/15 |
-| Host Name | ЛАРИСА |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 12:32:03 |
 
 
