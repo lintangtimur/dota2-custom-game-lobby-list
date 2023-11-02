@@ -23,28 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575924781574 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | lupanamaingatrasa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 20:44:39 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575916983002 |
-| Players | 1/10 |
-| Host Name | ジェース |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 20:40:22 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502575929654661 |
-| Players | 1/5 |
-| Host Name | Adobo.Suplex |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 20:47:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 20:46:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575927716038 |
-| Players | 6/8 |
-| Host Name | Kinryouku |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 20:46:12 |
+| Lobby ID | 28502575929605165 |
+| Players | 9/15 |
+| Host Name | Фёдор Шишкин |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 20:47:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575914375395 |
-| Players | 7/24 |
+| Players | 4/24 |
 | Host Name | Смурф на фп |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 20:38:56 |
@@ -86,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575921197780 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | 偷乐 |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 20:42:41 |
@@ -95,36 +77,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575927555524 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | sdasd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 20:46:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575926382009 |
-| Players | 8/10 |
-| Host Name | Yorch |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 20:45:29 |
+| Lobby ID | 28502575930105497 |
+| Players | 1/15 |
+| Host Name | ) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 20:47:31 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575929058754 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ExSide- |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 20:46:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575929605165 |
-| Players | 4/15 |
-| Host Name | Фёдор Шишкин |
+| Lobby ID | 28502575930062864 |
+| Players | 4/8 |
+| Host Name | абу салют |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 20:47:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575930149832 |
+| Players | 2/8 |
+| Host Name | PYLR |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 20:47:15 |
+| Lobby Creation Time | Thursday, November 2, 2023 20:47:32 |
 
 
