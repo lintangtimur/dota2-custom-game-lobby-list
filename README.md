@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575645802427 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | i'am losing in control |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 17:33:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575648140701 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | молодой стручо |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 17:35:59 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:30:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575645668496 |
-| Players | 10/15 |
-| Host Name | Пиван |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:33:32 |
+| Lobby ID | 28502575648440345 |
+| Players | 2/10 |
+| Host Name | придурошный |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 17:36:17 |
 
 
 |  | ot3_gardens_duo |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:35:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575648004946 |
-| Players | 2/8 |
-| Host Name | 🥹 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 17:35:51 |
+| Lobby ID | 28502575648366366 |
+| Players | 5/10 |
+| Host Name | . |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 2, 2023 17:36:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -119,30 +119,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:35:49 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575648254993 |
-| Players | 2/10 |
-| Host Name | придурошный |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 17:36:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575648290713 |
-| Players | 2/10 |
-| Host Name | BOCSANÓT2010 |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 2, 2023 17:36:08 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575648303822 |
-| Players | 1/24 |
-| Host Name | LoneWolf |
+| Lobby ID | 28502575648394998 |
+| Players | 4/24 |
+| Host Name | fate/ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 17:36:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575648483221 |
+| Players | 2/10 |
+| Host Name | SUS Egorio 777 |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 17:36:08 |
+| Lobby Creation Time | Thursday, November 2, 2023 17:36:19 |
 
 
