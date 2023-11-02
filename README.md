@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575575992426 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | 123456 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 16:13:56 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575574367417 |
-| Players | 23/24 |
-| Host Name | 大鲶鱼 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 16:12:02 |
+| Lobby ID | 28502575576216380 |
+| Players | 1/24 |
+| Host Name | ММАТИВАЦИ НАДА ПП |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 16:14:13 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575574996362 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Северный Человек |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 16:12:47 |
@@ -83,21 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 16:13:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575576038447 |
-| Players | 1/15 |
-| Host Name | LIFE LOSER |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 16:14:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575576070633 |
-| Players | 1/8 |
-| Host Name | WAYNE |
+| Lobby ID | 28502575576090482 |
+| Players | 1/10 |
+| Host Name | zxc zerо |
 | Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 16:14:02 |
+| Lobby Creation Time | Thursday, November 2, 2023 16:14:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575576211671 |
+| Players | 3/10 |
+| Host Name | sphynxy |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 2, 2023 16:14:12 |
 
 
