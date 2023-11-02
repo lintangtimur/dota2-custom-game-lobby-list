@@ -11,13 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 16:38:37 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575600704847 |
+| Players | 1/5 |
+| Host Name | P$IH |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 16:43:22 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575599803722 |
-| Players | 3/8 |
-| Host Name | эгоист |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 16:42:18 |
+| Lobby ID | 28502575600692414 |
+| Players | 1/8 |
+| Host Name | apelsin |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 16:43:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 16:42:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575600478132 |
-| Players | 2/10 |
-| Host Name | олег 8 лет, пошлый |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 16:43:06 |
+| Lobby ID | 28502575600673314 |
+| Players | 1/24 |
+| Host Name | 路人 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 16:43:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575595827505 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Tatz★ |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 2, 2023 16:37:32 |
@@ -59,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575600467421 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Raoul Duke |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 2, 2023 16:43:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575599554107 |
-| Players | 1/8 |
-| Host Name | Куратор Кракен |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 16:42:00 |
+| Lobby ID | 28502575600586467 |
+| Players | 2/24 |
+| Host Name | 云海 |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 16:43:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575600459390 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, November 2, 2023 16:43:05 |
