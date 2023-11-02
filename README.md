@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575607971247 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Антонио Еблэнас |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 16:51:56 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575606786917 |
-| Players | 2/24 |
-| Host Name | Sirlagsalot |
+| Players | 1/24 |
+| Host Name | gotchu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 16:50:34 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575608882675 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Review旧人 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 16:52:59 |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575600459390 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, November 2, 2023 16:43:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575607872841 |
-| Players | 7/8 |
-| Host Name | per aspera ad astra |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 16:51:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575605265298 |
-| Players | 14/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 16:48:47 |
 
 
 |  | ot3_gardens_duo |
@@ -101,12 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 16:53:44 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575605265298 |
+| Players | 14/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 16:48:47 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575609732311 |
-| Players | 1/8 |
+| Lobby ID | 28502575609867497 |
+| Players | 2/8 |
 | Host Name | red___sky___ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 16:53:57 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 16:54:07 |
 
 
