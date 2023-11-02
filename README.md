@@ -20,22 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:50:10 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575565951032 |
-| Players | 1/7 |
-| Host Name | Player1 |
+| Lobby ID | 28502575566098107 |
+| Players | 1/10 |
+| Host Name | [VDS] DAZ |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 16:01:59 |
+| Lobby Creation Time | Thursday, November 2, 2023 16:02:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575563295453 |
-| Players | 1/15 |
-| Host Name | Sir.Sly# |
+| Lobby ID | 28502575565879740 |
+| Players | 1/8 |
+| Host Name | .white crow |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 15:58:47 |
+| Lobby Creation Time | Thursday, November 2, 2023 16:01:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575563200589 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 15:58:41 |
@@ -74,30 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 16:01:34 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575564974462 |
-| Players | 12/15 |
-| Host Name | Dragon |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 16:00:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575558461660 |
-| Players | 9/10 |
-| Host Name | i |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 15:52:49 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575565879740 |
-| Players | 1/8 |
-| Host Name | .white crow |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 16:01:54 |
+| Lobby ID | 28502575565955380 |
+| Players | 4/8 |
+| Host Name | apelsin |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 16:02:00 |
 
 
