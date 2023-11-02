@@ -20,6 +20,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:50:10 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575568304128 |
+| Players | 1/5 |
+| Host Name | Фриказоид |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 16:04:49 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575568378482 |
+| Players | 1/5 |
+| Host Name | autumn |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 16:04:55 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575565879740 |
@@ -50,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575559254910 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | JESUS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 15:53:48 |
@@ -77,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575567533116 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | waiting for death |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 16:03:54 |
@@ -86,27 +104,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575567654490 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | EzaeZ1 |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 16:04:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575567763072 |
-| Players | 2/15 |
-| Host Name | ни чего себе |
+| Lobby ID | 28502575568146882 |
+| Players | 5/8 |
+| Host Name | Parazittus |
 | Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 16:04:10 |
+| Lobby Creation Time | Thursday, November 2, 2023 16:04:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575567947907 |
-| Players | 1/15 |
-| Host Name | QWOP |
+| Lobby ID | 28502575567994867 |
+| Players | 1/8 |
+| Host Name | iB.Rock |
 | Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 16:04:24 |
+| Lobby Creation Time | Thursday, November 2, 2023 16:04:27 |
 
 
