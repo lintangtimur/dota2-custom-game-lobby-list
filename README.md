@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575434359751 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Mr. Nobody |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:58:59 |
@@ -27,6 +27,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kunde |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 12:59:01 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28502575436859640 |
+| Players | 1/7 |
+| Host Name | ᴾᴿᴼ|-Dᴀɴzッ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 13:03:08 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575435804542 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Геральд из Сирии |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 13:01:21 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575432821221 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | string |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:56:35 |
@@ -68,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575431712504 |
-| Players | 5/15 |
-| Host Name | vinMarKi |
+| Players | 4/15 |
+| Host Name | Chispitas |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:54:51 |
 
@@ -77,9 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575432089024 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | **__An1nh4_++_Tr3v0s4__** |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:55:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575436849007 |
+| Players | 1/10 |
+| Host Name | 私を救う |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 13:03:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575436886834 |
+| Players | 1/15 |
+| Host Name | ꃥꈤꊐ |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 13:03:11 |
 
 
