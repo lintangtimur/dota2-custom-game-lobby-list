@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367816900842 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Darkbear |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 04:09:46 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367817214919 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | Shawn Oakman |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 04:10:08 |
@@ -40,18 +40,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367817952390 |
-| Players | 10/15 |
-| Host Name | Marinacle- |
+| Lobby ID | 28503367817788965 |
+| Players | 1/15 |
+| Host Name | Stralexkon |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:11:02 |
+| Lobby Creation Time | Friday, November 3, 2023 04:10:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367784895976 |
-| Players | 3/24 |
-| Host Name | El dios incaico |
+| Players | 2/24 |
+| Host Name | ◢◤ Mew |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 03:33:06 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367796616949 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | AWA15- |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 03:46:08 |
@@ -95,28 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367817786920 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | 先生 X |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 04:10:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367817788965 |
-| Players | 1/15 |
-| Host Name | Stralexkon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:10:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503367818052916 |
-| Players | 2/8 |
-| Host Name | Увековечно в камне |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:11:09 |
+| Lobby ID | 28503367818216932 |
+| Players | 2/10 |
+| Host Name | tomuki |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 04:11:21 |
 
 
 |  | epic_boss_fight_challenger |
