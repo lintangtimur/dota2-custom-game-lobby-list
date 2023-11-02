@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 10:03:43 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28502575327985355 |
+| Lobby ID | 28502575328266062 |
 | Players | 1/7 |
 | Host Name | fentanyl4mg+10## |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 10:03:58 |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 10:04:27 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575326608784 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | El dios incaico |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:01:35 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575327538741 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | khay khay |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:03:11 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575327959892 |
-| Players | 2/10 |
-| Host Name | bypanda69 |
+| Players | 4/10 |
+| Host Name | los estudios me nerfearon |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:03:55 |
 
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575328129392 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Cockroach |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:04:13 |
@@ -117,5 +117,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mil<3 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:04:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575328227609 |
+| Players | 1/10 |
+| Host Name | Darkness |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 10:04:23 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575328252716 |
+| Players | 2/24 |
+| Host Name | miss 2B |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 10:04:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575328254465 |
+| Players | 1/10 |
+| Host Name | ATLANT⇄Trading Knives /Gloves |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 10:04:26 |
 
 
