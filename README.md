@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:21:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575410527308 |
-| Players | 1/8 |
-| Host Name | McChicken |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 12:21:51 |
+| Lobby ID | 28502575416617306 |
+| Players | 2/24 |
+| Host Name | 风显 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 12:31:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:27:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575416056102 |
-| Players | 13/15 |
-| Host Name | sílam moríhoh^^ |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 12:30:21 |
+| Lobby ID | 28502575415731184 |
+| Players | 7/10 |
+| Host Name | dengi |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 12:29:51 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575414347155 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Toshiro... |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:27:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575416449960 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Negachu |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:30:56 |
@@ -101,21 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:27:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575415731184 |
-| Players | 7/10 |
-| Host Name | dengi |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 12:29:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575416585756 |
-| Players | 1/10 |
-| Host Name | Quendi |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 12:31:08 |
+| Lobby ID | 28502575416689822 |
+| Players | 1/8 |
+| Host Name | ADICTO |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 12:31:18 |
 
 
