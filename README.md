@@ -38,6 +38,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:53:05 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575513865994 |
+| Players | 1/5 |
+| Host Name | simple |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 14:54:13 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575513185033 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | aqaca |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 14:53:19 |
@@ -117,5 +126,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MikeLangelo |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 14:54:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575513855168 |
+| Players | 1/24 |
+| Host Name | dezzadronchik |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 14:54:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575510151833 |
+| Players | 11/15 |
+| Host Name | Mafiato |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 14:49:22 |
 
 
