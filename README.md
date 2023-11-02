@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 18:40:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575727798779 |
-| Players | 6/10 |
-| Host Name | OBITO UCHIHA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 18:42:36 |
+| Lobby ID | 28502575724769546 |
+| Players | 23/24 |
+| Host Name | Not Emi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 18:40:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575727632948 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | cb|fh99^ # have fun :) |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 18:42:28 |
@@ -103,17 +103,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575728377591 |
-| Players | 2/8 |
-| Host Name | water dance |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 18:43:01 |
+| Lobby ID | 28502575728563340 |
+| Players | 1/8 |
+| Host Name | antiredan1.STONEISLAND2222 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 18:43:09 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575728362208 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | мазня говном |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 18:43:00 |
@@ -126,5 +126,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | pivo i 4ipsi |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 18:40:18 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575728708194 |
+| Players | 1/24 |
+| Host Name | 马季福奇 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 18:43:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575728650407 |
+| Players | 1/8 |
+| Host Name | Тапок96 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 18:43:13 |
 
 
