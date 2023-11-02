@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367801407374 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | улюлю |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 03:51:34 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 05:00:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367855817014 |
-| Players | 10/15 |
-| Host Name | Mels |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:00:50 |
+| Lobby ID | 28503367854816400 |
+| Players | 9/10 |
+| Host Name | Intelegent |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 04:59:19 |
 
 
 |  | ot3_desert_octet |
@@ -40,20 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367855968427 |
-| Players | 1/8 |
-| Host Name | egoisto???? |
+| Lobby ID | 28503367856126628 |
+| Players | 6/8 |
+| Host Name | Bondwewd :3 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:01:03 |
+| Lobby Creation Time | Friday, November 3, 2023 05:01:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503367853363480 |
-| Players | 13/15 |
-| Host Name | Aarön |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 04:57:17 |
+| Lobby ID | 28503367830465198 |
+| Players | 6/24 |
+| Host Name | Quizas... |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 04:26:33 |
 
 
 |  | ot3_jungle_quintet |
@@ -67,38 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367855304242 |
-| Players | 10/15 |
-| Host Name | Fruugu |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:00:01 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503367830465198 |
-| Players | 7/24 |
-| Host Name | Quizas... |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 04:26:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503367854412255 |
+| Lobby ID | 28503367856175314 |
 | Players | 1/15 |
 | Host Name | Зеновій Гучок |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:58:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367854229913 |
-| Players | 5/10 |
-| Host Name | zzzz |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:58:30 |
+| Lobby Creation Time | Friday, November 3, 2023 05:01:22 |
 
 
 |  | epic_boss_fight_normal |
