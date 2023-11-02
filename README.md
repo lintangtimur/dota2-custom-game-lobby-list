@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 18:24:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575704686300 |
-| Players | 2/10 |
-| Host Name | соси мое говно |
+| Lobby ID | 28502575701268825 |
+| Players | 6/8 |
+| Host Name | prinZ |
 | Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 2, 2023 18:25:04 |
+| Lobby Creation Time | Thursday, November 2, 2023 18:22:26 |
 
 
 |  | ot3_gardens_duo |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 18:24:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575704603357 |
-| Players | 10/15 |
-| Host Name | ctrl-V |
+| Lobby ID | 28502575704928013 |
+| Players | 1/8 |
+| Host Name | 8) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 18:25:01 |
+| Lobby Creation Time | Thursday, November 2, 2023 18:25:16 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575700329033 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | fate/ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 18:21:41 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575704848527 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | οὐροβόρος |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 18:25:12 |
@@ -101,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 18:25:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575704928013 |
-| Players | 1/8 |
-| Host Name | 8) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 18:25:16 |
+| Lobby ID | 28502575705151289 |
+| Players | 2/10 |
+| Host Name | соси мое говно |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 2, 2023 18:25:26 |
 
 
