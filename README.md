@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:11:14 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575625653336 |
+| Players | 1/5 |
+| Host Name | Rubato |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 17:12:25 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575624584538 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575625237142 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Missing you happiness |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 17:11:57 |
@@ -56,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 16:57:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575622916009 |
-| Players | 1/8 |
-| Host Name | Nelson 닉 |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 17:09:20 |
+| Lobby ID | 28502575625553474 |
+| Players | 8/10 |
+| Host Name | /[GoD]\ crystallime |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 17:12:18 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575623494319 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Little |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:09:59 |
@@ -83,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 16:59:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575624241289 |
-| Players | 7/8 |
-| Host Name | Escanor |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 17:10:50 |
+| Lobby ID | 28502575625306959 |
+| Players | 1/15 |
+| Host Name | purity |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 17:12:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:10:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575624953965 |
-| Players | 1/10 |
-| Host Name | Stimrl |
+| Lobby ID | 28502575625459722 |
+| Players | 1/15 |
+| Host Name | · |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 17:11:38 |
+| Lobby Creation Time | Thursday, November 2, 2023 17:12:12 |
 
 
 |  | ot3_jungle_quintet |
@@ -122,8 +131,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575625086309 |
-| Players | 8/15 |
-| Host Name | パラダイスはただの希 |
+| Players | 13/15 |
+| Host Name | Главный |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 17:11:46 |
 
@@ -131,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575625215415 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Дімка українець |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:11:55 |
@@ -139,28 +148,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575625306959 |
+| Lobby ID | 28502575625608429 |
 | Players | 1/15 |
-| Host Name | purity |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 17:12:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575625459722 |
-| Players | 1/15 |
-| Host Name | · |
+| Host Name | Fadealy |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 17:12:12 |
+| Lobby Creation Time | Thursday, November 2, 2023 17:12:22 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575625472275 |
-| Players | 1/8 |
-| Host Name | eternity is awesome |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:12:13 |
+| Lobby ID | 28502575625637895 |
+| Players | 2/8 |
+| Host Name | унитаз плюс |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 17:12:24 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575625658307 |
+| Players | 1/24 |
+| Host Name | 我的生命XXX一样多 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 17:12:25 |
 
 
