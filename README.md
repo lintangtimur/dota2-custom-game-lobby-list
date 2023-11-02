@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575426942752 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | El Tilin humilde |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:47:20 |
@@ -83,28 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:47:40 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575429215294 |
+| Players | 1/15 |
+| Host Name | Снежана 2006 |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 12:50:59 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575428928909 |
-| Players | 5/8 |
+| Lobby ID | 28502575429306463 |
+| Players | 6/8 |
 | Host Name | Kiyotaka |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 12:50:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575428386072 |
-| Players | 7/8 |
-| Host Name | FemLord |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 12:49:40 |
+| Lobby Creation Time | Thursday, November 2, 2023 12:51:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575428694872 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | ♁＊＊ SIA ＊＊ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:50:10 |
@@ -126,23 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | dengi |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:50:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575429215294 |
-| Players | 1/15 |
-| Host Name | Снежана 2006 |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 12:50:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575429247339 |
-| Players | 5/8 |
-| Host Name | Solo Leveling |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 12:51:02 |
 
 
