@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367744356438 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | sol y playa |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 02:50:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367697377645 |
-| Players | 8/24 |
+| Players | 14/24 |
 | Host Name | Conqueeftador |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 02:05:16 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367739286038 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 02:45:12 |
@@ -119,19 +119,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 02:59:59 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367754280872 |
-| Players | 4/24 |
-| Host Name | 𝕽𝖊𝖑𝖎𝖆𝖇𝖑𝖊 |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 03:00:13 |
+| Lobby ID | 28503367754424037 |
+| Players | 1/8 |
+| Host Name | Jivchik |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 03:00:22 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367754236695 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | w0rse |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 3, 2023 03:00:10 |
@@ -171,5 +171,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Papi te vas< |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 02:59:40 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503367754422514 |
+| Players | 1/10 |
+| Host Name | Pescadero |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 03:00:22 |
 
 
