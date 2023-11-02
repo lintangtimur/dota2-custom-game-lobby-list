@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575508840497 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Кмс по куни |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 14:47:39 |
@@ -113,9 +113,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575508503247 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | боцман |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 14:47:13 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575509168087 |
+| Players | 3/24 |
+| Host Name | Mango Three |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 14:48:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575507620451 |
+| Players | 7/8 |
+| Host Name | Wolfram |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 14:46:04 |
 
 
