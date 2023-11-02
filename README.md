@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575357128560 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Белый |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 10:54:29 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575364533325 |
-| Players | 5/24 |
+| Players | 15/24 |
 | Host Name | Martin-Luther-King. |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:08:17 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575363322328 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | ^.^ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:06:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575365426588 |
-| Players | 1/15 |
-| Host Name | Kill 'Em All |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 11:09:55 |
+| Lobby ID | 28502575365157250 |
+| Players | 1/8 |
+| Host Name | TwentyOneInch |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 11:09:26 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575364346469 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | T15. Onygu |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:07:56 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575365242965 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Flyfriend28 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:09:35 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575364958432 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Freddy Amilcar |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:09:04 |
@@ -94,19 +94,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575365471085 |
-| Players | 7/15 |
-| Host Name | bonbon |
+| Lobby ID | 28502575365851349 |
+| Players | 9/15 |
+| Host Name | Lord Valdomero |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 11:10:00 |
+| Lobby Creation Time | Thursday, November 2, 2023 11:10:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575365157250 |
-| Players | 1/8 |
-| Host Name | TwentyOneInch |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 11:09:26 |
+| Lobby ID | 28502575365993494 |
+| Players | 1/15 |
+| Host Name | Kill 'Em All |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 11:10:56 |
 
 
