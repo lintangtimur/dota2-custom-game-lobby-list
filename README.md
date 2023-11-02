@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575482853288 |
-| Players | 1/10 |
-| Host Name | GreShnik |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:13:08 |
+| Lobby ID | 28502575484573388 |
+| Players | 3/10 |
+| Host Name | Mirana |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 14:15:29 |
 
 
 |  | epic_boss_fight_normal |
@@ -18,15 +18,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | yanoshiku |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 14:14:50 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575484573388 |
-| Players | 3/10 |
-| Host Name | Mirana |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 14:15:29 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575483684907 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | XQC!! |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 14:14:16 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575484647185 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | TheBlindShibaInuSexyah |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:15:35 |
