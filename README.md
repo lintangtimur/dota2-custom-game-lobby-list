@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367426372030 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | blessed |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 22:37:03 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367427959164 |
-| Players | 4/8 |
-| Host Name | Loki |
+| Players | 1/8 |
+| Host Name | Sr. Po |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 22:38:00 |
 
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367432778301 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | bladee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 22:40:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367432964901 |
+| Players | 3/15 |
+| Host Name | Солевая 2009 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 22:41:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -110,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 22:30:37 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28503367429663367 |
-| Players | 9/10 |
-| Host Name | попный диатез |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 22:39:01 |
+| Lobby ID | 28503367432553483 |
+| Players | 1/5 |
+| Host Name | SUP45 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 22:40:46 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nooo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 22:40:51 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28503367432553483 |
-| Players | 1/5 |
-| Host Name | SUP45 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 22:40:46 |
 
 
