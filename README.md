@@ -11,6 +11,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:31:48 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575545939364 |
+| Players | 1/5 |
+| Host Name | thEdarK1 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 15:36:50 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575545970511 |
+| Players | 1/10 |
+| Host Name | Jardoses |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 15:36:53 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575545229627 |
@@ -41,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575543122041 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | temip |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 15:33:17 |
@@ -81,5 +99,41 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | q1 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 15:36:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575545726569 |
+| Players | 4/8 |
+| Host Name | kuklavod |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 15:36:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575545663359 |
+| Players | 2/10 |
+| Host Name | Tolia22 |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 15:36:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575315365274 |
+| Players | 10/15 |
+| Host Name | Colpax |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575545716648 |
+| Players | 3/8 |
+| Host Name | CatNecromancer |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 15:36:33 |
 
 
