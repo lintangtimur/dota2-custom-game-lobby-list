@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575472021521 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Santiago(PAMPLONA) |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:57:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575477817264 |
-| Players | 1/24 |
-| Host Name | Sangu Alus |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 14:06:06 |
+| Lobby ID | 28502575477876673 |
+| Players | 1/15 |
+| Host Name | Reddy |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 14:06:11 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575476524092 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | My soul is dead |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 14:04:16 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575476241399 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Small Son |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 14:03:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575468062571 |
-| Players | 14/15 |
-| Host Name | MADARA |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 13:52:14 |
+| Lobby ID | 28502575477821254 |
+| Players | 1/8 |
+| Host Name | 死 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 14:06:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,30 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:05:30 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575477823447 |
-| Players | 1/24 |
-| Host Name | Natural |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 14:06:07 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575477821254 |
-| Players | 1/8 |
-| Host Name | 死 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:06:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575477842388 |
+| Lobby ID | 28502575477931275 |
 | Players | 1/8 |
 | Host Name | Nowhr to run |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:06:08 |
+| Lobby Creation Time | Thursday, November 2, 2023 14:06:16 |
 
 
