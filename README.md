@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575683218672 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | MARY |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 18:07:49 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 18:00:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575681081737 |
-| Players | 1/8 |
-| Host Name | hahahehehoho |
+| Lobby ID | 28502575683629945 |
+| Players | 2/24 |
+| Host Name | nigero GEOP |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 18:06:02 |
+| Lobby Creation Time | Thursday, November 2, 2023 18:08:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -94,46 +94,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575683100801 |
-| Players | 9/15 |
-| Host Name | getawaygetawaygetawaygetawaygeta |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 18:07:43 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575682836017 |
-| Players | 1/24 |
-| Host Name | Noname |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 18:07:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575683662343 |
-| Players | 5/10 |
-| Host Name | Gym Parker |
+| Lobby ID | 28502575683846815 |
+| Players | 3/15 |
+| Host Name | Старый Тоби |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 18:08:11 |
+| Lobby Creation Time | Thursday, November 2, 2023 18:08:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575683597459 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | セレス Fauna |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 18:08:08 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575683629945 |
-| Players | 1/24 |
-| Host Name | nigero GEOP |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 18:08:10 |
+| Lobby ID | 28502575683936209 |
+| Players | 4/8 |
+| Host Name | Missing you happiness |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 18:08:25 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575683828865 |
+| Players | 4/10 |
+| Host Name | Daja i Konterit |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 18:08:20 |
 
 
