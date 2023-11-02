@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341608900725 |
-| Players | 2/10 |
+| Players | 9/10 |
 | Host Name | knoxx |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 07:09:49 |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 07:09:18 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502341608931712 |
-| Players | 1/15 |
-| Host Name | Honour! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 07:09:53 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341608941435 |
@@ -108,6 +99,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | afk hit creeps |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 07:09:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502341609031176 |
+| Players | 1/15 |
+| Host Name | Nyem |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 07:10:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502341609071777 |
+| Players | 2/10 |
+| Host Name | ♥Miul♥ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 07:10:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502341609080548 |
+| Players | 1/15 |
+| Host Name | Honour! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 07:10:11 |
 
 
 |  | epic_boss_fight_challenger |
@@ -135,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Explorer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 07:05:51 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502341609001130 |
+| Players | 1/10 |
+| Host Name | Белый |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 07:10:02 |
 
 
