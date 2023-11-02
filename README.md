@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367866730659 |
-| Players | 6/24 |
+| Players | 4/24 |
 | Host Name | SeT |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 05:17:13 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 05:14:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367866000556 |
-| Players | 23/24 |
-| Host Name | BLEHHHHH :P |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 05:16:06 |
+| Lobby ID | 28503367866923559 |
+| Players | 2/15 |
+| Host Name | Silver |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 3, 2023 05:17:31 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367867655896 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Belony一 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 05:18:38 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367863859496 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Piroco |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 05:12:51 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367867777992 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Aesgard |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 3, 2023 05:18:49 |
@@ -182,28 +182,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 05:18:07 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503367868032693 |
+| Players | 2/10 |
+| Host Name | 17'5 4 7Я4P |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 05:19:13 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367866923559 |
-| Players | 2/15 |
-| Host Name | Silver |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 3, 2023 05:17:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503367867977223 |
-| Players | 3/8 |
-| Host Name | Zookeeper☆⭕⃤ |
+| Lobby ID | 28503367868053164 |
+| Players | 1/15 |
+| Host Name | ...... |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:19:08 |
+| Lobby Creation Time | Friday, November 3, 2023 05:19:15 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503367867410270 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 05:18:16 |
