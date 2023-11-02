@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575514858727 |
-| Players | 1/10 |
-| Host Name | Raging.Hope |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 14:55:32 |
+| Lobby ID | 28502575514948887 |
+| Players | 5/10 |
+| Host Name | Aranis |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 14:55:39 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575510870463 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | KavapsCXZ> |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 14:50:18 |
@@ -27,15 +27,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kunde |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 14:53:05 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575514948887 |
-| Players | 3/10 |
-| Host Name | Aranis |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 14:55:39 |
 
 
 |  | ot3_jungle_quintet |
@@ -94,10 +85,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575515091746 |
+| Lobby ID | 28502575515199393 |
 | Players | 1/8 |
-| Host Name | . |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:55:50 |
+| Host Name | EH.Sukidayo<3 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 14:55:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575515250254 |
+| Players | 1/8 |
+| Host Name | Бандера Учіха |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 14:56:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575515253902 |
+| Players | 1/15 |
+| Host Name | Spartak |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 14:56:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575515306159 |
+| Players | 1/15 |
+| Host Name | bersercer khorna |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 14:56:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575515290471 |
+| Players | 2/10 |
+| Host Name | Ice |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 14:56:06 |
 
 
