@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575343837667 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | El Tide Boliviano🎮🏆 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:31:03 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575339937151 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | j |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:24:17 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575343446251 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | O'Sullivan |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:30:24 |
