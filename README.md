@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575524946466 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Fihed |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 15:09:30 |
@@ -36,6 +36,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ramon |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 15:14:33 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28502575529345352 |
+| Players | 1/7 |
+| Host Name | Damaged |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 15:15:25 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:12:01 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575524910384 |
-| Players | 19/24 |
-| Host Name | Go Blues |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 15:09:27 |
+| Lobby ID | 28502575529137356 |
+| Players | 1/8 |
+| Host Name | 离手鸳鸯刀 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 15:15:08 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:14:20 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575528605053 |
-| Players | 13/15 |
-| Host Name | DanTe |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 15:14:24 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575527252024 |
@@ -101,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:12:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575529137356 |
-| Players | 1/8 |
-| Host Name | 离手鸳鸯刀 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 15:15:08 |
+| Lobby ID | 28502575529336449 |
+| Players | 2/10 |
+| Host Name | pos 1 farming |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 15:15:24 |
 
 
