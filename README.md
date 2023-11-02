@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 02:30:55 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367737233055 |
-| Players | 22/24 |
-| Host Name | DoomRamon |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 02:43:11 |
+| Lobby ID | 28503367740340852 |
+| Players | 1/8 |
+| Host Name | энт |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 02:46:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367739519328 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | :( |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 02:45:26 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367739078772 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | wiped out |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 02:45:00 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 02:41:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367732293805 |
-| Players | 1/10 |
-| Host Name | посмотреть |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 02:38:18 |
+| Lobby ID | 28503367725157422 |
+| Players | 2/15 |
+| Host Name | Канибал |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 02:31:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367740172133 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | Good_Win |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 02:46:04 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367739659219 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | СПАРТАК ЗДЕСЬ? |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 02:45:34 |
@@ -176,8 +176,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367697377645 |
-| Players | 4/24 |
-| Host Name | tdistribution |
+| Players | 9/24 |
+| Host Name | swega |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 02:05:16 |
 
@@ -193,11 +193,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367739158926 |
-| Players | 1/10 |
-| Host Name | BjornIronsid |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 02:45:04 |
+| Lobby ID | 28503367739376014 |
+| Players | 2/10 |
+| Host Name | Pecen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 02:45:17 |
 
 
 |  | ot3_gardens_duo |
@@ -216,24 +216,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CaeluMidnight |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 02:45:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367739376014 |
-| Players | 2/10 |
-| Host Name | Pecen |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 02:45:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367739261431 |
-| Players | 8/10 |
-| Host Name | purit |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 3, 2023 02:45:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -261,5 +243,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Äs Nödt |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 02:45:56 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28503367740356690 |
+| Players | 3/10 |
+| Host Name | Yappy Door |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 02:46:15 |
 
 
