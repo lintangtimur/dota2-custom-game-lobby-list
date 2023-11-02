@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:39:40 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575313214365 |
-| Players | 22/24 |
-| Host Name | ►PSG.LGD 愛我 |
+| Lobby ID | 28502575313930546 |
+| Players | 5/8 |
+| Host Name | 葉王・朝倉 |
 | Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 09:37:56 |
+| Lobby Creation Time | Thursday, November 2, 2023 09:39:13 |
 
 
 |  | ot3_jungle_quintet |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | selegna🖤 |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:38:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575313930546 |
-| Players | 5/8 |
-| Host Name | 葉王・朝倉 |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 09:39:13 |
 
 
