@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575310689640 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | King |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 09:33:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575310658098 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Imagio |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 09:33:14 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575310287266 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | DPGaming |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:32:33 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:30:27 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575309995571 |
-| Players | 1/24 |
-| Host Name | Fantom |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 09:32:01 |
+| Lobby ID | 28502575311203757 |
+| Players | 10/15 |
+| Host Name | 'Cry 雨' |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 09:34:13 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575309287511 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:30:46 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575310560446 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Беспредед |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 09:33:03 |
@@ -137,21 +137,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:33:36 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575311190737 |
-| Players | 4/8 |
-| Host Name | Houseki no Cristo |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:34:12 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575311203757 |
-| Players | 8/15 |
-| Host Name | 'Cry 雨' |
+| Lobby ID | 28502575309989734 |
+| Players | 14/15 |
+| Host Name | PAVITERS |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:34:13 |
+| Lobby Creation Time | Thursday, November 2, 2023 09:32:01 |
 
 
