@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 16:30:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575590294397 |
-| Players | 1/15 |
-| Host Name | Кабачкоид |
+| Lobby ID | 28502575590400430 |
+| Players | 3/10 |
+| Host Name | Emotional damage |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 16:30:52 |
+| Lobby Creation Time | Thursday, November 2, 2023 16:31:00 |
 
 
 |  | ot3_gardens_duo |
@@ -94,29 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575590316570 |
+| Lobby ID | 28502575590425874 |
 | Players | 1/15 |
-| Host Name | ) |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 16:30:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575590322835 |
-| Players | 1/15 |
-| Host Name | . |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 16:30:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575590327659 |
-| Players | 1/15 |
-| Host Name | ростик палестина |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 16:30:55 |
+| Host Name | 1 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 16:31:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -125,24 +107,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Players | 1/15 |
 | Host Name | Вор в законе |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 16:30:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575590330361 |
-| Players | 1/10 |
-| Host Name | fl0kiss |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 16:30:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575590334416 |
-| Players | 1/15 |
-| Host Name | 💖Lyap0ta💖 |
-| Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 16:30:55 |
 
 
