@@ -2,19 +2,10 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502575353905900 |
-| Players | 1/5 |
-| Host Name | -†Amenazzy:_ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:48:51 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575354084170 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | C K I A |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:49:11 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575350025115 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | kels |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:41:53 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -58,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575353363888 |
+| Lobby ID | 28502575353749531 |
 | Players | 7/8 |
-| Host Name | LooPer |
+| Host Name | Jivchik |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:47:52 |
+| Lobby Creation Time | Thursday, November 2, 2023 10:48:34 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575353738918 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | gn1da |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 10:48:33 |
@@ -90,23 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Chad Chadinson |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:48:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575353749531 |
-| Players | 6/8 |
-| Host Name | Jivchik |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:48:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575354078565 |
-| Players | 4/8 |
-| Host Name | Houseki no Cristo |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:49:10 |
 
 
