@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367261048979 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Sonnyツ |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 21:04:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367348173035 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | R1V3RZ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 21:52:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367346152438 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | RednWhite |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 21:51:45 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367340669193 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Arthur |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 21:48:45 |
@@ -104,28 +104,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367348654866 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | roarey' |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 21:53:06 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503367348963048 |
+| Players | 2/10 |
+| Host Name | Qusiks |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 21:53:16 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367347319178 |
-| Players | 7/8 |
-| Host Name | NewPlayerBehaviorSystemEnjoyer |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 2, 2023 21:52:23 |
+| Lobby ID | 28503367349015014 |
+| Players | 3/8 |
+| Host Name | Мmm~ Ahh~ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 21:53:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367347557077 |
-| Players | 14/15 |
-| Host Name | Logen |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 2, 2023 21:52:30 |
+| Lobby ID | 28503367349201197 |
+| Players | 1/10 |
+| Host Name | SHAKAツ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 21:53:24 |
 
 
 |  | epic_boss_fight_nightmare |
