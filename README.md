@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367742971229 |
-| Players | 5/8 |
-| Host Name | IM BUNNY ISREAL |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 02:48:48 |
+| Lobby ID | 28503367738221532 |
+| Players | 2/8 |
+| Host Name | Блуд для чмонек |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 02:44:09 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367697377645 |
-| Players | 15/24 |
+| Players | 13/24 |
 | Host Name | RichieZones |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 02:05:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367736271533 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 02:42:14 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 02:48:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367742859240 |
-| Players | 1/8 |
-| Host Name | twitch.tv/fallenvaeer |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 3, 2023 02:48:41 |
+| Lobby ID | 28503367742019648 |
+| Players | 14/15 |
+| Host Name | УБИВАТЬ УБИВАТЬ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 02:47:52 |
 
 
 |  | ot3_gardens_duo |
@@ -139,11 +139,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367742867476 |
-| Players | 5/8 |
-| Host Name | Yoyodayo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 02:48:42 |
+| Lobby ID | 28503367743074084 |
+| Players | 2/8 |
+| Host Name | NerFlip |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 3, 2023 02:48:54 |
 
 
 |  | ot3_jungle_quintet |
@@ -164,13 +164,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 02:45:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367738221532 |
-| Players | 2/8 |
-| Host Name | Блуд для чмонек |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 02:44:09 |
+| Lobby ID | 28503367743120907 |
+| Players | 3/10 |
+| Host Name | жгучие жгучки |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 02:48:57 |
 
 
 |  | epic_boss_fight_normal |
@@ -189,5 +189,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hades |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, November 3, 2023 02:48:52 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28503367743228238 |
+| Players | 2/5 |
+| Host Name | Sygma zxc ghoul 2y.o dead inside |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 3, 2023 02:49:03 |
 
 
