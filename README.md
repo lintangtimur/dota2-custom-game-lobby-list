@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575611791326 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | PRO100 T3RORIST |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 16:56:21 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 16:44:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575613267458 |
-| Players | 1/15 |
-| Host Name | Papiroska |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 16:58:04 |
+| Lobby ID | 28502575613360957 |
+| Players | 1/8 |
+| Host Name | RamzanDON |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 16:58:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -112,33 +112,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575613387653 |
-| Players | 1/15 |
-| Host Name | JungleBi |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 16:58:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575613166279 |
-| Players | 2/10 |
-| Host Name | BRAMBRAGE |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 16:57:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575613374391 |
-| Players | 1/15 |
-| Host Name | я стараюсь |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 16:58:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28502575613367076 |
 | Players | 1/15 |
 | Host Name | V-Vendetta |
@@ -146,12 +119,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 16:58:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575613360957 |
-| Players | 1/8 |
-| Host Name | RamzanDON |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 16:58:10 |
+| Lobby ID | 28502575613166279 |
+| Players | 3/10 |
+| Host Name | BRAMBRAGE |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 16:57:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575613453833 |
+| Players | 2/24 |
+| Host Name | lone wolf |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 16:58:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575613479836 |
+| Players | 1/15 |
+| Host Name | Papiroska |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 16:58:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575613522146 |
+| Players | 1/15 |
+| Host Name | я стараюсь |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 16:58:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575613527560 |
+| Players | 2/10 |
+| Host Name | 100% |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 16:58:22 |
 
 
