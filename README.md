@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575380411926 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Alessia Cara |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:35:34 |
@@ -38,19 +38,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 11:36:08 |
 
 
-|  | ot3_desert_octet |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28502575378003488 |
-| Players | 23/24 |
-| Host Name | -♣ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 11:31:46 |
+| Lobby ID | 28502575381235880 |
+| Players | 1/5 |
+| Host Name | king jagvar |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 11:36:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575380757717 |
+| Players | 4/15 |
+| Host Name | twasadream |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 11:36:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575380521556 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Tờ Ri |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:35:45 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575375998383 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | CHAD NORRIZ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:28:31 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575379875211 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | ダニエル |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:34:44 |
@@ -112,28 +121,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575378649833 |
-| Players | 14/15 |
-| Host Name | Dragon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 11:32:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575380757717 |
-| Players | 4/15 |
-| Host Name | twasadream |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 11:36:07 |
+| Lobby ID | 28502575381154336 |
+| Players | 3/15 |
+| Host Name | bonbon |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 11:36:45 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575380855778 |
-| Players | 1/8 |
-| Host Name | 离手鸳鸯刀 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 11:36:16 |
+| Lobby ID | 28502575378879395 |
+| Players | 7/8 |
+| Host Name | Mika |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 11:33:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575381274738 |
+| Players | 6/15 |
+| Host Name | Lord Valdomero |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 11:36:56 |
 
 
