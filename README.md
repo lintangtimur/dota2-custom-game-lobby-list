@@ -38,10 +38,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:00:15 |
 
 
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28502575435177825 |
+| Players | 3/7 |
+| Host Name | Spongebitch Squaredick |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 13:00:18 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575435594982 |
+| Players | 2/5 |
+| Host Name | 29kg talent |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 13:01:00 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -50,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575430749382 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Pericotito de Nelly Rossinelli |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:53:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575434140930 |
-| Players | 1/15 |
-| Host Name | 異體字爲為为畫畵画線 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 12:58:39 |
+| Lobby ID | 28502575434916195 |
+| Players | 4/8 |
+| Host Name | ezzzzzzz |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 12:59:52 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575432821221 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | string |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:56:35 |
@@ -92,30 +110,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:55:26 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575435345372 |
+| Players | 1/10 |
+| Host Name | 私を救う |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 13:00:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575435399285 |
+| Players | 2/15 |
+| Host Name | 異體字爲為为畫畵画線 |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 13:00:40 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575434916195 |
-| Players | 4/8 |
-| Host Name | ezzzzzzz |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 12:59:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575435111304 |
-| Players | 2/15 |
-| Host Name | KARTES |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 13:00:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575435123426 |
-| Players | 1/15 |
-| Host Name | 4eJI |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 13:00:12 |
+| Lobby ID | 28502575435390795 |
+| Players | 2/8 |
+| Host Name | SUPERpyperHERO |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 13:00:40 |
 
 
