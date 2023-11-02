@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575356876445 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | (/_-) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:54:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575357082553 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Z |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 10:54:24 |
@@ -69,7 +69,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28502575356170186 |
 | Players | 4/24 |
-| Host Name | swsw_ |
+| Host Name | My fart doesn't stink |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 10:52:48 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575357327548 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Jimo is Back! |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:54:51 |
