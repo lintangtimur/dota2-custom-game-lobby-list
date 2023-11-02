@@ -14,28 +14,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28502575591343024 |
-| Players | 2/5 |
-| Host Name | Autistic gaming |
+| Players | 1/5 |
+| Host Name | Estrelinha |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 16:32:08 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28502575592805539 |
-| Players | 1/10 |
-| Host Name | Zinc |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 16:33:53 |
+| Lobby ID | 28502575592887762 |
+| Players | 1/5 |
+| Host Name | parsa_craid |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 16:33:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575592313574 |
-| Players | 10/15 |
-| Host Name | Grift |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 16:33:18 |
+| Lobby ID | 28502575588796418 |
+| Players | 5/10 |
+| Host Name | 🍌 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 16:29:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575591157559 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | KarmaSH |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 16:31:55 |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | beardrinker |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 16:33:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575588796418 |
-| Players | 5/10 |
-| Host Name | 🍌 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 16:29:04 |
 
 
