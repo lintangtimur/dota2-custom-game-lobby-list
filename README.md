@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575439885143 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Taco |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:08:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575441070284 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | George |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 13:10:24 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575438965103 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | GeliPat |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 13:06:47 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575437013489 |
-| Players | 23/24 |
-| Host Name | Solo estoy pasando el rato |
+| Lobby ID | 28502575442674054 |
+| Players | 1/10 |
+| Host Name | ken |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 13:03:24 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:13:05 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575441111012 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | スモークベア |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 13:10:29 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575440282161 |
-| Players | 6/8 |
+| Players | 3/8 |
 | Host Name | Scrowney2 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 13:09:04 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575441276563 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | mamania |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:10:45 |
