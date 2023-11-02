@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367730899562 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 02:36:57 |
@@ -20,49 +20,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 02:30:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503367731816871 |
-| Players | 4/8 |
-| Host Name | загадочный vibe >_< |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 02:37:51 |
+| Lobby ID | 28503367732119025 |
+| Players | 1/24 |
+| Host Name | freshejka |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 02:38:08 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367731930328 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Parasiteِ |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 02:37:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367731578884 |
-| Players | 1/8 |
-| Host Name | AbsoluteKomaru |
+| Lobby ID | 28503367731959277 |
+| Players | 1/10 |
+| Host Name | СЕРГЕЙ 18cm |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 02:37:37 |
+| Lobby Creation Time | Friday, November 3, 2023 02:37:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367731890197 |
-| Players | 2/8 |
-| Host Name | i can't stop |
+| Lobby ID | 28503367732136915 |
+| Players | 1/10 |
+| Host Name | Медвежий Анус |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 02:38:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503367732194523 |
+| Players | 3/10 |
+| Host Name | Барбек не узбек |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 02:37:55 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503367730777098 |
-| Players | 1/24 |
-| Host Name | Yvaine |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 3, 2023 02:36:50 |
+| Lobby Creation Time | Friday, November 3, 2023 02:38:13 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367697377645 |
-| Players | 14/24 |
+| Players | 12/24 |
 | Host Name | RiftBreaker |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 02:05:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367731638921 |
-| Players | 14/15 |
-| Host Name | dead inside |
+| Lobby ID | 28503367732196067 |
+| Players | 4/8 |
+| Host Name | Djuzo) |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 02:37:40 |
+| Lobby Creation Time | Friday, November 3, 2023 02:38:13 |
 
 
 |  | ot3_necropolis_ffa |
@@ -117,33 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sawaaaаааааа |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 02:37:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503367731638827 |
-| Players | 4/15 |
-| Host Name | Snega |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 02:37:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503367731511164 |
-| Players | 3/8 |
-| Host Name | constinty wearin |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 02:37:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367731959277 |
-| Players | 1/10 |
-| Host Name | Z3US |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 02:37:59 |
 
 
 |  | epic_boss_fight_normal |
@@ -158,18 +131,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503367730034067 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Дейдара |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 02:36:06 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28503367730844315 |
-| Players | 3/5 |
-| Host Name | Sygma zxc ghoul 2y.o dead inside |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 02:36:54 |
 
 
