@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575473976715 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | ripples |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:00:39 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Optimal |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 14:02:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575468062571 |
+| Players | 13/15 |
+| Host Name | MADARA |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 13:52:14 |
 
 
