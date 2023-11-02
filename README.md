@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575708899210 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | How Do I Play? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 18:28:21 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575705887110 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | 游戏蝗虫农师傅 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 18:26:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575709768615 |
-| Players | 8/15 |
-| Host Name | Тайно Дернул |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 18:29:02 |
+| Lobby ID | 28502575709574345 |
+| Players | 3/8 |
+| Host Name | Siomai Rice |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 18:28:53 |
 
 
 |  | ot3_gardens_duo |
@@ -86,46 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575660710971 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 17:47:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575708650038 |
-| Players | 1/8 |
-| Host Name | TwentyOneInch |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 18:28:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575709827065 |
-| Players | 1/8 |
-| Host Name | Бог_Сотен_Битв |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 18:29:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575709587802 |
-| Players | 5/8 |
-| Host Name | малышка — это Comme des Garçons |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 18:28:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575709574345 |
-| Players | 2/8 |
-| Host Name | Siomai Rice |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 18:28:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -134,15 +98,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Players | 1/8 |
 | Host Name | jeyaxed916 |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 18:28:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575709710403 |
-| Players | 1/8 |
-| Host Name | missing! |
-| Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 18:28:59 |
 
 
