@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923782794029 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | ChocMen:v |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:22:37 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 06:21:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923783164155 |
-| Players | 4/8 |
-| Host Name | Need? |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:23:18 |
+| Lobby ID | 28503923783380598 |
+| Players | 1/15 |
+| Host Name | Ruben |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 06:23:42 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923782616695 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | isn't like holding to the center |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:22:18 |
@@ -103,37 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923783307717 |
-| Players | 4/10 |
-| Host Name | tears of autumn |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 06:23:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923783380598 |
-| Players | 1/15 |
-| Host Name | Ruben |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 06:23:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28503923783423860 |
 | Players | 1/10 |
 | Host Name | Pitón Pituda |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:23:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923783679058 |
-| Players | 1/15 |
-| Host Name | K2.qtmd |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 06:24:15 |
 
 
