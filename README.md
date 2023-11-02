@@ -23,70 +23,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843803149349 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | mis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 03:35:21 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575264573714 |
-| Players | 1/10 |
-| Host Name | 홍은채) 내 동료가 돼라 홍은채) 물고기 캠 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 08:04:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575259630649 |
-| Players | 6/10 |
-| Host Name | xtreme killer |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 07:56:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575263634314 |
-| Players | 4/15 |
-| Host Name | right here |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 08:03:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575264780564 |
-| Players | 1/15 |
-| Host Name | ByeDeGoo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 08:05:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575264423736 |
-| Players | 2/10 |
-| Host Name | everylathing hate???? xdxd |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 08:04:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575264808895 |
-| Players | 4/8 |
-| Host Name | ЛЁГКОСТЬ БЫТИЯ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 08:05:15 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575264205499 |
-| Players | 10/24 |
+| Players | 17/24 |
 | Host Name | Toshiro... |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:04:08 |
@@ -94,37 +40,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575264237989 |
-| Players | 5/8 |
-| Host Name | animepic |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 08:04:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575264272412 |
-| Players | 4/10 |
-| Host Name | C10H15N |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 08:04:16 |
+| Lobby ID | 28502575265034195 |
+| Players | 3/8 |
+| Host Name | Odinn |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 08:05:40 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575264709224 |
-| Players | 1/15 |
-| Host Name | ebanashka |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 08:05:04 |
+| Lobby ID | 28502575263634314 |
+| Players | 9/15 |
+| Host Name | right here |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 08:03:04 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575261785594 |
+| Players | 22/24 |
+| Host Name | MoonRay |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 07:59:47 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575264794184 |
-| Players | 1/15 |
-| Host Name | Joombler |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 08:05:13 |
+| Lobby ID | 28502575264893559 |
+| Players | 3/15 |
+| Host Name | MarcoAScopel |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 08:05:24 |
 
 
