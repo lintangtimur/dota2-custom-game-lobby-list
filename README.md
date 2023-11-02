@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575420948985 |
-| Players | 2/10 |
-| Host Name | Alessia Cara |
+| Players | 1/10 |
+| Host Name | NEO |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 12:37:47 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575421818647 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:39:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575422295528 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | jAmbix |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 12:39:55 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575417000431 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Josecarlino |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:31:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575420842421 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:37:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575421902571 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | tequila sunset |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 12:39:17 |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RiftBreaker |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 12:37:30 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575422542252 |
+| Players | 5/24 |
+| Host Name | POM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 12:40:18 |
 
 
