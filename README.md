@@ -14,10 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575645802427 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | i'am losing in control |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 17:33:40 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575646247731 |
+| Players | 1/5 |
+| Host Name | таежный бобр |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 17:34:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:20:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575645379412 |
-| Players | 11/15 |
-| Host Name | eternity is awesome |
+| Lobby ID | 28502575646180808 |
+| Players | 2/10 |
+| Host Name | малышка — это Comme des Garçons |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:33:14 |
+| Lobby Creation Time | Thursday, November 2, 2023 17:34:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:30:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575645358706 |
-| Players | 6/8 |
-| Host Name | Ɑ͞ ̶͞ ̶͞ ̶͞ ̶͞ ﻝﮞ |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 17:33:13 |
+| Lobby ID | 28502575646043496 |
+| Players | 3/24 |
+| Host Name | JESUS |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 17:33:54 |
 
 
 |  | ot3_gardens_duo |
@@ -137,12 +146,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:33:54 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575646043496 |
-| Players | 2/24 |
-| Host Name | มองหีเทอ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 17:33:54 |
+| Lobby ID | 28502575646222139 |
+| Players | 1/8 |
+| Host Name | Череповец |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 17:34:05 |
 
 
