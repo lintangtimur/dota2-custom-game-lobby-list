@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 10:11:56 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575332614279 |
-| Players | 2/10 |
-| Host Name | ManiBani |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 10:11:57 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575332383612 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575331287301 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Rupicola |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 10:09:44 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575331811343 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Oops |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:10:37 |
@@ -65,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575327538741 |
-| Players | 23/24 |
-| Host Name | khay khay |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 10:03:11 |
+| Lobby ID | 28502575332398036 |
+| Players | 2/8 |
+| Host Name | Hope |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 10:11:35 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575327050485 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | jebao |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 10:02:21 |
@@ -85,10 +76,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575332398036 |
+| Lobby ID | 28502575332678621 |
 | Players | 1/8 |
-| Host Name | Hope |
+| Host Name | iB.Rock |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 10:12:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575332702357 |
+| Players | 1/24 |
+| Host Name | Reanu Keeves |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:11:35 |
+| Lobby Creation Time | Thursday, November 2, 2023 10:12:05 |
 
 
