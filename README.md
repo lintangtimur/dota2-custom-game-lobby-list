@@ -2,19 +2,10 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28503923787592813 |
-| Players | 1/5 |
-| Host Name | VIPHC-//-SERGIO |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 06:31:25 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923789783704 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Booberries |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 06:35:28 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923788705933 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | G_G |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:33:28 |
@@ -83,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 06:21:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923789327802 |
-| Players | 9/10 |
-| Host Name | UnLuucky |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 3, 2023 06:34:37 |
+| Lobby ID | 28503923790615126 |
+| Players | 5/15 |
+| Host Name | УБИВАТЬ УБИВАТЬ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 06:36:54 |
 
 
 |  | ot3_gardens_duo |
@@ -110,30 +101,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 06:36:50 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923790648133 |
+| Players | 5/15 |
+| Host Name | loser4life |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 3, 2023 06:36:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923790630982 |
+| Players | 1/15 |
+| Host Name | Politician=Parasite |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 06:36:56 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923790077231 |
-| Players | 9/10 |
-| Host Name | 17'5 4 7Я4P |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 06:35:59 |
+| Lobby ID | 28503367895833593 |
+| Players | 1/10 |
+| Host Name | SenorMouse |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 06:03:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923790600514 |
-| Players | 1/15 |
-| Host Name | Kondom Duhanxhijaj |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 06:36:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923790615126 |
-| Players | 2/15 |
-| Host Name | УБИВАТЬ УБИВАТЬ |
+| Lobby ID | 28503923790733284 |
+| Players | 6/10 |
+| Host Name | Spyky |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:36:54 |
+| Lobby Creation Time | Friday, November 3, 2023 06:37:06 |
 
 
