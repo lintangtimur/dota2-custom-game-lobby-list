@@ -20,13 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 16:32:08 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575592887762 |
-| Players | 1/5 |
-| Host Name | parsa_craid |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 16:33:59 |
+| Lobby ID | 28502575593006242 |
+| Players | 1/10 |
+| Host Name | Zinc |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 16:34:08 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575593119376 |
+| Players | 1/10 |
+| Host Name | kolpacheque |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 16:34:16 |
 
 
 |  | ot3_gardens_duo |
@@ -56,21 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 16:31:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575591157559 |
-| Players | 8/10 |
-| Host Name | KarmaSH |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 16:31:55 |
+| Lobby ID | 28502575592998477 |
+| Players | 1/15 |
+| Host Name | Главный в дурке |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 16:34:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575592564711 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | beardrinker |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 16:33:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575593125728 |
+| Players | 2/8 |
+| Host Name | Хрустик |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 16:34:16 |
 
 
