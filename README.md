@@ -29,15 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:24:58 |
 
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28502575450081645 |
-| Players | 2/7 |
-| Host Name | Leysritt イブ・リース |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 13:25:12 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575446782420 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Jazee |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 13:19:54 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575441070284 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | George |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 13:10:24 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575449133812 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Снежана 2006 |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:23:42 |
@@ -103,19 +94,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575450100738 |
-| Players | 2/15 |
-| Host Name | Connor |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 13:25:13 |
+| Lobby ID | 28502575450172041 |
+| Players | 1/15 |
+| Host Name | Человек |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 13:25:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575450202154 |
+| Players | 1/15 |
+| Host Name | pubs till ww3 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 13:25:23 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575450101922 |
+| Lobby ID | 28502575450212441 |
 | Players | 1/8 |
 | Host Name | e |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 13:25:13 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:25:24 |
 
 
