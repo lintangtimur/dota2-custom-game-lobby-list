@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923794174545 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 暁 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:43:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923794376526 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ADVISORY |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 06:43:48 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 06:36:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923794148473 |
-| Players | 14/15 |
-| Host Name | |||||||||||| |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 06:43:22 |
+| Lobby ID | 28503923794304989 |
+| Players | 2/8 |
+| Host Name | <Exanime> |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 06:43:40 |
 
 
 |  | ot3_gardens_duo |
@@ -113,18 +113,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923794295373 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Full-Time Griefer |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:43:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923794304989 |
-| Players | 1/8 |
-| Host Name | <Exanime> |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 06:43:40 |
+| Lobby ID | 28503923794472749 |
+| Players | 1/10 |
+| Host Name | Run Yo Pockets |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 06:43:59 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503923794483902 |
+| Players | 1/24 |
+| Host Name | NothingFeelsRight |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 06:44:00 |
 
 
