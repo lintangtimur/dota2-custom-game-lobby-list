@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367722155898 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | XD |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 02:28:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367697377645 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | ✣ Ahh Duu ✣ |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 02:05:16 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367720958087 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | atlas |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 02:27:18 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367724779955 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | Ox |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 02:30:58 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367724947776 |
+| Lobby ID | 28503367725157422 |
 | Players | 1/15 |
-| Host Name | Mephistopheles† |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 02:31:08 |
+| Host Name | Mouches Volantes |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 02:31:20 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367719500521 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | NNNNNNNNNNNNNN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 02:25:56 |
@@ -139,11 +139,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367723649890 |
-| Players | 7/8 |
-| Host Name | Rainz |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 02:29:53 |
+| Lobby ID | 28503367724926961 |
+| Players | 4/8 |
+| Host Name | mode:1nval!d |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 02:31:07 |
 
 
 |  | ot3_gardens_duo |
@@ -184,20 +184,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367724926961 |
-| Players | 3/8 |
-| Host Name | mode:1nval!d |
+| Lobby ID | 28503367725095753 |
+| Players | 1/8 |
+| Host Name | COLAPSE |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 02:31:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367725150761 |
+| Players | 1/8 |
+| Host Name | |"|No Name|"| |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 02:31:07 |
+| Lobby Creation Time | Friday, November 3, 2023 02:31:20 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367724972933 |
+| Lobby ID | 28503367725154163 |
 | Players | 1/15 |
-| Host Name | Notilt |
+| Host Name | Mephistopheles† |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 02:31:09 |
+| Lobby Creation Time | Friday, November 3, 2023 02:31:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367725136357 |
+| Players | 1/15 |
+| Host Name | RIMMER |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 02:31:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -207,5 +225,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 𝕸𝖆𝖘𝖍𝖑𝖊 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 02:26:33 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28503367725143928 |
+| Players | 2/5 |
+| Host Name | 123 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 02:31:19 |
 
 
