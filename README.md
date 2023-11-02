@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575596116000 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | пасха ивановна |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 16:37:53 |
@@ -18,6 +18,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kolpacheque |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 16:38:37 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575599916706 |
+| Players | 1/5 |
+| Host Name | veteran BANDERA |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 16:42:27 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575598415211 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | KarmaSH |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 16:40:40 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575598912905 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 16:41:15 |
@@ -77,36 +86,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575599554107 |
-| Players | 2/8 |
-| Host Name | Kruppa(манная) |
+| Players | 1/8 |
+| Host Name | Куратор Кракен |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 16:42:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575599703294 |
-| Players | 1/15 |
-| Host Name | Baby_pain |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 16:42:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575599704724 |
-| Players | 1/8 |
-| Host Name | no type |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 16:42:11 |
+| Lobby ID | 28502575599862276 |
+| Players | 2/15 |
+| Host Name | blumarine |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 16:42:23 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575599716958 |
-| Players | 2/15 |
-| Host Name | GlowWolf |
+| Lobby ID | 28502575599904954 |
+| Players | 1/15 |
+| Host Name | Масик |
 | Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 16:42:12 |
+| Lobby Creation Time | Thursday, November 2, 2023 16:42:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575599778162 |
+| Players | 1/15 |
+| Host Name | Ace in the Hole |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 16:42:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575599771648 |
+| Players | 1/15 |
+| Host Name | Raoul Duke |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 16:42:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575599803722 |
+| Players | 3/8 |
+| Host Name | эгоист |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 16:42:18 |
 
 
