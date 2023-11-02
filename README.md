@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 5/15 |
+| Players | 3/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:26:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575449133812 |
-| Players | 2/15 |
-| Host Name | GT |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 13:23:42 |
+| Lobby ID | 28502575454876498 |
+| Players | 3/8 |
+| Host Name | aki |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 13:32:42 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575453243277 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | ANIKI 兄貴 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:30:12 |
@@ -74,21 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:29:07 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575454616577 |
+| Players | 2/8 |
+| Host Name | [♂+♂=♥]6LyaDuKtoR |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 13:32:18 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575453802755 |
-| Players | 9/15 |
-| Host Name | BYVSHIY HATER RLARLA |
+| Lobby ID | 28502575454986101 |
+| Players | 5/15 |
+| Host Name | ЯЖ ГУЕВРЕЕВ |
 | Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 13:31:03 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:32:52 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575454583038 |
-| Players | 2/10 |
-| Host Name | Jabroni |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 13:32:14 |
+| Lobby ID | 28502575454996298 |
+| Players | 1/10 |
+| Host Name | _Mazafaka_ |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 13:32:53 |
 
 
