@@ -4,38 +4,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575643299494 |
-| Players | 9/10 |
-| Host Name | TINONTOTOYO |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 17:31:07 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28502575644830182 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | KNИggA |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 2, 2023 17:32:40 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575645491316 |
-| Players | 1/5 |
-| Host Name | 宮本 武蔵 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 17:33:21 |
+| Lobby ID | 28502575645802427 |
+| Players | 1/10 |
+| Host Name | i'am losing in control |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 17:33:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575644849250 |
-| Players | 5/15 |
-| Host Name | Imbecility & Courage♉ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:32:41 |
+| Lobby ID | 28502575645693790 |
+| Players | 3/8 |
+| Host Name | ызыз |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 17:33:33 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575645379412 |
-| Players | 1/15 |
+| Players | 11/15 |
 | Host Name | eternity is awesome |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 17:33:14 |
@@ -74,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:31:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575639709340 |
-| Players | 19/24 |
-| Host Name | Dendi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 17:27:25 |
+| Lobby ID | 28502575645838666 |
+| Players | 1/8 |
+| Host Name | rly |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 17:33:42 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575645358706 |
-| Players | 2/8 |
-| Host Name | ne specialist /7o rashatke mapы |
+| Players | 6/8 |
+| Host Name | Ɑ͞ ̶͞ ̶͞ ̶͞ ̶͞ ﻝﮞ |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:33:13 |
 
@@ -104,9 +95,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575645505393 |
-| Players | 2/10 |
-| Host Name | neFar |
+| Players | 9/10 |
+| Host Name | Mr.Fantastik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 17:33:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575645545869 |
+| Players | 1/15 |
+| Host Name | Главный в дурке |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 17:33:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575645668496 |
+| Players | 1/15 |
+| Host Name | Mishka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 17:33:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575645996366 |
+| Players | 1/15 |
+| Host Name | Miker The One |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 17:33:51 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575646042879 |
+| Players | 1/24 |
+| Host Name | 大炮 |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 17:33:54 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575646043496 |
+| Players | 2/24 |
+| Host Name | มองหีเทอ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 17:33:54 |
 
 
