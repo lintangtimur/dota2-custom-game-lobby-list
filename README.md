@@ -38,15 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:14:33 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575528735328 |
-| Players | 1/10 |
-| Host Name | 1331 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 15:14:35 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
@@ -92,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:14:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575528046163 |
-| Players | 6/8 |
-| Host Name | boss mentality |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 15:13:40 |
+| Lobby ID | 28502575524443924 |
+| Players | 14/15 |
+| Host Name | ꃥꈤꊐ |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 15:08:48 |
 
 
 |  | ot3_desert_octet |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575528605053 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | DanTe |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 15:14:24 |
@@ -131,18 +122,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575528830466 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | DEM20111102 |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 15:14:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575524443924 |
-| Players | 14/15 |
-| Host Name | ꃥꈤꊐ |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 15:08:48 |
 
 
