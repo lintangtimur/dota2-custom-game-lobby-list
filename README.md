@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575918339906 |
-| Players | 1/10 |
-| Host Name | Piti |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 20:41:07 |
+| Lobby ID | 28502575916983002 |
+| Players | 5/10 |
+| Host Name | Ghee |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 20:40:22 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575916983002 |
-| Players | 5/10 |
-| Host Name | Ghee |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 20:40:22 |
+| Lobby ID | 28502575860360005 |
+| Players | 9/10 |
+| Host Name | Just subscribe for Linda H |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 20:08:32 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575909745442 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | XBOX SERIES Z |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 20:36:25 |
@@ -103,17 +103,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575920007086 |
-| Players | 9/15 |
-| Host Name | Пивная тяга |
+| Lobby ID | 28502575920386208 |
+| Players | 6/15 |
+| Host Name | [Z]IMaG1337[Z] |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 20:42:02 |
+| Lobby Creation Time | Thursday, November 2, 2023 20:42:14 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575919672779 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Areplaer3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 20:41:51 |
@@ -122,18 +122,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575920312411 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | paradise |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 2, 2023 20:42:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575920386208 |
-| Players | 3/15 |
-| Host Name | [Z]IMaG1337[Z] |
+| Lobby ID | 28502575920744855 |
+| Players | 1/8 |
+| Host Name | Чеченский атом |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 20:42:26 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575920776176 |
+| Players | 4/24 |
+| Host Name | Winter |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 20:42:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575920118994 |
+| Players | 4/8 |
+| Host Name | NeDoctor |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 20:42:14 |
+| Lobby Creation Time | Thursday, November 2, 2023 20:42:05 |
 
 
