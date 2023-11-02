@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367866857439 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Ninja Pirate |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 05:17:25 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 05:17:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367868827281 |
-| Players | 7/10 |
-| Host Name | The geese' Goose #FL1XA |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 05:20:27 |
+| Lobby ID | 28503367869318740 |
+| Players | 2/8 |
+| Host Name | et0 ne pro100 gneV |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 05:21:12 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367868053164 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | ...... |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 05:19:15 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367868965955 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | UKRONARCIST |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 05:20:39 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367869067938 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | :D D: :D D: |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 05:20:49 |
@@ -131,37 +131,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367869077375 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | RUSZAR |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 05:20:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503367869184898 |
-| Players | 1/8 |
-| Host Name | Javier Milei Official |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 05:21:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503367869166982 |
-| Players | 2/15 |
-| Host Name | Aesgard |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 05:20:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503367869225530 |
-| Players | 2/8 |
-| Host Name | et0 ne pro100 gneV |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 05:21:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -171,6 +144,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lelouch |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 05:21:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367869166982 |
+| Players | 2/15 |
+| Host Name | Aesgard |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 05:20:58 |
 
 
 |  | epic_boss_fight_nightmare |
