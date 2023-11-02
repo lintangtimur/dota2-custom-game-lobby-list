@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 10:13:09 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575337474529 |
+| Players | 1/5 |
+| Host Name | No[M]ore |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 10:20:06 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575337102890 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575332905708 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | SrDumii |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:12:26 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575336011605 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 10:17:37 |
@@ -113,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575336704438 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | TOCENO REVOLTOSOOOOOOOO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:18:47 |
@@ -135,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hopelessness |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 10:19:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575337455627 |
+| Players | 1/24 |
+| Host Name | Mikooz |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 10:20:04 |
 
 
