@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 10:45:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575352322068 |
-| Players | 20/24 |
-| Host Name | Lisa |
+| Lobby ID | 28502575353537803 |
+| Players | 2/10 |
+| Host Name | PAN-CON-CHILCANITO |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:46:01 |
+| Lobby Creation Time | Thursday, November 2, 2023 10:48:11 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575350025115 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | kels |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:41:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575353363888 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | LooPer |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:47:52 |
@@ -52,15 +52,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby ID | 28502575353474491 |
 | Players | 1/8 |
 | Host Name | Hope |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:48:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575353476787 |
-| Players | 2/10 |
-| Host Name | TOCENO TU TERROR |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:48:04 |
 
