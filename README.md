@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575313729687 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | telelet telelet wawayot |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:38:52 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575313214365 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | ►PSG.LGD 愛我 |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:37:56 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575313209151 |
-| Players | 1/15 |
-| Host Name | Dragon |
+| Lobby ID | 28502575313803385 |
+| Players | 2/15 |
+| Host Name | Logen |
 | Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 09:37:55 |
+| Lobby Creation Time | Thursday, November 2, 2023 09:39:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575310867126 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Sirlagsalot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:33:36 |
@@ -104,9 +104,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575313717899 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | selegna🖤 |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:38:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575313848997 |
+| Players | 1/8 |
+| Host Name | Frank.f2o |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 09:39:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575313869641 |
+| Players | 2/8 |
+| Host Name | Зачем ты умерла??? |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 09:39:07 |
 
 
