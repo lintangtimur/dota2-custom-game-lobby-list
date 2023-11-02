@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575393212267 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | MR BEAN |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:55:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575393454467 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | 000 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:55:56 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575393292294 |
-| Players | 6/10 |
-| Host Name | .twitch.tv/shatunchick |
+| Players | 5/10 |
+| Host Name | LeonN |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:55:41 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575393688883 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | шахтер |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:56:18 |
@@ -112,10 +112,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575394087213 |
-| Players | 2/10 |
-| Host Name | Exy |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 11:56:55 |
+| Lobby ID | 28502575394117545 |
+| Players | 3/10 |
+| Host Name | .twitch.tv/shatunchick |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 11:56:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575394193301 |
+| Players | 2/8 |
+| Host Name | Todo anda mal |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 11:57:05 |
 
 
