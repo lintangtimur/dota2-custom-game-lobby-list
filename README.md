@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575458343000 |
-| Players | 11/15 |
-| Host Name | Explorer |
+| Lobby ID | 28502575458893833 |
+| Players | 1/8 |
+| Host Name | Juan Bolsa |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 13:38:00 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:38:50 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575450723028 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | HOMBRE EN LLAMAS |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 13:26:13 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575456903360 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | PND.Wilarson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:35:48 |
@@ -92,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:19:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575458893833 |
-| Players | 1/8 |
-| Host Name | Juan Bolsa |
+| Lobby ID | 28502575459080525 |
+| Players | 3/10 |
+| Host Name | Optimal |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 13:38:50 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:39:08 |
 
 
