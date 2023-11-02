@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575470364062 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | 123 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:55:30 |
@@ -101,19 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:57:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575469623730 |
-| Players | 2/10 |
-| Host Name | Чикатилка |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 13:54:27 |
+| Lobby ID | 28502575472021521 |
+| Players | 3/24 |
+| Host Name | Santiago(PAMPLONA) |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 13:57:53 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575471763370 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Геральд из Сирии |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:57:31 |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Netske |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 13:57:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575472021521 |
-| Players | 1/24 |
-| Host Name | Santiago(PAMPLONA) |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 13:57:53 |
 
 
