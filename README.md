@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575439885143 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Taco |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:08:23 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575438965103 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | GeliPat |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 13:06:47 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575440149718 |
-| Players | 3/8 |
-| Host Name | apelsin |
+| Lobby ID | 28502575440282161 |
+| Players | 4/8 |
+| Host Name | Палыч |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 13:08:50 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:09:04 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575438811840 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Yatoro no es God |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 13:06:31 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575440077625 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | aki |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 13:08:43 |
@@ -130,28 +130,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575440282161 |
-| Players | 3/8 |
-| Host Name | Палыч |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 13:09:04 |
+| Lobby ID | 28502575440374746 |
+| Players | 1/8 |
+| Host Name | SodaZ |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 13:09:13 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575440295011 |
+| Lobby ID | 28502575440371128 |
 | Players | 1/10 |
 | Host Name | 私を救う |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 13:09:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575440306692 |
-| Players | 2/10 |
-| Host Name | 绝对 |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 13:09:06 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:09:13 |
 
 
