@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367253031218 |
-| Players | 6/15 |
+| Players | 4/15 |
 | Host Name | 乱战先锋第一骚货！ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 21:00:22 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 21:31:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503367296901019 |
-| Players | 7/8 |
-| Host Name | unlucky |
+| Lobby ID | 28503367302804360 |
+| Players | 23/24 |
+| Host Name | Rick & Clancy |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 21:24:30 |
+| Lobby Creation Time | Thursday, November 2, 2023 21:27:45 |
 
 
 |  | ot3_gardens_duo |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367308826773 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | хуярю героин |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 21:31:05 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367289819899 |
-| Players | 22/24 |
+| Players | 17/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 21:20:34 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367309967904 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | MoAra |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 21:31:44 |
@@ -157,17 +157,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367310349951 |
+| Lobby ID | 28503367310473534 |
 | Players | 3/8 |
-| Host Name | diphenhydramine enjoyer |
+| Host Name | Артём всё путём :) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 21:31:56 |
+| Lobby Creation Time | Thursday, November 2, 2023 21:32:00 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367263658478 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Shooting Star |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 21:05:41 |
