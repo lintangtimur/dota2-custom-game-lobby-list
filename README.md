@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575466106686 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Just subscribe for Linda H |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:49:30 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575466421314 |
-| Players | 1/24 |
-| Host Name | Martin The Flower 🏵 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 13:49:56 |
+| Lobby ID | 28502575465702325 |
+| Players | 2/24 |
+| Host Name | Kotarō痛 |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 13:48:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575465784177 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | 異體字爲為为畫畵画線 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:49:02 |
@@ -95,18 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575467002660 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | TheBlindShibaInuSexyah |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:50:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575465702325 |
-| Players | 2/24 |
-| Host Name | Kotarō痛 |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 13:48:55 |
+| Lobby ID | 28502575467226859 |
+| Players | 1/8 |
+| Host Name | stingeR. |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 13:51:04 |
 
 
