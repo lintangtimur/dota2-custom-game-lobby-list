@@ -32,10 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575473976715 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ripples |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:00:39 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575474990938 |
+| Players | 1/10 |
+| Host Name | lupanamaingatrasa |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 14:02:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575468062571 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Алексей Фоликула |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 13:52:14 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575473793008 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Топ 100 Антарктиды |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 14:00:24 |
@@ -87,7 +96,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28502575474052505 |
 | Players | 3/10 |
-| Host Name | Лена Головач |
+| Host Name | Multivarka |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 14:00:46 |
 
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575472021521 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Santiago(PAMPLONA) |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:57:53 |
