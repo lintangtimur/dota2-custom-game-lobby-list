@@ -13,29 +13,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575356214285 |
-| Players | 7/10 |
-| Host Name | MYB11RU |
+| Lobby ID | 28502575357128560 |
+| Players | 1/10 |
+| Host Name | Alessia Cara |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 10:54:29 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575357316488 |
+| Players | 1/10 |
+| Host Name | González Pérez |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 10:52:53 |
+| Lobby Creation Time | Thursday, November 2, 2023 10:54:50 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575356876445 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | (/_-) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:54:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575356779772 |
-| Players | 7/8 |
-| Host Name | voidragon |
+| Lobby ID | 28502575357082553 |
+| Players | 1/10 |
+| Host Name | Z |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 10:53:52 |
+| Lobby Creation Time | Thursday, November 2, 2023 10:54:24 |
 
 
 |  | ot3_necropolis_ffa |
@@ -67,19 +76,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575356807352 |
-| Players | 7/15 |
-| Host Name | Dr. Chaputin modo Sexo |
+| Lobby ID | 28502575357327548 |
+| Players | 6/15 |
+| Host Name | Jimo is Back! |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:53:55 |
+| Lobby Creation Time | Thursday, November 2, 2023 10:54:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575356860294 |
-| Players | 7/24 |
-| Host Name | jebao |
+| Players | 1/24 |
+| Host Name | شگاف |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 10:54:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575355450032 |
+| Players | 9/15 |
+| Host Name | there is no hope |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 10:51:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575357322923 |
+| Players | 1/8 |
+| Host Name | cum_show |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 10:54:50 |
 
 
