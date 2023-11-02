@@ -38,37 +38,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575435390795 |
-| Players | 6/8 |
-| Host Name | SUPERpyperHERO |
+| Lobby ID | 28502575437417415 |
+| Players | 6/10 |
+| Host Name | Beryllium |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 13:00:40 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:04:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575437013489 |
 | Players | 1/24 |
-| Host Name | Quizas... |
+| Host Name | Solo estoy pasando el rato |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 13:03:24 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575436886834 |
+| Lobby ID | 28502575437316608 |
 | Players | 1/15 |
-| Host Name | ꃥꈤꊐ |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 13:03:11 |
+| Host Name | g32apex |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 13:03:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575431712504 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Mouse On Ｗｅｅｄ |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:54:51 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575436849007 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 私を救う |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 13:03:07 |
@@ -113,27 +113,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575437295404 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | WTF&!о_О |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 13:03:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575437316608 |
-| Players | 1/15 |
-| Host Name | g32apex |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 13:03:55 |
+| Lobby ID | 28502575437358303 |
+| Players | 1/24 |
+| Host Name | is lie.Gc |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 13:04:00 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575437323139 |
+| Lobby ID | 28502575437423782 |
 | Players | 1/24 |
-| Host Name | < blank > |
+| Host Name |  |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 13:03:56 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:04:07 |
 
 
