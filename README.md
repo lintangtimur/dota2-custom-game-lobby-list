@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575808781397 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | 乱战先锋第一骚货！ |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 19:37:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575833257081 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 19:52:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575848872726 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Lifestalin |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 20:01:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575849361242 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, November 2, 2023 20:01:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575849375979 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Ромка |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 20:01:58 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575849640948 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | WASD |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 20:02:08 |
@@ -110,12 +110,57 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 20:02:10 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575850044461 |
+| Players | 1/8 |
+| Host Name | Dvzzin17 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 20:02:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575850056524 |
+| Players | 3/8 |
+| Host Name | Tumatauenga |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 20:02:23 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575849963758 |
-| Players | 1/10 |
-| Host Name | S1MPLE ツ |
+| Lobby ID | 28502575850196543 |
+| Players | 4/10 |
+| Host Name | позорник |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 20:02:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575850182264 |
+| Players | 3/8 |
+| Host Name | Гена Цыдармян |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 20:02:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575850221333 |
+| Players | 3/8 |
+| Host Name | Never say me no? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 20:02:19 |
+| Lobby Creation Time | Thursday, November 2, 2023 20:02:28 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575839917498 |
+| Players | 23/24 |
+| Host Name | ~~MOMO~~ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 19:56:15 |
 
 
