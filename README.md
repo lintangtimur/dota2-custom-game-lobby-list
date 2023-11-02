@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341619853746 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | E Honda |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 07:31:39 |
@@ -92,13 +92,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 07:31:58 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502341620015584 |
+| Players | 5/15 |
+| Host Name | Juan El Narco |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 07:31:59 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502341619104015 |
-| Players | 7/8 |
-| Host Name | Odinn |
+| Lobby ID | 28502341620060103 |
+| Players | 1/8 |
+| Host Name | БаРаГуЗ |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 07:30:09 |
+| Lobby Creation Time | Thursday, November 2, 2023 07:32:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502341620074794 |
+| Players | 1/8 |
+| Host Name | Shamil Basaev |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 07:32:06 |
 
 
 |  | epic_boss_fight_nightmare |
