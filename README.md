@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575321667284 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | Plastic Pop can |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:52:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575324350214 |
-| Players | 9/24 |
+| Players | 23/24 |
 | Host Name | Bajando locura |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:57:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575324907513 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | LooPer |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:58:37 |
@@ -68,9 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575325884023 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | pacp.ec |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:00:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575325934094 |
+| Players | 3/15 |
+| Host Name | kötsibëu |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 10:00:25 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575326137230 |
+| Players | 2/10 |
+| Host Name | IDEALES |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 10:00:46 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575326217575 |
+| Players | 2/10 |
+| Host Name | No hablo español |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 10:00:54 |
 
 
