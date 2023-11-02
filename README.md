@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575253772417 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | wasonbeat. |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 07:48:04 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341625870224 |
-| Players | 23/24 |
+| Players | 22/24 |
 | Host Name | ✪ SOY ALTO, PERO ME DICEN BAJO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 07:43:32 |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | XxTuviejoxX |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 07:47:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502341626161154 |
+| Players | 5/15 |
+| Host Name | CEPILLIN |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 07:44:05 |
 
 
