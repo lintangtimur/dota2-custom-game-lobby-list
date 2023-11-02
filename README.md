@@ -51,7 +51,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28502575699461080 |
 | Players | 1/5 |
-| Host Name |  |
+| Host Name | Klay |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 18:21:00 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575698449439 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | РОМАТИМБЕРСАУ |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 18:20:12 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 18:19:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575698779561 |
-| Players | 8/10 |
-| Host Name | bahcheeeparis |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 18:20:28 |
+| Lobby ID | 28502575699406333 |
+| Players | 4/8 |
+| Host Name | Panika |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 2, 2023 18:20:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -108,23 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Korpy |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 18:20:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575699406333 |
-| Players | 1/8 |
-| Host Name | Panika |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 2, 2023 18:20:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575699414834 |
-| Players | 1/8 |
-| Host Name | BETTER CALL SAUL |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 18:20:58 |
 
 
