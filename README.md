@@ -20,19 +20,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:32:38 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502575542903410 |
-| Players | 1/5 |
-| Host Name | magma |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 15:33:00 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575539700822 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | why u no do something |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 15:29:04 |
@@ -101,30 +92,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:32:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575542877196 |
-| Players | 2/10 |
-| Host Name | усатая швайна弥登 |
+| Lobby ID | 28502575543048824 |
+| Players | 2/15 |
+| Host Name | rebellious everlasting kid |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 15:32:58 |
+| Lobby Creation Time | Thursday, November 2, 2023 15:33:11 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575540877542 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | вывфвфывфвфвыф1231 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 15:30:31 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575542990587 |
+| Players | 1/10 |
+| Host Name | Не звоните Солу |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 15:33:07 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575542901943 |
+| Lobby ID | 28502575543017222 |
 | Players | 1/15 |
 | Host Name | Клавиатура |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 15:33:00 |
+| Lobby Creation Time | Thursday, November 2, 2023 15:33:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575541969309 |
+| Players | 14/15 |
+| Host Name | подкрадуль |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 15:31:51 |
 
 
