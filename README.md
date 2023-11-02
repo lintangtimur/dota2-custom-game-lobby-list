@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341605097380 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | smokey (mira smurf) |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 07:02:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502341618899861 |
-| Players | 11/15 |
-| Host Name | ola |
+| Lobby ID | 28502341619153040 |
+| Players | 9/10 |
+| Host Name | GOD MODE |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 07:29:45 |
+| Lobby Creation Time | Thursday, November 2, 2023 07:30:15 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502341619104015 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Odinn |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 07:30:09 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502341618814851 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | IISIMI |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 07:29:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502341619153040 |
-| Players | 7/10 |
-| Host Name | GOD MODE |
+| Lobby ID | 28502341618899861 |
+| Players | 12/15 |
+| Host Name | ola |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 07:30:15 |
+| Lobby Creation Time | Thursday, November 2, 2023 07:29:45 |
 
 
 |  | epic_boss_fight_nightmare |
