@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:05:40 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575438898605 |
-| Players | 1/10 |
-| Host Name | JOHN CHINA |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 13:06:41 |
-
-
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28502575438967788 |
@@ -27,6 +18,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Arwien |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 13:06:48 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575439242682 |
+| Players | 1/5 |
+| Host Name | Oni |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 13:07:16 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575437358303 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | is lie.Gc |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 13:04:00 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:03:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575436849007 |
-| Players | 8/10 |
-| Host Name | 私を救う |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 13:03:07 |
+| Lobby ID | 28502575438965103 |
+| Players | 1/24 |
+| Host Name | GeliPat |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 13:06:47 |
 
 
 |  | ot3_gardens_duo |
@@ -101,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:06:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575438965103 |
-| Players | 1/24 |
-| Host Name | GeliPat |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 13:06:47 |
+| Lobby ID | 28502575439248242 |
+| Players | 1/8 |
+| Host Name | [♂+♂=♥]6LyaDuKtoR |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 13:07:17 |
 
 
