@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575411177509 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Sr Timba |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:22:50 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575411121392 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | ánima |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:22:45 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | geniefx |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:25:44 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575413291501 |
+| Players | 1/24 |
+| Host Name | Asam Garam |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 12:26:05 |
 
 
