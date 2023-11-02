@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28502575297551279 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | as |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:08:09 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575298415593 |
-| Players | 2/15 |
+| Players | 10/15 |
 | Host Name | No hablo español |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:09:55 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575298515095 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | MasonLayble |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:10:07 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575297845616 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Local Optima |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 09:08:45 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575297951931 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:08:58 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575297938567 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Dohman32 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 09:08:57 |
@@ -153,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | soooqa |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:09:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575298602018 |
+| Players | 1/8 |
+| Host Name | Беспредед |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 09:10:18 |
 
 
