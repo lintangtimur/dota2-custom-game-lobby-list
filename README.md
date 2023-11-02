@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575544565369 |
-| Players | 13/15 |
-| Host Name | LIFE LOSER |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 15:35:05 |
+| Lobby ID | 28502575545229627 |
+| Players | 3/15 |
+| Host Name | ACC for practice |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 15:35:56 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575543514212 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Teamp0ison |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 15:33:46 |
@@ -83,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:32:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575545229627 |
-| Players | 1/15 |
-| Host Name | ACC for practice |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 15:35:56 |
+| Lobby ID | 28502575545343457 |
+| Players | 1/10 |
+| Host Name | μVlrka |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 15:36:04 |
 
 
