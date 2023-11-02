@@ -5,10 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575474990938 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | lupanamaingatrasa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:02:05 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575482657057 |
+| Players | 1/10 |
+| Host Name | Vin |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 14:12:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575481379950 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | РОМАТИМБЕРСАУ |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 14:11:05 |
@@ -76,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575482008196 |
-| Players | 1/8 |
-| Host Name | iKawai |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 14:11:57 |
+| Lobby ID | 28502575482294160 |
+| Players | 5/8 |
+| Host Name | [Crips] Death is in your eyes |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 14:12:21 |
 
 
 |  | ot3_gardens_duo |
@@ -90,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | [A]DmiralLight |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 2, 2023 14:12:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575482264199 |
-| Players | 1/8 |
-| Host Name | SuperFranki◄ |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 14:12:18 |
 
 
