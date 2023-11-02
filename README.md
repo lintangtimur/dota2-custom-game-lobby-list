@@ -20,28 +20,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:57:52 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502575671751827 |
-| Players | 1/5 |
-| Host Name | . Skye |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 17:57:57 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502575671940028 |
-| Players | 1/5 |
-| Host Name | A O R Y |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:58:07 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575670141506 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | hahahehehoho |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:56:31 |
@@ -59,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575664599640 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:51:31 |
@@ -68,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575665148186 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Kupnu4 Te6e B roJIoBy |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 17:52:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575671137803 |
-| Players | 7/15 |
-| Host Name | wp |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:57:24 |
+| Lobby ID | 28502575672215361 |
+| Players | 1/8 |
+| Host Name | 8) |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 17:58:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -103,10 +85,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575671999140 |
-| Players | 1/8 |
-| Host Name | в танке |
+| Lobby ID | 28502575672101300 |
+| Players | 4/8 |
+| Host Name | NewPlayerBehaviorSystemEnjoyer |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 2, 2023 17:58:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575660552864 |
+| Players | 13/15 |
+| Host Name | Chompiras |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 17:47:49 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575669114809 |
+| Players | 23/24 |
+| Host Name | Sopi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 17:55:36 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575672261342 |
+| Players | 1/10 |
+| Host Name | Ас |
 | Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 17:58:10 |
+| Lobby Creation Time | Thursday, November 2, 2023 17:58:24 |
 
 
