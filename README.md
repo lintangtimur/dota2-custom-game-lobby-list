@@ -94,26 +94,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367844300936 |
-| Players | 7/10 |
-| Host Name | Undead |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:44:43 |
+| Lobby ID | 28503367844508358 |
+| Players | 2/10 |
+| Host Name | macxvii |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 04:45:01 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367836744173 |
-| Players | 16/24 |
-| Host Name | AnGlz__Strike |
+| Lobby ID | 28503367844557804 |
+| Players | 1/15 |
+| Host Name | CriticalStrike |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:34:37 |
+| Lobby Creation Time | Friday, November 3, 2023 04:45:05 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367842223893 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Rho Aias |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 04:41:52 |
@@ -131,8 +131,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367844116487 |
-| Players | 4/10 |
-| Host Name | Collapse (взапое) |
+| Players | 2/10 |
+| Host Name | Nicki Minaj |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 04:44:28 |
 
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367843666980 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | who's |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 04:43:50 |
@@ -155,19 +155,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 04:43:23 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367844508358 |
-| Players | 2/10 |
-| Host Name | macxvii |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 04:45:01 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503367840791929 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Kunde |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 04:39:58 |
