@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575302384038 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | SI-ALAN-TO |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:17:40 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:19:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575301185475 |
-| Players | 23/24 |
-| Host Name | 9S |
+| Lobby ID | 28502575302885101 |
+| Players | 5/8 |
+| Host Name | ¿? |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:15:19 |
+| Lobby Creation Time | Thursday, November 2, 2023 09:18:40 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575302733145 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | чел |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:18:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575302879464 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Waal._ |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 09:18:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575303150759 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | iseedeadp3ople |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:19:11 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575302797640 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | Bald globe |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:18:30 |
@@ -76,10 +76,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575302885101 |
+| Lobby ID | 28502575303401130 |
 | Players | 2/8 |
-| Host Name | ¿? |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:18:40 |
+| Host Name | MasonLayble |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 09:19:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575303509856 |
+| Players | 6/8 |
+| Host Name | Целуйте ноги мне |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 09:19:53 |
 
 
