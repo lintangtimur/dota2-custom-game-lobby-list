@@ -2,6 +2,15 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575540805415 |
+| Players | 1/5 |
+| Host Name | DONT |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 15:30:26 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
@@ -47,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:18:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575540326085 |
-| Players | 7/8 |
-| Host Name | 6lank |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 15:29:51 |
+| Lobby ID | 28502575540575685 |
+| Players | 5/10 |
+| Host Name | She looks like starry sky |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 15:30:09 |
 
 
 |  | ot3_gardens_duo |
@@ -68,27 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575535867016 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 15:24:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575540575685 |
-| Players | 2/10 |
-| Host Name | She looks like starry sky |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 15:30:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575540604518 |
-| Players | 4/8 |
-| Host Name | Wuazan |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 15:30:11 |
 
 
