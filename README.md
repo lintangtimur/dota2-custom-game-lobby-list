@@ -14,28 +14,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575603872269 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Антонио Еблэнас |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 16:47:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28502575602308403 |
-| Players | 7/8 |
-| Host Name | Хай Хентай |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 16:45:17 |
+| Lobby ID | 28502575604150629 |
+| Players | 1/7 |
+| Host Name | Damaged |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 16:47:29 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575548507113 |
-| Players | 2/8 |
-| Host Name | бесперспективняк |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 15:40:10 |
+| Lobby ID | 28502575603999810 |
+| Players | 1/8 |
+| Host Name | Dope4 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 16:47:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575603609893 |
+| Players | 4/10 |
+| Host Name | Harvester of death |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 16:46:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575603495025 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | BYVSHIY HATER RLARLA |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 16:46:42 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575600459390 |
-| Players | 12/24 |
+| Players | 10/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, November 2, 2023 16:43:05 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575603619818 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Mun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 16:46:51 |
@@ -105,7 +114,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28502575603330115 |
 | Players | 2/8 |
-| Host Name | gopnik |
+| Host Name | Xine |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 16:46:30 |
 
@@ -113,27 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575603707303 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Yator4 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 16:46:57 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575603609893 |
-| Players | 2/10 |
-| Host Name | Harvester of death |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 16:46:50 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575603999810 |
+| Lobby ID | 28502575604569711 |
 | Players | 1/8 |
-| Host Name | Dope4 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 16:47:18 |
+| Host Name | water dance |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 16:47:58 |
 
 
