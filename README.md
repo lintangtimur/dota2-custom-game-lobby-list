@@ -32,10 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575458329013 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | TINONTOTOYO |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 2, 2023 13:37:59 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28502575458584404 |
+| Players | 1/7 |
+| Host Name | Damaged |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 13:38:22 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575458343000 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Explorer |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 13:38:00 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575450723028 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | HOMBRE EN LLAMAS |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 13:26:13 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575457165228 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Netske |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 13:36:12 |
@@ -95,8 +104,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575456978198 |
-| Players | 2/10 |
-| Host Name | La Pixiris |
+| Players | 1/10 |
+| Host Name | lizbeth❤♥ |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:35:55 |
 
@@ -108,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PND.Wilarson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:35:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575458273205 |
-| Players | 1/15 |
-| Host Name | Liza_Solntseva |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 13:37:54 |
 
 
