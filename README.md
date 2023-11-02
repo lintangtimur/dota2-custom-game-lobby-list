@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367697805414 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Бляшка |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 02:05:39 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367695934028 |
-| Players | 23/24 |
-| Host Name | 大鲶鱼 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 02:03:59 |
+| Lobby ID | 28503367704723250 |
+| Players | 1/15 |
+| Host Name | Riessfeld.무서움 |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 02:11:57 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367704067087 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Empower |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 02:11:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367701556909 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | romchyg |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 02:09:02 |
@@ -130,20 +130,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367704511390 |
+| Lobby ID | 28503367704788796 |
 | Players | 1/8 |
-| Host Name | коля железяка |
+| Host Name | Злобный_бульбуля |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 02:11:45 |
+| Lobby Creation Time | Friday, November 3, 2023 02:12:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503367704841432 |
+| Players | 2/10 |
+| Host Name | Манез |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 02:12:03 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367703220142 |
+| Lobby ID | 28503367703036748 |
 | Players | 14/15 |
-| Host Name | Connor McGee Thor |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 02:10:34 |
+| Host Name | kono Dio da! |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 02:10:24 |
 
 
 |  | epic_boss_fight_nightmare |
