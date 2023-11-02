@@ -11,13 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 06:48:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28503923796864898 |
-| Players | 6/8 |
-| Host Name | Николай Дроздов |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 06:48:31 |
+| Lobby ID | 28503923797716180 |
+| Players | 1/10 |
+| Host Name | Heart |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 06:50:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923797604560 |
+| Players | 1/15 |
+| Host Name | <Exanime> |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 06:49:54 |
 
 
 |  | ot3_jungle_quintet |
@@ -31,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923797546675 |
-| Players | 6/10 |
-| Host Name | Lavender |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 06:49:47 |
+| Lobby ID | 28503923797727965 |
+| Players | 1/10 |
+| Host Name | Pitón Pituda |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 06:50:08 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923797194332 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | ScrotusTheCat |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 06:49:08 |
@@ -104,18 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923797327823 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | PATITO NICHAN |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:49:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923797604560 |
-| Players | 1/15 |
-| Host Name | <Exanime> |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 06:49:54 |
+| Lobby ID | 28503923797759488 |
+| Players | 1/8 |
+| Host Name | LIL KRISTAL +100 VOLUME |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 06:50:12 |
 
 
