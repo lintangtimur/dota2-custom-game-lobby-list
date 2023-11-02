@@ -2,6 +2,15 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575304707176 |
+| Players | 1/10 |
+| Host Name | FudencioES* |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 09:22:10 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575303891210 |
@@ -77,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575304475941 |
-| Players | 3/10 |
-| Host Name | Ajr |
+| Players | 2/10 |
+| Host Name | Rich Homie |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 09:21:44 |
 
@@ -90,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | On The Grind |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:21:51 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575304683989 |
+| Players | 2/15 |
+| Host Name | Контрпик женщин |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 09:22:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575304709801 |
+| Players | 8/15 |
+| Host Name | Sapa Inca |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 09:22:10 |
 
 
