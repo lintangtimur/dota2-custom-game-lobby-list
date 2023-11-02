@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575664780206 |
-| Players | 10/10 |
-| Host Name | Amazon |
+| Lobby ID | 28502575662216931 |
+| Players | 7/10 |
+| Host Name | QWERTY |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 17:51:40 |
+| Lobby Creation Time | Thursday, November 2, 2023 17:49:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -38,31 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:52:14 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575662216931 |
-| Players | 6/10 |
-| Host Name | QWERTY |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 17:49:20 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28502575667466496 |
-| Players | 5/7 |
-| Host Name | i feel like shittttttttttt!!!!!! |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 17:54:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575667189909 |
-| Players | 3/8 |
-| Host Name | CCCP |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 17:53:51 |
+| Lobby ID | 28502575665148186 |
+| Players | 1/15 |
+| Host Name | Kupnu4 Te6e B roJIoBy |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 17:52:01 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575666845540 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Elya |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 17:53:33 |
@@ -119,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:53:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575665148186 |
-| Players | 1/15 |
-| Host Name | Kupnu4 Te6e B roJIoBy |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 17:52:01 |
+| Lobby ID | 28502575667680536 |
+| Players | 1/8 |
+| Host Name | zxcлопата |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 17:54:18 |
 
 
