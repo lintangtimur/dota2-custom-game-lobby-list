@@ -23,25 +23,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575662205902 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | KillerBee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:49:19 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502575663183624 |
-| Players | 1/5 |
-| Host Name | Блиц скорость без |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:50:13 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575660552864 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Elya |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 17:47:49 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575662301984 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Boss James |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:49:25 |
@@ -77,36 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575662902436 |
-| Players | 1/15 |
+| Players | 14/15 |
 | Host Name | Gdzh♡ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 17:49:57 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575662742239 |
-| Players | 10/15 |
-| Host Name | Noname |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:49:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575663145776 |
-| Players | 1/8 |
-| Host Name | من روسی هستم. |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 17:50:11 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575663153207 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | BMW клитор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 17:50:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575663281310 |
+| Players | 1/15 |
+| Host Name | Triplesixgods |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 17:50:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575663348537 |
+| Players | 1/15 |
+| Host Name | Natus Vinci |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 17:50:22 |
 
 
