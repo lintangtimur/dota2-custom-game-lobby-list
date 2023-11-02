@@ -14,16 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28502575268742257 |
-| Players | 3/7 |
+| Players | 5/7 |
 | Host Name | Necrox |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:12:23 |
 
 
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28502575270017683 |
+| Players | 1/7 |
+| Host Name | 黑暗剑廿二 |
+| Region | PWTELECOMZHEJIANG |
+| Lobby Creation Time | Thursday, November 2, 2023 08:14:39 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575268921937 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | YaMa |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 08:12:43 |
@@ -47,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 08:11:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575267868424 |
-| Players | 7/8 |
-| Host Name | AnYeloUruri |
+| Lobby ID | 28502575268477279 |
+| Players | 11/24 |
+| Host Name | ✪ SOY ALTO, PERO ME DICEN BAJO |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 08:10:50 |
+| Lobby Creation Time | Thursday, November 2, 2023 08:11:55 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575269786234 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | 'Cry 雨' |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:14:13 |
@@ -77,18 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575269076785 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | целка на лице |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 08:12:59 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575268477279 |
-| Players | 4/24 |
-| Host Name | ✪ SOY ALTO, PERO ME DICEN BAJO |
+| Lobby ID | 28502575270016046 |
+| Players | 1/15 |
+| Host Name | I HATE STUPID KIDS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 08:14:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575270140256 |
+| Players | 1/10 |
+| Host Name | CORRALITO |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 08:11:55 |
+| Lobby Creation Time | Thursday, November 2, 2023 08:14:52 |
 
 
