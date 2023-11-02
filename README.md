@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28502575535108822 |
-| Players | 9/10 |
-| Host Name | Aranis |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 15:23:09 |
+| Lobby ID | 28502575536691499 |
+| Players | 1/5 |
+| Host Name | Spirit Cock Sucker |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 15:25:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575535069124 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ♡ ChikoLulu ♡ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 15:23:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575536051413 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | ANIKI 兄貴 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 15:24:24 |
@@ -122,9 +122,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575536380725 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Sliyver |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 2, 2023 15:24:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575536799253 |
+| Players | 1/8 |
+| Host Name | ЛисуЗдесьНеМесто |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 15:25:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575536800749 |
+| Players | 1/15 |
+| Host Name | q1 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 15:25:23 |
 
 
