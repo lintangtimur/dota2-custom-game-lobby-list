@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 03:51:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367805769508 |
-| Players | 2/15 |
-| Host Name | Neon Annihilation |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 03:56:34 |
+| Lobby ID | 28503367807869955 |
+| Players | 3/8 |
+| Host Name | СКВИРТУЮ ЧЛЕНОМ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 03:59:01 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367807374286 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | ·•●٠₥™ҜĬ₦Ģ٠ |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 03:58:25 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367807863698 |
-| Players | 3/10 |
-| Host Name | Moe Lester |
+| Players | 1/10 |
+| Host Name | Hanna |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 03:59:00 |
 
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 03:43:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367808037976 |
-| Players | 2/10 |
-| Host Name | VladisVens |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 03:59:13 |
+| Lobby ID | 28503367808113717 |
+| Players | 5/15 |
+| Host Name | 'Cry 雨' |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 03:59:18 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 03:20:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367807653679 |
-| Players | 6/8 |
-| Host Name | Dr.Feelgood |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 03:58:45 |
+| Lobby ID | 28503367807848798 |
+| Players | 2/10 |
+| Host Name | Stasyan 5 pos |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 03:58:59 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367796616949 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Барбарик |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 03:46:08 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367802906857 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Miselaniuz |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 03:53:18 |
@@ -146,33 +146,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 03:53:26 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503367807869955 |
-| Players | 3/8 |
-| Host Name | СКВИРТУЮ ЧЛЕНОМ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 03:59:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367807848798 |
-| Players | 2/10 |
-| Host Name | Stasyan 5 pos |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 03:58:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367807945985 |
-| Players | 2/10 |
-| Host Name | МЕДОЕД |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 03:59:06 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28503367799756461 |
@@ -191,12 +164,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 03:57:53 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28503367808033090 |
-| Players | 1/5 |
-| Host Name | мирный треугольн |
+| Lobby ID | 28503367808207534 |
+| Players | 1/10 |
+| Host Name | Justers.Ex_Nihilo |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 03:59:12 |
+| Lobby Creation Time | Friday, November 3, 2023 03:59:25 |
 
 
