@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367886983510 |
-| Players | 22/24 |
-| Host Name | Ratasor |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 05:48:40 |
+| Lobby ID | 28503367885795935 |
+| Players | 5/10 |
+| Host Name | Борька Дайдалус |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 05:46:46 |
 
 
 |  | ot3_necropolis_ffa |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 05:51:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503367887452346 |
-| Players | 11/15 |
-| Host Name | ローリー |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:49:26 |
+| Lobby ID | 28503367890639605 |
+| Players | 1/24 |
+| Host Name | Tangerine |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 05:54:38 |
 
 
 |  | ot3_desert_octet |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367890095230 |
-| Players | 8/10 |
-| Host Name | G_G |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:53:45 |
+| Lobby ID | 28503367890498584 |
+| Players | 2/10 |
+| Host Name | nicki nicole fan |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 05:54:25 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367889962663 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Menace2Society |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 05:53:32 |
@@ -63,33 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 05:43:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367890498584 |
-| Players | 2/10 |
-| Host Name | nicki nicole fan |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 05:54:25 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503367890639605 |
-| Players | 1/24 |
-| Host Name | Tangerine |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 05:54:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367885795935 |
-| Players | 5/10 |
-| Host Name | Борька Дайдалус |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:46:46 |
 
 
 |  | epic_boss_fight_normal |
