@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923795892495 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Hope |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:46:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923792321802 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | ALL MUTED |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 3, 2023 06:39:57 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923796353664 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Neil Breen |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:47:32 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923796946845 |
-| Players | 6/8 |
+| Players | 2/8 |
 | Host Name | MADx99 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 3, 2023 06:48:40 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923797075471 |
-| Players | 3/15 |
-| Host Name | shIItake |
+| Players | 4/15 |
+| Host Name | 299 |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 06:48:55 |
 
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923796327893 |
-| Players | 5/15 |
+| Players | 3/15 |
 | Host Name | GORDOX |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 06:47:30 |
@@ -144,14 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dai-Njastarr |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 06:48:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923796522180 |
-| Players | 7/8 |
-| Host Name | Prionzombie |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:47:52 |
 
 
