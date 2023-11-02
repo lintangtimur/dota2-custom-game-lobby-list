@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28502575391182907 |
-| Players | 1/10 |
+| Lobby ID | 28502575397334916 |
+| Players | 1/5 |
 | Host Name | Arc Valkyria |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 11:52:26 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 12:01:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575393212267 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | ThiNk Pe ChaTo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:55:34 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:00:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575394252680 |
-| Players | 8/15 |
-| Host Name | CACHA TOMBOS! |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 11:57:11 |
+| Lobby ID | 28502575396874485 |
+| Players | 3/24 |
+| Host Name | 不二周助 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 12:01:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,12 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:00:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575396874485 |
-| Players | 1/24 |
-| Host Name | 不二周助 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 12:01:14 |
+| Lobby ID | 28502575397212083 |
+| Players | 1/8 |
+| Host Name | Jivchik |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 12:01:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575397176270 |
+| Players | 1/10 |
+| Host Name | CORRALITO |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 12:01:41 |
 
 
