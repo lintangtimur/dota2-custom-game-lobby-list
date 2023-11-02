@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575419085176 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | потамушта |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 12:34:53 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575417976796 |
+| Lobby ID | 28502575419725686 |
 | Players | 1/10 |
-| Host Name | ARTEX |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 12:33:12 |
+| Host Name | 홍은채) 내 동료가 돼라 홍은채) 물고기 캠 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 12:35:52 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,15 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:33:40 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575418390767 |
-| Players | 21/24 |
-| Host Name | eterno 2k |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 12:33:49 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575419400626 |
@@ -119,12 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:35:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575419725686 |
-| Players | 1/10 |
-| Host Name | 홍은채) 내 동료가 돼라 홍은채) 물고기 캠 |
+| Lobby ID | 28502575420042310 |
+| Players | 1/24 |
+| Host Name | Solo estoy pasando el rato |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 12:35:52 |
+| Lobby Creation Time | Thursday, November 2, 2023 12:36:22 |
 
 
