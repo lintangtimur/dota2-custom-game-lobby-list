@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575639709340 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Dendi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:27:25 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575638590951 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Hi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 17:26:16 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575641242113 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | малышка — это Comme des Garçons |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 17:29:00 |
@@ -122,8 +122,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575640903772 |
-| Players | 4/10 |
-| Host Name | БОНДИД-Джамшут |
+| Players | 1/10 |
+| Host Name | БОНДИД-Ашот |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 17:28:39 |
 
@@ -135,5 +135,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ызыз |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:29:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575641377368 |
+| Players | 6/10 |
+| Host Name | Глубокслав |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 17:29:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575636392645 |
+| Players | 13/15 |
+| Host Name | why you hate me? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 17:23:59 |
 
 
