@@ -4,15 +4,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575367973290 |
-| Players | 8/10 |
-| Host Name | monday left me broken cat |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 11:14:26 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28502575368173476 |
 | Players | 6/10 |
 | Host Name | Zero |
@@ -50,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575369500797 |
-| Players | 6/10 |
-| Host Name | LOSBENJAMINS |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 11:17:13 |
+| Lobby ID | 28502575368430882 |
+| Players | 7/8 |
+| Host Name | Jivchik |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 11:15:16 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575369231734 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | BABY-ROSH (AL) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:16:43 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575368188345 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | DANICH |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:14:49 |
@@ -86,18 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575367246819 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Sirlagsalot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:13:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575368430882 |
-| Players | 5/8 |
-| Host Name | Jivchik |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 11:15:16 |
+| Lobby ID | 28502575369760576 |
+| Players | 1/15 |
+| Host Name | OfficialKTChubs |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 11:17:41 |
 
 
