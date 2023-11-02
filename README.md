@@ -2,19 +2,10 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502575575093317 |
-| Players | 1/5 |
-| Host Name | 超サイヤ人ブル |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 16:12:54 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575573301171 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | Shawn Oakman |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 16:10:47 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575574367417 |
-| Players | 10/24 |
+| Players | 15/24 |
 | Host Name | 大鲶鱼 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 16:12:02 |
@@ -47,20 +38,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 16:12:14 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575574136159 |
-| Players | 3/24 |
-| Host Name | ATK |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 16:11:46 |
+| Lobby ID | 28502575575235239 |
+| Players | 1/8 |
+| Host Name | ABOBA BOY |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 16:13:04 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575575093729 |
-| Players | 1/15 |
-| Host Name | guts |
+| Players | 2/15 |
+| Host Name | я бейби мело |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 16:12:54 |
 
@@ -68,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575574996362 |
-| Players | 2/15 |
-| Host Name | Coyote Starrk |
+| Players | 1/15 |
+| Host Name | Северный Человек |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 16:12:47 |
 
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575574336793 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | :( |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 16:12:00 |
