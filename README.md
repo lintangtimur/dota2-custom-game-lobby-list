@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367668909294 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | 'Cry 雨' |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 01:43:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367668761662 |
-| Players | 11/15 |
-| Host Name | АХУЙ ПОВНИЙ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 01:43:00 |
+| Lobby ID | 28503367670116657 |
+| Players | 6/8 |
+| Host Name | WACKAll |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 3, 2023 01:44:03 |
 
 
 |  | ot3_gardens_duo |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 01:43:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367669512137 |
-| Players | 2/10 |
-| Host Name | YourBirthwasERROR |
+| Lobby ID | 28503367669899028 |
+| Players | 2/8 |
+| Host Name | flexser. |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 01:43:35 |
+| Lobby Creation Time | Friday, November 3, 2023 01:43:53 |
 
 
 |  | ot3_gardens_duo |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367668495476 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | xxREXxx |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 01:42:47 |
@@ -122,19 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367666592454 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Rover |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 01:41:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367668576806 |
-| Players | 2/10 |
-| Host Name | tired |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 01:42:51 |
+| Lobby ID | 28503367658803428 |
+| Players | 6/15 |
+| Host Name | Adjiare Gudju |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 01:34:23 |
 
 
 |  | ot3_desert_octet |
@@ -209,31 +209,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 01:43:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367669899028 |
-| Players | 3/8 |
-| Host Name | ehыч |
+| Lobby ID | 28503367664878965 |
+| Players | 14/15 |
+| Host Name | Уличный дантист |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 01:43:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367669933399 |
-| Players | 1/10 |
-| Host Name | bucataru 💜 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 01:43:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503367669978720 |
-| Players | 1/8 |
-| Host Name | Pak4ik77 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 01:43:57 |
+| Lobby Creation Time | Friday, November 3, 2023 01:39:41 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -254,15 +236,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 01:41:58 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28503367652887072 |
-| Players | 9/10 |
-| Host Name | Кек |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 01:29:12 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28503367669047135 |
@@ -270,5 +243,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | dyizman |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 01:43:13 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28503367670154266 |
+| Players | 2/5 |
+| Host Name | Inosuke |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 01:44:05 |
 
 
