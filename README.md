@@ -20,19 +20,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 06:50:07 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28503923799142975 |
-| Players | 1/5 |
-| Host Name | MGK™ |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 06:52:52 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923797604560 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | <Exanime> |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:49:54 |
@@ -58,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923798919252 |
-| Players | 1/15 |
-| Host Name | V*S*V* |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 06:52:26 |
+| Lobby ID | 28503923798791807 |
+| Players | 3/15 |
+| Host Name | єℓ ρα∂яιησ |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 06:52:11 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923795787450 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | maseto |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:46:28 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923796354166 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | "GoPositive.bet" ARS - Bets4.fun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:47:33 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923798531987 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Moon |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 06:51:40 |
@@ -95,36 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923798996886 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | rew32 |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 06:52:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923798791807 |
-| Players | 3/15 |
-| Host Name | єℓ ρα∂яιησ |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 06:52:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923799145728 |
-| Players | 1/15 |
-| Host Name | slice of heaven that i gave |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:52:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923799148240 |
-| Players | 1/15 |
-| Host Name | SHVEPS |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 06:52:53 |
 
 
