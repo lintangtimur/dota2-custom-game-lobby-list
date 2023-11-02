@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575315386900 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Platinum |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:49 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:42:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575316865391 |
-| Players | 7/8 |
-| Host Name | boring |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:44:29 |
+| Lobby ID | 28502575317684546 |
+| Players | 1/10 |
+| Host Name | 홍은채) 내 동료가 돼라 홍은채) 물고기 캠 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 09:45:59 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575316244897 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Wicharplay |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 09:43:22 |
@@ -86,25 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575316789954 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | 私はあなたを愛してい |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:44:21 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575316472966 |
-| Players | 23/24 |
-| Host Name | El Soto Conchadesusmadre's |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:43:47 |
+| Lobby ID | 28502575317694886 |
+| Players | 4/10 |
+| Host Name | oMi |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 09:46:00 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575316697860 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Organizador_Chocolotada2K23 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:44:11 |
@@ -135,23 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Stich |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:45:24 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575317684546 |
-| Players | 1/10 |
-| Host Name | 홍은채) 내 동료가 돼라 홍은채) 물고기 캠 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 09:45:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575317694886 |
-| Players | 4/10 |
-| Host Name | oMi |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 09:46:00 |
 
 
