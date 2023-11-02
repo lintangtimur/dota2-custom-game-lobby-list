@@ -2,15 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575313729687 |
-| Players | 8/10 |
-| Host Name | telelet telelet wawayot |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 09:38:52 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315868468 |
@@ -23,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575315386900 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | kels |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:49 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575315033642 |
-| Players | 16/24 |
+| Players | 21/24 |
 | Host Name | El Tio Juan |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:12 |
@@ -47,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:42:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575316009783 |
-| Players | 1/8 |
-| Host Name | selegna🖤 |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 09:42:57 |
+| Lobby ID | 28502575315630024 |
+| Players | 11/15 |
+| Host Name | maria.alexandra |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 09:42:16 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,21 +65,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:42:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575315630024 |
-| Players | 8/15 |
-| Host Name | maria.alexandra |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 09:42:16 |
+| Lobby ID | 28502575316101067 |
+| Players | 1/8 |
+| Host Name | selegna🖤 |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 09:43:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575315662022 |
-| Players | 9/10 |
-| Host Name | ⌐◨-◨ |
+| Lobby ID | 28502575316098911 |
+| Players | 2/8 |
+| Host Name | Muy Malo |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:42:19 |
+| Lobby Creation Time | Thursday, November 2, 2023 09:43:07 |
 
 
