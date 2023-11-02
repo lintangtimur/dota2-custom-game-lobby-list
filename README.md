@@ -5,19 +5,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575538664753 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Thunder Doggo |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 15:27:47 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502575538552409 |
-| Players | 1/5 |
-| Host Name | chmo |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 15:27:38 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575532002704 |
-| Players | 3/15 |
-| Host Name | Musashi |
+| Players | 1/15 |
+| Host Name | Thug Life |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 15:18:59 |
 
@@ -95,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575536800749 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | q1 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 15:25:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575538908969 |
+| Players | 2/8 |
+| Host Name | Взрывошай |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 15:28:05 |
 
 
