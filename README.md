@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:06:24 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575396874485 |
-| Players | 19/24 |
-| Host Name | 不二周助 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 12:01:14 |
+| Lobby ID | 28502575400363651 |
+| Players | 1/15 |
+| Host Name | Asmoder |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 12:06:34 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575399113547 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | RiftBreaker |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 12:04:40 |
@@ -56,30 +56,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:04:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575399317101 |
-| Players | 1/15 |
-| Host Name | 快乐土豆 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 12:04:59 |
+| Lobby ID | 28502575395726038 |
+| Players | 22/24 |
+| Host Name | -♣ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 11:59:28 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575400354894 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ADIÓS DOTITA, GRACIAS POR TODO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:06:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575400363651 |
-| Players | 1/15 |
-| Host Name | Asmoder |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 12:06:34 |
+| Lobby ID | 28502575400584493 |
+| Players | 2/24 |
+| Host Name | Oh yay baby!! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 12:06:54 |
 
 
