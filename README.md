@@ -29,10 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:46:38 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575659947266 |
+| Players | 1/5 |
+| Host Name | RAGING FURY!! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 17:47:15 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575658528602 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Faerie Dragon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:45:56 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575658928811 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | twitch.tv/lone_strider |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 17:46:18 |
@@ -65,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:42:32 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575658875293 |
-| Players | 9/10 |
-| Host Name | d |
+| Lobby ID | 28502575659891186 |
+| Players | 1/8 |
+| Host Name | giant space crab |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:46:15 |
+| Lobby Creation Time | Thursday, November 2, 2023 17:47:12 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575657593101 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | turning dust to dust |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 17:45:04 |
@@ -99,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KJ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 17:46:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575655841186 |
-| Players | 7/10 |
-| Host Name | I$uss |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:43:24 |
 
 
