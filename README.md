@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367838689519 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | Smok |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 04:37:10 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367830032985 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | ¿Tu conoces a pinpon? |
 | Region | Unknown |
 | Lobby Creation Time | Friday, November 3, 2023 04:26:01 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367837177039 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | La Pixiris |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 04:35:11 |
@@ -121,11 +121,56 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367834381630 |
-| Players | 10/15 |
-| Host Name | Ruben |
+| Lobby ID | 28503367839388767 |
+| Players | 1/15 |
+| Host Name | Perfect Is **** |
+| Region | Unknown |
+| Lobby Creation Time | Friday, November 3, 2023 04:38:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367839320564 |
+| Players | 5/8 |
+| Host Name | wIzard |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 04:38:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367822138073 |
+| Players | 5/15 |
+| Host Name | Cloud |
 | Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 04:31:34 |
+| Lobby Creation Time | Friday, November 3, 2023 04:16:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367839360657 |
+| Players | 1/15 |
+| Host Name | NaPobedky |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 04:38:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367839364754 |
+| Players | 1/15 |
+| Host Name | 1000-7 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 04:38:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367839407045 |
+| Players | 1/8 |
+| Host Name | Lkz*Massacre |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 3, 2023 04:38:07 |
 
 
 |  | epic_boss_fight_nightmare |
