@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575507210001 |
+| Lobby ID | 28502575507712547 |
 | Players | 1/10 |
-| Host Name | Kai |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 14:45:32 |
+| Host Name | SanDwicH |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 14:46:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575507576755 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | katharsis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:46:01 |
@@ -40,20 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575507618298 |
+| Lobby ID | 28502575507665196 |
 | Players | 1/10 |
-| Host Name | 90 |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 14:46:04 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502575507623626 |
-| Players | 1/5 |
-| Host Name | stewie YT |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 14:46:04 |
+| Host Name | Mental Breakdown |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 14:46:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575504573776 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | TheBlindShibaInuSexyah |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:42:05 |
@@ -173,19 +164,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:43:11 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575505312713 |
-| Players | 8/10 |
-| Host Name | qqshka |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 14:43:02 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575507620451 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Wolfram |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 14:46:04 |
