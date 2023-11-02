@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575901574771 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Digez--- |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 20:31:57 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28502575906337221 |
-| Players | 5/7 |
+| Players | 6/7 |
 | Host Name | Death Is My Bitch |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 20:34:33 |
@@ -47,10 +47,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 20:35:26 |
 
 
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28502575906842984 |
+| Players | 1/7 |
+| Host Name | Aborted |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 20:34:50 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28502575908791991 |
+| Players | 1/7 |
+| Host Name | How to AWP? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 20:35:54 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28502575908806025 |
+| Players | 1/7 |
+| Host Name | shvt3r |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 20:35:54 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575907737764 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | zadavlen / prime mode |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 20:35:19 |
@@ -86,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575904416828 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Injoker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 20:33:30 |
@@ -104,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575906063099 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ezzzzzzz |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 20:34:24 |
@@ -113,28 +140,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575897971039 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 20:29:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575907509714 |
-| Players | 7/8 |
-| Host Name | ColdCola |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 20:35:12 |
+| Lobby ID | 28502575908406737 |
+| Players | 8/10 |
+| Host Name | Dicrocelum |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 2, 2023 20:35:41 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575907815018 |
-| Players | 12/15 |
-| Host Name | mortem49 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 20:35:22 |
+| Lobby ID | 28502575908493920 |
+| Players | 7/15 |
+| Host Name | Rodnenkiy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 20:35:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -167,27 +194,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575865010688 |
-| Players | 23/24 |
+| Players | 21/24 |
 | Host Name | Silhouette |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 20:11:15 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575908406737 |
-| Players | 1/10 |
-| Host Name | Dicrocelum |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 2, 2023 20:35:41 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575908388622 |
-| Players | 1/24 |
-| Host Name | WASD |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 20:35:41 |
 
 
