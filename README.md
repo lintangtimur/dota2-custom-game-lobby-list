@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575453243277 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | ANIKI 兄貴 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:30:12 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ЯЖ ГУЕВРЕЕВ |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:32:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575455172593 |
-| Players | 1/15 |
-| Host Name | Карамельная Попа |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 13:33:09 |
 
 
