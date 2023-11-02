@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575468494669 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Winner mindset |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 13:52:51 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575468140019 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Nemro |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 13:52:21 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575468062571 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Алексей Фоликула |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 13:52:14 |
@@ -112,10 +112,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575469235466 |
+| Lobby ID | 28502575469365458 |
+| Players | 1/8 |
+| Host Name | Casa Matusita Lujan Carrion |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 13:54:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575469371088 |
 | Players | 1/8 |
 | Host Name | Микро-ничтожыч |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 13:53:54 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 13:54:05 |
 
 
