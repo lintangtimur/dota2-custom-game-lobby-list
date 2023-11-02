@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 19:06:55 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502575762367395 |
-| Players | 1/5 |
-| Host Name |  Real_Ratface  |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 19:06:59 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575761150741 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575755553160 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 19:02:16 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575757982843 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | A NOIVINHA DO ARISTIDES |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 19:03:58 |
@@ -137,13 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 18:58:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575761772972 |
-| Players | 9/10 |
-| Host Name | studio. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 19:06:35 |
+| Lobby ID | 28502575762512361 |
+| Players | 3/15 |
+| Host Name | 企业家 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 19:07:05 |
 
 
 |  | ot3_gardens_duo |
@@ -157,17 +148,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575762332688 |
-| Players | 1/15 |
-| Host Name | 52 |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 19:06:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28502575762443067 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | =f |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 19:07:02 |
