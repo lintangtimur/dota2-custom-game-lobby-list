@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575333768140 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Hope |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:13:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575333583477 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Kukurudza Striptizerka |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 10:13:33 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575334781348 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | MODO ELDEN LORD |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:15:33 |
@@ -113,9 +113,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575335462584 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | EG-2015>>>EG-2023 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:16:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575335636520 |
+| Players | 1/15 |
+| Host Name | Zeldris |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 10:16:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575332907067 |
+| Players | 8/10 |
+| Host Name | The Perfect Girl |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 10:12:26 |
 
 
