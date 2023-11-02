@@ -11,22 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:41:01 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575653445282 |
-| Players | 1/5 |
-| Host Name | ... |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 17:41:08 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502575653479414 |
-| Players | 2/5 |
+| Lobby ID | 28502575653691545 |
+| Players | 2/10 |
 | Host Name | C A S S I A |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 17:41:09 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 17:41:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575652940084 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Emotional damage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 17:40:39 |
@@ -74,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:39:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575652381686 |
-| Players | 8/10 |
-| Host Name | Моржогр |
+| Lobby ID | 28502575653178198 |
+| Players | 5/8 |
+| Host Name | iriya |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:40:07 |
+| Lobby Creation Time | Thursday, November 2, 2023 17:40:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575653145348 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | каракубо |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 17:40:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575653178198 |
-| Players | 3/8 |
-| Host Name | iriya |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:40:52 |
 
 
