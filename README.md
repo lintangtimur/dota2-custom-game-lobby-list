@@ -2,15 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575273070062 |
-| Players | 9/10 |
-| Host Name | Vincenzo Cassano |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 08:20:08 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575275631145 |
@@ -23,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843803149349 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | mis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 03:35:21 |
@@ -65,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 08:16:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575275066743 |
-| Players | 13/15 |
-| Host Name | 薄乐扬 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 08:23:50 |
+| Lobby ID | 28502575275223302 |
+| Players | 7/8 |
+| Host Name | DuningDota |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 08:24:08 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575274312529 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 홍은채) 내 동료가 돼라 홍은채) 물고기 캠 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 08:22:25 |
@@ -85,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575275484597 |
+| Lobby ID | 28502575275776625 |
 | Players | 1/8 |
-| Host Name | Dicrocelum |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 08:24:37 |
+| Host Name | Дурка |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 08:25:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575275547808 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | legisperito |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:24:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575275223302 |
-| Players | 7/8 |
-| Host Name | DuningDota |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 08:24:08 |
 
 
