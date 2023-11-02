@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:11:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575404645779 |
-| Players | 7/10 |
-| Host Name | THinc |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 12:12:59 |
+| Lobby ID | 28502575405437460 |
+| Players | 2/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 12:14:08 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575401587498 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Solo estoy pasando el rato |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:08:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575403435825 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | The Spiked Spaghetti |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 12:11:11 |
@@ -99,23 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | tequila sunset |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:13:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575405326463 |
-| Players | 1/15 |
-| Host Name | ***** |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 12:13:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575405437460 |
-| Players | 2/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 12:14:08 |
 
 
