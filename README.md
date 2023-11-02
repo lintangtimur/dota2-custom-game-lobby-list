@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:17:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575301786424 |
-| Players | 6/10 |
-| Host Name | The Perfect Girl |
+| Lobby ID | 28502575301875388 |
+| Players | 12/24 |
+| Host Name | •⁷⁷⁷ |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:16:32 |
+| Lobby Creation Time | Thursday, November 2, 2023 09:16:42 |
 
 
 |  | ot3_gardens_duo |
@@ -63,23 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Masha |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:15:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575301875388 |
-| Players | 10/24 |
-| Host Name | •⁷⁷⁷ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:16:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575301057395 |
-| Players | 9/10 |
-| Host Name | jesuskomplex |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 09:15:04 |
 
 
