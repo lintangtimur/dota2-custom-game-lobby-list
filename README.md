@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367375600113 |
-| Players | 2/10 |
-| Host Name | Thi Thi |
+| Players | 3/10 |
+| Host Name | B as in Boy |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 22:08:00 |
 
@@ -14,91 +14,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367398928393 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | SHAKAツ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 22:21:08 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503367388095464 |
-| Players | 21/24 |
-| Host Name | Miselaniuz |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 22:15:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503367400493215 |
-| Players | 9/15 |
-| Host Name | 異體字爲為为畫畵画線 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 22:22:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503367400466365 |
-| Players | 1/15 |
-| Host Name | KOreFEY |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 22:22:00 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503367389735988 |
-| Players | 3/24 |
-| Host Name | Potical |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 22:15:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503367397272245 |
-| Players | 5/15 |
-| Host Name | SKY DOCK v,, colin firth :3 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 22:20:11 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503367395060263 |
-| Players | 21/24 |
-| Host Name | NewPlayer |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 22:18:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367399499840 |
-| Players | 9/10 |
-| Host Name | OT ist ihr Hobby |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 22:21:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503367396343994 |
-| Players | 4/8 |
-| Host Name | GhosTNeal |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 22:19:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503367395127532 |
-| Players | 4/8 |
-| Host Name | baldej |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 22:18:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -110,84 +29,156 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 22:21:46 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503367263658478 |
-| Players | 7/24 |
-| Host Name | 乱战先锋第一骚货！ |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 21:05:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503367399190536 |
-| Players | 3/8 |
-| Host Name | kiieeeeran.JESU |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 22:21:17 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367400460472 |
-| Players | 1/15 |
-| Host Name | AS.3h |
+| Lobby ID | 28503367401235031 |
+| Players | 5/15 |
+| Host Name | purity |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 22:22:00 |
+| Lobby Creation Time | Thursday, November 2, 2023 22:22:27 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367385918203 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | [KOR]체육볶음밥Æ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 22:13:47 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503367389735988 |
+| Players | 5/24 |
+| Host Name | Potical |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 22:15:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367397272245 |
+| Players | 7/15 |
+| Host Name | SKY DOCK v,, colin firth :3 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 22:20:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367401786449 |
+| Players | 1/8 |
+| Host Name | d0bry-j |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 22:22:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367401554540 |
+| Players | 2/8 |
+| Host Name | アブソリュート |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 22:22:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367396343994 |
+| Players | 7/8 |
+| Host Name | GhosTNeal |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 22:19:40 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503367263658478 |
+| Players | 3/24 |
+| Host Name | 乱战先锋第一骚货！ |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 21:05:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503367401942051 |
+| Players | 4/10 |
+| Host Name | Taxi AШOT |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 2, 2023 22:22:51 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367402027245 |
+| Players | 1/15 |
+| Host Name | nice_as |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 22:22:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503367402030590 |
+| Players | 1/10 |
+| Host Name | Jerabis |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 2, 2023 22:22:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367402067694 |
+| Players | 6/8 |
+| Host Name | kiieeeeran.JESU |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 22:22:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367402169051 |
+| Players | 5/8 |
+| Host Name | микроволновка(._. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 22:22:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503367401590377 |
+| Players | 4/10 |
+| Host Name | харизматичный мужчина |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 22:22:39 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28503367394044393 |
-| Players | 8/10 |
-| Host Name | Dameweg |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 22:18:21 |
+| Lobby ID | 28503367401137226 |
+| Players | 9/10 |
+| Host Name | ДЕВОЧКА ИЗ АНИМЕ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 22:22:24 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503367389521991 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | 約翰-Yuēhàn |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 22:15:48 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28503367400733165 |
-| Players | 2/5 |
-| Host Name | O4enb Jidkiu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 22:22:10 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28503367400879080 |
-| Players | 1/5 |
-| Host Name | Frunkar |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 22:22:15 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28503367400890266 |
-| Players | 1/5 |
-| Host Name | ปีศาจแดนสยาม |
+| Lobby ID | 28503367401718237 |
+| Players | 2/10 |
+| Host Name | A3 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 22:22:15 |
+| Lobby Creation Time | Thursday, November 2, 2023 22:22:44 |
 
 
