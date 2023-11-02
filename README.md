@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575297938567 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Dohman32 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 09:08:57 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575270714370 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | JoeShiesty |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 08:15:56 |
@@ -59,9 +59,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575301475267 |
-| Players | 3/10 |
-| Host Name | M |
+| Players | 2/10 |
+| Host Name | Tomohise-Sako |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:15:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575301057395 |
+| Players | 6/10 |
+| Host Name | Where ya momz at |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 09:15:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575301743313 |
+| Players | 1/8 |
+| Host Name | Stringer |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 09:16:27 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575299387478 |
+| Players | 23/24 |
+| Host Name | Local Optima |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 09:11:49 |
 
 
