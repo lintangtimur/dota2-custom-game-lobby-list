@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575540877542 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | они бояться женщи |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 15:30:31 |
@@ -68,9 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575541391368 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | BRAMBRAGE |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 15:31:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575541570073 |
+| Players | 1/15 |
+| Host Name | ТОП 1 МАГНУС |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 15:31:22 |
 
 
