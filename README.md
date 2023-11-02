@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 04:27:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367831311048 |
-| Players | 7/15 |
-| Host Name | prds |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:27:38 |
+| Lobby ID | 28503367831750714 |
+| Players | 2/8 |
+| Host Name | LOSSxLOSS |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 04:28:11 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367831120974 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Hopeful Men (GPRD) |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 04:27:23 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367830465198 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | SeT |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 04:26:33 |
@@ -164,13 +164,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 04:27:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503367831583901 |
-| Players | 2/10 |
-| Host Name | LOSSxLOSS |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 04:27:58 |
+| Lobby ID | 28503367829240235 |
+| Players | 23/24 |
+| Host Name | BROOSWAR |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 04:25:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367817193691 |
+| Players | 3/15 |
+| Host Name | TARARATARARA |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 04:10:07 |
 
 
 |  | epic_boss_fight_challenger |
@@ -185,7 +194,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503367828244328 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Rulez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 04:23:45 |
