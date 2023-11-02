@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575276141372 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | NO HABLO CON POBRES, GRACIAS |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:25:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575271153997 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 08:16:43 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575275840707 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | El gatito erotico |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 08:25:19 |
@@ -86,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843803149349 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | Mak Banteng Penguasa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 03:35:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575276807776 |
+| Players | 1/8 |
+| Host Name | Alyssa Rayne |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 08:27:11 |
 
 
