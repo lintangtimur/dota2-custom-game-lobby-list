@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 07:40:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502341625047917 |
-| Players | 6/8 |
-| Host Name | cr4zy98 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 07:41:55 |
+| Lobby ID | 28502341625124084 |
+| Players | 1/10 |
+| Host Name | целка на лице |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 07:42:04 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502341624232785 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Muy Malo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 07:40:19 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341624645351 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | NeDix! |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 07:41:08 |
@@ -94,17 +94,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502341624048560 |
-| Players | 9/10 |
-| Host Name | maymaymay |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 07:39:57 |
+| Lobby ID | 28502341625133964 |
+| Players | 1/10 |
+| Host Name | 홍은채) 내 동료가 돼라 홍은채) 물고기 캠 |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 07:42:05 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341625010000 |
-| Players | 5/10 |
+| Players | 2/10 |
 | Host Name | I love wolf |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 07:41:51 |
