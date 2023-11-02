@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923789305748 |
-| Players | 14/24 |
+| Players | 21/24 |
 | Host Name | Krammnik |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:34:35 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 06:27:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923789090867 |
-| Players | 11/15 |
-| Host Name | tv|artOfmagnus |
+| Lobby ID | 28503923789001677 |
+| Players | 1/10 |
+| Host Name | i♠cheto♪ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:34:11 |
+| Lobby Creation Time | Friday, November 3, 2023 06:34:01 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923789351842 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | heyheyhey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:34:40 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923782402404 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Oshh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:21:55 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923787457558 |
-| Players | 1/10 |
-| Host Name | sooshiant |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 06:31:10 |
+| Lobby ID | 28503923789327802 |
+| Players | 4/10 |
+| Host Name | UnLuucky |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 3, 2023 06:34:37 |
 
 
 |  | ot3_desert_octet |
@@ -126,23 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 想一起玩de请删好友 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:34:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923789327802 |
-| Players | 4/10 |
-| Host Name | UnLuucky |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 3, 2023 06:34:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923789001677 |
-| Players | 4/10 |
-| Host Name | ShinraTensei |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:34:01 |
 
 
