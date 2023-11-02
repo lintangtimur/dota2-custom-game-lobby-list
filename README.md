@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575277965462 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | ShazaM |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:29:27 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575277753723 |
-| Players | 4/8 |
-| Host Name | Guitir |
+| Players | 5/8 |
+| Host Name | NullPointerException |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 08:29:02 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575277689102 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Tabarnak de câlisse |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 08:28:54 |
@@ -86,25 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575278028790 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Tuti |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:29:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575276031269 |
-| Players | 3/8 |
-| Host Name | ZAVALAX |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 08:25:41 |
+| Lobby ID | 28502575278248192 |
+| Players | 2/10 |
+| Host Name | Лёха гипкий |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 08:29:59 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575278075765 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Bald globe |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 08:29:39 |
