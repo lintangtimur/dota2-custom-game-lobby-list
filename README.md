@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575420948985 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | NEO |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 12:37:47 |
@@ -14,10 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575421818647 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | 3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:39:09 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575423099960 |
+| Players | 1/10 |
+| Host Name | OnlyFacu |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 12:41:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -29,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575422981176 |
-| Players | 1/8 |
-| Host Name | Tiltasion |
+| Lobby ID | 28502575423116322 |
+| Players | 1/15 |
+| Host Name | Caramelbear |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 12:40:59 |
+| Lobby Creation Time | Thursday, November 2, 2023 12:41:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575417000431 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Josecarlino |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:31:45 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575418290104 |
-| Players | 6/10 |
+| Players | 3/10 |
 | Host Name | Central Park Zoo |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:33:40 |
@@ -113,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575422840537 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:40:46 |
