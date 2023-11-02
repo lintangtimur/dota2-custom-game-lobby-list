@@ -20,10 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 10:54:29 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575361692974 |
+| Players | 2/10 |
+| Host Name | 山田 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 11:03:01 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575360172802 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | jugeinio |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:00:00 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575360817974 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Natural |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:01:19 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575356170186 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | My fart doesn't stink |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 10:52:48 |
@@ -77,81 +86,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575358379752 |
-| Players | 9/15 |
-| Host Name | there is no hope |
+| Players | 4/15 |
+| Host Name | kuku slayeR ( russian mafia ) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:56:46 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575360660561 |
-| Players | 5/8 |
-| Host Name | Mitron no merecías perder :c |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 11:01:00 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575360556802 |
-| Players | 21/24 |
-| Host Name | Rumbo al retiro |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 11:00:48 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575360613857 |
-| Players | 4/24 |
-| Host Name | Kgthxy♥ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 11:00:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575360566592 |
-| Players | 6/15 |
-| Host Name | DeVIP |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 11:00:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575360642167 |
+| Lobby ID | 28502575361476415 |
 | Players | 7/8 |
-| Host Name | Mr.Lulu^^ |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 11:00:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575360703305 |
-| Players | 1/10 |
-| Host Name | "Butters" |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 11:01:05 |
+| Host Name | PATIENCE |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 11:02:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575360861234 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | 小百合 平野 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:01:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575361293275 |
-| Players | 1/8 |
-| Host Name | Dicrocelum |
+| Lobby ID | 28502575361688552 |
+| Players | 1/10 |
+| Host Name | :(: |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 11:03:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575360566592 |
+| Players | 14/15 |
+| Host Name | DeVIP |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 11:02:15 |
+| Lobby Creation Time | Thursday, November 2, 2023 11:00:49 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575358290014 |
+| Players | 8/10 |
+| Host Name | Ashor |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 10:56:36 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575361609781 |
+| Players | 1/24 |
+| Host Name | -♣ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 11:02:52 |
 
 
