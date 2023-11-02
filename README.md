@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:40:32 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575543122041 |
-| Players | 9/10 |
-| Host Name | temip |
+| Lobby ID | 28502575551526428 |
+| Players | 4/24 |
+| Host Name | 大鲶鱼 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 15:33:17 |
+| Lobby Creation Time | Thursday, November 2, 2023 15:44:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575531469937 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Borchic |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 15:18:16 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:33:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575549245900 |
-| Players | 9/10 |
-| Host Name | nextir |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 15:41:07 |
+| Lobby ID | 28502575551388475 |
+| Players | 1/24 |
+| Host Name | Black Raven |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 15:43:50 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,21 +101,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:43:50 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575551388475 |
-| Players | 2/24 |
-| Host Name | Black Raven |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 15:43:50 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575551453309 |
-| Players | 1/15 |
-| Host Name | Byratino |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 15:43:55 |
+| Lobby ID | 28502575551607485 |
+| Players | 3/15 |
+| Host Name | Jeanne D'arc |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 15:44:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575551596131 |
+| Players | 1/10 |
+| Host Name | Sapsan |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 15:44:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575551591942 |
+| Players | 1/8 |
+| Host Name | jeyaxed916 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 15:44:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575551579418 |
+| Players | 1/8 |
+| Host Name | gweq4e |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 15:44:05 |
 
 
