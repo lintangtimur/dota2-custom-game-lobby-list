@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367786947620 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Phantom_ |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 03:35:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367788855367 |
-| Players | 4/10 |
-| Host Name | Пенис Чингисхана |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 03:37:26 |
+| Lobby ID | 28503367789700145 |
+| Players | 9/15 |
+| Host Name | СПАРТАК ЗДЕСЬ? |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 03:38:22 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367789792689 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | Emkar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 03:38:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367786979666 |
-| Players | 1/15 |
+| Players | 10/15 |
 | Host Name | Genomorf |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 03:35:23 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367697377645 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Animaniacs |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 02:05:16 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367789517357 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | BUTTERS S. |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 03:38:10 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367784895976 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | SeT |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 03:33:06 |
@@ -122,46 +122,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367785832004 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Hopeful Men (GPRD) |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 03:34:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503367790405207 |
-| Players | 6/8 |
-| Host Name | Твоя мать грешна |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 03:39:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503367787037081 |
-| Players | 4/8 |
-| Host Name | Тарас Залупенко |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 03:35:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503367789688438 |
-| Players | 2/15 |
-| Host Name | забвение |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 03:38:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503367790438882 |
-| Players | 1/15 |
-| Host Name | _The ButcHeR_ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 03:39:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -173,13 +137,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 03:38:13 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367787037081 |
+| Players | 4/8 |
+| Host Name | Тарас Залупенко |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 03:35:27 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503367790624811 |
+| Players | 2/24 |
+| Host Name | nV- |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 03:39:23 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367789700145 |
-| Players | 9/15 |
-| Host Name | СПАРТАК ЗДЕСЬ? |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 03:38:22 |
+| Lobby ID | 28503367790629910 |
+| Players | 1/15 |
+| Host Name | _The ButcHeR_ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 03:39:23 |
 
 
 |  | epic_boss_fight_nightmare |
