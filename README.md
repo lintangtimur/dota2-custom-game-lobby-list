@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575664780206 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Amazon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:51:40 |
@@ -41,10 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575662216931 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | QWERTY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:49:20 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575666586660 |
+| Players | 1/5 |
+| Host Name | danya |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 17:53:19 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575665323227 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | скелет воин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 17:52:10 |
@@ -122,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575664908207 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Chucky™ |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 2, 2023 17:51:47 |
@@ -131,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575660552864 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Elya |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 17:47:49 |
@@ -146,12 +155,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:53:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575666149338 |
-| Players | 4/8 |
-| Host Name | сларк из волги |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 17:52:55 |
+| Lobby ID | 28502575663348537 |
+| Players | 14/15 |
+| Host Name | Natus Vinci |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 17:50:22 |
 
 
