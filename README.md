@@ -38,31 +38,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:59:35 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575674343583 |
+| Players | 1/5 |
+| Host Name | SeriousSamm |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 18:00:14 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575670141506 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | hahahehehoho |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:56:31 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575672579773 |
-| Players | 1/10 |
-| Host Name | Я НЕ ВЫИГРЫВАЮ |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 17:58:41 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575665148186 |
-| Players | 13/15 |
-| Host Name | Kupnu4 Te6e B roJIoBy |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 17:52:01 |
+| Lobby ID | 28502575674296847 |
+| Players | 3/15 |
+| Host Name | skyline milano |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 18:00:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575672355462 |
+| Players | 6/8 |
+| Host Name | https://www.twitch.tv/okkaken |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 17:58:29 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575669114809 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Sopi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:55:36 |
@@ -101,30 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:58:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575660552864 |
-| Players | 12/15 |
-| Host Name | Chompiras |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 17:47:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575672355462 |
-| Players | 6/8 |
-| Host Name | https://www.twitch.tv/okkaken |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 17:58:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575673813004 |
-| Players | 3/8 |
-| Host Name | СВИНЫЕ КРЫЛЬЯ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:59:46 |
+| Lobby ID | 28502575674266764 |
+| Players | 2/10 |
+| Host Name | tonywestside |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 18:00:10 |
 
 
