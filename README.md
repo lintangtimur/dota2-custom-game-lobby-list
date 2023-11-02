@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575430749382 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Pericotito de Nelly Rossinelli |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:53:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575430702693 |
-| Players | 14/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 12:53:17 |
+| Lobby ID | 28502575431594249 |
+| Players | 3/8 |
+| Host Name | Feeling Alive |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 12:54:40 |
 
 
 |  | ot3_necropolis_ffa |
@@ -94,19 +94,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575431594249 |
-| Players | 6/8 |
-| Host Name | Feeling Alive |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 12:54:40 |
+| Lobby ID | 28502575432073136 |
+| Players | 1/8 |
+| Host Name | Jazee |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 12:55:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575431962067 |
-| Players | 4/8 |
-| Host Name | su1c1dequarkkk |
+| Lobby ID | 28502575432083762 |
+| Players | 2/10 |
+| Host Name | Vitalan |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 12:55:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575432089024 |
+| Players | 1/10 |
+| Host Name | Бугименчик |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 12:55:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575432089938 |
+| Players | 1/15 |
+| Host Name | Ебур Оссию |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 12:55:14 |
+| Lobby Creation Time | Thursday, November 2, 2023 12:55:26 |
 
 
