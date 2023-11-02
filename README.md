@@ -2,6 +2,15 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28502575310153990 |
+| Players | 3/7 |
+| Host Name | Arwien |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 09:32:19 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575304200431 |
@@ -77,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575309989734 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | PAVITERS |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:32:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575310135712 |
+| Players | 1/8 |
+| Host Name | Champions_01 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 09:32:17 |
 
 
