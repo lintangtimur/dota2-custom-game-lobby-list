@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575359210556 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | yotsuba |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:58:16 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575357128560 |
-| Players | 3/10 |
-| Host Name | ayyy nekow! |
+| Players | 2/10 |
+| Host Name | Белый |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 10:54:29 |
 
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575362179477 |
+| Lobby ID | 28502575362168035 |
 | Players | 1/8 |
-| Host Name | k4chaRRo! |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 11:03:56 |
+| Host Name | TwentyOneInch |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 11:03:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575356170186 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | My fart doesn't stink |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 10:52:48 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575362118122 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | maymaymay |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:03:49 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575361609781 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:02:52 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575362111639 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Vάιŝ♡√•∆ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:03:48 |
@@ -137,12 +137,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 11:03:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575362168035 |
-| Players | 1/8 |
-| Host Name | TwentyOneInch |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 11:03:55 |
+| Lobby ID | 28502575362256669 |
+| Players | 4/15 |
+| Host Name | JOSIE BROS CANT STOP WINNING |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 11:04:04 |
 
 
