@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 08:26:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575276208641 |
-| Players | 4/8 |
-| Host Name | Hanzo |
+| Lobby ID | 28502575276141372 |
+| Players | 7/10 |
+| Host Name | NO HABLO CON POBRES, GRACIAS |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 08:26:02 |
+| Lobby Creation Time | Thursday, November 2, 2023 08:25:54 |
 
 
 |  | ot3_desert_octet |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 08:16:43 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575275547808 |
-| Players | 23/24 |
-| Host Name | legisperito |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 08:24:45 |
+| Lobby ID | 28502575276437745 |
+| Players | 6/15 |
+| Host Name | Alloc |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 08:26:28 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,21 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 08:25:19 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575276141372 |
-| Players | 6/10 |
-| Host Name | NO HABLO CON POBRES, GRACIAS |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 08:25:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575276437745 |
-| Players | 6/15 |
-| Host Name | Alloc |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 08:26:28 |
+| Lobby ID | 28501843803149349 |
+| Players | 22/24 |
+| Host Name | Mak Banteng Penguasa |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 03:35:21 |
 
 
