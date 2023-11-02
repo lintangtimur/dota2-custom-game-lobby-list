@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575403502513 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | tequila sunset |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:11:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575403115502 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Ballin Colin |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 12:10:43 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575403292283 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | "DIEGUIXZN//IS BACK" |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:10:59 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575401580154 |
-| Players | 22/24 |
-| Host Name | [R][O][A][M] |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 12:08:25 |
+| Lobby ID | 28502575403961891 |
+| Players | 3/8 |
+| Host Name | бруда алфеева |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 12:11:58 |
 
 
 |  | ot3_desert_octet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575403628471 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | GATO |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 12:11:29 |
