@@ -101,3 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:33:40 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575424300590 |
+| Players | 2/8 |
+| Host Name | //gg |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 12:43:05 |
+
+
