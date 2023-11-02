@@ -4,24 +4,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575622719583 |
-| Players | 9/10 |
-| Host Name | пасха ивановна |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 17:09:06 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575621836246 |
-| Players | 1/10 |
-| Host Name | абвыбвагыагавгву |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 17:08:05 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28502575624762476 |
 | Players | 1/10 |
 | Host Name | мя. кing |
@@ -32,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575624603680 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Антонио Еблэнас |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 17:11:14 |
@@ -50,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575621411678 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | Kapysta Bob1785 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:07:36 |
@@ -59,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575625237142 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Missing you happiness |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 17:11:57 |
@@ -140,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575625086309 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | パラダイスはただの希 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 17:11:46 |
@@ -162,5 +144,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | purity |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:12:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575625459722 |
+| Players | 1/15 |
+| Host Name | · |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 17:12:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575625472275 |
+| Players | 1/8 |
+| Host Name | eternity is awesome |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 17:12:13 |
 
 
