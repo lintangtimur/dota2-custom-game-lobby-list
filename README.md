@@ -2,28 +2,28 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367599326903 |
-| Players | 12/15 |
-| Host Name | Relior |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 3, 2023 00:43:34 |
+| Lobby ID | 28503367600699316 |
+| Players | 2/8 |
+| Host Name | unperfect world |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 3, 2023 00:44:40 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367598229096 |
-| Players | 4/8 |
-| Host Name | special |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 3, 2023 00:42:41 |
+| Lobby ID | 28503367600502070 |
+| Players | 3/8 |
+| Host Name | PASTORCITO |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 00:44:31 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367594961673 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Dude |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 00:40:04 |
@@ -31,26 +31,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367598609036 |
-| Players | 8/10 |
-| Host Name | Балдежный Пердеж |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 00:42:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28503367599683708 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | zavod |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 00:43:51 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367598916646 |
+| Players | 6/8 |
+| Host Name | Leaker Jokes |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 00:43:14 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367568746486 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 00:19:25 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367599611822 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Pukano de Bombino |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 3, 2023 00:43:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503367599906150 |
-| Players | 7/8 |
-| Host Name | ZXCum |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 3, 2023 00:44:02 |
+| Lobby ID | 28503367600742289 |
+| Players | 3/24 |
+| Host Name | Himalayan |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 00:44:42 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367594996928 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | MAGA |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 00:40:05 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367599721407 |
-| Players | 8/24 |
+| Players | 17/24 |
 | Host Name | jie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 00:43:53 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367593565565 |
-| Players | 1/15 |
+| Players | 12/15 |
 | Host Name | AGAINST GOD VOICE |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 00:38:56 |
@@ -112,35 +112,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367598916646 |
-| Players | 5/8 |
-| Host Name | Leaker Jokes |
+| Lobby ID | 28503367601067220 |
+| Players | 3/8 |
+| Host Name | Artiliart |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 00:43:14 |
+| Lobby Creation Time | Friday, November 3, 2023 00:44:58 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367600169248 |
-| Players | 4/8 |
-| Host Name | Kudes |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 3, 2023 00:44:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503367600376362 |
-| Players | 1/8 |
-| Host Name | PASTORCITO |
+| Lobby ID | 28503367601075827 |
+| Players | 2/8 |
+| Host Name | 1 |
 | Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 00:44:25 |
+| Lobby Creation Time | Friday, November 3, 2023 00:44:58 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503367598706995 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | kiyodontaka |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 00:43:04 |
@@ -149,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503367593408763 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Zé Carioca |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 00:38:49 |
@@ -164,12 +155,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 00:44:03 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28503367600583644 |
+| Players | 1/10 |
+| Host Name | mak |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 00:44:35 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28503367601014195 |
+| Players | 1/10 |
+| Host Name | Maro4ka |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 00:44:56 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28503367601063264 |
+| Players | 2/10 |
+| Host Name | Попал в вену |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 00:44:58 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28503367600356194 |
+| Lobby ID | 28503367601077844 |
 | Players | 1/5 |
-| Host Name | Freesty Tae |
+| Host Name | NeUkiN |
 | Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 00:44:24 |
+| Lobby Creation Time | Friday, November 3, 2023 00:44:59 |
 
 
