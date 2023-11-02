@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575330961517 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | stacked |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 2, 2023 10:09:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575332383612 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | name man |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:11:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575331287301 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Rupicola |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 10:09:44 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575332702357 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | VanCleef |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:12:05 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575333346942 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | 大炮 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:13:10 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575333675005 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | весельчак |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 10:13:41 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575333583477 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Kukurudza Striptizerka |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 10:13:33 |
@@ -144,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ⌐◨-◨ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:13:52 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575333928020 |
+| Players | 1/15 |
+| Host Name | Asmoder |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 10:14:06 |
 
 
