@@ -11,10 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 18:34:26 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575719184657 |
+| Players | 1/10 |
+| Host Name | Zinc |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 18:36:12 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575717175048 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Saul Goodman |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 18:34:41 |
@@ -23,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575718789544 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | бомбардирОчка |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 18:35:54 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575717975820 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Curtuc |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 2, 2023 18:35:17 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575709295264 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | FriedSprite |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 18:28:40 |
@@ -83,21 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 18:35:47 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575718910795 |
-| Players | 4/8 |
-| Host Name | debil2007 |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 18:35:59 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575718912057 |
-| Players | 1/15 |
-| Host Name | 100% |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 18:35:59 |
+| Lobby ID | 28502575719087162 |
+| Players | 3/15 |
+| Host Name | q1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 18:36:07 |
 
 
