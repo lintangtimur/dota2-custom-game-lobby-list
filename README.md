@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575630823373 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Fihed |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:18:03 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:17:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575624241289 |
-| Players | 7/8 |
-| Host Name | 155мм демократії |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 17:10:50 |
+| Lobby ID | 28502575629089639 |
+| Players | 17/24 |
+| Host Name | OpenAI(Hank Bot) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 17:16:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575630129505 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Топ 100 Антарктиды |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:17:18 |
@@ -85,37 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575628483154 |
+| Lobby ID | 28502575631114403 |
 | Players | 1/8 |
-| Host Name | volshebniy69 |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 17:15:31 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575629089639 |
-| Players | 14/24 |
-| Host Name | OpenAI(Hank Bot) |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 17:16:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575630806436 |
-| Players | 1/8 |
-| Host Name | B҉e҉n҉j҉a҉m҉i҉n҉ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 17:18:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575630943302 |
-| Players | 2/8 |
-| Host Name | чвк ретард |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 17:18:11 |
+| Host Name | ШИФЕР |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 17:18:22 |
 
 
