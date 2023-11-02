@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923797716180 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Heart |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:50:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923792321802 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | ALL MUTED |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 3, 2023 06:39:57 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923796354166 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | "GoPositive.bet" ARS - Bets4.fun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:47:33 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923797327823 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | PATITO NICHAN |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:49:23 |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LIL KRISTAL +100 VOLUME |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 06:50:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923797794413 |
+| Players | 2/8 |
+| Host Name | NickName |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 06:50:16 |
 
 
