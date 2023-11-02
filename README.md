@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575401448670 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | PEPEMANCHE |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:08:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575399113547 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | RiftBreaker |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 12:04:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575400584493 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Oh yay baby!! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:06:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575401580154 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | [R][O][A][M] |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:08:25 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575401581260 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | Dragon |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 12:08:25 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575401841470 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | DANICH |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 12:08:49 |
@@ -112,10 +112,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575400661396 |
-| Players | 14/15 |
-| Host Name | no excuses |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 12:07:01 |
+| Lobby ID | 28502575402331699 |
+| Players | 1/15 |
+| Host Name | Scrub, cause problem on purpose |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 12:09:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575402562321 |
+| Players | 1/8 |
+| Host Name | ShankS |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 12:09:54 |
 
 
