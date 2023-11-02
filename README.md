@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575270714370 |
-| Players | 5/24 |
-| Host Name | MaNia |
+| Players | 4/24 |
+| Host Name | JoeShiesty |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 08:15:56 |
 
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575290283036 |
-| Players | 9/15 |
-| Host Name | JОEM |
+| Players | 8/15 |
+| Host Name | A |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 08:53:06 |
 
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575288933903 |
-| Players | 22/24 |
-| Host Name | Bald globe |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 08:50:32 |
+| Lobby ID | 28502575288983202 |
+| Players | 24/24 |
+| Host Name | Requiem |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 08:50:38 |
 
 
 |  | ot3_gardens_duo |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Stick Figure |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:52:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575290916366 |
+| Players | 1/10 |
+| Host Name | ahUO |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 08:54:20 |
 
 
