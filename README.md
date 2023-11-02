@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575376859188 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Soda popinski |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:29:56 |
@@ -18,6 +18,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | king jagvar |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 11:36:53 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575390965445 |
+| Players | 1/10 |
+| Host Name | take it easy' |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 11:52:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 11:51:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575390486543 |
-| Players | 8/15 |
-| Host Name | CACHA TOMBOS! |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 11:51:23 |
+| Lobby ID | 28502575390555286 |
+| Players | 1/10 |
+| Host Name | Hellsing...!! |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 11:51:29 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575390510820 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | [♂+♂=♥]6LyaDuKtoR |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:51:25 |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | FORSA AAA N |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:51:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575390555286 |
-| Players | 1/10 |
-| Host Name | Hellsing...!! |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 11:51:29 |
 
 
