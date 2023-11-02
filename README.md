@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575590400430 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Emotional damage |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 2, 2023 16:31:00 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575590425874 |
-| Players | 1/15 |
-| Host Name | 1 |
+| Lobby ID | 28502575590528714 |
+| Players | 6/15 |
+| Host Name | Северный Человек |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 16:31:02 |
+| Lobby Creation Time | Thursday, November 2, 2023 16:31:09 |
 
 
 |  | ot3_jungle_quintet |
