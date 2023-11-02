@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 04:13:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367821958577 |
-| Players | 1/8 |
-| Host Name | даун |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:15:54 |
+| Lobby ID | 28503367822138073 |
+| Players | 1/15 |
+| Host Name | ACC for practice |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 04:16:08 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367821598788 |
-| Players | 4/24 |
+| Players | 9/24 |
 | Host Name | ieagtonrns |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 04:15:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367817304937 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 04:10:15 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367820962005 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Gasnápido |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 04:14:41 |
@@ -104,27 +104,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367821381864 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | GRACIAS JUANCA POR LAS CATEDRAS |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 04:15:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367821366660 |
-| Players | 9/10 |
-| Host Name | Coddys |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:15:11 |
+| Lobby ID | 28503367822068478 |
+| Players | 4/15 |
+| Host Name | Фундамент |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 04:16:03 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367822012400 |
-| Players | 1/5 |
-| Host Name | zaynik2 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 04:15:58 |
+| Lobby ID | 28503367822054058 |
+| Players | 3/8 |
+| Host Name | Missing you happiness |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 04:16:02 |
 
 
