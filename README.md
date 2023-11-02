@@ -23,19 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575370545038 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | bodak |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:19:05 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502575372148539 |
-| Players | 1/5 |
-| Host Name | inadequate |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 11:21:55 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575371951547 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | DANICH |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:21:35 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575371962670 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Conchito Coimero |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:21:36 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575371814173 |
-| Players | 5/24 |
+| Players | 14/24 |
 | Host Name | Avena 3 OSITOS |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:21:21 |
@@ -95,18 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575371739322 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | ухажёр |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:21:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575372139070 |
-| Players | 1/8 |
-| Host Name | Estafador |
+| Lobby ID | 28502575372221451 |
+| Players | 1/15 |
+| Host Name | Caramelbear |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 11:22:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575372164835 |
+| Players | 1/15 |
+| Host Name | Ya casi soy Licen :v |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 11:21:54 |
+| Lobby Creation Time | Thursday, November 2, 2023 11:21:57 |
 
 
