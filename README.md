@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575330846808 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Requiem |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:08:57 |
@@ -54,5 +54,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | khay khay |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:03:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575328147718 |
+| Players | 7/8 |
+| Host Name | Mil<3 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 10:04:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575331692719 |
+| Players | 1/15 |
+| Host Name | SuLuKoH.5 |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 10:10:25 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575331696072 |
+| Players | 1/10 |
+| Host Name | Amazing |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 10:10:25 |
 
 
