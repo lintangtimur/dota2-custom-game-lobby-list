@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367500164960 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | LASKOVIY BIK [IGIL] |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 23:26:11 |
@@ -47,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 23:26:07 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367521877925 |
-| Players | 22/24 |
-| Host Name | romchyg |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 2, 2023 23:42:36 |
+| Lobby ID | 28503367530179166 |
+| Players | 1/8 |
+| Host Name | zxcursed |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 23:49:07 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367527033072 |
-| Players | 23/24 |
-| Host Name | 游戏蝗虫农师傅 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 23:46:37 |
+| Lobby ID | 28503367526536549 |
+| Players | 8/10 |
+| Host Name | Huesitos |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 23:46:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367529798339 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | zoom- |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 23:48:49 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 23:48:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367526396534 |
-| Players | 5/8 |
-| Host Name | 9MM |
+| Lobby ID | 28503367529994333 |
+| Players | 8/10 |
+| Host Name | тру нифор |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 23:46:08 |
+| Lobby Creation Time | Thursday, November 2, 2023 23:48:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -128,22 +128,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 23:48:37 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503367522143839 |
+| Players | 21/24 |
+| Host Name | OoOoO |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 23:42:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367530174687 |
+| Players | 3/8 |
+| Host Name | . |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 23:49:07 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367529994333 |
-| Players | 2/10 |
-| Host Name | тру нифор |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 23:48:58 |
+| Lobby ID | 28503367530155313 |
+| Players | 4/10 |
+| Host Name | Дагер на силу |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 23:49:06 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367524061434 |
-| Players | 9/10 |
-| Host Name | fluff |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 23:44:18 |
+| Lobby ID | 28503367530216525 |
+| Players | 2/8 |
+| Host Name | Pegisuee |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 23:49:09 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28503367513744553 |
+| Players | 3/5 |
+| Host Name | Waldog |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 23:36:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -189,23 +216,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | попный диатез |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 23:48:35 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28503367513744553 |
-| Players | 3/5 |
-| Host Name | Waldog |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 23:36:20 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28503367529950919 |
-| Players | 1/7 |
-| Host Name | V-gamer |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 23:48:56 |
 
 
