@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575603609893 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Harvester of death |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 16:46:50 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575603495025 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | BYVSHIY HATER RLARLA |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 16:46:42 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575603619818 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Mun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 16:46:51 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575603707303 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Yator4 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 16:46:57 |
@@ -135,5 +135,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | water dance |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 16:47:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575604659616 |
+| Players | 3/24 |
+| Host Name | Little |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 16:48:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575604676631 |
+| Players | 2/8 |
+| Host Name | бруда алфеева |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 16:48:06 |
 
 
