@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367281424599 |
-| Players | 4/8 |
-| Host Name | похуй |
+| Lobby ID | 28503367286428764 |
+| Players | 3/10 |
+| Host Name | Много денег |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 21:15:48 |
+| Lobby Creation Time | Thursday, November 2, 2023 21:18:39 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367281637338 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | АбаканскоеПиво |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 21:15:55 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367261048979 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | ♂EL CAMPER GANDALFS♂ |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 21:04:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367272012404 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Chupete |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 21:10:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367253031218 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | 乱战先锋第一骚货！ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 21:00:22 |
@@ -83,49 +83,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 21:05:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367285784633 |
-| Players | 4/10 |
-| Host Name | fam0us |
+| Lobby ID | 28503367286726211 |
+| Players | 3/15 |
+| Host Name | осел |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 21:18:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367284817108 |
-| Players | 2/10 |
-| Host Name | Lidsawwq |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 21:17:44 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503367272920142 |
-| Players | 23/24 |
-| Host Name | Bebek di truk |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 21:10:59 |
+| Lobby Creation Time | Thursday, November 2, 2023 21:18:49 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367285709594 |
-| Players | 9/15 |
-| Host Name | iLoony |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 21:18:15 |
+| Lobby ID | 28503367286212206 |
+| Players | 1/15 |
+| Host Name | Brownie |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 21:18:32 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367286050740 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | J-Usp |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 2, 2023 21:18:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367286826907 |
+| Players | 1/8 |
+| Host Name | 𝖀𝖓𝕯𝖊𝖆𝖉 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 21:18:53 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503367280154294 |
+| Players | 23/24 |
+| Host Name | wildwhiskey |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 21:15:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -146,12 +146,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 21:17:17 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28503367286419092 |
+| Players | 2/5 |
+| Host Name | *Сum sounds* |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 21:18:39 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28503367282274786 |
-| Players | 9/10 |
-| Host Name | Digez--- |
+| Lobby ID | 28503367286420391 |
+| Players | 4/10 |
+| Host Name | свиня джакузі |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 21:16:17 |
+| Lobby Creation Time | Thursday, November 2, 2023 21:18:39 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28503367286669366 |
+| Players | 3/10 |
+| Host Name | $ sudo deluser ***** -f |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 21:18:47 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28503367286855196 |
+| Players | 1/10 |
+| Host Name | ШМАРОКРАД |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 21:18:54 |
 
 
