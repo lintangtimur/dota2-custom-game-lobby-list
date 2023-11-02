@@ -13,29 +13,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575462655350 |
-| Players | 1/10 |
-| Host Name | Crazy-Man |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 13:44:31 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575466106686 |
-| Players | 5/10 |
-| Host Name | Just subscribe for Linda H |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 13:49:30 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28502575466829192 |
 | Players | 1/10 |
 | Host Name | <3 |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 13:50:31 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575466106686 |
+| Players | 6/10 |
+| Host Name | Just subscribe for Linda H |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 13:49:30 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575465702325 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | Kotarō痛 |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:48:55 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575465478954 |
-| Players | 6/8 |
+| Players | 2/8 |
 | Host Name | Slave |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 13:48:36 |
@@ -86,9 +77,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575467002660 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | TheBlindShibaInuSexyah |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:50:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575467470696 |
+| Players | 1/15 |
+| Host Name | Simpest Pimp |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 13:51:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575467634161 |
+| Players | 3/8 |
+| Host Name | r1kko |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 13:51:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575467778295 |
+| Players | 3/8 |
+| Host Name | бесперспективняк |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 13:51:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575467835547 |
+| Players | 3/8 |
+| Host Name | SuperFranki◄ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 13:51:55 |
 
 
