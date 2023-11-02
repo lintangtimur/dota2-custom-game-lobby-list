@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575360172802 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | OldRetiredTOSS |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:00:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575358469365 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | penguinz0 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 10:56:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575356170186 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | My fart doesn't stink |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 10:52:48 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575357420389 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Error.On.Fire.xD |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:55:01 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575360660561 |
-| Players | 5/8 |
-| Host Name | Tomori Nao |
+| Players | 4/8 |
+| Host Name | Mitron no merecías perder :c |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:01:00 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575360556802 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Rumbo al retiro |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:00:48 |
@@ -135,5 +135,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | "Butters" |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 11:01:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575360792463 |
+| Players | 9/15 |
+| Host Name | Dream |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 11:01:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575360817974 |
+| Players | 1/24 |
+| Host Name | Natural |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 11:01:19 |
 
 
