@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575786570399 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | The Chonkus |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 2, 2023 19:23:02 |
@@ -20,64 +20,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 19:16:56 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575790100795 |
-| Players | 1/5 |
-| Host Name | ErrorZero |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 19:25:19 |
+| Lobby ID | 28502575766078146 |
+| Players | 8/10 |
+| Host Name | Kurimawski |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 19:09:31 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575789554149 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ElHombreQueCarreoAlIncarreable |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 19:24:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575788781226 |
-| Players | 2/10 |
-| Host Name | . |
+| Lobby ID | 28502575790953951 |
+| Players | 3/24 |
+| Host Name | 不和小人一般见识 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 19:24:28 |
+| Lobby Creation Time | Thursday, November 2, 2023 19:25:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575761712902 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | DamnDev |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 19:06:32 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575785170594 |
-| Players | 23/24 |
-| Host Name | Anantherzine-無盡的 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 19:22:08 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575786352089 |
-| Players | 11/15 |
-| Host Name | Sliyver |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 19:22:54 |
+| Lobby ID | 28502575790598822 |
+| Players | 12/15 |
+| Host Name | Felaz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 19:25:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575790861918 |
+| Players | 1/8 |
+| Host Name | senku |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 19:25:48 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575789819877 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | герой |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 19:25:08 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575789957701 |
-| Players | 7/8 |
-| Host Name | Shax |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 19:25:13 |
+| Lobby ID | 28502575789792971 |
+| Players | 1/8 |
+| Host Name | 「ㄨ ??? ㄨ」 |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 19:25:07 |
 
 
 |  | ot3_gardens_duo |
@@ -110,30 +110,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 19:25:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575789752954 |
-| Players | 3/8 |
-| Host Name | Odinn |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 19:25:05 |
+| Lobby ID | 28502575791047161 |
+| Players | 1/15 |
+| Host Name | Kolbae |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 19:25:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575789792971 |
-| Players | 4/8 |
-| Host Name | N9ne |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 19:25:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575787870583 |
-| Players | 7/8 |
-| Host Name | iriya |
+| Lobby ID | 28502575791161695 |
+| Players | 1/10 |
+| Host Name | 𒇫𒄆 Skvirtoslav 𒂝𒀱 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 19:23:53 |
+| Lobby Creation Time | Thursday, November 2, 2023 19:25:59 |
 
 
