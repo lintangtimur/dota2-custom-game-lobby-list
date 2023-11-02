@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575313729687 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | telelet telelet wawayot |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:38:52 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575310135712 |
-| Players | 1/8 |
-| Host Name | GAmerZ |
+| Lobby ID | 28502575313993648 |
+| Players | 5/8 |
+| Host Name | def |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 09:32:17 |
+| Lobby Creation Time | Thursday, November 2, 2023 09:39:20 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575313803385 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Logen |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:39:00 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575310867126 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Sirlagsalot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:33:36 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575313717899 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | selegna🖤 |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:38:50 |
@@ -128,12 +128,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:39:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575313970625 |
-| Players | 2/8 |
-| Host Name | Зачем ты умерла??? |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 09:39:18 |
+| Lobby ID | 28502575314066365 |
+| Players | 1/15 |
+| Host Name | DALE! |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 09:39:28 |
 
 
