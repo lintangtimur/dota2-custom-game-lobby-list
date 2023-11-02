@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575401323068 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Bee.G Pee Ler |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:08:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575400584493 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Oh yay baby!! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:06:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575401580154 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | [R][O][A][M] |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:08:25 |
@@ -74,24 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:08:25 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575401581260 |
-| Players | 14/15 |
-| Host Name | Dragon |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 12:08:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575401710696 |
-| Players | 1/10 |
-| Host Name | tv/alicecartoon |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 12:08:36 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575401841470 |
@@ -101,12 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:08:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575402331699 |
-| Players | 1/15 |
-| Host Name | Scrub, cause problem on purpose |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 12:09:33 |
+| Lobby ID | 28502575402749480 |
+| Players | 1/8 |
+| Host Name | Punisher PMA |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 12:10:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575402832714 |
+| Players | 1/8 |
+| Host Name | next ti winner |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 12:10:18 |
 
 
