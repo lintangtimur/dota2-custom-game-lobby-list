@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575391182907 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Arc Valkyria |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 2, 2023 11:52:26 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575394224198 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Tiimii ~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:57:08 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575395768777 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | БОРЫЧ ТАЙМ БУЛЬВА |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:59:32 |
