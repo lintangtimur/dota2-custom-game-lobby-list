@@ -29,15 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:45:35 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575507576755 |
-| Players | 7/10 |
-| Host Name | katharsis |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 14:46:01 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
@@ -47,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575504573776 |
-| Players | 18/24 |
-| Host Name | TheBlindShibaInuSexyah |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 14:42:05 |
+| Lobby ID | 28502575508840497 |
+| Players | 5/8 |
+| Host Name | Кмс по куни |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 14:47:39 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575506965213 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Monky D. Negro |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 14:45:12 |
@@ -112,24 +103,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575508342252 |
-| Players | 4/8 |
-| Host Name | Scrambler |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 14:47:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575508503247 |
-| Players | 5/15 |
-| Host Name | боцман |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 14:47:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28502575508489478 |
 | Players | 3/8 |
 | Host Name | СЫН |
@@ -139,10 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575507093413 |
-| Players | 13/15 |
-| Host Name | ꃥꈤꊐ |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 14:45:23 |
+| Lobby ID | 28502575508503247 |
+| Players | 9/15 |
+| Host Name | боцман |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 14:47:13 |
 
 
