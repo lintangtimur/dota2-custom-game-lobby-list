@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367706957629 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | M4A3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 02:14:02 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367708402814 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | constinty wearin |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, November 3, 2023 02:15:23 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367708636259 |
+| Lobby ID | 28503367709109273 |
 | Players | 2/10 |
-| Host Name | Captain ♂Semen♂ |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 3, 2023 02:15:36 |
+| Host Name | *IQ СИСЯПИСЯ |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 02:16:03 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367708897502 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Predrag Krtolica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 02:15:51 |
@@ -104,8 +104,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367697377645 |
-| Players | 21/24 |
-| Host Name | Josh D' Médici |
+| Players | 20/24 |
+| Host Name | Mklp |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 02:05:16 |
 
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367707727049 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | ✪ SOY ALTO, PERO ME DICEN BAJO |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 02:14:46 |
@@ -166,20 +166,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367708626802 |
-| Players | 7/8 |
-| Host Name | полудурок) |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 02:15:36 |
+| Lobby ID | 28503367708999154 |
+| Players | 3/8 |
+| Host Name | Sevs |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 3, 2023 02:15:57 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367708750392 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | opium killer>>>><?? |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 02:15:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367708958921 |
+| Players | 4/8 |
+| Host Name | penrijuleпопукал |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 02:15:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367703220142 |
+| Players | 1/15 |
+| Host Name | fabsen <>< |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 02:10:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367705901761 |
+| Players | 13/15 |
+| Host Name | Dark Fox |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 3, 2023 02:13:03 |
 
 
 |  | epic_boss_fight_nightmare |
