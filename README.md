@@ -40,29 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575514492730 |
+| Lobby ID | 28502575514691168 |
 | Players | 1/10 |
-| Host Name | Sea Server Cancer |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 14:55:03 |
+| Host Name | TriHard |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 14:55:19 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575514552986 |
+| Lobby ID | 28502575514707814 |
 | Players | 1/10 |
-| Host Name | TriHard |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:55:08 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502575514572994 |
-| Players | 1/5 |
-| Host Name | вечный жид |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 14:55:09 |
+| Host Name | Sea Server Cancer |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 14:55:20 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575512132076 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | overflow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:51:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575512051083 |
-| Players | 13/15 |
-| Host Name | НА ТРИДЦАТОМ СТАЛ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 14:51:50 |
+| Lobby ID | 28502575514283819 |
+| Players | 1/8 |
+| Host Name | . |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 14:54:46 |
 
 
 |  | ot3_desert_octet |
@@ -121,28 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575514283819 |
+| Lobby ID | 28502575514719868 |
 | Players | 1/8 |
-| Host Name | . |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 14:54:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575514533746 |
-| Players | 1/15 |
 | Host Name | positive attitude player |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 14:55:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575514570566 |
-| Players | 4/8 |
-| Host Name | хлебная кайфуля |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:55:09 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 14:55:21 |
 
 
