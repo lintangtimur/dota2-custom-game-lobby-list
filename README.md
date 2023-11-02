@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367678360018 |
+| Lobby ID | 28503367680321995 |
 | Players | 2/10 |
-| Host Name | гуд рус - дєд рус))) |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 3, 2023 01:50:32 |
+| Host Name | . |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 01:51:59 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367676647399 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Beyond the Veil |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 01:49:14 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367674583300 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Николай Дроздов |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 01:47:37 |
@@ -182,29 +182,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 01:51:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367678576074 |
-| Players | 2/8 |
-| Host Name | I'm not alone anymore |
+| Lobby ID | 28503367680459685 |
+| Players | 1/15 |
+| Host Name | Гоша Беларус |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 01:50:42 |
+| Lobby Creation Time | Friday, November 3, 2023 01:52:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503367675207514 |
-| Players | 8/10 |
-| Host Name | rV- |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 3, 2023 01:48:07 |
+| Lobby ID | 28503367680365239 |
+| Players | 1/24 |
+| Host Name | nV- |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 01:52:01 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367678475915 |
-| Players | 2/10 |
-| Host Name | eXploit. |
+| Players | 1/10 |
+| Host Name | Iroh (눈‸눈) |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 01:50:37 |
 
@@ -212,7 +212,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367678631736 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Martin-Luther-King. |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 01:50:44 |
@@ -245,6 +245,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 01:50:11 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503367680437417 |
+| Players | 1/24 |
+| Host Name | Kokodrile |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 01:52:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367678436766 |
+| Players | 1/8 |
+| Host Name | _tw1l1ght_ |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 01:50:35 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503367671119199 |
@@ -257,8 +275,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503367679336632 |
-| Players | 3/10 |
-| Host Name | ЖЕСТКИЙ ЧЕЛ |
+| Players | 2/10 |
+| Host Name | Zé Carioca |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 01:51:16 |
 
@@ -272,21 +290,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 01:49:35 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28503367679821804 |
-| Players | 1/5 |
-| Host Name | Qwatesh |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 01:51:37 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503367652887072 |
-| Players | 9/10 |
-| Host Name | Tengo lag tmre |
+| Players | 7/10 |
+| Host Name | YameTits |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 01:29:12 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28503367680418706 |
+| Players | 1/5 |
+| Host Name | who0x |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 01:52:03 |
 
 
