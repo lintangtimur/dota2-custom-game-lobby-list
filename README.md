@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341611153948 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | BABY-ROSH (AL) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 07:14:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341609795427 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | mata limeños |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 07:11:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341610872407 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 07:13:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341610517904 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | CHinoKoo* |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 07:13:04 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341608641606 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | mikies |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 07:09:18 |
@@ -101,22 +101,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 07:11:02 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502341611596764 |
+| Players | 8/10 |
+| Host Name | сочные бабули.cum |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 07:15:12 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502341611519498 |
+| Lobby ID | 28502341611597657 |
 | Players | 1/15 |
 | Host Name | 空 |
 | Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 07:15:03 |
+| Lobby Creation Time | Thursday, November 2, 2023 07:15:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502341611525628 |
-| Players | 1/10 |
-| Host Name | 暁 |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 07:15:04 |
+| Lobby ID | 28502341611600273 |
+| Players | 1/15 |
+| Host Name | Luke |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 07:15:13 |
 
 
 |  | epic_boss_fight_nightmare |
