@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575484573388 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Mirana |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:15:29 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575483684907 |
-| Players | 14/15 |
-| Host Name | XQC!! |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 14:14:16 |
+| Lobby ID | 28502575485458149 |
+| Players | 9/15 |
+| Host Name | archgivi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 14:16:41 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575482094804 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | La Pixiris |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 14:12:04 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575484647185 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | TheBlindShibaInuSexyah |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:15:35 |
@@ -110,37 +110,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:14:48 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575485361491 |
-| Players | 3/15 |
-| Host Name | only 1pos |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 14:16:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575485373469 |
-| Players | 4/8 |
-| Host Name | ABOBA BOY |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 14:16:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575485458149 |
-| Players | 2/15 |
-| Host Name | archgivi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 14:16:41 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575485547438 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Петя Шалопай |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 14:16:48 |
