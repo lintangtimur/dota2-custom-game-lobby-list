@@ -2,22 +2,40 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575367973290 |
+| Players | 1/10 |
+| Host Name | monday left me broken cat |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 11:14:26 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575368173476 |
+| Players | 5/10 |
+| Host Name | Zero |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 11:14:47 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575367389366 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Chris |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:13:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575367450733 |
-| Players | 14/15 |
-| Host Name | ASYCEM |
+| Lobby ID | 28502575367878350 |
+| Players | 7/8 |
+| Host Name | LOSBENJAMINS |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 11:13:32 |
+| Lobby Creation Time | Thursday, November 2, 2023 11:14:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,28 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575367886927 |
-| Players | 6/8 |
-| Host Name | Stich |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 11:14:17 |
+| Lobby ID | 28502575367782252 |
+| Players | 6/15 |
+| Host Name | Harry Styles |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 11:14:05 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575357420389 |
-| Players | 8/10 |
-| Host Name | Touch Me |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 10:55:01 |
+| Lobby ID | 28502575367108035 |
+| Players | 6/10 |
+| Host Name | quad_buck |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 11:12:55 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575366990891 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Mcry |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:12:43 |
@@ -74,39 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 11:13:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575366996742 |
-| Players | 1/10 |
-| Host Name | LALATROLA giordota.com |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 11:12:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575367108035 |
-| Players | 6/10 |
-| Host Name | quad_buck |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 11:12:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575367782252 |
-| Players | 4/15 |
-| Host Name | Harry Styles |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 11:14:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575367878350 |
-| Players | 6/8 |
-| Host Name | LOSBENJAMINS |
+| Lobby ID | 28502575368092801 |
+| Players | 1/24 |
+| Host Name | MoonWalker |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 11:14:16 |
+| Lobby Creation Time | Thursday, November 2, 2023 11:14:38 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575368188345 |
+| Players | 2/10 |
+| Host Name | DANICH |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 11:14:49 |
 
 
