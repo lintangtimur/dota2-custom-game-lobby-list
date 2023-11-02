@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575285618123 |
-| Players | 3/15 |
+| Players | 11/15 |
 | Host Name | Reed |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 08:44:04 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575281048492 |
-| Players | 1/15 |
-| Host Name | R 1 D Z E R O |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 08:35:15 |
+| Lobby ID | 28502575285690340 |
+| Players | 2/15 |
+| Host Name | acuita |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 08:44:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575270714370 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | MaNia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 08:15:56 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575285307952 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | twitch.tv/kiwi_chanvt |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:43:27 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575285090661 |
-| Players | 13/24 |
+| Players | 19/24 |
 | Host Name | th@n@tos |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:43:01 |
@@ -95,36 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575285105600 |
-| Players | 2/8 |
-| Host Name | Whats is love |
+| Players | 5/8 |
+| Host Name | G10 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:43:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575285690340 |
-| Players | 2/15 |
-| Host Name | acuita |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 08:44:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575285741443 |
-| Players | 4/8 |
-| Host Name | Heisen |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 08:44:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575285757943 |
-| Players | 1/10 |
-| Host Name | YUUTA |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 08:44:21 |
 
 
