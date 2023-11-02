@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:50:03 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575510771381 |
-| Players | 2/5 |
+| Lobby ID | 28502575510870463 |
+| Players | 2/10 |
 | Host Name | KavapsCXZ> |
 | Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 14:50:10 |
+| Lobby Creation Time | Thursday, November 2, 2023 14:50:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575509168087 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | Mango Three |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:48:04 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575510158156 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Veselsak |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 14:49:23 |
@@ -101,19 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:45:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575507094448 |
-| Players | 7/10 |
-| Host Name | StillImmortal |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 14:45:23 |
+| Lobby ID | 28502575510839759 |
+| Players | 4/8 |
+| Host Name | Кмс по куни |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 14:50:16 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575510151833 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Mafiato |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 14:49:22 |
@@ -135,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Monky D. Negro |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 14:45:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575510736165 |
-| Players | 3/8 |
-| Host Name | Кмс по куни |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:50:08 |
 
 
