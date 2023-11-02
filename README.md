@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575780126124 |
-| Players | 2/10 |
-| Host Name | Mr. Жаби-Жаби |
+| Players | 5/10 |
+| Host Name | Daja i Konterit |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 19:18:50 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575761712902 |
-| Players | 4/24 |
+| Players | 9/24 |
 | Host Name | DamnDev |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 19:06:32 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575775748001 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | 風は予告なく吹く |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 19:15:58 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575781244561 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | kiw kiw CUKURUK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 19:19:34 |
@@ -112,17 +112,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575780444125 |
-| Players | 7/8 |
-| Host Name | Alikhan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 19:19:03 |
+| Lobby ID | 28502575781986825 |
+| Players | 1/8 |
+| Host Name | swap comm |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 19:20:03 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575781429988 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | ^^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 19:19:41 |
