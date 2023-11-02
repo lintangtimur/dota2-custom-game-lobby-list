@@ -14,16 +14,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575326609538 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | MYB11RU |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:01:35 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575327849290 |
+| Players | 1/10 |
+| Host Name | Alessia Cara |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 10:03:43 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28502575327985355 |
+| Players | 1/7 |
+| Host Name | fentanyl4mg+10## |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 10:03:58 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575326608784 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | El dios incaico |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:01:35 |
@@ -41,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575326864515 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | COCO BASILE |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:02:02 |
@@ -50,27 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575325884023 |
-| Players | 11/15 |
-| Host Name | pacp.ec |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 10:00:20 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575327538741 |
-| Players | 1/24 |
+| Players | 6/24 |
 | Host Name | khay khay |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:03:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575327887360 |
+| Players | 1/15 |
+| Host Name | Денис хочу секс |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 10:03:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575327959892 |
+| Players | 1/10 |
+| Host Name | bypanda69 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 10:03:55 |
 
 
