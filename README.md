@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575434186953 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Arwien |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:58:43 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575434359751 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Mr. Nobody |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:58:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575430749382 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | Pericotito de Nelly Rossinelli |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:53:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575432821221 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | string |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:56:35 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575434267912 |
-| Players | 3/15 |
+| Players | 11/15 |
 | Host Name | ^^bongafonx` |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 12:58:51 |
@@ -94,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575434239530 |
+| Lobby ID | 28502575434916195 |
 | Players | 1/8 |
-| Host Name | 私を救う |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 12:58:48 |
+| Host Name | ezzzzzzz |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 12:59:52 |
 
 
