@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575283043042 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Белый |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 08:39:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575285690340 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Chad Chadinson |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:44:12 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575285090661 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | th@n@tos |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:43:01 |
@@ -101,12 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 08:44:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575285951796 |
-| Players | 2/10 |
-| Host Name | [Wario] Timheid |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 08:44:44 |
+| Lobby ID | 28502575286062377 |
+| Players | 2/15 |
+| Host Name | Logen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 08:44:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575286058809 |
+| Players | 1/15 |
+| Host Name | Lain Kurai reborn |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 08:44:56 |
 
 
