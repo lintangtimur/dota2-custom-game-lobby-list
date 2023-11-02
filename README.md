@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575384701998 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | DANICH |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:42:22 |
@@ -117,5 +117,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Solo estoy pasando el rato |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:42:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575385754775 |
+| Players | 1/8 |
+| Host Name | обезьянище |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 11:44:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575385806594 |
+| Players | 1/10 |
+| Host Name | "DIEGUIXZN//IS BACK" |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 11:44:07 |
 
 
