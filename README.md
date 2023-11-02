@@ -29,28 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 10:24:37 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575340499057 |
-| Players | 2/10 |
-| Host Name | ManiBani |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 10:25:15 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575339062463 |
-| Players | 9/10 |
-| Host Name | μVlrka |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 10:22:47 |
+| Lobby ID | 28502575339546988 |
+| Players | 20/24 |
+| Host Name | XD |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 10:23:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575339937151 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | very good player |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:24:17 |
@@ -86,27 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575337455627 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Mikooz |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 10:20:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575339546988 |
-| Players | 19/24 |
-| Host Name | XD |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:23:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575340422168 |
-| Players | 1/15 |
-| Host Name | Chip |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:25:07 |
+| Lobby ID | 28502575340560555 |
+| Players | 1/10 |
+| Host Name | ВЫЕБАЛ ЧЛЕН ЖОПОЙ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 10:25:22 |
 
 
