@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575525480569 |
+| Lobby ID | 28502575525454344 |
 | Players | 1/8 |
-| Host Name | average women avoider |
+| Host Name | 111 |
 | Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 15:10:14 |
+| Lobby Creation Time | Thursday, November 2, 2023 15:10:12 |
 
 
 |  | ot3_desert_octet |
@@ -121,10 +121,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575525454344 |
+| Lobby ID | 28502575525586346 |
 | Players | 1/8 |
-| Host Name | 111 |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 15:10:12 |
+| Host Name | _Stinker221_ |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 15:10:23 |
 
 
