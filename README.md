@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 03:51:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367853892628 |
-| Players | 10/15 |
-| Host Name | Smok |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 04:58:01 |
+| Lobby ID | 28503367854019317 |
+| Players | 6/8 |
+| Host Name | kagura bachi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 04:58:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367853363480 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | 'Cry 雨' |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 04:57:17 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367853883369 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | The geese' Goose #FL1XA |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 04:58:00 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367852735165 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | The Cat's Meow |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 04:56:24 |
@@ -126,42 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ZAHARIKSPEEK Mooncake |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 04:56:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367854020830 |
-| Players | 1/10 |
-| Host Name | heisenberg flow |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:58:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503367854019317 |
-| Players | 6/8 |
-| Host Name | kagura bachi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:58:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503367854075943 |
-| Players | 3/8 |
-| Host Name | ozhskii |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 04:58:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503367834381630 |
-| Players | 14/15 |
-| Host Name | Pica chlorotica |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 04:31:34 |
 
 
 |  | epic_boss_fight_nightmare |
