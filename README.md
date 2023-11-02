@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:41:55 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575653691545 |
+| Players | 10/10 |
+| Host Name | C A S S I A |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 17:41:22 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575657213280 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575654377998 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Werym |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 17:42:01 |
@@ -41,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575657104884 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Feelingpeace’s |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 17:44:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575656722853 |
-| Players | 14/15 |
-| Host Name | Огре падж |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:44:15 |
+| Lobby ID | 28502575657593101 |
+| Players | 5/8 |
+| Host Name | turning dust to dust |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 17:45:04 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575654170214 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | 鸡蛋葱花饼 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:41:49 |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575657556344 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Glava |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 17:45:01 |
@@ -122,19 +131,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575656952217 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | DANTE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 17:44:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575656986750 |
-| Players | 1/8 |
-| Host Name | Я умный |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:44:30 |
 
 
 |  | ot3_gardens_duo |
@@ -144,14 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Maglan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 17:44:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575657593101 |
-| Players | 5/8 |
-| Host Name | turning dust to dust |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 17:45:04 |
 
 
