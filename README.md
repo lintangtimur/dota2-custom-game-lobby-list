@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575431712504 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | Saiko |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:54:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575432223826 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Maglan |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:55:39 |
@@ -110,12 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:56:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575433268532 |
-| Players | 1/8 |
-| Host Name | vershshina |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 12:57:17 |
+| Lobby ID | 28502575433341055 |
+| Players | 1/15 |
+| Host Name | Keenan |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 12:57:24 |
 
 
