@@ -20,19 +20,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:33:26 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502575543789035 |
-| Players | 1/5 |
-| Host Name | 淦淦淦 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 15:34:06 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -77,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575542615560 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | boss mentality |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 15:32:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575541404927 |
-| Players | 1/15 |
-| Host Name | Ace in the Hole |
+| Lobby ID | 28502575543514212 |
+| Players | 1/10 |
+| Host Name | Teamp0ison |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 15:31:10 |
+| Lobby Creation Time | Thursday, November 2, 2023 15:33:46 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575543168260 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Tolia22 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 15:33:20 |
@@ -130,19 +121,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575543680355 |
-| Players | 1/15 |
-| Host Name | ХУЙСУНЬХУЙВЫСУНЬ |
+| Lobby ID | 28502575543884816 |
+| Players | 4/15 |
+| Host Name | подкрадуль |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 15:33:58 |
+| Lobby Creation Time | Thursday, November 2, 2023 15:34:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575543514212 |
-| Players | 1/10 |
-| Host Name | Teamp0ison |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 15:33:46 |
+| Lobby ID | 28502575541969309 |
+| Players | 14/15 |
+| Host Name | 𓁿Maverick |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 15:31:51 |
 
 
