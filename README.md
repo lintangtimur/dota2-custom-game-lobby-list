@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575351304552 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Fihed |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 10:44:10 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 10:45:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575352104733 |
-| Players | 13/15 |
-| Host Name | calla ctmr |
+| Lobby ID | 28502575352322068 |
+| Players | 6/24 |
+| Host Name | Lisa |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:45:37 |
+| Lobby Creation Time | Thursday, November 2, 2023 10:46:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575350025115 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | kels |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:41:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575352376417 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 10:46:07 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Immortal |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:45:14 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575352322068 |
-| Players | 6/24 |
-| Host Name | Lisa |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:46:01 |
 
 
