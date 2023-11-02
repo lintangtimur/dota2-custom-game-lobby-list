@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575520778420 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 15:03:39 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575520836300 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Dragon |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 15:03:44 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575520974562 |
+| Lobby ID | 28502575521113179 |
 | Players | 1/8 |
-| Host Name | Kirito |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 15:03:56 |
+| Host Name | Sneaky Beaky Like ¯\_(ツ)_/¯ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 15:04:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -108,23 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Martin The Flower 🏵 |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 15:03:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575521095079 |
-| Players | 2/10 |
-| Host Name | "Misha" :3 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 15:04:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575521113179 |
-| Players | 1/8 |
-| Host Name | Sneaky Beaky Like ¯\_(ツ)_/¯ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 15:04:08 |
 
 
