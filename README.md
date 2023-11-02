@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367830465198 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Mike Oxlong |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 04:26:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367837227356 |
-| Players | 10/15 |
-| Host Name | Fruugu |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 04:35:15 |
+| Lobby ID | 28503367838069700 |
+| Players | 3/10 |
+| Host Name | X-Ray |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 04:36:21 |
 
 
 |  | ot3_gardens_duo |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 03:53:26 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367837598936 |
-| Players | 3/24 |
-| Host Name | mufasail |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 3, 2023 04:35:45 |
+| Lobby ID | 28503367837177039 |
+| Players | 3/10 |
+| Host Name | La Pixiris |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 04:35:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,42 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 03:20:07 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503367830032985 |
-| Players | 24/24 |
-| Host Name | Avocado0 |
-| Region | Unknown |
-| Lobby Creation Time | Friday, November 3, 2023 04:26:01 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503367836744173 |
-| Players | 14/24 |
-| Host Name | pinkcore |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:34:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503367837340080 |
-| Players | 9/15 |
-| Host Name | |I|I|I|I|I|I|I|I| |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:35:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503367834287703 |
-| Players | 9/24 |
-| Host Name | BLEHHHHH :P |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 04:31:27 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367837293754 |
@@ -128,13 +92,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 04:35:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503367837177039 |
-| Players | 2/10 |
-| Host Name | La Pixiris |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 04:35:11 |
+| Lobby ID | 28503367836744173 |
+| Players | 15/24 |
+| Host Name | pinkcore |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 04:34:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367837340080 |
+| Players | 11/15 |
+| Host Name | |I|I|I|I|I|I|I|I| |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 04:35:24 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503367834287703 |
+| Players | 10/24 |
+| Host Name | BLEHHHHH :P |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 04:31:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367838153411 |
+| Players | 6/8 |
+| Host Name | Godsilla |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 04:36:28 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503367830032985 |
+| Players | 21/24 |
+| Host Name | Avocado0 |
+| Region | Unknown |
+| Lobby Creation Time | Friday, November 3, 2023 04:26:01 |
 
 
 |  | epic_boss_fight_nightmare |
