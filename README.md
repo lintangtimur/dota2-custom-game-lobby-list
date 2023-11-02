@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575671657971 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | NP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:57:52 |
@@ -29,22 +29,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:57:57 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575671940028 |
+| Players | 1/5 |
+| Host Name | A O R Y |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 17:58:07 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575670141506 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | hahahehehoho |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:56:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575660710971 |
-| Players | 7/10 |
-| Host Name | Too Good To Win? |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 17:47:58 |
+| Lobby ID | 28502575671767577 |
+| Players | 1/24 |
+| Host Name | 唱支山歌给党听 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 17:57:58 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575665148186 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Kupnu4 Te6e B roJIoBy |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 17:52:01 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575671137803 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | wp |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 17:57:24 |
@@ -83,21 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:57:07 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575671767577 |
-| Players | 1/24 |
-| Host Name | 唱支山歌给党听 |
+| Lobby ID | 28502575671958790 |
+| Players | 1/8 |
+| Host Name | Pikachu187 |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 17:57:58 |
+| Lobby Creation Time | Thursday, November 2, 2023 17:58:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575671299324 |
-| Players | 11/15 |
-| Host Name | 夢 ｄｒ |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 2, 2023 17:57:33 |
+| Lobby ID | 28502575671999140 |
+| Players | 1/8 |
+| Host Name | в танке |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 17:58:10 |
 
 
