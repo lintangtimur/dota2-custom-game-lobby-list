@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:40:19 |
 
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28502575546357839 |
-| Players | 1/7 |
-| Host Name | thEdarK1 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 15:37:23 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575548236260 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575544366537 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Ump |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 15:34:49 |
@@ -92,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:33:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575549094083 |
-| Players | 1/15 |
-| Host Name | Shurik |
+| Lobby ID | 28502575549171353 |
+| Players | 5/8 |
+| Host Name | NG  | Vano |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 15:40:55 |
+| Lobby Creation Time | Thursday, November 2, 2023 15:41:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -119,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:40:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575548661781 |
-| Players | 1/8 |
-| Host Name | Alonse |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 15:40:22 |
+| Lobby ID | 28502575549205659 |
+| Players | 1/10 |
+| Host Name | sEropch1k |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 15:41:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -157,28 +148,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575549093798 |
+| Lobby ID | 28502575549177616 |
 | Players | 1/15 |
 | Host Name | ;d |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 15:40:55 |
+| Lobby Creation Time | Thursday, November 2, 2023 15:41:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575549120199 |
-| Players | 1/15 |
-| Host Name | Jabroni |
+| Lobby ID | 28502575549221208 |
+| Players | 5/10 |
+| Host Name | похвалите плиз |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 15:40:57 |
+| Lobby Creation Time | Thursday, November 2, 2023 15:41:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575549106939 |
-| Players | 1/8 |
-| Host Name | WooL |
+| Lobby ID | 28502575549242591 |
+| Players | 1/10 |
+| Host Name | r1kko |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 15:41:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575549245900 |
+| Players | 1/10 |
+| Host Name | nextir |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 15:40:56 |
+| Lobby Creation Time | Thursday, November 2, 2023 15:41:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575549275782 |
+| Players | 1/10 |
+| Host Name | Мамка Стиффлера |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 15:41:09 |
 
 
