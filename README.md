@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575709665953 |
-| Players | 3/10 |
-| Host Name | rly |
+| Players | 2/10 |
+| Host Name | Giovanni Giorgio |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 18:28:57 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575716098087 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | q1 |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 18:33:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575709295264 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | FriedSprite |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 18:28:40 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575713537333 |
-| Players | 6/8 |
-| Host Name | Дауби Даубиев |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 2, 2023 18:31:55 |
+| Lobby ID | 28502575715481135 |
+| Players | 2/8 |
+| Host Name | Saul Goodman |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 18:33:24 |
 
 
 |  | ot3_gardens_duo |
@@ -76,10 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575715481135 |
-| Players | 2/8 |
-| Host Name | Saul Goodman |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 18:33:24 |
+| Lobby ID | 28502575716521949 |
+| Players | 3/8 |
+| Host Name | Лютый Холод |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 18:34:11 |
 
 
