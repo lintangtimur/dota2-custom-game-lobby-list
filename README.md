@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575473793008 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Топ 100 Антарктиды |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 14:00:24 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575472543937 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Odinn |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 13:58:36 |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Кайфарик |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 14:00:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575473522183 |
+| Players | 1/8 |
+| Host Name | Kruppa(манная) |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 14:00:01 |
 
 
