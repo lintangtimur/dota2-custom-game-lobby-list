@@ -22,15 +22,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28502575578613126 |
-| Players | 1/5 |
-| Host Name | tito.toranggaa93 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 16:17:02 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
 | Lobby ID | 28502575578880892 |
 | Players | 1/5 |
 | Host Name | Zinc |
@@ -38,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 16:17:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575578354606 |
-| Players | 11/15 |
-| Host Name | ( ＾◡＾)っ✂ SNIP SNIP |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 16:16:44 |
+| Lobby ID | 28502575579437657 |
+| Players | 6/10 |
+| Host Name | Моржогр |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 16:18:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,18 +59,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575576797005 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | quiescent |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 16:14:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575579383693 |
-| Players | 1/10 |
-| Host Name | 11111111111111111111111111111111 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 16:17:57 |
+| Lobby ID | 28502575579431406 |
+| Players | 1/8 |
+| Host Name | naavle |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 2, 2023 16:18:00 |
 
 
