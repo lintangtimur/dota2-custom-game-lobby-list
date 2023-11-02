@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923790761931 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Alainzzz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:37:09 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923793350790 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Chispitas |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:41:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923791182491 |
-| Players | 8/10 |
-| Host Name | merenge |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 06:37:53 |
+| Lobby ID | 28503923793541651 |
+| Players | 1/15 |
+| Host Name | FreeOne |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 06:42:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923792519611 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | Aiimer |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:40:20 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923793232271 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ИМЯ ПРОФИЛЯ |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 06:41:40 |
@@ -103,10 +103,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923793460127 |
+| Lobby ID | 28503923793524121 |
 | Players | 1/15 |
-| Host Name | isalla |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 06:42:05 |
+| Host Name | НИ ТРОГАЙТИ ТИТИ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 06:42:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923793531406 |
+| Players | 1/8 |
+| Host Name | masov |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 06:42:13 |
 
 
