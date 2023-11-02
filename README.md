@@ -22,11 +22,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575390965445 |
+| Lobby ID | 28502575391041647 |
 | Players | 1/10 |
 | Host Name | take it easy' |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 11:52:06 |
+| Lobby Creation Time | Thursday, November 2, 2023 11:52:13 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575391045667 |
+| Players | 1/10 |
+| Host Name | Apsulov |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 11:52:13 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575390444904 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Moonlight |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:51:19 |
@@ -90,5 +99,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | FORSA AAA N |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:51:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575391011600 |
+| Players | 2/24 |
+| Host Name | Sweet...Sadistic |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 11:52:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575391027416 |
+| Players | 6/15 |
+| Host Name | CACHA TOMBOS! |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 11:52:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575391103718 |
+| Players | 6/8 |
+| Host Name | a |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 11:52:18 |
 
 
