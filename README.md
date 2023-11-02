@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28502575654298370 |
+| Lobby ID | 28502575654642561 |
 | Players | 1/5 |
-| Host Name | . Skye |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 17:41:56 |
+| Host Name | Lookas |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 2, 2023 17:42:16 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575643009581 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 17:30:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575654377998 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Фридоом(хочу татарочку) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 17:42:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575612784997 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | ANTOHADANCE666 |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 16:57:30 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575654170214 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | 鸡蛋葱花饼 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:41:49 |
@@ -99,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | fn ‘ (прайм) |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 17:41:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575654615636 |
+| Players | 1/15 |
+| Host Name | PRO Fire |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 2, 2023 17:42:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575654605288 |
+| Players | 1/10 |
+| Host Name | tryhard to be perfect |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 17:42:14 |
 
 
