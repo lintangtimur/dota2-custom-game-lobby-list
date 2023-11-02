@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923785924468 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | GHINZU |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:28:18 |
@@ -38,20 +38,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 06:28:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923786030098 |
-| Players | 1/10 |
-| Host Name | Cara Delevingne |
+| Lobby ID | 28503923786413633 |
+| Players | 1/15 |
+| Host Name | フィッシー |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:28:30 |
+| Lobby Creation Time | Friday, November 3, 2023 06:29:12 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923784968571 |
-| Players | 3/8 |
-| Host Name | Nano |
+| Players | 1/8 |
+| Host Name | LITTLE PUDGE |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 06:26:36 |
 
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923785240350 |
-| Players | 7/10 |
-| Host Name | 9345f38945f34k5g |
+| Players | 5/10 |
+| Host Name | КАМЕНЬ mentality |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:27:06 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923784482458 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Guess i just like |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:25:44 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923786151760 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Николай Дроздов |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 06:28:43 |
@@ -130,28 +130,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923786341818 |
-| Players | 2/10 |
-| Host Name | Wake Bake |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 06:29:04 |
+| Lobby ID | 28503923786474177 |
+| Players | 1/10 |
+| Host Name | Cara Delevingne |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 06:29:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923785590439 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | K2.qtmd |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 06:27:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923786386032 |
-| Players | 3/15 |
-| Host Name | Клюшечный |
+| Lobby ID | 28503923786495845 |
+| Players | 1/8 |
+| Host Name | 3RBEED |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:29:09 |
+| Lobby Creation Time | Friday, November 3, 2023 06:29:21 |
 
 
