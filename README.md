@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 18:43:34 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575731386166 |
+| Players | 1/5 |
+| Host Name | думбас |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 18:45:11 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575724471640 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575729459792 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | water dance |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 18:43:49 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575729013898 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | noob team |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 18:43:29 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575727797922 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | boqni |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 18:42:36 |
@@ -119,12 +128,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 18:43:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575728754120 |
-| Players | 3/8 |
-| Host Name | егор один |
-| Region | JAPAN |
+| Lobby ID | 28502575728760226 |
+| Players | 5/10 |
+| Host Name | Чиж |
+| Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 18:43:18 |
 
 
@@ -144,14 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | дэйв гриль |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 18:45:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575728760226 |
-| Players | 6/10 |
-| Host Name | BISS ✟ |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 18:43:18 |
 
 
