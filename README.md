@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:11:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575404175141 |
-| Players | 1/15 |
-| Host Name | Nowhr to run |
+| Lobby ID | 28502575404645779 |
+| Players | 6/10 |
+| Host Name | THinc |
 | Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 12:12:17 |
+| Lobby Creation Time | Thursday, November 2, 2023 12:12:59 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575404253672 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | //gg |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 12:12:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575403292283 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | "DIEGUIXZN//IS BACK" |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:10:59 |
@@ -103,17 +103,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575404541540 |
-| Players | 1/24 |
-| Host Name | 7 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 12:12:50 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
 | Lobby ID | 28502575404535622 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:12:49 |
