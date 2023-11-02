@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575808831455 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Ghee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 19:37:06 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575812816974 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | Cara Delevingne |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 2, 2023 19:39:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575808781397 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | lady maria |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 19:37:04 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 19:39:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575805142480 |
-| Players | 14/15 |
-| Host Name | XuTiNg McBrain |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 19:34:49 |
+| Lobby ID | 28502575813740071 |
+| Players | 1/10 |
+| Host Name | камбек в таверну |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 19:40:12 |
 
 
 |  | ot3_jungle_quintet |
@@ -117,5 +117,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | temip |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 19:40:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575813789323 |
+| Players | 1/8 |
+| Host Name | Разрушитель |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 19:40:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575813764420 |
+| Players | 1/8 |
+| Host Name | bkb tp out |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 19:40:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575813859422 |
+| Players | 1/15 |
+| Host Name | NO NAME |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 2, 2023 19:40:17 |
 
 
