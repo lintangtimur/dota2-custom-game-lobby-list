@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575440485206 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Crazy-Man |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 13:09:25 |
@@ -27,15 +27,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:16:42 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502575446227626 |
-| Players | 1/5 |
-| Host Name | Estrelinha |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 13:18:59 |
 
 
 |  | ot3_jungle_quintet |
@@ -103,29 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575446151514 |
-| Players | 1/15 |
-| Host Name | O'Scully |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 13:18:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575446168797 |
-| Players | 1/15 |
-| Host Name | dise |
+| Lobby ID | 28502575446278223 |
+| Players | 11/15 |
+| Host Name | Maglan |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 13:18:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575445227338 |
-| Players | 2/8 |
-| Host Name | Black.Bear |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 13:17:20 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:19:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -137,12 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:18:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575446278223 |
-| Players | 8/15 |
-| Host Name | Maglan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 13:19:04 |
+| Lobby ID | 28502575445227338 |
+| Players | 1/8 |
+| Host Name | Potersor god giordota.com |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 13:17:20 |
 
 
