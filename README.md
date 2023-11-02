@@ -14,28 +14,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367777772418 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | BuaHhHh |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 03:25:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367778079640 |
-| Players | 1/15 |
-| Host Name | K... |
-| Region | AUSTRIA |
-| Lobby Creation Time | Friday, November 3, 2023 03:25:45 |
+| Lobby ID | 28503367778628313 |
+| Players | 1/8 |
+| Host Name | baby shark <3 |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 03:26:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367778066475 |
-| Players | 1/10 |
-| Host Name | Noone |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 03:25:44 |
+| Lobby ID | 28503367778660968 |
+| Players | 1/8 |
+| Host Name | heinous |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 3, 2023 03:26:22 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367772348838 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | sadboi |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 03:19:32 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367774076068 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | LXST |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 03:21:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503367777156799 |
-| Players | 13/15 |
-| Host Name | nahoyou |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 03:24:45 |
 
 
 |  | ot3_desert_octet |
@@ -108,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 青墨 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 03:18:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367778611018 |
+| Players | 1/15 |
+| Host Name | PIMPERnell92 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 03:26:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367776813975 |
+| Players | 14/15 |
+| Host Name | Sanguinius |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 03:24:23 |
 
 
