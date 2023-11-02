@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575339937151 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | j |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:24:17 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575342268473 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | jebao |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 10:28:22 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575343080807 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | FB 🎸👻 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 10:29:46 |
@@ -90,5 +90,50 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | [22-1]bbsexxx |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:30:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575343267066 |
+| Players | 1/8 |
+| Host Name | Estafador |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 10:30:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575343273046 |
+| Players | 6/8 |
+| Host Name | LOSBENJAMINS |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 10:30:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575343274892 |
+| Players | 1/10 |
+| Host Name | Touch Me |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 10:30:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575343295481 |
+| Players | 1/15 |
+| Host Name | gloryus |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 10:30:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575340828484 |
+| Players | 14/15 |
+| Host Name | ◄KIT► |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 10:25:50 |
 
 
