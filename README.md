@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923775226073 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Alainzzz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:09:06 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923774944727 |
-| Players | 2/15 |
-| Host Name | NaPobedky |
+| Players | 1/15 |
+| Host Name | Золотая Клешня |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 06:08:43 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923776335955 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Yuta |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 06:10:54 |
@@ -119,39 +119,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 06:11:07 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923775545824 |
-| Players | 12/15 |
-| Host Name | DonkayPunch Q(Q'-')!! |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 06:09:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923776266940 |
-| Players | 1/15 |
-| Host Name | .neff |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:10:46 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923776432927 |
-| Players | 8/10 |
-| Host Name | AtomiXs |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 06:11:04 |
+| Lobby ID | 28503923776579934 |
+| Players | 2/10 |
+| Host Name | iiiiwant |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 06:11:20 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923776434249 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | zero |
 | Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 06:11:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923776432927 |
+| Players | 9/10 |
+| Host Name | AtomiXs |
+| Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 06:11:04 |
 
 
