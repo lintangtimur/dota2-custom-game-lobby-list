@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367801033198 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 03:51:08 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367812124608 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | ZeinnyG |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 04:04:03 |
@@ -122,19 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367784895976 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | RiftBreaker |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 03:33:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367811801141 |
-| Players | 6/8 |
-| Host Name | VladisVens |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 3, 2023 04:03:41 |
+| Lobby ID | 28503367796616949 |
+| Players | 7/15 |
+| Host Name | CriticalStrike |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 03:46:08 |
 
 
 |  | ot3_gardens_duo |
@@ -167,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367812430573 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | DoomRamon |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 04:04:25 |
@@ -180,6 +180,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Nik_Name |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 04:05:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367813108745 |
+| Players | 1/8 |
+| Host Name | АБОБА |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 04:05:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367813128745 |
+| Players | 1/8 |
+| Host Name | lonely |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 04:05:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367813136855 |
+| Players | 3/8 |
+| Host Name | ZAHARIKSPEEK Mooncake |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 04:05:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367810955848 |
+| Players | 6/8 |
+| Host Name | JImmy Cooks |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 04:02:40 |
 
 
 |  | epic_boss_fight_challenger |
