@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575286353493 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | tfg |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 08:45:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575286487271 |
-| Players | 11/15 |
-| Host Name | Sin.Bryan[HotDog] |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 08:45:47 |
+| Lobby ID | 28502575287454352 |
+| Players | 5/8 |
+| Host Name | hahaha omg lol xd lmfao hehehe |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 08:47:39 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575270714370 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | MaNia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 08:15:56 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575287651102 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Stole Your Life |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 08:48:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575287747932 |
-| Players | 1/15 |
-| Host Name | ๏̯͡๏ ︻デ 一 - |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 08:48:13 |
+| Lobby ID | 28502575286840710 |
+| Players | 2/10 |
+| Host Name | Афро лобан |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 08:46:29 |
 
 
 |  | ot3_desert_octet |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 08:46:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575287083150 |
-| Players | 8/10 |
-| Host Name | 홍은채) 내 동료가 돼라 홍은채) 물고기 캠 |
+| Lobby ID | 28502575287777902 |
+| Players | 1/8 |
+| Host Name | Odinn |
 | Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 08:46:57 |
+| Lobby Creation Time | Thursday, November 2, 2023 08:48:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -119,21 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 08:46:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575286840710 |
-| Players | 2/10 |
-| Host Name | Афро лобан |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 08:46:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575287454352 |
-| Players | 5/8 |
-| Host Name | hahaha omg lol xd lmfao hehehe |
+| Lobby ID | 28502575287801480 |
+| Players | 4/15 |
+| Host Name | LG LICUONA |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 08:47:39 |
+| Lobby Creation Time | Thursday, November 2, 2023 08:48:20 |
 
 
