@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28502575777204613 |
-| Players | 3/7 |
+| Players | 2/7 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 19:16:56 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28502575797362818 |
-| Players | 7/10 |
-| Host Name | || Puppet™ |
+| Lobby ID | 28502575799057438 |
+| Players | 2/5 |
+| Host Name | [<>-<>] |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 19:29:56 |
+| Lobby Creation Time | Thursday, November 2, 2023 19:31:01 |
 
 
 |  | epic_boss_fight_normal |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575797784390 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Антонио Еблэнас |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 19:30:12 |
@@ -41,25 +41,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575766078146 |
-| Players | 8/10 |
-| Host Name | SGKILLER |
+| Players | 2/10 |
+| Host Name | Cpt. Douchebag |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 19:09:31 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502575799057438 |
-| Players | 1/5 |
-| Host Name | [<>-<>] |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 19:31:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575798780935 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | SOBRUT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 19:30:50 |
@@ -68,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575798124784 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | 企业家 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 19:30:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575799001477 |
-| Players | 1/8 |
-| Host Name | Lifebreaker |
+| Lobby ID | 28502575799149814 |
+| Players | 14/15 |
+| Host Name | Boris |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 19:30:59 |
+| Lobby Creation Time | Thursday, November 2, 2023 19:31:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575799344285 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | LTE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 19:31:12 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575791848446 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Django |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 19:26:25 |
@@ -130,15 +121,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575798346126 |
-| Players | 5/8 |
-| Host Name | Future DILF |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 19:30:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28502575799244656 |
 | Players | 4/8 |
 | Host Name | Отведай силушку богатырскую |
@@ -146,21 +128,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 19:31:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575799149814 |
-| Players | 3/15 |
-| Host Name | Boris |
+| Lobby ID | 28502575800401579 |
+| Players | 1/10 |
+| Host Name | Erlon |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 19:31:04 |
+| Lobby Creation Time | Thursday, November 2, 2023 19:31:51 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575799346598 |
-| Players | 3/8 |
-| Host Name | малышка — это Comme des Garçons |
+| Lobby ID | 28502575800413390 |
+| Players | 2/8 |
+| Host Name | FICUS |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 19:31:12 |
+| Lobby Creation Time | Thursday, November 2, 2023 19:31:52 |
 
 
