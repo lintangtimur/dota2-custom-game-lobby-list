@@ -2,6 +2,15 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575400229706 |
+| Players | 1/10 |
+| Host Name | Bee.G Pee Ler |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 12:06:22 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
@@ -13,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575396443477 |
-| Players | 13/15 |
-| Host Name | bonbon |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 12:00:35 |
+| Lobby ID | 28502575399997003 |
+| Players | 12/15 |
+| Host Name | Bloodscourge |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 12:06:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575396874485 |
-| Players | 22/24 |
+| Players | 19/24 |
 | Host Name | 不二周助 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:01:14 |
@@ -65,12 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:04:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575399997003 |
-| Players | 5/15 |
-| Host Name | Bloodscourge |
+| Lobby ID | 28502575400261694 |
+| Players | 1/8 |
+| Host Name | RagE |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 12:06:01 |
+| Lobby Creation Time | Thursday, November 2, 2023 12:06:24 |
 
 
