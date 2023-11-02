@@ -2,10 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575320038312 |
+| Players | 1/10 |
+| Host Name | "Virone" Comrade |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 09:50:08 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575319556537 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | podpivasnik |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:49:18 |
@@ -14,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575319508522 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Fresh air balloonist |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:49:13 |
@@ -23,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575316418114 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 09:43:41 |
@@ -56,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575316515406 |
-| Players | 9/10 |
-| Host Name | Pro Archon Gaming |
+| Lobby ID | 28502575319963888 |
+| Players | 5/8 |
+| Host Name | xoxo |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:43:51 |
+| Lobby Creation Time | Thursday, November 2, 2023 09:50:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575319358228 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | Paul Thomas Anderson |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:48:57 |
@@ -90,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | iB.Rock |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:49:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575319963888 |
-| Players | 3/8 |
-| Host Name | xoxo |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:50:01 |
 
 
