@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:50:03 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575511466891 |
-| Players | 1/5 |
+| Lobby ID | 28502575511529332 |
+| Players | 1/10 |
 | Host Name | MadKing |
 | Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 14:51:05 |
+| Lobby Creation Time | Thursday, November 2, 2023 14:51:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575509557100 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Broken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 14:48:35 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575510158156 |
+| Lobby ID | 28502575505430157 |
 | Players | 14/15 |
-| Host Name | Veselsak |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:49:23 |
+| Host Name | EL HOMBRE SIDA !! |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 14:43:11 |
 
 
 |  | ot3_desert_octet |
@@ -101,15 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:45:05 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575510839759 |
-| Players | 7/8 |
-| Host Name | Кмс по куни |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:50:16 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575510151833 |
@@ -121,19 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575505430157 |
-| Players | 14/15 |
-| Host Name | EL HOMBRE SIDA !! |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 14:43:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575511470122 |
+| Lobby ID | 28502575511607096 |
 | Players | 1/15 |
 | Host Name | Jabroni |
 | Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 14:51:05 |
+| Lobby Creation Time | Thursday, November 2, 2023 14:51:16 |
 
 
