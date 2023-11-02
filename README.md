@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575558003821 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Stressed |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 15:52:14 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575564974462 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Dragon |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 16:00:49 |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | c 1 v ebalo  sadul |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 16:00:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575565315446 |
+| Players | 1/8 |
+| Host Name | young girl B |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 16:01:14 |
 
 
