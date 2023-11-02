@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28502575596785862 |
-| Players | 2/7 |
+| Players | 1/7 |
 | Host Name | GG |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 16:38:42 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28502575597921753 |
-| Players | 1/5 |
+| Players | 3/5 |
 | Host Name | Zinc |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 16:40:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575596937778 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Virgo Kyle |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 16:38:52 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 16:37:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575597110200 |
-| Players | 10/15 |
-| Host Name | Бавтика |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 16:39:05 |
+| Lobby ID | 28502575598374160 |
+| Players | 2/24 |
+| Host Name | Dranxzy |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 16:40:37 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575597729681 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | потная nиnька |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 16:39:50 |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GURGEN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 16:40:33 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575598374160 |
-| Players | 2/24 |
-| Host Name | Dranxzy |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 16:40:37 |
 
 
