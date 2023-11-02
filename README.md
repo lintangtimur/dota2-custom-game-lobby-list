@@ -13,15 +13,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575653691545 |
-| Players | 1/10 |
-| Host Name | "Virone" Comrade |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 17:41:22 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28502575659289016 |
 | Players | 4/10 |
 | Host Name | Leinach |
@@ -49,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575660564997 |
-| Players | 7/8 |
-| Host Name | Som1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:47:50 |
+| Lobby ID | 28502575660930852 |
+| Players | 1/8 |
+| Host Name | Missing you happiness |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 17:48:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575659083948 |
-| Players | 7/10 |
+| Players | 5/10 |
 | Host Name | Maglan |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 17:46:27 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575660459271 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | подзалупный |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 17:47:44 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575660552864 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | Elya |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 17:47:49 |
@@ -103,19 +94,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575660913075 |
+| Lobby ID | 28502575660083823 |
 | Players | 3/8 |
-| Host Name | 火神大我 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 17:48:09 |
+| Host Name | Doomovoy |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 17:47:23 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575660930852 |
-| Players | 1/8 |
-| Host Name | Missing you happiness |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 17:48:10 |
+| Lobby ID | 28502575661121010 |
+| Players | 2/8 |
+| Host Name | Ммм Вкусняшка |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 17:48:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575661159016 |
+| Players | 1/15 |
+| Host Name | Dragon |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 17:48:22 |
 
 
