@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923795187466 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Duney |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:45:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923792321802 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | ALL MUTED |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 3, 2023 06:39:57 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 06:47:32 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923795996069 |
-| Players | 1/10 |
-| Host Name | `ÐieHÃRÐ´ |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 06:46:52 |
+| Lobby ID | 28503923796668895 |
+| Players | 3/8 |
+| Host Name | tn |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 06:48:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923795989289 |
-| Players | 2/10 |
-| Host Name | doki |
+| Players | 1/10 |
+| Host Name | William Ereção |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 06:46:51 |
 
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923796327893 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | GORDOX |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 06:47:30 |
@@ -128,30 +128,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 06:47:33 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923796418571 |
-| Players | 1/10 |
-| Host Name | 93 |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 06:47:40 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923796466736 |
-| Players | 4/8 |
-| Host Name | MADx99 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 3, 2023 06:47:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923796556168 |
+| Lobby ID | 28503923796648601 |
 | Players | 5/8 |
-| Host Name | PANZE |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 06:47:56 |
+| Host Name | Stingray |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 06:48:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923796677450 |
+| Players | 1/8 |
+| Host Name | Jivchik |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 06:48:10 |
 
 
