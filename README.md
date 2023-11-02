@@ -20,10 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:09:25 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575441050051 |
+| Players | 1/10 |
+| Host Name | How Do I Play? |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 13:10:23 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -50,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575437316608 |
-| Players | 3/15 |
-| Host Name | Sherlock |
+| Players | 2/15 |
+| Host Name | Blon- |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:03:55 |
 
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575438965103 |
-| Players | 6/24 |
+| Players | 4/24 |
 | Host Name | GeliPat |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 13:06:47 |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575440371128 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 私を救う |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 13:09:13 |
@@ -119,21 +128,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:10:05 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575440964036 |
-| Players | 1/15 |
-| Host Name | bl7770 |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 13:10:14 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575440977054 |
+| Lobby ID | 28502575441070284 |
 | Players | 1/24 |
-| Host Name | Ninja Pirate |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 13:10:15 |
+| Host Name | George |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 13:10:24 |
 
 
