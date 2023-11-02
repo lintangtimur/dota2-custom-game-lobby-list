@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 01:13:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367628889046 |
-| Players | 9/10 |
-| Host Name | МАЙ ГВАЗА |
+| Lobby ID | 28503367633668564 |
+| Players | 1/8 |
+| Host Name | urd |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 01:08:19 |
+| Lobby Creation Time | Friday, November 3, 2023 01:12:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367633937394 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | ►   ƸƿRÖÐȉƂƴ |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, November 3, 2023 01:12:44 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 01:01:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367634187610 |
-| Players | 5/15 |
-| Host Name | cursed |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 3, 2023 01:12:57 |
+| Lobby ID | 28503367634659348 |
+| Players | 2/8 |
+| Host Name | SOSKA |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 01:13:22 |
 
 
 |  | ot3_desert_octet |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367623926120 |
-| Players | 6/8 |
-| Host Name | dracongs |
+| Lobby ID | 28503367634451701 |
+| Players | 1/8 |
+| Host Name | Peregrint |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 01:03:59 |
+| Lobby Creation Time | Friday, November 3, 2023 01:13:11 |
 
 
 |  | ot3_gardens_duo |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367620604105 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | redline |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 01:01:05 |
@@ -148,11 +148,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367627469414 |
-| Players | 8/10 |
-| Host Name | Frost |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 01:07:05 |
+| Lobby ID | 28503367628730006 |
+| Players | 4/10 |
+| Host Name | awful |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 01:08:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -162,51 +162,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | arp |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 01:05:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503367633668564 |
-| Players | 2/8 |
-| Host Name | urd |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 01:12:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367628730006 |
-| Players | 7/10 |
-| Host Name | FuFuFier |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 01:08:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503367634451701 |
-| Players | 1/8 |
-| Host Name | Peregrint |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 01:13:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503367634466228 |
-| Players | 5/8 |
-| Host Name | murachyo |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 01:13:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503367634470207 |
-| Players | 1/8 |
-| Host Name | ZAHARIKSPEEK Mooncake |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 01:13:12 |
 
 
 |  | epic_boss_fight_normal |
@@ -248,18 +203,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503367633088126 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Катя сосалово |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 01:11:59 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28503367634447768 |
-| Players | 2/7 |
-| Host Name | 通hate me as you do通 hurt |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 01:13:11 |
 
 
