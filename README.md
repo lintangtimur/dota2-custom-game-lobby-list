@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367754109095 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | ✪ SOY ALTO, PERO ME DICEN BAJO |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 03:00:01 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367744356438 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | sol y playa |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 02:50:09 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367755431043 |
-| Players | 1/10 |
+| Players | 7/10 |
 | Host Name | FaithPrince |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 03:01:27 |
@@ -122,19 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367755950810 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | #5306 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 03:02:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367755953281 |
-| Players | 4/8 |
-| Host Name | constinty wearin |
+| Lobby ID | 28503367756083527 |
+| Players | 2/15 |
+| Host Name | АХУЙ ПОВНИЙ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 03:02:00 |
+| Lobby Creation Time | Friday, November 3, 2023 03:02:08 |
 
 
 |  | ot3_gardens_duo |
@@ -193,20 +193,92 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367756083527 |
-| Players | 2/15 |
-| Host Name | АХУЙ ПОВНИЙ |
+| Lobby ID | 28503367735098011 |
+| Players | 13/15 |
+| Host Name | В чем Сила,Брат? |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 03:02:08 |
+| Lobby Creation Time | Friday, November 3, 2023 02:41:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367756159976 |
+| Players | 1/8 |
+| Host Name | ZIM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 03:02:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367755167891 |
+| Players | 7/8 |
+| Host Name | moryaz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 03:01:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367756171385 |
+| Players | 1/8 |
+| Host Name | Pain雨天 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 03:02:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367756182954 |
+| Players | 1/15 |
+| Host Name | dead inside |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 3, 2023 03:02:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367725157422 |
+| Players | 4/15 |
+| Host Name | vicjug |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 02:31:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367756217525 |
+| Players | 4/8 |
+| Host Name | twitch.tv/deathwatcher28 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 03:02:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367756175154 |
+| Players | 1/8 |
+| Host Name | Дейнеріс |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 03:02:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367756254628 |
+| Players | 5/8 |
+| Host Name | never listen to anyone |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 3, 2023 03:02:19 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28503367755895517 |
-| Players | 1/5 |
-| Host Name | die |
+| Lobby ID | 28503367756203330 |
+| Players | 2/5 |
+| Host Name | ayano |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 03:01:56 |
+| Lobby Creation Time | Friday, November 3, 2023 03:02:16 |
 
 
 |  | epic_boss_fight_nightmare |
