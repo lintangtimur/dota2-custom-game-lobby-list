@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503367327984927 |
-| Players | 1/10 |
-| Host Name | huy292003 |
+| Lobby ID | 28503367334169124 |
+| Players | 13/24 |
+| Host Name | فوهالا |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 21:41:44 |
+| Lobby Creation Time | Thursday, November 2, 2023 21:45:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367261048979 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Sonnyツ |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 21:04:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367263658478 |
-| Players | 10/24 |
+| Players | 8/24 |
 | Host Name | Kinfold |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 21:05:41 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 21:00:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367339506787 |
-| Players | 9/15 |
-| Host Name | Sasuke Uchiha |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 21:48:06 |
+| Lobby ID | 28503367339694075 |
+| Players | 1/8 |
+| Host Name | ЗдOрOвO,ОТЕЦ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 21:48:12 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367337543768 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | ☠ Kira Yoshikage☢ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 21:47:02 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367339158057 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ты моя вайфу |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 21:47:55 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367339045349 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Ghost Grave |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 21:47:51 |
@@ -131,19 +131,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367339721906 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Ради отчима |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 21:48:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503367339694075 |
-| Players | 2/8 |
-| Host Name | Амбал |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 21:48:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -158,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28503367331593438 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 21:43:43 |
@@ -167,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503367338034305 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | gainysta |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 21:47:18 |
@@ -180,5 +171,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ваня кит кат |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 21:47:11 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28503367340000355 |
+| Players | 1/5 |
+| Host Name | king jagvar |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 21:48:22 |
 
 
