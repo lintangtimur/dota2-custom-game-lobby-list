@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:21:30 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575490674259 |
+| Players | 1/10 |
+| Host Name | Aranis |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 14:23:44 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
@@ -29,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575489865996 |
-| Players | 9/15 |
-| Host Name | cb|fh99^ # have fun :) |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 14:22:39 |
+| Lobby ID | 28502575490766828 |
+| Players | 1/8 |
+| Host Name | PmP Ioli Pamp |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 14:23:52 |
 
 
 |  | ot3_desert_octet |
@@ -59,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575484306418 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 14:15:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575484427462 |
-| Players | 20/24 |
-| Host Name | GapZzz |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 14:15:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575490204964 |
-| Players | 6/8 |
-| Host Name | пипипупу |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 14:23:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | JustCoolGameR |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 14:23:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575490768682 |
+| Players | 1/8 |
+| Host Name | ժӠɾվվ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 14:23:52 |
 
 
