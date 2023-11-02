@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575860360005 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Just subscribe for Linda H |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 20:08:32 |
@@ -14,16 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575913228591 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Alex*_* |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 20:38:19 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575916983002 |
+| Players | 2/10 |
+| Host Name | Ghee |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 20:40:22 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575916121077 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Bri |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 2, 2023 20:39:54 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575909745442 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | XBOX SERIES Z |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 20:36:25 |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575911603378 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Am1le |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 20:37:26 |
@@ -131,9 +140,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575904416828 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Injoker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 20:33:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575908284465 |
+| Players | 6/8 |
+| Host Name | all good |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 20:35:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575916846828 |
+| Players | 5/8 |
+| Host Name | pampers3204 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 20:40:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575916848379 |
+| Players | 7/10 |
+| Host Name | paradise |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 2, 2023 20:40:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575912556065 |
+| Players | 8/10 |
+| Host Name | Мамка Стиффлера |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 2, 2023 20:37:57 |
 
 
