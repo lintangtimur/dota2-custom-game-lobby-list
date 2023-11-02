@@ -20,6 +20,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 19:11:43 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575743344249 |
+| Players | 9/10 |
+| Host Name | Pumpkin night |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 18:53:41 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575766149450 |
+| Players | 9/10 |
+| Host Name | GreShnik |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 19:09:33 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575758151106 |
@@ -50,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575768027992 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | string |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 19:10:50 |
@@ -83,30 +101,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 19:11:21 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575768520202 |
-| Players | 14/15 |
-| Host Name | cb|fh99^ # have fun :) |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 19:11:10 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575769219676 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 19:11:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575769341840 |
-| Players | 8/8 |
-| Host Name | why? |
+| Lobby ID | 28502575769970472 |
+| Players | 4/15 |
+| Host Name | VLADIMIRSKIY_CENTRAL |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 19:11:43 |
+| Lobby Creation Time | Thursday, November 2, 2023 19:12:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575769946003 |
+| Players | 2/10 |
+| Host Name | paranoid |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 19:12:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575770056381 |
+| Players | 1/15 |
+| Host Name | САСЬВА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 19:12:12 |
 
 
