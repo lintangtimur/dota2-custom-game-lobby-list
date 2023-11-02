@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575378879395 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ya fue algoritmos |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:33:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575379350607 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | PINGA_CHUECA |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:33:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575378003488 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:31:46 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 11:31:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575378411728 |
-| Players | 8/10 |
-| Host Name | шифу |
+| Lobby ID | 28502575379460255 |
+| Players | 1/8 |
+| Host Name | ITS_SHOWTIME |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 11:32:25 |
+| Lobby Creation Time | Thursday, November 2, 2023 11:34:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | бруда алфеева |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:34:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575379460255 |
-| Players | 1/8 |
-| Host Name | ITS_SHOWTIME |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 11:34:05 |
 
 
