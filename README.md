@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575468494669 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Winner mindset |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 13:52:51 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575467002660 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | TheBlindShibaInuSexyah |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:50:46 |
@@ -121,10 +121,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575469371088 |
+| Lobby ID | 28502575469459611 |
 | Players | 1/8 |
 | Host Name | Микро-ничтожыч |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 13:54:05 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:54:13 |
 
 
