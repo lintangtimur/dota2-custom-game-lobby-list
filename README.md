@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575266740130 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 08:08:47 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575268477279 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ✪ SOY ALTO, PERO ME DICEN BAJO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:11:55 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575268921937 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | YaMa |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 08:12:43 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575269076785 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | целка на лице |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 08:12:59 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575268984174 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | DuningDota |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 08:12:49 |
@@ -131,9 +131,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575269061703 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | GENIUS (at 4k mmr) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 08:12:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575269097002 |
+| Players | 1/15 |
+| Host Name | Peru 2 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 08:13:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575269166356 |
+| Players | 2/15 |
+| Host Name | мой кайф |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 08:13:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575269169016 |
+| Players | 1/15 |
+| Host Name | emp.error |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 08:13:09 |
 
 
