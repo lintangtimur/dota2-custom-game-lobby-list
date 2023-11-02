@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575655841186 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | I$uss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 17:43:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575655029680 |
-| Players | 14/15 |
-| Host Name | Parkur TV |
+| Lobby ID | 28502575654377998 |
+| Players | 4/10 |
+| Host Name | режу раков на 4 к |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:42:38 |
+| Lobby Creation Time | Thursday, November 2, 2023 17:42:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575654170214 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | 鸡蛋葱花饼 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:41:49 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575654923491 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Інфляція |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:42:32 |
@@ -103,10 +103,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575654377998 |
-| Players | 7/10 |
-| Host Name | PerpleXity_ |
+| Lobby ID | 28502575656617436 |
+| Players | 1/10 |
+| Host Name | Ялбан |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 17:44:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575656651440 |
+| Players | 2/10 |
+| Host Name | Фридоом(хочу татарочку) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:42:01 |
+| Lobby Creation Time | Thursday, November 2, 2023 17:44:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575656722853 |
+| Players | 1/15 |
+| Host Name | Огре падж |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 17:44:15 |
 
 
