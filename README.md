@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367817214919 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Shawn Oakman |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 04:10:08 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367817788965 |
-| Players | 1/15 |
-| Host Name | Stralexkon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:10:51 |
+| Lobby ID | 28503367818892684 |
+| Players | 9/15 |
+| Host Name | Jeweler |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 04:12:11 |
 
 
 |  | ot3_desert_octet |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 04:11:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367818478271 |
-| Players | 2/10 |
-| Host Name | Спи |
+| Lobby ID | 28503367817952390 |
+| Players | 14/15 |
+| Host Name | Marinacle- |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:11:40 |
+| Lobby Creation Time | Friday, November 3, 2023 04:11:02 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367818664128 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | without.remorses |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 04:11:54 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367818524850 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Yo no tengo enemigos |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 04:11:44 |
@@ -122,28 +122,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367818559193 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | after |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 04:11:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367818697233 |
-| Players | 8/10 |
-| Host Name | jora |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:11:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503367818764596 |
-| Players | 1/8 |
-| Host Name | obsessixn |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:12:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -155,22 +137,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 04:12:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367817952390 |
-| Players | 14/15 |
-| Host Name | Rantown |
+| Lobby ID | 28503367818913852 |
+| Players | 2/10 |
+| Host Name | Ain't no place for no hero |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:11:02 |
+| Lobby Creation Time | Friday, November 3, 2023 04:12:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367818583906 |
-| Players | 14/15 |
-| Host Name | LOVE_yandere |
+| Lobby ID | 28503367818973272 |
+| Players | 1/10 |
+| Host Name | lioN. |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 04:12:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503367818975618 |
+| Players | 6/10 |
+| Host Name | rV- |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 04:12:17 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503367818987827 |
+| Players | 4/24 |
+| Host Name | pinkcore |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:11:48 |
+| Lobby Creation Time | Friday, November 3, 2023 04:12:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367818991063 |
+| Players | 1/8 |
+| Host Name | obsessixn |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 04:12:18 |
 
 
 |  | epic_boss_fight_challenger |
