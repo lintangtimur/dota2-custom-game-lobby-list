@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575299366613 |
-| Players | 7/8 |
-| Host Name | PUCP, 3er año, Ing, pepin |
+| Lobby ID | 28502575300714089 |
+| Players | 1/8 |
+| Host Name | Беспредед |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:11:46 |
+| Lobby Creation Time | Thursday, November 2, 2023 09:14:22 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575299387478 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Local Optima |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:11:49 |
