@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341611153948 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | BABY-ROSH (AL) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 07:14:19 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502341611364729 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Shadow |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 07:14:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502341610638423 |
-| Players | 13/15 |
-| Host Name | МИША МАВАШИ |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 07:13:18 |
+| Lobby ID | 28502341610100742 |
+| Players | 7/8 |
+| Host Name | Дауби Даубиев |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 07:12:14 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341609507509 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Helmsman |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 07:11:02 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341611647185 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Копьё Аллаха |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 07:15:18 |
