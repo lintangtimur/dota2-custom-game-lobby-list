@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575391182907 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | take it easy' |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 2, 2023 11:52:26 |
@@ -41,37 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575391660034 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | S |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:53:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575392126607 |
-| Players | 2/15 |
-| Host Name | mamheeen |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 11:53:53 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575390510171 |
-| Players | 15/24 |
-| Host Name | FORSA AAA N |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 11:51:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575390555286 |
-| Players | 6/10 |
-| Host Name | Hellsing...!! |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 11:51:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,12 +56,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 11:53:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575392289569 |
-| Players | 1/15 |
-| Host Name | ОБСОС В СМЕТАНЕ |
+| Lobby ID | 28502575390510171 |
+| Players | 18/24 |
+| Host Name | FORSA AAA N |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 11:54:08 |
+| Lobby Creation Time | Thursday, November 2, 2023 11:51:25 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575392673023 |
+| Players | 1/10 |
+| Host Name | *lrxd氏 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 11:54:43 |
 
 
