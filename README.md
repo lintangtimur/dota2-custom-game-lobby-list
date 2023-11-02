@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575362696765 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Chandideadmoon |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:04:53 |
@@ -86,9 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575364299187 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Vάιŝ♡√•∆ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:07:51 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575364533325 |
+| Players | 4/24 |
+| Host Name | Anttow |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 11:08:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575362092121 |
+| Players | 7/8 |
+| Host Name | Чародей |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 11:03:46 |
 
 
