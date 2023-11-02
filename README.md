@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 08:49:29 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575286353493 |
-| Players | 21/24 |
-| Host Name | freshejka |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 08:45:31 |
+| Lobby ID | 28502575288061512 |
+| Players | 9/10 |
+| Host Name | Please Recommend me |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 08:48:51 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575288311511 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | bjj |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 08:49:20 |
@@ -108,5 +108,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | The Perfect Girl |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:49:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575288826365 |
+| Players | 1/8 |
+| Host Name | JJJJJJ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 08:50:20 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575288798699 |
+| Players | 1/24 |
+| Host Name | ibcyju |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 08:50:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575288831389 |
+| Players | 1/10 |
+| Host Name | GraF044 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 08:50:20 |
 
 
