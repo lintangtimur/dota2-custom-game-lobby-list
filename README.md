@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575509168087 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Mango Three |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:48:04 |
@@ -130,19 +130,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575510024482 |
-| Players | 1/15 |
+| Lobby ID | 28502575510115402 |
+| Players | 3/15 |
 | Host Name | aqaca |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 14:49:12 |
+| Lobby Creation Time | Thursday, November 2, 2023 14:49:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575510021186 |
+| Lobby ID | 28502575510158156 |
 | Players | 1/15 |
 | Host Name | Veselsak |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 14:49:12 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 14:49:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575510151833 |
+| Players | 1/15 |
+| Host Name | Mafiato |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 14:49:22 |
 
 
