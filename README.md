@@ -20,13 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:55:29 |
 
 
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28502575325283790 |
+| Players | 2/7 |
+| Host Name | Kiokasuyetsu |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 09:59:17 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575323199018 |
+| Lobby ID | 28502575325317471 |
 | Players | 1/10 |
 | Host Name | Zeni |
 | Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 09:55:36 |
+| Lobby Creation Time | Thursday, November 2, 2023 09:59:21 |
 
 
 |  | ot3_desert_octet |
@@ -50,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575323133648 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Ninja Pirate |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 09:55:29 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575324107140 |
-| Players | 22/24 |
-| Host Name | kagni |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 09:57:13 |
+| Lobby ID | 28502575324628933 |
+| Players | 7/10 |
+| Host Name | [22-1]bbsexxx |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 09:58:08 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575324184132 |
-| Players | 5/8 |
+| Players | 3/8 |
 | Host Name | MasonLayble |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:57:21 |
@@ -90,23 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LooPer |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:58:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575324628933 |
-| Players | 7/10 |
-| Host Name | [22-1]bbsexxx |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:58:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575325261766 |
-| Players | 1/8 |
-| Host Name | Houseki no Cristo |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:59:15 |
 
 
