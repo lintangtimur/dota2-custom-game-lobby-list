@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28502575356411444 |
-| Players | 4/5 |
+| Players | 3/5 |
 | Host Name | TSUMETAI ON |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:53:13 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575357128560 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Alessia Cara |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 10:54:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575356876445 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | (/_-) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:54:02 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575357082553 |
-| Players | 6/10 |
-| Host Name | Z |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 10:54:24 |
+| Lobby ID | 28502575357819805 |
+| Players | 2/10 |
+| Host Name | Arthas Menethil |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 10:55:45 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575356968028 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Hope |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:54:12 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575356170186 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | My fart doesn't stink |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 10:52:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575357327548 |
-| Players | 9/15 |
-| Host Name | Jimo is Back! |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:54:51 |
+| Lobby ID | 28502575357420389 |
+| Players | 1/10 |
+| Host Name | Error.On.Fire.xD |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 10:55:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575356860294 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | شگاف |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 10:54:01 |
@@ -101,12 +101,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 10:51:32 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575357420389 |
-| Players | 1/10 |
-| Host Name | Error.On.Fire.xD |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 10:55:01 |
+| Lobby ID | 28502575357708782 |
+| Players | 1/15 |
+| Host Name | EGO x Yatoro |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 10:55:33 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575357776221 |
+| Players | 1/24 |
+| Host Name | ROSADITAAAA dx |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 10:55:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575357732041 |
+| Players | 1/8 |
+| Host Name | Jivchik |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 10:55:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575357746812 |
+| Players | 11/15 |
+| Host Name | 76561198335907364 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 10:55:37 |
 
 
