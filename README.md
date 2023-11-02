@@ -29,19 +29,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 18:22:01 |
 
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28502575702265727 |
-| Players | 9/10 |
-| Host Name | pиzдeц |
+| Lobby ID | 28502575703512411 |
+| Players | 1/7 |
+| Host Name | scanip |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 18:24:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575703289079 |
+| Players | 1/8 |
+| Host Name | EzaeZ1 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 18:23:12 |
+| Lobby Creation Time | Thursday, November 2, 2023 18:24:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575702676247 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | ame |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 2, 2023 18:23:31 |
@@ -50,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575701268825 |
-| Players | 3/8 |
-| Host Name | xxx69PussySlayer69xxx |
+| Players | 4/8 |
+| Host Name | СОЛЕВОЙ БЕРСЕРК |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 2, 2023 18:22:26 |
 
@@ -77,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575701612796 |
-| Players | 5/10 |
-| Host Name | 1%Everyday |
+| Players | 4/10 |
+| Host Name | 無明三段突き |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 18:22:42 |
 
