@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575354084170 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | C K I A |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:49:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575353738918 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | gn1da |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 10:48:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575354281512 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | wums |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:49:32 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575353708853 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Chad Chadinson |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:48:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575354910234 |
-| Players | 4/15 |
-| Host Name | veber |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 10:50:37 |
 
 
 |  | ot3_gardens_duo |
@@ -83,12 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 10:50:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575354276588 |
-| Players | 1/8 |
-| Host Name | Järvi |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 10:49:32 |
+| Lobby ID | 28502575355254779 |
+| Players | 1/24 |
+| Host Name | Zykan Sila |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 10:51:13 |
 
 
