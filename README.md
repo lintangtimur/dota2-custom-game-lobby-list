@@ -14,10 +14,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575507665196 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Mental Breakdown |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:46:07 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575510674979 |
+| Players | 1/10 |
+| Host Name | -Gs- Mocap-Falcon-Cap |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 14:50:03 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575510771381 |
+| Players | 2/5 |
+| Host Name | KavapsCXZ> |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 14:50:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -38,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:48:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575509567618 |
-| Players | 5/8 |
-| Host Name | Keristrasz |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:48:36 |
+| Lobby ID | 28502575510158156 |
+| Players | 6/15 |
+| Host Name | Veselsak |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 14:49:23 |
 
 
 |  | ot3_desert_octet |
@@ -94,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575505430157 |
-| Players | 14/15 |
-| Host Name | EL HOMBRE SIDA !! |
+| Lobby ID | 28502575510151833 |
+| Players | 2/15 |
+| Host Name | Mafiato |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 14:43:11 |
+| Lobby Creation Time | Thursday, November 2, 2023 14:49:22 |
 
 
 |  | ot3_gardens_duo |
@@ -119,30 +137,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:45:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575510151833 |
-| Players | 2/15 |
-| Host Name | Mafiato |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 14:49:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575510158156 |
-| Players | 2/15 |
-| Host Name | Veselsak |
+| Lobby ID | 28502575510736165 |
+| Players | 3/8 |
+| Host Name | Кмс по куни |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:49:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575510115402 |
-| Players | 14/15 |
-| Host Name | aqaca |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 14:49:19 |
+| Lobby Creation Time | Thursday, November 2, 2023 14:50:08 |
 
 
