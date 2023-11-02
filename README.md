@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367238399534 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | 希望 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 20:53:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575936738490 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Puss in Pussy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 20:51:07 |
@@ -63,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Winline.выиграл очки |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 20:51:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503367239011039 |
+| Players | 1/10 |
+| Host Name | камбек в таверну |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 20:53:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575932531629 |
+| Players | 1/8 |
+| Host Name | i carried more animals than noah |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 20:48:50 |
 
 
 |  | epic_boss_fight_nightmare |
