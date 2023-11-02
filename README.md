@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575364533325 |
-| Players | 6/24 |
-| Host Name | Anttow |
+| Players | 4/24 |
+| Host Name | Martin-Luther-King. |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:08:17 |
 
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575363322328 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | Tờ Ri |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:06:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575362719582 |
-| Players | 1/8 |
-| Host Name | TwentyOneInch |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 11:04:56 |
+| Lobby ID | 28502575361609781 |
+| Players | 23/24 |
+| Host Name | -♣ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 11:02:52 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575357420389 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | Error.On.Fire.xD |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:55:01 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575364299187 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Vάιŝ♡√•∆ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:07:51 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575364797713 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | DANICH |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:08:46 |
