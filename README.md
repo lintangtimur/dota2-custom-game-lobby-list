@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 04:14:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367819653656 |
-| Players | 1/8 |
-| Host Name | EzaeZ1 |
+| Lobby ID | 28503367821282277 |
+| Players | 2/10 |
+| Host Name | J0y. |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:13:06 |
+| Lobby Creation Time | Friday, November 3, 2023 04:15:05 |
 
 
 |  | ot3_gardens_duo |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367820667520 |
-| Players | 9/10 |
-| Host Name | Злая волчица |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:14:19 |
+| Lobby ID | 28503367820141969 |
+| Players | 6/10 |
+| Host Name | Uwun´t |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 04:13:41 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367820962005 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Gasnápido |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 04:14:41 |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 04:13:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367821288725 |
-| Players | 1/15 |
-| Host Name | giant space crab |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 04:15:05 |
+| Lobby ID | 28503367821381864 |
+| Players | 3/8 |
+| Host Name | GRACIAS JUANCA POR LAS CATEDRAS |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 04:15:12 |
 
 
 |  | epic_boss_fight_challenger |
@@ -135,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Aerial Terrestrial Fowl |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 03:49:40 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28503367817393660 |
-| Players | 9/10 |
-| Host Name | vts77 |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 04:10:22 |
 
 
