@@ -38,6 +38,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:39:46 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575460438612 |
+| Players | 2/5 |
+| Host Name | Wember |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 13:41:10 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
@@ -47,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575458893833 |
-| Players | 3/8 |
-| Host Name | Juan Bolsa |
+| Lobby ID | 28502575460093643 |
+| Players | 4/10 |
+| Host Name | Moises |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 13:38:50 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:40:39 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575456903360 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | PND.Wilarson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:35:48 |
@@ -86,27 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575446811565 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | waiting for death |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 13:19:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575460093643 |
-| Players | 4/10 |
-| Host Name | Moises |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 13:40:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575459791352 |
-| Players | 14/15 |
-| Host Name | Илья |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 13:40:12 |
 
 
