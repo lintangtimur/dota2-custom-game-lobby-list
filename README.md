@@ -2,24 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502575409452055 |
-| Players | 1/5 |
-| Host Name | Oni |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 12:20:13 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575409461782 |
-| Players | 1/10 |
-| Host Name | bodak |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 12:20:14 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
@@ -32,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575407483488 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | renegado |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:17:15 |
@@ -59,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575408050376 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | kol_fnl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 12:18:05 |
