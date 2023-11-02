@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 10:56:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575358515135 |
-| Players | 7/10 |
-| Host Name | Tucan Mistico :v |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:57:00 |
+| Lobby ID | 28502575359493551 |
+| Players | 1/15 |
+| Host Name | Caramelbear |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 10:58:47 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575356968028 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Hope |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:54:12 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575357420389 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Error.On.Fire.xD |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:55:01 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575358290014 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Ashor |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 10:56:36 |
@@ -95,36 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575358469365 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | penguinz0 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 10:56:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575358204727 |
-| Players | 2/8 |
-| Host Name | ﮩﮩDΐҜeℽ٨ـ❥❤️ﮩ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:56:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575358605180 |
-| Players | 13/15 |
-| Host Name | Zé Maria |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:57:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575359302102 |
-| Players | 5/15 |
-| Host Name | 8 SEMANAS PARA NAVIDAD |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:58:26 |
 
 
