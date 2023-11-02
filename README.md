@@ -14,19 +14,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575577758390 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | пасха ивановна |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 16:16:01 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575577910277 |
-| Players | 9/10 |
-| Host Name | take it easy' |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 16:16:12 |
 
 
 |  | epic_boss_fight_challenger |
@@ -40,20 +31,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28502575581077188 |
+| Lobby ID | 28502575581247485 |
 | Players | 1/5 |
 | Host Name | . Skye |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 16:19:56 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 16:20:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575581010249 |
-| Players | 4/8 |
-| Host Name | Отдамся за шаурму |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 16:19:51 |
+| Lobby ID | 28502575581208181 |
+| Players | 4/10 |
+| Host Name | Господь |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 2, 2023 16:20:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575580536431 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | 2rik |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 16:19:18 |
@@ -95,36 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575580922951 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Godjo |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 16:19:45 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575580938071 |
-| Players | 1/8 |
-| Host Name | ээDotaтэгжшаадгүшд |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 16:19:46 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575581076860 |
+| Lobby ID | 28502575581093489 |
 | Players | 2/10 |
-| Host Name | главный по сисянам(недеган) |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 2, 2023 16:19:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575581080934 |
-| Players | 4/8 |
-| Host Name | Wuazan |
+| Host Name | Kachow |
 | Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 16:19:56 |
+| Lobby Creation Time | Thursday, November 2, 2023 16:19:57 |
 
 
