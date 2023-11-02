@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575507665196 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Mental Breakdown |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:46:07 |
@@ -29,6 +29,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:45:35 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575509340161 |
+| Players | 1/10 |
+| Host Name | 90 |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 14:48:18 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
@@ -38,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575508840497 |
-| Players | 7/8 |
-| Host Name | Кмс по куни |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 14:47:39 |
+| Lobby ID | 28502575509168087 |
+| Players | 7/24 |
+| Host Name | Mango Three |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 14:48:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575492213855 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | roswel |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 14:25:49 |
@@ -103,37 +112,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575508489478 |
-| Players | 3/8 |
-| Host Name | СЫН |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 14:47:11 |
+| Lobby ID | 28502575507620451 |
+| Players | 4/8 |
+| Host Name | Wolfram |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 14:46:04 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575508503247 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | боцман |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 14:47:13 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575509168087 |
-| Players | 3/24 |
-| Host Name | Mango Three |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 14:48:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575507620451 |
-| Players | 7/8 |
-| Host Name | Wolfram |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 14:46:04 |
 
 
