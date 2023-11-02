@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367774599379 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Papi te vas< |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 03:21:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367774318564 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ♥Miul♥ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 03:21:41 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 03:20:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367774069137 |
-| Players | 1/15 |
-| Host Name | AWA15- |
+| Lobby ID | 28503367774878463 |
+| Players | 4/8 |
+| Host Name | _K_ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 03:21:25 |
+| Lobby Creation Time | Friday, November 3, 2023 03:22:18 |
 
 
 |  | ot3_gardens_duo |
@@ -146,24 +146,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 03:19:32 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503367770998584 |
-| Players | 23/24 |
-| Host Name | A veces Amanda |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 03:18:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503367774620920 |
-| Players | 11/15 |
-| Host Name | Dekant |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 03:22:01 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367774768738 |
@@ -175,19 +157,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367774760918 |
-| Players | 2/10 |
-| Host Name | inVincible |
+| Lobby ID | 28503367774821793 |
+| Players | 1/10 |
+| Host Name | Матье Бал |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 03:22:10 |
+| Lobby Creation Time | Friday, November 3, 2023 03:22:14 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503367772254169 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Катя сосалово |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 03:19:26 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28503367774949698 |
+| Players | 2/7 |
+| Host Name | :3 |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 03:22:22 |
 
 
