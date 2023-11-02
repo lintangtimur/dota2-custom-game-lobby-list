@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575767112756 |
-| Players | 5/10 |
+| Players | 1/10 |
 | Host Name | 𒇫𒄆 Skvirtoslav 𒂝𒀱 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 19:10:12 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575774656529 |
-| Players | 7/8 |
-| Host Name | Ряд Фурье |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 19:15:15 |
+| Lobby ID | 28502575775295047 |
+| Players | 2/8 |
+| Host Name | 永遠 |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 19:15:40 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575774113755 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | WASD |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 19:14:53 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575775748001 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | 風は予告なく吹く |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 19:15:58 |
@@ -137,21 +137,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 19:15:41 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575775381222 |
-| Players | 9/15 |
-| Host Name | Пузожитель |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 19:15:44 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575775295047 |
-| Players | 2/8 |
-| Host Name | 永遠 |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 19:15:40 |
+| Lobby ID | 28502575776204847 |
+| Players | 3/8 |
+| Host Name | Alikhan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 19:16:16 |
 
 
