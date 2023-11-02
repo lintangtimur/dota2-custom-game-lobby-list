@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367582610469 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Дагер на силу |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 00:30:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503367582799022 |
-| Players | 7/8 |
-| Host Name | miniCTO9IK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 3, 2023 00:30:24 |
+| Lobby ID | 28503367575464530 |
+| Players | 23/24 |
+| Host Name | wasonbeat. |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 00:24:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367568746486 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 00:19:25 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367578253164 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Martin The Flower 🏵 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 3, 2023 00:26:48 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367579032674 |
-| Players | 21/24 |
-| Host Name | Butterfly |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 00:27:25 |
+| Lobby ID | 28503367583167798 |
+| Players | 14/15 |
+| Host Name | LEGION COMMANDER |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 3, 2023 00:30:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367583438249 |
+| Lobby ID | 28503367583190593 |
 | Players | 1/8 |
-| Host Name | MaminaRadost |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 3, 2023 00:30:54 |
+| Host Name | Lorenzo el Gallo (Cuti) |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 00:30:42 |
 
 
 |  | ot3_necropolis_ffa |
@@ -139,11 +139,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367582690700 |
-| Players | 1/8 |
-| Host Name | Nikita |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 00:30:19 |
+| Lobby ID | 28503367583213510 |
+| Players | 5/8 |
+| Host Name | 🗼 🗾 🌀 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 3, 2023 00:30:43 |
 
 
 |  | ot3_desert_octet |
@@ -162,51 +162,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sparatun o.0 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 3, 2023 00:30:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503367583167798 |
-| Players | 10/15 |
-| Host Name | LEGION COMMANDER |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 3, 2023 00:30:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503367583213510 |
-| Players | 3/8 |
-| Host Name | 🗼 🗾 🌀 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 3, 2023 00:30:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503367583190593 |
-| Players | 1/8 |
-| Host Name | Lorenzo el Gallo (Cuti) |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 00:30:42 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28503367572376386 |
-| Players | 9/10 |
-| Host Name | Rotund'jere |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 00:22:13 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28503367582890508 |
-| Players | 2/5 |
-| Host Name | PickUp |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 00:30:28 |
 
 
 |  | epic_boss_fight_normal |
