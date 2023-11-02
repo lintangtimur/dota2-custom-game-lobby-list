@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367765166233 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | харниш лоукик |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 03:11:49 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367765117088 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Solo Leveling |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 03:11:46 |
@@ -155,13 +155,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 03:11:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367765261841 |
-| Players | 1/8 |
-| Host Name | Cataclysm |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 03:11:55 |
+| Lobby ID | 28503367765286771 |
+| Players | 1/10 |
+| Host Name | Ox |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 03:11:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -184,11 +184,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28503367763915191 |
+| Lobby ID | 28503367765319912 |
 | Players | 1/5 |
-| Host Name | Олежа криворуков |
+| Host Name | 通hate me as you do通 hurt |
 | Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 03:10:29 |
+| Lobby Creation Time | Friday, November 3, 2023 03:11:59 |
 
 
 |  | epic_boss_fight_challenger |
