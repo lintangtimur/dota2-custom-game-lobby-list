@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575299670139 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Lux |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:12:22 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575297938567 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Dohman32 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 09:08:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575300968616 |
-| Players | 2/10 |
-| Host Name | no chat and vois |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 09:14:53 |
+| Lobby ID | 28502575301078144 |
+| Players | 1/15 |
+| Host Name | Людмила Петровна |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 09:15:06 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575300760602 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | MalaHierba |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:14:28 |
@@ -77,18 +77,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575299956038 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Es un Elissir xD |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:12:55 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575301057395 |
+| Players | 3/10 |
+| Host Name | чел |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 09:15:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575301120064 |
+| Players | 1/8 |
+| Host Name | Where ya momz at |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 09:15:11 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575301007875 |
+| Lobby ID | 28502575301052865 |
 | Players | 1/15 |
-| Host Name | Людмила Петровна |
+| Host Name | Fanya |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 09:14:58 |
+| Lobby Creation Time | Thursday, November 2, 2023 09:15:03 |
 
 
