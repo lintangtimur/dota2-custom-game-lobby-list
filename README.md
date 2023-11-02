@@ -15,9 +15,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28502575488442466 |
 | Players | 1/10 |
-| Host Name | Barry Delight |
+| Host Name | ꧁༒☬₣ℜøźєη•₣ℓα₥єֆ☬༒꧂ |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 14:20:43 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575489020464 |
+| Players | 1/10 |
+| Host Name | eue |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 14:21:30 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575489104608 |
+| Players | 3/10 |
+| Host Name | Raging.Hope |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 14:21:37 |
 
 
 |  | ot3_jungle_quintet |
@@ -40,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575488461008 |
-| Players | 2/10 |
-| Host Name | _H1BoT_2 |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 14:20:44 |
+| Lobby ID | 28502575488909801 |
+| Players | 3/10 |
+| Host Name | 123 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 14:21:21 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575484427462 |
-| Players | 9/24 |
+| Players | 15/24 |
 | Host Name | GapZzz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:15:17 |
@@ -86,27 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575488617156 |
-| Players | 2/15 |
+| Players | 11/15 |
 | Host Name | ꃥꈤꊐ |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 14:20:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575488621786 |
-| Players | 7/8 |
-| Host Name | Микро-ничтожыч |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:20:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575488594245 |
-| Players | 1/15 |
-| Host Name | GhOUL |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 14:20:55 |
 
 
