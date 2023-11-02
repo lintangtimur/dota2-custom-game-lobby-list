@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:06:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575441906792 |
-| Players | 14/15 |
-| Host Name | ПРЯНЯ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 13:11:49 |
+| Lobby ID | 28502575443544433 |
+| Players | 1/24 |
+| Host Name | RiftBreaker |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 13:14:31 |
 
 
 |  | ot3_desert_octet |
@@ -95,18 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575442186750 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Netske |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 13:12:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575443544433 |
-| Players | 1/24 |
-| Host Name | RiftBreaker |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 13:14:31 |
+| Lobby ID | 28502575443967511 |
+| Players | 1/15 |
+| Host Name | Тайно Дёрнул |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 13:15:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575443982793 |
+| Players | 1/15 |
+| Host Name | Розйоб |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 13:15:15 |
 
 
