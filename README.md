@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575516789945 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 14:58:06 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575518610603 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | krakoonity |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 15:00:34 |
