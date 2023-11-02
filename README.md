@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575475341675 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | boombox |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 14:02:35 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575465702325 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Kotarō痛 |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:48:55 |
@@ -92,12 +92,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:52:14 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575476452749 |
+| Players | 1/10 |
+| Host Name | Optimal |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 14:04:10 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575476396906 |
+| Lobby ID | 28502575476487755 |
 | Players | 1/24 |
 | Host Name | Zero. |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:04:05 |
+| Lobby Creation Time | Thursday, November 2, 2023 14:04:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575476524092 |
+| Players | 1/10 |
+| Host Name | My soul is dead |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 14:04:16 |
 
 
