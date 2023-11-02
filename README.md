@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367820141969 |
-| Players | 6/10 |
-| Host Name | Uwun´t |
+| Players | 8/10 |
+| Host Name | reactive someone |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 04:13:41 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367803026993 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | arda89 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 03:53:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367817304937 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 04:10:15 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367820962005 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Gasnápido |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 04:14:41 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367819771326 |
-| Players | 7/8 |
-| Host Name | moryaz |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:13:15 |
+| Lobby ID | 28503367821381864 |
+| Players | 3/8 |
+| Host Name | GRACIAS JUANCA POR LAS CATEDRAS |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 04:15:12 |
 
 
 |  | ot3_jungle_quintet |
@@ -119,13 +119,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 04:13:44 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367821488650 |
+| Players | 1/15 |
+| Host Name | silivon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 04:15:20 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367821381864 |
-| Players | 3/8 |
-| Host Name | GRACIAS JUANCA POR LAS CATEDRAS |
+| Lobby ID | 28503367821499843 |
+| Players | 1/8 |
+| Host Name | даун |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 04:15:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367821521751 |
+| Players | 1/15 |
+| Host Name | Cyanide and Happiness |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 04:15:12 |
+| Lobby Creation Time | Friday, November 3, 2023 04:15:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367821554556 |
+| Players | 1/15 |
+| Host Name | DOTA 3 |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 04:15:25 |
 
 
 |  | epic_boss_fight_challenger |
