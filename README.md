@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:30:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575647972125 |
-| Players | 7/8 |
-| Host Name | Asuna Yuki |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 17:35:49 |
+| Lobby ID | 28502575650374241 |
+| Players | 1/10 |
+| Host Name | Metraflex |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 17:38:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575648394998 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | fate/ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:36:14 |
@@ -119,12 +119,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:37:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575650374241 |
-| Players | 1/10 |
-| Host Name | Metraflex |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 17:38:10 |
+| Lobby ID | 28502575650400236 |
+| Players | 1/15 |
+| Host Name | gglol |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 17:38:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575650568629 |
+| Players | 2/8 |
+| Host Name | banan |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 17:38:22 |
 
 
