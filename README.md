@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341603285911 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Muy Malo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 06:58:19 |
@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502341604079510 |
+| Lobby ID | 28502341604151996 |
 | Players | 3/8 |
-| Host Name | down kids cemetery |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 06:59:52 |
+| Host Name | just die aready |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 07:00:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341603572327 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | ElGO TITO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 06:58:52 |
@@ -65,28 +65,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 06:59:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502341603039566 |
-| Players | 7/8 |
-| Host Name | Stringer |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 06:57:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502341603638293 |
-| Players | 1/15 |
-| Host Name | Quinque |
+| Lobby ID | 28502341604183201 |
+| Players | 2/10 |
+| Host Name | ♥ Hentai Machine ♥ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 06:59:00 |
+| Lobby Creation Time | Thursday, November 2, 2023 07:00:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502341604182060 |
+| Players | 1/24 |
+| Host Name | Ogre Achiever |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 07:00:05 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341603465801 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | レσяąפîиε |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 06:58:40 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341603667951 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | vicjug |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 06:59:04 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341603508636 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 06:58:45 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341603974552 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | I ONCE SHAGGED A GOAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 06:59:40 |
@@ -137,31 +137,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 06:59:58 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502341604151996 |
-| Players | 3/8 |
-| Host Name | just die aready |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 07:00:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502341604183201 |
-| Players | 2/10 |
-| Host Name | ♥ Hentai Machine ♥ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 07:00:05 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502341604182060 |
+| Lobby ID | 28502341604283361 |
 | Players | 1/24 |
-| Host Name | Ogre Achiever |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 07:00:05 |
+| Host Name | WH |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 07:00:19 |
 
 
 |  | epic_boss_fight_nightmare |
