@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575398371371 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Seo Lee Hin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:03:30 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:02:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575397212083 |
-| Players | 6/8 |
-| Host Name | Jivchik |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 12:01:45 |
+| Lobby ID | 28502575396874485 |
+| Players | 13/24 |
+| Host Name | 不二周助 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 12:01:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575395726038 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:59:28 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575398525251 |
-| Players | 7/15 |
-| Host Name | Lord Valdomero |
+| Players | 3/15 |
+| Host Name | TT--TT.VP |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:03:45 |
 
@@ -74,21 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:00:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575396874485 |
-| Players | 7/24 |
-| Host Name | 不二周助 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 12:01:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575398803464 |
-| Players | 1/8 |
-| Host Name | Shulton 2.0 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 12:04:11 |
+| Lobby ID | 28502575398935627 |
+| Players | 2/10 |
+| Host Name | ya toxic + critic |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 12:04:23 |
 
 
