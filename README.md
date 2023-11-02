@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575376859188 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Soda popinski |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:29:56 |
@@ -20,22 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 11:36:53 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575384608651 |
-| Players | 9/10 |
-| Host Name | STFU |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 11:42:13 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575382589564 |
-| Players | 1/24 |
-| Host Name | Stayler |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 11:39:02 |
+| Lobby ID | 28502575385318133 |
+| Players | 1/8 |
+| Host Name | CHILINGUS |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 11:43:21 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575382734732 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Kir-‘๑’-by༊*·˚ |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:39:16 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -67,26 +58,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575384252644 |
-| Players | 6/10 |
-| Host Name | labe |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 11:41:40 |
+| Lobby ID | 28502575384736420 |
+| Players | 7/10 |
+| Host Name | Zeraus♥ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 11:42:25 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575384626289 |
-| Players | 5/24 |
-| Host Name | TiTi_BoY |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 11:42:15 |
+| Lobby ID | 28502575385500146 |
+| Players | 1/8 |
+| Host Name | xd |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 11:43:38 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575384267723 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Adrenaline Junkie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:41:41 |
@@ -104,45 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575384504716 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Shroom |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 11:42:03 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575384446988 |
-| Players | 11/15 |
-| Host Name | Sstine |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 11:41:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575384563157 |
-| Players | 2/24 |
-| Host Name | Solo estoy pasando el rato |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 11:42:09 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575384701998 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | DANICH |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:42:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575384736420 |
-| Players | 3/10 |
-| Host Name | Zeraus♥ |
+| Lobby ID | 28502575384563157 |
+| Players | 5/24 |
+| Host Name | Solo estoy pasando el rato |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 11:42:25 |
+| Lobby Creation Time | Thursday, November 2, 2023 11:42:09 |
 
 
