@@ -56,37 +56,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 08:03:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575264292081 |
-| Players | 1/24 |
-| Host Name | Dohman32 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 08:04:18 |
+| Lobby ID | 28502575264780564 |
+| Players | 1/15 |
+| Host Name | ByeDeGoo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 08:05:12 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575264423736 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | everylathing hate???? xdxd |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 08:04:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575264523866 |
-| Players | 7/15 |
-| Host Name | Cry- |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 08:04:43 |
+| Lobby ID | 28502575264808895 |
+| Players | 4/8 |
+| Host Name | ЛЁГКОСТЬ БЫТИЯ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 08:05:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575264205499 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Toshiro... |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:04:08 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575264237989 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | animepic |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:04:12 |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ebanashka |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 08:05:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575264794184 |
+| Players | 1/15 |
+| Host Name | Joombler |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 08:05:13 |
 
 
