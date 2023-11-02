@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923794174545 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | 暁 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:43:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923794245035 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Naranja |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:43:33 |
@@ -50,45 +50,72 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923792321802 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | ALL MUTED |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 3, 2023 06:39:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923794472749 |
-| Players | 4/10 |
-| Host Name | Run Yo Pockets |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 06:43:59 |
+| Lobby ID | 28503923795364080 |
+| Players | 4/15 |
+| Host Name | Ice |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 06:45:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923792751319 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | RiftBreaker |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 06:40:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923795054703 |
-| Players | 1/8 |
-| Host Name | тимоха шо ты твор |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:45:06 |
+| Lobby ID | 28503923795455445 |
+| Players | 1/10 |
+| Host Name | zzzz |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 06:45:51 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923794304989 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | <Exanime> |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:43:40 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503923795187466 |
+| Players | 3/24 |
+| Host Name | Duney |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 06:45:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923795335875 |
+| Players | 7/8 |
+| Host Name | Ruby da Cherry |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 06:45:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923795347623 |
+| Players | 1/8 |
+| Host Name | Menace2Society |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 06:45:39 |
 
 
