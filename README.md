@@ -11,6 +11,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 18:34:26 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575717832668 |
+| Players | 3/5 |
+| Host Name | Inostranec |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 18:35:11 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575717990203 |
+| Players | 1/5 |
+| Host Name | MEUMACHO |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 18:35:18 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575717175048 |
@@ -31,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575716815424 |
-| Players | 9/15 |
-| Host Name | Yafu |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 18:34:25 |
+| Lobby ID | 28502575717675115 |
+| Players | 6/15 |
+| Host Name | Onis |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 18:35:04 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575716868035 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Missing you happiness |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 18:34:27 |
@@ -86,18 +104,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575717086930 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 18:34:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575717675115 |
-| Players | 1/15 |
-| Host Name | Onis |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 18:35:04 |
+| Lobby ID | 28502575717956057 |
+| Players | 2/8 |
+| Host Name | в запое с 12 лет |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 18:35:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575717975820 |
+| Players | 1/10 |
+| Host Name | Curtuc |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 18:35:17 |
 
 
