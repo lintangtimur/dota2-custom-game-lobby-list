@@ -11,19 +11,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:55:02 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575322900714 |
-| Players | 1/5 |
-| Host Name | SINLESS |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 09:55:04 |
+| Lobby ID | 28502575323138316 |
+| Players | 1/10 |
+| Host Name | Loading |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 09:55:29 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575323199018 |
+| Players | 1/10 |
+| Host Name | Zeni |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 09:55:36 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575323267536 |
+| Players | 1/10 |
+| Host Name | ~Necr0lytuS.ILC |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 09:55:43 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575321667284 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Plastic Pop can |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:52:53 |
@@ -31,26 +49,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575321785378 |
-| Players | 20/24 |
-| Host Name | 123 |
+| Lobby ID | 28502575322444178 |
+| Players | 6/24 |
+| Host Name | no sé qué es ganar |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:53:06 |
+| Lobby Creation Time | Thursday, November 2, 2023 09:54:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575316418114 |
-| Players | 7/10 |
-| Host Name | ahUO |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 09:43:41 |
+| Lobby ID | 28502575323133648 |
+| Players | 3/15 |
+| Host Name | Ninja Pirate |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 09:55:29 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575321627539 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | MasonLayble |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:52:49 |
@@ -59,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575321208220 |
-| Players | 2/24 |
-| Host Name | DarkMoon |
+| Players | 1/24 |
+| Host Name | Lales |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:52:06 |
 
@@ -68,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -94,20 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575321028648 |
-| Players | 7/8 |
-| Host Name | Tamborsito |
+| Lobby ID | 28502575323098452 |
+| Players | 5/8 |
+| Host Name | BARON |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:51:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575323000673 |
-| Players | 2/10 |
-| Host Name | MrBuba |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 09:55:14 |
+| Lobby Creation Time | Thursday, November 2, 2023 09:55:25 |
 
 
 |  | ot3_gardens_duo |
@@ -119,21 +128,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:55:05 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575322444178 |
-| Players | 1/24 |
-| Host Name | no sé qué es ganar |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:54:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575323076829 |
-| Players | 1/15 |
-| Host Name | Ninja Pirate |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 09:55:23 |
+| Lobby ID | 28502575323376155 |
+| Players | 2/10 |
+| Host Name | MrBuba |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 09:55:55 |
 
 
