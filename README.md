@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 11:29:56 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575376177566 |
-| Players | 4/5 |
-| Host Name | as |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 11:28:49 |
+| Lobby ID | 28502575377967455 |
+| Players | 2/10 |
+| Host Name | DRELISTY์ |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 11:31:43 |
 
 
 |  | epic_boss_fight_normal |
@@ -29,19 +29,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 11:31:32 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575377967455 |
-| Players | 2/10 |
-| Host Name | DRELISTY์ |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 11:31:43 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575377255269 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | -♫HiroE♫- |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:30:34 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575376789175 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | MiniSoGood |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:29:49 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575378009648 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | [♂+♂=♥]6LyaDuKtoR |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:31:47 |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:31:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575378139345 |
+| Players | 1/15 |
+| Host Name | zxceblan |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 11:31:59 |
 
 
