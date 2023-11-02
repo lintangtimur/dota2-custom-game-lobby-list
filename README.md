@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575628667744 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | destroying myself |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 17:15:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575628335163 |
-| Players | 4/15 |
+| Players | 11/15 |
 | Host Name | w40 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 17:15:21 |
@@ -81,5 +81,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | rafzZ~ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 17:14:37 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575629089639 |
+| Players | 1/24 |
+| Host Name | OpenAI(Hank Bot) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 17:16:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575629184740 |
+| Players | 1/8 |
+| Host Name | I CAN HOST OVERTHROW !!! |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 17:16:17 |
 
 
