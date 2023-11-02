@@ -15,9 +15,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28502575495978283 |
 | Players | 4/10 |
-| Host Name | DNS |
+| Host Name | xerub |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 14:30:48 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28502575502402128 |
+| Players | 2/7 |
+| Host Name | Flexflouzen |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 14:39:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575501848231 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Мир Труд Swag |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 14:38:31 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575501497482 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Dragon |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 14:38:03 |
@@ -95,19 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575502080213 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Микро-ничтожыч |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 14:38:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575502007181 |
-| Players | 1/8 |
-| Host Name | ads |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 14:38:44 |
+| Lobby ID | 28502575502256400 |
+| Players | 2/10 |
+| Host Name | OneWay ༼つ ◕_◕ ༽つ |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 14:39:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -117,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Netske |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 14:38:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575502251707 |
-| Players | 1/24 |
-| Host Name | imnotfat |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:39:03 |
 
 
