@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575462469759 |
+| Lobby ID | 28502575462655350 |
 | Players | 1/10 |
-| Host Name | ἱεγλύ |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 13:44:14 |
+| Host Name | Crazy-Man |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 13:44:31 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575462655350 |
+| Lobby ID | 28502575462989124 |
 | Players | 1/10 |
-| Host Name | Crazy-Man |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 13:44:31 |
+| Host Name | ἱεγλύ |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 13:45:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575461296093 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | ₭۞ђ ☯ ҜÆ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:42:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575461721601 |
-| Players | 7/8 |
-| Host Name | kai / blackreaper |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 13:43:06 |
+| Lobby ID | 28502575462861081 |
+| Players | 1/15 |
+| Host Name | 天台山暴击王 |
+| Region | PWTELECOMZHEJIANG |
+| Lobby Creation Time | Thursday, November 2, 2023 13:44:49 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575462350784 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 45¿shadow pool¿ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:44:03 |
@@ -112,19 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575462861081 |
-| Players | 1/15 |
-| Host Name | 天台山暴击王 |
-| Region | PWTELECOMZHEJIANG |
-| Lobby Creation Time | Thursday, November 2, 2023 13:44:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575462903211 |
+| Lobby ID | 28502575463086736 |
 | Players | 1/15 |
 | Host Name | 毒蛇 |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 13:44:53 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:45:09 |
 
 
