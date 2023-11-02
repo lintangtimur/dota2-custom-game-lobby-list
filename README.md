@@ -29,6 +29,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:16:05 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575486524784 |
+| Players | 1/10 |
+| Host Name | dancing with death |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 14:18:08 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
@@ -38,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575485458149 |
-| Players | 11/15 |
-| Host Name | archgivi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 14:16:41 |
+| Lobby ID | 28502575486633524 |
+| Players | 1/10 |
+| Host Name | Moises |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 14:18:17 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575482094804 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | La Pixiris |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 14:12:04 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575484647185 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | TheBlindShibaInuSexyah |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:15:35 |
@@ -110,21 +119,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:14:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575485547438 |
-| Players | 9/10 |
-| Host Name | Петя Шалопай |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 14:16:48 |
+| Lobby ID | 28502575486554744 |
+| Players | 1/15 |
+| Host Name | Licht |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 14:18:11 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575486506184 |
-| Players | 1/10 |
-| Host Name | 1mistake=lose |
+| Players | 4/10 |
+| Host Name | Za3k |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 14:18:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575486543534 |
+| Players | 1/8 |
+| Host Name | TE MATO Y ME ESCAPO. |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 14:18:10 |
 
 
