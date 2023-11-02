@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575313214365 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | ►PSG.LGD 愛我 |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:37:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575313803385 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Logen |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:39:00 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575314343269 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | an? idea |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 09:39:57 |
@@ -122,27 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575313942360 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Diamonds & Dancefloor |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:39:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575314372550 |
-| Players | 2/8 |
-| Host Name | Зачем ты умерла??? |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 09:40:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575314375475 |
-| Players | 3/8 |
-| Host Name | boby |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 09:40:01 |
+| Lobby ID | 28502575314390640 |
+| Players | 1/24 |
+| Host Name | kels |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 09:40:03 |
 
 
