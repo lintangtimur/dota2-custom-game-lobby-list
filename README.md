@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575758374937 |
-| Players | 9/10 |
-| Host Name | Мц кальмар |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 19:04:14 |
+| Lobby ID | 28502575763791530 |
+| Players | 4/10 |
+| Host Name | ( °Д°) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 19:07:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28502575762185580 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | . Skye |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 19:06:52 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28502575763791530 |
-| Players | 1/10 |
-| Host Name | ( °Д°) |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 19:07:57 |
+| Lobby ID | 28502575764307001 |
+| Players | 3/5 |
+| Host Name | Baby Don't Hurt Me |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 2, 2023 19:08:18 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575763079291 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Triplesixgods |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 19:07:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575755553160 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | 大川岛 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 19:02:16 |
@@ -110,21 +110,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 19:06:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575763890551 |
-| Players | 5/8 |
-| Host Name | dont talk with me |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 2, 2023 19:08:01 |
+| Lobby ID | 28502575764245508 |
+| Players | 3/10 |
+| Host Name | paranoid |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 19:08:16 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575751928193 |
-| Players | 23/24 |
+| Players | 20/24 |
 | Host Name | 000 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 18:59:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575764280532 |
+| Players | 2/8 |
+| Host Name | Kolya Yakovlev |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 19:08:17 |
 
 
