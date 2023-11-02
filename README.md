@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575345382710 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | tu culo es mi palacio |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:33:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575344053357 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | Dimebag Darrell |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:31:24 |
@@ -86,9 +86,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575343080807 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | FB 🎸👻 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 10:29:46 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575346196993 |
+| Players | 1/10 |
+| Host Name | Ҝιώi𝕀c𝐜ʰｏ  ☯ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 10:35:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575346204674 |
+| Players | 1/15 |
+| Host Name | emp.error |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 10:35:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575346226263 |
+| Players | 2/8 |
+| Host Name | Touch Me |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 10:35:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575346241019 |
+| Players | 1/24 |
+| Host Name | [JnM]Nickname |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 10:35:11 |
 
 
