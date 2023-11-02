@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28502575446817574 |
-| Players | 3/5 |
+| Players | 1/5 |
 | Host Name | Estrelinha |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 13:19:58 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575448623724 |
-| Players | 1/15 |
-| Host Name | ДедушкаНебо |
+| Lobby ID | 28502575447999168 |
+| Players | 7/10 |
+| Host Name | Sr Timba |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 13:22:53 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:21:54 |
 
 
 |  | ot3_desert_octet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:10:24 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575446097311 |
-| Players | 23/24 |
-| Host Name | STINKY BUTTHOLE |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 13:18:46 |
+| Lobby ID | 28502575447497294 |
+| Players | 3/10 |
+| Host Name | Mango |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 13:21:05 |
 
 
 |  | ot3_gardens_duo |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:18:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575447329737 |
-| Players | 9/10 |
-| Host Name | Moises |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 13:20:48 |
+| Lobby ID | 28502575448044489 |
+| Players | 1/8 |
+| Host Name | АРТЕМ СТРУБЦИНА |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 13:21:58 |
 
 
 |  | ot3_gardens_duo |
@@ -110,39 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:19:54 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575447497294 |
-| Players | 2/10 |
-| Host Name | Mango |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 13:21:05 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575448044489 |
-| Players | 1/8 |
-| Host Name | АРТЕМ СТРУБЦИНА |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 13:21:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575447999168 |
-| Players | 6/10 |
-| Host Name | Sr Timba |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 13:21:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575448687926 |
-| Players | 1/8 |
-| Host Name | БаРаГуЗ |
+| Lobby ID | 28502575448815757 |
+| Players | 3/8 |
+| Host Name | ГЕЙ ПАРАД |
 | Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 13:22:59 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:23:12 |
 
 
