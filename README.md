@@ -20,28 +20,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 06:35:28 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28503923790023259 |
-| Players | 1/5 |
-| Host Name | I'm sorry |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:35:54 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28503923790041279 |
-| Players | 2/7 |
-| Host Name | Pasta la vista |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:35:56 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923789764910 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | YUSEPE |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:35:26 |
@@ -59,43 +41,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923785240350 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Too Good To Win? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:27:06 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923789745313 |
-| Players | 1/15 |
-| Host Name | ЕБАНИТЕ МЕНЯ БПЛА |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 06:35:24 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923790020620 |
-| Players | 2/10 |
-| Host Name | Lil Candice |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 06:35:54 |
+| Lobby ID | 28503923790077231 |
+| Players | 4/10 |
+| Host Name | 17'5 4 7Я4P |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 06:35:59 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923789892989 |
-| Players | 1/8 |
-| Host Name | Uill SMOKE |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:35:40 |
+| Lobby ID | 28503923789955785 |
+| Players | 3/8 |
+| Host Name | el sueños hija giordota.com |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 06:35:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503923789474833 |
+| Players | 4/24 |
+| Host Name | 想一起玩de请删好友 |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 06:34:54 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923782402404 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Oshh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:21:55 |
@@ -104,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923789327802 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | UnLuucky |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 06:34:37 |
@@ -130,28 +112,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923789786518 |
-| Players | 12/15 |
-| Host Name | j |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 06:35:28 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503923789474833 |
-| Players | 4/24 |
-| Host Name | 想一起玩de请删好友 |
+| Lobby ID | 28503923790142862 |
+| Players | 1/15 |
+| Host Name | REGIMEPILLED ☭ #FreePalestine |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 06:34:54 |
+| Lobby Creation Time | Friday, November 3, 2023 06:36:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923789955785 |
-| Players | 2/8 |
-| Host Name | el sueños hija giordota.com |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 06:35:47 |
+| Lobby ID | 28503923790140886 |
+| Players | 3/10 |
+| Host Name | miz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 06:36:06 |
 
 
