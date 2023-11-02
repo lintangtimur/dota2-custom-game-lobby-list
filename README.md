@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367876934306 |
-| Players | 14/15 |
-| Host Name | Morde |
+| Lobby ID | 28503367879688869 |
+| Players | 1/15 |
+| Host Name | Diov |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:32:49 |
+| Lobby Creation Time | Friday, November 3, 2023 05:37:04 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367872035126 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | DJ NUTQUIK |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 05:25:21 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 05:34:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367879305711 |
-| Players | 7/15 |
-| Host Name | Nikki |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 05:36:28 |
+| Lobby ID | 28503367879251805 |
+| Players | 3/10 |
+| Host Name | СОЛА НА СКИЛЕ |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 3, 2023 05:36:23 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367878618470 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Som1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 05:35:25 |
@@ -113,34 +113,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367870336038 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | CallaTe-Pendeja |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 05:22:45 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367879251805 |
-| Players | 5/10 |
-| Host Name | СОЛА НА СКИЛЕ |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 3, 2023 05:36:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503367879634763 |
-| Players | 6/8 |
-| Host Name | ArTiN AB |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:36:59 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503367869856109 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Zlby pLAY |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 05:22:01 |
