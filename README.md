@@ -20,33 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:20:43 |
 
 
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28502575488361857 |
-| Players | 1/7 |
-| Host Name | mickDaddy |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:20:36 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575488653116 |
-| Players | 1/10 |
-| Host Name | Partida_lag |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 14:21:00 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28502575488720398 |
-| Players | 1/7 |
-| Host Name | Rousey |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:21:06 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
@@ -86,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575484306418 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 14:15:07 |
@@ -113,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575488617156 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | ꃥꈤꊐ |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 14:20:57 |
@@ -122,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575488621786 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Микро-ничтожыч |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 14:20:57 |
@@ -135,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GhOUL |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 14:20:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575488697180 |
-| Players | 3/8 |
-| Host Name | lungi |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:21:04 |
 
 
