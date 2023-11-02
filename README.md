@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575341632058 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | González Pérez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:27:14 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575339937151 |
-| Players | 10/24 |
+| Players | 7/24 |
 | Host Name | j |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:24:17 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575341072313 |
-| Players | 14/24 |
+| Players | 23/24 |
 | Host Name | ^^!¬¬ (Si cancila) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:26:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575340828484 |
-| Players | 11/15 |
-| Host Name | Dragon |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 10:25:50 |
+| Lobby ID | 28502575342268473 |
+| Players | 6/24 |
+| Host Name | jebao |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 10:28:22 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575341203927 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | Pichuleitor |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:26:29 |
@@ -85,19 +85,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575341841733 |
-| Players | 1/10 |
-| Host Name | 99 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 10:27:37 |
+| Lobby ID | 28502575341144723 |
+| Players | 7/10 |
+| Host Name | Mangudai |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 10:26:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575342268473 |
-| Players | 6/24 |
-| Host Name | jebao |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 10:28:22 |
+| Lobby ID | 28502575342368136 |
+| Players | 1/15 |
+| Host Name | JrY |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 10:28:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575342417218 |
+| Players | 4/15 |
+| Host Name | tu culo es mi palacio |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 10:28:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575342483029 |
+| Players | 4/8 |
+| Host Name | <blank> |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 10:28:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575342551479 |
+| Players | 1/15 |
+| Host Name | Cotoro en la offlane |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 10:28:51 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575340828484 |
+| Players | 14/15 |
+| Host Name | Fanya |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 10:25:50 |
 
 
