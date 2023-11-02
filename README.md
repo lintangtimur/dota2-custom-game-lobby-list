@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575376859188 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Soda popinski |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:29:56 |
@@ -40,19 +40,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575386739869 |
-| Players | 7/8 |
-| Host Name | (/_-) |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 11:45:36 |
+| Lobby ID | 28502575390569938 |
+| Players | 2/8 |
+| Host Name | Rem is life<3 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 11:51:30 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575390444904 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | Moonlight |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:51:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575390486543 |
+| Players | 8/15 |
+| Host Name | CACHA TOMBOS! |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 11:51:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575390510820 |
+| Players | 1/8 |
+| Host Name | [♂+♂=♥]6LyaDuKtoR |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 11:51:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575390510171 |
+| Players | 2/24 |
+| Host Name | FORSA AAA N |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 11:51:25 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575390555286 |
+| Players | 1/10 |
+| Host Name | Hellsing...!! |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 11:51:29 |
 
 
