@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:38:52 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575313695201 |
-| Players | 1/5 |
-| Host Name | Just wan't |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 09:38:48 |
+| Lobby ID | 28502575313919343 |
+| Players | 1/10 |
+| Host Name | La Rata Mayor |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 09:39:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575313214365 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | ►PSG.LGD 愛我 |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:37:56 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575312733687 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | RexBeto |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:37:04 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575310867126 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Sirlagsalot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:33:36 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575312570060 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Darkness |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 09:36:46 |
@@ -112,19 +112,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575313848997 |
-| Players | 1/8 |
-| Host Name | Frank.f2o |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 09:39:05 |
+| Lobby ID | 28502575313930546 |
+| Players | 2/8 |
+| Host Name | 葉王・朝倉 |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 09:39:13 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575313869641 |
+| Lobby ID | 28502575313942360 |
+| Players | 1/8 |
+| Host Name | Diamonds & Dancefloor |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 09:39:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575313970625 |
 | Players | 2/8 |
 | Host Name | Зачем ты умерла??? |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 09:39:07 |
+| Lobby Creation Time | Thursday, November 2, 2023 09:39:18 |
 
 
