@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28502575449992268 |
+| Lobby ID | 28502575450081645 |
 | Players | 2/7 |
 | Host Name | Leysritt イブ・リース |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 13:25:03 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:25:12 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575441070284 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | George |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 13:10:24 |
@@ -92,21 +92,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:19:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575449860484 |
-| Players | 2/24 |
-| Host Name | Connor |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 13:24:51 |
+| Lobby ID | 28502575450090474 |
+| Players | 1/15 |
+| Host Name | Simpest Pimp |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 13:25:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575449903586 |
-| Players | 1/15 |
-| Host Name | Simpest Pimp |
+| Lobby ID | 28502575450100738 |
+| Players | 2/15 |
+| Host Name | Connor |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 13:25:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575450101922 |
+| Players | 1/8 |
+| Host Name | e |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 13:24:55 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:25:13 |
 
 
