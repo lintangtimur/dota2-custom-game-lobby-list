@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:44:31 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575466041732 |
+| Players | 1/5 |
+| Host Name | Just subscribe for Linda H |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 13:49:24 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
@@ -38,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:44:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575465097371 |
-| Players | 2/15 |
-| Host Name | raddanx |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 13:48:03 |
+| Lobby ID | 28502575466001662 |
+| Players | 1/24 |
+| Host Name | Martin The Flower 🏵 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 13:49:21 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575465784177 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | 異體字爲為为畫畵画線 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:49:02 |
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kotarō痛 |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:48:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575465958503 |
+| Players | 1/8 |
+| Host Name | Finaly Rich |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 13:49:17 |
 
 
