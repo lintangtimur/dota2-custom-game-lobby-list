@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 08:59:37 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502575294879044 |
-| Players | 1/5 |
-| Host Name | Thomas the tilt engine |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 09:02:29 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575293781239 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575293889036 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | YaMa |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 09:00:21 |
@@ -85,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575294885843 |
+| Lobby ID | 28502575295077411 |
 | Players | 1/8 |
-| Host Name | The last Emperor |
+| Host Name | MasonLayble |
 | Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 09:02:30 |
+| Lobby Creation Time | Thursday, November 2, 2023 09:02:55 |
 
 
 |  | ot3_gardens_duo |
@@ -99,32 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 1 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:02:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575292594508 |
-| Players | 21/24 |
-| Host Name | "RUMBO A HERALDO" |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 08:57:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575294151018 |
-| Players | 13/15 |
-| Host Name | BYVSHIY HATER RLARLA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 09:00:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575295077411 |
-| Players | 1/8 |
-| Host Name | MasonLayble |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 09:02:55 |
 
 
