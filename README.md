@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575530573703 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 15:17:04 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:18:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575531631776 |
-| Players | 1/8 |
-| Host Name | Ливаем |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 15:18:29 |
+| Lobby ID | 28502575532002704 |
+| Players | 1/15 |
+| Host Name | Сладкий Пафос |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 15:18:59 |
 
 
 |  | ot3_necropolis_ffa |
