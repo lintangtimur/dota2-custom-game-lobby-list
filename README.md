@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575615230500 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | chmo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 17:00:20 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575615698114 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | неумехапелемеха |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 17:00:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575612784997 |
-| Players | 13/15 |
+| Players | 11/15 |
 | Host Name | Pablo Escobar |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 16:57:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575614732896 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Lackey |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 16:59:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575616057462 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Dr. Strange where rampage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 17:01:20 |
@@ -77,18 +77,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575616719027 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | ronin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 17:02:08 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575616937156 |
+| Players | 1/15 |
+| Host Name | КoнфeтkuДляМaлoлeтku |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 17:02:24 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575616819045 |
+| Lobby ID | 28502575616952029 |
 | Players | 1/24 |
-| Host Name | MRppck |
+| Host Name | Chris P. Bacon |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 17:02:15 |
+| Lobby Creation Time | Thursday, November 2, 2023 17:02:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575616937401 |
+| Players | 1/24 |
+| Host Name | PIMBA |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 17:02:24 |
 
 
