@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28502575674469800 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | GinTonik |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 18:00:20 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575673408963 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Takoadm |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:59:25 |
@@ -41,16 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575677639546 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | yikes` |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 18:03:05 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575680198449 |
+| Players | 2/5 |
+| Host Name | parsa_craid |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 18:05:17 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575678697188 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Топ 100 Антарктиды |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 18:04:00 |
@@ -74,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 18:04:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575677038805 |
-| Players | 23/24 |
-| Host Name | Comedy |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 18:02:34 |
+| Lobby ID | 28502575679614851 |
+| Players | 1/15 |
+| Host Name | ✙ Ukrainian Abrams + |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 18:04:47 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,19 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575677659339 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Curtuc |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 2, 2023 18:03:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575671958790 |
-| Players | 1/8 |
-| Host Name | hahahehehoho |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 17:58:08 |
+| Lobby ID | 28502575679351811 |
+| Players | 1/15 |
+| Host Name | samurai |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 18:04:34 |
 
 
 |  | ot3_gardens_duo |
@@ -128,48 +137,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 18:04:55 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575679351811 |
-| Players | 1/15 |
-| Host Name | samurai |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 18:04:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575679331771 |
-| Players | 7/10 |
-| Host Name | toflex |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 18:04:33 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575679610378 |
-| Players | 7/8 |
-| Host Name | отмороженые яйца |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 18:04:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575679614851 |
-| Players | 1/15 |
-| Host Name | ✙ Ukrainian Abrams + |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 18:04:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575679786099 |
-| Players | 4/8 |
-| Host Name | CEO of The Hidden Pool |
+| Lobby ID | 28502575680226213 |
+| Players | 2/8 |
+| Host Name | TKey669 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 18:04:56 |
+| Lobby Creation Time | Thursday, November 2, 2023 18:05:19 |
 
 
