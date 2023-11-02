@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575466106686 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Just subscribe for Linda H |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:49:30 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575466711060 |
-| Players | 1/5 |
+| Lobby ID | 28502575466829192 |
+| Players | 1/10 |
 | Host Name | <3 |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 13:50:21 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:50:31 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575462655331 |
-| Players | 4/15 |
-| Host Name | Barathrum |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 13:44:31 |
+| Lobby ID | 28502575466997619 |
+| Players | 1/15 |
+| Host Name | ^^bongafonx` |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 13:50:46 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575466225991 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Godjo |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 2, 2023 13:49:40 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575465784177 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | 異體字爲為为畫畵画線 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:49:02 |
@@ -94,28 +94,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575463451810 |
-| Players | 21/24 |
-| Host Name | Goa-♥ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 13:45:41 |
+| Lobby ID | 28502575467002660 |
+| Players | 7/24 |
+| Host Name | TheBlindShibaInuSexyah |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 13:50:46 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575465702325 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Kotarō痛 |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:48:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575466499823 |
-| Players | 2/10 |
-| Host Name | 绝对 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 13:50:03 |
 
 
