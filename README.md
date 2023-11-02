@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367882190239 |
+| Lobby ID | 28503367882279392 |
 | Players | 1/15 |
-| Host Name | Underground'a podonok |
+| Host Name | sindel_lo |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:40:59 |
+| Lobby Creation Time | Friday, November 3, 2023 05:41:07 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367881570062 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | O_o |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 05:40:00 |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367882168611 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | 155мм демократії |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 05:40:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367881179573 |
-| Players | 2/10 |
-| Host Name | Афро лобан |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 05:39:23 |
+| Lobby ID | 28503367882172518 |
+| Players | 1/15 |
+| Host Name | KAPSI |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 05:40:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367882071065 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | ~{ ■} |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 05:40:48 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367881158819 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | isn't like holding to the center |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 05:39:21 |
@@ -110,19 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 05:39:47 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367879821615 |
-| Players | 23/24 |
-| Host Name | Yair |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 05:37:16 |
+| Lobby ID | 28503367882141189 |
+| Players | 3/10 |
+| Host Name | Ivy Levan |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 05:40:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367882105160 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Skinnid |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 05:40:51 |
@@ -137,49 +137,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 05:40:40 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367882109138 |
-| Players | 9/10 |
-| Host Name | Belony一 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:40:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367882141189 |
-| Players | 2/10 |
-| Host Name | Ivy Levan |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 05:40:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367880568175 |
-| Players | 9/10 |
-| Host Name | Don Dimadomgiordota.com |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 05:38:26 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367882172518 |
+| Lobby ID | 28503367882337518 |
 | Players | 1/15 |
-| Host Name | KAPSI |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 05:40:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503367882201748 |
-| Players | 1/15 |
-| Host Name | 六道仙人 |
+| Host Name | Underground'a podonok |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:41:00 |
+| Lobby Creation Time | Friday, November 3, 2023 05:41:13 |
 
 
 |  | epic_boss_fight_nightmare |
