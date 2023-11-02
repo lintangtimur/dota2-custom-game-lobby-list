@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28503367895951414 |
-| Players | 3/10 |
-| Host Name | i fасtus еst dеus |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:03:26 |
+| Lobby ID | 28503923771105032 |
+| Players | 1/10 |
+| Host Name | ₡ℝi℘.ฬคɭк-ˢʷᵃᵖ |
+| Region | AUSTRIA |
+| Lobby Creation Time | Friday, November 3, 2023 06:06:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367890922682 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Sstine |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 05:55:07 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367895333310 |
-| Players | 14/15 |
+| Players | 15/15 |
 | Host Name | Tamatze |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:02:23 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367896063912 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | lfy |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 06:03:38 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367896008097 |
-| Players | 7/8 |
-| Host Name | kagura bachi |
+| Players | 1/8 |
+| Host Name | ХАХАХАХАХА |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:03:32 |
 
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | et0 ne pro100 gneV |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 06:03:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923770927047 |
+| Players | 1/8 |
+| Host Name | Kill 'Em All |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 06:05:58 |
 
 
