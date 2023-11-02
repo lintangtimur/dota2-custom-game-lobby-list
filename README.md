@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575456461002 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Kover |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 13:35:08 |
@@ -27,15 +27,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kunde |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:35:59 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575457327111 |
-| Players | 1/10 |
-| Host Name | TONGKENG |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 13:36:26 |
 
 
 |  | ot3_jungle_quintet |
@@ -99,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | La Pixiris |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:35:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575456572560 |
-| Players | 7/8 |
-| Host Name | Puk |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 13:35:18 |
 
 
 |  | ot3_desert_octet |
