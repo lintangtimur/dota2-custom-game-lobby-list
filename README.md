@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575473976715 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | ripples |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:00:39 |
@@ -85,17 +85,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575474052505 |
-| Players | 8/10 |
-| Host Name | Лена Головач |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 14:00:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28502575475189661 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Optimal |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 14:02:22 |
