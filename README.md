@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367878358183 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | 11by |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 05:35:01 |
@@ -65,20 +65,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 05:32:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367878648145 |
-| Players | 1/24 |
-| Host Name | Agobrilhante |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 3, 2023 05:35:27 |
+| Lobby ID | 28503367872035126 |
+| Players | 4/15 |
+| Host Name | Benjamus |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 05:25:21 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367878311857 |
-| Players | 5/15 |
-| Host Name | blasphemy |
+| Players | 3/15 |
+| Host Name | Dopeganger |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 05:34:57 |
 
@@ -101,85 +101,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 05:35:25 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367872812983 |
-| Players | 1/10 |
-| Host Name | Aggressive Koala |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 05:26:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367870336038 |
-| Players | 6/10 |
-| Host Name | CallaTe-Pendeja |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 05:22:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367877655741 |
-| Players | 7/10 |
-| Host Name | revamble.. |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 05:33:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503367872035126 |
-| Players | 6/15 |
-| Host Name | Benjamus |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 05:25:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503367878852590 |
-| Players | 2/15 |
-| Host Name | lfy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:35:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503367878884024 |
-| Players | 1/15 |
-| Host Name | Diov |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:35:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503367878617113 |
-| Players | 13/15 |
-| Host Name | Nexro |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:35:25 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367866730659 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | CorosionaL DamagE |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 05:17:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367878965318 |
-| Players | 3/8 |
-| Host Name | Lifex |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 05:35:57 |
+| Lobby ID | 28503367870336038 |
+| Players | 8/10 |
+| Host Name | CallaTe-Pendeja |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 05:22:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367878852590 |
+| Players | 4/15 |
+| Host Name | lfy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 05:35:46 |
 
 
 |  | epic_boss_fight_nightmare |
