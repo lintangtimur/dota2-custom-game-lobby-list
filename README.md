@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:37:23 |
 
 
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28502575546841851 |
+| Players | 2/7 |
+| Host Name | magma |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 15:38:01 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575545229627 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575546110830 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | huylo |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 15:37:04 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575544366537 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Ump |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 15:34:49 |
@@ -94,17 +103,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575545726569 |
-| Players | 7/8 |
-| Host Name | kuklavod |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 15:36:34 |
+| Lobby ID | 28502575545716648 |
+| Players | 4/8 |
+| Host Name | CatNecromancer |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 15:36:33 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575545663359 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Tolia22 |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 15:36:29 |
@@ -113,18 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 13/15 |
-| Host Name | Colpax |
+| Players | 12/15 |
+| Host Name | ReactRedux |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575545716648 |
-| Players | 3/8 |
-| Host Name | CatNecromancer |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 15:36:33 |
+| Lobby ID | 28502575546562516 |
+| Players | 4/8 |
+| Host Name | Wuazan |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 15:37:39 |
 
 
