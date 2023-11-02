@@ -2,19 +2,10 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575367725132 |
-| Players | 5/10 |
-| Host Name | Zero |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 11:13:59 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575367389366 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Chris |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:13:25 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575365242965 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Flyfriend28 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:09:35 |
@@ -99,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | quad_buck |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:12:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575367782252 |
+| Players | 3/15 |
+| Host Name | Harry Styles |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 11:14:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575367808776 |
+| Players | 3/8 |
+| Host Name | AMANTE DEL HOUSE |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 11:14:08 |
 
 
