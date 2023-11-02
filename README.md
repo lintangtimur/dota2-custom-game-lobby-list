@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 05:56:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367892762050 |
-| Players | 5/10 |
-| Host Name | Smail |
+| Lobby ID | 28503367892720922 |
+| Players | 4/8 |
+| Host Name | АДСКИЙ САТАНА |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:58:08 |
+| Lobby Creation Time | Friday, November 3, 2023 05:58:04 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367891990551 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | STERBLICH |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 05:56:52 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367891521753 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | jOey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 05:56:06 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367891722485 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Hope |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 05:56:26 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367892751519 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | УБИВАТЬ УБИВАТЬ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 05:58:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367892720922 |
-| Players | 6/8 |
-| Host Name | АДСКИЙ САТАНА |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:58:04 |
+| Lobby ID | 28503367892941063 |
+| Players | 2/10 |
+| Host Name | TeamSpirt.Phantom Freelancer |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 05:58:25 |
 
 
 |  | epic_boss_fight_nightmare |
