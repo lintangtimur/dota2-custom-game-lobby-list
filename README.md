@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575721125474 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ✪Natie<3 |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 2, 2023 18:37:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575720428032 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | 不和小人一般见识 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 18:37:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575709295264 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | FriedSprite |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 18:28:40 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575718644089 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | Odinn |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 18:35:47 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575721084606 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | fen009 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 18:37:36 |
@@ -126,5 +126,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Saul Goodman |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 18:37:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575721678315 |
+| Players | 1/15 |
+| Host Name | boqni |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 18:38:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575721755704 |
+| Players | 1/8 |
+| Host Name | Pogs |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 18:38:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575721802027 |
+| Players | 6/8 |
+| Host Name | Главный в хате |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 18:38:09 |
 
 
