@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575504456517 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | NO NAME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 14:41:56 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575502748808 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | ^^ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:39:43 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575501113464 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ≈NEGODIY≈ |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 14:37:33 |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lorden |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 14:41:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575504573776 |
+| Players | 4/24 |
+| Host Name | TheBlindShibaInuSexyah |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 14:42:05 |
 
 
