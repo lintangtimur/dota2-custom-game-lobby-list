@@ -29,6 +29,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:19:58 |
 
 
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28502575448109451 |
+| Players | 1/7 |
+| Host Name | <3 |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 13:22:05 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575447874394 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 13:21:42 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575446097311 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | STINKY BUTTHOLE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:18:46 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575447329737 |
-| Players | 8/10 |
+| Players | 6/10 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 13:20:48 |
@@ -119,13 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:21:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575446847907 |
-| Players | 14/15 |
-| Host Name | Bich Ebanii |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 13:20:01 |
+| Lobby ID | 28502575448108907 |
+| Players | 1/10 |
+| Host Name | эскорт с 3-ёх лет) |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 13:22:05 |
 
 
 |  | ot3_gardens_duo |
@@ -135,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sr Timba |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 13:21:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575448044489 |
+| Players | 2/8 |
+| Host Name | АРТЕМ СТРУБЦИНА |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 13:21:58 |
 
 
