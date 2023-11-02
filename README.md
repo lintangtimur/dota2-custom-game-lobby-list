@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575386733521 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | NrAthrMsrh❤ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:45:35 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 11:46:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575387058968 |
-| Players | 2/10 |
-| Host Name | PR |
+| Lobby ID | 28502575387093843 |
+| Players | 1/15 |
+| Host Name | Rock Stoner |
 | Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 11:46:06 |
+| Lobby Creation Time | Thursday, November 2, 2023 11:46:09 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575383572567 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Flyfriend28 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:40:35 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575386772815 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | キ1000-7 beastキ zxc pain? |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 11:45:39 |
@@ -164,12 +164,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 11:46:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575387093843 |
-| Players | 1/15 |
-| Host Name | Rock Stoner |
+| Lobby ID | 28502575387146288 |
+| Players | 3/8 |
+| Host Name | "Belial" |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 11:46:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575387202108 |
+| Players | 2/10 |
+| Host Name | PR |
 | Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 11:46:09 |
+| Lobby Creation Time | Thursday, November 2, 2023 11:46:20 |
 
 
