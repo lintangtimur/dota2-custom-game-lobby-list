@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367881570062 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | tryhard mm |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 05:40:00 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367881811428 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Larry Capinga |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 05:40:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367883173847 |
-| Players | 10/15 |
-| Host Name | Tan |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 3, 2023 05:42:33 |
+| Lobby ID | 28503367883492838 |
+| Players | 3/8 |
+| Host Name | Tensai |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 05:43:04 |
 
 
 |  | ot3_desert_octet |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367883341690 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | kagura bachi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 05:42:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367881158819 |
-| Players | 6/8 |
-| Host Name | isn't like holding to the center |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 05:39:21 |
+| Lobby ID | 28503367883577980 |
+| Players | 1/15 |
+| Host Name | Cyanidia |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 05:43:12 |
 
 
 |  | ot3_jungle_quintet |
@@ -112,26 +112,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367883485225 |
-| Players | 1/10 |
+| Lobby ID | 28503367883611963 |
+| Players | 6/10 |
 | Host Name | Ivy Levan |
 | Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 05:43:03 |
+| Lobby Creation Time | Friday, November 3, 2023 05:43:15 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367883492838 |
-| Players | 3/8 |
-| Host Name | Tensai |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 05:43:04 |
+| Lobby ID | 28503367883624274 |
+| Players | 1/8 |
+| Host Name | (-_-) 𝕱𝕮𝕮-𝕱𝖗𝖆 |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 05:43:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367883631614 |
+| Players | 6/8 |
+| Host Name | Zoro |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 3, 2023 05:43:17 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503367873671722 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 05:27:52 |
