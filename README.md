@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 08:31:07 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575281576660 |
+| Players | 1/10 |
+| Host Name | Zeni |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 08:36:18 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575280109767 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575281048492 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | 烈烈风中、 |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 08:35:15 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575280986769 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | sadboi |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:35:07 |
@@ -74,24 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 08:31:38 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575278098706 |
-| Players | 22/24 |
-| Host Name | Economista.DRUGGED |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 08:29:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575281436357 |
-| Players | 2/10 |
-| Host Name | Liraley |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 08:36:01 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575281501938 |
@@ -99,5 +90,41 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | weakkkkkk lol |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 08:36:09 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575281551846 |
+| Players | 4/24 |
+| Host Name | DarkFlameMaster |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 08:36:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575281569390 |
+| Players | 4/8 |
+| Host Name | Zeze PMA |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 08:36:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575281598977 |
+| Players | 1/8 |
+| Host Name | Sharuko |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 08:36:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575281605720 |
+| Players | 1/8 |
+| Host Name | Я СКУФ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 08:36:21 |
 
 
