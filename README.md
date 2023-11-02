@@ -24,7 +24,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
 | Players | 8/15 |
-| Host Name | ReactRedux |
+| Host Name | Глупость |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
 
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575549242591 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | r1kko |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 15:41:06 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575549788780 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | НЕдушнила |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 15:41:49 |
@@ -135,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | тучка |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 15:40:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575549978018 |
-| Players | 1/24 |
-| Host Name | ЛАРЛ - The International ЧЕМПИОН |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 15:42:03 |
 
 
