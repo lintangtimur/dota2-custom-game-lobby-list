@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575471277212 |
+| Lobby ID | 28502575471411758 |
 | Players | 1/10 |
 | Host Name | ἱεγλύ |
 | Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 13:56:49 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:57:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575469365458 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Casa Matusita Lujan Carrion |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 13:54:05 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575471318274 |
+| Lobby ID | 28502575471387227 |
 | Players | 1/15 |
-| Host Name | goblin |
+| Host Name | صديقي-1 cowboy |
 | Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 13:56:52 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:56:58 |
 
 
 |  | ot3_desert_octet |
@@ -126,5 +126,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Чудо |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 13:56:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575471411728 |
+| Players | 1/15 |
+| Host Name | goblin |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 13:57:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575471425404 |
+| Players | 3/15 |
+| Host Name | EL HOMBRE SIDA !! |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 13:57:01 |
 
 
