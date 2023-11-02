@@ -20,6 +20,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:14:50 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575485018285 |
+| Players | 1/10 |
+| Host Name | GreShnik |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 14:16:05 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28502575485038034 |
+| Players | 1/7 |
+| Host Name | SanDwicH |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 14:16:07 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
@@ -32,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575483684907 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | XQC!! |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 14:14:16 |
@@ -77,28 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575484647185 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | TheBlindShibaInuSexyah |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:15:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575484521392 |
-| Players | 6/8 |
-| Host Name | англиский_творог |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 14:15:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575484072776 |
-| Players | 2/24 |
-| Host Name | GapZzz |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 14:14:48 |
 
 
 |  | ot3_desert_octet |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | malimabin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:15:17 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575484072776 |
+| Players | 2/24 |
+| Host Name | GapZzz |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 14:14:48 |
 
 
