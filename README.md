@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367604198436 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | ๖ۣۜ Daito༻ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 3, 2023 00:47:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367604705684 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Rem is life<3 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 00:47:56 |
@@ -65,67 +65,67 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 00:30:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367604739844 |
-| Players | 6/8 |
-| Host Name | Sanya |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 3, 2023 00:47:57 |
+| Lobby ID | 28503367605264622 |
+| Players | 2/15 |
+| Host Name | Містер Сідр |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 00:48:23 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367600742289 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | Himalayan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 00:44:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367604501474 |
-| Players | 2/10 |
-| Host Name | Серя Ондатрин |
+| Lobby ID | 28503367605589270 |
+| Players | 5/8 |
+| Host Name | Я добри |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 3, 2023 00:47:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367602464981 |
-| Players | 7/10 |
-| Host Name | estoy  cansado jefe |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 00:46:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503367604687183 |
-| Players | 8/15 |
-| Host Name | TerraLecs |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 3, 2023 00:47:55 |
+| Lobby Creation Time | Friday, November 3, 2023 00:48:39 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367604868212 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | PerTzo |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 00:48:04 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503367568746486 |
+| Players | 22/24 |
+| Host Name | ™Slim Shady® |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 3, 2023 00:19:25 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367604003719 |
-| Players | 14/15 |
-| Host Name | VimeBash |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 3, 2023 00:47:21 |
+| Lobby ID | 28503367606006741 |
+| Players | 1/15 |
+| Host Name | pash |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 3, 2023 00:49:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503367604374677 |
+| Players | 6/10 |
+| Host Name | 37 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 3, 2023 00:47:40 |
 
 
 |  | epic_boss_fight_normal |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503367593408763 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Zé Carioca |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 00:38:49 |
@@ -153,5 +153,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | mak |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 00:44:35 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28503367605544410 |
+| Players | 1/5 |
+| Host Name | Кровосос |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 00:48:37 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28503367605754809 |
+| Players | 3/10 |
+| Host Name | Катя сосалово |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 3, 2023 00:48:47 |
 
 
