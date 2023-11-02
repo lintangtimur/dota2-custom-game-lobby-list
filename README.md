@@ -38,15 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:00:15 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502575436004357 |
-| Players | 1/5 |
-| Host Name | 29kg talent |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 13:01:41 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28502575436011254 |
@@ -54,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Spongebitch Squaredick |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 2, 2023 13:01:41 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575436345913 |
+| Players | 1/10 |
+| Host Name | ᴾᴿᴼ|-Dᴀɴzッ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 13:02:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575432821221 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | string |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:56:35 |
@@ -144,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Геральд из Сирии |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 13:01:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575436295182 |
+| Players | 1/8 |
+| Host Name | eбaшy мeфeдpoн |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 13:02:10 |
 
 
