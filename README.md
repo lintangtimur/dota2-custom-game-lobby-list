@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575419018089 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Whatever (x3) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:34:46 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575420448330 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | ^^bongafonx` |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 12:37:00 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575420042310 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Solo estoy pasando el rato |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:36:22 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575420842421 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:37:37 |
