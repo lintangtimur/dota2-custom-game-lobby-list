@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575474990938 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | lupanamaingatrasa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:02:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575481379950 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | РОМАТИМБЕРСАУ |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 14:11:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575478261205 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | waiting for death |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 14:06:45 |
@@ -81,5 +81,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | iKawai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:11:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575482153037 |
+| Players | 3/10 |
+| Host Name | [A]DmiralLight |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 14:12:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575482264199 |
+| Players | 1/8 |
+| Host Name | SuperFranki◄ |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 14:12:18 |
 
 
