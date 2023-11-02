@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575458329013 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | TINONTOTOYO |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 2, 2023 13:37:59 |
@@ -38,19 +38,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:39:46 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575459950496 |
-| Players | 1/10 |
-| Host Name | <3 |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 13:40:26 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 4/15 |
+| Players | 2/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -59,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575458893833 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Juan Bolsa |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 13:38:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575459443655 |
-| Players | 2/8 |
-| Host Name | Джем |
+| Lobby ID | 28502575459791794 |
+| Players | 1/15 |
+| Host Name | 異體字爲為为畫畵画線 |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 13:39:40 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:40:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575456903360 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | PND.Wilarson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:35:48 |
@@ -101,30 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:19:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575459624717 |
-| Players | 2/15 |
-| Host Name | The GayLord |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 13:39:57 |
+| Lobby ID | 28502575460093643 |
+| Players | 4/10 |
+| Host Name | Moises |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 13:40:39 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575459791352 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Илья |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 13:40:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575459791794 |
-| Players | 1/15 |
-| Host Name | 異體字爲為为畫畵画線 |
-| Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 13:40:12 |
 
 
