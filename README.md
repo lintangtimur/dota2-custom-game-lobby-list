@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575812816974 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Cara Delevingne |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 2, 2023 19:39:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575808781397 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | lady maria |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 19:37:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575813240816 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | ✪Natie<3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 19:39:54 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575805142480 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | XuTiNg McBrain |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 19:34:49 |
@@ -104,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575798780935 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | SOBRUT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 19:30:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575813589718 |
+| Players | 1/10 |
+| Host Name | temip |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 19:40:07 |
 
 
