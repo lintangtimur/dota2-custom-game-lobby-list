@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575344310633 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Белый |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 10:31:50 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575344053357 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Dimebag Darrell |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:31:24 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575343604339 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Dr. Chaputin modo Sexo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:30:40 |
@@ -153,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | O'Sullivan |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:30:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575345571518 |
+| Players | 2/8 |
+| Host Name | жопа |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 10:34:01 |
 
 
