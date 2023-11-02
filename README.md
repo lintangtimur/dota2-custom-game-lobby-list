@@ -13,15 +13,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28503923775226073 |
-| Players | 8/10 |
-| Host Name | Alainzzz |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:09:06 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28503923778314222 |
 | Players | 1/10 |
 | Host Name | свиня джакузі |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923777324916 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | єℓ ρα∂яιησ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:12:41 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923778220309 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | 6a6ka B Hau`KoBCKuX KeDaX |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:14:20 |
@@ -119,24 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 06:16:04 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923779217102 |
-| Players | 3/8 |
-| Host Name | акула228 |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 06:16:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923777837273 |
-| Players | 7/8 |
-| Host Name | NoobHard |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 06:13:36 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923779211299 |
@@ -149,18 +122,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923779239204 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | фанат спирит |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:16:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923779239450 |
-| Players | 1/15 |
-| Host Name | 34 |
+| Lobby ID | 28503923779289615 |
+| Players | 1/8 |
+| Host Name | Йаcobs monarch |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 06:16:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923779324622 |
+| Players | 1/8 |
+| Host Name | ℬúcaro |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 06:16:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923779345166 |
+| Players | 1/8 |
+| Host Name | 01 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:16:10 |
+| Lobby Creation Time | Friday, November 3, 2023 06:16:20 |
 
 
