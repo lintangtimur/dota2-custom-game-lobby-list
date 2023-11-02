@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367722155898 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | XD |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 02:28:27 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 02:31:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367725528175 |
-| Players | 2/8 |
-| Host Name | Stephan_DS |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 3, 2023 02:31:42 |
+| Lobby ID | 28503367727196984 |
+| Players | 3/15 |
+| Host Name | Помогите! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 02:33:19 |
 
 
 |  | ot3_desert_octet |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367727057932 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | only feed 2.0 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 02:33:11 |
@@ -157,11 +157,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367726613253 |
+| Lobby ID | 28503367727168911 |
 | Players | 1/15 |
-| Host Name | sex symbol |
+| Host Name | USA USA USA |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 02:32:45 |
+| Lobby Creation Time | Friday, November 3, 2023 02:33:18 |
 
 
 |  | ot3_gardens_duo |
@@ -173,13 +173,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 02:33:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367727047631 |
-| Players | 1/8 |
-| Host Name | Oxygun |
+| Lobby ID | 28503367727194639 |
+| Players | 1/15 |
+| Host Name | Nefarious |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 02:33:10 |
+| Lobby Creation Time | Friday, November 3, 2023 02:33:19 |
 
 
 |  | ot3_jungle_quintet |
@@ -200,13 +200,58 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 02:33:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367727061319 |
-| Players | 1/24 |
-| Host Name | FeelMyPain |
+| Lobby ID | 28503367727242025 |
+| Players | 1/8 |
+| Host Name | sex symbol |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 02:33:11 |
+| Lobby Creation Time | Friday, November 3, 2023 02:33:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367727145919 |
+| Players | 1/8 |
+| Host Name | Oxygun |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 02:33:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367727243830 |
+| Players | 1/8 |
+| Host Name | Сашка Наумов |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 02:33:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367727070710 |
+| Players | 1/15 |
+| Host Name | Bode Corporativo |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 3, 2023 02:33:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367727097570 |
+| Players | 1/8 |
+| Host Name | Kryki |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 02:33:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367727130018 |
+| Players | 1/15 |
+| Host Name | NICE13 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 02:33:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -234,5 +279,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | General  zOd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 02:33:03 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28503367727196424 |
+| Players | 2/5 |
+| Host Name | 412353216546474567343 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 3, 2023 02:33:19 |
 
 
