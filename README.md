@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575368092801 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | MoonWalker |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:14:38 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575367782252 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:14:05 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575367108035 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | quad_buck |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:12:55 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575368430882 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Jivchik |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 11:15:16 |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tucan Mistico :v |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:15:35 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575368913203 |
+| Players | 6/10 |
+| Host Name | Stich |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 11:16:09 |
 
 
