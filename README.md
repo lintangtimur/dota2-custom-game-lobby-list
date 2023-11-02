@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 03:51:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367849573383 |
-| Players | 9/10 |
-| Host Name | A |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 04:52:00 |
+| Lobby ID | 28503367853892628 |
+| Players | 6/15 |
+| Host Name | Smok |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 04:58:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367853721598 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | 666 |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 04:57:47 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 03:53:26 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367847049370 |
-| Players | 22/24 |
-| Host Name | Kobra |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 04:48:30 |
+| Lobby ID | 28503367853883369 |
+| Players | 2/10 |
+| Host Name | The geese' Goose #FL1XA |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 04:58:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -162,14 +162,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GuG4 |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 04:52:23 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28503367853812597 |
-| Players | 3/7 |
-| Host Name | i fасtus еst dеus |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:57:54 |
 
 
