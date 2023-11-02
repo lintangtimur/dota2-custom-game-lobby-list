@@ -29,6 +29,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 06:31:25 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28503923788028160 |
+| Players | 1/5 |
+| Host Name | Tony Slark |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 06:32:13 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923787235686 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923787340805 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | s4 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:30:56 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923785240350 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Too Good To Win? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:27:06 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923786930484 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Dr. NineFoX |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 06:30:10 |
@@ -131,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923787451292 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Mr.Pickles |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:31:09 |
@@ -139,28 +148,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923787831123 |
+| Lobby ID | 28503923788012308 |
 | Players | 2/8 |
-| Host Name | caseoh_ prime (130 pounds) |
+| Host Name | Mantelis |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:31:52 |
+| Lobby Creation Time | Friday, November 3, 2023 06:32:12 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923787055118 |
-| Players | 5/8 |
-| Host Name | Jah Jah |
+| Players | 1/8 |
+| Host Name | spaja |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:30:24 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923787629550 |
-| Players | 14/15 |
-| Host Name | zero |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 06:31:29 |
+| Lobby ID | 28503923788034887 |
+| Players | 1/15 |
+| Host Name |  |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 06:32:14 |
 
 
