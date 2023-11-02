@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575509168087 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | Mango Three |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:48:04 |
@@ -101,19 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:45:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575507093413 |
-| Players | 14/15 |
-| Host Name | ꃥꈤꊐ |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 14:45:23 |
+| Lobby ID | 28502575508840497 |
+| Players | 6/8 |
+| Host Name | няшка в кедах : 7 |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 14:47:39 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575509557100 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Broken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 14:48:35 |
@@ -128,12 +128,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:48:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575508840497 |
-| Players | 5/8 |
-| Host Name | няшка в кедах : 7 |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 14:47:39 |
+| Lobby ID | 28502575510024482 |
+| Players | 1/15 |
+| Host Name | aqaca |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 14:49:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575510021186 |
+| Players | 1/15 |
+| Host Name | Veselsak |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 14:49:12 |
 
 
