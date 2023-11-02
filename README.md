@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575691148330 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | _U_N_S_T_A_B_L_E_ |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 2, 2023 18:14:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575692738274 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Aight, Bet! |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 18:15:38 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575692833709 |
-| Players | 1/15 |
-| Host Name | dyrachyo mentality |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 18:15:43 |
+| Lobby ID | 28502575693237058 |
+| Players | 3/15 |
+| Host Name | boqni |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 2, 2023 18:16:02 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575687785759 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | АбаканскоеПиво |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 18:11:35 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 18:11:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575693072583 |
-| Players | 11/15 |
-| Host Name | Я телевизор |
+| Lobby ID | 28502575691465732 |
+| Players | 7/10 |
+| Host Name | dnb |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 18:15:54 |
+| Lobby Creation Time | Thursday, November 2, 2023 18:14:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,21 +110,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 18:15:50 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575694220937 |
+| Players | 6/8 |
+| Host Name | Odinn |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 18:16:50 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575693237058 |
+| Lobby ID | 28502575694341524 |
 | Players | 1/15 |
-| Host Name | boqni |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 2, 2023 18:16:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575693049443 |
-| Players | 7/10 |
-| Host Name | autumnmood |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 18:15:53 |
+| Host Name | ***** |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 18:16:56 |
 
 
