@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367795385238 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | учат играть на 5к |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 03:44:44 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367697377645 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Animaniacs |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 02:05:16 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 03:46:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367784895976 |
-| Players | 21/24 |
-| Host Name | SeT |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 03:33:06 |
+| Lobby ID | 28503367797383330 |
+| Players | 1/8 |
+| Host Name | Nik_Name |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 03:47:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367796986056 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | elbias |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 03:46:34 |
@@ -164,13 +164,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 03:46:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367797014784 |
-| Players | 1/10 |
-| Host Name | Bobydilder |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 03:46:35 |
+| Lobby ID | 28503367795282357 |
+| Players | 6/15 |
+| Host Name | SAD |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 03:44:37 |
 
 
 |  | ot3_gardens_duo |
@@ -180,15 +180,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | reactive someone |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 03:46:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503367795282357 |
-| Players | 6/15 |
-| Host Name | SAD |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 03:44:37 |
 
 
 |  | epic_boss_fight_hard |
