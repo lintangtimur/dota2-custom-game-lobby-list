@@ -20,19 +20,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 08:12:23 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502575269691869 |
-| Players | 2/5 |
-| Host Name | Booker |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 08:14:03 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575268921937 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | YaMa |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 08:12:43 |
@@ -65,28 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 08:10:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575268467190 |
-| Players | 12/15 |
-| Host Name | Riku |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 08:11:54 |
+| Lobby ID | 28502575269760380 |
+| Players | 2/10 |
+| Host Name | Rupicola |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 08:14:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575266740130 |
-| Players | 1/15 |
-| Host Name | I HATE STUPID KIDS |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 08:08:47 |
+| Lobby ID | 28502575269786234 |
+| Players | 5/15 |
+| Host Name | 'Cry 雨' |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 08:14:13 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575269076785 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | целка на лице |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 08:12:59 |
