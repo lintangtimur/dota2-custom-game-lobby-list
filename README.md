@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575263544838 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Goblok Slayer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 08:02:54 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575265915931 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | Onis |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 08:07:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575265872033 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Abet |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:07:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575265267190 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | yeah right |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 08:06:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575264893559 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | MarcoAScopel |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 08:05:24 |
@@ -92,21 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 08:07:44 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575264205499 |
-| Players | 23/24 |
-| Host Name | Toshiro... |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 08:04:08 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575266329805 |
-| Players | 3/8 |
-| Host Name | ᎢʜᴇᏒᴇᴀʟᏞ |
+| Lobby ID | 28502575266341128 |
+| Players | 1/8 |
+| Host Name | Sharuko |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 08:08:01 |
+| Lobby Creation Time | Thursday, November 2, 2023 08:08:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575266411776 |
+| Players | 1/15 |
+| Host Name | 31st |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 08:08:10 |
 
 
