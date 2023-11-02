@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575265915931 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Onis |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 08:07:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843803149349 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | mis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 03:35:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575265891586 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Pin Head Larry |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 08:07:12 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575266021245 |
+| Lobby ID | 28502575266411776 |
 | Players | 1/15 |
-| Host Name | chungus |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 08:07:27 |
+| Host Name | 31st |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 08:08:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575265872033 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Abet |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:07:10 |
@@ -85,28 +85,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575266179540 |
-| Players | 3/8 |
-| Host Name | ♠ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 08:07:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28502575266341128 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Sharuko |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:08:02 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575266498737 |
+| Players | 1/8 |
+| Host Name | furasshu |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 08:08:20 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575266411776 |
+| Lobby ID | 28502575266531924 |
 | Players | 1/15 |
-| Host Name | 31st |
+| Host Name | рЯДОВОЙ ПАПИРУС |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 08:08:10 |
+| Lobby Creation Time | Thursday, November 2, 2023 08:08:23 |
 
 
