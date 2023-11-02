@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:17:15 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575407012437 |
-| Players | 22/24 |
-| Host Name | izi pipilin |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 12:16:32 |
+| Lobby ID | 28502575408411325 |
+| Players | 1/10 |
+| Host Name | Hellsing...!! |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 12:18:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575407739940 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | meow |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 2, 2023 12:17:38 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:18:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575408296794 |
-| Players | 1/8 |
-| Host Name | KIT |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 12:18:28 |
+| Lobby ID | 28502575408415479 |
+| Players | 1/24 |
+| Host Name | Notsalty |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 12:18:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,21 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:18:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575408411325 |
-| Players | 1/10 |
-| Host Name | Hellsing...!! |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 12:18:38 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575408415479 |
-| Players | 1/24 |
-| Host Name | Notsalty |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 12:18:38 |
+| Lobby ID | 28502575408727201 |
+| Players | 1/8 |
+| Host Name | KIT |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 12:19:06 |
 
 
