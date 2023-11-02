@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341620526409 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | 47 |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 07:33:00 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341620896179 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Toji |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 07:33:44 |
@@ -50,27 +50,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502341621281022 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Sevs |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 07:34:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502341620813602 |
-| Players | 7/8 |
-| Host Name | VAMAMA |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 07:33:34 |
+| Lobby ID | 28502341620836266 |
+| Players | 10/15 |
+| Host Name | NAGASAKI |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 07:33:36 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502341621221559 |
-| Players | 12/15 |
-| Host Name | 薄乐扬 |
+| Lobby ID | 28502341621543691 |
+| Players | 2/15 |
+| Host Name | МИША МАВАШИ |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 07:35:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502341621526092 |
+| Players | 4/15 |
+| Host Name | Shroomba |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 07:34:21 |
+| Lobby Creation Time | Thursday, November 2, 2023 07:34:58 |
 
 
