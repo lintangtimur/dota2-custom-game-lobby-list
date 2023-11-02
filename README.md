@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28502575324479860 |
+| Lobby ID | 28502575324642181 |
 | Players | 1/5 |
 | Host Name | SwangingBellend |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 09:57:52 |
+| Lobby Creation Time | Thursday, November 2, 2023 09:58:09 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575324107140 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 09:57:13 |
@@ -95,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575323465874 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | tu culo es mi palacio |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:56:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575324628933 |
+| Players | 2/10 |
+| Host Name | [22-1]bbsexxx |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 09:58:08 |
 
 
