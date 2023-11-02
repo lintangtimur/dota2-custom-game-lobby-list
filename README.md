@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923799306210 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | Mantelis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:53:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923798191605 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | SeT |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 06:51:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923798791807 |
-| Players | 5/15 |
+| Players | 3/15 |
 | Host Name | єℓ ρα∂яιησ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:52:11 |
@@ -68,27 +68,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923796354166 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | "GoPositive.bet" ARS - Bets4.fun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:47:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923798531987 |
-| Players | 2/8 |
-| Host Name | Moon |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 3, 2023 06:51:40 |
+| Lobby ID | 28503923799334664 |
+| Players | 1/10 |
+| Host Name | Gimmick |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 06:53:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923799332539 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | SHVEPS |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 06:53:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923799418182 |
+| Players | 1/8 |
+| Host Name | Moon |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 06:53:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503923797327823 |
+| Players | 21/24 |
+| Host Name | PATITO NICHAN |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 06:49:23 |
 
 
