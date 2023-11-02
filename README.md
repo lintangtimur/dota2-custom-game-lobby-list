@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 02:30:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367760375402 |
-| Players | 4/8 |
-| Host Name | Freedom |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 03:06:42 |
+| Lobby ID | 28503367739960337 |
+| Players | 3/15 |
+| Host Name | Odio- |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 02:45:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367755491687 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | om nom run 2 parkur |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 03:01:31 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367760261954 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | C U N N I L I N G U S |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 03:06:35 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 03:06:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367754085056 |
-| Players | 14/15 |
-| Host Name | Elinbarrage |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 02:59:59 |
+| Lobby ID | 28503367760633729 |
+| Players | 2/10 |
+| Host Name | Cukumata |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 03:06:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -164,19 +164,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 03:04:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367759849654 |
-| Players | 6/10 |
-| Host Name | Пригожин Женя |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 03:06:08 |
+| Lobby ID | 28503367760683805 |
+| Players | 1/15 |
+| Host Name | Zumpin |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 3, 2023 03:07:02 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367697377645 |
-| Players | 21/24 |
+| Players | 19/24 |
 | Host Name | ID PROBABLY HATE ME TOO |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 02:05:16 |
@@ -191,31 +191,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 03:05:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367760626028 |
-| Players | 1/8 |
-| Host Name | Huknul&Skushal |
+| Lobby ID | 28503367760699433 |
+| Players | 4/10 |
+| Host Name | PerTzo |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 03:06:58 |
+| Lobby Creation Time | Friday, November 3, 2023 03:07:03 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367760634255 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | вхожу в готей) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 3, 2023 03:06:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367760633729 |
-| Players | 2/10 |
-| Host Name | Cukumata |
+| Lobby ID | 28503367760825767 |
+| Players | 3/8 |
+| Host Name | fair_blood/twitch |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 03:06:58 |
+| Lobby Creation Time | Friday, November 3, 2023 03:07:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -234,5 +234,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Zeni |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 03:06:24 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28503367760784649 |
+| Players | 1/10 |
+| Host Name | u wanna play with me? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 03:07:08 |
 
 
