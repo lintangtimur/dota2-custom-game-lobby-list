@@ -14,16 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575288100644 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Booberries |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 08:48:55 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575288298052 |
+| Players | 1/10 |
+| Host Name | Vincenzo Cassano |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 08:49:18 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575286353493 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | tfg |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 08:45:31 |
@@ -47,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 08:15:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575288126094 |
-| Players | 1/15 |
-| Host Name | Ang mga taga hilaga ay mga tanga |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 08:48:58 |
+| Lobby ID | 28502575288247968 |
+| Players | 2/8 |
+| Host Name | Never Gonna Give You Up |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 08:49:12 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575287777902 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Odinn |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 08:48:17 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575287545835 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | BRunzilian |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 08:47:50 |
@@ -95,18 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575287950454 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | DARK SWORD |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:48:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575287454352 |
-| Players | 7/8 |
-| Host Name | hahaha omg lol xd lmfao hehehe |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 08:47:39 |
+| Lobby ID | 28502575288305650 |
+| Players | 1/15 |
+| Host Name | Ang mga taga hilaga ay mga tanga |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 08:49:19 |
 
 
