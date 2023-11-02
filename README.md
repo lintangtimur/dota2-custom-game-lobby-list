@@ -29,15 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 19:32:02 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502575801605143 |
-| Players | 4/5 |
-| Host Name | ppvs |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 2, 2023 19:32:36 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575795170047 |
@@ -58,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575807099414 |
+| Lobby ID | 28502575807465998 |
 | Players | 2/10 |
 | Host Name | Lunakisa |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 19:36:01 |
+| Lobby Creation Time | Thursday, November 2, 2023 19:36:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 19:34:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575806907154 |
-| Players | 1/10 |
-| Host Name | FUCK OFF |
+| Lobby ID | 28502575807258426 |
+| Players | 1/24 |
+| Host Name | Ouanny |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 19:35:54 |
+| Lobby Creation Time | Thursday, November 2, 2023 19:36:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575806452150 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | chipidastr |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 19:35:37 |
@@ -119,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 19:35:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575805125772 |
-| Players | 2/8 |
-| Host Name | mentally unstable? |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 19:34:48 |
+| Lobby ID | 28502575807517422 |
+| Players | 2/10 |
+| Host Name | اسلامجان |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 19:36:17 |
 
 
 |  | ot3_desert_octet |
@@ -140,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575806952844 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Разрушитель |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 2, 2023 19:35:56 |
@@ -149,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575805142480 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Elya |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 19:34:49 |
@@ -164,12 +155,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 19:36:08 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575807258426 |
-| Players | 1/24 |
-| Host Name | Ouanny |
+| Lobby ID | 28502575807560668 |
+| Players | 3/8 |
+| Host Name | санталючия |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 19:36:07 |
+| Lobby Creation Time | Thursday, November 2, 2023 19:36:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575807572182 |
+| Players | 3/8 |
+| Host Name | mentally unstable? |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 19:36:19 |
 
 
