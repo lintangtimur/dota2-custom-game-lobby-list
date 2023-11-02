@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575632854037 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | AEZYM |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 17:20:15 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575646441740 |
-| Players | 5/8 |
-| Host Name | 3 |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 17:34:18 |
+| Lobby ID | 28502575648140701 |
+| Players | 2/8 |
+| Host Name | молодой стручо |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 17:35:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -119,12 +119,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:35:49 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575648254993 |
+| Players | 2/10 |
+| Host Name | придурошный |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 17:36:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575648290713 |
+| Players | 2/10 |
+| Host Name | BOCSANÓT2010 |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 2, 2023 17:36:08 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575648132282 |
+| Lobby ID | 28502575648303822 |
 | Players | 1/24 |
-| Host Name | DoomRamon |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 17:35:58 |
+| Host Name | LoneWolf |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 17:36:08 |
 
 
