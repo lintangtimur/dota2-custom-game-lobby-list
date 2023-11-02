@@ -4,109 +4,109 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575313729687 |
-| Players | 7/10 |
-| Host Name | telelet telelet wawayot |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 09:38:52 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28502575313919343 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | La Rata Mayor |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 09:39:12 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575314185957 |
-| Players | 9/15 |
-| Host Name | Mr.Bass |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 09:39:40 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575313930546 |
-| Players | 5/8 |
-| Host Name | 葉王・朝倉 |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 09:39:13 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575313803385 |
-| Players | 13/15 |
-| Host Name | Logen |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 09:39:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575314136078 |
-| Players | 2/15 |
-| Host Name | Es un Elissir xD |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 09:39:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575313717899 |
+| Lobby ID | 28502575315257498 |
 | Players | 1/8 |
 | Host Name | selegna🖤 |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 09:38:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575309098460 |
-| Players | 2/10 |
-| Host Name | You were nothing but a usurper |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 09:30:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575312570060 |
-| Players | 8/10 |
-| Host Name | Darkness |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 09:36:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575314575299 |
-| Players | 7/8 |
-| Host Name | LOSBENJAMINS |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:40:23 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 09:41:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575314390640 |
+| Lobby ID | 28502575315386900 |
 | Players | 1/24 |
 | Host Name | kels |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 09:40:03 |
+| Lobby Creation Time | Thursday, November 2, 2023 09:41:49 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575315033642 |
-| Players | 1/24 |
+| Players | 9/24 |
 | Host Name | El Tio Juan |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575315392091 |
+| Players | 6/8 |
+| Host Name | def |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 09:41:50 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575313214365 |
+| Players | 22/24 |
+| Host Name | Poseidón Boliviano |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 09:37:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575315365274 |
+| Players | 1/15 |
+| Host Name | Jumper |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575315499124 |
+| Players | 1/15 |
+| Host Name | GiraphKing |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 09:42:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575315503801 |
+| Players | 1/15 |
+| Host Name | Eeo |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 09:42:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575315511845 |
+| Players | 2/10 |
+| Host Name | Rupicola |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 09:42:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575315512850 |
+| Players | 1/15 |
+| Host Name | hope |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 09:42:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575315515411 |
+| Players | 1/15 |
+| Host Name |  |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 09:42:03 |
 
 
