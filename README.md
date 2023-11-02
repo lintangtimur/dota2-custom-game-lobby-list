@@ -110,12 +110,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:39:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575547633370 |
-| Players | 13/15 |
-| Host Name | Dragon |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 15:39:02 |
+| Lobby ID | 28502575548507113 |
+| Players | 1/8 |
+| Host Name | бесперспективняк |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 15:40:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575548447386 |
+| Players | 2/8 |
+| Host Name | nEgr13 |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 15:40:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575548501007 |
+| Players | 1/8 |
+| Host Name | ¤︻デ≡ 一 |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 15:40:10 |
 
 
