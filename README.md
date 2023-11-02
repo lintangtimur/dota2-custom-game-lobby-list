@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367891981159 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Huesitos |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 05:56:51 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367893822329 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | PUNCH1K |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 05:59:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367890994441 |
-| Players | 13/15 |
-| Host Name | ez mid |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 05:55:13 |
+| Lobby ID | 28503367893954321 |
+| Players | 2/10 |
+| Host Name | tears of autumn |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 06:00:06 |
 
 
 |  | ot3_desert_octet |
@@ -104,37 +104,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367893052292 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Aesgard |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 05:58:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367893625001 |
-| Players | 1/24 |
-| Host Name | Jordani Jovanovic |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:59:33 |
+| Lobby ID | 28503367893649757 |
+| Players | 6/8 |
+| Host Name | Ivy Levan |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 05:59:36 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367893718428 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | БОРЯ комфортик |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 05:59:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503367893748222 |
-| Players | 2/10 |
-| Host Name | TeamSpirt.Phantom Freelancer |
+| Lobby ID | 28503367893981683 |
+| Players | 1/24 |
+| Host Name | Jordani Jovanovic |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:59:45 |
+| Lobby Creation Time | Friday, November 3, 2023 06:00:09 |
 
 
 |  | epic_boss_fight_normal |
