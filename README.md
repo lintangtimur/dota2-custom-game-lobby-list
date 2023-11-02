@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923798191605 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | SeT |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 06:51:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923799892528 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Lexa_alekspad |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:54:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923798791807 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | єℓ ρα∂яιησ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:52:11 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923799859465 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | :( M O T A :( |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:54:17 |
@@ -85,37 +85,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923799986809 |
-| Players | 1/15 |
-| Host Name | Fantikk.exe |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:54:32 |
+| Lobby ID | 28503923800055019 |
+| Players | 5/15 |
+| Host Name | DonkayPunch Q(Q'-')!! |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 06:54:40 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923799979499 |
-| Players | 2/10 |
-| Host Name | 1vs9 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:54:31 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923799982086 |
-| Players | 2/10 |
-| Host Name | GoD |
+| Lobby ID | 28503923800044725 |
+| Players | 4/10 |
+| Host Name | Okeysi |
 | Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 06:54:31 |
+| Lobby Creation Time | Friday, November 3, 2023 06:54:39 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923799990627 |
-| Players | 2/8 |
-| Host Name | Bodied in the body |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 3, 2023 06:54:32 |
+| Lobby ID | 28503923796677450 |
+| Players | 7/8 |
+| Host Name | Jivchik |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 06:48:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923800084550 |
+| Players | 2/10 |
+| Host Name | 1vs9 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 06:54:43 |
 
 
