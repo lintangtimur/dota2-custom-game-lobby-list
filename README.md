@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28502575624762476 |
-| Players | 9/10 |
-| Host Name | мя. кing |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 17:11:25 |
+| Lobby ID | 28502575629661516 |
+| Players | 1/5 |
+| Host Name | parsa_craid |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 17:16:48 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 16:57:30 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575629437420 |
+| Players | 1/10 |
+| Host Name | Too Good To Win? |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 17:16:33 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575628667744 |
-| Players | 6/8 |
-| Host Name | destroying myself |
+| Lobby ID | 28502575629577838 |
+| Players | 5/8 |
+| Host Name | ногти в черный |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:15:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575628335163 |
-| Players | 11/15 |
-| Host Name | w40 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:15:21 |
+| Lobby Creation Time | Thursday, November 2, 2023 17:16:42 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575627670605 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | rafzZ~ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 17:14:37 |
@@ -92,12 +92,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:16:11 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575629371870 |
+| Players | 6/15 |
+| Host Name | shojun侍 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 17:16:29 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575629828688 |
+| Players | 1/24 |
+| Host Name | Горломир |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 17:16:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575629854004 |
+| Players | 1/24 |
+| Host Name | Nexit |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 17:17:00 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575629184740 |
+| Lobby ID | 28502575629885181 |
 | Players | 1/8 |
-| Host Name | I CAN HOST OVERTHROW !!! |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 17:16:17 |
+| Host Name | RamzanDON |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 17:17:02 |
 
 
