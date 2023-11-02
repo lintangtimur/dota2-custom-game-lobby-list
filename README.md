@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341624394788 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Carter0912 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 07:40:38 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502341624212021 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Jivchik |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 07:40:16 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341621717784 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | dragoon |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 07:35:20 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341624645351 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | NeDix! |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 07:41:08 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341625133964 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | 홍은채) 내 동료가 돼라 홍은채) 물고기 캠 |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 07:42:05 |
@@ -108,6 +108,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | I love wolf |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 07:41:51 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502341623088225 |
+| Players | 8/10 |
+| Host Name | Too Good To Win? |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 07:38:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502341625250660 |
+| Players | 2/10 |
+| Host Name | Amavakidavra |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 07:42:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502341625256337 |
+| Players | 1/15 |
+| Host Name | мой кайф |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 07:42:19 |
 
 
 |  | epic_boss_fight_nightmare |
