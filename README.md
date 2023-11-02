@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575358051644 |
-| Players | 1/15 |
-| Host Name | DeVIP |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 10:56:10 |
+| Lobby ID | 28502575360172802 |
+| Players | 2/15 |
+| Host Name | СиловИч |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 11:00:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575359493551 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Caramelbear |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:58:47 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575356170186 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | My fart doesn't stink |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 10:52:48 |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575358379752 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | there is no hope |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:56:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575359819168 |
-| Players | 14/15 |
-| Host Name | @!3*|s |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:59:22 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575359944692 |
-| Players | 2/10 |
-| Host Name | kiyotaka |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:59:36 |
 
 
 |  | ot3_desert_octet |
@@ -119,12 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 11:00:00 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575359944692 |
+| Players | 5/10 |
+| Host Name | kiyotaka |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 10:59:36 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575360172802 |
+| Lobby ID | 28502575360302754 |
 | Players | 1/15 |
-| Host Name | СиловИч |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 11:00:00 |
+| Host Name | DeVIP |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 11:00:17 |
 
 
