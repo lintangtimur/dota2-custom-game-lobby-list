@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575341632058 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | González Pérez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 10:27:14 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575341335976 |
-| Players | 7/8 |
-| Host Name | Hope |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:26:43 |
+| Lobby ID | 28502575341851041 |
+| Players | 3/8 |
+| Host Name | Jivchik |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 10:27:38 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575341203927 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Pichuleitor |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:26:29 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 10:27:57 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575341932788 |
-| Players | 3/24 |
-| Host Name | miss 2B |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:27:46 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575341841733 |
@@ -101,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 10:27:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575341851041 |
-| Players | 2/8 |
-| Host Name | Jivchik |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 10:27:38 |
+| Lobby ID | 28502575342268473 |
+| Players | 6/24 |
+| Host Name | jebao |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 10:28:22 |
 
 
