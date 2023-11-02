@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575581860483 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | Boris |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 2, 2023 16:20:50 |
@@ -29,28 +29,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:40:10 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575581397917 |
-| Players | 1/8 |
-| Host Name | CoffeHo |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 16:20:18 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575581794582 |
-| Players | 1/10 |
-| Host Name | She looks like starry sky |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 16:20:45 |
+| Lobby ID | 28502575582418346 |
+| Players | 5/10 |
+| Host Name | Інфляція |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 16:21:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575582460374 |
+| Players | 6/8 |
+| Host Name | 192 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 16:21:32 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575581661242 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Optimal |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 16:20:36 |
@@ -59,18 +59,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575580604401 |
-| Players | 7/10 |
-| Host Name | Дімка українець |
+| Players | 6/10 |
+| Host Name | cat eat chip |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 16:19:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575582155395 |
-| Players | 1/8 |
-| Host Name | Raycon |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 16:21:11 |
+| Lobby ID | 28502575580536431 |
+| Players | 13/15 |
+| Host Name | 2rik |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 16:19:18 |
 
 
