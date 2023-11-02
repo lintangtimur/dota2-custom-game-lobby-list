@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923790630982 |
-| Players | 4/15 |
+| Players | 11/15 |
 | Host Name | Politician=Parasite |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 06:36:56 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923788705933 |
-| Players | 6/10 |
-| Host Name | The Trash Mann |
+| Players | 8/10 |
+| Host Name | Cara Delevingne |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:33:28 |
 
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | -100% PMA |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:38:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923791380425 |
+| Players | 1/8 |
+| Host Name | Пуля на вылет |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 06:38:13 |
 
 
