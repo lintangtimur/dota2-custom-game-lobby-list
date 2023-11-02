@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575456461002 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Kover |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 13:35:08 |
@@ -49,20 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575460893422 |
-| Players | 1/10 |
-| Host Name | <3 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 13:41:52 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575460932880 |
+| Lobby ID | 28502575461009813 |
 | Players | 1/10 |
 | Host Name | ἱεγλύ |
 | Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 13:41:55 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:42:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575460093643 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 13:40:39 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575460765797 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Reddy |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 13:41:40 |
@@ -95,27 +86,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575446811565 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | waiting for death |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 13:19:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575454986101 |
-| Players | 1/15 |
-| Host Name | GT |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 13:32:52 |
+| Lobby ID | 28502575460992316 |
+| Players | 1/8 |
+| Host Name | Slave |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 13:42:00 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575461049115 |
+| Players | 6/24 |
+| Host Name | スモークベア |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 13:42:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575460942291 |
+| Lobby ID | 28502575461077923 |
 | Players | 1/15 |
 | Host Name | 異體字爲為为畫畵画線 |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 13:41:56 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:42:08 |
 
 
