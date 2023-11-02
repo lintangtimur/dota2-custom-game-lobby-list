@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575370813419 |
-| Players | 7/10 |
+| Players | 5/10 |
 | Host Name | CACHA TOMBOS! |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:19:34 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575370973715 |
-| Players | 1/15 |
-| Host Name | Злой свист |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 11:19:51 |
+| Lobby ID | 28502575371015548 |
+| Players | 4/15 |
+| Host Name | ADIÓS DOTITA, GRACIAS POR TODO |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 11:19:56 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575370578823 |
-| Players | 5/24 |
+| Players | 10/24 |
 | Host Name | miserable |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:19:09 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575367246819 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Sirlagsalot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:13:10 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575369760576 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | OfficialKTChubs |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:17:41 |
