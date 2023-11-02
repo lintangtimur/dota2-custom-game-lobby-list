@@ -2,24 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575410757134 |
-| Players | 1/10 |
-| Host Name | Virtual Energy |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 12:22:12 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575414728301 |
-| Players | 1/10 |
-| Host Name | Белый |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 12:28:17 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
@@ -32,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575410250770 |
-| Players | 8/10 |
+| Players | 4/10 |
 | Host Name | GraF044 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:21:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575413506710 |
-| Players | 1/15 |
-| Host Name | Fadealy |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 12:26:25 |
+| Lobby ID | 28502575414417341 |
+| Players | 1/10 |
+| Host Name | лобанов |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 12:27:49 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575413679418 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Nexro |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 12:26:41 |
@@ -59,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575412981244 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:25:36 |
@@ -77,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575414347155 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Toshiro... |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:27:42 |
@@ -101,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:26:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575413987489 |
-| Players | 1/8 |
-| Host Name | Shizukano |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 12:27:09 |
+| Lobby ID | 28502575414129602 |
+| Players | 1/10 |
+| Host Name | Marshalldoge |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 12:27:22 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575414057330 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | BomBiTa |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:27:16 |
@@ -122,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575414230611 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | all good |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 12:27:31 |
@@ -137,30 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:27:36 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575414417341 |
-| Players | 1/10 |
-| Host Name | лобанов |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 12:27:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575414129602 |
-| Players | 9/10 |
-| Host Name | Yizucito♣ |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 12:27:22 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575414509906 |
+| Lobby ID | 28502575415082313 |
 | Players | 1/8 |
-| Host Name | KVASLOVER |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 12:27:57 |
+| Host Name | I N S A N E |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 12:28:50 |
 
 
