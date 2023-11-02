@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575439280324 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Oni |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:07:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575437013489 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Solo estoy pasando el rato |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 13:03:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575438965103 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | GeliPat |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 13:06:47 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575432089024 |
-| Players | 8/10 |
-| Host Name | **__An1nh4_++_Tr3v0s4__** |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 12:55:26 |
+| Lobby ID | 28502575439872195 |
+| Players | 2/10 |
+| Host Name | GT500 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 13:08:21 |
 
 
 |  | ot3_gardens_duo |
@@ -119,30 +119,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:08:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575438583480 |
-| Players | 9/10 |
-| Host Name | Lunaria |
+| Lobby ID | 28502575439835284 |
+| Players | 1/8 |
+| Host Name | [♂+♂=♥]6LyaDuKtoR |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 13:06:07 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:08:18 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575439746652 |
-| Players | 1/10 |
-| Host Name | 私を救う |
+| Lobby ID | 28502575439854099 |
+| Players | 2/10 |
+| Host Name | ГАШУ НЕФАРАФ |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 13:08:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575439755392 |
-| Players | 3/15 |
-| Host Name | aki |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 13:08:09 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:08:19 |
 
 
