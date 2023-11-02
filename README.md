@@ -5,19 +5,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575468071098 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Crazy-Man |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 13:52:15 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575473976715 |
-| Players | 9/10 |
-| Host Name | ripples |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 14:00:39 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -47,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:57:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575475341675 |
-| Players | 13/15 |
-| Host Name | boombox |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 14:02:35 |
+| Lobby ID | 28502575476452749 |
+| Players | 1/10 |
+| Host Name | Optimal |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 14:04:10 |
 
 
 |  | ot3_desert_octet |
@@ -90,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MADARA |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 13:52:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575476452749 |
-| Players | 1/10 |
-| Host Name | Optimal |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 14:04:10 |
 
 
