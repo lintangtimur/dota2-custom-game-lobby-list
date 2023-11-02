@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:55:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575431261929 |
-| Players | 4/8 |
-| Host Name | Arthas |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 12:54:08 |
+| Lobby ID | 28502575434267912 |
+| Players | 3/15 |
+| Host Name | ^^bongafonx` |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 12:58:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 私を救う |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 12:58:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575434267912 |
-| Players | 1/15 |
-| Host Name | ^^bongafonx` |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 12:58:51 |
 
 
