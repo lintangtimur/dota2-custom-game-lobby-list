@@ -2,6 +2,15 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575541919230 |
+| Players | 1/10 |
+| Host Name | DLove |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 15:31:48 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
@@ -23,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575541296985 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Kayak |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 15:31:02 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575539700822 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | why u no do something |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 15:29:04 |
@@ -47,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:18:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575540877542 |
-| Players | 3/8 |
-| Host Name | они бояться женщи |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 15:30:31 |
+| Lobby ID | 28502575535867016 |
+| Players | 12/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 15:24:09 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575541391368 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | BRAMBRAGE |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 15:31:09 |
@@ -76,10 +85,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575541570073 |
+| Lobby ID | 28502575541721224 |
+| Players | 10/15 |
+| Host Name | FMLYBND |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 15:31:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575541969309 |
 | Players | 1/15 |
-| Host Name | ТОП 1 МАГНУС |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 15:31:22 |
+| Host Name | q1 |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 15:31:51 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28502575542009889 |
+| Players | 1/24 |
+| Host Name | Comedy |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 15:31:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575542015007 |
+| Players | 1/8 |
+| Host Name | Lorden |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 15:31:55 |
 
 
