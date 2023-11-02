@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575319508522 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | Fresh air balloonist |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:49:13 |
@@ -59,61 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575316515406 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Pro Archon Gaming |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:43:51 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575318257032 |
-| Players | 16/24 |
-| Host Name | ♪KEMPER♪ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:47:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575319199795 |
-| Players | 1/10 |
-| Host Name | S1nkl家族 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:48:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575319469347 |
-| Players | 1/8 |
-| Host Name | iB.Rock |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:49:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575318888226 |
-| Players | 8/10 |
-| Host Name | чел |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 09:48:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575319351834 |
-| Players | 1/15 |
-| Host Name | MrSheldy |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 09:48:56 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575319358228 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Paul Thomas Anderson |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:48:57 |
@@ -130,10 +85,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575319642182 |
-| Players | 1/8 |
-| Host Name | iseedeadp3ople |
+| Lobby ID | 28502575319469347 |
+| Players | 2/8 |
+| Host Name | iB.Rock |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:49:27 |
+| Lobby Creation Time | Thursday, November 2, 2023 09:49:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575319963888 |
+| Players | 3/8 |
+| Host Name | xoxo |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 09:50:01 |
 
 
