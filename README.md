@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 18:13:35 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28502575692738274 |
-| Players | 8/10 |
-| Host Name | Aight, Bet! |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 18:15:38 |
+| Lobby ID | 28502575696122838 |
+| Players | 1/5 |
+| Host Name | Играю ногами |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 18:18:21 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -65,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 18:11:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575695681562 |
-| Players | 2/15 |
-| Host Name | Реквием по Киеву |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 18:18:00 |
+| Lobby ID | 28502575695870831 |
+| Players | 4/10 |
+| Host Name | Chucky™ |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 2, 2023 18:18:09 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575695820270 |
+| Lobby ID | 28502575696015609 |
 | Players | 4/8 |
-| Host Name | Чурчхела |
+| Host Name | antiredan1.STONEISLAND2222 |
 | Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 18:18:07 |
+| Lobby Creation Time | Thursday, November 2, 2023 18:18:16 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,23 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 1 3 3 7 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 18:18:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575695870831 |
-| Players | 1/10 |
-| Host Name | Chucky™ |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 2, 2023 18:18:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575695954706 |
-| Players | 1/8 |
-| Host Name | ノラガミ |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 18:18:13 |
 
 
