@@ -2,19 +2,10 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575293550147 |
-| Players | 9/10 |
-| Host Name | González Pérez |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 08:59:37 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575296735852 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Ice |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 09:06:25 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575296331231 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Oklahoma |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:05:35 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575296468824 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Kärss |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 09:05:52 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575296163680 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Korrelol |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:05:13 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575296427709 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | twitch.tv/kiwi_chanvt |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:05:47 |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Purpollapoop |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:05:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575297128161 |
+| Players | 1/8 |
+| Host Name | фишмэн в зоне |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 09:07:15 |
 
 
