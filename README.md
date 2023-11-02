@@ -29,6 +29,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:29:31 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575453040298 |
+| Players | 1/5 |
+| Host Name | WearY |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 13:29:53 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575451513320 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | super598 |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 13:27:29 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575450723028 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | HOMBRE EN LLAMAS |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 13:26:13 |
@@ -101,30 +110,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:28:56 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575451098699 |
-| Players | 12/15 |
-| Host Name | Simpest Pimp |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 13:26:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575452611216 |
-| Players | 7/8 |
-| Host Name | Микро-ничтожыч |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 13:29:13 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575452940903 |
-| Players | 2/10 |
-| Host Name | mUn |
+| Lobby ID | 28502575453139238 |
+| Players | 1/10 |
+| Host Name | НАТЯЖНЫЕ ПОТОЛКИ |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 13:29:44 |
+| Lobby Creation Time | Thursday, November 2, 2023 13:30:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575453115961 |
+| Players | 1/15 |
+| Host Name | 歌月十夜 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 13:30:00 |
 
 
