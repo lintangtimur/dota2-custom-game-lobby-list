@@ -2,19 +2,10 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575267441899 |
-| Players | 8/10 |
-| Host Name | Белый |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 08:10:05 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575272017486 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Kimetsu |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 08:18:14 |
@@ -23,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843803149349 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | mis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 03:35:21 |
@@ -47,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 08:17:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575272104901 |
-| Players | 6/15 |
-| Host Name | samurai |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 08:18:23 |
+| Lobby ID | 28502575272172621 |
+| Players | 8/8 |
+| Host Name | DuningDota |
+| Region | Unknown |
+| Lobby Creation Time | Thursday, November 2, 2023 08:18:31 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575271789841 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | xMefis |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:17:50 |
@@ -76,28 +67,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575271970466 |
-| Players | 15/24 |
-| Host Name | FoundOne |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 08:18:09 |
+| Lobby ID | 28502575272796951 |
+| Players | 3/24 |
+| Host Name | s0987 |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 08:19:38 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575272407179 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Muy Malo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:18:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575272172621 |
-| Players | 8/8 |
-| Host Name | DuningDota |
-| Region | Unknown |
-| Lobby Creation Time | Thursday, November 2, 2023 08:18:31 |
+| Lobby ID | 28502575272971242 |
+| Players | 5/15 |
+| Host Name | BadV1sion |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 08:19:58 |
 
 
