@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575462493711 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Grim |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:44:16 |
@@ -67,26 +67,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575464729932 |
-| Players | 2/8 |
-| Host Name | CryForTheMoon |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 13:47:33 |
+| Lobby ID | 28502575465130062 |
+| Players | 1/8 |
+| Host Name | Kotarō痛 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 13:48:06 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575464086067 |
+| Lobby ID | 28502575465132261 |
 | Players | 1/10 |
-| Host Name | Myrtenaster |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 13:46:37 |
+| Host Name | Sleepless |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 13:48:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575463451810 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Goa-♥ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 13:45:41 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575465042499 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | [V] Nero [Z] |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 13:47:59 |
@@ -104,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575465097371 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | raddanx |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 13:48:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575465126435 |
+| Players | 1/15 |
+| Host Name | 異體字爲為为畫畵画線 |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 13:48:06 |
 
 
