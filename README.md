@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575283274356 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ScorpioN |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:39:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575270714370 |
-| Players | 6/24 |
+| Players | 4/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 08:15:56 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575282503619 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Odinn |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 08:38:05 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575282785002 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | GENIUS (at 4k mmr) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 08:38:37 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575283138891 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | BuBu |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:39:18 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575282349617 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | YaMa |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 08:37:47 |
@@ -122,9 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575282744928 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | Mouches Volantes |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 08:38:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575283493489 |
+| Players | 3/15 |
+| Host Name | Победилдо |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 08:39:59 |
 
 
