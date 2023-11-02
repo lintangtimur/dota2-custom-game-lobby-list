@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367878358183 |
-| Players | 16/24 |
+| Players | 22/24 |
 | Host Name | 11by |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 05:35:01 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367865966925 |
-| Players | 17/24 |
+| Players | 15/24 |
 | Host Name | + |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 05:16:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367877869999 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Dominic Tavorotto |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 05:34:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367876934306 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Morde |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 05:32:49 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367872035126 |
-| Players | 4/15 |
-| Host Name | Benjamus |
+| Players | 2/15 |
+| Host Name | DJ NUTQUIK |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 05:25:21 |
 
@@ -77,25 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367878311857 |
-| Players | 3/15 |
-| Host Name | Dopeganger |
+| Players | 1/15 |
+| Host Name | Ruben |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 05:34:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367877357918 |
-| Players | 5/8 |
-| Host Name | дэйв гриль |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:33:28 |
+| Lobby ID | 28503367879305711 |
+| Players | 7/15 |
+| Host Name | Nikki |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 05:36:28 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367878618470 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Som1 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 05:35:25 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367866730659 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | CorosionaL DamagE |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 05:17:13 |
@@ -113,19 +113,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367870336038 |
-| Players | 8/10 |
+| Players | 5/10 |
 | Host Name | CallaTe-Pendeja |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 05:22:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367878852590 |
-| Players | 4/15 |
-| Host Name | lfy |
+| Lobby ID | 28503367879251805 |
+| Players | 5/10 |
+| Host Name | СОЛА НА СКИЛЕ |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 3, 2023 05:36:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367879634763 |
+| Players | 6/8 |
+| Host Name | ArTiN AB |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:35:46 |
+| Lobby Creation Time | Friday, November 3, 2023 05:36:59 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,14 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 05:27:52 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28503367878793249 |
-| Players | 1/5 |
-| Host Name | Добрый апельсин |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 05:35:41 |
 
 
