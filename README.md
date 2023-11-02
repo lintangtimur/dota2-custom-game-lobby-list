@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28502575305665017 |
-| Players | 4/7 |
+| Players | 5/7 |
 | Host Name | Danny German |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:23:58 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:23:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575305000160 |
-| Players | 6/10 |
-| Host Name | Oklahoma |
+| Lobby ID | 28502575307358831 |
+| Players | 8/24 |
+| Host Name | LesS |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:22:43 |
+| Lobby Creation Time | Thursday, November 2, 2023 09:27:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575306758930 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | ♁＊＊ SIA ＊＊ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 09:26:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575306918547 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | GATO |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 09:26:21 |
@@ -76,28 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575306410095 |
-| Players | 6/10 |
-| Host Name | Kimetsu |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 09:25:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575306379253 |
+| Lobby ID | 28502575307754372 |
 | Players | 1/10 |
-| Host Name | Ajr |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 09:25:20 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575307358831 |
-| Players | 2/24 |
-| Host Name | LesS |
+| Host Name | Kill 'Em All |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 09:27:11 |
+| Lobby Creation Time | Thursday, November 2, 2023 09:27:56 |
 
 
