@@ -11,10 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 16:20:42 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575583802887 |
+| Players | 1/5 |
+| Host Name | 5 pos enjoyer |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 16:23:06 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575583458171 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | liya |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 16:22:41 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575583184785 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Mixnajaren |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 16:22:22 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575583263908 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | 5h4k3R |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 16:22:28 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575583516644 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | i need more bullets |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 16:22:46 |
@@ -87,8 +96,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28502575580536431 |
 | Players | 13/15 |
-| Host Name | Sonya |
+| Host Name | 2rik |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 16:19:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575583775388 |
+| Players | 4/8 |
+| Host Name | shadow friend |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 16:23:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575583802509 |
+| Players | 1/8 |
+| Host Name | apelsin |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 16:23:06 |
 
 
