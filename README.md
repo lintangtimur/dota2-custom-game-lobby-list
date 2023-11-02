@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 10:30:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575344795081 |
-| Players | 6/8 |
-| Host Name | Kukurudza Striptizerka |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 10:32:40 |
+| Lobby ID | 28502575343966026 |
+| Players | 1/15 |
+| Host Name | polobum86 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 10:31:16 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575344053357 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Dimebag Darrell |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:31:24 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575342268473 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | jebao |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 10:28:22 |
@@ -86,36 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575343080807 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | FB 🎸👻 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 10:29:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575343966026 |
-| Players | 1/15 |
-| Host Name | polobum86 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:31:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575343837667 |
-| Players | 13/15 |
-| Host Name | ChefsiTo |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:31:03 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575346046365 |
-| Players | 1/24 |
-| Host Name | Natural |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 10:34:50 |
 
 
