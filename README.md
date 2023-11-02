@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367846126810 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Calisthenics<3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 04:47:14 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367843341848 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | Mike Oxlong |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 04:43:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367846822556 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | RUSZAR |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 04:48:11 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367841527101 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | мяу мяу мяу |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 04:40:56 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367846946997 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | 青墨 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 04:48:22 |
@@ -155,19 +155,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 04:48:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367834381630 |
-| Players | 13/15 |
-| Host Name | ² |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 04:31:34 |
+| Lobby ID | 28503367848174823 |
+| Players | 1/8 |
+| Host Name | ПОЛНЫЙ ОТСОС |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 04:50:04 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367848082250 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ФОРТАНУЛО ЕБАТЬ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 04:49:56 |
@@ -175,20 +175,56 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367848006104 |
-| Players | 7/10 |
-| Host Name | Artemis, The Huntress |
+| Lobby ID | 28503367848223335 |
+| Players | 2/10 |
+| Host Name | Florzy |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 04:49:49 |
+| Lobby Creation Time | Friday, November 3, 2023 04:50:08 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367848127229 |
-| Players | 3/15 |
+| Players | 11/15 |
 | Host Name | Geralt - |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 04:50:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503367848265589 |
+| Players | 2/10 |
+| Host Name | 666 |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 04:50:11 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503367848258105 |
+| Players | 1/24 |
+| Host Name | NightSuki ツユ |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 04:50:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503367848272463 |
+| Players | 1/10 |
+| Host Name | Nyles |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 04:50:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367848285209 |
+| Players | 6/8 |
+| Host Name | サタンの殺人者 |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 04:50:13 |
 
 
 |  | epic_boss_fight_normal |
@@ -203,7 +239,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503367847821564 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | k. Danger-Zone |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 04:49:34 |
