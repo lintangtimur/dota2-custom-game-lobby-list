@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:13:08 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575483481208 |
-| Players | 1/10 |
-| Host Name | Алкаш |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 14:13:59 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
@@ -65,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:48:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575481379950 |
-| Players | 14/15 |
-| Host Name | РОМАТИМБЕРСАУ |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 14:11:05 |
+| Lobby ID | 28502575483491684 |
+| Players | 3/8 |
+| Host Name | Тайно Дёрнул |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 14:14:00 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575478261205 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | waiting for death |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 14:06:45 |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | [A]DmiralLight |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 2, 2023 14:12:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575483616171 |
+| Players | 6/8 |
+| Host Name | Igori |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 14:14:10 |
 
 
