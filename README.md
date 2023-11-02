@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575367246819 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Sirlagsalot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:13:10 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575373446405 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | заторчал |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:24:09 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575372688160 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | 9S |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:22:50 |
@@ -95,18 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575372950209 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Kukurudza Striptizerka |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:23:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575373020189 |
-| Players | 6/8 |
-| Host Name | жопа |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 11:23:25 |
+| Lobby ID | 28502575373534417 |
+| Players | 2/10 |
+| Host Name | TOGA |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 11:24:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575373528606 |
+| Players | 1/10 |
+| Host Name | BⱠ₳ĐɆⱤɄ₦₦ɆⱤ |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 11:24:17 |
 
 
