@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575410757134 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | bodak |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 12:22:12 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575410250770 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | GraF044 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:21:26 |
@@ -40,20 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575413787494 |
+| Lobby ID | 28502575413506710 |
 | Players | 1/15 |
-| Host Name | 上玄  零 |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 12:26:51 |
+| Host Name | Fadealy |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 12:26:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575410527308 |
-| Players | 6/8 |
-| Host Name | JustCoolGameR |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 12:21:51 |
+| Lobby ID | 28502575413679418 |
+| Players | 2/15 |
+| Host Name | Nexro |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 12:26:41 |
 
 
 |  | ot3_desert_octet |
@@ -101,21 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:26:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575413506710 |
-| Players | 1/15 |
-| Host Name | Fadealy |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 12:26:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575413679418 |
-| Players | 1/15 |
-| Host Name | Nexro |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 12:26:41 |
+| Lobby ID | 28502575413860381 |
+| Players | 1/8 |
+| Host Name | Shizukano |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 12:26:57 |
 
 
