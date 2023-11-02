@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575519712727 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | 𒇫𒄆 Skvirtoslav 𒂝𒀱 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 15:02:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575519850012 |
-| Players | 11/15 |
-| Host Name | tv|artOfmagnus |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 15:02:20 |
+| Lobby ID | 28502575520201217 |
+| Players | 3/24 |
+| Host Name | ANIKI 兄貴 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 15:02:50 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575519990327 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | 76561199040826191 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 15:02:33 |
@@ -92,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:58:06 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575520201217 |
-| Players | 1/24 |
-| Host Name | ANIKI 兄貴 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 15:02:50 |
+| Lobby ID | 28502575520443826 |
+| Players | 1/8 |
+| Host Name | Sneaky Beaky Like ¯\_(ツ)_/¯ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 15:03:11 |
 
 
