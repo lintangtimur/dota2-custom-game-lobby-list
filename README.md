@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28502575689875583 |
-| Players | 1/7 |
+| Players | 3/7 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 18:13:18 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575690911744 |
-| Players | 1/5 |
+| Lobby ID | 28502575691148330 |
+| Players | 1/10 |
 | Host Name | _U_N_S_T_A_B_L_E_ |
 | Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 2, 2023 18:14:08 |
+| Lobby Creation Time | Thursday, November 2, 2023 18:14:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575686133840 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | CYKA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 18:10:14 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575690887212 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | девки с хуем |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 18:14:07 |
@@ -101,12 +101,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 18:13:56 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575690088245 |
+| Players | 2/8 |
+| Host Name | Mr_Vojlovr |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 18:13:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575690936352 |
+| Players | 2/8 |
+| Host Name | англиский_творог |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 2, 2023 18:14:10 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575689687724 |
-| Players | 8/10 |
-| Host Name | DolòrE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 18:13:09 |
+| Lobby ID | 28502575660710971 |
+| Players | 4/10 |
+| Host Name | Too Good To Win? |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 17:47:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575690989913 |
+| Players | 1/15 |
+| Host Name | TheEleven |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 18:14:12 |
 
 
