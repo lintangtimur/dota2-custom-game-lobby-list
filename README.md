@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575808781397 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | 乱战先锋第一骚货！ |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 19:37:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575833257081 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 19:52:08 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575849375979 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Ромка |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 20:01:58 |
@@ -85,19 +85,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575849489245 |
-| Players | 1/10 |
-| Host Name | позорник |
+| Lobby ID | 28502575849799222 |
+| Players | 2/10 |
+| Host Name | Ame fan (=^-ω-^=) |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 20:02:02 |
+| Lobby Creation Time | Thursday, November 2, 2023 20:02:13 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575849640948 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | WASD |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 20:02:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575849712529 |
+| Players | 3/15 |
+| Host Name | Supreme_dog |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 2, 2023 20:02:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575849963758 |
+| Players | 1/10 |
+| Host Name | S1MPLE ツ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 20:02:19 |
 
 
