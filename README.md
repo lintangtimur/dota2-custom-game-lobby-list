@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367641793650 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Jivchik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 3, 2023 01:19:38 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367640496203 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | 你生我梦 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 01:18:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367641936993 |
-| Players | 2/8 |
-| Host Name | Drab_so |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 3, 2023 01:19:45 |
+| Lobby ID | 28503367642506229 |
+| Players | 6/10 |
+| Host Name | Power ball |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 01:20:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367641630888 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Viking |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 01:19:29 |
@@ -85,92 +85,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367642265599 |
-| Players | 2/8 |
-| Host Name | Atom |
+| Lobby ID | 28503367642555723 |
+| Players | 4/8 |
+| Host Name | ☁️k1zy52☁ |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 3, 2023 01:20:03 |
+| Lobby Creation Time | Friday, November 3, 2023 01:20:18 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367642270607 |
-| Players | 3/8 |
-| Host Name | 斯BeLLeX社 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 3, 2023 01:20:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503367642281842 |
-| Players | 1/15 |
-| Host Name | Bottom G |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 3, 2023 01:20:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367642313052 |
-| Players | 7/10 |
-| Host Name | g apu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 3, 2023 01:20:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503367642310472 |
-| Players | 1/10 |
-| Host Name | Отпиздил женщину |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 3, 2023 01:20:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503367642307802 |
-| Players | 1/15 |
-| Host Name | hellwallker ^Absolute^ |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 01:20:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503367642311893 |
-| Players | 1/15 |
-| Host Name | kokorinashi |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 01:20:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503367642324824 |
+| Lobby ID | 28503367642482119 |
 | Players | 2/8 |
-| Host Name | -30 mmr |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 01:20:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503367642336382 |
-| Players | 2/15 |
-| Host Name | CynoRx |
-| Region | AUSTRIA |
-| Lobby Creation Time | Friday, November 3, 2023 01:20:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503367642323270 |
-| Players | 1/15 |
-| Host Name | 再别说了 |
+| Host Name | asianmasterhitlersenpai |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 3, 2023 01:20:06 |
+| Lobby Creation Time | Friday, November 3, 2023 01:20:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503367642560913 |
+| Players | 2/10 |
+| Host Name | sopli |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 3, 2023 01:20:18 |
 
 
 |  | epic_boss_fight_normal |
@@ -212,18 +149,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503367642100822 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Vertual |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 01:19:54 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28503367642326460 |
-| Players | 1/5 |
-| Host Name | you kill me with your smile |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 3, 2023 01:20:06 |
 
 
