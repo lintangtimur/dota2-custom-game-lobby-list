@@ -65,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575460093643 |
-| Players | 9/10 |
-| Host Name | Moises |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 13:40:39 |
+| Lobby ID | 28502575461631220 |
+| Players | 1/8 |
+| Host Name | 111 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 13:42:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575461049115 |
-| Players | 6/24 |
-| Host Name | スモークベア |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 13:42:06 |
+| Lobby ID | 28502575461583633 |
+| Players | 2/8 |
+| Host Name | Jazee |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 13:42:54 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,21 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:42:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575461578914 |
-| Players | 1/15 |
-| Host Name | 異體字爲為为畫畵画線 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 13:42:53 |
+| Lobby ID | 28502575446811565 |
+| Players | 7/8 |
+| Host Name | ЖёпПа С РуЧкоЙ |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 13:19:57 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575461583633 |
-| Players | 2/8 |
-| Host Name | Jazee |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 13:42:54 |
+| Lobby ID | 28502575461721601 |
+| Players | 1/8 |
+| Host Name | kai / blackreaper |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 13:43:06 |
 
 
