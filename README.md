@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367875382047 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | ASSASSING |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 05:30:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367875683613 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | KRiS |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 05:30:56 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367875385411 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | BABY-ROSH (AL) |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 05:30:29 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367866730659 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | CorosionaL DamagE |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 05:17:13 |
@@ -96,45 +96,81 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28503367875404403 |
 | Players | 1/15 |
-| Host Name | Horny ??? |
+| Host Name | Dopeganger |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 05:30:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367875881497 |
-| Players | 1/8 |
-| Host Name | JN |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 05:31:14 |
+| Lobby ID | 28503367875937326 |
+| Players | 1/15 |
+| Host Name | 自己破壊的な |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 05:31:19 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367870336038 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | pipi |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 05:22:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367875887447 |
-| Players | 1/8 |
-| Host Name | decaff boy |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 05:31:14 |
+| Lobby ID | 28503367875992695 |
+| Players | 2/15 |
+| Host Name | Mind_Scream |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 05:31:24 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503367865539367 |
+| Players | 8/10 |
+| Host Name | so sad |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 05:15:24 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367875890885 |
+| Lobby ID | 28503367875994026 |
 | Players | 1/15 |
-| Host Name | 自己破壊的な |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 05:31:15 |
+| Host Name | one day |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 05:31:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503367876006336 |
+| Players | 1/8 |
+| Host Name | EvilArthas |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 05:31:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503367876006912 |
+| Players | 1/15 |
+| Host Name | ban |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 05:31:25 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503367876004892 |
+| Players | 1/10 |
+| Host Name | hiro |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 05:31:25 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -153,5 +189,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 05:27:52 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28503367876003542 |
+| Players | 2/5 |
+| Host Name | Lopotisha |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 05:31:25 |
 
 
