@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502341606491017 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 07:04:55 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843803149349 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | mis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 03:35:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502341607013926 |
-| Players | 12/24 |
+| Players | 17/24 |
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 07:06:00 |
@@ -67,26 +67,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502341607774086 |
-| Players | 7/8 |
-| Host Name | zloyyad |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 07:07:32 |
+| Lobby ID | 28502341607313953 |
+| Players | 2/8 |
+| Host Name | TI_ Polux_Troy |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 07:06:36 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502341607903386 |
-| Players | 5/8 |
-| Host Name | Traba Lindo |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 07:07:48 |
+| Lobby ID | 28502341607638418 |
+| Players | 1/8 |
+| Host Name | Jivchik |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 07:07:16 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502341607609499 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | lebanon don |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 07:07:13 |
@@ -103,29 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502341607638418 |
-| Players | 1/8 |
-| Host Name | Jivchik |
+| Lobby ID | 28502341607938296 |
+| Players | 4/8 |
+| Host Name | te11 me a $$ecret |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 07:07:16 |
+| Lobby Creation Time | Thursday, November 2, 2023 07:07:53 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502341607313953 |
-| Players | 2/8 |
-| Host Name | TI_ Polux_Troy |
+| Lobby ID | 28502341608078332 |
+| Players | 4/8 |
+| Host Name | ☛LVC.UwU☚ |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 07:06:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502341607906684 |
-| Players | 1/10 |
-| Host Name | lady maria |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 07:07:49 |
+| Lobby Creation Time | Thursday, November 2, 2023 07:08:10 |
 
 
 |  | epic_boss_fight_nightmare |
