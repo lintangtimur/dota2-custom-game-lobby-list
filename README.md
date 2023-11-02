@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28502575503960709 |
 | Players | 4/10 |
-| Host Name | DLove |
+| Host Name | Mirana |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 14:41:17 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575502748808 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | ^^ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:39:43 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ≈NEGODIY≈ |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 14:37:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575503923185 |
-| Players | 1/8 |
-| Host Name | Lorden |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 14:41:14 |
 
 
 |  | ot3_desert_octet |
