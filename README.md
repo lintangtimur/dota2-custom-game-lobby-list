@@ -13,26 +13,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28502575293740220 |
+| Lobby ID | 28502575293844924 |
 | Players | 1/5 |
-| Host Name | 炭烤椒盐海豹 |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 09:00:00 |
+| Host Name | cringe creator |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 09:00:14 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575290112248 |
-| Players | 13/15 |
-| Host Name | Stick Figure |
+| Lobby ID | 28502575293781239 |
+| Players | 2/15 |
+| Host Name | you have gyat to be rizzing me |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 08:52:47 |
+| Lobby Creation Time | Thursday, November 2, 2023 09:00:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575292594508 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | "RUMBO A HERALDO" |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:57:43 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575270714370 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | JoeShiesty |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 08:15:56 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575293597747 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | People |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 08:59:43 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575293721699 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | Muy Malo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:59:58 |
@@ -119,12 +119,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 08:59:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575293747415 |
-| Players | 2/8 |
+| Lobby ID | 28502575293797284 |
+| Players | 2/10 |
 | Host Name | You were nothing but a usurper |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 09:00:01 |
+| Lobby Creation Time | Thursday, November 2, 2023 09:00:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575293825212 |
+| Players | 3/15 |
+| Host Name | ♁＊＊ SIA ＊＊ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 09:00:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575293825164 |
+| Players | 1/8 |
+| Host Name | MasonLayble |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 09:00:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575293837596 |
+| Players | 1/15 |
+| Host Name | Carrying more animals than Noah |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 09:00:14 |
 
 
