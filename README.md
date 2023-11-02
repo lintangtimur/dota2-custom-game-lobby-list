@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 06:50:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923799707780 |
-| Players | 1/8 |
-| Host Name | Princia Funnybunny |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 06:53:59 |
+| Lobby ID | 28503923799332539 |
+| Players | 8/15 |
+| Host Name | SHVEPS |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 06:53:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923798191605 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | SeT |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 06:51:01 |
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 06:53:33 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503923796354166 |
-| Players | 23/24 |
-| Host Name | "GoPositive.bet" ARS - Bets4.fun |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:47:33 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923799334664 |
@@ -83,30 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 06:53:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923799332539 |
-| Players | 8/15 |
-| Host Name | SHVEPS |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 06:53:14 |
+| Lobby ID | 28503923799859465 |
+| Players | 2/8 |
+| Host Name | :( M O T A :( |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 06:54:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923799799272 |
-| Players | 2/15 |
-| Host Name | Bodied in the body |
+| Lobby ID | 28503923799892528 |
+| Players | 2/8 |
+| Host Name | Okeysi |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:54:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923799782904 |
-| Players | 2/10 |
-| Host Name | twitch.tv/fe1ton1703 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:54:08 |
+| Lobby Creation Time | Friday, November 3, 2023 06:54:21 |
 
 
