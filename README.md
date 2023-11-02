@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575531776473 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Sohei |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 15:18:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575530573703 |
-| Players | 9/10 |
-| Host Name | Moises |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 15:17:04 |
+| Lobby ID | 28502575532088843 |
+| Players | 1/15 |
+| Host Name | Justin Weaver |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 15:19:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575527252024 |
-| Players | 7/24 |
+| Players | 3/24 |
 | Host Name | LunaticEyes (Kuroushi) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 15:12:37 |
@@ -126,5 +126,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | _Stinker221_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 15:18:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575532200412 |
+| Players | 1/8 |
+| Host Name | (/_-) |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 15:19:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575529525107 |
+| Players | 8/10 |
+| Host Name | ТВАРЬ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 15:15:39 |
 
 
