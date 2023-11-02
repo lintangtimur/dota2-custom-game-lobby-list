@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:13:08 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575483481208 |
+| Players | 1/10 |
+| Host Name | Алкаш |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 14:13:59 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
@@ -31,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575481806171 |
+| Lobby ID | 28502575482825908 |
 | Players | 1/10 |
-| Host Name | coover雨 |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 14:11:40 |
+| Host Name | Z |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 14:13:05 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575482094804 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | La Pixiris |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 14:12:04 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575478261205 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | waiting for death |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 14:06:45 |
@@ -83,39 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:10:31 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575482294160 |
-| Players | 7/8 |
-| Host Name | [Crips] Death is in your eyes |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:12:21 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575482153037 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | [A]DmiralLight |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 2, 2023 14:12:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575482825908 |
-| Players | 1/10 |
-| Host Name | Z |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 14:13:05 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575483059251 |
-| Players | 1/24 |
-| Host Name | 風 |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 14:13:25 |
 
 
