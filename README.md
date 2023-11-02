@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575747750885 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ♂ I'm Performance Artist ♂ |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 2, 2023 18:56:46 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 18:56:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575733285381 |
-| Players | 6/15 |
-| Host Name | 20 попугаев из 4 еб |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 18:46:32 |
+| Lobby ID | 28502575748264975 |
+| Players | 5/24 |
+| Host Name | peace da ball |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 18:57:08 |
 
 
 |  | ot3_gardens_duo |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 18:56:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575747192543 |
-| Players | 8/15 |
-| Host Name | YOLkO |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 18:56:23 |
+| Lobby ID | 28502575748540707 |
+| Players | 3/8 |
+| Host Name | エンジェル |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 18:57:20 |
 
 
 |  | ot3_gardens_duo |
@@ -77,18 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575747857958 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | BRAMBRAGE |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 18:56:51 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575748264975 |
-| Players | 4/24 |
-| Host Name | peace da ball |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 18:57:08 |
+| Lobby ID | 28502575748523907 |
+| Players | 1/8 |
+| Host Name | R2Fly |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 18:57:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575748514139 |
+| Players | 2/10 |
+| Host Name | ShurfShurfShurf |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 18:57:19 |
 
 
