@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28503923793260291 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | Buster 1.0 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:41:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923795364080 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Ice |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:45:41 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923792751319 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | RiftBreaker |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 06:40:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923795455445 |
-| Players | 1/10 |
-| Host Name | zzzz |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 06:45:51 |
+| Lobby ID | 28503923795347623 |
+| Players | 1/8 |
+| Host Name | Menace2Society |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 06:45:39 |
 
 
 |  | ot3_necropolis_ffa |
@@ -99,23 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Duney |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:45:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923795335875 |
-| Players | 7/8 |
-| Host Name | Ruby da Cherry |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:45:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923795347623 |
-| Players | 1/8 |
-| Host Name | Menace2Society |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:45:39 |
 
 
