@@ -29,15 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:06:25 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502575528390004 |
-| Players | 1/5 |
-| Host Name | 典明粥 |
-| Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Thursday, November 2, 2023 15:14:07 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
@@ -56,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:15:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575524559850 |
-| Players | 7/8 |
-| Host Name | АХАХАХАХАХАХХАХАХАХАХАХАХА |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 15:08:57 |
+| Lobby ID | 28502575526811531 |
+| Players | 3/15 |
+| Host Name | Nemro |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 15:12:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575524910384 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | Go Blues |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 15:09:27 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575528046163 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | boss mentality |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 15:13:40 |
@@ -112,46 +103,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575526811531 |
-| Players | 3/15 |
-| Host Name | Nemro |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 15:12:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575528265207 |
+| Lobby ID | 28502575528488957 |
 | Players | 1/15 |
-| Host Name | Tw1kkss |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 15:13:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575528319393 |
-| Players | 1/15 |
-| Host Name | ЇЇ |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 15:14:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575528338017 |
-| Players | 1/15 |
-| Host Name | DanTe |
+| Host Name | Ювелир |
 | Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 15:14:03 |
+| Lobby Creation Time | Thursday, November 2, 2023 15:14:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575528403109 |
+| Lobby ID | 28502575528508699 |
 | Players | 1/15 |
 | Host Name | xon |
 | Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 15:14:08 |
+| Lobby Creation Time | Thursday, November 2, 2023 15:14:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575528526037 |
+| Players | 1/15 |
+| Host Name | ЇЇ |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 15:14:18 |
 
 
