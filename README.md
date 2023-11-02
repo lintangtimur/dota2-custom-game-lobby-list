@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 16:37:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575600467421 |
-| Players | 13/15 |
-| Host Name | Raoul Duke |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 2, 2023 16:43:06 |
+| Lobby ID | 28502575600743136 |
+| Players | 2/10 |
+| Host Name | олег 8 лет, пошлый |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 16:43:25 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,23 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, November 2, 2023 16:43:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575600743136 |
-| Players | 2/10 |
-| Host Name | олег 8 лет, пошлый |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 16:43:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575600820833 |
-| Players | 1/10 |
-| Host Name | идущий к реке |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 16:43:31 |
 
 
