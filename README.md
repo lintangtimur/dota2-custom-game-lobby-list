@@ -11,19 +11,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 10:49:11 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502575354582387 |
-| Players | 1/5 |
-| Host Name | -†Amenazzy:_ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:50:04 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575353749531 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Chris |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:48:34 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575354281512 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | wums |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:49:32 |
@@ -74,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 10:48:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575354534648 |
-| Players | 5/8 |
-| Host Name | ME MUERO |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 10:49:59 |
+| Lobby ID | 28502575354910234 |
+| Players | 4/15 |
+| Host Name | veber |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 2, 2023 10:50:37 |
 
 
 |  | ot3_gardens_duo |
@@ -92,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 10:50:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575354910234 |
-| Players | 4/15 |
-| Host Name | veber |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 10:50:37 |
+| Lobby ID | 28502575354276588 |
+| Players | 1/8 |
+| Host Name | Järvi |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 10:49:32 |
 
 
