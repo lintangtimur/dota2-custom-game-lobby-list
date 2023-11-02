@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575430702693 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 12:53:17 |
@@ -47,12 +47,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:54:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575431716325 |
-| Players | 1/8 |
-| Host Name | фуфел |
-| Region | EUROPE |
+| Lobby ID | 28502575431712504 |
+| Players | 6/15 |
+| Host Name | Saiko |
+| Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:54:51 |
 
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575427149853 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | TOMA CHUPETE |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:47:40 |
@@ -86,36 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575430724106 |
-| Players | 2/8 |
-| Host Name | Godjo |
+| Players | 1/8 |
+| Host Name | Natso - |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:53:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575430908620 |
-| Players | 9/10 |
-| Host Name | Sr Timba |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 12:53:36 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575431594249 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Feeling Alive |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 12:54:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575431712504 |
-| Players | 6/15 |
-| Host Name | Saiko |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 12:54:51 |
 
 
