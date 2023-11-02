@@ -32,28 +32,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575489104608 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | dasdas |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 14:21:37 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575491699186 |
+| Players | 1/10 |
+| Host Name | SINISTER RAMEN |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 14:25:07 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
-| Players | 4/15 |
+| Players | 2/15 |
 | Host Name | Jumper |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575491077497 |
-| Players | 1/15 |
-| Host Name | 1 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 14:24:17 |
+| Lobby ID | 28502575491147523 |
+| Players | 8/24 |
+| Host Name | ANIKI 兄貴 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 14:24:23 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,18 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575491220712 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Netske |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 14:24:28 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575491147523 |
-| Players | 5/24 |
-| Host Name | ANIKI 兄貴 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 14:24:23 |
+| Lobby ID | 28502575491721494 |
+| Players | 1/15 |
+| Host Name | Byratino |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 14:25:09 |
 
 
