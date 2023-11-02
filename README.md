@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575484573388 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Mirana |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 14:15:29 |
@@ -29,15 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:16:05 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502575485577292 |
-| Players | 1/5 |
-| Host Name | 𝐸†🅾 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 14:16:51 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575483684907 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | XQC!! |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 14:14:16 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575482094804 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | La Pixiris |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 14:12:04 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575484306418 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 14:15:07 |
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575485373469 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | ABOBA BOY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 14:16:34 |
@@ -153,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Петя Шалопай |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 14:16:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575485756150 |
+| Players | 2/8 |
+| Host Name | I'm sorry |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 14:17:05 |
 
 
