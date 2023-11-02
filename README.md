@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367245424359 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | ??? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 20:57:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367246884361 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Finnish hämis 👍 |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 2, 2023 20:57:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367241805538 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | АбаканскоеПиво |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 20:55:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367247399603 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | nikorv |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 20:57:57 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367245189430 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Света Шумовая |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 20:56:57 |
@@ -103,17 +103,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503367248180503 |
-| Players | 2/10 |
-| Host Name | Huylo |
+| Lobby ID | 28502575935402059 |
+| Players | 10/10 |
+| Host Name | lockdwn |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 20:58:18 |
+| Lobby Creation Time | Thursday, November 2, 2023 20:50:24 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503367246042742 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Chino Kafū |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 20:57:21 |
