@@ -5,19 +5,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575818434526 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | biubiubiup |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 19:43:06 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28502575800694172 |
-| Players | 9/10 |
-| Host Name | Calabreso |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 19:32:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -29,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 19:41:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575819658335 |
-| Players | 6/8 |
-| Host Name | Godjo |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 2, 2023 19:43:50 |
+| Lobby ID | 28502575811177567 |
+| Players | 1/15 |
+| Host Name | HAYRAPETYAN |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 19:38:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575815779341 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | FreeBofe |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 2, 2023 19:41:28 |
@@ -65,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 19:39:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575821353733 |
-| Players | 1/15 |
-| Host Name | cherry |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 19:44:51 |
+| Lobby ID | 28502575821590758 |
+| Players | 2/24 |
+| Host Name | Pandora's Actor™ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 19:45:00 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575808781397 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | appreciate life |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 19:37:04 |
@@ -110,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 19:43:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575820789621 |
-| Players | 1/8 |
-| Host Name | курбаш |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 19:44:31 |
+| Lobby ID | 28502575821803479 |
+| Players | 2/15 |
+| Host Name | ^^ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 19:45:07 |
 
 
 |  | ot3_desert_octet |
@@ -146,12 +137,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 19:44:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575821590758 |
-| Players | 1/24 |
-| Host Name | Pandora's Actor™ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 19:45:00 |
+| Lobby ID | 28502575821794398 |
+| Players | 1/8 |
+| Host Name | дима поршень |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 19:45:07 |
 
 
