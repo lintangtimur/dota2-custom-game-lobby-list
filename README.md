@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575370280830 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | STFU |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 11:18:37 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28502575371587381 |
-| Players | 4/5 |
-| Host Name | Papita Frita con Cremas |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 11:20:57 |
+| Lobby ID | 28502575371672759 |
+| Players | 1/5 |
+| Host Name | inadequate |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 11:21:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575371229225 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | 8 SEMANAS PARA NAVIDAD |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:20:19 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575370047256 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | "DIEGUIXZN//IS BACK" |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:18:12 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575370578823 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | miserable |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:19:09 |
