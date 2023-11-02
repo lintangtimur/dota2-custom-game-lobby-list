@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575293889036 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | YaMa |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 09:00:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575270714370 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | JoeShiesty |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 08:15:56 |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575294231576 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | WhatMagicIsThis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 09:01:05 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575293597747 |
-| Players | 1/24 |
-| Host Name | People |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 08:59:43 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28502575294515338 |
-| Players | 2/10 |
-| Host Name | macxvii |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 09:01:42 |
 
 
 |  | ot3_jungle_quintet |
@@ -81,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | vicjug |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 09:01:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575294515338 |
+| Players | 2/10 |
+| Host Name | macxvii |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 09:01:42 |
 
 
