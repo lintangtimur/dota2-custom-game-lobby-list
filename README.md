@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575268921937 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | YaMa |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 08:12:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575268290986 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | I.G.Y |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 08:11:35 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575268477279 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | ✪ SOY ALTO, PERO ME DICEN BAJO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:11:55 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575270277582 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Enough |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:15:07 |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575270016046 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 08:14:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575270608289 |
-| Players | 4/8 |
-| Host Name | Champions_01 |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 08:15:44 |
 
 
 |  | ot3_desert_octet |
