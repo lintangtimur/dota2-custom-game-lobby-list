@@ -13,15 +13,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575614603740 |
-| Players | 1/10 |
-| Host Name | Solo Dr. Zola |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 16:59:36 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28502575615230500 |
 | Players | 1/10 |
 | Host Name | chmo |
@@ -29,13 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:00:20 |
 
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28502575613166279 |
-| Players | 7/10 |
-| Host Name | BRAMBRAGE |
+| Lobby ID | 28502575615369871 |
+| Players | 1/5 |
+| Host Name | . |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 17:00:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575615698114 |
+| Players | 1/15 |
+| Host Name | неумехапелемеха |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 16:57:57 |
+| Lobby Creation Time | Thursday, November 2, 2023 17:00:55 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575612784997 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Pablo Escobar |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 16:57:30 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575614732896 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | QB |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 16:59:45 |
@@ -92,48 +92,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 16:58:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575614779136 |
-| Players | 1/15 |
-| Host Name | Бесперспективняк |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 16:59:48 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575613453833 |
-| Players | 21/24 |
-| Host Name | lone wolf |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 16:58:17 |
+| Lobby ID | 28502575614969501 |
+| Players | 4/8 |
+| Host Name | Шлепка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 17:00:01 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575614685542 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | apelsin |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 16:59:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575614969501 |
-| Players | 4/8 |
-| Host Name | ruin for 3€ |
+| Lobby ID | 28502575615633934 |
+| Players | 5/15 |
+| Host Name | Neircurt |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:00:01 |
+| Lobby Creation Time | Thursday, November 2, 2023 17:00:50 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575615261832 |
+| Lobby ID | 28502575615753503 |
 | Players | 1/15 |
-| Host Name | Mentos |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:00:23 |
+| Host Name | 兮胖 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Thursday, November 2, 2023 17:00:59 |
 
 
