@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575408411325 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Hellsing...!! |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:18:38 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575407602468 |
-| Players | 6/8 |
-| Host Name | Meb |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 12:17:25 |
+| Lobby ID | 28502575410527308 |
+| Players | 3/8 |
+| Host Name | JustCoolGameR |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 2, 2023 12:21:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:17:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575409018623 |
-| Players | 1/8 |
-| Host Name | !!!??? 3найка ???!!! |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 12:19:33 |
+| Lobby ID | 28502575410004395 |
+| Players | 1/15 |
+| Host Name | atlas |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 12:21:03 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575408415479 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Notsalty |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:18:38 |
@@ -94,19 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575410004395 |
-| Players | 1/15 |
-| Host Name | atlas |
+| Lobby ID | 28502575406568841 |
+| Players | 15/15 |
+| Host Name | KpuBa9l py4Ka |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 12:21:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575410527308 |
-| Players | 1/8 |
-| Host Name | JustCoolGameR |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 2, 2023 12:21:51 |
+| Lobby Creation Time | Thursday, November 2, 2023 12:15:52 |
 
 
