@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:06:30 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502575622476928 |
-| Players | 1/5 |
-| Host Name | ЭЩКЕРЕ |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 2, 2023 17:08:50 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575621836246 |
@@ -29,10 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:08:05 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28502575622719583 |
+| Players | 1/10 |
+| Host Name | пасха ивановна |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 2, 2023 17:09:06 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575622172011 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | PRO100 T3RORIST |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 17:08:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575616952029 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | quacc |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:02:25 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575622052828 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | I was made in heaven |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 17:08:20 |
