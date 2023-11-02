@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575428178994 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | BIDCKER |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:49:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575429914522 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | бруда алфеева |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 12:52:04 |
@@ -69,7 +69,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28502575407739940 |
 | Players | 2/24 |
-| Host Name | STINKY BUTTHOLE |
+| Host Name | Y |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 2, 2023 12:17:38 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575427149853 |
-| Players | 5/8 |
+| Players | 2/8 |
 | Host Name | TOMA CHUPETE |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:47:40 |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Начальник леса |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 12:52:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575429945117 |
-| Players | 1/15 |
-| Host Name | .................... |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 2, 2023 12:52:07 |
 
 
