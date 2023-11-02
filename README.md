@@ -20,19 +20,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:33:40 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28502575646247731 |
-| Players | 1/5 |
-| Host Name | таежный бобр |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:34:06 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575645693790 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ызыз |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:33:33 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575644129986 |
-| Players | 1/15 |
+| Players | 11/15 |
 | Host Name | Gdzh♡ |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 17:31:57 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575643009581 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 2, 2023 17:30:50 |
@@ -95,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575646043496 |
-| Players | 3/24 |
+| Players | 11/24 |
 | Host Name | JESUS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:33:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575645505393 |
-| Players | 9/10 |
-| Host Name | Mr.Fantastik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:33:22 |
+| Lobby ID | 28502575645996366 |
+| Players | 1/15 |
+| Host Name | Miker The One |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 17:33:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -128,30 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:33:32 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575645996366 |
-| Players | 1/15 |
-| Host Name | Miker The One |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 17:33:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28502575646042879 |
-| Players | 1/24 |
-| Host Name | 大炮 |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 17:33:54 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575646222139 |
-| Players | 1/8 |
-| Host Name | Череповец |
+| Lobby ID | 28502575646441740 |
+| Players | 2/8 |
+| Host Name | Parazittus |
 | Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 17:34:05 |
+| Lobby Creation Time | Thursday, November 2, 2023 17:34:18 |
 
 
