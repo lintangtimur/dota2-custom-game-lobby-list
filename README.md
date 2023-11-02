@@ -11,10 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 08:10:05 |
 
 
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28502575268742257 |
+| Players | 2/7 |
+| Host Name | Necrox |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 08:12:23 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575267058286 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | Rupicola |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 08:09:22 |
@@ -23,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28501843803149349 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | mis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 03:35:21 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575267868424 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | AnYeloUruri |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 08:10:50 |
@@ -59,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575266740130 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 08:08:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575264893559 |
-| Players | 14/15 |
-| Host Name | MarcoAScopel |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 08:05:24 |
+| Lobby ID | 28502575268743649 |
+| Players | 7/10 |
+| Host Name | BUSCO CHAMBA |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 08:12:23 |
 
 
 |  | ot3_desert_octet |
@@ -83,12 +92,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 08:11:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575268467190 |
-| Players | 9/15 |
-| Host Name | Riku |
+| Lobby ID | 28502575268921937 |
+| Players | 3/24 |
+| Host Name | YaMa |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 08:11:54 |
+| Lobby Creation Time | Thursday, November 2, 2023 08:12:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575269076785 |
+| Players | 1/8 |
+| Host Name | целка на лице |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 08:12:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575268984174 |
+| Players | 1/8 |
+| Host Name | DuningDota |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 08:12:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575269017451 |
+| Players | 1/8 |
+| Host Name | Yuta Okkotsu- |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 08:12:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575269061703 |
+| Players | 2/10 |
+| Host Name | GENIUS (at 4k mmr) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 08:12:58 |
 
 
