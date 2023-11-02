@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28502575359210556 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | yotsuba |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 10:58:16 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 11:03:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575362556656 |
-| Players | 3/8 |
-| Host Name | Richi Rage |
-| Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 11:04:38 |
+| Lobby ID | 28502575362696765 |
+| Players | 4/15 |
+| Host Name | Locekd |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 11:04:53 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575361721047 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | ME MUERO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:03:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575362092121 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Чародей |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:03:46 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575356170186 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | j |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 10:52:48 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575361609781 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 11:02:52 |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | JOSIE BROS CANT STOP WINNING |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 11:04:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575362696765 |
-| Players | 3/15 |
-| Host Name | Locekd |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 11:04:53 |
 
 
