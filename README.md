@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575413679418 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Nexro |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 12:26:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575412981244 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:25:36 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575411849897 |
-| Players | 2/10 |
-| Host Name | Ххх |
+| Players | 1/10 |
+| Host Name | лобанов |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 12:23:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575411121392 |
-| Players | 15/24 |
-| Host Name | ánima |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 12:22:45 |
+| Lobby ID | 28502575414159561 |
+| Players | 1/8 |
+| Host Name | SwizzY |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 12:27:25 |
 
 
 |  | ot3_desert_octet |
@@ -108,5 +108,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Shizukano |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 2, 2023 12:27:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575414057330 |
+| Players | 5/8 |
+| Host Name | BomBiTa |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 12:27:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575414076846 |
+| Players | 1/10 |
+| Host Name | Quendi |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 12:27:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575414170741 |
+| Players | 1/15 |
+| Host Name | 上玄  零 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 12:27:26 |
 
 
