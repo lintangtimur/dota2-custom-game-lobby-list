@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:49:33 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28502575432556665 |
+| Players | 1/5 |
+| Host Name | ☂ MD ツ |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 12:56:10 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575315365274 |
@@ -23,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575430749382 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Pericotito de Nelly Rossinelli |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:53:21 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575431594249 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Feeling Alive |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 2, 2023 12:54:40 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575431712504 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Saiko |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 12:54:51 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575432223826 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Maglan |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 12:55:39 |
@@ -101,12 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 12:55:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575432108093 |
-| Players | 1/15 |
-| Host Name | Fanya |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 2, 2023 12:55:28 |
+| Lobby ID | 28502575431261929 |
+| Players | 4/8 |
+| Host Name | Arthas |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 12:54:08 |
 
 
