@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 14:53:05 |
 
 
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28502575531409740 |
-| Players | 1/7 |
-| Host Name | -H1DER- |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 2, 2023 15:18:11 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28502575531166894 |
@@ -31,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575531415494 |
+| Lobby ID | 28502575531483691 |
 | Players | 1/10 |
-| Host Name | Bopcos Bybe |
+| Host Name | bodak |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 15:18:12 |
+| Lobby Creation Time | Thursday, November 2, 2023 15:18:17 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 15:12:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575530451239 |
-| Players | 11/15 |
-| Host Name | Simpest Pimp |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 15:16:54 |
+| Lobby ID | 28502575531397324 |
+| Players | 1/8 |
+| Host Name | Spartak |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 2, 2023 15:18:10 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575530573703 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 15:17:04 |
@@ -95,18 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575529423452 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | 为毛？ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 15:15:31 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575531469937 |
+| Players | 1/15 |
+| Host Name | Borchic |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 15:18:16 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575531397324 |
+| Lobby ID | 28502575531548489 |
 | Players | 1/8 |
-| Host Name | Spartak |
+| Host Name | (/_-) |
 | Region | CHILE |
-| Lobby Creation Time | Thursday, November 2, 2023 15:18:10 |
+| Lobby Creation Time | Thursday, November 2, 2023 15:18:22 |
 
 
