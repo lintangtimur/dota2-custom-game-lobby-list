@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575602560640 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | Zzz... |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 16:45:35 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575595827505 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Tatz★ |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 2, 2023 16:37:32 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575600459390 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | INDIA |
 | Lobby Creation Time | Thursday, November 2, 2023 16:43:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28502575602837161 |
-| Players | 1/8 |
-| Host Name | gopnik |
+| Lobby ID | 28502575603046096 |
+| Players | 1/15 |
+| Host Name | coup de grâce 力 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 16:45:55 |
+| Lobby Creation Time | Thursday, November 2, 2023 16:46:10 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28502575601429879 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | MikeLangelo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 2, 2023 16:44:15 |
@@ -101,12 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 16:44:14 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575603178858 |
+| Players | 1/8 |
+| Host Name | gopnik |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 2, 2023 16:46:19 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28502575602764416 |
-| Players | 1/10 |
-| Host Name | эль чача |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 16:45:50 |
+| Lobby ID | 28502575598912905 |
+| Players | 9/10 |
+| Host Name | Бугименчик |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 2, 2023 16:41:15 |
 
 
