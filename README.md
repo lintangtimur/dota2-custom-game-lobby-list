@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367500164960 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | LASKOVIY BIK [IGIL] |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 2, 2023 23:26:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367550297345 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Immonrtal you better belive it |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 00:05:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367548347256 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | El tipo N |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 00:03:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367551465053 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | king of fools |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 3, 2023 00:06:00 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503367544061870 |
-| Players | 5/24 |
+| Players | 1/24 |
 | Host Name | В отпуске |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 3, 2023 00:00:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503367548542400 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | ...... |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 00:03:45 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367546898101 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | ☁️k1zy52☁ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 00:02:29 |
@@ -86,53 +86,53 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503367551346767 |
-| Players | 3/10 |
-| Host Name | shAVA MAX |
+| Players | 7/10 |
+| Host Name | 世界的主人 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 3, 2023 00:05:54 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503367551195129 |
-| Players | 1/24 |
-| Host Name | `END |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 00:05:47 |
+| Lobby ID | 28503367551526033 |
+| Players | 2/15 |
+| Host Name | мох |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 3, 2023 00:06:03 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503367551367082 |
-| Players | 2/8 |
-| Host Name | Baba Yaga |
+| Players | 7/8 |
+| Host Name | ВИТЯ БИЗНЕС |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 3, 2023 00:05:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503367551459082 |
-| Players | 1/15 |
-| Host Name | Шланг |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 3, 2023 00:05:59 |
+| Lobby ID | 28503367551516265 |
+| Players | 7/24 |
+| Host Name | TeriTeri |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 00:06:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503367551423712 |
-| Players | 1/15 |
-| Host Name | Boille |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 3, 2023 00:05:58 |
+| Lobby ID | 28503367551490591 |
+| Players | 1/8 |
+| Host Name | Trafalgar D.Water Law❤ |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 3, 2023 00:06:01 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503367551442419 |
-| Players | 2/10 |
-| Host Name | DLove |
+| Players | 3/10 |
+| Host Name | 世界是残酷的 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 00:05:59 |
 
