@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575632948554 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | эминем |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 2, 2023 17:20:21 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 17:19:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28502575632729498 |
-| Players | 1/15 |
-| Host Name | Плющ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 2, 2023 17:20:06 |
+| Lobby ID | 28502575633582080 |
+| Players | 1/24 |
+| Host Name | 123456 |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 2, 2023 17:21:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,9 +104,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575632854037 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | AEZYM |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 2, 2023 17:20:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28502575633645757 |
+| Players | 2/8 |
+| Host Name | страшный руин |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 2, 2023 17:21:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28502575633707293 |
+| Players | 1/15 |
+| Host Name | Плющ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 2, 2023 17:21:09 |
 
 
