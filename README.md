@@ -13,17 +13,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28502575732307238 |
-| Players | 9/10 |
-| Host Name | tito.toranggaa93 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 2, 2023 18:45:50 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28502575733786905 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | XL #SUMMERRUST |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 18:46:54 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28502575733285381 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Dranxzy |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 18:46:32 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575732209321 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Missing you happiness |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 2, 2023 18:45:46 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575732218446 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | WASD |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 2, 2023 18:45:46 |
@@ -99,5 +90,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Саня125rus |
 | Region | CHILE |
 | Lobby Creation Time | Thursday, November 2, 2023 18:43:40 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575733962346 |
+| Players | 2/10 |
+| Host Name | Dead Inside |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 18:47:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575733975062 |
+| Players | 2/10 |
+| Host Name | Veroy |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 18:47:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28502575734145989 |
+| Players | 2/10 |
+| Host Name | Suit up! |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 2, 2023 18:47:09 |
 
 
