@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 09:41:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28502575466997619 |
-| Players | 1/15 |
-| Host Name | ^^bongafonx` |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 2, 2023 13:50:46 |
+| Lobby ID | 28502575467234816 |
+| Players | 1/8 |
+| Host Name | бытие |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 2, 2023 13:51:05 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28502575466225991 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Godjo |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 2, 2023 13:49:40 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 2, 2023 13:48:36 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28502575465784177 |
-| Players | 13/15 |
-| Host Name | 異體字爲為为畫畵画線 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 2, 2023 13:49:02 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28502575467002660 |
@@ -99,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TheBlindShibaInuSexyah |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 2, 2023 13:50:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28502575467226859 |
-| Players | 1/8 |
-| Host Name | stingeR. |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 2, 2023 13:51:04 |
 
 
