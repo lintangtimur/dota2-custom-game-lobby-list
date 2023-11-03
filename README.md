@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923836110523 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Fanya |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:06:41 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:06:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923834412575 |
-| Players | 6/8 |
-| Host Name | trovo.live/Bojji |
+| Lobby ID | 28503923836748847 |
+| Players | 2/10 |
+| Host Name | єℓ ρα∂яιησ |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 08:03:32 |
+| Lobby Creation Time | Friday, November 3, 2023 08:07:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923836229149 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | 暁 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:06:54 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923836248062 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | osiris |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:06:56 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923836475717 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | exosister mikailis |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:07:22 |
@@ -153,5 +153,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BABY-ROSH (AL) |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:07:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923833334625 |
+| Players | 9/10 |
+| Host Name | all of my love |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 08:01:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923836723964 |
+| Players | 1/8 |
+| Host Name | Kärss |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 08:07:50 |
 
 
