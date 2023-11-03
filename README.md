@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923864351698 |
-| Players | 6/24 |
+| Players | 12/24 |
 | Host Name | GATTSU |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:59:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923864206308 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Deloreann |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:59:28 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:51:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923860934060 |
-| Players | 6/8 |
-| Host Name | Kärss |
+| Lobby ID | 28503923864620039 |
+| Players | 1/24 |
+| Host Name | Panzer |
 | Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 08:53:13 |
+| Lobby Creation Time | Friday, November 3, 2023 09:00:20 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923863637318 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | MasonLayble |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 08:58:22 |
@@ -135,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dohman32 |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 08:59:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923864682058 |
+| Players | 2/10 |
+| Host Name | Chandie F1 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 09:00:29 |
 
 
