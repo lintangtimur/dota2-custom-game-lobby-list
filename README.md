@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923958097121 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Don Payiyo de Pumitas |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 11:45:46 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923958636917 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Sherlock |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 11:46:34 |
