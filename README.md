@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923830511600 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ComradeHeval |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 07:55:59 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923826879665 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Appetitive Fruit |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:48:53 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923828765797 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | ieagtonrns |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:52:33 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923829276755 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Katarina OTP |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:53:33 |
@@ -122,9 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923829620765 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Qulon |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 07:54:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923830710247 |
+| Players | 1/8 |
+| Host Name | xXSmokedXx |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 07:56:21 |
 
 
