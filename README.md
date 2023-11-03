@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 07:45:15 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28503923826913536 |
-| Players | 1/10 |
-| Host Name | дурачок |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 07:48:57 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923804519474 |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923826541705 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Señora A su hijo lestan pegando |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:48:13 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923826432718 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | ♠ ARTHUR ♠ kING ♠ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:48:00 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923825984840 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Leon |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:47:07 |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923826679849 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Mantelis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:48:29 |
@@ -137,12 +128,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 07:48:23 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923826982646 |
+| Players | 1/8 |
+| Host Name | мазня говном |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 07:49:05 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923826922476 |
+| Lobby ID | 28503923826963245 |
 | Players | 1/15 |
 | Host Name | Carry Styles |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 07:48:58 |
+| Lobby Creation Time | Friday, November 3, 2023 07:49:02 |
 
 
