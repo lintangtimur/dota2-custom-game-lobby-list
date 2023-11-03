@@ -20,19 +20,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 07:18:32 |
 
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28503923812879889 |
-| Players | 1/7 |
-| Host Name | Jack of Spades |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 07:20:58 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923812609048 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Great Admiral of Mongol Empire |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:20:25 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923811742776 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | gegp |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:18:39 |
@@ -122,9 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923812613235 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | MR Herbert |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:20:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923813021866 |
+| Players | 2/10 |
+| Host Name | xxxsad_ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 07:21:15 |
 
 
