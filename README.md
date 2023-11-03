@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923970583225 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ꜱʏꜰʏ |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 12:04:35 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923969906255 |
+| Lobby ID | 28503923971483561 |
 | Players | 1/15 |
-| Host Name | Альберт |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 12:03:34 |
+| Host Name | Egotheist |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 12:05:56 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923970256429 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Maryori ♥Seria -_-giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 12:04:06 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923971056083 |
-| Players | 13/15 |
+| Players | 10/15 |
 | Host Name | Gabella |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 12:05:18 |
@@ -95,27 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923971467612 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 12:05:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923971483561 |
-| Players | 1/15 |
-| Host Name | Egotheist |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 12:05:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923971600239 |
-| Players | 1/8 |
-| Host Name | Okay |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 12:06:07 |
 
 
