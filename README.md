@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923811054737 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Regular CheeseBread |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:17:13 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923808933873 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Kärss |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:12:54 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923811742776 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | gegp |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:18:39 |
@@ -119,30 +119,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 07:20:05 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923812471429 |
-| Players | 1/10 |
-| Host Name | xxxsad_ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 07:20:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923812464944 |
-| Players | 5/15 |
-| Host Name | 避開垃圾玩家 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 07:20:08 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923811906489 |
 | Players | 14/15 |
-| Host Name | !Kuroneko-Feyris !Pangolin !MMLD |
+| Host Name | zero |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 07:18:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923812521708 |
+| Players | 3/8 |
+| Host Name | акула228 |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 07:20:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923810887597 |
+| Players | 9/10 |
+| Host Name | Too Good To Win? |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 07:16:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923812554127 |
+| Players | 2/10 |
+| Host Name | selegna🖤 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 07:20:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923812566142 |
+| Players | 2/10 |
+| Host Name | Desperado |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 07:20:20 |
 
 
