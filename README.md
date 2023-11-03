@@ -11,19 +11,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 11:40:20 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28503923959199875 |
-| Players | 1/5 |
-| Host Name | MEUMACHO |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 11:47:25 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923958097121 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Don Payiyo de Pumitas |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 11:45:46 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923956835380 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:43:53 |
@@ -81,5 +72,41 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sherlock |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 11:46:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923959289136 |
+| Players | 1/10 |
+| Host Name | Grumbledorp |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 3, 2023 11:47:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923959276412 |
+| Players | 5/8 |
+| Host Name | Roy |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 11:47:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923959335557 |
+| Players | 2/8 |
+| Host Name | Chandie F1 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 3, 2023 11:47:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923959342026 |
+| Players | 2/8 |
+| Host Name | amням кэжуалс-_- |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 11:47:38 |
 
 
