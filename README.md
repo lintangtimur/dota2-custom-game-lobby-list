@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 12:08:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923973102441 |
-| Players | 7/8 |
-| Host Name | Estafador |
+| Lobby ID | 28503923973814762 |
+| Players | 2/24 |
+| Host Name | Theuza |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 12:08:23 |
+| Lobby Creation Time | Friday, November 3, 2023 12:09:27 |
 
 
 |  | ot3_desert_octet |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923971467612 |
-| Players | 22/24 |
-| Host Name | Tobias EAton |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 12:05:55 |
+| Lobby ID | 28503923973765533 |
+| Players | 1/24 |
+| Host Name | Persona con 46 cromosomas |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 3, 2023 12:09:23 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923972637804 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Br0ker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 12:07:41 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923973943301 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | No me jodas o fedeo..!! |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 12:09:39 |
@@ -104,27 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923973046667 |
-| Players | 8/15 |
-| Host Name | Clean Cat |
+| Players | 10/15 |
+| Host Name | bonbon |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 12:08:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923973765533 |
-| Players | 1/24 |
-| Host Name | Persona con 46 cromosomas |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 3, 2023 12:09:23 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503923973814762 |
-| Players | 1/24 |
-| Host Name | Theuza |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 12:09:27 |
+| Lobby ID | 28503923974492698 |
+| Players | 1/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 12:10:29 |
 
 
