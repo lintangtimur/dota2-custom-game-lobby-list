@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923805660706 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | SE LOGRO |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:06:14 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923805631825 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Full-Time Griefer |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:06:10 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923804519474 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | 𝖘𝖒𝖎𝖑𝖊𝖞☺ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:03:51 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923805195607 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | copito de nieve XD |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:05:16 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923804604182 |
-| Players | 3/8 |
-| Host Name | BB IS HOT OUTSIDE |
+| Players | 2/8 |
+| Host Name | V J |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:04:01 |
 
@@ -112,19 +112,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923806015935 |
+| Lobby ID | 28503923806104528 |
 | Players | 1/15 |
-| Host Name | tef |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 07:06:55 |
+| Host Name | Ice |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 07:07:05 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923806021502 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | GUCKi Gi |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 07:06:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923806065831 |
+| Players | 2/15 |
+| Host Name | єℓ ρα∂яιησ |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 07:07:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923806095400 |
+| Players | 1/8 |
+| Host Name | isn't like holding to the center |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 07:07:04 |
 
 
