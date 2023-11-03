@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923834310464 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | Cheb |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:03:20 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:03:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923832449473 |
-| Players | 9/10 |
-| Host Name | blessed |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 07:59:45 |
+| Lobby ID | 28503923834803400 |
+| Players | 4/8 |
+| Host Name | ♥ BELLSY ♥ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 08:04:16 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923833306987 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | *Сластена* |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:01:24 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923833155341 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | bitch, no llore´s, bitch |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:01:06 |
@@ -110,30 +110,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:03:32 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923834803400 |
-| Players | 4/8 |
-| Host Name | ♥ BELLSY ♥ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 08:04:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923834761612 |
-| Players | 1/8 |
-| Host Name | ПОКИДЬОК |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 08:04:11 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923834791086 |
-| Players | 3/15 |
-| Host Name | DETENTION |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 08:04:14 |
+| Lobby ID | 28503923835144964 |
+| Players | 1/15 |
+| Host Name | [Pota] Cal_93 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 08:04:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923835154004 |
+| Players | 1/8 |
+| Host Name | 231 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 08:04:55 |
 
 
