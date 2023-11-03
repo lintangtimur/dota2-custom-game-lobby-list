@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923859198415 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | MARIA GALINDO |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 08:49:55 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923855160453 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | xJw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:42:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923854212591 |
-| Players | 4/15 |
+| Players | 2/15 |
 | Host Name | DragonFyre |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 08:40:28 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923859786048 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | "GoPositive.bet" ARS - Bets4.fun |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 08:51:02 |
