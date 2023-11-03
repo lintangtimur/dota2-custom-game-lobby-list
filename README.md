@@ -20,10 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:34:40 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28503923852528061 |
+| Players | 1/10 |
+| Host Name | MYB11RU |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 08:37:20 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923850966049 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | BABY-ROSH (AL) |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:34:27 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923851647421 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | < blank > |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:35:42 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923851542765 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:35:31 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923850131112 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | DraelgNaI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:32:55 |
@@ -99,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Carry Styles |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:37:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923852443874 |
-| Players | 1/8 |
-| Host Name | Stingray |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 08:37:10 |
 
 
