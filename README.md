@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923909994018 |
-| Players | 10/24 |
+| Players | 19/24 |
 | Host Name | Fer_Luque1696 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 10:23:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923910668817 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Elya |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 10:25:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923909836984 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Deft |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 10:23:42 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | howdafuqmyteamisagathaallalong |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 10:25:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923911228184 |
+| Players | 1/8 |
+| Host Name | next ti winner |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 10:26:05 |
 
 
