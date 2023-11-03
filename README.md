@@ -14,10 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923804762418 |
-| Players | 2/10 |
-| Host Name | hitmahip |
+| Players | 1/10 |
+| Host Name | Slava_Ukraine |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 07:04:22 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28503923807751300 |
+| Players | 1/5 |
+| Host Name | ACTOR 1437 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 07:10:27 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923806711522 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Egotheist |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:08:20 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923806401594 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | KOT |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:07:41 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923806853823 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | MINDWINNER |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:08:37 |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923806824347 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Sarge King |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 07:08:33 |
@@ -122,9 +131,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923806095400 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | adrian |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:07:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923807745814 |
+| Players | 1/10 |
+| Host Name | YULI |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 07:10:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923807760395 |
+| Players | 3/8 |
+| Host Name | P-sune |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 07:10:29 |
 
 
