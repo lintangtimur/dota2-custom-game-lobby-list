@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 10:26:49 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28503923914795365 |
+| Players | 2/10 |
+| Host Name | Fihed |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 10:32:11 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923914294437 |
@@ -29,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 10:31:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923914491819 |
-| Players | 1/8 |
-| Host Name | without MoM on pudge |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 10:31:40 |
+| Lobby ID | 28503923914732202 |
+| Players | 1/24 |
+| Host Name | Mikooz |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 10:32:05 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923914471298 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Yonko |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 10:31:38 |
@@ -83,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 10:32:03 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923914732202 |
-| Players | 1/24 |
-| Host Name | Mikooz |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 10:32:05 |
+| Lobby ID | 28503923914758463 |
+| Players | 1/8 |
+| Host Name | without MoM on pudge |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 10:32:07 |
 
 
