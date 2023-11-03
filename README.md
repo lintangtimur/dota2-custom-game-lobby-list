@@ -13,26 +13,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28503923896889144 |
-| Players | 1/5 |
-| Host Name | StaminaOne |
+| Lobby ID | 28503923898055298 |
+| Players | 2/5 |
+| Host Name | Dr. Twin |
 | Region | BRAZIL |
-| Lobby Creation Time | Friday, November 3, 2023 10:01:41 |
+| Lobby Creation Time | Friday, November 3, 2023 10:03:42 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923897076503 |
-| Players | 1/24 |
-| Host Name | [R][O][A][M] |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 10:02:01 |
+| Lobby ID | 28503923898071166 |
+| Players | 1/15 |
+| Host Name | Ninja Pirate |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 10:03:44 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923897581853 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Estafador |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 10:02:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923896572547 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Silhouette |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 10:01:08 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923896823741 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | :x |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 10:01:35 |
@@ -77,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923897142444 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 么 M I K E ᴬ⁵࿆¹么 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 10:02:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923897982519 |
+| Players | 1/8 |
+| Host Name | so done |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 10:03:35 |
 
 
