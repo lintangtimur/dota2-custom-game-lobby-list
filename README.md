@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923809825312 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | ABEL :3 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:14:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923807897409 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Николай Дроздов |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 07:10:45 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923809546216 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Middleware |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:14:08 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923809785995 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | :( M O T A :( |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:14:37 |
@@ -140,9 +140,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923809621112 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Saint Piсят Два |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 07:14:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923810159206 |
+| Players | 1/15 |
+| Host Name | ЛШДДУК |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 07:15:24 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503923807227522 |
+| Players | 23/24 |
+| Host Name | RiftBreaker |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 07:09:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923810207540 |
+| Players | 1/8 |
+| Host Name | Лирическое Зло |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 07:15:30 |
 
 
