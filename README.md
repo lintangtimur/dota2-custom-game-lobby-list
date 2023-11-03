@@ -23,55 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923837960949 |
-| Players | 7/8 |
-| Host Name | YUKICHI |
+| Players | 2/8 |
+| Host Name | Simon西蒙 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:10:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923836195491 |
-| Players | 7/8 |
-| Host Name | ♥ BELLSY ♥ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 08:06:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923837266084 |
-| Players | 4/15 |
-| Host Name | spankyotoole |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 08:08:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503923836475717 |
-| Players | 23/24 |
-| Host Name | exosister mikailis |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 08:07:22 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503923836549363 |
-| Players | 1/24 |
-| Host Name | BABY-ROSH (AL) |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 08:07:30 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503923834495987 |
-| Players | 9/24 |
-| Host Name | Brosnan |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 08:03:41 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,12 +38,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:10:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923838018775 |
-| Players | 1/8 |
-| Host Name | бибизяка |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 08:10:18 |
+| Lobby ID | 28503923837266084 |
+| Players | 8/15 |
+| Host Name | spankyotoole |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 08:08:52 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503923834495987 |
+| Players | 10/24 |
+| Host Name | Brosnan |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 08:03:41 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503923836549363 |
+| Players | 1/24 |
+| Host Name | BABY-ROSH (AL) |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 08:07:30 |
 
 
