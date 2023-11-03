@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923892621640 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | STERBLICH |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:54:13 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:49:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923889955641 |
-| Players | 14/15 |
-| Host Name | idk man |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 09:49:29 |
+| Lobby ID | 28503923892788851 |
+| Players | 1/8 |
+| Host Name | Йаcobs monarch |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 09:54:31 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923892104162 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Сатору |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 09:53:19 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Slyrak |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:54:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923892788079 |
+| Players | 1/15 |
+| Host Name | NewTonnRed |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 09:54:31 |
 
 
