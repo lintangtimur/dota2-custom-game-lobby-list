@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923804519474 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:03:51 |
@@ -92,33 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 07:08:33 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923814358001 |
-| Players | 2/8 |
-| Host Name | Ane |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 07:23:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923813649187 |
-| Players | 1/15 |
-| Host Name | big pimpin |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 07:22:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923814247955 |
-| Players | 1/15 |
-| Host Name | Scrido |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 07:23:45 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923814225154 |
@@ -126,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Zugzwang |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:23:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923814463590 |
+| Players | 1/15 |
+| Host Name | Scrido |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 07:24:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923814472213 |
+| Players | 6/8 |
+| Host Name | CTP9ПH9 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 07:24:12 |
 
 
