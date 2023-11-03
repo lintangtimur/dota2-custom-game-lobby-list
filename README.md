@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923948704554 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | DANICH |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 11:31:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923949038168 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | EeSAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 11:31:57 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 11:27:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923948764265 |
-| Players | 1/15 |
-| Host Name | Capybara.ImmortaL¿ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 11:31:30 |
+| Lobby ID | 28503923941104990 |
+| Players | 23/24 |
+| Host Name | [JnM]Nickname |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 11:18:27 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923948224830 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | iTzpaCk1; |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:30:37 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 11:30:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923948835869 |
-| Players | 2/24 |
-| Host Name | CHATITO GAS |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 11:31:37 |
+| Lobby ID | 28503923949203961 |
+| Players | 1/15 |
+| Host Name | Capybara.ImmortaL¿ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 3, 2023 11:32:13 |
 
 
 |  | ot3_jungle_quintet |
@@ -113,27 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923949077985 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | TrueStories |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 11:32:01 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503923949085300 |
-| Players | 1/24 |
-| Host Name | Señor pato |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 3, 2023 11:32:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923944923459 |
-| Players | 14/15 |
-| Host Name | Yello |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 11:25:08 |
 
 
