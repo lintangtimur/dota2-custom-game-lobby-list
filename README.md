@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 06:48:14 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28503923820053833 |
-| Players | 7/10 |
-| Host Name | tulindoteiro |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 07:35:23 |
+| Lobby ID | 28503923821269786 |
+| Players | 1/5 |
+| Host Name | Leinach |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 07:37:45 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923804519474 |
-| Players | 13/24 |
+| Players | 11/24 |
 | Host Name | NNNNNNNNNNNNNN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:03:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923819314185 |
-| Players | 6/24 |
+| Players | 14/24 |
 | Host Name | Lolo |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:33:56 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923821112172 |
-| Players | 2/8 |
-| Host Name | Jozzyks |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 07:37:26 |
+| Lobby ID | 28503923820386656 |
+| Players | 7/8 |
+| Host Name | Dominic Tavorotto |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 07:36:03 |
 
 
 |  | ot3_gardens_duo |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923820085065 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Angel Tuero |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:35:27 |
@@ -104,18 +104,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923820289368 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | tv|artOfmagnus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:35:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923820386656 |
-| Players | 6/8 |
-| Host Name | Dominic Tavorotto |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 07:36:03 |
+| Lobby ID | 28503923821251467 |
+| Players | 1/10 |
+| Host Name | Im gonna come |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 07:37:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923821333801 |
+| Players | 2/10 |
+| Host Name | how |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 07:37:52 |
 
 
