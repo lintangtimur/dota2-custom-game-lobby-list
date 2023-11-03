@@ -4,29 +4,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28503923861968241 |
-| Players | 1/10 |
-| Host Name | ComradeHeval |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 08:55:12 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28503923866745927 |
-| Players | 2/10 |
-| Host Name | свиня джакузі |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 09:04:56 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28503923866872196 |
 | Players | 5/10 |
 | Host Name | sleep |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 09:05:12 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28503923866745927 |
+| Players | 1/10 |
+| Host Name | свиня джакузі |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 09:04:56 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28503923867357582 |
+| Players | 1/5 |
+| Host Name | ComradeHeval |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 09:06:13 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923867111047 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | Lahars |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:05:42 |
@@ -99,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BB GEORGE EMBUSCA DE MEMERRE |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:06:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923867319854 |
+| Players | 2/10 |
+| Host Name | Я ПИДОР ВСАПИЫЬЛБ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 09:06:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503923867300385 |
+| Players | 1/24 |
+| Host Name | Jasmine |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 09:06:06 |
 
 
