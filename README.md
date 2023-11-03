@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923860587031 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Anime girl |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 08:52:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923863215651 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Leinach |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:57:34 |
@@ -38,15 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:58:30 |
 
 
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28503923864333657 |
-| Players | 1/7 |
-| Host Name | 仁香 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 08:59:43 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923863266337 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923863116533 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Junya Watanabe |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:57:23 |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923863579153 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | whole lotta motion |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:58:15 |
@@ -149,9 +140,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923864351698 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 001012fer |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:59:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923864447073 |
+| Players | 1/15 |
+| Host Name | JODEME Y TE SACO TU MRDA |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 08:59:56 |
 
 
