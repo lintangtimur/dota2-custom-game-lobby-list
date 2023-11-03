@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923893775047 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | PUDGE POS 5 ENJOYER |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 09:56:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923892611882 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | bl7770 |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 09:54:12 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923894103831 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | [•♣♠♦•] Audasces/B*ld |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:56:50 |
@@ -83,30 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:58:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923894376078 |
-| Players | 7/8 |
-| Host Name | ♥JGAGAMES♥giordota.com |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 09:57:18 |
+| Lobby ID | 28503923894080898 |
+| Players | 14/15 |
+| Host Name | fated |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 09:56:47 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923893738913 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | CameraMan |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:56:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923894080898 |
-| Players | 11/15 |
-| Host Name | fated |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 09:56:47 |
 
 
