@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923822870581 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | anethema |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:40:55 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923822759334 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | RISEN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:40:41 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923822737484 |
-| Players | 18/24 |
-| Host Name | PATITO NICHAN |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 07:40:39 |
+| Lobby ID | 28503923823366685 |
+| Players | 2/8 |
+| Host Name | Tanja Von Degurschaff |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 07:41:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923823148400 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | SeT |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:41:28 |
@@ -162,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 萧瑟 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:42:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923823501766 |
+| Players | 1/8 |
+| Host Name | BigKing Assault Mode |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 07:42:11 |
 
 
