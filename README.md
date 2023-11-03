@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923860587031 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Anime girl |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 08:52:33 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923861382826 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | целка на лице |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 08:54:05 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:42:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923861334292 |
-| Players | 8/10 |
-| Host Name | чокопай1 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 08:53:59 |
+| Lobby ID | 28503923861643747 |
+| Players | 4/15 |
+| Host Name | 76561198335907364 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 08:54:35 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923858836262 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:49:14 |
@@ -101,19 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:54:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923861311217 |
-| Players | 1/15 |
-| Host Name | laughing stock |
+| Lobby ID | 28503923861628599 |
+| Players | 2/10 |
+| Host Name | MrBuba |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 08:53:57 |
+| Lobby Creation Time | Friday, November 3, 2023 08:54:33 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923861602530 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Grimcharm |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:54:30 |
