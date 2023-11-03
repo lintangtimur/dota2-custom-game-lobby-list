@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 12:00:00 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28503923979994812 |
-| Players | 1/5 |
-| Host Name | PyoWoL |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 12:18:53 |
+| Lobby ID | 28503923980229922 |
+| Players | 1/10 |
+| Host Name | .... |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 3, 2023 12:19:15 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923978147854 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Scrayl |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 12:16:02 |
