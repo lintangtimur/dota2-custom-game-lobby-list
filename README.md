@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28503923871290266 |
+| Lobby ID | 28503923871623343 |
 | Players | 1/10 |
-| Host Name | MYB11RU |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 09:14:17 |
+| Host Name | Vivi |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 3, 2023 09:14:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923869364518 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | leave if u see p2w |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 09:10:20 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923870906648 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | BuBu |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:13:32 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923870546712 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | 123 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:12:48 |
@@ -103,28 +103,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923870497462 |
-| Players | 6/8 |
-| Host Name | БОРЯ комфортик |
+| Lobby ID | 28503923871475411 |
+| Players | 5/8 |
+| Host Name | Jivchik |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 09:12:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923871422829 |
-| Players | 2/8 |
-| Host Name | Glower |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 09:14:34 |
+| Lobby Creation Time | Friday, November 3, 2023 09:14:41 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923871429543 |
+| Lobby ID | 28503923871620040 |
 | Players | 3/15 |
 | Host Name | Unikorn |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 09:14:35 |
+| Lobby Creation Time | Friday, November 3, 2023 09:14:58 |
 
 
