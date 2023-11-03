@@ -14,19 +14,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923898788175 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | moiii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 10:04:57 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28503923899499204 |
-| Players | 1/10 |
-| Host Name | {THE~@} |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 10:06:11 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923896572547 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | Silhouette |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 10:01:08 |
@@ -83,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 10:05:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923898291193 |
-| Players | 9/10 |
-| Host Name | Lifealope |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 10:04:07 |
+| Lobby ID | 28503923899798346 |
+| Players | 7/8 |
+| Host Name | ♛Саян♛ |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 10:06:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923899722373 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Katsunaga |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 10:06:33 |
@@ -110,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 10:06:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923899798346 |
-| Players | 1/8 |
-| Host Name | ♛Саян♛ |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 10:06:41 |
+| Lobby ID | 28503923899918641 |
+| Players | 6/15 |
+| Host Name | Bored- |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 10:06:53 |
 
 
