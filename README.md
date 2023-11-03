@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923896043472 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | Kujaku |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 10:00:14 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923896029649 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | XFullHouse |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 10:00:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923896084205 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Mil<3 |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 10:00:18 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923896246288 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Reddy |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 10:00:35 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | El Vicioso |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 10:00:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923896460165 |
+| Players | 4/8 |
+| Host Name | xd |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 10:00:57 |
 
 
