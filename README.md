@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923826147756 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | oniqzone- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:47:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923826432718 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | ♠ ARTHUR ♠ kING ♠ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:48:00 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923825753575 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:46:40 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923825484452 |
-| Players | 2/8 |
-| Host Name | IceBlink |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 07:46:08 |
+| Lobby ID | 28503923826485896 |
+| Players | 1/8 |
+| Host Name | Black Sheep |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 07:48:06 |
 
 
 |  | ot3_desert_octet |
@@ -112,19 +112,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923826427285 |
-| Players | 1/15 |
-| Host Name | 你说啥 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Friday, November 3, 2023 07:48:00 |
+| Lobby ID | 28503923826500998 |
+| Players | 3/15 |
+| Host Name | Just Terrora♛ |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 07:48:08 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923826439431 |
+| Lobby ID | 28503923826530103 |
 | Players | 1/15 |
-| Host Name | Carry Styles |
+| Host Name | Nafobchik |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 07:48:01 |
+| Lobby Creation Time | Friday, November 3, 2023 07:48:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923826535876 |
+| Players | 1/15 |
+| Host Name | 666 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 07:48:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923826536436 |
+| Players | 1/15 |
+| Host Name | Kylin |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 07:48:12 |
 
 
