@@ -2,19 +2,10 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28503923945479810 |
-| Players | 1/5 |
-| Host Name | Nidoking |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 11:26:04 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923944923459 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Yello |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:25:08 |
@@ -23,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923944999678 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | i miss her |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 11:25:15 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923944526680 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | 9S |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:24:27 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923945382832 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | breakоровец |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:25:54 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923944456534 |
-| Players | 6/8 |
+| Players | 4/8 |
 | Host Name | Feed nenas xd |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 11:24:20 |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fanya |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 11:24:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923945316862 |
+| Players | 3/8 |
+| Host Name | Topo gigio Provinciano |
+| Region | Unknown |
+| Lobby Creation Time | Friday, November 3, 2023 11:25:47 |
 
 
