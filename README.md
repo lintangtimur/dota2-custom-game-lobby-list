@@ -2,10 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28503923902066017 |
+| Players | 2/5 |
+| Host Name | FlasKo21 |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 10:10:33 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923898437294 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | People |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 10:04:22 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923901238908 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | ⚓DiN0⚓ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 10:09:08 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923901719194 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | i miss her |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 10:09:58 |
