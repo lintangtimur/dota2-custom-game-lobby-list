@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 12:00:00 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28503923972797719 |
-| Players | 1/7 |
-| Host Name | LvPoison- |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 12:07:55 |
+| Lobby ID | 28503923972816605 |
+| Players | 1/10 |
+| Host Name | González Pérez |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 12:07:57 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923970256429 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Maryori ♥Seria -_-giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 12:04:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923971467612 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 12:05:55 |
@@ -101,12 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 12:07:41 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923972889632 |
+| Players | 4/10 |
+| Host Name | Vicuña |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 12:08:04 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923972808875 |
+| Lobby ID | 28503923972892779 |
 | Players | 1/8 |
-| Host Name | я проклят FruKt1k |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 12:07:56 |
+| Host Name | puré de papa |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 3, 2023 12:08:04 |
 
 
