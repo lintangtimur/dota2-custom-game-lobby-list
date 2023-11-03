@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923907277339 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Loose End |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 10:19:22 |
@@ -77,25 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923906469354 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | AyEfKay |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 10:18:00 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923906720626 |
-| Players | 9/10 |
-| Host Name | Really? |
+| Lobby ID | 28503923903744225 |
+| Players | 22/24 |
+| Host Name | 9S |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 10:18:26 |
+| Lobby Creation Time | Friday, November 3, 2023 10:13:23 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923907650278 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | многа хапнул) |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 10:20:00 |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Davikucho |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 10:20:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923908203584 |
+| Players | 1/8 |
+| Host Name | tOxic bOy 战士 |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 10:20:56 |
 
 
