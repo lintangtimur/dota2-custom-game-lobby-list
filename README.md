@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923966427646 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Just subscribe for Linda H |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 11:58:20 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923967232628 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Br0ker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 11:59:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923960894917 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | Marshalldoge |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 11:49:58 |
@@ -94,19 +94,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923968571533 |
+| Lobby ID | 28503923969078084 |
 | Players | 1/24 |
-| Host Name | 波多野结衣照亮你 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 12:01:33 |
+| Host Name | Santiago(PAMPLONA) |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 12:02:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923966959233 |
-| Players | 14/15 |
-| Host Name | Nemro |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 11:59:08 |
+| Lobby ID | 28503923969092762 |
+| Players | 1/10 |
+| Host Name | fl0kiss |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 12:02:20 |
 
 
