@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923865410208 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | UnLuucky |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 09:02:07 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:02:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923863711729 |
-| Players | 7/8 |
-| Host Name | AkiKo Annaisha kim Sung |
+| Lobby ID | 28503923865523757 |
+| Players | 5/15 |
+| Host Name | Styll7 |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 08:58:31 |
+| Lobby Creation Time | Friday, November 3, 2023 09:02:22 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923865118751 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 09:01:29 |
@@ -95,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923865494778 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | GENIUS (at 4k mmr) |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 09:02:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923865523757 |
-| Players | 5/15 |
-| Host Name | Styll7 |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 09:02:22 |
 
 
