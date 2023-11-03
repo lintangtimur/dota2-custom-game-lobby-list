@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 10:01:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923896752457 |
-| Players | 1/15 |
-| Host Name | SIgan Viendo |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 10:01:27 |
+| Lobby ID | 28503923897199596 |
+| Players | 1/10 |
+| Host Name | iGotRedEyes |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 10:02:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923896311364 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | El Vicioso |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 10:00:41 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923896823741 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | :x |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 10:01:35 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 10:01:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923896876472 |
-| Players | 12/15 |
-| Host Name | Aesgard |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 10:01:40 |
+| Lobby ID | 28503923897142444 |
+| Players | 2/8 |
+| Host Name | 么 M I K E ᴬ⁵࿆¹么 |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 10:02:08 |
 
 
 |  | ot3_desert_octet |
@@ -113,9 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923897118076 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Mantelis |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 10:02:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923896876472 |
+| Players | 13/15 |
+| Host Name | Aesgard |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 10:01:40 |
 
 
