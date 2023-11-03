@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923841159782 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | vibess |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:16:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923841487129 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | merenge |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:16:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923842079397 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | maseto |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:17:56 |
@@ -67,17 +67,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923842626101 |
-| Players | 6/8 |
-| Host Name | Stingray |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 08:18:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28503923842517378 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | [♂+♂=♥]6LyaDuKtoR |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:18:45 |
@@ -85,19 +76,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923842649198 |
+| Lobby ID | 28503923842689890 |
 | Players | 1/15 |
 | Host Name | Great Admiral of Mongol Empire |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 08:19:00 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 08:19:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923842651436 |
-| Players | 2/10 |
-| Host Name | Lelouch |
+| Lobby ID | 28503923842691437 |
+| Players | 4/15 |
+| Host Name | Сол Ґудман |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 08:19:01 |
+| Lobby Creation Time | Friday, November 3, 2023 08:19:05 |
 
 
