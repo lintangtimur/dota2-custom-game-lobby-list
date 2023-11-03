@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923893536093 |
-| Players | 5/8 |
-| Host Name | Yamil :D |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 09:55:50 |
+| Lobby ID | 28503923894785871 |
+| Players | 2/8 |
+| Host Name | отлижу за костюм горничной |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 3, 2023 09:58:02 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923894376078 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ♥JGAGAMES♥giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:57:18 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923893738913 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | CameraMan |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:56:11 |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | fated |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:56:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923894785871 |
-| Players | 2/8 |
-| Host Name | отлижу за костюм горничной |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 3, 2023 09:58:02 |
 
 
