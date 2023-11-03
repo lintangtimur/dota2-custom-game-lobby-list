@@ -11,10 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 10:11:12 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28503923905406064 |
+| Players | 1/10 |
+| Host Name | Barry Delight |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 10:16:11 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923903744225 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | 9S |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 10:13:23 |
@@ -23,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923905015076 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Aggressive Koala |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 10:15:31 |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923904310523 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | 小救星小渡 |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 10:14:19 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923905216470 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ♥JGAGAMES♥giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 10:15:52 |
@@ -86,9 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923904435327 |
-| Players | 15/15 |
+| Players | 14/15 |
 | Host Name | Prime |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 10:14:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923905378619 |
+| Players | 3/10 |
+| Host Name | . |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 10:16:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923905390798 |
+| Players | 4/15 |
+| Host Name | OE  CARACHOSO |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 10:16:10 |
 
 
