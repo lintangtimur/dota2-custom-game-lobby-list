@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923880337087 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Onis |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:31:57 |
@@ -112,10 +112,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923880025110 |
-| Players | 7/8 |
-| Host Name | Hale Hörtler 18\44 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 09:31:22 |
+| Lobby ID | 28503923880856587 |
+| Players | 1/8 |
+| Host Name | Ico |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 09:32:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923880866385 |
+| Players | 7/15 |
+| Host Name | bonbon |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 09:32:56 |
 
 
