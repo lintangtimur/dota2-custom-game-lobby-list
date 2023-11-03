@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923804519474 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | NNNNNNNNNNNNNN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:03:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923819314185 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Lolo |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:33:56 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923820763749 |
-| Players | 2/8 |
-| Host Name | Dove |
+| Players | 1/8 |
+| Host Name | localhost:80 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:36:45 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923817427036 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | manjiro sano |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:30:08 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923820386656 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Dominic Tavorotto |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:36:03 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923820556553 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ☻ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:36:22 |
