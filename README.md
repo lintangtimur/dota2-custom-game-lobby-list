@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923903180807 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Trish |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 10:12:27 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923898437294 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | People |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 10:04:22 |
@@ -65,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 10:11:22 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923902625117 |
-| Players | 14/15 |
-| Host Name | я в аду с: |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 10:11:30 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923902714431 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 10:11:39 |
@@ -85,10 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923903401957 |
+| Lobby ID | 28503923903599416 |
 | Players | 1/8 |
-| Host Name | --One-Punch-Kill-- |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 10:12:49 |
+| Host Name | yuuko |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 10:13:09 |
 
 
