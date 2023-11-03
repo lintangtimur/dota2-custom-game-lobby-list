@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 07:45:15 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28503923827065262 |
-| Players | 1/10 |
-| Host Name | дурачок |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 3, 2023 07:49:14 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923804519474 |
@@ -56,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 07:08:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923826432718 |
-| Players | 14/15 |
-| Host Name | ♠ ARTHUR ♠ kING ♠ |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 07:48:00 |
+| Lobby ID | 28503923826147756 |
+| Players | 9/10 |
+| Host Name | may11 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 07:47:26 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923826485896 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Black Sheep |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:48:06 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923825984840 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Leon |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:47:07 |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923826679849 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Mantelis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:48:29 |
@@ -148,10 +139,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923826963245 |
-| Players | 1/15 |
-| Host Name | Carry Styles |
+| Lobby ID | 28503923824305530 |
+| Players | 15/15 |
+| Host Name | ❟❛❟ᴏʙɪᴛᴏ☁ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 07:49:02 |
+| Lobby Creation Time | Friday, November 3, 2023 07:43:47 |
 
 
