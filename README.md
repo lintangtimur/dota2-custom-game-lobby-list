@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923909384830 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Chandie F1 |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 10:22:56 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923909836984 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | PUDGE POS 5 ENJOYER |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 10:23:42 |
@@ -68,9 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923910484254 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Дауби Даубиев |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 10:24:49 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923910659807 |
+| Players | 2/10 |
+| Host Name | SALAMANDER_KING |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 10:25:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923910664047 |
+| Players | 1/15 |
+| Host Name | howdafuqmyteamisagathaallalong |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 3, 2023 10:25:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923910668817 |
+| Players | 3/15 |
+| Host Name | Elya |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 10:25:07 |
 
 
