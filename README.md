@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:13:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923912140258 |
-| Players | 7/8 |
-| Host Name | To Fu |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 10:27:38 |
+| Lobby ID | 28503923913643004 |
+| Players | 1/10 |
+| Host Name | Junya Watanabe |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 10:30:13 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923912267394 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | ya perdimos |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 10:27:51 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923912847019 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Gayge |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 10:28:51 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RoberCu |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 10:29:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923913643004 |
-| Players | 1/10 |
-| Host Name | Junya Watanabe |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 10:30:13 |
 
 
