@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28503923812354376 |
+| Lobby ID | 28503923812468596 |
 | Players | 1/5 |
 | Host Name | Jack of Spades |
 | Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 07:19:54 |
+| Lobby Creation Time | Friday, November 3, 2023 07:20:08 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923811054737 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Regular CheeseBread |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:17:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923811617315 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Dovle |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:18:23 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 07:03:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923810887597 |
-| Players | 6/10 |
-| Host Name | Too Good To Win? |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 07:16:53 |
+| Lobby ID | 28503923812449270 |
+| Players | 1/15 |
+| Host Name | Purple |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 07:20:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923811742776 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | gegp |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:18:39 |
@@ -112,10 +112,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923812373696 |
+| Lobby ID | 28503923812440482 |
 | Players | 1/15 |
-| Host Name | sudo |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 07:19:56 |
+| Host Name | Pit Pitoca |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 3, 2023 07:20:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923812471429 |
+| Players | 1/10 |
+| Host Name | xxxsad_ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 07:20:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923812464944 |
+| Players | 5/15 |
+| Host Name | 避開垃圾玩家 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 07:20:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923811906489 |
+| Players | 14/15 |
+| Host Name | !Kuroneko-Feyris !Pangolin !MMLD |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 07:18:58 |
 
 
