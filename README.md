@@ -11,22 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 10:17:06 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923911466476 |
-| Players | 1/10 |
-| Host Name | Tony Slark |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 10:26:29 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503923909994018 |
-| Players | 24/24 |
-| Host Name | Fer_Luque1696 |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 10:23:59 |
+| Lobby ID | 28503923909836984 |
+| Players | 6/8 |
+| Host Name | Deft |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 3, 2023 10:23:42 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923910668817 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Elya |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 10:25:07 |
@@ -63,14 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SALAMANDER_KING |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 10:25:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923909836984 |
-| Players | 5/8 |
-| Host Name | Deft |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 3, 2023 10:23:42 |
 
 
