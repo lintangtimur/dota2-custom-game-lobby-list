@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 10:13:36 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28503923904254249 |
-| Players | 2/10 |
-| Host Name | Cpt. Douchebag |
+| Lobby ID | 28503923904366943 |
+| Players | 1/5 |
+| Host Name | Lovelorn |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 10:14:14 |
+| Lobby Creation Time | Friday, November 3, 2023 10:14:25 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923903744225 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | 9S |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 10:13:23 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 10:13:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923899462548 |
-| Players | 11/15 |
-| Host Name | Dude |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 10:06:07 |
+| Lobby ID | 28503923904310523 |
+| Players | 1/24 |
+| Host Name | 小救星小渡 |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 10:14:19 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,48 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:13:55 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923903931098 |
-| Players | 7/8 |
-| Host Name | Mil<3 |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 10:13:41 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923902714431 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 10:11:39 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923904330287 |
+| Players | 2/15 |
+| Host Name | Prime |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 10:14:21 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923904248023 |
+| Lobby ID | 28503923904391630 |
 | Players | 1/10 |
-| Host Name | JA |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 10:14:13 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503923904240921 |
-| Players | 1/24 |
-| Host Name | 小救星小渡 |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 10:14:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923904260755 |
-| Players | 1/8 |
-| Host Name | ИМЯ ПРОФИЛЯ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 10:14:14 |
+| Host Name | Mai Sakurajima |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 10:14:27 |
 
 
