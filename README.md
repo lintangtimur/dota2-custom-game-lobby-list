@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923888889800 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | wi wi |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:47:34 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923888909708 |
-| Players | 1/8 |
-| Host Name | averagelosestreakenjoyer |
+| Lobby ID | 28503923887287582 |
+| Players | 7/8 |
+| Host Name | Kärss |
 | Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 09:47:36 |
+| Lobby Creation Time | Friday, November 3, 2023 09:44:40 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923889012030 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ⚓DiN0⚓ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:47:48 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923889012943 |
-| Players | 5/15 |
-| Host Name | Noya |
+| Players | 7/15 |
+| Host Name | Karl_Nesios |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:47:48 |
 
