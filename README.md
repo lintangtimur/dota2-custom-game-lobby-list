@@ -14,10 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923854671899 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Booberries |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:41:20 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28503923858201728 |
+| Players | 1/7 |
+| Host Name | Side Effect |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 08:48:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923855160453 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | xJw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:42:15 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923857213087 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | The Cat's Meow |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:46:10 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923857736805 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | gloryus |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:47:10 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923857516497 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | UnLuucky |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 08:46:44 |
@@ -90,5 +99,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Дагер на силу |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:47:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923858070257 |
+| Players | 1/15 |
+| Host Name | Псина |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 08:47:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923858107996 |
+| Players | 7/10 |
+| Host Name | Grimcharm |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 3, 2023 08:47:51 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923858114927 |
+| Players | 3/10 |
+| Host Name | goingmerry |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 3, 2023 08:47:52 |
 
 
