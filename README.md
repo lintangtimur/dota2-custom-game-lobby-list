@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923813705520 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | montana |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:22:39 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923813824976 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | 17'5 4 7Я4P |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 07:22:53 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923813310714 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | VolteaPartidas |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:21:51 |
@@ -121,10 +121,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923812440482 |
-| Players | 14/15 |
-| Host Name | Pit Pitoca |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 3, 2023 07:20:05 |
+| Lobby ID | 28503923814101712 |
+| Players | 1/15 |
+| Host Name | 避開垃圾玩家 |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 07:23:27 |
 
 
