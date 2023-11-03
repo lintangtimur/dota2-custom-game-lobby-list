@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923903744225 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | 9S |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 10:13:23 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923903708617 |
-| Players | 3/8 |
-| Host Name | отлижу за костюм горничной |
+| Players | 1/8 |
+| Host Name | 有种单挑 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, November 3, 2023 10:13:20 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923902714431 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 10:11:39 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 10:15:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923904435327 |
-| Players | 11/15 |
-| Host Name | Prime |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 10:14:32 |
+| Lobby ID | 28503923904747076 |
+| Players | 9/10 |
+| Host Name | ♥Miul♥ |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 10:15:04 |
 
 
 |  | ot3_gardens_duo |
@@ -85,10 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923904747076 |
-| Players | 6/10 |
-| Host Name | ♥Miul♥ |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 10:15:04 |
+| Lobby ID | 28503923905015076 |
+| Players | 4/10 |
+| Host Name | Aggressive Koala |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 10:15:31 |
 
 
