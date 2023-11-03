@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503924519326382 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Finish.Attack |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 20:52:41 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503924521150633 |
-| Players | 2/15 |
-| Host Name | Road To 4K |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 3, 2023 20:53:40 |
+| Lobby ID | 28503924521674989 |
+| Players | 1/15 |
+| Host Name | Squirting in Banana |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 3, 2023 20:53:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503924508961402 |
-| Players | 4/15 |
-| Host Name | I HATE STUPID KIDS |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 3, 2023 20:47:08 |
+| Lobby ID | 28503924521687961 |
+| Players | 2/15 |
+| Host Name | Yafu |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 3, 2023 20:53:58 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503924457504566 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | KeiiiiGeee! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 20:18:57 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503924518321810 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | 企业家 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 20:52:09 |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Edit Profile |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 20:53:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503924522023391 |
+| Players | 4/15 |
+| Host Name | I HATE STUPID KIDS |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 20:54:08 |
 
 
