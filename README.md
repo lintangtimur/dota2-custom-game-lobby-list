@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 10:16:11 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28503923905563704 |
-| Players | 1/7 |
+| Lobby ID | 28503923905615022 |
+| Players | 1/10 |
 | Host Name | Kuzya |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 10:16:28 |
+| Lobby Creation Time | Friday, November 3, 2023 10:16:33 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923905216470 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ♥JGAGAMES♥giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 10:15:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923905390798 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | OE  CARACHOSO |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 10:16:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923905378619 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | . |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 10:16:09 |
@@ -90,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | отлижу за костюм горничной |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 10:15:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923905612410 |
+| Players | 6/8 |
+| Host Name | _EziO_ |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 10:16:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923905652303 |
+| Players | 4/8 |
+| Host Name | пивной барыга |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 10:16:37 |
 
 
