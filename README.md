@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 12:06:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923971483561 |
-| Players | 1/15 |
-| Host Name | Egotheist |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 12:05:56 |
+| Lobby ID | 28503923971901770 |
+| Players | 2/10 |
+| Host Name | Romans 7:15-20 |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 3, 2023 12:06:34 |
 
 
 |  | ot3_desert_octet |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 12:01:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923971056083 |
-| Players | 12/15 |
-| Host Name | Gabella |
+| Lobby ID | 28503923960894917 |
+| Players | 22/24 |
+| Host Name | Marshalldoge |
 | Region | USWEST |
-| Lobby Creation Time | Friday, November 3, 2023 12:05:18 |
+| Lobby Creation Time | Friday, November 3, 2023 11:49:58 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923969488813 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | xkeimaxx |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 12:02:56 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923971439215 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ☢Joshua☢ |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 12:05:52 |
@@ -95,27 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923971467612 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 12:05:55 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503923960894917 |
-| Players | 21/24 |
-| Host Name | Marshalldoge |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 3, 2023 11:49:58 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923971901770 |
+| Lobby ID | 28503923972160742 |
 | Players | 1/10 |
-| Host Name | Romans 7:15-20 |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 3, 2023 12:06:34 |
+| Host Name | Madafacar |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 12:06:57 |
 
 
