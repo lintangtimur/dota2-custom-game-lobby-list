@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:12:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923842884490 |
-| Players | 2/8 |
-| Host Name | TEGO CALDERON |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 08:19:27 |
+| Lobby ID | 28503923842769772 |
+| Players | 9/15 |
+| Host Name | Blackcock |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 08:19:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923843175815 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | >LuisRM21< |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:20:00 |
@@ -72,23 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | El gatito erotico |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:19:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923842689890 |
-| Players | 1/15 |
-| Host Name | Great Admiral of Mongol Empire |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 08:19:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923842769772 |
-| Players | 2/15 |
-| Host Name | Blackcock |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 08:19:14 |
 
 
