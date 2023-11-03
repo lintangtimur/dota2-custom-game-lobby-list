@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923853253300 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | kLotho' |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:38:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923853325563 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | oniqzone- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:38:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923853388415 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Arthes_Ð |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:38:56 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923853360349 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | [RAGE1]-CruG |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:38:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923850131112 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | DraelgNaI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:32:55 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923853520083 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Piroco |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 08:39:10 |
@@ -95,9 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923853430054 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | kurono |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:39:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923853892033 |
+| Players | 4/8 |
+| Host Name | Dio mio haz que me enamore |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 08:39:53 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503923853902440 |
+| Players | 1/24 |
+| Host Name | Weganerd |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 08:39:54 |
 
 
