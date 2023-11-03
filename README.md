@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28503923860518278 |
-| Players | 1/5 |
+| Lobby ID | 28503923860587031 |
+| Players | 1/10 |
 | Host Name | Anime girl |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 08:52:25 |
+| Lobby Creation Time | Friday, November 3, 2023 08:52:33 |
 
 
 |  | ot3_gardens_duo |
@@ -72,5 +72,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:49:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923860552782 |
+| Players | 1/10 |
+| Host Name | Ryan Gosling |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 08:52:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923860554271 |
+| Players | 1/8 |
+| Host Name | ¿what's your name ? |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 08:52:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923860573007 |
+| Players | 1/10 |
+| Host Name | Fear |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 08:52:32 |
 
 
