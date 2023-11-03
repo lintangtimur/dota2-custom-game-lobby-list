@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923839435281 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:12:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923842769772 |
-| Players | 12/15 |
-| Host Name | Blackcock |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 08:19:14 |
+| Lobby ID | 28503923843411605 |
+| Players | 2/10 |
+| Host Name | чел |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 08:20:27 |
 
 
 |  | ot3_jungle_quintet |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:15:32 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923842957374 |
-| Players | 1/10 |
-| Host Name | Noone |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 08:19:36 |
+| Lobby ID | 28503923843439382 |
+| Players | 4/8 |
+| Host Name | XFullHouse |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 08:20:30 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923843212034 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | 65daysofstatic |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:20:05 |
@@ -76,19 +76,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923842884490 |
+| Lobby ID | 28503923843594063 |
 | Players | 1/8 |
-| Host Name | TEGO CALDERON |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 08:19:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923843411605 |
-| Players | 2/10 |
-| Host Name | чел |
+| Host Name | Mantelis |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 08:20:27 |
+| Lobby Creation Time | Friday, November 3, 2023 08:20:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503923841159782 |
+| Players | 22/24 |
+| Host Name | vibess |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 08:16:13 |
 
 
