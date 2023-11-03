@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28503923866745927 |
-| Players | 9/10 |
-| Host Name | свиня джакузі |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 09:04:56 |
+| Lobby ID | 28503923870112420 |
+| Players | 1/10 |
+| Host Name | ComradeHeval |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 09:11:53 |
 
 
 |  | epic_boss_fight_normal |
@@ -20,22 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:08:29 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923870112420 |
-| Players | 1/10 |
-| Host Name | ComradeHeval |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 09:11:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923869387362 |
-| Players | 7/8 |
-| Host Name | BigKing Assault Mode |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 09:10:23 |
+| Lobby ID | 28503923870738620 |
+| Players | 9/15 |
+| Host Name | Juan El Narco |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 09:13:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923869860960 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:11:22 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923870600607 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Weird_Teddy |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:12:54 |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 123 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:12:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923870731807 |
+| Players | 2/15 |
+| Host Name | gloryus |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 09:13:10 |
 
 
