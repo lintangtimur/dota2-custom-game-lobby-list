@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923844711513 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | ♀オリオン座♀ |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 08:22:52 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923847579773 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Necrolite |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:28:10 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923847041327 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Stick Figure |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:27:10 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923847050769 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | "GoPositive.bet" ARS - Bets4.fun |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 08:27:11 |
@@ -68,18 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923845536716 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:24:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923847565721 |
-| Players | 1/8 |
-| Host Name | Phenomen |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 08:28:08 |
+| Lobby ID | 28503923847711261 |
+| Players | 1/10 |
+| Host Name | sphynxy |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 08:28:25 |
 
 
