@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923882954282 |
-| Players | 7/8 |
+| Players | 5/8 |
 | Host Name | Scrayl |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:36:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923882716514 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | sombra verde |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:36:21 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923882920411 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Politician=Parasite |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:36:42 |
