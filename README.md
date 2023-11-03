@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923955715900 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Piroco |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 11:42:14 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 11:49:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923960961644 |
-| Players | 5/8 |
-| Host Name | -_-RuS 0_0 |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 3, 2023 11:50:04 |
+| Lobby ID | 28503923961125840 |
+| Players | 2/10 |
+| Host Name | Teniente roca |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 11:50:19 |
 
 
 |  | ot3_necropolis_ffa |
@@ -103,19 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923961043681 |
+| Lobby ID | 28503923961171770 |
 | Players | 1/8 |
 | Host Name | Rousseau |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 3, 2023 11:50:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923961061976 |
-| Players | 2/10 |
-| Host Name | Teniente roca |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 3, 2023 11:50:13 |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 11:50:23 |
 
 
