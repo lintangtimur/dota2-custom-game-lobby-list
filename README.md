@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923891291090 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Soda popinski |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 09:51:51 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923892621640 |
-| Players | 23/24 |
-| Host Name | STERBLICH |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 09:54:13 |
+| Lobby ID | 28503923893775047 |
+| Players | 1/8 |
+| Host Name | PUDGE POS 5 ENJOYER |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 3, 2023 09:56:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923889869953 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 09:49:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923892611882 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | bl7770 |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 09:54:12 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923892788079 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Loose End |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:54:31 |
@@ -103,19 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923893775047 |
+| Lobby ID | 28503923894023216 |
 | Players | 1/8 |
-| Host Name | PUDGE POS 5 ENJOYER |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 3, 2023 09:56:15 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923893906997 |
-| Players | 1/10 |
-| Host Name | Демо-рыцарь |
+| Host Name | Sir Archibald |
 | Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 09:56:29 |
+| Lobby Creation Time | Friday, November 3, 2023 09:56:41 |
 
 
