@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923949038168 |
-| Players | 6/24 |
-| Host Name | EeSAMA |
+| Players | 5/24 |
+| Host Name | STINKY BUTTHOLE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 11:31:57 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923949203961 |
-| Players | 9/15 |
+| Players | 7/15 |
 | Host Name | сада маза |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 3, 2023 11:32:13 |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TrueStories |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 11:32:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923950359052 |
+| Players | 1/15 |
+| Host Name | WTF&!о_О |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 11:34:02 |
 
 
