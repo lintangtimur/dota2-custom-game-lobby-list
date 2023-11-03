@@ -11,10 +11,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 12:20:33 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28503923981397528 |
+| Players | 1/10 |
+| Host Name | Big Poppa |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 12:21:03 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28503923981415044 |
+| Players | 1/10 |
+| Host Name | KuBj1903 |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 12:21:05 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28503923981414192 |
+| Players | 1/5 |
+| Host Name | DLove |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 12:21:05 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923980474219 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | chlnpx |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 12:19:38 |
@@ -32,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923979882609 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | Doshka |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 12:18:43 |
@@ -41,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923979939550 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | . |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 12:18:48 |
@@ -50,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923979428902 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | ¥₹ DeMoNiC ◢ ◤ ﷼§ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 12:18:01 |
@@ -92,12 +119,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 12:20:47 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923981337926 |
+| Players | 1/15 |
+| Host Name | 第二人格 |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 12:20:58 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923981306804 |
+| Lobby ID | 28503923981413565 |
 | Players | 1/8 |
 | Host Name | glorycrack |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 12:20:55 |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 12:21:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923981426971 |
+| Players | 1/15 |
+| Host Name | 4erEp |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 12:21:06 |
 
 
