@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923849420992 |
-| Players | 8/10 |
+| Players | 6/10 |
 | Host Name | Arthas Menethil |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:31:36 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:30:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923850128043 |
-| Players | 5/8 |
-| Host Name | ₭ |
+| Lobby ID | 28503923848540844 |
+| Players | 22/24 |
+| Host Name | ieagtonrns |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 08:32:54 |
+| Lobby Creation Time | Friday, November 3, 2023 08:29:57 |
 
 
 |  | ot3_desert_octet |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DraelgNaI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:32:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923850155581 |
+| Players | 5/15 |
+| Host Name | Skroomlite |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 08:32:57 |
 
 
