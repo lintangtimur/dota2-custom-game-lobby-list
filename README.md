@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:21:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923873473747 |
-| Players | 7/8 |
-| Host Name | Kärss |
+| Lobby ID | 28503923875446494 |
+| Players | 3/10 |
+| Host Name | pox na game |
 | Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 09:18:46 |
+| Lobby Creation Time | Friday, November 3, 2023 09:22:41 |
 
 
 |  | ot3_desert_octet |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923872577560 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | mr.dead |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 09:16:56 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923874880263 |
-| Players | 18/24 |
-| Host Name | (lFuzy^^! |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 09:21:35 |
+| Lobby ID | 28503923873473747 |
+| Players | 7/8 |
+| Host Name | Kärss |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 09:18:46 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923874093908 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Punk Fools- |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:20:01 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923874618528 |
-| Players | 23/24 |
+| Players | 20/24 |
 | Host Name | VincenLaw |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 09:21:04 |
@@ -86,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923875759685 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Note |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:23:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923875446494 |
-| Players | 1/10 |
-| Host Name | pox na game |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 09:22:41 |
 
 
