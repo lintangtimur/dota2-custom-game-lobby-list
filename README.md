@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923831735328 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:58:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923833367511 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ScorpioN |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:01:31 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923833306987 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | *Сластена* |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:01:24 |
@@ -95,27 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923833155341 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | bitch, no llore´s, bitch |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:01:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923834099377 |
-| Players | 1/15 |
-| Host Name | popeye pirate |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 08:02:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923834039716 |
-| Players | 3/10 |
-| Host Name | miz |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 08:02:49 |
 
 
