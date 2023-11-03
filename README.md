@@ -20,13 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:59:39 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28503923896054830 |
+| Players | 1/5 |
+| Host Name | ΤΓΦ.クロネコ |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 3, 2023 10:00:15 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923893775047 |
-| Players | 7/8 |
-| Host Name | PUDGE POS 5 ENJOYER |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 3, 2023 09:56:15 |
+| Lobby ID | 28503923895980735 |
+| Players | 1/8 |
+| Host Name | poslevkusie |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 10:00:07 |
 
 
 |  | ot3_gardens_duo |
@@ -38,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 10:00:01 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923895753138 |
-| Players | 1/24 |
-| Host Name | As |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 09:59:44 |
+| Lobby ID | 28503923896029649 |
+| Players | 1/8 |
+| Host Name | XFullHouse |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 3, 2023 10:00:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923871112181 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | DragonFyre |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 09:13:55 |
@@ -68,9 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923894103831 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | [•♣♠♦•] Audasces/B*ld |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:56:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923895972433 |
+| Players | 1/8 |
+| Host Name | Displex |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 10:00:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923896043472 |
+| Players | 1/15 |
+| Host Name | Kujaku |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 10:00:14 |
 
 
