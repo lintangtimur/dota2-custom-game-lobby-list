@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923830511600 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ComradeHeval |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 07:55:59 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923831311758 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | EL TITI |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:57:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923830550761 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | kötsibëu |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:56:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923806824347 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Sarge King |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 07:08:33 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923829864465 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Shroomba |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 07:54:43 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 07:57:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923831515420 |
-| Players | 9/10 |
-| Host Name | exile |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 07:57:55 |
+| Lobby ID | 28503923831735328 |
+| Players | 1/24 |
+| Host Name | Disastrous Luck |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 07:58:21 |
 
 
 |  | ot3_gardens_duo |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DIEGOSENSE |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 07:58:18 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503923831735328 |
-| Players | 1/24 |
-| Host Name | Disastrous Luck |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 07:58:21 |
 
 
