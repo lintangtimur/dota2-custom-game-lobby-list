@@ -2,10 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28503923947554384 |
+| Players | 2/10 |
+| Host Name | ꜱʏꜰʏ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 11:29:33 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923946467271 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | ♁＊＊ SIA ＊＊ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:27:44 |
@@ -13,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923944260353 |
-| Players | 8/10 |
-| Host Name | DANICH |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 11:24:00 |
+| Lobby ID | 28503923947252607 |
+| Players | 1/10 |
+| Host Name | alenose |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 3, 2023 11:29:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -58,10 +67,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923947252607 |
+| Lobby ID | 28503923947530560 |
 | Players | 1/10 |
-| Host Name | alenose |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 3, 2023 11:29:02 |
+| Host Name | Бородач Лена |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 11:29:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923947584099 |
+| Players | 4/8 |
+| Host Name | Cerveza Pilsen Trujillo |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 11:29:36 |
 
 
