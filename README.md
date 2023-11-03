@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923853937331 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Weganerd |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:39:58 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:42:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923855848655 |
-| Players | 8/10 |
-| Host Name | oniqzone- |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 3, 2023 08:43:34 |
+| Lobby ID | 28503923856168863 |
+| Players | 1/15 |
+| Host Name | Cukka |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 08:44:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:41:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923856168863 |
-| Players | 1/15 |
-| Host Name | Cukka |
+| Lobby ID | 28503923856267270 |
+| Players | 1/10 |
+| Host Name | чел |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 08:44:11 |
+| Lobby Creation Time | Friday, November 3, 2023 08:44:22 |
 
 
