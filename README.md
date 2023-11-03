@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923901238908 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | ⚓DiN0⚓ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 10:09:08 |
@@ -94,19 +94,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923902461924 |
-| Players | 1/10 |
-| Host Name | Dicrocelum |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 10:11:13 |
+| Lobby ID | 28503923902542907 |
+| Players | 3/10 |
+| Host Name | . |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 10:11:22 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923902505660 |
-| Players | 1/8 |
+| Lobby ID | 28503923902543791 |
+| Players | 2/8 |
 | Host Name | --One-Punch-Kill-- |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 10:11:18 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 10:11:22 |
 
 
