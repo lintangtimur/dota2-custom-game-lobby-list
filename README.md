@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923869364518 |
-| Players | 7/24 |
-| Host Name | Edit Profile |
+| Players | 5/24 |
+| Host Name | Cubs |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 09:10:20 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923871112181 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | DragonFyre |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 09:13:55 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923872041202 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Kokodrile |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:15:50 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923872397155 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 09:16:34 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923872919880 |
-| Players | 11/15 |
+| Players | 8/15 |
 | Host Name | Diascanel GODOTA2.COM |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:17:38 |
@@ -122,18 +122,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923873354778 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Fanya |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:18:31 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923873505309 |
+| Players | 4/10 |
+| Host Name | UnLuucky |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 3, 2023 09:18:50 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923873031115 |
-| Players | 7/8 |
-| Host Name | XFullHouse |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 09:17:51 |
+| Lobby ID | 28503923873473747 |
+| Players | 1/8 |
+| Host Name | Kärss |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 09:18:46 |
 
 
