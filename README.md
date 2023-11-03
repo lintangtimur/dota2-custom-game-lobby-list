@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923872640482 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | eue |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 09:17:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923869364518 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Edit Profile |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 09:10:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923872577560 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | mr.dead |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 09:16:56 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923872228603 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | M i a m i |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:16:13 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923872919880 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Diascanel GODOTA2.COM |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:17:38 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923873048996 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | cokein |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:17:54 |
@@ -155,12 +155,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:17:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923873062185 |
-| Players | 2/8 |
-| Host Name | Ronin |
+| Lobby ID | 28503923873155741 |
+| Players | 2/10 |
+| Host Name | Glower |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 3, 2023 09:17:55 |
+| Lobby Creation Time | Friday, November 3, 2023 09:18:07 |
 
 
