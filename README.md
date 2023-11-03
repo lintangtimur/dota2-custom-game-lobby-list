@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923846758200 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | TriHard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:26:38 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923845133586 |
-| Players | 2/8 |
-| Host Name | pato6661 |
+| Players | 1/8 |
+| Host Name | 2 osexo |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 08:23:38 |
 
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923844347639 |
-| Players | 23/24 |
-| Host Name | kagni |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 08:22:11 |
+| Lobby ID | 28503923847050769 |
+| Players | 1/24 |
+| Host Name | "GoPositive.bet" ARS - Bets4.fun |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 08:27:11 |
 
 
 |  | ot3_desert_octet |
@@ -86,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923847041327 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | Stick Figure |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:27:10 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503923847050769 |
-| Players | 1/24 |
-| Host Name | "GoPositive.bet" ARS - Bets4.fun |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 08:27:11 |
 
 
