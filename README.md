@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923954458145 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Palestina |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 11:40:20 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923953543620 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | duramen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 11:38:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923957367876 |
-| Players | 11/15 |
-| Host Name | ЛШДДУК |
+| Lobby ID | 28503923957242739 |
+| Players | 8/10 |
+| Host Name | Artorias |
 | Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 11:44:41 |
+| Lobby Creation Time | Friday, November 3, 2023 11:44:30 |
 
 
 |  | ot3_desert_octet |
@@ -47,33 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 11:43:53 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923955846973 |
-| Players | 7/8 |
-| Host Name | пузо |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 11:42:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923955715900 |
-| Players | 4/15 |
-| Host Name | АЛЬФА БЕТА ТЁТЯ ШТРИХ |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 3, 2023 11:42:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923957242739 |
-| Players | 7/10 |
-| Host Name | Artorias |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 11:44:30 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923958097121 |
@@ -81,5 +54,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Don Payiyo de Pumitas |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 11:45:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923955715900 |
+| Players | 5/15 |
+| Host Name | АЛЬФА БЕТА ТЁТЯ ШТРИХ |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 3, 2023 11:42:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923958284076 |
+| Players | 1/15 |
+| Host Name | Fried Chicken |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 11:46:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923958311335 |
+| Players | 1/8 |
+| Host Name | TI_ Polux_Troy |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 3, 2023 11:46:05 |
 
 
