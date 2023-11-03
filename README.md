@@ -11,28 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 11:40:20 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923954772101 |
-| Players | 8/10 |
-| Host Name | skyrutt |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 11:40:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923955371195 |
-| Players | 9/10 |
-| Host Name | erik |
+| Lobby ID | 28503923956028334 |
+| Players | 15/24 |
+| Host Name | Rho Aias |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 11:41:43 |
+| Lobby Creation Time | Friday, November 3, 2023 11:42:42 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923954835865 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Madafacar |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:40:54 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923955079503 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | фить фить |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 3, 2023 11:41:16 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923955715900 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | АЛЬФА БЕТА ТЁТЯ ШТРИХ |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 11:42:14 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923953543620 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | duramen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 11:38:56 |
@@ -90,32 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | пузо |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:42:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923955936571 |
-| Players | 1/15 |
-| Host Name | ЛШДДУК |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 3, 2023 11:42:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923956008012 |
-| Players | 12/15 |
-| Host Name | Egotheist |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 11:42:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503923956028334 |
-| Players | 11/24 |
-| Host Name | Rho Aias |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 11:42:42 |
 
 
