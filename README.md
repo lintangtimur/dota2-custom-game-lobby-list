@@ -2,15 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28503923902066017 |
-| Players | 2/5 |
-| Host Name | FlasKo21 |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 10:10:33 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923898437294 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923901719194 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | i miss her |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 10:09:58 |
@@ -78,7 +69,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28503923901805267 |
 | Players | 6/10 |
-| Host Name | OE  CARACHOSO |
+| Host Name | Punk Fools- |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 10:10:07 |
 
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | El apostol |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 10:10:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503923902073570 |
+| Players | 1/24 |
+| Host Name | 小救星小渡 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 10:10:34 |
 
 
