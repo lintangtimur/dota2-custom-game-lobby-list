@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923882544217 |
-| Players | 4/10 |
-| Host Name | свиня джакузі |
+| Players | 5/10 |
+| Host Name | Zarvan |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 09:36:02 |
 
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923885602587 |
+| Lobby ID | 28503923887287582 |
 | Players | 1/8 |
-| Host Name | Хaoсит  Untimely |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 09:41:37 |
+| Host Name | Kärss |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 09:44:40 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923886923419 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Stunning Garry |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:44:00 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923886929927 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | UnLuucky |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 09:44:01 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923885922371 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | 盗个铃 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:42:12 |
@@ -95,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923887086068 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | sooshiant |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 09:44:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923887307313 |
+| Players | 1/10 |
+| Host Name | Darth Dafty |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 09:44:42 |
 
 
