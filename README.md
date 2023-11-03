@@ -11,10 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:28:45 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28503923879707945 |
+| Players | 1/10 |
+| Host Name | AGENT U |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 09:30:46 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923878563797 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ALANbrito |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:28:38 |
@@ -50,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923879433369 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | FAFNIR |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:30:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923879134913 |
-| Players | 14/15 |
-| Host Name | 私はあなたを愛してい |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 09:29:42 |
 
 
 |  | ot3_desert_octet |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | terry |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:30:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923879730602 |
+| Players | 2/15 |
+| Host Name | sadboi |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 09:30:48 |
 
 
