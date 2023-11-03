@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:51:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923898071166 |
-| Players | 1/15 |
-| Host Name | Ninja Pirate |
+| Lobby ID | 28503923898437294 |
+| Players | 2/24 |
+| Host Name | People |
 | Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 10:03:44 |
+| Lobby Creation Time | Friday, November 3, 2023 10:04:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,18 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923898455268 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | KBMM |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 10:04:23 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503923898437294 |
-| Players | 1/24 |
-| Host Name | People |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 10:04:22 |
 
 
