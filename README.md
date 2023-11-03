@@ -11,24 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:21:38 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28503923872640482 |
-| Players | 6/10 |
-| Host Name | eue |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 09:17:03 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28503923875840454 |
-| Players | 1/5 |
-| Host Name | Stellaron Hunters |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 09:23:27 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923873473747 |
@@ -68,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923872577560 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | mr.dead |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 09:16:56 |
@@ -77,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923874880263 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | (lFuzy^^! |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:21:35 |
@@ -86,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923874093908 |
-| Players | 3/8 |
-| Host Name | Gallo negro |
+| Players | 1/8 |
+| Host Name | "Rock_Lee Csmr"} |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:20:01 |
 
@@ -95,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923874331450 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Leyo |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:20:30 |
@@ -148,19 +130,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923875862909 |
-| Players | 1/15 |
-| Host Name | Do you feel mandingo`s dick |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 09:23:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28503923875890411 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | SweepeR |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 09:23:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923875988892 |
+| Players | 4/8 |
+| Host Name | 𝙃𝘰𝘳𝘳𝘰𝘳 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 09:23:43 |
 
 
