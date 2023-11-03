@@ -29,6 +29,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:55:12 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28503923862911647 |
+| Players | 1/10 |
+| Host Name | pinguinul26.TTV |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 08:56:59 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923862554494 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923855160453 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | xJw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:42:15 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923860174359 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | goingmerry |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:51:46 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923862535152 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Patiance☺ |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 08:56:16 |
