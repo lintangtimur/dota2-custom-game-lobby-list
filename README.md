@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923887287582 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Kärss |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:44:40 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923885922371 |
-| Players | 23/24 |
-| Host Name | 盗个铃 |
+| Lobby ID | 28503923887538249 |
+| Players | 3/8 |
+| Host Name | XD |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 09:42:12 |
+| Lobby Creation Time | Friday, November 3, 2023 09:45:07 |
 
 
 |  | ot3_desert_octet |
@@ -68,27 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923887903346 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Skroomlite |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:45:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923887633976 |
-| Players | 11/15 |
-| Host Name | Mana Bruh |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 09:45:17 |
+| Lobby ID | 28503923888210886 |
+| Players | 6/10 |
+| Host Name | Darth Dafty |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 09:46:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923887538249 |
-| Players | 2/8 |
-| Host Name | XD |
+| Lobby ID | 28503923888202847 |
+| Players | 2/10 |
+| Host Name | Ҝιώi𝕀c𝐜ʰｏ  ☯ |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 09:45:07 |
+| Lobby Creation Time | Friday, November 3, 2023 09:46:20 |
 
 
