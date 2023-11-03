@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923908835942 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Escanor-sama |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 10:22:00 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923908910504 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | bl7770 |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 10:22:08 |
@@ -99,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SALAMANDER_KING |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 10:23:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923908642539 |
+| Players | 14/15 |
+| Host Name | A_GIFT |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 10:21:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923907650278 |
+| Players | 7/8 |
+| Host Name | Plantom Assasin GODOTA2.COM |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 10:20:00 |
 
 
