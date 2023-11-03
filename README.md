@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923892621640 |
-| Players | 15/24 |
+| Players | 20/24 |
 | Host Name | STERBLICH |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:54:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923889869953 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 09:49:20 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923892788851 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Йаcobs monarch |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 09:54:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923892611882 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | bl7770 |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 09:54:12 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923892788079 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Loose End |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:54:31 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923892690066 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Slyrak |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:54:21 |
@@ -103,10 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923893385015 |
-| Players | 6/8 |
-| Host Name | BB GEORGE EMBUSCA DE MEMERRE |
+| Lobby ID | 28503923893536093 |
+| Players | 5/8 |
+| Host Name | Yamil :D |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 09:55:34 |
+| Lobby Creation Time | Friday, November 3, 2023 09:55:50 |
 
 
