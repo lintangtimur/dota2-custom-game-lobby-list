@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923862181025 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | yanyan嵐 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:55:36 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923862208998 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Menace2Society |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 08:55:39 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923862177390 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | ceviche do tomodachi |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:55:36 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923862209236 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 08:55:39 |
