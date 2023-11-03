@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923858252289 |
-| Players | 5/8 |
-| Host Name | ZAGREUS |
+| Players | 6/8 |
+| Host Name | Whats is love |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:48:08 |
 
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:40:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923857304095 |
-| Players | 13/15 |
-| Host Name | Stick Figure |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 08:46:20 |
+| Lobby ID | 28503923859046319 |
+| Players | 5/8 |
+| Host Name | Dream |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 08:49:38 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,9 +77,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923858836262 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:49:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503923859051990 |
+| Players | 3/24 |
+| Host Name | Novato Prime |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 08:49:38 |
 
 
