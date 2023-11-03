@@ -2,6 +2,15 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28503923960672912 |
+| Players | 1/5 |
+| Host Name | Be Humble |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 11:49:38 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923960330339 |
@@ -54,33 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MORPLANG |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 11:38:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923958636917 |
-| Players | 13/15 |
-| Host Name | Sherlock |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 11:46:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923960468338 |
-| Players | 6/8 |
-| Host Name | LOSBENJAMINS |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 3, 2023 11:49:20 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503923955344240 |
-| Players | 23/24 |
-| Host Name | Skyrim |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 11:41:40 |
 
 
 |  | ot3_necropolis_ffa |
