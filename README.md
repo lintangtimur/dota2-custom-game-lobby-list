@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923867300385 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Jasmine |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:06:06 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923866509165 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | ........ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:04:27 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923854212591 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | DragonFyre |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 08:40:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923866678736 |
-| Players | 7/8 |
-| Host Name | DEIGO |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 09:04:48 |
+| Lobby ID | 28503923867111047 |
+| Players | 14/15 |
+| Host Name | Lahars |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 09:05:42 |
 
 
 |  | ot3_gardens_duo |
@@ -92,12 +92,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:06:57 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923867923127 |
+| Players | 4/8 |
+| Host Name | Маяз |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 09:07:22 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923867888177 |
-| Players | 1/15 |
-| Host Name | ASYCEM |
+| Lobby ID | 28503923867919273 |
+| Players | 4/15 |
+| Host Name | Niñoblis Tu Terror +.+ |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 09:07:18 |
+| Lobby Creation Time | Friday, November 3, 2023 09:07:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923867979252 |
+| Players | 4/10 |
+| Host Name | kurono |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 09:07:29 |
 
 
