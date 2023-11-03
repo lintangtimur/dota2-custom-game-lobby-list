@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923944923459 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Yello |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:25:08 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923942715598 |
-| Players | 1/8 |
-| Host Name | LALATROLA giordota.com |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 3, 2023 11:21:20 |
+| Lobby ID | 28503923945918313 |
+| Players | 2/8 |
+| Host Name | El niño guerrero |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 11:26:48 |
 
 
 |  | ot3_gardens_duo |
@@ -108,23 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Feed nenas xd |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 11:24:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923944298746 |
-| Players | 14/15 |
-| Host Name | Fanya |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 11:24:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923945918313 |
-| Players | 2/8 |
-| Host Name | El niño guerrero |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 11:26:48 |
 
 
