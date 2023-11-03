@@ -2,22 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923954458145 |
-| Players | 9/10 |
-| Host Name | Palestina |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 11:40:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923960297096 |
-| Players | 2/8 |
-| Host Name | титьки ежевики |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 11:49:04 |
+| Lobby ID | 28503923960330339 |
+| Players | 1/24 |
+| Host Name | ✿迅猛小老虎 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 11:49:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923960136934 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Grumbledorp |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 11:48:49 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923958636917 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Sherlock |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 11:46:34 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923955344240 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Skyrim |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 11:41:40 |
@@ -95,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923960173186 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | ht |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 3, 2023 11:48:53 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503923953543620 |
+| Players | 23/24 |
+| Host Name | MORPLANG |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 11:38:56 |
 
 
