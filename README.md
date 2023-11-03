@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:08:29 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28503923869858349 |
-| Players | 1/5 |
-| Host Name | Rasta |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 09:11:22 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923869387362 |
@@ -74,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:11:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923869614173 |
-| Players | 5/10 |
-| Host Name | Laokun |
+| Lobby ID | 28503923869717297 |
+| Players | 4/15 |
+| Host Name | "GoPositive.bet" ARS - Bets4.fun |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 09:10:52 |
+| Lobby Creation Time | Friday, November 3, 2023 09:11:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -99,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TE KCHO Y SAFO |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:11:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923869717297 |
-| Players | 3/15 |
-| Host Name | "GoPositive.bet" ARS - Bets4.fun |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 09:11:04 |
 
 
