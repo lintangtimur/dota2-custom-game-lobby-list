@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923905887323 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Oggos(cZ) |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 10:17:01 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923905165038 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | real human bean |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 10:15:47 |
@@ -94,17 +94,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923906558229 |
-| Players | 1/10 |
-| Host Name | Роман Данунахуй |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 10:18:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28503923906720626 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Really? |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 10:18:26 |
