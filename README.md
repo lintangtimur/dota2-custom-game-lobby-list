@@ -20,10 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:08:29 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28503923869768804 |
+| Players | 1/5 |
+| Host Name | simple |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 09:11:11 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923869387362 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | BigKing Assault Mode |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:10:23 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923868881992 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | ¡SOLOWEBEO! |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:09:21 |
@@ -86,9 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923869686434 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | PomeXxX |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:11:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923869717297 |
+| Players | 1/15 |
+| Host Name | "GoPositive.bet" ARS - Bets4.fun |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 09:11:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923869748834 |
+| Players | 5/8 |
+| Host Name | bonbon |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 09:11:08 |
 
 
