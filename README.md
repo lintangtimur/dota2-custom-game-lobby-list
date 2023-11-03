@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923836549363 |
-| Players | 13/24 |
+| Players | 10/24 |
 | Host Name | BABY-ROSH (AL) |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:07:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923838222498 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | БОРЯ комфортик |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:10:41 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923838338675 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | YUKICHI |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:10:54 |
@@ -99,23 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | fiji |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:11:38 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923838853184 |
-| Players | 3/15 |
-| Host Name | Unikorn |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 08:11:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923838924469 |
-| Players | 1/15 |
-| Host Name | Lucent |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 08:12:00 |
 
 
