@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923839435281 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:12:58 |
@@ -49,20 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923841487129 |
-| Players | 9/10 |
-| Host Name | merenge |
+| Lobby ID | 28503923843175815 |
+| Players | 1/10 |
+| Host Name | >LuisRM21< |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 08:16:49 |
+| Lobby Creation Time | Friday, November 3, 2023 08:20:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923842691437 |
-| Players | 9/15 |
-| Host Name | Сол Ґудман |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 08:19:05 |
+| Lobby ID | 28503923843212034 |
+| Players | 1/15 |
+| Host Name | 65daysofstatic |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 08:20:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Blackcock |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:19:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923843115818 |
-| Players | 1/10 |
-| Host Name | clarkes_abu |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 08:19:54 |
 
 
