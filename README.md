@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923947722865 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Solo quiero divertirme |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 11:29:49 |
@@ -51,7 +51,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28503923946563566 |
 | Players | 2/8 |
-| Host Name | Itte |
+| Host Name | El negro de los ojos claros |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:27:54 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923941104990 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | [JnM]Nickname |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 11:18:27 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923948116549 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | pookityshok |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:30:27 |
@@ -101,21 +101,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 11:30:52 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923948368315 |
-| Players | 1/10 |
-| Host Name | Moises |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 11:30:52 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923948377354 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | -_-RuS 0_0 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:30:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923948432918 |
+| Players | 1/15 |
+| Host Name | Aki |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 11:30:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923944923459 |
+| Players | 15/15 |
+| Host Name | Yello |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 11:25:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923948493848 |
+| Players | 1/15 |
+| Host Name | прочитал = пидop |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 11:31:04 |
 
 
