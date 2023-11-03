@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:17:03 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28503923872644369 |
-| Players | 1/10 |
-| Host Name | Pompeii |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 09:17:04 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923872337774 |
@@ -101,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:16:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923872678496 |
-| Players | 1/15 |
-| Host Name | прочитал = пидop |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 09:17:08 |
+| Lobby ID | 28503923872526688 |
+| Players | 2/10 |
+| Host Name | Ronin |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 09:16:49 |
 
 
 |  | ot3_necropolis_ffa |
@@ -126,32 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | I HATE STUPID KIDS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 09:16:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923872526688 |
-| Players | 2/10 |
-| Host Name | Ronin |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 09:16:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923872724817 |
-| Players | 1/15 |
-| Host Name | Tired Zoo Keeper |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 09:17:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923872727779 |
-| Players | 1/15 |
-| Host Name | weekOff |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 09:17:14 |
 
 
