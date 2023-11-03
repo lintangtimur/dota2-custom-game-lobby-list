@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923869364518 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Cubs |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 09:10:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923872577560 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | mr.dead |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 09:16:56 |
@@ -101,21 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:16:34 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923873279093 |
-| Players | 7/8 |
-| Host Name | Menace2Society |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 09:18:22 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923874639021 |
-| Players | 1/15 |
+| Players | 9/15 |
 | Host Name | Carrying more animals than Noah |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:21:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923872228603 |
+| Players | 3/8 |
+| Host Name | M i a m i |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 09:16:13 |
 
 
