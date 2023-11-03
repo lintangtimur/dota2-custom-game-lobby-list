@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:17:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923873332526 |
-| Players | 3/10 |
-| Host Name | TheDemonicking🤬 |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 09:18:29 |
+| Lobby ID | 28503923873473747 |
+| Players | 1/8 |
+| Host Name | Kärss |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 09:18:46 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923872001362 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Tomohise-Sako |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:15:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923873279093 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Menace2Society |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 09:18:22 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923872228603 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | M i a m i |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:16:13 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923872967287 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | alwayswannawin |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:17:44 |
@@ -135,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | UnLuucky |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 09:18:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923873473747 |
-| Players | 1/8 |
-| Host Name | Kärss |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 09:18:46 |
 
 
