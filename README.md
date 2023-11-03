@@ -5,10 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923967543078 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ааааа |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 3, 2023 12:00:00 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28503923977098267 |
+| Players | 1/10 |
+| Host Name | Aight, Bet! |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 12:14:25 |
 
 
 |  | ot3_desert_octet |
@@ -20,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 12:09:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923974960386 |
-| Players | 7/8 |
-| Host Name | El Ohanas |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 12:11:11 |
+| Lobby ID | 28503923977037497 |
+| Players | 1/15 |
+| Host Name | ПРЯНЯ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 12:14:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923973814762 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Theuza |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 12:09:27 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923975263795 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | roo_avicii :3 |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 12:11:39 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923973540032 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Kbeza |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 12:09:03 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923976550937 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | ✪Mhelvss✪ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 12:13:36 |
