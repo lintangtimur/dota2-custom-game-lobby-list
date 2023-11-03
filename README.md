@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28503923960330339 |
 | Players | 11/24 |
-| Host Name | CYKA |
+| Host Name | Jïzzshiri |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 11:49:07 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923963853687 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | MAC MANI QUISPE |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 11:54:27 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923966071407 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | pimpollitos sin flow |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 11:57:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923965825263 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Romans 7:15-20 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 11:57:26 |
@@ -50,18 +50,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923965105244 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | JAustin |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:56:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923966609321 |
-| Players | 4/8 |
-| Host Name | ГОМЫЗЯ |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 11:58:37 |
+| Lobby ID | 28503923966772056 |
+| Players | 1/15 |
+| Host Name | Meik♿ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 3, 2023 11:58:51 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923966786486 |
+| Players | 1/10 |
+| Host Name | Сатору Годжу |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 3, 2023 11:58:52 |
 
 
