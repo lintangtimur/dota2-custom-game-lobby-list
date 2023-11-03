@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28503923945803910 |
-| Players | 1/5 |
-| Host Name | AP0LL0 |
+| Lobby ID | 28503923945861653 |
+| Players | 2/10 |
+| Host Name | Barry Delight |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 11:26:36 |
+| Lobby Creation Time | Friday, November 3, 2023 11:26:42 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923944923459 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Yello |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:25:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923944260353 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | DANICH |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 11:24:00 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923944526680 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | 9S |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:24:27 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923944456534 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Feed nenas xd |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 11:24:20 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923944298746 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Fanya |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 11:24:04 |
@@ -121,10 +121,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923945716913 |
-| Players | 6/8 |
-| Host Name | Bored- |
+| Lobby ID | 28503923945918313 |
+| Players | 1/8 |
+| Host Name | El niño guerrero |
 | Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 11:26:28 |
+| Lobby Creation Time | Friday, November 3, 2023 11:26:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923945976863 |
+| Players | 1/8 |
+| Host Name | Tryhard |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 11:26:54 |
 
 
