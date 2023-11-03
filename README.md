@@ -5,34 +5,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923891291090 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | a |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 09:51:51 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923896702533 |
+| Players | 3/10 |
+| Host Name | FEEDor dostoievski |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 10:01:22 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923896043472 |
-| Players | 14/15 |
-| Host Name | Kujaku |
+| Lobby ID | 28503923896752457 |
+| Players | 1/15 |
+| Host Name | SIgan Viendo |
 | Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 10:00:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923896323707 |
-| Players | 1/8 |
-| Host Name | учу бурятский |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 10:00:43 |
+| Lobby Creation Time | Friday, November 3, 2023 10:01:27 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923896311364 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | El Vicioso |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 10:00:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923871112181 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | DragonFyre |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 09:13:55 |
@@ -77,18 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923896246288 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Reddy |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 10:00:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923893775047 |
-| Players | 7/8 |
-| Host Name | PUDGE POS 5 ENJOYER |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 3, 2023 09:56:15 |
 
 
