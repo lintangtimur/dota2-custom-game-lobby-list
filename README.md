@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923852528061 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | MYB11RU |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:37:20 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923853937331 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Weganerd |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:39:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923857213087 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | The Cat's Meow |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:46:10 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923857304095 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Stick Figure |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:46:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923857622891 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Дагер на силу |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:46:56 |
@@ -87,7 +87,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28503923856766126 |
 | Players | 6/8 |
-| Host Name | Ruska Gaming |
+| Host Name | ❟❛❟₭₳Ɽ₳₴Ʉ❟❛ |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:45:19 |
 
@@ -101,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:46:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923857596573 |
-| Players | 5/8 |
-| Host Name | Oppenheimer |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 08:46:53 |
+| Lobby ID | 28503923857736805 |
+| Players | 3/15 |
+| Host Name | gloryus |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 08:47:10 |
 
 
