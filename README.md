@@ -23,19 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923864544194 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | RTX4200 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:00:09 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28503923865600146 |
-| Players | 1/10 |
-| Host Name | TraPaugar D. Water Lo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 09:02:31 |
 
 
 |  | ot3_gardens_duo |
@@ -56,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:01:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923864447073 |
-| Players | 13/15 |
-| Host Name | JODEME Y TE SACO TU MRDA |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 08:59:56 |
+| Lobby ID | 28503923865596248 |
+| Players | 1/8 |
+| Host Name | BigKing Assault Mode |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 09:02:31 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923863711729 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:58:31 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923865118751 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | ™Slim Shady® |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 09:01:29 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923863579153 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | whole lotta motion |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:58:15 |
@@ -126,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Styll7 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:02:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923865596248 |
-| Players | 1/8 |
-| Host Name | BigKing Assault Mode |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 09:02:31 |
 
 
