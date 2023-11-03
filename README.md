@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923804495302 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:03:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923805424344 |
-| Players | 7/8 |
-| Host Name | мазня говном |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 07:05:45 |
+| Lobby ID | 28503923805631825 |
+| Players | 3/10 |
+| Host Name | Full-Time Griefer |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 07:06:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -131,27 +131,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923803802472 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | БОРЯ комфортик |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:02:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923805631825 |
-| Players | 2/10 |
-| Host Name | Full-Time Griefer |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 07:06:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923805433143 |
-| Players | 11/15 |
-| Host Name | I ONCE SHAGGED A GOAT |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 07:05:46 |
 
 
