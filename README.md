@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 11:21:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923943631815 |
-| Players | 1/15 |
-| Host Name | Fanya |
+| Lobby ID | 28503923944260353 |
+| Players | 2/10 |
+| Host Name | DANICH |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 11:22:55 |
+| Lobby Creation Time | Friday, November 3, 2023 11:24:00 |
 
 
 |  | ot3_desert_octet |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923940882566 |
-| Players | 3/10 |
-| Host Name | Error.On.Fire.xD |
+| Players | 4/10 |
+| Host Name | *lrxd氏 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 3, 2023 11:18:03 |
 
@@ -110,12 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 11:22:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923944260353 |
-| Players | 2/10 |
-| Host Name | DANICH |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 11:24:00 |
+| Lobby ID | 28503923944298746 |
+| Players | 4/15 |
+| Host Name | Fanya |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 11:24:04 |
 
 
