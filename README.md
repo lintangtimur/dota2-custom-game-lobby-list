@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923882646893 |
-| Players | 16/24 |
+| Players | 22/24 |
 | Host Name | MANIAN-CRAZY giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:36:13 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923882848605 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | gloryus |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:36:35 |
@@ -108,5 +108,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Scrayl |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:36:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923883183030 |
+| Players | 1/8 |
+| Host Name | ehыч |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 09:37:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923881041437 |
+| Players | 13/15 |
+| Host Name | PURE SKILL |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 09:33:15 |
 
 
