@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923975263795 |
-| Players | 9/10 |
-| Host Name | Sr. Isma |
+| Players | 1/10 |
+| Host Name | roo_avicii :3 |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 12:11:39 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923974492698 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 12:10:29 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | -rowin¿我 |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 12:13:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923976425176 |
+| Players | 1/10 |
+| Host Name | . |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 12:13:24 |
 
 
