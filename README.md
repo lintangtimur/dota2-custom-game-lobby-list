@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923842769772 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Blackcock |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:19:14 |
@@ -72,5 +72,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | El gatito erotico |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:19:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923842884490 |
+| Players | 1/8 |
+| Host Name | TEGO CALDERON |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 08:19:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923843411605 |
+| Players | 2/10 |
+| Host Name | чел |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 08:20:27 |
 
 
