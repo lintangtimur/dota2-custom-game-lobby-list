@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923954458145 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Alex so handsome. |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 11:40:20 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923954212924 |
-| Players | 7/8 |
-| Host Name | Сатору |
+| Lobby ID | 28503923954458077 |
+| Players | 4/8 |
+| Host Name | PERUANOS HIJOS DEL PICO |
 | Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 11:39:58 |
+| Lobby Creation Time | Friday, November 3, 2023 11:40:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923952908509 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Cooper |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 11:37:59 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Error.On.Fire.xD |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 11:39:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923954458077 |
-| Players | 3/8 |
-| Host Name | PERUANOS HIJOS DEL PICO |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 11:40:20 |
 
 
