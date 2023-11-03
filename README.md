@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923869860960 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:11:22 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923869717297 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | "GoPositive.bet" ARS - Bets4.fun |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 09:11:04 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:10:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923869686434 |
-| Players | 1/24 |
-| Host Name | TE KCHO Y SAFO |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 09:11:01 |
+| Lobby ID | 28503923870120229 |
+| Players | 6/10 |
+| Host Name | U . R . S . H . |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 09:11:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923870085710 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | bonbon |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:11:50 |
@@ -112,19 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923870107556 |
+| Lobby ID | 28503923870303384 |
 | Players | 2/10 |
 | Host Name | LL |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 09:11:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923870120229 |
-| Players | 4/10 |
-| Host Name | U . R . S . H . |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 09:11:54 |
+| Lobby Creation Time | Friday, November 3, 2023 09:12:17 |
 
 
