@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923869387362 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | BigKing Assault Mode |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:10:23 |
@@ -51,7 +51,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28503923869364518 |
 | Players | 4/24 |
-| Host Name | DraelgNaI |
+| Host Name | leave if u see p2w |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 09:10:20 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923869860960 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:11:22 |
@@ -77,25 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923869717297 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | "GoPositive.bet" ARS - Bets4.fun |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 09:11:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923869667387 |
-| Players | 1/15 |
-| Host Name | Onis |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 09:10:58 |
+| Lobby ID | 28503923870336123 |
+| Players | 1/10 |
+| Host Name | Noone |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 09:12:22 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923870120229 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | U . R . S . H . |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 09:11:54 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923870085710 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | bonbon |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:11:50 |
