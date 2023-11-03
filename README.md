@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923966427646 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Just subscribe for Linda H |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 11:58:20 |
@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28503923967022385 |
+| Lobby ID | 28503923967543078 |
 | Players | 1/10 |
 | Host Name | ааааа |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 11:59:14 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 3, 2023 12:00:00 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923960330339 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Jïzzshiri |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 11:49:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923960894917 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | Marshalldoge |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 11:49:58 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 11:59:08 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923965105244 |
-| Players | 20/24 |
-| Host Name | JAustin |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 11:56:20 |
+| Lobby ID | 28503923967330949 |
+| Players | 4/8 |
+| Host Name | panarina14 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 11:59:41 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923966845148 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | temip |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:58:58 |
