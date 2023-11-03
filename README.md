@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923973102441 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Estafador |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 12:08:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923960894917 |
-| Players | 5/24 |
+| Players | 3/24 |
 | Host Name | FriedSprite |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 11:49:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923971467612 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 12:05:55 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923973046667 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 12:08:18 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923973765533 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Persona con 46 cromosomas |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 12:09:23 |
@@ -135,5 +135,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Theuza |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 12:09:27 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503923973917264 |
+| Players | 1/24 |
+| Host Name | RiftBreaker |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 12:09:37 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923973943301 |
+| Players | 2/10 |
+| Host Name | No me jodas o fedeo..!! |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 12:09:39 |
 
 
