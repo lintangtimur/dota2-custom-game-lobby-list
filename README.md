@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28503923912636637 |
+| Lobby ID | 28503923912694676 |
 | Players | 2/5 |
-| Host Name | Барбигеймер |
+| Host Name | ろくでなし |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 10:28:30 |
+| Lobby Creation Time | Friday, November 3, 2023 10:28:36 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923912037622 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Reddy |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 10:27:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923912140258 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | To Fu |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 10:27:38 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923912267394 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | ya perdimos |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 10:27:51 |
