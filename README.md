@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923949738791 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Fadealy |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 11:33:03 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923949038168 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | EeSAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 11:31:57 |
@@ -51,7 +51,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28503923948650798 |
 | Players | 1/15 |
-| Host Name | -iV |
+| Host Name | °"She_Mi • |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:31:19 |
 
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 11:30:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923950070555 |
-| Players | 4/10 |
-| Host Name | CALMADO |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 11:33:35 |
+| Lobby ID | 28503923950239538 |
+| Players | 5/8 |
+| Host Name | Capitan wawa |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 3, 2023 11:33:51 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923949203961 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | сада маза |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 3, 2023 11:32:13 |
@@ -90,5 +90,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | False 144hz god |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 11:33:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923949408120 |
+| Players | 2/10 |
+| Host Name | Juruncho |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 11:32:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923950218244 |
+| Players | 1/10 |
+| Host Name | Error.On.Fire.xD |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 3, 2023 11:33:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923949077985 |
+| Players | 7/8 |
+| Host Name | TrueStories |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 11:32:01 |
 
 
