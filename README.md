@@ -31,18 +31,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923908910504 |
-| Players | 14/15 |
-| Host Name | bl7770 |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 10:22:08 |
+| Lobby ID | 28503923913083273 |
+| Players | 9/15 |
+| Host Name | SuLuKoH.5 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 10:29:16 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923912790584 |
-| Players | 4/24 |
-| Host Name | bloodthirsty |
+| Players | 2/24 |
+| Host Name | Plastic Pop can |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 10:28:46 |
 
@@ -83,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 10:28:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923913083273 |
-| Players | 3/15 |
-| Host Name | SuLuKoH.5 |
+| Lobby ID | 28503923913430400 |
+| Players | 3/8 |
+| Host Name | RoberCu |
 | Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 10:29:16 |
+| Lobby Creation Time | Friday, November 3, 2023 10:29:51 |
 
 
