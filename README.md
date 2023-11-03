@@ -11,15 +11,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 06:48:14 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28503923804101822 |
-| Players | 1/10 |
-| Host Name | I'm sorry |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 07:02:57 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923803643936 |
@@ -32,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923803477729 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | VolteaPartidas |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:01:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923802067373 |
-| Players | 7/10 |
-| Host Name | μVlrka |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 06:58:36 |
+| Lobby ID | 28503923803641343 |
+| Players | 2/15 |
+| Host Name | ❟❛❟ᴏʙɪᴛᴏ☁ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 07:01:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,45 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923803862506 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Aesgard |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:02:26 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923804069701 |
-| Players | 1/24 |
-| Host Name | cantaloupe |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 07:02:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923803641343 |
-| Players | 2/15 |
-| Host Name | в дс хуйня |
+| Lobby ID | 28503923804197686 |
+| Players | 1/8 |
+| Host Name | мазня говном |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 07:01:58 |
+| Lobby Creation Time | Friday, November 3, 2023 07:03:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923802318355 |
-| Players | 12/15 |
-| Host Name | Waste |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 3, 2023 06:59:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923803130221 |
-| Players | 13/15 |
-| Host Name | kötsibëu |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 07:00:50 |
+| Lobby ID | 28503923804220220 |
+| Players | 1/8 |
+| Host Name | ИМЯ ПРОФИЛЯ |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 07:03:12 |
 
 
