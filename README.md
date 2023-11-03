@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923973814762 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Theuza |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 12:09:27 |
@@ -90,5 +90,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sir Spliff Puffington |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 12:17:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923979455970 |
+| Players | 1/15 |
+| Host Name | прочитал = пидop |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 3, 2023 12:18:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923979428902 |
+| Players | 1/15 |
+| Host Name | ¥₹ DeMoNiC ◢ ◤ ﷼§ |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 12:18:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923979500855 |
+| Players | 1/15 |
+| Host Name | Good Evil |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 12:18:07 |
 
 
