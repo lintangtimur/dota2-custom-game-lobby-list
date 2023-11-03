@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923806824347 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Sarge King |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 07:08:33 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923816978704 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | little boy |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 07:29:15 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923817931540 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Mode:Leito |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 07:31:09 |
