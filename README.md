@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923944923459 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Yello |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:25:08 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923945382832 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | breakоровец |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:25:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923940882566 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | казенный унитаз |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 3, 2023 11:18:03 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923944456534 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Feed nenas xd |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 11:24:20 |
@@ -104,18 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923944298746 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | Fanya |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 11:24:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923945316862 |
-| Players | 3/8 |
-| Host Name | Topo gigio Provinciano |
-| Region | Unknown |
-| Lobby Creation Time | Friday, November 3, 2023 11:25:47 |
 
 
