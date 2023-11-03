@@ -14,28 +14,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923905406064 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Barry Delight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 10:16:11 |
 
 
-|  | ot3_desert_octet |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28503923903744225 |
-| Players | 21/24 |
-| Host Name | 9S |
+| Lobby ID | 28503923905563704 |
+| Players | 1/7 |
+| Host Name | Kuzya |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 10:16:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923905216470 |
+| Players | 6/8 |
+| Host Name | ♥JGAGAMES♥giordota.com |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 10:13:23 |
+| Lobby Creation Time | Friday, November 3, 2023 10:15:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923905015076 |
-| Players | 9/10 |
-| Host Name | Aggressive Koala |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 10:15:31 |
+| Lobby ID | 28503923905390798 |
+| Players | 4/15 |
+| Host Name | OE  CARACHOSO |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 10:16:10 |
 
 
 |  | ot3_desert_octet |
@@ -50,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923871112181 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | DragonFyre |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 09:13:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923905304794 |
-| Players | 6/8 |
-| Host Name | BB GEORGE EMBUSCA DE MEMERRE |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 10:16:01 |
+| Lobby ID | 28503923905378619 |
+| Players | 3/10 |
+| Host Name | . |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 10:16:09 |
 
 
 |  | ot3_desert_octet |
@@ -81,41 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | отлижу за костюм горничной |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 10:15:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923905216470 |
-| Players | 6/8 |
-| Host Name | ♥JGAGAMES♥giordota.com |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 10:15:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923904435327 |
-| Players | 14/15 |
-| Host Name | Prime |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 10:14:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923905378619 |
-| Players | 3/10 |
-| Host Name | . |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 10:16:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923905390798 |
-| Players | 4/15 |
-| Host Name | OE  CARACHOSO |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 10:16:10 |
 
 
