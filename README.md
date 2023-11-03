@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923840295270 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | bonbon |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:14:35 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923840760333 |
-| Players | 1/15 |
-| Host Name | gans |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 08:15:28 |
+| Lobby ID | 28503923840795123 |
+| Players | 3/15 |
+| Host Name | Just Terrora♛ |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 08:15:32 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923840135283 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | xshadow00°xD |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:14:17 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:14:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923840187657 |
-| Players | 6/8 |
-| Host Name | Rem is life<3 |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 08:14:23 |
+| Lobby ID | 28503923840687863 |
+| Players | 3/10 |
+| Host Name | UnLuucky |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 3, 2023 08:15:20 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | oniqzone- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:14:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923840687863 |
-| Players | 3/10 |
-| Host Name | UnLuucky |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 3, 2023 08:15:20 |
 
 
