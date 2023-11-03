@@ -11,22 +11,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 11:40:20 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28503923954687338 |
+| Players | 1/5 |
+| Host Name | 2541 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 3, 2023 11:40:41 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923951917968 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | CHATITO GAS |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:36:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923952419882 |
-| Players | 7/8 |
-| Host Name | Norton |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 11:37:13 |
+| Lobby ID | 28503923953988029 |
+| Players | 1/10 |
+| Host Name | Error.On.Fire.xD |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 11:39:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923954458077 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | PERUANOS HIJOS DEL PICO |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 11:40:20 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923952908509 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Cooper |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 11:37:59 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923951460370 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | ...... |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:35:45 |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Egotheist |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 3, 2023 11:37:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923953988029 |
-| Players | 1/10 |
-| Host Name | Error.On.Fire.xD |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 11:39:37 |
 
 
