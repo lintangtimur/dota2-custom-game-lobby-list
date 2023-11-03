@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923898437294 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | People |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 10:04:22 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 10:06:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923899970965 |
-| Players | 13/15 |
-| Host Name | Fanya |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 10:06:58 |
+| Lobby ID | 28503923901805267 |
+| Players | 6/10 |
+| Host Name | OE  CARACHOSO |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 10:10:07 |
 
 
 |  | ot3_gardens_duo |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | El apostol |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 10:10:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923901805267 |
-| Players | 3/10 |
-| Host Name | OE  CARACHOSO |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 10:10:07 |
 
 
