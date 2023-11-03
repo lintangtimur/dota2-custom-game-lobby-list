@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 06:48:14 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28503923843709617 |
+| Players | 1/10 |
+| Host Name | bodak |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 3, 2023 08:21:00 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923839435281 |
@@ -23,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923843411605 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | чел |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:20:27 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923843175815 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | >LuisRM21< |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:20:00 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923843212034 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | 65daysofstatic |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:20:05 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923843594063 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | Mantelis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:20:47 |
@@ -86,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923841159782 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | vibess |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:16:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923842691437 |
+| Players | 14/15 |
+| Host Name | ASYCEM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 08:19:05 |
 
 
