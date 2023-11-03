@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923951917968 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | CHATITO GAS |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:36:27 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923953067326 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | EMANS |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 11:38:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923952908509 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Cooper |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 11:37:59 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923950218244 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Error.On.Fire.xD |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 3, 2023 11:33:48 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923952304750 |
-| Players | 14/15 |
+| Players | 12/15 |
 | Host Name | Egotheist |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 3, 2023 11:37:02 |
@@ -99,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | pimpollitos sin flow |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 11:38:50 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503923953543620 |
+| Players | 1/24 |
+| Host Name | duramen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 11:38:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923953575959 |
+| Players | 4/8 |
+| Host Name | Сатору |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 11:38:59 |
 
 
