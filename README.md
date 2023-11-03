@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923969948017 |
-| Players | 8/10 |
-| Host Name | Adele |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 12:03:38 |
+| Lobby ID | 28503923971803987 |
+| Players | 1/10 |
+| Host Name | Norton |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 3, 2023 12:06:25 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923969488813 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | xkeimaxx |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 12:02:56 |
@@ -87,7 +87,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28503923971439215 |
 | Players | 2/8 |
-| Host Name | La panacotta |
+| Host Name | ☢Joshua☢ |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 12:05:52 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923971467612 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Tobias EAton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 12:05:55 |
