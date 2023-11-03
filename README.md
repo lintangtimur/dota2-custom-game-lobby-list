@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923809825312 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | ABEL :3 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:14:42 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923810541690 |
-| Players | 6/10 |
-| Host Name | опять победа |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 07:16:11 |
+| Lobby ID | 28503923810887597 |
+| Players | 1/10 |
+| Host Name | Too Good To Win? |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 07:16:53 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923810752142 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | pain |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:16:37 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923809546216 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Middleware |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:14:08 |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 07:08:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923810159206 |
-| Players | 14/15 |
-| Host Name | ЛШДДУК |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 07:15:24 |
+| Lobby ID | 28503923810868919 |
+| Players | 4/10 |
+| Host Name | UnLuucky |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 3, 2023 07:16:51 |
 
 
 |  | ot3_necropolis_ffa |
