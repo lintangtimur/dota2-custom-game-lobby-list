@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923853937331 |
-| Players | 8/24 |
+| Players | 13/24 |
 | Host Name | Weganerd |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:39:58 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:42:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923854852664 |
-| Players | 11/15 |
-| Host Name | eooooooooooooooooo |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 08:41:41 |
+| Lobby ID | 28503923856766126 |
+| Players | 3/8 |
+| Host Name | Ruska Gaming |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 08:45:19 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923856375948 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | JáReportaAeRapidão |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 08:44:35 |
@@ -77,26 +77,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923856673191 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | oniqzone- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:45:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923856712657 |
-| Players | 1/8 |
-| Host Name | ❟❛❟₭₳Ɽ₳₴Ʉ❟❛ |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 08:45:13 |
+| Lobby ID | 28503923856767088 |
+| Players | 1/10 |
+| Host Name | merenge |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 08:45:19 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923856357634 |
-| Players | 8/10 |
-| Host Name | NEGATIVE WINRATE |
+| Players | 9/10 |
+| Host Name | чел |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:44:32 |
 
