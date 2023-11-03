@@ -38,15 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:00:50 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28503923834664603 |
-| Players | 2/5 |
-| Host Name | Zeta de Riemann |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 08:04:00 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923832549341 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923834310464 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Cheb |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:03:20 |
@@ -76,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923830478520 |
-| Players | 9/10 |
-| Host Name | dontflame |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 07:55:55 |
+| Lobby ID | 28503923832449473 |
+| Players | 5/10 |
+| Host Name | blessed |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 07:59:45 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923833155341 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | bitch, no llore´s, bitch |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:01:06 |
@@ -113,18 +104,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923834412575 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | trovo.live/Bojji |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:03:32 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923832449473 |
-| Players | 4/10 |
-| Host Name | blessed |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 07:59:45 |
+| Lobby ID | 28503923834741090 |
+| Players | 1/15 |
+| Host Name | Whalen |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 08:04:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923834761612 |
+| Players | 1/8 |
+| Host Name | ПОКИДЬОК |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 08:04:11 |
 
 
