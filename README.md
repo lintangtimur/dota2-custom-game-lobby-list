@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923844711513 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ♀オリオン座♀ |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 08:22:52 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923847579773 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Necrolite |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:28:10 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923847050769 |
-| Players | 9/24 |
+| Players | 15/24 |
 | Host Name | "GoPositive.bet" ARS - Bets4.fun |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 08:27:11 |
