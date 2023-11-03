@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923951917968 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | CHATITO GAS |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:36:27 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923954835865 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Madafacar |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:40:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923951460370 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | ...... |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:35:45 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923953543620 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | duramen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 11:38:56 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923955079503 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | фить фить |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 3, 2023 11:41:16 |
@@ -108,5 +108,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Skyrim |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 11:41:40 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923955371195 |
+| Players | 3/10 |
+| Host Name | erik |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 11:41:43 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923955437725 |
+| Players | 1/15 |
+| Host Name | 3Girls1BigGulp |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 3, 2023 11:41:49 |
 
 
