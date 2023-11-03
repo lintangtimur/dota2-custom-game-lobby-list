@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923945861653 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Barry Delight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 11:26:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923944260353 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | DANICH |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 11:24:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923941104990 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | [JnM]Nickname |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 11:18:27 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Konesa |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 11:23:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923946103579 |
-| Players | 6/8 |
-| Host Name | VOLVO DE MRDA |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 11:27:07 |
 
 
 |  | ot3_jungle_quintet |
