@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923805631825 |
-| Players | 9/10 |
-| Host Name | Full-Time Griefer |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 07:06:10 |
+| Lobby ID | 28503923807136179 |
+| Players | 2/10 |
+| Host Name | pos 69, please |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 07:09:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923806401594 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Lunatique |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:07:41 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923806882389 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Gnoren |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:08:41 |
