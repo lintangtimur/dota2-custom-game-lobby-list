@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923960894917 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Marshalldoge |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 11:49:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923966959233 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Nemro |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 11:59:08 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923967930767 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Oshh |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, November 3, 2023 12:00:35 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Little Foot |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 12:01:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503923968320084 |
+| Players | 2/24 |
+| Host Name | Gaben Naam Ka Kutta Paalu |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 12:01:10 |
 
 
