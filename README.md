@@ -29,10 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 06:57:06 |
 
 
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28503923803723583 |
+| Players | 1/7 |
+| Host Name | I'm sorry |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 07:02:08 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923803597676 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | DragonKnght |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:01:52 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923803477729 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | VolteaPartidas |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:01:36 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923800142693 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Moon |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 06:54:50 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923802565908 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | heyheyhey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 06:59:35 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923802755463 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Gilgalad the Gigachad |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:59:58 |
@@ -135,5 +144,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | G_G |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:01:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923803646606 |
+| Players | 2/15 |
+| Host Name | в дс хуйня |
+| Region | AUSTRIA |
+| Lobby Creation Time | Friday, November 3, 2023 07:01:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923803643936 |
+| Players | 1/10 |
+| Host Name | Too Good To Win? |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 07:01:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923803662005 |
+| Players | 1/15 |
+| Host Name | Politician=Parasite |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 07:02:00 |
 
 
