@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923806824347 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Sarge King |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 07:08:33 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923800852757 |
-| Players | 3/15 |
-| Host Name | hiro |
+| Players | 1/15 |
+| Host Name | 65daysofstatic |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 06:56:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923816662784 |
-| Players | 9/10 |
-| Host Name | maki |
+| Lobby ID | 28503923817427036 |
+| Players | 1/24 |
+| Host Name | manjiro sano |
 | Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 07:28:37 |
+| Lobby Creation Time | Friday, November 3, 2023 07:30:08 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923817053342 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | ♦♣Eclipse♣♦ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:29:24 |
@@ -94,37 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923815626771 |
-| Players | 23/24 |
-| Host Name | X4nD3riiXx |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 07:26:31 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
 | Lobby ID | 28503923804519474 |
 | Players | 22/24 |
 | Host Name | CorosionaL DamagE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:03:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503923817427036 |
-| Players | 1/24 |
-| Host Name | manjiro sano |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 07:30:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923817440533 |
-| Players | 1/8 |
-| Host Name | Ifrit Soul |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 07:30:10 |
 
 
