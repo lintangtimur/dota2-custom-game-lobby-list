@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923865596248 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | BigKing Assault Mode |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:02:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923865390952 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | HIGH HOW ARE YOU |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:02:05 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923865523757 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Styll7 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:02:22 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923863579153 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | whole lotta motion |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:58:15 |
