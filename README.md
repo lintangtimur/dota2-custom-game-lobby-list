@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:36:02 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28503923883598721 |
-| Players | 1/7 |
-| Host Name | I'm Going To The Darkside With U |
+| Lobby ID | 28503923883681920 |
+| Players | 1/10 |
+| Host Name | Anime girl |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 09:37:57 |
+| Lobby Creation Time | Friday, November 3, 2023 09:38:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Politician=Parasite |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:36:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923883607434 |
+| Players | 5/10 |
+| Host Name | Diego como penes |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 09:37:58 |
 
 
