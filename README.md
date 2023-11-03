@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923954458145 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Palestina |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 11:40:20 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923958097121 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Don Payiyo de Pumitas |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 11:45:46 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 11:42:14 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923953543620 |
-| Players | 23/24 |
-| Host Name | MORPLANG |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 11:38:56 |
+| Lobby ID | 28503923959276412 |
+| Players | 5/8 |
+| Host Name | Roy |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 11:47:32 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923956835380 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:43:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923958669758 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | FaiNt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 3, 2023 11:46:37 |
@@ -83,21 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 11:47:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923959276412 |
-| Players | 5/8 |
-| Host Name | Roy |
+| Lobby ID | 28503923955344240 |
+| Players | 23/24 |
+| Host Name | Skyrim |
 | Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 11:47:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923959386890 |
-| Players | 2/8 |
-| Host Name | amням кэжуалс-_- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 11:47:42 |
+| Lobby Creation Time | Friday, November 3, 2023 11:41:40 |
 
 
