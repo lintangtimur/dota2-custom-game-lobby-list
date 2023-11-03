@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923898437294 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | People |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 10:04:22 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923899462548 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Dude |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 10:06:07 |
@@ -49,20 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923896572547 |
-| Players | 22/24 |
-| Host Name | Silhouette |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 10:01:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923901025773 |
-| Players | 5/8 |
-| Host Name | HGH |
+| Lobby ID | 28503923901238908 |
+| Players | 4/24 |
+| Host Name | ⚓DiN0⚓ |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 10:08:46 |
+| Lobby Creation Time | Friday, November 3, 2023 10:09:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923901719194 |
+| Players | 2/15 |
+| Host Name | i miss her |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 10:09:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,21 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 10:06:53 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923899970965 |
+| Players | 12/15 |
+| Host Name | Fanya |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 10:06:58 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923900535452 |
-| Players | 2/10 |
-| Host Name | ZACH |
+| Lobby ID | 28503923901734935 |
+| Players | 1/10 |
+| Host Name | El apostol |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 10:07:56 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503923901238908 |
-| Players | 3/24 |
-| Host Name | ⚓DiN0⚓ |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 10:09:08 |
+| Lobby Creation Time | Friday, November 3, 2023 10:10:00 |
 
 
