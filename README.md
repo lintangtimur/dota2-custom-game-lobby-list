@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923974960386 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | El Ohanas |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 12:11:11 |
@@ -38,28 +38,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 12:09:27 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923972960001 |
-| Players | 7/8 |
-| Host Name | depko13 |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 12:08:10 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923974696136 |
-| Players | 9/10 |
-| Host Name | L-A-K-E-R |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 12:10:47 |
+| Lobby ID | 28503923975263795 |
+| Players | 8/10 |
+| Host Name | Sr. Isma |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 12:11:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923975979580 |
+| Players | 1/15 |
+| Host Name | ✪Mhelvss✪ |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 3, 2023 12:12:44 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923973540032 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Kbeza |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 12:09:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923974492698 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 12:10:29 |
@@ -81,32 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Br0ker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 12:07:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923975263795 |
-| Players | 8/10 |
-| Host Name | Sr. Isma |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 12:11:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923975709463 |
-| Players | 4/10 |
-| Host Name | Hello World |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 12:12:19 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923975979580 |
-| Players | 1/15 |
-| Host Name | ✪Mhelvss✪ |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 3, 2023 12:12:44 |
 
 
