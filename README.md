@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923948704554 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | DANICH |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 11:31:24 |
@@ -56,31 +56,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 11:27:54 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923941104990 |
-| Players | 23/24 |
-| Host Name | [JnM]Nickname |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 11:18:27 |
+| Lobby ID | 28503923949077985 |
+| Players | 2/8 |
+| Host Name | TrueStories |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 11:32:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923948224830 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | iTzpaCk1; |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:30:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923948116549 |
-| Players | 8/10 |
-| Host Name | pookityshok |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 11:30:27 |
+| Lobby ID | 28503923949329181 |
+| Players | 1/15 |
+| Host Name | Fadealy |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 11:32:25 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,12 +110,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 11:31:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923949077985 |
-| Players | 2/8 |
-| Host Name | TrueStories |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 11:32:01 |
+| Lobby ID | 28503923949252211 |
+| Players | 3/24 |
+| Host Name | Snow |
+| Region | Unknown |
+| Lobby Creation Time | Friday, November 3, 2023 11:32:17 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503923949321271 |
+| Players | 1/24 |
+| Host Name | CHATITO GAS |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 11:32:24 |
 
 
