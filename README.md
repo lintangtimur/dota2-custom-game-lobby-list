@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923847264858 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | свиня джакузі |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:27:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923847391270 |
-| Players | 7/8 |
-| Host Name | Йаcobs monarch |
+| Lobby ID | 28503923848979777 |
+| Players | 3/15 |
+| Host Name | black blade |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 08:27:49 |
+| Lobby Creation Time | Friday, November 3, 2023 08:30:47 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923848540844 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | ieagtonrns |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:29:57 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923848036216 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | ScorpioN |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:29:01 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923848446794 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | MrBuba |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:29:46 |
@@ -90,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:30:42 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503923849012500 |
+| Players | 1/24 |
+| Host Name | J |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Friday, November 3, 2023 08:30:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923849040918 |
+| Players | 1/15 |
+| Host Name | MoNsTeR! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 08:30:53 |
 
 
