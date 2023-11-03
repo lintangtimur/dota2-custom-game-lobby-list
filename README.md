@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923974960386 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | El Ohanas |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 12:11:11 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923975263795 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | roo_avicii :3 |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 12:11:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923975979580 |
-| Players | 1/15 |
-| Host Name | ✪Mhelvss✪ |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 3, 2023 12:12:44 |
+| Lobby ID | 28503923976425176 |
+| Players | 1/10 |
+| Host Name | . |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 12:13:24 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923973540032 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | Kbeza |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 12:09:03 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923974492698 |
-| Players | 14/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 12:10:29 |
+| Lobby ID | 28503923976550937 |
+| Players | 1/15 |
+| Host Name | ✪Mhelvss✪ |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 12:13:36 |
 
 
 |  | ot3_gardens_duo |
@@ -92,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 12:13:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923976425176 |
-| Players | 1/10 |
-| Host Name | . |
+| Lobby ID | 28503923976640009 |
+| Players | 1/15 |
+| Host Name | Rapbit.2 |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 12:13:24 |
+| Lobby Creation Time | Friday, November 3, 2023 12:13:43 |
 
 
