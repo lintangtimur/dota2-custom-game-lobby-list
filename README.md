@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:31:54 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28503923882329309 |
-| Players | 1/5 |
-| Host Name | TheCropp |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 09:35:38 |
+| Lobby ID | 28503923882544217 |
+| Players | 1/10 |
+| Host Name | свиня джакузі |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 09:36:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923882050691 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | I miss her :'( |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:35:07 |
@@ -68,27 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923881704914 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Chandie F1 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:34:29 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923882252288 |
-| Players | 2/10 |
-| Host Name | El kcha preguntones♫ |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 09:35:30 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923882459479 |
-| Players | 1/8 |
-| Host Name | Arkjom |
+| Lobby ID | 28503923882562933 |
+| Players | 3/8 |
+| Host Name | Carl Barker |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 09:35:53 |
+| Lobby Creation Time | Friday, November 3, 2023 09:36:04 |
 
 
