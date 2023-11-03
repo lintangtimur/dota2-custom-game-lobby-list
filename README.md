@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923815395282 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | kötsibëu |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:26:03 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923815249341 |
-| Players | 6/8 |
-| Host Name | тойота |
+| Lobby ID | 28503923815474222 |
+| Players | 1/8 |
+| Host Name | Jivchik |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 07:25:46 |
+| Lobby Creation Time | Friday, November 3, 2023 07:26:13 |
 
 
 |  | ot3_gardens_duo |
@@ -74,33 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 07:24:11 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923815322936 |
-| Players | 1/8 |
-| Host Name | yupi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 07:25:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923815188293 |
-| Players | 5/10 |
-| Host Name | TIO JUANCHI |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 07:25:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923815474222 |
-| Players | 1/8 |
-| Host Name | Jivchik |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 07:26:13 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923815472517 |
@@ -108,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Moon |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 07:26:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923815188293 |
+| Players | 6/10 |
+| Host Name | TIO JUANCHI |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 07:25:38 |
 
 
