@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923890963852 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Aggressive Koala |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:51:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923889869953 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 09:49:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923886357404 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 09:42:59 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KFC |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:52:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923892104162 |
-| Players | 7/8 |
-| Host Name | Йаcobs monarch |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 09:53:19 |
 
 
