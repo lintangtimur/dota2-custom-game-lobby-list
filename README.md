@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923850966049 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | BABY-ROSH (AL) |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:34:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923850131112 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | DraelgNaI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:32:55 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923852422227 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | g6 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:37:08 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923852814693 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Mantelis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:37:52 |
