@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923893775047 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | PUDGE POS 5 ENJOYER |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 09:56:15 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:49:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923892788851 |
-| Players | 7/8 |
-| Host Name | Йаcobs monarch |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 09:54:31 |
+| Lobby ID | 28503923894078632 |
+| Players | 1/10 |
+| Host Name | Демо-рыцарь |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 09:56:47 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923892611882 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | bl7770 |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 09:54:12 |
@@ -95,35 +95,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923893738913 |
-| Players | 2/10 |
-| Host Name | EG-2015>>>EG-2023 |
+| Players | 1/10 |
+| Host Name | CameraMan |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:56:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923894023216 |
-| Players | 3/8 |
-| Host Name | Sir Archibald |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 09:56:41 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923894080898 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | fated |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 09:56:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923894078632 |
-| Players | 1/10 |
-| Host Name | Демо-рыцарь |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:56:47 |
 
