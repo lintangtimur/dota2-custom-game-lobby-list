@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923951917968 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | CHATITO GAS |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:36:27 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923952908509 |
-| Players | 4/24 |
-| Host Name | Cooper |
+| Players | 3/24 |
+| Host Name | CyberPank |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 11:37:59 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923954952921 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | RaddanXx |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, November 3, 2023 11:41:05 |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | erik |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:41:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923955437725 |
-| Players | 1/15 |
-| Host Name | 3Girls1BigGulp |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 3, 2023 11:41:49 |
 
 
