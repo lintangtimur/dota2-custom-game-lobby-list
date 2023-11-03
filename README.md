@@ -68,18 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923856375948 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | JáReportaAeRapidão |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 08:44:35 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923856673191 |
+| Players | 5/10 |
+| Host Name | oniqzone- |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 08:45:08 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923856667359 |
+| Lobby ID | 28503923856712657 |
 | Players | 1/8 |
 | Host Name | ❟❛❟₭₳Ɽ₳₴Ʉ❟❛ |
 | Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 08:45:08 |
+| Lobby Creation Time | Friday, November 3, 2023 08:45:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923856357634 |
+| Players | 8/10 |
+| Host Name | NEGATIVE WINRATE |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 08:44:32 |
 
 
