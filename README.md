@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 07:09:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923808481420 |
-| Players | 14/15 |
-| Host Name | ⭕⃤ yamamoto_x |
+| Lobby ID | 28503923808962742 |
+| Players | 2/10 |
+| Host Name | ali babooba |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 07:11:58 |
+| Lobby Creation Time | Friday, November 3, 2023 07:12:57 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923807403494 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Helmsman |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 07:09:44 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923806503361 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Saido Chesto |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:07:54 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923808695182 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Yo no tengo enemigos |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:12:24 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923808366055 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Tuco Tuco |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:11:43 |
@@ -164,22 +164,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 07:12:31 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923808820823 |
-| Players | 3/8 |
-| Host Name | 01 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 07:12:40 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923808920634 |
-| Players | 1/10 |
-| Host Name | Ray |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 07:12:52 |
+| Lobby ID | 28503923808999539 |
+| Players | 4/10 |
+| Host Name | Ivy Levan |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 07:13:02 |
 
 
 |  | ot3_necropolis_ffa |
