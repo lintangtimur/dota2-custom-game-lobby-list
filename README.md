@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:38:32 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28503923885194369 |
+| Players | 1/5 |
+| Host Name | Sousich |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 09:40:52 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923884958795 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923884276971 |
-| Players | 6/24 |
+| Players | 4/24 |
 | Host Name | PAAAAN... |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 09:39:11 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923871112181 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | DragonFyre |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 09:13:55 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923884788062 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Ｓｏｈｅｅ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:40:07 |
@@ -81,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 1vs9 |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 09:40:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923885199665 |
+| Players | 1/8 |
+| Host Name | Saifer |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 09:40:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923885182231 |
+| Players | 4/15 |
+| Host Name | 5inRow |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 09:40:51 |
 
 
