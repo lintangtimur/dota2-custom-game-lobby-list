@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923970256429 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Maryori ♥Seria -_-giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 12:04:06 |
@@ -83,21 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 12:02:56 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503923971347058 |
-| Players | 1/24 |
-| Host Name | Tobias EAton |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 12:05:44 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923971334209 |
-| Players | 1/8 |
-| Host Name | Okay |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 3, 2023 12:05:43 |
+| Lobby ID | 28503923971439215 |
+| Players | 2/8 |
+| Host Name | La panacotta |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 12:05:52 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503923971467612 |
+| Players | 1/24 |
+| Host Name | Tobias EAton |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 12:05:55 |
 
 
