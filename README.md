@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923869364518 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Cubs |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 09:10:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923872577560 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | mr.dead |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 09:16:56 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923874093908 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Gallo negro |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:20:01 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:20:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923872397155 |
-| Players | 1/15 |
-| Host Name | Do you feel mandingo`s dick |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 09:16:34 |
+| Lobby ID | 28503923875759685 |
+| Players | 1/10 |
+| Host Name | Note |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 09:23:17 |
 
 
 |  | ot3_gardens_duo |
@@ -131,9 +131,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923875593509 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Aspirin |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:22:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923875744880 |
+| Players | 1/10 |
+| Host Name | Дауби Даубиев |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 09:23:16 |
 
 
