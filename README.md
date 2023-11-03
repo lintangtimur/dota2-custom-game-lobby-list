@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923804762418 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | hitmahip |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 07:04:22 |
@@ -23,34 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28503923805410618 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | D E G A |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:05:43 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923805643906 |
-| Players | 3/7 |
-| Host Name | JOHN_DOTA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 07:06:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923805433143 |
-| Players | 11/15 |
-| Host Name | I ONCE SHAGGED A GOAT |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 07:05:46 |
+| Lobby ID | 28503923805660706 |
+| Players | 1/8 |
+| Host Name | SE LOGRO |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 07:06:14 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923804495302 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:03:48 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923805424344 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | мазня говном |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 07:05:45 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923804519474 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | 𝖘𝖒𝖎𝖑𝖊𝖞☺ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:03:51 |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923805588425 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Paciente de sudoración anal |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:06:05 |
@@ -140,8 +131,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923803802472 |
-| Players | 7/8 |
-| Host Name | Pale blue dot |
+| Players | 5/8 |
+| Host Name | БОРЯ комфортик |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:02:18 |
 
@@ -153,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Full-Time Griefer |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:06:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923805433143 |
+| Players | 11/15 |
+| Host Name | I ONCE SHAGGED A GOAT |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 07:05:46 |
 
 
