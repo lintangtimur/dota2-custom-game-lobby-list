@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28503923977098267 |
+| Lobby ID | 28503923977138070 |
 | Players | 1/10 |
-| Host Name | Aight, Bet! |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 12:14:25 |
+| Host Name | Tony Slark |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 12:14:29 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923973917264 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | RiftBreaker |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 12:09:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923975263795 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | roo_avicii :3 |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 12:11:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923976425176 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | . |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 12:13:24 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923973540032 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Kbeza |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 12:09:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923976550937 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | ✪Mhelvss✪ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 12:13:36 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923976260774 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | -rowin¿我 |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 12:13:09 |
