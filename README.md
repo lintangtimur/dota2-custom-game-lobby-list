@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923896311364 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | El Vicioso |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 10:00:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923896572547 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Silhouette |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 10:01:08 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923893775047 |
-| Players | 7/8 |
-| Host Name | PUDGE POS 5 ENJOYER |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 3, 2023 09:56:15 |
+| Lobby ID | 28503923897083182 |
+| Players | 2/8 |
+| Host Name | Le Vieux |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 3, 2023 10:02:02 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923896820788 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | poslevkusie |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 3, 2023 10:01:34 |
@@ -95,9 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923896876472 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Aesgard |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 10:01:40 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503923897076503 |
+| Players | 1/24 |
+| Host Name | [R][O][A][M] |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 10:02:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923897118076 |
+| Players | 1/8 |
+| Host Name | Mantelis |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 10:02:05 |
 
 
