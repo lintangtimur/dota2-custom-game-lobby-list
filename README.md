@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923949738791 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Fadealy |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 11:33:03 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923949038168 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | EeSAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 11:31:57 |
@@ -59,27 +59,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923948224830 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | iTzpaCk1; |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:30:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923949321271 |
-| Players | 22/24 |
-| Host Name | CHATITO GAS |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 11:32:24 |
+| Lobby ID | 28503923950070555 |
+| Players | 4/10 |
+| Host Name | CALMADO |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 11:33:35 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923949203961 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | сада маза |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 3, 2023 11:32:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923950118173 |
+| Players | 1/8 |
+| Host Name | False 144hz god |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 11:33:39 |
 
 
