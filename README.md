@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923830511600 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | ComradeHeval |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 07:55:59 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923830738263 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Piti |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:56:25 |
@@ -38,28 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:00:50 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28503923835327413 |
-| Players | 4/10 |
-| Host Name | Vaestalii |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 08:05:14 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923832549341 |
+| Lobby ID | 28503923835398204 |
 | Players | 1/8 |
-| Host Name | Moon |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 3, 2023 07:59:56 |
+| Host Name | Jivchik |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 08:05:22 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923834310464 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Cheb |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:03:20 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923834495987 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Brosnan |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:03:41 |
@@ -122,18 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923835197460 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | DETENTION |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 08:05:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923835312222 |
-| Players | 1/15 |
-| Host Name | APOLO |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 08:05:13 |
+| Lobby ID | 28503923835372111 |
+| Players | 2/10 |
+| Host Name | googoli bloogoli in the flesh |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 08:05:20 |
 
 
