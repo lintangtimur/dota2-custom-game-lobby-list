@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923946467271 |
-| Players | 14/15 |
-| Host Name | ♁＊＊ SIA ＊＊ |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 11:27:44 |
+| Lobby ID | 28503923948136493 |
+| Players | 1/15 |
+| Host Name | Capybara.ImmortaL¿ |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 11:30:29 |
 
 
 |  | ot3_gardens_duo |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 11:29:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923945918313 |
-| Players | 6/8 |
-| Host Name | El niño guerrero |
+| Lobby ID | 28503923947722865 |
+| Players | 4/24 |
+| Host Name | Solo quiero divertirme |
 | Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 11:26:48 |
+| Lobby Creation Time | Friday, November 3, 2023 11:29:49 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,39 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 11:29:48 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503923948032070 |
-| Players | 1/24 |
-| Host Name | мудак артём |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 11:30:19 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503923947722865 |
-| Players | 4/24 |
-| Host Name | Solo quiero divertirme |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 11:29:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923947695266 |
-| Players | 4/8 |
-| Host Name | depko13 |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 11:29:46 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923948046544 |
-| Players | 1/10 |
-| Host Name | Gozylobo |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 3, 2023 11:30:20 |
+| Lobby ID | 28503923948116549 |
+| Players | 2/10 |
+| Host Name | pookityshok |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 11:30:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923948134428 |
+| Players | 1/15 |
+| Host Name | Parmezan |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 11:30:29 |
 
 
