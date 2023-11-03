@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923859051990 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Novato Prime |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:49:38 |
