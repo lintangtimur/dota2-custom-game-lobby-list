@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923966961788 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Fadealy |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 11:59:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923960894917 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | Marshalldoge |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 11:49:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923968541692 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | 游戏蝗虫农师傅 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 12:01:30 |
@@ -90,23 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | THEY OF THE DEAD!! |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 12:01:39 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503923969078084 |
-| Players | 1/24 |
-| Host Name | Santiago(PAMPLONA) |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 12:02:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923969092762 |
-| Players | 1/10 |
-| Host Name | fl0kiss |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 12:02:20 |
 
 
