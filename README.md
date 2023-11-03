@@ -4,15 +4,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28503923966427646 |
-| Players | 8/10 |
-| Host Name | Just subscribe for Linda H |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 11:58:20 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28503923967543078 |
 | Players | 1/10 |
 | Host Name | ааааа |
@@ -31,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923966961788 |
-| Players | 13/15 |
-| Host Name | Fadealy |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 11:59:08 |
+| Lobby ID | 28503923968637964 |
+| Players | 4/15 |
+| Host Name | THEY OF THE DEAD!! |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 3, 2023 12:01:39 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923968541692 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | 游戏蝗虫农师傅 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 12:01:30 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923967930767 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | Jesus take da wheel, take it ! |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, November 3, 2023 12:00:35 |
@@ -83,12 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 12:01:06 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503923969437301 |
+| Players | 1/24 |
+| Host Name | fate/ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 12:02:51 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923968637964 |
-| Players | 4/15 |
-| Host Name | THEY OF THE DEAD!! |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 3, 2023 12:01:39 |
+| Lobby ID | 28503923969488813 |
+| Players | 1/15 |
+| Host Name | Setsuko |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 12:02:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923969498403 |
+| Players | 1/8 |
+| Host Name | fl0kiss |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 12:02:56 |
 
 
