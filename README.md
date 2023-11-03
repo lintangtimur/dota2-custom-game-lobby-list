@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28503924507483228 |
-| Players | 1/7 |
+| Players | 4/7 |
 | Host Name | GG |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 3, 2023 20:46:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503924519326382 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Finish.Attack |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 20:52:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503924521150633 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Road To 4K |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 20:53:40 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503924519447235 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Yondaime |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 3, 2023 20:52:45 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503924519235215 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | благородочка |
 | Region | AUSTRIA |
 | Lobby Creation Time | Friday, November 3, 2023 20:52:38 |
@@ -126,23 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Edit Profile |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 20:53:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503924521252704 |
-| Players | 1/8 |
-| Host Name | кмс по куни |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 3, 2023 20:53:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503924521302393 |
-| Players | 1/8 |
-| Host Name | TK.УЛЬТРА СОЛЕВОЙ |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 3, 2023 20:53:45 |
 
 
