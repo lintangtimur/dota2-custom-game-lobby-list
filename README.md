@@ -20,10 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:55:00 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28503923861968241 |
+| Players | 1/10 |
+| Host Name | ComradeHeval |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 08:55:12 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923861382826 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | целка на лице |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 08:54:05 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923861643747 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | 76561198335907364 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:54:35 |
@@ -50,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923854212591 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | DragonFyre |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 08:40:28 |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923860934060 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Kärss |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:53:13 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923861484962 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | БОРЯ комфортик |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:54:17 |
@@ -99,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Grimcharm |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:54:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923861519100 |
-| Players | 13/15 |
-| Host Name | Karma |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 08:54:21 |
 
 
 |  | ot3_gardens_duo |
