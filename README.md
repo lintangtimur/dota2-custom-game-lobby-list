@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923831735328 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:58:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923833367511 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ScorpioN |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:01:31 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:01:06 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923831311758 |
-| Players | 23/24 |
-| Host Name | EL TITI |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 07:57:32 |
+| Lobby ID | 28503923834099377 |
+| Players | 1/15 |
+| Host Name | popeye pirate |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 08:02:56 |
 
 
 |  | ot3_gardens_duo |
