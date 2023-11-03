@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923836549363 |
-| Players | 21/24 |
-| Host Name | BABY-ROSH (AL) |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 08:07:30 |
+| Lobby ID | 28503923839435281 |
+| Players | 2/24 |
+| Host Name | 月老離職，財神管姻緣 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 08:12:58 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923838400904 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | XxTuviejoxX |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:11:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923839121458 |
-| Players | 13/15 |
+| Players | 11/15 |
 | Host Name | Neutral |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:12:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923834495987 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Brosnan |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:03:41 |
@@ -92,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:10:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923839380376 |
-| Players | 1/10 |
-| Host Name | Too Good To Win? |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 08:12:52 |
+| Lobby ID | 28503923839501116 |
+| Players | 1/15 |
+| Host Name | Absolute |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 08:13:06 |
 
 
