@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923811687460 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | foxee944 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:18:32 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 07:12:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923811409489 |
-| Players | 13/15 |
-| Host Name | Riku |
+| Lobby ID | 28503923811617315 |
+| Players | 3/8 |
+| Host Name | Dovle |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 07:17:57 |
+| Lobby Creation Time | Friday, November 3, 2023 07:18:23 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923804519474 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | 𝖘𝖒𝖎𝖑𝖊𝖞☺ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:03:51 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923808933873 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Kärss |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:12:54 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923811742776 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | gegp |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:18:39 |
@@ -121,10 +121,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923811617315 |
-| Players | 1/8 |
-| Host Name | Dovle |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 07:18:23 |
+| Lobby ID | 28503923812103284 |
+| Players | 4/8 |
+| Host Name | cbiloo |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 07:19:23 |
 
 
