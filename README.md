@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923843709617 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | bodak |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 08:21:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923844168631 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Ant |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:21:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923843978174 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Whats is love |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:21:31 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923844022812 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | Anton10 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:21:35 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | XFullHouse |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:20:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923844430324 |
-| Players | 5/8 |
-| Host Name | KBMM |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 08:22:21 |
 
 
