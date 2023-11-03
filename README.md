@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923806503361 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Saido Chesto |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:07:54 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 07:10:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923806401594 |
-| Players | 11/15 |
-| Host Name | KOT |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 07:07:41 |
+| Lobby ID | 28503923808073014 |
+| Players | 1/8 |
+| Host Name | Tanja Von Degurschaff |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 07:11:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 07:08:41 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923806853823 |
-| Players | 23/24 |
-| Host Name | MINDWINNER |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 07:08:37 |
+| Lobby ID | 28503923808091359 |
+| Players | 2/10 |
+| Host Name | sabuta |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 07:11:10 |
 
 
 |  | ot3_gardens_duo |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923807335632 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | казан |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:09:36 |
@@ -131,18 +131,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923807745814 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | YULI |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:10:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923808012359 |
-| Players | 1/10 |
-| Host Name | †Tenryu∀ |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 07:11:00 |
 
 
