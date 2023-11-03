@@ -11,31 +11,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:51:51 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28503923895709652 |
+| Players | 2/5 |
+| Host Name | StaminaOne |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 3, 2023 09:59:39 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28503923895728291 |
+| Players | 1/7 |
+| Host Name | Ruhnar |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 09:59:41 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923893775047 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | PUDGE POS 5 ENJOYER |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 09:56:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923894480064 |
-| Players | 4/8 |
-| Host Name | Aki- |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 09:57:29 |
+| Lobby ID | 28503923895544900 |
+| Players | 4/15 |
+| Host Name | Free Hong Kong |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 09:59:22 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923894078632 |
-| Players | 9/10 |
-| Host Name | Демо-рыцарь |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 09:56:47 |
+| Lobby ID | 28503923893738913 |
+| Players | 7/10 |
+| Host Name | CameraMan |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 09:56:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923894103831 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | [•♣♠♦•] Audasces/B*ld |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:56:50 |
@@ -74,21 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:58:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923893738913 |
-| Players | 6/10 |
-| Host Name | CameraMan |
+| Lobby ID | 28503923895743341 |
+| Players | 2/24 |
+| Host Name | David |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 09:56:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923895544900 |
-| Players | 1/15 |
-| Host Name | Free Hong Kong |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 09:59:22 |
+| Lobby Creation Time | Friday, November 3, 2023 09:59:42 |
 
 
