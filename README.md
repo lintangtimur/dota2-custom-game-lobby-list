@@ -11,6 +11,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 12:00:00 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28503923980455816 |
+| Players | 1/10 |
+| Host Name | .... |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 3, 2023 12:19:36 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923978147854 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923979984981 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | DANICH |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 12:18:52 |
@@ -76,10 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923976260774 |
-| Players | 7/8 |
-| Host Name | Lioninjawarloc (For Boz <3) |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 3, 2023 12:13:09 |
+| Lobby ID | 28503923978864700 |
+| Players | 2/8 |
+| Host Name | リボーン |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 3, 2023 12:17:09 |
 
 
