@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923864544194 |
-| Players | 9/10 |
-| Host Name | RTX4200 |
+| Players | 8/10 |
+| Host Name | Anime girl |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:00:09 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923865410208 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | UnLuucky |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 09:02:07 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923865351246 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | NeDix! |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:01:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923865596248 |
-| Players | 4/8 |
-| Host Name | BigKing Assault Mode |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 09:02:31 |
+| Lobby ID | 28503923865494778 |
+| Players | 3/10 |
+| Host Name | GENIUS (at 4k mmr) |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 09:02:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | whole lotta motion |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:58:15 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923865494778 |
-| Players | 3/10 |
-| Host Name | GENIUS (at 4k mmr) |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 09:02:18 |
 
 
