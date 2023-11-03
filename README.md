@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923951917968 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | CHATITO GAS |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 11:36:27 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 11:35:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923950218244 |
-| Players | 1/10 |
-| Host Name | Error.On.Fire.xD |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 3, 2023 11:33:48 |
+| Lobby ID | 28503923953575959 |
+| Players | 4/8 |
+| Host Name | Сатору |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 11:38:59 |
 
 
 |  | ot3_jungle_quintet |
@@ -110,12 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 11:38:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923953575959 |
-| Players | 4/8 |
-| Host Name | Сатору |
+| Lobby ID | 28503923953988029 |
+| Players | 1/10 |
+| Host Name | Error.On.Fire.xD |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 11:38:59 |
+| Lobby Creation Time | Friday, November 3, 2023 11:39:37 |
 
 
