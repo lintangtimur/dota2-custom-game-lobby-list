@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923822355698 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | zero |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 07:39:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923806824347 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Sarge King |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 07:08:33 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923822019583 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Yurashazm |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:39:13 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 𝙃𝘰𝘳𝘳𝘰𝘳 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:40:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923822697999 |
+| Players | 1/8 |
+| Host Name | RISEN |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 07:40:34 |
 
 
