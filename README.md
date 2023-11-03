@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923806503361 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Saido Chesto |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:07:54 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923808091359 |
+| Lobby ID | 28503923807745814 |
 | Players | 2/10 |
-| Host Name | sabuta |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 07:11:10 |
+| Host Name | YULI |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 07:10:27 |
 
 
 |  | ot3_gardens_duo |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923807335632 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | казан |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:09:36 |
@@ -130,10 +130,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923807745814 |
+| Lobby ID | 28503923808197306 |
 | Players | 2/10 |
-| Host Name | YULI |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 07:10:27 |
+| Host Name | sabuta |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 07:11:22 |
 
 
