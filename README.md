@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923886357404 |
-| Players | 4/24 |
+| Players | 1/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 09:42:59 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923886033799 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | leave if u see p2w |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 09:42:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923885677038 |
-| Players | 13/15 |
-| Host Name | El inge pepe |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 09:41:45 |
+| Lobby ID | 28503923886783948 |
+| Players | 1/10 |
+| Host Name | ♛Саян♛ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 09:43:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923885922371 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | 盗个铃 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:42:12 |
@@ -95,36 +95,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923886772200 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | REGIMEPILLED ☭ #FreePalestine |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:43:44 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923886850255 |
+| Players | 2/10 |
+| Host Name | sooshiant |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 09:43:52 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923886775660 |
-| Players | 1/8 |
-| Host Name | у у такая зайка >.< |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 09:43:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923886790398 |
-| Players | 1/10 |
-| Host Name | Darth Dafty |
+| Lobby ID | 28503923886900499 |
+| Players | 6/8 |
+| Host Name | KBMM |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 09:43:46 |
+| Lobby Creation Time | Friday, November 3, 2023 09:43:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923886783948 |
-| Players | 1/10 |
-| Host Name | ♛Саян♛ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 09:43:45 |
+| Lobby ID | 28503923884276971 |
+| Players | 23/24 |
+| Host Name | PAAAAN... |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 09:39:11 |
 
 
