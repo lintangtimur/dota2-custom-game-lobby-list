@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923804519474 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | LaGood |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:03:51 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923822355698 |
-| Players | 14/15 |
-| Host Name | zero |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 07:39:53 |
+| Lobby ID | 28503923822870581 |
+| Players | 3/15 |
+| Host Name | fated |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 07:40:55 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923822759334 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | RISEN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:40:41 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923822737484 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | PATITO NICHAN |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:40:39 |
@@ -119,12 +119,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 07:40:41 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923822917676 |
+| Players | 1/8 |
+| Host Name | Kärss |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 07:41:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923822972145 |
+| Players | 1/10 |
+| Host Name | Копьё Аллаха |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 07:41:07 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923822870581 |
-| Players | 3/15 |
-| Host Name | fated |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 07:40:55 |
+| Lobby ID | 28503923822355698 |
+| Players | 14/15 |
+| Host Name | zero |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 07:39:53 |
 
 
