@@ -14,16 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923898788175 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | moiii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 10:04:57 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28503923900050301 |
+| Players | 1/10 |
+| Host Name | {THE~@} |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 10:07:07 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923898437294 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | People |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 10:04:22 |
@@ -59,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923896572547 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | Silhouette |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 10:01:08 |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923899722373 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Katsunaga |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 10:06:33 |
