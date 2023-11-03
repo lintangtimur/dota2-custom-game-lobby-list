@@ -29,6 +29,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:51:30 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28503923891208136 |
+| Players | 1/5 |
+| Host Name | (ⓐⓝⓖⓔⓛ) |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 09:51:42 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923890963852 |
@@ -41,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923890758699 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Rico Suave |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:50:55 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923891009643 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Sr Timba |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:51:21 |
@@ -122,9 +131,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923888889800 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | wi wi |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:47:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923891118799 |
+| Players | 2/10 |
+| Host Name | pox na game |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 09:51:33 |
 
 
