@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923832209983 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Wense |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:59:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923832018848 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | xoxo |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:58:54 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923831490802 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:57:52 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923832300138 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | 65daysofstatic |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:59:27 |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923832691913 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Saint Piсят Два |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 08:00:13 |
@@ -166,10 +166,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923832743744 |
+| Lobby ID | 28503923832833630 |
 | Players | 1/15 |
 | Host Name | fated |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 08:00:19 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 08:00:29 |
 
 
