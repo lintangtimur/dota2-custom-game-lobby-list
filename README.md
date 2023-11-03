@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923898437294 |
-| Players | 6/24 |
+| Players | 3/24 |
 | Host Name | People |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 10:04:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923897638722 |
-| Players | 11/15 |
-| Host Name | MODE ISSASHOW |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 10:02:59 |
+| Lobby ID | 28503923900139877 |
+| Players | 1/8 |
+| Host Name | zeshy |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 10:07:16 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,23 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ⚓DiN0⚓ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 10:09:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923900139877 |
-| Players | 1/8 |
-| Host Name | zeshy |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 10:07:16 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503923896823741 |
-| Players | 23/24 |
-| Host Name | :x |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 10:01:35 |
 
 
