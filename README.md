@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28503923981073594 |
-| Players | 1/5 |
-| Host Name | singularity |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 12:20:33 |
+| Lobby ID | 28503923981461624 |
+| Players | 1/10 |
+| Host Name | Be Humble |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 12:21:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -18,24 +18,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Big Poppa |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 12:21:03 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28503923981415044 |
-| Players | 1/10 |
-| Host Name | KuBj1903 |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 12:21:05 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28503923981414192 |
-| Players | 1/5 |
-| Host Name | DLove |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 12:21:05 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923979882609 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Doshka |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 12:18:43 |
@@ -77,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923979428902 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | ¥₹ DeMoNiC ◢ ◤ ﷼§ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 12:18:01 |
@@ -121,28 +103,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923981337926 |
+| Lobby ID | 28503923981542742 |
 | Players | 1/15 |
-| Host Name | 第二人格 |
+| Host Name | LEWS THERIN TELAMON |
 | Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 12:20:58 |
+| Lobby Creation Time | Friday, November 3, 2023 12:21:17 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923981413565 |
+| Lobby ID | 28503923981550217 |
 | Players | 1/8 |
 | Host Name | glorycrack |
 | Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 12:21:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923981426971 |
-| Players | 1/15 |
-| Host Name | 4erEp |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 12:21:06 |
+| Lobby Creation Time | Friday, November 3, 2023 12:21:18 |
 
 
