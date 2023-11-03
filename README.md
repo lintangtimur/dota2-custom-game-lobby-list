@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923815674599 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | Chaos_NIKE |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:26:37 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923804519474 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:03:51 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923814463590 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | smokey (mira smurf) |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 07:24:11 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923815881838 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ⌐◨-◨ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:27:02 |
@@ -113,27 +113,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923815626771 |
-| Players | 3/24 |
+| Players | 11/24 |
 | Host Name | X4nD3riiXx |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:26:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923815629310 |
-| Players | 1/24 |
-| Host Name | Michel |
+| Lobby ID | 28503923816116893 |
+| Players | 2/10 |
+| Host Name | FUcking Awesome |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 07:27:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923816100780 |
+| Players | 10/15 |
+| Host Name | ove |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 07:26:31 |
+| Lobby Creation Time | Friday, November 3, 2023 07:27:29 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923815249341 |
-| Players | 5/8 |
-| Host Name | Pale blue dot |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 07:25:46 |
+| Lobby ID | 28503923816217660 |
+| Players | 1/8 |
+| Host Name | мазня говном |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 07:27:43 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503923816321558 |
+| Players | 1/24 |
+| Host Name | Osaed |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 07:27:56 |
 
 
