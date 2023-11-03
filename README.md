@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923880307589 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Kuzya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 09:31:54 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923882646893 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | [•♣♠♦•] Audasces/B*ld |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:36:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923871112181 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | DragonFyre |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 09:13:55 |
@@ -74,30 +74,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:36:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923882643825 |
-| Players | 6/8 |
-| Host Name | joba |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 3, 2023 09:36:13 |
+| Lobby ID | 28503923882848605 |
+| Players | 3/15 |
+| Host Name | gloryus |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 09:36:35 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923882050691 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | I miss her :'( |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:35:07 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923882885602 |
+| Players | 1/8 |
+| Host Name | ehыч |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 09:36:39 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923882768332 |
-| Players | 1/15 |
-| Host Name | ЛДД |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 09:36:26 |
+| Lobby ID | 28503923882888214 |
+| Players | 6/15 |
+| Host Name | J h a n |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 09:36:39 |
 
 
