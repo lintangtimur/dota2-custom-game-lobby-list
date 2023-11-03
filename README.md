@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923855160453 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | xJw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:42:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923854212591 |
-| Players | 4/15 |
+| Players | 2/15 |
 | Host Name | DragonFyre |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 08:40:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923858836262 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:49:14 |
@@ -83,21 +83,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:52:29 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923860554271 |
-| Players | 1/8 |
-| Host Name | ¿what's your name ? |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 08:52:30 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923860573007 |
-| Players | 1/10 |
-| Host Name | Fear |
+| Players | 4/10 |
+| Host Name | Miguelyuyi |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:52:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923860720440 |
+| Players | 1/15 |
+| Host Name | Salvatore |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 08:52:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923860796263 |
+| Players | 1/8 |
+| Host Name | SanctuaryMoon |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 08:52:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923860833432 |
+| Players | 1/15 |
+| Host Name | marty |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 08:53:02 |
 
 
