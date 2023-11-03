@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923968637964 |
-| Players | 4/15 |
-| Host Name | THEY OF THE DEAD!! |
+| Players | 1/15 |
+| Host Name | Tornado |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 12:01:39 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923968541692 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | 游戏蝗虫农师傅 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 12:01:30 |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 12:00:35 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503923968276444 |
-| Players | 1/24 |
-| Host Name | Little Foot |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 12:01:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503923969437301 |
-| Players | 1/24 |
-| Host Name | fate/ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 12:02:51 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923969488813 |
@@ -92,12 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 12:02:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923969498403 |
-| Players | 1/8 |
-| Host Name | fl0kiss |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 12:02:56 |
+| Lobby ID | 28503923969437301 |
+| Players | 1/24 |
+| Host Name | fate/ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 12:02:51 |
 
 
