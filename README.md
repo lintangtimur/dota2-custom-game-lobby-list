@@ -20,6 +20,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:21:00 |
 
 
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28503923843683525 |
+| Players | 1/7 |
+| Host Name | NF |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 08:20:57 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923839435281 |
@@ -47,66 +56,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:15:32 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923843439382 |
-| Players | 7/8 |
-| Host Name | XFullHouse |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 08:20:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923843175815 |
-| Players | 5/10 |
-| Host Name | >LuisRM21< |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 08:20:00 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923843212034 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | 65daysofstatic |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:20:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923843594063 |
-| Players | 7/8 |
-| Host Name | Mantelis |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 08:20:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923843815866 |
-| Players | 2/8 |
-| Host Name | играю лёжа |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 08:21:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923842691437 |
-| Players | 13/15 |
-| Host Name | Сол Ґудман |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 08:19:05 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503923843817728 |
-| Players | 1/24 |
-| Host Name | yangxuvictory |
+| Lobby ID | 28503923843175815 |
+| Players | 6/10 |
+| Host Name | >LuisRM21< |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 08:21:13 |
+| Lobby Creation Time | Friday, November 3, 2023 08:20:00 |
 
 
