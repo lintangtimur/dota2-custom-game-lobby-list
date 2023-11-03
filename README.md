@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923904310523 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | 小救星小渡 |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 10:14:19 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923905165038 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | real human bean |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 10:15:47 |
@@ -103,19 +103,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923907176081 |
-| Players | 1/8 |
-| Host Name | Людмила Петровна |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 10:19:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28503923903931098 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Mil<3 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 10:13:41 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923907277339 |
+| Players | 3/15 |
+| Host Name | Loose End |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 10:19:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923905887323 |
+| Players | 13/15 |
+| Host Name | Oggos(cZ) |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 10:17:01 |
 
 
