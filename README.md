@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 07:00:31 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28503923803003964 |
-| Players | 9/10 |
-| Host Name | Booberries |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 07:00:33 |
-
-
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28503923801309903 |
@@ -86,25 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923802318355 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | pos 5 - 2 - 1 - 4 - 3 |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 06:59:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923803130221 |
-| Players | 12/15 |
-| Host Name | kötsibëu |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 07:00:50 |
+| Lobby ID | 28503923802565908 |
+| Players | 1/10 |
+| Host Name | heyheyhey |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 06:59:35 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923802755463 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Gilgalad the Gigachad |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 06:59:58 |
@@ -126,32 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | μVlrka |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 06:58:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923802565908 |
-| Players | 1/10 |
-| Host Name | heyheyhey |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:59:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923802185878 |
-| Players | 7/8 |
-| Host Name | БОРЯ комфортик |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 06:58:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923803288499 |
-| Players | 1/15 |
-| Host Name | Buratino |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 07:01:11 |
 
 
