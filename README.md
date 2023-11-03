@@ -2,15 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28503923967543078 |
-| Players | 9/10 |
-| Host Name | McLoving |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 3, 2023 12:00:00 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923980474219 |
@@ -23,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923979310261 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Sir Spliff Puffington |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 12:17:50 |
@@ -59,27 +50,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923979984981 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | DANICH |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 12:18:52 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923980898217 |
+| Players | 1/10 |
+| Host Name | cool, calm, and collected |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 3, 2023 12:20:17 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923979937722 |
-| Players | 13/15 |
-| Host Name | FaiNt |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 12:18:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923978864700 |
-| Players | 3/8 |
-| Host Name | Daja i Konterit |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 3, 2023 12:17:09 |
+| Lobby ID | 28503923980921206 |
+| Players | 1/15 |
+| Host Name | MCFISHERMANPRO |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 12:20:19 |
 
 
