@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923830738263 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Piti |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:56:25 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:00:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923826879665 |
-| Players | 8/10 |
-| Host Name | ♿🧠 |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 07:48:53 |
+| Lobby ID | 28503923832549341 |
+| Players | 1/8 |
+| Host Name | Moon |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 3, 2023 07:59:56 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923833086747 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | 3Girls1BigGulp |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 08:00:58 |
@@ -86,25 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923831490802 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:57:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923831395340 |
-| Players | 1/24 |
-| Host Name | if you can? |
+| Lobby ID | 28503923833155341 |
+| Players | 1/15 |
+| Host Name | bitch, no llore´s, bitch |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 07:57:41 |
+| Lobby Creation Time | Friday, November 3, 2023 08:01:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923831735328 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Disastrous Luck |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:58:21 |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 07:58:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923832549341 |
-| Players | 1/8 |
-| Host Name | Moon |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 3, 2023 07:59:56 |
 
 
