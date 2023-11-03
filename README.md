@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923826541705 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Señora A su hijo lestan pegando |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:48:13 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923827388559 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | MickeY |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:49:52 |
@@ -85,28 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923827442672 |
-| Players | 1/15 |
-| Host Name | JORGE EL CURIOSO |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 07:49:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28503923826563531 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Leyo |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:48:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923822917676 |
-| Players | 6/8 |
-| Host Name | Kärss |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 07:41:01 |
 
 
