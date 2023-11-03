@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923807227522 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | RiftBreaker |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:09:23 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923804519474 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | 𝖘𝖒𝖎𝖑𝖊𝖞☺ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:03:51 |
@@ -128,19 +128,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 07:12:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923803802472 |
-| Players | 2/8 |
-| Host Name | YAUJA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 07:02:18 |
+| Lobby ID | 28503923809621112 |
+| Players | 5/15 |
+| Host Name | Saint Piсят Два |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 07:14:17 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923808748760 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | Egotheist |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:12:31 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923809505747 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | БОРЯ комфортик |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:14:02 |
@@ -162,14 +162,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Middleware |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:14:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923809621112 |
-| Players | 5/15 |
-| Host Name | Saint Piсят Два |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 07:14:17 |
 
 
