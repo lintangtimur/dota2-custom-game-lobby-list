@@ -20,15 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:38:32 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28503923885194369 |
-| Players | 1/5 |
-| Host Name | Sousich |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 09:40:52 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923884958795 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923884276971 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | PAAAAN... |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 3, 2023 09:39:11 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923884788062 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Ｓｏｈｅｅ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:40:07 |
@@ -104,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923885182231 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | 5inRow |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:40:51 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503923885335481 |
+| Players | 1/24 |
+| Host Name | WINTER BEAR |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 09:41:07 |
 
 
