@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923878099345 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 小救星小渡 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 09:27:45 |
@@ -40,28 +40,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923872577560 |
-| Players | 23/24 |
-| Host Name | mr.dead |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 3, 2023 09:16:56 |
+| Lobby ID | 28503923874618528 |
+| Players | 20/24 |
+| Host Name | VincenLaw |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 3, 2023 09:21:04 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923877732670 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | jdy antona |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 09:27:03 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503923874618528 |
-| Players | 19/24 |
-| Host Name | VincenLaw |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 09:21:04 |
 
 
