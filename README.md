@@ -20,28 +20,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:48:48 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923890888425 |
-| Players | 1/15 |
-| Host Name | Timkins |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 09:51:08 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923890627657 |
+| Lobby ID | 28503923890909612 |
 | Players | 4/10 |
-| Host Name | pox na game |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 09:50:41 |
+| Host Name | GENIUS (at 4k mmr) |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 09:51:11 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28503923890758699 |
+| Players | 7/24 |
+| Host Name | Rico Suave |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 09:50:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923886357404 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 09:42:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923889787956 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Mi peor enemigo |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:49:12 |
@@ -110,21 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:49:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923890758699 |
-| Players | 5/24 |
-| Host Name | Rico Suave |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 09:50:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923890885407 |
-| Players | 1/8 |
-| Host Name | Фирма веников не вяжет |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 09:51:08 |
+| Lobby ID | 28503923890963852 |
+| Players | 2/10 |
+| Host Name | Aggressive Koala |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 09:51:16 |
 
 
