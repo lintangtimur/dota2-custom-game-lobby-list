@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923830511600 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | ComradeHeval |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 07:55:59 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923830738263 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Piti |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:56:25 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923832449473 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | целка на лице |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 3, 2023 07:59:45 |
@@ -128,12 +128,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:01:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923833556967 |
-| Players | 4/10 |
-| Host Name | Darth Dafty |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 3, 2023 08:01:53 |
+| Lobby ID | 28503923833645486 |
+| Players | 2/8 |
+| Host Name | Людмила Петровна |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 08:02:03 |
 
 
