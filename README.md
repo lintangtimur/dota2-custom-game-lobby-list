@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923834310464 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Cheb |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:03:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923834803400 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | ♥ BELLSY ♥ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:04:16 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923834495987 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Brosnan |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:03:41 |
@@ -94,17 +94,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923833155341 |
-| Players | 14/15 |
-| Host Name | bitch, no llore´s, bitch |
+| Lobby ID | 28503923835248002 |
+| Players | 1/15 |
+| Host Name | REGIMEPILLED ☭ #FreePalestine |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 08:01:06 |
+| Lobby Creation Time | Friday, November 3, 2023 08:05:05 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923834412575 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | trovo.live/Bojji |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:03:32 |
@@ -112,19 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923835144964 |
-| Players | 1/15 |
-| Host Name | [Pota] Cal_93 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 08:04:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923835154004 |
-| Players | 1/8 |
-| Host Name | 231 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 08:04:55 |
+| Lobby ID | 28503923835197460 |
+| Players | 3/15 |
+| Host Name | DETENTION |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 08:05:00 |
 
 
