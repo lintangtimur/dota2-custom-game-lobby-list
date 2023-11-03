@@ -11,19 +11,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:37:20 |
 
 
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28503923853758356 |
-| Players | 2/7 |
-| Host Name | Beautyyy |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 3, 2023 08:39:38 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923853937331 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Weganerd |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:39:58 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923853892033 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Dio mio haz que me enamore |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:39:53 |
@@ -74,21 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:36:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923853325323 |
-| Players | 9/10 |
-| Host Name | BUTI SITO-LINDO |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 08:38:49 |
+| Lobby ID | 28503923854493596 |
+| Players | 1/15 |
+| Host Name | джимми |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 08:41:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923853520083 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Piroco |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 08:39:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923854494182 |
+| Players | 1/15 |
+| Host Name | КУВАЛДА НАХУЙ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 08:41:00 |
 
 
