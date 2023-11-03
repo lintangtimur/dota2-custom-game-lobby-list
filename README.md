@@ -14,19 +14,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923821623430 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | clglOgck |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:38:26 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28503923824574379 |
-| Players | 1/5 |
-| Host Name | Papa.D |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 07:44:19 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923824305530 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | ЛШДДУК |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:43:47 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923824079394 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | BABY-ROSH (AL) |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:43:20 |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923823148400 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | SeT |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 07:41:28 |
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923824206793 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Rover |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:43:35 |
@@ -157,10 +148,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923824517151 |
-| Players | 6/8 |
-| Host Name | yupodrina |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 3, 2023 07:44:12 |
+| Lobby ID | 28503923824672552 |
+| Players | 1/8 |
+| Host Name | Олег Филиппов |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 07:44:31 |
 
 
