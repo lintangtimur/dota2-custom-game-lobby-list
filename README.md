@@ -104,9 +104,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923872268396 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | LganteKLK-giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:16:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923872397155 |
+| Players | 2/15 |
+| Host Name | I HATE STUPID KIDS |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 09:16:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923872391449 |
+| Players | 1/8 |
+| Host Name | cokein |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 09:16:33 |
 
 
