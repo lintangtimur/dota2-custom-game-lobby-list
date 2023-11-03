@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:17:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923872391449 |
-| Players | 1/8 |
-| Host Name | TheDemonicking🤬 |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 09:16:33 |
+| Lobby ID | 28503923873054540 |
+| Players | 1/10 |
+| Host Name | Tuňák |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 09:17:54 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923872001362 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Tomohise-Sako |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:15:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923872577560 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | mr.dead |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 3, 2023 09:16:56 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923871918164 |
-| Players | 2/8 |
-| Host Name | S1nkl家族 |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 09:15:35 |
+| Lobby ID | 28503923873031115 |
+| Players | 5/8 |
+| Host Name | XFullHouse |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 09:17:51 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923872228603 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | M i a m i |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:16:13 |
@@ -113,46 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923872919880 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Diascanel GODOTA2.COM |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:17:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923872926070 |
-| Players | 1/10 |
-| Host Name | Noone |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 3, 2023 09:17:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923873031115 |
-| Players | 2/8 |
-| Host Name | XFullHouse |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 09:17:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923873048996 |
-| Players | 3/8 |
-| Host Name | cokein |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 09:17:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923873054540 |
-| Players | 1/10 |
-| Host Name | Tuňák |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 09:17:54 |
 
 
 |  | ot3_gardens_duo |
