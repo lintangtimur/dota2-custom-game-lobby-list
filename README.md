@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923891093109 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Techugo |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 09:51:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923892621640 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | STERBLICH |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:54:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923892788851 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Йаcobs monarch |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 09:54:31 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923892690066 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Slyrak |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:54:21 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hüskoras |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 09:55:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923893385015 |
+| Players | 6/8 |
+| Host Name | BB GEORGE EMBUSCA DE MEMERRE |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 09:55:34 |
 
 
