@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923850966049 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | BABY-ROSH (AL) |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:34:27 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923851647421 |
-| Players | 14/15 |
-| Host Name | < blank > |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 08:35:42 |
+| Lobby ID | 28503923852676400 |
+| Players | 3/15 |
+| Host Name | BALD AND GAY 3 PLAYER |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 08:37:37 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923852283581 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | MrBuba |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:36:52 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923852422227 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | g6 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:37:08 |
@@ -101,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:36:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923852626341 |
-| Players | 6/8 |
-| Host Name | Bulborb |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 3, 2023 08:37:31 |
+| Lobby ID | 28503923852649656 |
+| Players | 1/10 |
+| Host Name | чел |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 08:37:34 |
 
 
