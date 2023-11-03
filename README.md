@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923867300385 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | Jasmine |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:06:06 |
@@ -67,10 +67,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923869348288 |
-| Players | 1/24 |
-| Host Name | leave if u see p2w |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 09:10:18 |
+| Lobby ID | 28503923869364518 |
+| Players | 2/24 |
+| Host Name | DraelgNaI |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 09:10:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923869387362 |
+| Players | 1/8 |
+| Host Name | BigKing Assault Mode |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 09:10:23 |
 
 
