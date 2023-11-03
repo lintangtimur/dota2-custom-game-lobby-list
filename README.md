@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923944298746 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Fanya |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 11:24:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923940896196 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | dont care |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 3, 2023 11:18:05 |
@@ -113,19 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923944456534 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Feed nenas xd |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 11:24:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503923944491189 |
-| Players | 1/15 |
-| Host Name | капаю с неба |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 11:24:24 |
 
 
 |  | ot3_desert_octet |
