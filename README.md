@@ -20,6 +20,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 12:21:03 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28503923981618293 |
+| Players | 1/5 |
+| Host Name | Lazy God |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 12:21:24 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28503923981666987 |
+| Players | 1/5 |
+| Host Name | Çħίℓℓ |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 3, 2023 12:21:28 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923980474219 |
@@ -32,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923979310261 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Sir Spliff Puffington |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 12:17:50 |
@@ -41,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923979882609 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | Doshka |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 12:18:43 |
@@ -101,21 +119,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 12:20:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923981542742 |
-| Players | 1/15 |
-| Host Name | LEWS THERIN TELAMON |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 12:21:17 |
+| Lobby ID | 28503923981584722 |
+| Players | 3/8 |
+| Host Name | задоджил аборт |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 3, 2023 12:21:21 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923981550217 |
+| Lobby ID | 28503923981634616 |
 | Players | 1/8 |
-| Host Name | glorycrack |
+| Host Name | pimpollitos sin flow |
 | Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 12:21:18 |
+| Lobby Creation Time | Friday, November 3, 2023 12:21:26 |
 
 
