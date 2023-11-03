@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923891291090 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | a |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 09:51:51 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923898437294 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | People |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 10:04:22 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923898938014 |
-| Players | 1/15 |
-| Host Name | Кирюша бледный |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 10:05:13 |
+| Lobby ID | 28503923898747479 |
+| Players | 3/15 |
+| Host Name | yatoro de dia / teatoro de noche |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 10:04:53 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923896572547 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Silhouette |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 10:01:08 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923897982519 |
-| Players | 3/8 |
-| Host Name | so done |
+| Players | 1/8 |
+| Host Name | учу бурятский |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 10:03:35 |
 
@@ -101,12 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 10:05:07 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923898964247 |
+| Players | 1/8 |
+| Host Name | Starboy |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 10:05:16 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923898747479 |
-| Players | 1/15 |
-| Host Name | yatoro de dia / teatoro de noche |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 10:04:53 |
+| Lobby ID | 28503923898997626 |
+| Players | 6/15 |
+| Host Name | Stunning Garry |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 10:05:19 |
 
 
