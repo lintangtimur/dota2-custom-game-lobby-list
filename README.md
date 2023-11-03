@@ -11,19 +11,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:22:52 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28503923845700732 |
-| Players | 8/10 |
-| Host Name | Oni |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 08:24:41 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923839435281 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:12:58 |
@@ -32,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923845330610 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | xoxo |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:24:00 |
@@ -50,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923845152601 |
-| Players | 15/24 |
+| Players | 20/24 |
 | Host Name | exosister mikailis |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:23:40 |
@@ -59,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923844347639 |
-| Players | 6/24 |
+| Players | 4/24 |
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:22:11 |
@@ -76,19 +67,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503923845486658 |
-| Players | 3/8 |
-| Host Name | Кабан Пятно |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 08:24:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28503923845718603 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Rosé- |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:24:43 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923846036975 |
+| Players | 1/15 |
+| Host Name | ANOTHER |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 08:25:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28503923846037374 |
+| Players | 1/15 |
+| Host Name | Золотая Клешня |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 08:25:18 |
 
 
