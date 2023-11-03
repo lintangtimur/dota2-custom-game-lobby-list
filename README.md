@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 08:40:28 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923869860960 |
-| Players | 21/24 |
-| Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
+| Lobby ID | 28503923870906648 |
+| Players | 1/10 |
+| Host Name | BuBu |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 09:11:22 |
+| Lobby Creation Time | Friday, November 3, 2023 09:13:32 |
 
 
 |  | ot3_gardens_duo |
