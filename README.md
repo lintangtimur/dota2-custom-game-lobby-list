@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923852528061 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | MYB11RU |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 08:37:20 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28503923854671899 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Booberries |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:41:20 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923858252289 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ZAGREUS |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:48:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923857213087 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | The Cat's Meow |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 08:46:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923857736805 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | gloryus |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 08:47:10 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923857516497 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | UnLuucky |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 08:46:44 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | goingmerry |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 3, 2023 08:47:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923858313134 |
+| Players | 1/8 |
+| Host Name | 11darka... |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 08:48:15 |
 
 
