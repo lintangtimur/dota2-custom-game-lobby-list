@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923886038117 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Pichuleitor |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:42:25 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923871112181 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | DragonFyre |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 09:13:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923886155421 |
-| Players | 7/8 |
-| Host Name | Инст - um1rva |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 09:42:37 |
+| Lobby ID | 28503923886033799 |
+| Players | 2/24 |
+| Host Name | leave if u see p2w |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 09:42:24 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923885677038 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | El inge pepe |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:41:45 |
@@ -92,12 +92,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:42:12 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923886033799 |
-| Players | 2/24 |
-| Host Name | leave if u see p2w |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 09:42:24 |
+| Lobby ID | 28503923886772200 |
+| Players | 2/15 |
+| Host Name | REGIMEPILLED ☭ #FreePalestine |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 3, 2023 09:43:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923886775660 |
+| Players | 1/8 |
+| Host Name | у у такая зайка >.< |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 3, 2023 09:43:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923886790398 |
+| Players | 1/10 |
+| Host Name | Darth Dafty |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 09:43:46 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923886783948 |
+| Players | 1/10 |
+| Host Name | ♛Саян♛ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 3, 2023 09:43:45 |
 
 
