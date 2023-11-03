@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923869364518 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Cubs |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 09:10:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923871112181 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | DragonFyre |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 3, 2023 09:13:55 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923874639021 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Carrying more animals than Noah |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:21:07 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923874870709 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Anesi |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 3, 2023 09:21:34 |
@@ -137,30 +137,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:21:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923874913548 |
-| Players | 1/15 |
-| Host Name | AMA TU PERU CTMRE |
+| Lobby ID | 28503923872041202 |
+| Players | 23/24 |
+| Host Name | Kokodrile |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 09:21:39 |
+| Lobby Creation Time | Friday, November 3, 2023 09:15:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503923873354778 |
-| Players | 14/15 |
-| Host Name | Fanya |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 09:18:31 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503923874953789 |
-| Players | 1/10 |
+| Lobby ID | 28503923875047257 |
+| Players | 1/24 |
 | Host Name | 板上钉钉 |
-| Region | Unknown |
-| Lobby Creation Time | Friday, November 3, 2023 09:21:44 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 09:21:54 |
 
 
