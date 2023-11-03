@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923808481420 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | ЛШДДУК |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:11:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923804519474 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | 𝖘𝖒𝖎𝖑𝖊𝖞☺ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:03:51 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923806882389 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Gnoren |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:08:41 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28503923807745814 |
-| Players | 9/10 |
-| Host Name | YULI |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 07:10:27 |
+| Lobby ID | 28503923808673847 |
+| Players | 2/10 |
+| Host Name | sabuta |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 07:12:22 |
 
 
 |  | ot3_gardens_duo |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923808366055 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Tuco Tuco |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:11:43 |
@@ -139,19 +139,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503923808471015 |
-| Players | 1/15 |
-| Host Name | Viktor Reznov |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 07:11:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28503923806711522 |
 | Players | 14/15 |
-| Host Name | WhiskeredWorm |
+| Host Name | 299 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:08:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923808659133 |
+| Players | 2/10 |
+| Host Name | Homarezovich |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 07:12:20 |
 
 
