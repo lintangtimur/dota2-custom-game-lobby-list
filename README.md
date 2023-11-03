@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923875446494 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | pox na game |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 3, 2023 09:22:41 |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 09:28:24 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923878477004 |
-| Players | 1/8 |
-| Host Name | Witcher |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 09:28:28 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28503923878522065 |
@@ -72,5 +63,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | XxTuviejoxX |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 09:28:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923878563797 |
+| Players | 1/8 |
+| Host Name | ALANbrito |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 3, 2023 09:28:38 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28503923878599278 |
+| Players | 1/10 |
+| Host Name | Touch Me |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 3, 2023 09:28:42 |
 
 
