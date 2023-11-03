@@ -38,19 +38,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 3, 2023 07:27:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28503923815674599 |
-| Players | 13/15 |
-| Host Name | Chaos_NIKE |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 3, 2023 07:26:37 |
+| Lobby ID | 28503923816355561 |
+| Players | 1/10 |
+| Host Name | свиня джакузі |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 3, 2023 07:28:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28503923816217660 |
+| Players | 1/8 |
+| Host Name | мазня говном |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 3, 2023 07:27:43 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28503923815474222 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Jivchik |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:26:13 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923804519474 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 3, 2023 07:03:51 |
@@ -113,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28503923815626771 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | X4nD3riiXx |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:26:31 |
@@ -131,27 +140,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28503923816100780 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | ove |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 3, 2023 07:27:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503923816217660 |
-| Players | 1/8 |
-| Host Name | мазня говном |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 07:27:43 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503923816321558 |
-| Players | 1/24 |
-| Host Name | Osaed |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 3, 2023 07:27:56 |
 
 
