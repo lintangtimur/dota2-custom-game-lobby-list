@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203172960565 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | LoPoBia |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 17:35:46 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203169240865 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ???% |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:32:26 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203174929581 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Triplesixgods |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:37:32 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203172697043 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | . |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 17:35:32 |
@@ -130,17 +130,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203157842957 |
-| Players | 11/15 |
-| Host Name | InterFerent |
+| Lobby ID | 28505203172004190 |
+| Players | 4/15 |
+| Host Name | LaCiocana |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:22:00 |
+| Lobby Creation Time | Saturday, November 4, 2023 17:34:55 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203175162123 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Неуязвимый |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 17:37:44 |
@@ -173,31 +173,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 17:36:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203175342311 |
-| Players | 6/8 |
-| Host Name | Colours |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 4, 2023 17:37:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203158778288 |
-| Players | 11/15 |
-| Host Name | Blunder!! |
+| Lobby ID | 28505203166742453 |
+| Players | 9/10 |
+| Host Name | EbaNoomba |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:22:52 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505203171234873 |
-| Players | 8/10 |
-| Host Name | sar-Mirim |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:34:14 |
+| Lobby Creation Time | Saturday, November 4, 2023 17:30:11 |
 
 
 |  | epic_boss_fight_nightmare |
