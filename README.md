@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203166742453 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | slayer007 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:30:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203185003290 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | dikapb_diman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:46:21 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203198619168 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | добрый грибничек |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:57:59 |
@@ -104,28 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203193306130 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Murâkai |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:53:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203197483336 |
-| Players | 14/15 |
-| Host Name | Ogre Мага |
+| Lobby ID | 28505203197939887 |
+| Players | 1/8 |
+| Host Name | dankur12 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:57:01 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505203198808174 |
-| Players | 1/24 |
-| Host Name | SonETinI |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 17:58:09 |
+| Lobby Creation Time | Saturday, November 4, 2023 17:57:24 |
 
 
 |  | epic_boss_fight_challenger |
@@ -135,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Death Is My Bitch |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 17:55:01 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505203198787700 |
-| Players | 2/10 |
-| Host Name | momo |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 17:58:08 |
 
 
