@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202788436959 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | @lexkill.com... |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:06:53 |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202785139643 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Jasmine |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:02:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202788144500 |
-| Players | 6/8 |
-| Host Name | CURSE |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 11:06:28 |
+| Lobby ID | 28505202788203744 |
+| Players | 6/24 |
+| Host Name | miley cyrex |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 11:06:33 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202787680408 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Hulumullu! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:05:48 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202788805380 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | SALAMANDER_KING |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:07:25 |
@@ -104,19 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202788829311 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | ANIME |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:07:27 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202788203744 |
-| Players | 6/24 |
-| Host Name | miley cyrex |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 11:06:33 |
+| Lobby ID | 28505202789130813 |
+| Players | 1/8 |
+| Host Name | Self |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 11:07:54 |
 
 
 |  | epic_boss_fight_nightmare |
