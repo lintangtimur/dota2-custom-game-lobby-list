@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203146573605 |
-| Players | 18/24 |
+| Players | 23/24 |
 | Host Name | 青衣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 17:11:15 |
@@ -38,22 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:11:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203147912045 |
-| Players | 1/8 |
-| Host Name | Maybe |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 17:12:34 |
+| Lobby ID | 28505203148614323 |
+| Players | 6/10 |
+| Host Name | Назар сын шлюхи |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 17:13:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203144168035 |
-| Players | 13/15 |
-| Host Name | Удручающий момент... |
+| Lobby ID | 28505203142846612 |
+| Players | 14/15 |
+| Host Name | Boyara |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:08:53 |
+| Lobby Creation Time | Saturday, November 4, 2023 17:07:33 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203139991896 |
-| Players | 21/24 |
+| Players | 13/24 |
 | Host Name | CUM GAMING |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 17:04:41 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203148432618 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | xXx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:13:05 |
@@ -103,38 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203148485502 |
-| Players | 3/8 |
-| Host Name | Blood in my eyes |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:13:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203148614323 |
-| Players | 2/10 |
-| Host Name | Назар сын шлюхи |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:13:15 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203148617504 |
-| Players | 2/10 |
-| Host Name | uterua412 |
-| Region | AUSTRIA |
-| Lobby Creation Time | Saturday, November 4, 2023 17:13:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203142846612 |
-| Players | 10/15 |
-| Host Name | Boyara |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:07:33 |
+| Lobby ID | 28505203142975354 |
+| Players | 7/8 |
+| Host Name | 言葉がない雨 |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 17:07:41 |
 
 
 |  | epic_boss_fight_normal |
@@ -149,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28505203110474019 |
-| Players | 3/7 |
+| Players | 2/7 |
 | Host Name | Death Is My Bitch |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:36:48 |
@@ -167,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505203146976018 |
-| Players | 1/5 |
+| Players | 3/5 |
 | Host Name | Foggy |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 4, 2023 17:11:39 |
