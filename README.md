@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203046181594 |
-| Players | 15/24 |
-| Host Name | 2FatSnails |
+| Players | 16/24 |
+| Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:37:37 |
 
@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505203059021546 |
 | Players | 1/15 |
-| Host Name | smtg here |
+| Host Name | зря вы убрали у меня премут |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 15:49:23 |
 
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203055693994 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Wander |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 15:46:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203058682355 |
-| Players | 11/15 |
-| Host Name | p[A]ur |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 15:49:04 |
+| Lobby ID | 28505203059391223 |
+| Players | 2/8 |
+| Host Name | (: |
+| Region | AUSTRIA |
+| Lobby Creation Time | Saturday, November 4, 2023 15:49:43 |
 
 
 |  | ot3_gardens_duo |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505203054868410 |
-| Players | 2/5 |
-| Host Name | #Яexmus. |
+| Players | 1/5 |
+| Host Name | Diclonius |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:45:37 |
 
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Just subscribe for Linda H |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:47:48 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28505203059465613 |
+| Players | 2/7 |
+| Host Name | Царство Небесное |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 4, 2023 15:49:47 |
 
 
