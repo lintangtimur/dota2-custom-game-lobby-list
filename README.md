@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204016256614 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | F |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 02:51:23 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204014436356 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Головосование |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 02:49:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204018939990 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Heero 緋 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 02:54:00 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:11:41 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204015877852 |
-| Players | 23/24 |
-| Host Name | ShazaM |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 02:51:00 |
+| Lobby ID | 28505204020007139 |
+| Players | 3/15 |
+| Host Name | Джокерханян |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, November 5, 2023 02:55:04 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204018592222 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | -Voxz- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 02:53:40 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 02:53:24 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204019232883 |
-| Players | 1/24 |
-| Host Name | Zumotokaari |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, November 5, 2023 02:54:18 |
+| Lobby ID | 28505204020014769 |
+| Players | 1/10 |
+| Host Name | SDVDS |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, November 5, 2023 02:55:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204018816692 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | buti sito - lindo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 02:53:53 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204018005827 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Человек |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 02:53:05 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204018988986 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | [Otaru] |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 02:54:03 |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204019411504 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | blessed |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, November 5, 2023 02:54:28 |
@@ -184,29 +184,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204003398053 |
-| Players | 14/15 |
-| Host Name | Егор Кридит |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 02:38:55 |
+| Lobby ID | 28505204020069529 |
+| Players | 1/15 |
+| Host Name | Мr.Myxa |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 02:55:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204019876836 |
-| Players | 5/10 |
-| Host Name | SenSey |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, November 5, 2023 02:54:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204019898080 |
-| Players | 1/8 |
-| Host Name | SaD_Pidor( |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, November 5, 2023 02:54:57 |
+| Lobby ID | 28505204020109803 |
+| Players | 1/15 |
+| Host Name | Grizzlyattack |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 02:55:10 |
 
 
 |  | epic_boss_fight_normal |
@@ -227,13 +218,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 02:44:03 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505204019897526 |
-| Players | 1/5 |
-| Host Name | 通hate me as you do通 hurt |
+| Lobby ID | 28505204017623808 |
+| Players | 4/10 |
+| Host Name | Wkap |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 02:54:57 |
+| Lobby Creation Time | Sunday, November 5, 2023 02:52:43 |
 
 
 |  | epic_boss_fight_normal |
@@ -272,12 +263,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 02:54:27 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505204017623808 |
-| Players | 4/10 |
-| Host Name | Wkap |
+| Lobby ID | 28505204019989304 |
+| Players | 2/5 |
+| Host Name | Buu-uuu |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 02:55:03 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28505204020027358 |
+| Players | 1/7 |
+| Host Name | Rubenur |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 02:52:43 |
+| Lobby Creation Time | Sunday, November 5, 2023 02:55:05 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28505204020049263 |
+| Players | 1/7 |
+| Host Name | ge_bi_gi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 02:55:06 |
 
 
