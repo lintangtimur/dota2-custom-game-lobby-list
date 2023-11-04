@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203142975354 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | all muted |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 17:07:41 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 17:06:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203142846612 |
-| Players | 5/15 |
-| Host Name | ac7 |
+| Lobby ID | 28505203143439727 |
+| Players | 5/10 |
+| Host Name | Svin |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:07:33 |
+| Lobby Creation Time | Saturday, November 4, 2023 17:08:09 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203129152963 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Phat |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 16:54:16 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 17:07:23 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203143402877 |
-| Players | 2/8 |
-| Host Name | ........................ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:08:07 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505203030868319 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28505203110474019 |
-| Players | 5/7 |
+| Players | 4/7 |
 | Host Name | Death Is My Bitch |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:36:48 |
@@ -122,8 +113,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203129991079 |
-| Players | 5/10 |
-| Host Name | OMGCOLA |
+| Players | 4/10 |
+| Host Name | Iron_Ghost |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:55:04 |
 
