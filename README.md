@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203157842957 |
-| Players | 13/15 |
-| Host Name | fleming |
+| Lobby ID | 28505203189112952 |
+| Players | 5/15 |
+| Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:22:00 |
+| Lobby Creation Time | Saturday, November 4, 2023 17:49:55 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203185378895 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Tesarz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 17:46:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203187670534 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Shinraaaa~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 17:48:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203188164277 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Жадность |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:49:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203184945795 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | abomination |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:46:18 |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | khotodttwe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 17:43:16 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505203189225608 |
+| Players | 1/5 |
+| Host Name | No-Mercy |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 4, 2023 17:50:01 |
 
 
