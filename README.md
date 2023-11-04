@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204195960818 |
-| Players | 8/24 |
+| Players | 13/24 |
 | Host Name | BOMBERMAN |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:31:58 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204195460802 |
-| Players | 7/8 |
-| Host Name | McLovin |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 06:31:11 |
+| Lobby ID | 28505204196330539 |
+| Players | 1/8 |
+| Host Name | Patron |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 06:32:33 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204195470213 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:31:12 |
@@ -117,6 +117,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | papita papita xd |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:32:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204196293991 |
+| Players | 2/10 |
+| Host Name | Запорожец |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 06:32:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204195497423 |
+| Players | 8/10 |
+| Host Name | Lil Candice |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 06:31:14 |
 
 
 |  | epic_boss_fight_normal |
