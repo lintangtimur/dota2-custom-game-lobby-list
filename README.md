@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202961718756 |
-| Players | 4/10 |
-| Host Name | Wiz |
+| Players | 3/10 |
+| Host Name | ♛Саян♛ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:19:06 |
 
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202963667913 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | :( |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 14:20:57 |
@@ -131,10 +131,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202963805905 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | Wapo16 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 14:21:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202959213145 |
+| Players | 23/24 |
+| Host Name | Professor |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 14:16:44 |
 
 
 |  | epic_boss_fight_normal |
@@ -153,14 +162,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Yatoro雨 fan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:20:09 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505202963895808 |
-| Players | 1/5 |
-| Host Name | терморегулятор |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 14:21:10 |
 
 
