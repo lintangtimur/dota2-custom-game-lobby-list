@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202929549820 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Mr.Bass |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 13:48:16 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202930770980 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | m0yonezzy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:49:29 |
@@ -69,7 +69,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505202928281153 |
 | Players | 2/8 |
-| Host Name | curiosity |
+| Host Name | romabild |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 13:47:01 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202927827348 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Muted all |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 13:46:34 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202929893911 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Miker The One |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 13:48:37 |
@@ -130,28 +130,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505202920672660 |
-| Players | 1/5 |
-| Host Name | as |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 13:39:40 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
 | Lobby ID | 28505202930225573 |
 | Players | 1/5 |
 | Host Name | псих :-') |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:48:57 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505202930795983 |
-| Players | 9/10 |
-| Host Name | TriHard |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 13:49:31 |
 
 
