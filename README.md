@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203157842957 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | LIMONKA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:22:00 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 17:46:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505203177804828 |
-| Players | 7/8 |
-| Host Name | Фембойчик пудж |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:40:05 |
+| Lobby ID | 28505203187670534 |
+| Players | 2/24 |
+| Host Name | Shinraaaa~ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 17:48:40 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203185312454 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | mandoreon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:46:37 |
@@ -101,24 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 17:44:41 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203186789187 |
-| Players | 2/10 |
-| Host Name | SonoAlegro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:47:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505203187560165 |
-| Players | 1/24 |
-| Host Name | Shinraaaa~ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 17:48:34 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203182883973 |
@@ -140,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203181434978 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | khotodttwe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 17:43:16 |
