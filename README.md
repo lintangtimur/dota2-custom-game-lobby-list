@@ -2,40 +2,40 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202795021309 |
-| Players | 1/8 |
-| Host Name | SrDumii |
+| Lobby ID | 28505202794989825 |
+| Players | 15/24 |
+| Host Name | Daniel |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 11:16:13 |
+| Lobby Creation Time | Saturday, November 4, 2023 11:16:10 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202794306853 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Beluga |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:15:14 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202791660349 |
-| Players | 23/24 |
-| Host Name | 大鲶鱼 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 11:11:32 |
+| Lobby ID | 28505202795034169 |
+| Players | 1/10 |
+| Host Name | Mai Sakurajima |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 11:16:14 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202794113554 |
-| Players | 2/8 |
-| Host Name | Richi Rage |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 11:14:58 |
+| Lobby ID | 28505202795021309 |
+| Players | 7/8 |
+| Host Name | SrDumii |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 11:16:13 |
 
 
 |  | ot3_gardens_duo |
@@ -67,56 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202793970407 |
-| Players | 8/15 |
-| Host Name | JM |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 11:14:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505202794771343 |
-| Players | 4/10 |
-| Host Name | PIDROгидар |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:15:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202794100983 |
-| Players | 11/15 |
-| Host Name | OfficialKTChubs |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 11:14:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28505202794852445 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Enrage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:15:59 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202794989825 |
-| Players | 2/24 |
-| Host Name | Daniel |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 11:16:10 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202795034169 |
+| Lobby ID | 28505202794462755 |
 | Players | 1/10 |
-| Host Name | Mai Sakurajima |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 11:16:14 |
+| Host Name | RASTREANDO TU IP CERRANO CTV |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 11:15:27 |
 
 
 |  | epic_boss_fight_normal |
