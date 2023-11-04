@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 17:33:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203168840490 |
-| Players | 1/8 |
-| Host Name | S@dne$S |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:32:04 |
+| Lobby ID | 28505203170303905 |
+| Players | 3/15 |
+| Host Name | soundzz |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 4, 2023 17:33:23 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203169240865 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | --_SoVa_-- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:32:26 |
@@ -101,21 +101,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 17:32:59 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203170201105 |
-| Players | 2/10 |
-| Host Name | Арбузный Дилер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:33:17 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203168542789 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Jetstream |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:31:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203170354142 |
+| Players | 2/10 |
+| Host Name | black enegry drink |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 17:33:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203170394581 |
+| Players | 2/8 |
+| Host Name | S@dne$S |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 17:33:28 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203170418392 |
+| Players | 2/10 |
+| Host Name | Арбузный Дилер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 17:33:29 |
 
 
