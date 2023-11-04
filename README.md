@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203461417568 |
-| Players | 14/24 |
-| Host Name | die |
+| Players | 16/24 |
+| Host Name | 小百合 平野 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 20:45:46 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203578795130 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Jesus take da wheel, take it ! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 21:48:18 |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203581882594 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Разрушитель всел |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 21:49:56 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203451404527 |
-| Players | 23/24 |
-| Host Name | Negrolas |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 20:40:11 |
+| Lobby ID | 28505203588529251 |
+| Players | 1/8 |
+| Host Name | Саня Монтажник |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 4, 2023 21:53:28 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203587831797 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Манез |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 21:53:05 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203587909864 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | La Joya |
 | Region | AUSTRIA |
 | Lobby Creation Time | Saturday, November 4, 2023 21:53:08 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203587676665 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | R2Fly |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 21:53:00 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203587204537 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | JHIIAAEEAK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 21:52:45 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203586505253 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | boqni |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 21:52:23 |
@@ -146,13 +146,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 21:41:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203585685997 |
-| Players | 11/15 |
-| Host Name | weighhingsix42 |
-| Region | AUSTRIA |
-| Lobby Creation Time | Saturday, November 4, 2023 21:51:57 |
+| Lobby ID | 28505203588575967 |
+| Players | 1/10 |
+| Host Name | Работайте БРАТЬЯ!!!! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 21:53:29 |
 
 
 |  | ot3_gardens_duo |
@@ -182,6 +182,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 21:51:56 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203588458710 |
+| Players | 6/8 |
+| Host Name | Maison Margiela |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 21:53:25 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203538923311 |
@@ -203,7 +212,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203587327087 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | @Dy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 21:52:49 |
