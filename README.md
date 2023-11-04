@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203965269976 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Satijah |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 02:03:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203966661013 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | BlueBluesB@nd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 02:04:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203968705316 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | ♂EL CAMPER GANDALFS♂ |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 02:06:34 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203963200481 |
-| Players | 6/8 |
-| Host Name | БОТ Гэрри |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 02:01:46 |
+| Lobby ID | 28505203973060605 |
+| Players | 3/8 |
+| Host Name | Лоб Селёдки |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, November 5, 2023 02:10:29 |
 
 
 |  | ot3_gardens_duo |
@@ -113,8 +113,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203971541355 |
-| Players | 3/24 |
-| Host Name | De un pingazo |
+| Players | 2/24 |
+| Host Name | Daedalus™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 02:09:07 |
 
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203971398968 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | GENIUS (at 4k mmr) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 02:08:59 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203971076700 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | КМС по водному |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 02:08:41 |
@@ -221,7 +221,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203969698999 |
-| Players | 10/10 |
+| Players | 8/10 |
 | Host Name | Puntito( El Maximo Exponente) |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 02:07:27 |
@@ -236,13 +236,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 02:09:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203972215641 |
-| Players | 1/15 |
-| Host Name | ͜͡𝓝𝓮𝓒𝓻𝓞 𝓽 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 02:09:43 |
+| Lobby ID | 28505203972998229 |
+| Players | 1/10 |
+| Host Name | SHAKAツ |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, November 5, 2023 02:10:26 |
 
 
 |  | ot3_gardens_duo |
@@ -254,22 +254,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 02:09:44 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203972998229 |
-| Players | 1/10 |
-| Host Name | SHAKAツ |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, November 5, 2023 02:10:26 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203973060605 |
-| Players | 1/8 |
-| Host Name | Лоб Селёдки |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, November 5, 2023 02:10:29 |
+| Lobby ID | 28505203973147024 |
+| Players | 5/8 |
+| Host Name | vularta |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, November 5, 2023 02:10:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203973162391 |
+| Players | 1/10 |
+| Host Name | Run Yo Pockets |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 02:10:35 |
 
 
 |  | epic_boss_fight_challenger |
