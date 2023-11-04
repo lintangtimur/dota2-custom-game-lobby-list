@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202792893135 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:13:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202791660349 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | 大鲶鱼 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 11:11:32 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202791647648 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | isn't like holding to the center |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:11:31 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202792659235 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | yotsuba |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:12:57 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202793157976 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | KuroiBlazr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:13:38 |
@@ -121,11 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202793446683 |
+| Lobby ID | 28505202793468016 |
 | Players | 1/8 |
-| Host Name | IA |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 11:14:02 |
+| Host Name | 离手鸳鸯刀 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 11:14:04 |
 
 
 |  | epic_boss_fight_normal |
