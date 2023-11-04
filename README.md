@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202825993877 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:55:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202826202762 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 1>9 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:56:07 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202825514694 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Politician=Parasite |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:55:16 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202823405352 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Личность |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 11:52:46 |
@@ -113,27 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202826803594 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Psyduck |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 11:56:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202824829383 |
-| Players | 7/8 |
-| Host Name | KuroiBlazr |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 11:54:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505202826873138 |
-| Players | 1/10 |
-| Host Name | pan pan cul cul |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, November 4, 2023 11:56:55 |
 
 
