@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203026333942 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Timer |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 15:19:33 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203025242281 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | ハーパー |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:18:34 |
@@ -65,33 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 15:17:05 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203026653331 |
-| Players | 1/8 |
-| Host Name | egoisto Legatoro |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 15:19:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203026623716 |
-| Players | 1/8 |
-| Host Name | 我被诅咒了 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 15:19:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203026351879 |
-| Players | 7/8 |
-| Host Name | Маэстро is back |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 15:19:34 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203002809952 |
@@ -101,13 +74,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:57:45 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203026623716 |
+| Players | 4/8 |
+| Host Name | 我被诅咒了 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 15:19:49 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203026956490 |
+| Lobby ID | 28505203027039305 |
+| Players | 1/10 |
+| Host Name | эль чача |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 15:20:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203027169479 |
 | Players | 1/10 |
 | Host Name | aquaпузик |
 | Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 15:20:07 |
+| Lobby Creation Time | Saturday, November 4, 2023 15:20:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203018232294 |
+| Players | 23/24 |
+| Host Name | skynet |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 4, 2023 15:12:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203027117536 |
+| Players | 1/10 |
+| Host Name | Cocktus |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 15:20:16 |
 
 
 |  | epic_boss_fight_nightmare |
