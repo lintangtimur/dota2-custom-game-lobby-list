@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202909249351 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | nissinwafer |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 13:28:13 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202910290141 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | WEED |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 13:29:18 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202910286716 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | The Dead of Marshes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:29:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202909074125 |
-| Players | 12/15 |
-| Host Name | Mr.Bass |
+| Lobby ID | 28505202905266552 |
+| Players | 6/8 |
+| Host Name | El gato con botas |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 13:28:02 |
+| Lobby Creation Time | Saturday, November 4, 2023 13:24:06 |
 
 
 |  | ot3_gardens_duo |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ... |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 13:26:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202905266552 |
-| Players | 7/8 |
-| Host Name | El gato con botas |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 13:24:06 |
 
 
