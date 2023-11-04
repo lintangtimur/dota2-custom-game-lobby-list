@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202762447203 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | MAGISTR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 10:30:28 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202762356329 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | mis causas son kchudos |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 10:30:20 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202762723347 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | MentatsAddict |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 10:30:51 |
@@ -95,28 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202762592019 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Brosnan |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 10:30:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505202762720240 |
-| Players | 2/10 |
-| Host Name | novak |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 10:30:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202762835453 |
-| Players | 3/8 |
-| Host Name | EL DE LA CODEINA |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 10:31:01 |
 
 
 |  | ot3_gardens_duo |
@@ -128,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 10:31:01 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202758259154 |
-| Players | 9/10 |
-| Host Name | Minez |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 10:24:42 |
+| Lobby ID | 28505202762946621 |
+| Players | 2/8 |
+| Host Name | novak |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 10:31:10 |
 
 
 |  | epic_boss_fight_nightmare |
