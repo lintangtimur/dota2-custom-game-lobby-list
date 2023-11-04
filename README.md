@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204115138992 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | ...... |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 04:38:48 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204115730339 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | The Hunter (dead inside) |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Sunday, November 5, 2023 04:39:31 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 04:30:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204116466649 |
-| Players | 4/8 |
-| Host Name | лихач |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 04:40:26 |
+| Lobby ID | 28505204116588679 |
+| Players | 6/15 |
+| Host Name | Elinbarrage |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 5, 2023 04:40:35 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204115128802 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | pwningdude |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 04:38:47 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204115479963 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Сахао |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 04:39:13 |
@@ -95,10 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204115411158 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | SUN ♥ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 04:39:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204116682727 |
+| Players | 1/8 |
+| Host Name | Николай Дроздов |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, November 5, 2023 04:40:42 |
 
 
 |  | epic_boss_fight_normal |
