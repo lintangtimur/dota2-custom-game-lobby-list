@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202966802702 |
-| Players | 7/24 |
-| Host Name | GalxNeko |
+| Players | 6/24 |
+| Host Name | - |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 4, 2023 14:23:55 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202976911753 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | let's win |
 | Region | AUSTRIA |
 | Lobby Creation Time | Saturday, November 4, 2023 14:33:19 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202809061131 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Inahaaaaaaan!!!! |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 4, 2023 11:34:54 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202973289447 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Griefer Jesus |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:29:57 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:29:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202975152719 |
-| Players | 14/15 |
-| Host Name | 110 |
+| Lobby ID | 28505202976715718 |
+| Players | 1/8 |
+| Host Name | гена426 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 14:31:40 |
+| Lobby Creation Time | Saturday, November 4, 2023 14:33:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -128,19 +128,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:33:07 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202976715718 |
-| Players | 1/8 |
-| Host Name | гена426 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 14:33:08 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202971238412 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | trucker |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 14:28:03 |
