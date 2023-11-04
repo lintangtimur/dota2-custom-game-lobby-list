@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202823157250 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | JESUS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 11:52:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202821725608 |
-| Players | 7/8 |
-| Host Name | El MALDITO CREEP |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:50:43 |
+| Lobby ID | 28505202820799611 |
+| Players | 14/15 |
+| Host Name | Aggressive Koala |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 11:49:34 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:10:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202821416968 |
-| Players | 1/24 |
-| Host Name | 123 |
+| Lobby ID | 28505202823860498 |
+| Players | 1/8 |
+| Host Name | Матье Бал |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:50:20 |
+| Lobby Creation Time | Saturday, November 4, 2023 11:53:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202823098959 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | PonToday |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:52:23 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202823342667 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | NO SE |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:52:41 |
@@ -128,19 +128,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:53:15 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202823860498 |
-| Players | 1/8 |
-| Host Name | Матье Бал |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:53:18 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202823210083 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Minez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 11:52:31 |
