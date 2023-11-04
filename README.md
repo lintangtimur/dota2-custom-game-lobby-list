@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202801366155 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:24:54 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202802623057 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Kick.com/lumaid |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:26:32 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202802040941 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Bonitos y gorditos hijos de puta |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:25:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202800706660 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | Deza |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:24:02 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202800419719 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | 52kolobok |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:23:39 |
@@ -92,13 +92,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:25:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202801960762 |
-| Players | 13/15 |
-| Host Name | Sofuer |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 11:25:41 |
+| Lobby ID | 28505202802905348 |
+| Players | 3/10 |
+| Host Name | 床单 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 11:26:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202802896075 |
+| Players | 1/10 |
+| Host Name | Duko |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 11:26:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202802993901 |
+| Players | 1/8 |
+| Host Name | 离手鸳鸯刀 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 11:27:01 |
 
 
 |  | epic_boss_fight_nightmare |
