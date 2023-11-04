@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203153538844 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | feeling the dimensions |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:17:58 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203152364966 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ALEXBYRDASHEV |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:16:51 |
@@ -128,46 +128,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 17:18:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203154362840 |
-| Players | 1/15 |
-| Host Name | Eddy |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 4, 2023 17:18:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203154515937 |
-| Players | 1/8 |
-| Host Name | ИНЖЕНЕР |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 17:18:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203154511174 |
-| Players | 3/8 |
-| Host Name | faint |
+| Lobby ID | 28505203152279294 |
+| Players | 9/10 |
+| Host Name | психокомбинат |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:18:53 |
+| Lobby Creation Time | Saturday, November 4, 2023 17:16:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203150853204 |
-| Players | 6/8 |
-| Host Name | Psevdo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:15:24 |
+| Lobby ID | 28505203154737583 |
+| Players | 1/10 |
+| Host Name | Usurper Beyond the Heaven |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 17:19:06 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203153940191 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Bl@cKM@N |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 17:18:21 |
