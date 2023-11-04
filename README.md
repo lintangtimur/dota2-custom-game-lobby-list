@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203290258619 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 19:05:56 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203291142217 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | < blank > |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 19:06:33 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203291222509 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | ロシアの訓練 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 19:06:36 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203259674134 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | MonkaS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 18:44:37 |
@@ -182,13 +182,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 19:05:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203293856339 |
-| Players | 7/8 |
-| Host Name | akixabara |
+| Lobby ID | 28505203260152658 |
+| Players | 6/10 |
+| Host Name | jonagaper |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 19:08:23 |
+| Lobby Creation Time | Saturday, November 4, 2023 18:44:57 |
 
 
 |  | ot3_gardens_duo |
@@ -230,7 +230,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203253775151 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | Канибал |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 18:40:24 |
@@ -257,8 +257,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203289354339 |
-| Players | 3/10 |
-| Host Name | Drink VODKA Play Dotka |
+| Players | 2/10 |
+| Host Name | Saha10k |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 19:05:19 |
 
@@ -272,22 +272,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 19:08:58 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203294751828 |
+| Players | 1/15 |
+| Host Name | 一殺多生 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 19:08:59 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203294710385 |
-| Players | 3/8 |
-| Host Name | 散仙本坂仓香吉 |
+| Lobby ID | 28505203280586380 |
+| Players | 4/8 |
+| Host Name | Свинотопатам |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 19:08:57 |
+| Lobby Creation Time | Saturday, November 4, 2023 18:59:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203294749144 |
-| Players | 4/10 |
-| Host Name | sss+вайбалов |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 19:08:59 |
+| Lobby ID | 28505203252525811 |
+| Players | 6/15 |
+| Host Name | Картоха |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 18:39:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203294973695 |
+| Players | 1/8 |
+| Host Name | ArnarU |
+| Region | AUSTRIA |
+| Lobby Creation Time | Saturday, November 4, 2023 19:09:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -315,5 +333,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | mrllano |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 19:04:50 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505203292534599 |
+| Players | 9/10 |
+| Host Name | sgt. Daveskie!.... |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 19:07:30 |
 
 
