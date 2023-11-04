@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203986943253 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | #DFined |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 02:23:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203987052056 |
-| Players | 1/8 |
-| Host Name | ) |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, November 5, 2023 02:23:28 |
+| Lobby ID | 28505203987762057 |
+| Players | 3/15 |
+| Host Name | [ALL][MUTED][BE][POSITIVE][GLHF] |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 02:24:08 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203987333198 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | WNR 369 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 02:23:44 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 02:24:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505203988533829 |
-| Players | 1/8 |
-| Host Name | Ростикпро777кибер |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 02:24:52 |
+| Lobby ID | 28505203989039180 |
+| Players | 2/24 |
+| Host Name | kagni |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 02:25:20 |
 
 
 |  | ot3_gardens_duo |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203973162391 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Run Yo Pockets |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 02:10:35 |
@@ -139,11 +139,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203988318078 |
-| Players | 12/15 |
-| Host Name | JJ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 02:24:39 |
+| Lobby ID | 28505203988948630 |
+| Players | 1/15 |
+| Host Name | Kuyac |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 02:25:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -164,24 +164,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 02:23:58 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203987931735 |
-| Players | 2/8 |
-| Host Name | Cvas |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 02:24:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203987762057 |
-| Players | 3/15 |
-| Host Name | [ALL][MUTED][BE][POSITIVE][GLHF] |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 02:24:08 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203983439947 |
@@ -193,20 +175,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203988806512 |
-| Players | 1/8 |
-| Host Name | senbonzakura |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 02:25:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203988792829 |
-| Players | 1/8 |
-| Host Name | MONAME |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 02:25:06 |
+| Lobby ID | 28505203987970451 |
+| Players | 3/8 |
+| Host Name | i drive |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 02:24:20 |
 
 
 |  | epic_boss_fight_challenger |
@@ -225,5 +198,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | микромолекула 1100 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 02:24:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505203989018332 |
+| Players | 1/5 |
+| Host Name | gamealesha.112 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 02:25:19 |
 
 
