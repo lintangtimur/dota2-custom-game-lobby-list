@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202888346930 |
-| Players | 9/24 |
+| Players | 14/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 13:06:03 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202894910823 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Ray |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:13:10 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202895143917 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | upkankul |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:13:25 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 13:14:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202895159839 |
-| Players | 1/15 |
-| Host Name | feeling the dimensions |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 13:13:26 |
+| Lobby ID | 28505202888294783 |
+| Players | 23/24 |
+| Host Name | TSR.iJean_x |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 13:05:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202891887772 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | ~yoKo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 13:09:55 |
@@ -95,46 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202894565652 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Flawless |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 13:12:48 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202894656041 |
-| Players | 13/15 |
-| Host Name | Azog |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 13:12:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202895593398 |
-| Players | 4/8 |
-| Host Name | Топ 100 Антарктиды |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 13:13:53 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202895982584 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Dikey - |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 13:14:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202896089646 |
-| Players | 1/8 |
-| Host Name | Richi Rage |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 13:14:25 |
 
 
 |  | epic_boss_fight_nightmare |
