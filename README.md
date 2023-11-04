@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204043054180 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Ｊａｓｕｓ ｎａｍｅ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 03:19:00 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204040840950 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | cant win without him |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 03:16:40 |
@@ -155,13 +155,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 03:18:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204040137897 |
-| Players | 6/8 |
-| Host Name | RkoOL D: |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, November 5, 2023 03:15:56 |
+| Lobby ID | 28505204041917849 |
+| Players | 4/10 |
+| Host Name | Klaus S |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 03:17:48 |
 
 
 |  | ot3_jungle_quintet |
@@ -176,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204042579051 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | СЛАВЯНСКИЙ БОГ ПЕРУН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 03:18:30 |
@@ -191,19 +191,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 03:18:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204042510021 |
-| Players | 1/8 |
-| Host Name | CCHHIILLIINNGG |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 03:18:26 |
+| Lobby ID | 28505204043370535 |
+| Players | 2/10 |
+| Host Name | трахаю бухаю |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 03:19:20 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204042511251 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | LordPingosTINY :v |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 03:18:26 |
@@ -212,7 +212,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204042813559 |
-| Players | 12/24 |
+| Players | 17/24 |
 | Host Name | Gandric |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 03:18:45 |
@@ -227,24 +227,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 03:19:20 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204043370535 |
-| Players | 2/10 |
-| Host Name | трахаю бухаю |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 03:19:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204041917849 |
-| Players | 4/10 |
-| Host Name | Klaus S |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 03:17:48 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204042626820 |
@@ -254,21 +236,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 03:18:33 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505204040338576 |
-| Players | 1/10 |
-| Host Name | TuRoNs | RUS |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 03:16:09 |
+| Lobby ID | 28505204043550175 |
+| Players | 3/5 |
+| Host Name | Королёв |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, November 5, 2023 03:19:32 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505204043382411 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | iTz |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 03:19:21 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505204043606557 |
+| Players | 1/10 |
+| Host Name | TuRoNs | RUS |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 03:19:35 |
 
 
