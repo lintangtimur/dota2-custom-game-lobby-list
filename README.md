@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202782988480 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | BalZ@_Er |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 10:58:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202780949511 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | "Butters" |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 10:56:01 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202782001629 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | yuyu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 10:57:29 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202782762614 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | lebanon don |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 10:58:33 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 10:58:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202781954060 |
-| Players | 9/10 |
-| Host Name | ... |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 10:57:25 |
+| Lobby ID | 28505202783080804 |
+| Players | 2/24 |
+| Host Name | Enrique |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, November 4, 2023 10:59:00 |
 
 
 |  | ot3_desert_octet |
@@ -119,19 +119,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 10:58:57 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202783080804 |
-| Players | 2/24 |
-| Host Name | Enrique |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, November 4, 2023 10:59:00 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202777619568 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | ComradeHeval |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 10:51:21 |
