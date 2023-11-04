@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202957489173 |
-| Players | 2/10 |
-| Host Name | IceOtter |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Saturday, November 4, 2023 14:15:08 |
+| Lobby ID | 28505202953642417 |
+| Players | 8/10 |
+| Host Name | Reptar The Green |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 4, 2023 14:11:32 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202956949279 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | 大鲶鱼 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:14:37 |
@@ -104,10 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202948625306 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Glückspilz |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:06:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202958499600 |
+| Players | 6/8 |
+| Host Name | pepepopo |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 14:16:04 |
 
 
 |  | epic_boss_fight_hard |
@@ -128,12 +137,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:15:36 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505202958257742 |
-| Players | 1/5 |
-| Host Name | how to play? |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 14:15:51 |
+| Lobby ID | 28505202958406691 |
+| Players | 1/10 |
+| Host Name | Ghee |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 14:15:59 |
 
 
