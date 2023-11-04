@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204197008035 |
-| Players | 16/24 |
+| Players | 22/24 |
 | Host Name | th@n@tos |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:33:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204197191062 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Fartoviy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:33:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204196424404 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Selfish |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:32:42 |
@@ -65,10 +65,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 06:31:57 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204197533223 |
+| Players | 2/8 |
+| Host Name | ¿? |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 06:34:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204195497423 |
+| Players | 9/10 |
+| Host Name | Lil Candice |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 06:31:14 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505204189608871 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | you're scared? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:21:59 |
@@ -99,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Babylon's Sheeplet |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:34:15 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28505204197566990 |
+| Players | 2/7 |
+| Host Name | Roninami |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, November 5, 2023 06:34:30 |
 
 
