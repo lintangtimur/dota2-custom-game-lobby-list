@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203183699269 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | ...... |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 17:45:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203184423295 |
-| Players | 2/15 |
-| Host Name | Tiny |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 17:45:51 |
+| Lobby ID | 28505203184898551 |
+| Players | 3/8 |
+| Host Name | af af |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 17:46:16 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203184596626 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | Kirito |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:46:00 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203184386206 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | дмитрий нагиев |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:45:49 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203181281119 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | feeling the dimensions |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:43:08 |
@@ -117,6 +117,51 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 𓆩 𝕭𝖗𝖆𝖊𝖝 𓆪 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:45:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203184853228 |
+| Players | 4/8 |
+| Host Name | I hate Dota |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 17:46:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203184945795 |
+| Players | 2/10 |
+| Host Name | Cristoforo Colombo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 17:46:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203184987221 |
+| Players | 4/8 |
+| Host Name | horny |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 17:46:20 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203185003290 |
+| Players | 1/24 |
+| Host Name | dikapb_diman |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 17:46:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203185027775 |
+| Players | 2/10 |
+| Host Name | Tiny |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 17:46:22 |
 
 
 |  | epic_boss_fight_nightmare |
