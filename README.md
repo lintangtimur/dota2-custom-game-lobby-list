@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202871226356 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Tserriednich |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:47:09 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202872563448 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Enrage |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:48:35 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202871098153 |
-| Players | 7/8 |
-| Host Name | [D]iomegod |
+| Lobby ID | 28505202872975008 |
+| Players | 1/8 |
+| Host Name | Scrayl |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 12:47:01 |
+| Lobby Creation Time | Saturday, November 4, 2023 12:49:02 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202870291529 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Weganerd |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 4, 2023 12:46:09 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202864965124 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Bayer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:40:21 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202870922647 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Rabbit |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:46:50 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202872858546 |
+| Lobby ID | 28505202873039378 |
 | Players | 1/24 |
-| Host Name | EL MonarCa |
+| Host Name | xJw |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 12:48:54 |
+| Lobby Creation Time | Saturday, November 4, 2023 12:49:06 |
 
 
 |  | epic_boss_fight_nightmare |
