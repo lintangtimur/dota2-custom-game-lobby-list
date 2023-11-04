@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203053518086 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Boogie Woogie O'Man |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 15:44:23 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203053381088 |
-| Players | 7/10 |
+| Players | 5/10 |
 | Host Name | ёбырь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:44:15 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203053672145 |
-| Players | 1/15 |
-| Host Name | naninipa ng pwd |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 15:44:31 |
+| Lobby ID | 28505203049846539 |
+| Players | 14/15 |
+| Host Name | Русский |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 15:40:59 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203054023882 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | QADVA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:44:51 |
@@ -104,18 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203053164367 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | 나를 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:44:03 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28505203054308191 |
-| Players | 1/7 |
-| Host Name | The Truck Monkey Enjoyer_Mr.Crab |
-| Region | AUSTRIA |
-| Lobby Creation Time | Saturday, November 4, 2023 15:45:06 |
 
 
