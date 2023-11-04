@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203159993851 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | MyaCEL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:24:00 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203159628732 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | BoBo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 17:23:39 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203157186255 |
-| Players | 7/10 |
-| Host Name | . |
+| Players | 5/10 |
+| Host Name | god complex |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, November 4, 2023 17:21:23 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203152279294 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | NooBacikKi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:16:46 |
@@ -108,6 +108,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:24:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203153538844 |
+| Players | 3/15 |
+| Host Name | 343 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 17:17:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203160160101 |
+| Players | 2/10 |
+| Host Name | terrible and horrible |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 17:24:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203158778288 |
+| Players | 4/15 |
+| Host Name | Даниил-тебя убил |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 17:22:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203160132750 |
+| Players | 2/10 |
+| Host Name | МАМ,Я-ПОТРОШИТЕЛЬ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 17:24:07 |
 
 
 |  | epic_boss_fight_normal |
