@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204167060375 |
-| Players | 9/10 |
-| Host Name | kimiko |
+| Lobby ID | 28505204167966656 |
+| Players | 2/8 |
+| Host Name | Yiegid |
 | Region | CHILE |
-| Lobby Creation Time | Sunday, November 5, 2023 05:48:47 |
+| Lobby Creation Time | Sunday, November 5, 2023 05:50:03 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204167357138 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Aggressive Koala |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 05:49:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204143984665 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | какта поху |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 05:16:33 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204167240558 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | lm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:49:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204167131780 |
-| Players | 7/8 |
-| Host Name | DJ CUCARACHA |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 05:48:53 |
+| Lobby ID | 28505204167963094 |
+| Players | 2/10 |
+| Host Name | гойда Z |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 05:50:03 |
 
 
 |  | ot3_desert_octet |
@@ -122,25 +122,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204167770823 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | Mystog@n |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 05:49:47 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505204167864720 |
-| Players | 3/24 |
-| Host Name | SUMMA FANNTASY THG |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 05:49:55 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204167865203 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | ПЕРСИДСКИЙ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:49:55 |
