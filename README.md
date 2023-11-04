@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202750588928 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | RyQゆた |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 10:14:06 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202751007972 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | professional feeder |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 10:14:40 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202751585970 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | samurai |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 10:15:27 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202751318832 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | CHIDORIGOFUCHI |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 10:15:05 |
@@ -103,17 +103,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202751522396 |
-| Players | 1/8 |
-| Host Name | 离手鸳鸯刀 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 4, 2023 10:15:22 |
+| Lobby ID | 28505202751507314 |
+| Players | 2/8 |
+| Host Name | Sharuko |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 10:15:21 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202751253710 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ? |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 10:15:00 |
@@ -128,12 +128,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 10:15:11 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202751966198 |
+| Players | 1/24 |
+| Host Name | Azudia |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 10:15:59 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202751507314 |
-| Players | 2/8 |
-| Host Name | Sharuko |
+| Lobby ID | 28505202752026121 |
+| Players | 3/8 |
+| Host Name | O.Steve艾丝 < |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 10:15:21 |
+| Lobby Creation Time | Saturday, November 4, 2023 10:16:04 |
 
 
