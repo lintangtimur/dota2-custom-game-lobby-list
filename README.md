@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:34:54 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202987502806 |
-| Players | 20/24 |
-| Host Name | nigero GEOP |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 14:43:18 |
+| Lobby ID | 28505202990655616 |
+| Players | 1/10 |
+| Host Name | Middleware |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, November 4, 2023 14:46:16 |
 
 
 |  | ot3_desert_octet |
@@ -86,46 +86,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202989360109 |
-| Players | 1/15 |
-| Host Name | SCZ   J FLEX |
+| Players | 2/15 |
+| Host Name | chakalito |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 14:45:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202990655616 |
-| Players | 1/10 |
-| Host Name | Middleware |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 4, 2023 14:46:16 |
+| Lobby ID | 28505202991294416 |
+| Players | 1/15 |
+| Host Name | Azog |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 14:46:51 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202991095492 |
-| Players | 2/8 |
-| Host Name | Ветерок |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 4, 2023 14:46:40 |
+| Lobby ID | 28505202991302849 |
+| Players | 1/8 |
+| Host Name | голубец |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 14:46:52 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202991034331 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | king |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:46:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202991169374 |
-| Players | 1/15 |
-| Host Name | Azog |
+| Lobby ID | 28505202991368642 |
+| Players | 1/8 |
+| Host Name | full rage love |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 4, 2023 14:46:44 |
+| Lobby Creation Time | Saturday, November 4, 2023 14:46:55 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -153,15 +153,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Minez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:44:23 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505202988840481 |
-| Players | 4/5 |
-| Host Name | inadequate |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 14:44:34 |
 
 
 |  | epic_boss_fight_nightmare |
