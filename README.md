@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202809587811 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | инфоцыган |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:35:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202809585491 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Diresuns |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:35:35 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202809061131 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Inahaaaaaaan!!!! |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 4, 2023 11:34:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202809110647 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Phoelix |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:34:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202809359010 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | WEED |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 11:35:17 |
@@ -99,6 +99,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | El gato con botas |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:35:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202808919794 |
+| Players | 12/15 |
+| Host Name | Politician=Parasite |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 11:34:43 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202809919147 |
+| Players | 1/15 |
+| Host Name | Лысый Крендель |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 11:36:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202809956344 |
+| Players | 1/10 |
+| Host Name | bONE |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 11:36:03 |
 
 
 |  | epic_boss_fight_nightmare |
