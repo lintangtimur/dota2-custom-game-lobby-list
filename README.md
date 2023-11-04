@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202840546310 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Enrique |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:12:58 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202839984788 |
-| Players | 14/15 |
-| Host Name | Bloodscourge |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 12:12:18 |
+| Lobby ID | 28505202840628023 |
+| Players | 4/15 |
+| Host Name | XxS4R37H xX |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 12:13:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -137,22 +137,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 12:12:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202840551121 |
-| Players | 1/15 |
-| Host Name | AMA TU PERU CTMRE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 12:12:58 |
+| Lobby ID | 28505202840687500 |
+| Players | 3/24 |
+| Host Name | peach eyes |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 12:13:08 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202840586248 |
-| Players | 4/8 |
-| Host Name | ODIO a los PATOS |
+| Lobby ID | 28505202840727483 |
+| Players | 5/8 |
+| Host Name | Messi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 12:13:01 |
+| Lobby Creation Time | Saturday, November 4, 2023 12:13:11 |
 
 
 |  | epic_boss_fight_normal |
@@ -162,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | winter |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:11:04 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28505202837335559 |
+| Players | 5/7 |
+| Host Name | Papita Frita con Cremas |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 12:09:12 |
 
 
