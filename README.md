@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202903362197 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | Yeager |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 13:22:06 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202905169882 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | J h a n |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 13:24:00 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202904145086 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | НАБАЛДАШНИК |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:22:55 |
@@ -110,15 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 13:26:31 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202907650716 |
-| Players | 7/8 |
-| Host Name | Maliketh La Hoja Negra |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 13:26:35 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202907571130 |
@@ -126,5 +117,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Duck My Sick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 13:26:30 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505202908038120 |
+| Players | 1/5 |
+| Host Name | Aui_2000 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 13:26:59 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505202908048933 |
+| Players | 1/10 |
+| Host Name | biubiubiup |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 13:26:59 |
 
 
