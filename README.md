@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202848898399 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | feeling the dimensions |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:22:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202848025843 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Coloratura |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 12:21:32 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202847917622 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Mcry |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 12:21:24 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202848092684 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:21:36 |
@@ -104,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202848263597 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Phill Dz |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:21:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505202848832817 |
-| Players | 9/10 |
-| Host Name | . |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 12:22:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -126,6 +117,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | хочу татарочку |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:23:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202849821994 |
+| Players | 2/8 |
+| Host Name | unvalibavol |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 12:23:34 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202849852518 |
+| Players | 1/24 |
+| Host Name | MERLYN |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 12:23:36 |
 
 
 |  | epic_boss_fight_nightmare |
