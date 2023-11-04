@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202825993877 |
-| Players | 23/24 |
-| Host Name | Miku |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 11:55:52 |
+| Lobby ID | 28505202827282961 |
+| Players | 1/24 |
+| Host Name | MiniSoGood |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 11:57:25 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:56:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202825514694 |
-| Players | 14/15 |
-| Host Name | Politician=Parasite |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 11:55:16 |
+| Lobby ID | 28505202827257594 |
+| Players | 6/8 |
+| Host Name | Stich |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 11:57:23 |
 
 
 |  | ot3_desert_octet |
@@ -119,6 +119,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:57:09 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202827197487 |
+| Players | 1/24 |
+| Host Name | 蓝胖舌吻双头龙 |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 11:57:18 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202827277832 |
+| Players | 1/24 |
+| Host Name | 阿兹卡班 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 11:57:24 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202827130106 |
@@ -130,19 +148,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505202827141443 |
+| Lobby ID | 28505202827330830 |
 | Players | 1/10 |
-| Host Name | Kidz |
+| Host Name | BadMove |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:57:14 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505202827172379 |
-| Players | 1/5 |
-| Host Name | 나를 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:57:17 |
+| Lobby Creation Time | Saturday, November 4, 2023 11:57:28 |
 
 
