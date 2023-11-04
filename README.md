@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202769771573 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Mcry |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 10:40:33 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 10:41:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202770760960 |
-| Players | 5/8 |
-| Host Name | ♥♥PSICOLOGO♥♥♥ |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 10:41:54 |
+| Lobby ID | 28505202771229286 |
+| Players | 1/24 |
+| Host Name | RyQゆた |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 10:42:33 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202767755584 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Griga |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 10:37:47 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202770161239 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Whatever (x3) |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 10:41:05 |
@@ -83,21 +83,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 10:42:27 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202771284358 |
+| Players | 1/8 |
+| Host Name | ELMO |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 10:42:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202771339480 |
+| Players | 2/15 |
+| Host Name | Shield13 |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 10:42:42 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202763786717 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Booberries |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 10:32:20 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505202768602131 |
-| Players | 9/10 |
-| Host Name | .-. |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 10:38:57 |
 
 
