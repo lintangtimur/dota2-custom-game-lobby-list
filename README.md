@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203827138739 |
-| Players | 2/24 |
+| Players | 8/24 |
 | Host Name | xo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 00:14:03 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203826632806 |
-| Players | 7/8 |
-| Host Name | сигмавотер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 00:13:42 |
+| Lobby ID | 28505203827649866 |
+| Players | 1/8 |
+| Host Name | WingMan Enzo |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 5, 2023 00:14:24 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203827422675 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Sung Jin-Woo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 00:14:15 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 00:14:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203826847111 |
-| Players | 13/15 |
-| Host Name | dead |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 5, 2023 00:13:50 |
+| Lobby ID | 28505203827706082 |
+| Players | 1/8 |
+| Host Name | MixaSpaceTheBest |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, November 5, 2023 00:14:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,25 +113,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203753674712 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | ►►YAMETE KUDASAI→$ |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 23:24:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203827094153 |
-| Players | 7/15 |
-| Host Name | smokey (mira smurf) |
+| Lobby ID | 28505203827898593 |
+| Players | 1/8 |
+| Host Name | white tea |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 00:14:01 |
+| Lobby Creation Time | Sunday, November 5, 2023 00:14:34 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203827056038 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Doggernaut |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 00:13:59 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203784377945 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | E |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 23:44:49 |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203813065378 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | окно в некуда |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 00:04:20 |
@@ -207,5 +207,41 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ДИЗЕЛЬ В ЯЙЦАХ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 00:14:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203827811802 |
+| Players | 1/8 |
+| Host Name | Kukurudza Striptizerka |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 5, 2023 00:14:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203827761601 |
+| Players | 2/10 |
+| Host Name | Lua |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 00:14:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203827885135 |
+| Players | 1/8 |
+| Host Name | qweqwewqeqwqwe |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 00:14:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203827935729 |
+| Players | 1/8 |
+| Host Name | Am1le |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 00:14:36 |
 
 
