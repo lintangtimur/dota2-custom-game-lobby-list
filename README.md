@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203097802483 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | I$uss |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 16:24:56 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203101045401 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | СD и не пизди |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 16:27:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505203100492031 |
-| Players | 14/15 |
-| Host Name | Snowflake:3 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 4, 2023 16:27:27 |
+| Lobby ID | 28505203101202113 |
+| Players | 2/24 |
+| Host Name | Virgo Kyle |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 16:28:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203100386351 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | кобольд бригадир |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:27:21 |
@@ -76,11 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505203101202113 |
+| Lobby ID | 28505203101405541 |
 | Players | 1/24 |
-| Host Name | Virgo Kyle |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 16:28:07 |
+| Host Name | XII |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 4, 2023 16:28:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203101426956 |
+| Players | 3/15 |
+| Host Name | гр |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 16:28:20 |
 
 
 |  | epic_boss_fight_normal |
