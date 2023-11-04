@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202774795257 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Hecker |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 10:47:27 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202773092947 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 10:45:07 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202773905958 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Deza |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 10:46:14 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202774509723 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | EL INSANO WUAZAAA |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 10:47:03 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Solo Leveling |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 10:47:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202775046820 |
+| Players | 3/8 |
+| Host Name | DeadBoy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 10:47:48 |
 
 
 |  | epic_boss_fight_nightmare |
