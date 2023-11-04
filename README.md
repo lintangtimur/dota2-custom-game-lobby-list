@@ -2,138 +2,147 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28503924469490037 |
-| Players | 1/10 |
-| Host Name | :( |
+| Lobby ID | 28505202748843781 |
+| Players | 3/8 |
+| Host Name | KuroiBlazr |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 10:11:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202748937347 |
+| Players | 5/8 |
+| Host Name | PinguinoParador |
 | Region | CHILE |
-| Lobby Creation Time | Friday, November 3, 2023 20:25:35 |
+| Lobby Creation Time | Saturday, November 4, 2023 10:11:51 |
 
 
-|  | epic_boss_fight_challenger |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503924507483228 |
-| Players | 4/7 |
-| Host Name | GG |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 3, 2023 20:46:20 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28503924517661373 |
-| Players | 1/10 |
-| Host Name | Tranquility |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 3, 2023 20:51:48 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28503924519326382 |
-| Players | 6/10 |
-| Host Name | Finish.Attack |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 20:52:41 |
+| Lobby ID | 28505202718571740 |
+| Players | 5/24 |
+| Host Name | Boss James |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 4, 2023 09:27:57 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503924521674989 |
+| Lobby ID | 28505202750218705 |
+| Players | 3/15 |
+| Host Name | , |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 10:13:36 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505103194578512 |
+| Players | 1/10 |
+| Host Name | Fuzgjx |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 03:10:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505103195663814 |
 | Players | 1/15 |
-| Host Name | Squirting in Banana |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 3, 2023 20:53:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503924498347092 |
-| Players | 5/8 |
-| Host Name | Sarapan Srinivasan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 20:41:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503924521687961 |
-| Players | 2/15 |
-| Host Name | Yafu |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 3, 2023 20:53:58 |
+| Host Name | Codename.47 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 03:11:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28503924457504566 |
-| Players | 9/24 |
-| Host Name | KeiiiiGeee! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 20:18:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28503924518321810 |
-| Players | 8/15 |
-| Host Name | 企业家 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 20:52:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503924501428019 |
-| Players | 1/10 |
-| Host Name | EL TIO LINO!! |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 20:43:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28503924519447235 |
-| Players | 7/10 |
-| Host Name | Yondaime |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 3, 2023 20:52:45 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503924504062159 |
-| Players | 3/24 |
-| Host Name | El_GRUFALO_ |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 3, 2023 20:44:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28503924519235215 |
-| Players | 5/8 |
-| Host Name | благородочка |
-| Region | AUSTRIA |
-| Lobby Creation Time | Friday, November 3, 2023 20:52:38 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28503924520098650 |
+| Lobby ID | 28505202744973918 |
 | Players | 1/24 |
-| Host Name | Edit Profile |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 3, 2023 20:53:06 |
+| Host Name | Ranger |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 10:06:22 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28503924522023391 |
-| Players | 4/15 |
-| Host Name | I HATE STUPID KIDS |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 3, 2023 20:54:08 |
+| Lobby ID | 28505202749947205 |
+| Players | 8/15 |
+| Host Name | tiny rat |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 10:13:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202747522992 |
+| Players | 9/10 |
+| Host Name | bsaider |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 10:09:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202750008309 |
+| Players | 1/8 |
+| Host Name | TrueStories |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 10:13:20 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202747902998 |
+| Players | 22/24 |
+| Host Name | Þ±§ PAINKILLER←♠ |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 10:10:26 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202749816707 |
+| Players | 2/24 |
+| Host Name | real human bean |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 10:13:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202748682569 |
+| Players | 2/8 |
+| Host Name | lmao |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 10:11:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202750250199 |
+| Players | 2/10 |
+| Host Name | daradara |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 10:13:38 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202750381447 |
+| Players | 1/15 |
+| Host Name | 胡大虾哩 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Saturday, November 4, 2023 10:13:49 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505202741542580 |
+| Players | 3/10 |
+| Host Name | yotsuba |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 10:01:40 |
 
 
