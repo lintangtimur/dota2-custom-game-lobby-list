@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204199700746 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | BaN el zorro |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:37:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204200163739 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | гойда Z |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:38:39 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204200943188 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Yisus |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:39:54 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 06:38:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204200342731 |
-| Players | 7/8 |
-| Host Name | necrophilia |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 06:38:56 |
+| Lobby ID | 28505204201138675 |
+| Players | 4/15 |
+| Host Name | Aggressive Koala |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 06:40:13 |
 
 
 |  | ot3_desert_octet |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204200966370 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | constinty wearin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:39:57 |
@@ -137,12 +137,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 06:40:02 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204199877758 |
-| Players | 1/5 |
-| Host Name | ☛†THE GOD† |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 06:38:11 |
+| Lobby ID | 28505204201181199 |
+| Players | 1/15 |
+| Host Name | 躺 |
+| Region | Unknown |
+| Lobby Creation Time | Sunday, November 5, 2023 06:40:17 |
 
 
