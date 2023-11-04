@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203069193207 |
-| Players | 8/15 |
+| Players | 6/15 |
 | Host Name | XBOX SERIES Z |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:58:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203076170242 |
-| Players | 5/8 |
-| Host Name | кормушка |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 4, 2023 16:04:57 |
+| Lobby ID | 28505203076352712 |
+| Players | 2/10 |
+| Host Name | Major Bandage |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 16:05:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203074238283 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | [JnM]Nickname |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:03:11 |
@@ -92,19 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 16:04:50 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203076352712 |
-| Players | 2/10 |
-| Host Name | Major Bandage |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:05:07 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203070830399 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Nitva |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:00:05 |
