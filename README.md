@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202919665507 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | GRINGo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:38:41 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202924689262 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | bonbon |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 13:43:34 |
@@ -110,10 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 13:43:42 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202925126514 |
+| Players | 2/10 |
+| Host Name | LOOSER |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 13:43:59 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202919697051 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Mamawebaso |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 13:38:43 |
@@ -149,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28505202923917226 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | Raizel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 13:42:50 |
