@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202785283030 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | SrDumii |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:02:18 |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 10:58:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202785488166 |
-| Players | 1/15 |
-| Host Name | Elden Lord Mingming |
+| Lobby ID | 28505202785790602 |
+| Players | 1/24 |
+| Host Name | NewPlayer |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:02:37 |
+| Lobby Creation Time | Saturday, November 4, 2023 11:03:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -137,28 +137,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:02:32 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202785718456 |
-| Players | 1/24 |
-| Host Name | Gerger |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 11:02:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202785790602 |
-| Players | 1/24 |
-| Host Name | NewPlayer |
+| Lobby ID | 28505202785876419 |
+| Players | 1/8 |
+| Host Name | Ray |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:03:04 |
+| Lobby Creation Time | Saturday, November 4, 2023 11:03:12 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202785928554 |
+| Players | 1/24 |
+| Host Name | 12 vs 12 = Ching Chong dota |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 11:03:16 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202783493387 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | TAPIJARO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 10:59:35 |
