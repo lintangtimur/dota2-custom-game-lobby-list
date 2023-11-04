@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202758320815 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | ♥Miul♥ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 10:24:47 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202759237138 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Priamo v rojy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 10:26:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202758539420 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 10:25:05 |
@@ -95,10 +95,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202758166681 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | Cheb |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 10:24:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202759958851 |
+| Players | 3/8 |
+| Host Name | IA |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 10:27:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202755540598 |
+| Players | 14/15 |
+| Host Name | Ювелир |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 10:20:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202760043966 |
+| Players | 1/15 |
+| Host Name | el payaso |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 10:27:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202760056359 |
+| Players | 1/15 |
+| Host Name | 小猪佩奇 |
+| Region | PWTELECOMGUANGZHOU |
+| Lobby Creation Time | Saturday, November 4, 2023 10:27:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202760063925 |
+| Players | 1/15 |
+| Host Name | The Spiked Spaghetti |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 10:27:11 |
 
 
 |  | epic_boss_fight_nightmare |
