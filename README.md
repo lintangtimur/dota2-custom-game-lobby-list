@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203129522383 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | RednWhite |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:54:37 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 16:54:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203128808008 |
-| Players | 11/15 |
-| Host Name | ewyang |
+| Lobby ID | 28505203129782561 |
+| Players | 2/10 |
+| Host Name | BRAMBRAGE |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:53:56 |
+| Lobby Creation Time | Saturday, November 4, 2023 16:54:52 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203129381063 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 626 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:54:29 |
@@ -101,22 +101,76 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 16:54:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203128206625 |
-| Players | 14/15 |
-| Host Name | positive mental attidute only |
+| Lobby ID | 28505203129660311 |
+| Players | 2/10 |
+| Host Name | marci enjoyer |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:53:21 |
+| Lobby Creation Time | Saturday, November 4, 2023 16:54:45 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203127916780 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | VISHA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:53:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203129658791 |
+| Players | 1/15 |
+| Host Name | кот (или пёс) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 16:54:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203129659163 |
+| Players | 1/15 |
+| Host Name | RED _ Trying To Not Toxic |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 16:54:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203128667632 |
+| Players | 8/10 |
+| Host Name | [1/2 pos] After prime [muted] |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 16:53:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203127601760 |
+| Players | 9/10 |
+| Host Name | Фембойчик пудж |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 16:52:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203129747089 |
+| Players | 2/10 |
+| Host Name | Арбузный Дилер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 16:54:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203129824846 |
+| Players | 1/8 |
+| Host Name | спермобластер |
+| Region | AUSTRIA |
+| Lobby Creation Time | Saturday, November 4, 2023 16:54:54 |
 
 
 |  | epic_boss_fight_normal |
