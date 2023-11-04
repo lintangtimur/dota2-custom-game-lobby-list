@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202844591268 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | DX7 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 4, 2023 12:17:38 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202852934533 |
-| Players | 1/24 |
-| Host Name | 왓츠앱 시리 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 12:27:03 |
+| Lobby ID | 28505202852673892 |
+| Players | 3/8 |
+| Host Name | кекокек |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 12:26:46 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:10:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202851421134 |
-| Players | 13/15 |
-| Host Name | Sofuer |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 12:25:21 |
+| Lobby ID | 28505202852634648 |
+| Players | 8/24 |
+| Host Name | DarkMoon |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 12:26:43 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202809061131 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Inahaaaaaaan!!!! |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 4, 2023 11:34:54 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202852831878 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | KuroiBlazr |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:26:56 |
@@ -113,28 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202852470019 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ✫BawEx✫ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:26:32 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202852634648 |
-| Players | 5/24 |
-| Host Name | DarkMoon |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 12:26:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202852673892 |
-| Players | 3/8 |
-| Host Name | кекокек |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 12:26:46 |
+| Lobby ID | 28505202853099271 |
+| Players | 3/10 |
+| Host Name | Beryllium |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 12:27:14 |
 
 
 |  | epic_boss_fight_nightmare |
