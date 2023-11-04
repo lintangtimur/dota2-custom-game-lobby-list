@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204150702073 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | [UA] Ход Ферзём |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 05:25:50 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204150340950 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Hopelessness |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:25:20 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204149510168 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | los estudios me nerfearon |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 05:24:11 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 05:25:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204149432453 |
-| Players | 1/15 |
-| Host Name | doniwko |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 05:24:04 |
+| Lobby ID | 28505204151135127 |
+| Players | 1/8 |
+| Host Name | ПРОКЛЯТИЕ ГАБЕНА |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 05:26:25 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204150990141 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Запорожец |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:26:13 |
@@ -112,11 +112,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204150918562 |
-| Players | 3/24 |
-| Host Name | DiZoksi4 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 05:26:08 |
+| Lobby ID | 28505204151103897 |
+| Players | 2/24 |
+| Host Name | Sandro |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 05:26:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204151190793 |
+| Players | 1/10 |
+| Host Name | Mr. Suka |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 05:26:30 |
 
 
 |  | epic_boss_fight_nightmare |
