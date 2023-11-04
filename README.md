@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202859247607 |
-| Players | 14/15 |
-| Host Name | Беззубая ТВарь |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 12:34:03 |
+| Lobby ID | 28505202861910207 |
+| Players | 1/15 |
+| Host Name | aWarDeeee |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 12:36:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202860879441 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 12:35:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202860846001 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:35:48 |
@@ -83,24 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 12:36:23 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202861423646 |
-| Players | 8/15 |
-| Host Name | darkwolf2108 |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 12:36:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202860820520 |
-| Players | 8/15 |
-| Host Name | Dr. Chaputin modo Sexo |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 12:35:47 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202861039320 |
@@ -112,20 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202859541275 |
-| Players | 1/15 |
-| Host Name | ⚚V3R!G4⚚™ |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 12:34:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202861910207 |
-| Players | 1/15 |
-| Host Name | aWarDeeee |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 12:36:59 |
+| Lobby ID | 28505202860820520 |
+| Players | 9/15 |
+| Host Name | Dr. Chaputin modo Sexo |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 12:35:47 |
 
 
 |  | epic_boss_fight_nightmare |
