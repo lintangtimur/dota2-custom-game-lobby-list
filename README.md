@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204042439397 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | 諦めないのがオレの魔 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 03:18:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204044006464 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | The Hunter (dead inside) |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Sunday, November 5, 2023 03:20:01 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204040413075 |
-| Players | 4/15 |
-| Host Name | Youre racist niggan b1tch. |
+| Players | 2/15 |
+| Host Name | Save_Gaza_Children |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 03:16:13 |
 
@@ -140,8 +140,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204040619614 |
-| Players | 4/8 |
-| Host Name | Антон |
+| Players | 3/8 |
+| Host Name | Vasiliy_Thief |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 03:16:26 |
 
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204044166095 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | SantiiSc |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 03:20:10 |
@@ -191,19 +191,91 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 03:20:10 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204045060791 |
+| Players | 3/15 |
+| Host Name | Яєчко Олег |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, November 5, 2023 03:21:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204045004958 |
+| Players | 5/10 |
+| Host Name | SenSey |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 03:21:03 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204044861167 |
-| Players | 5/8 |
-| Host Name | Негативный |
+| Lobby ID | 28505204044496269 |
+| Players | 6/8 |
+| Host Name | 5 нашка |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 03:20:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204042579051 |
+| Players | 13/15 |
+| Host Name | 88_Carnage ( Reich ) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 03:18:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204044928578 |
+| Players | 1/15 |
+| Host Name | Joujoc |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, November 5, 2023 03:20:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204044916475 |
+| Players | 2/15 |
+| Host Name | жиган лимон |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 03:20:54 |
+| Lobby Creation Time | Sunday, November 5, 2023 03:20:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204043721687 |
+| Players | 6/8 |
+| Host Name | дэд инсульт |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 03:19:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204045058267 |
+| Players | 1/8 |
+| Host Name | ДИКИЙ БАНАН В ПОПКЕ |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 03:21:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204045061444 |
+| Players | 1/8 |
+| Host Name | отрицательные +30 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 03:21:07 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204044209317 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | TuRoNs | RUS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 03:20:13 |
