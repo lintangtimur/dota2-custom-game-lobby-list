@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204198784024 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | mist1l |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:36:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204198911395 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | dW |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:36:38 |
@@ -103,17 +103,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204181664863 |
-| Players | 23/24 |
-| Host Name | 22AcaciaAvenue |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, November 5, 2023 06:09:57 |
+| Lobby ID | 28505204199086358 |
+| Players | 1/24 |
+| Host Name | Erick |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 06:36:55 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204198179852 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Drakalian the Dragon King |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:35:28 |
@@ -126,6 +126,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Тайно Дернул |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:36:43 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204199051126 |
+| Players | 2/15 |
+| Host Name | Разрушитель |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 06:36:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204197791168 |
+| Players | 7/8 |
+| Host Name | COSMO EL GATO |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, November 5, 2023 06:34:51 |
 
 
 |  | epic_boss_fight_nightmare |
