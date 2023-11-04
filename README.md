@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203102330839 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | DarikMoLoi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:29:11 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203095231924 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | Bagzy |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 4, 2023 16:22:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203102850080 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | twitch.tv/p0ma3abp |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:29:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203102747445 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Prionzombie |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:29:35 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PROROK EVGENIY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:29:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203103145974 |
+| Players | 1/8 |
+| Host Name | радик можно разоб |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 16:29:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203103162829 |
+| Players | 1/24 |
+| Host Name | Umka >_< |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 4, 2023 16:29:59 |
 
 
 |  | epic_boss_fight_normal |
