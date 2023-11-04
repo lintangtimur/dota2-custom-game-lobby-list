@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203098990620 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | < blank > |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:26:02 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203098407561 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Riku |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 16:25:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203095231924 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Bagzy |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 4, 2023 16:22:33 |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203099769028 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Apxfly |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:26:46 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203099986382 |
+| Players | 1/24 |
+| Host Name | Messi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 16:26:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203100032737 |
+| Players | 1/8 |
+| Host Name | Schmuggler |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 16:27:01 |
 
 
 |  | epic_boss_fight_normal |
@@ -104,9 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203098146124 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Moon Knight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:25:15 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505203099975635 |
+| Players | 1/10 |
+| Host Name | у меня  нет прав |
+| Region | AUSTRIA |
+| Lobby Creation Time | Saturday, November 4, 2023 16:26:58 |
 
 
