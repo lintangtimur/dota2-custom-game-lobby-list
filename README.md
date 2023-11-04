@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204197008035 |
-| Players | 5/24 |
+| Players | 11/24 |
 | Host Name | th@n@tos |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:33:37 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204181664863 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 5, 2023 06:09:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204196424404 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Selfish |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:32:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204195470213 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:31:12 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204195841971 |
-| Players | 14/15 |
-| Host Name | Exército de Tilambucano |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, November 5, 2023 06:31:47 |
+| Lobby ID | 28505204197316135 |
+| Players | 1/15 |
+| Host Name | nihil |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 06:34:06 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204196091492 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Misho |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:32:10 |
@@ -104,19 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204197191062 |
-| Players | 3/15 |
-| Host Name | Ychus |
+| Players | 4/15 |
+| Host Name | Fartoviy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:33:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204197218767 |
-| Players | 3/8 |
-| Host Name | CHATITO GAS |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 06:33:57 |
+| Lobby ID | 28505204186934480 |
+| Players | 23/24 |
+| Host Name | ahUO |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, November 5, 2023 06:17:54 |
 
 
 |  | epic_boss_fight_normal |
