@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203110054877 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | necrophilia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:36:24 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203109925936 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | BRAMBRAGE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:36:17 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203111872274 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | ewyang |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:38:05 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | pr0skill проскилович ^_^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:37:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203112167206 |
+| Players | 3/8 |
+| Host Name | ПОЛУЧПОКЕР |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 16:38:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203112169875 |
+| Players | 1/8 |
+| Host Name | ニカが大好きです |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 16:38:22 |
 
 
 |  | epic_boss_fight_normal |
