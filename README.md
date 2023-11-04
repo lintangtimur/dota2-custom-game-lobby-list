@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202790224440 |
-| Players | 6/24 |
+| Players | 12/24 |
 | Host Name | [JnM]Nickname |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 11:09:29 |
@@ -92,11 +92,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:10:03 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202790803451 |
+| Players | 1/24 |
+| Host Name | W®13 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 11:10:18 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202790729433 |
+| Players | 1/24 |
+| Host Name | El Tilin humilde |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 11:10:12 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202787873111 |
-| Players | 2/10 |
-| Host Name | PAPARACHI |
+| Players | 1/10 |
+| Host Name | Ω.SiggyIzz.フリッツ |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:06:05 |
 
