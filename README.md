@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203222280265 |
-| Players | 7/8 |
-| Host Name | barc |
+| Lobby ID | 28505203217942179 |
+| Players | 4/8 |
+| Host Name | coldichip(`з´) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 18:17:14 |
+| Lobby Creation Time | Saturday, November 4, 2023 18:13:53 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203230138369 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Buu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 18:23:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203229530359 |
-| Players | 6/10 |
-| Host Name | <{SAM S!CK}> |
+| Lobby ID | 28505203229141124 |
+| Players | 9/15 |
+| Host Name | [A] Projekt Red |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 18:22:42 |
+| Lobby Creation Time | Saturday, November 4, 2023 18:22:25 |
 
 
 |  | ot3_desert_octet |
@@ -69,7 +69,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505203231574374 |
 | Players | 10/15 |
-| Host Name | Я НЕ ЕБАЛСЯ |
+| Host Name | TKey669 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 18:24:12 |
 
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203231708774 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | :3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 18:24:18 |
@@ -122,45 +122,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203211567003 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Kawaii Tolkien Black Jesus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 18:08:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505203217942179 |
-| Players | 3/8 |
-| Host Name | coldichip(`з´) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 18:13:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203229141124 |
-| Players | 8/15 |
-| Host Name | [A] Projekt Red |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 18:22:25 |
+| Lobby ID | 28505203232790410 |
+| Players | 1/24 |
+| Host Name | Teudoongie |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 4, 2023 18:25:06 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203228655461 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Shallowdream、 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 18:22:03 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505203232607076 |
-| Players | 1/5 |
-| Host Name | Diclonius |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 4, 2023 18:24:58 |
 
 
