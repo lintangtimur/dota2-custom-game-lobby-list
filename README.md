@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202966802702 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | Gigachad thundercock |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 4, 2023 14:23:55 |
@@ -101,19 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:53:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202992446948 |
-| Players | 9/10 |
-| Host Name | JUANETO MAMANE QUESPE (TO PAPE) |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 14:47:55 |
+| Lobby ID | 28505202998806741 |
+| Players | 6/8 |
+| Host Name | newbie lasthit practitioner |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 14:53:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202997954893 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | 路人 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:53:08 |
@@ -128,13 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:53:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202998806741 |
-| Players | 6/8 |
-| Host Name | newbie lasthit practitioner |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 14:53:57 |
+| Lobby ID | 28505202993917320 |
+| Players | 13/15 |
+| Host Name | lebanon don |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 14:49:18 |
 
 
 |  | epic_boss_fight_nightmare |
