@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204152889865 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | Работайте БРАТЬЯ!!!! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:28:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204149510168 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | los estudios me nerfearon |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 05:24:11 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204153019606 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Людмила Базука |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:29:01 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204152639949 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | СруСкие есть? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:28:29 |
@@ -108,6 +108,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Живчик |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 05:28:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204153176194 |
+| Players | 2/15 |
+| Host Name | mozzarella thief |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 05:29:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204153227584 |
+| Players | 1/15 |
+| Host Name | mamania |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 05:29:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204153200077 |
+| Players | 1/15 |
+| Host Name | danya mulatkin |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 05:29:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204153214503 |
+| Players | 1/8 |
+| Host Name | ISAAC_BBX |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 05:29:17 |
 
 
 |  | epic_boss_fight_normal |
