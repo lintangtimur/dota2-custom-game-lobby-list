@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202788436959 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | @lexkill.com... |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:06:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202788144500 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | CURSE |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:06:28 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202787680408 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Hulumullu! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:05:48 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202787044240 |
-| Players | 3/10 |
-| Host Name | JNK |
+| Players | 1/10 |
+| Host Name | Lordssolador |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 11:04:53 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202785215083 |
-| Players | 8/10 |
-| Host Name | райан гослинг |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:02:12 |
+| Lobby ID | 28505202788805380 |
+| Players | 3/10 |
+| Host Name | SALAMANDER_KING |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 11:07:25 |
 
 
 |  | ot3_jungle_quintet |
@@ -113,19 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202788203744 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | miley cyrex |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 11:06:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505202788805380 |
-| Players | 2/10 |
-| Host Name | SALAMANDER_KING |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 11:07:25 |
 
 
 |  | epic_boss_fight_nightmare |
