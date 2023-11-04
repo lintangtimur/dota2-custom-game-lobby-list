@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204130761285 |
-| Players | 8/10 |
-| Host Name | AaronAM |
+| Lobby ID | 28505204130603109 |
+| Players | 2/10 |
+| Host Name | CachaPerras |
 | Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 04:58:33 |
+| Lobby Creation Time | Sunday, November 5, 2023 04:58:21 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204131569997 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Puntito( El Maximo Exponente) |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 04:59:37 |
@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505204131010762 |
 | Players | 2/24 |
-| Host Name | OnMuZoon |
+| Host Name | WEED |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 04:58:53 |
 
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 04:59:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204131644212 |
-| Players | 1/8 |
-| Host Name | KONSTANTIN! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 04:59:43 |
+| Lobby ID | 28505204131852647 |
+| Players | 5/10 |
+| Host Name | Thawne |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 04:59:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204126283512 |
-| Players | 16/24 |
+| Players | 21/24 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 04:52:45 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204130963088 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Elinbarrage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 04:58:49 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204130642178 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | .tv/iqpr0 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 04:58:24 |
@@ -139,38 +139,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204130603109 |
-| Players | 2/10 |
-| Host Name | CachaPerras |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 04:58:21 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204131782574 |
-| Players | 1/10 |
-| Host Name | proebano |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 04:59:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204131852647 |
-| Players | 5/10 |
-| Host Name | Thawne |
+| Lobby ID | 28505204131230127 |
+| Players | 9/10 |
+| Host Name | ЕБАДОЛБ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 04:59:59 |
+| Lobby Creation Time | Sunday, November 5, 2023 04:59:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204131917521 |
-| Players | 1/10 |
-| Host Name | ♥mylose♥<3 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 05:00:05 |
+| Lobby ID | 28505204130400181 |
+| Players | 7/8 |
+| Host Name | LA CALILA |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, November 5, 2023 04:58:05 |
 
 
 |  | epic_boss_fight_hard |
@@ -191,12 +173,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 04:59:53 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505204131918018 |
-| Players | 1/5 |
-| Host Name | ETESKIN |
+| Lobby ID | 28505204132045219 |
+| Players | 1/10 |
+| Host Name | ? |
 | Region | JAPAN |
-| Lobby Creation Time | Sunday, November 5, 2023 05:00:05 |
+| Lobby Creation Time | Sunday, November 5, 2023 05:00:16 |
 
 
