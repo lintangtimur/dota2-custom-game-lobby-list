@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202718571740 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Zaros |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 4, 2023 09:27:57 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202760043966 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | el payaso |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 10:27:09 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202758539420 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 10:25:05 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202759543873 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | 企业家 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 10:26:28 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202761466457 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | 9527 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 10:29:07 |
