@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203655704392 |
-| Players | 7/15 |
+| Players | 4/15 |
 | Host Name | bu tai xing a xiao lao di |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 22:28:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203564028469 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Артак Хаммер 777 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 21:40:29 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 22:26:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203666822394 |
-| Players | 4/8 |
-| Host Name | Dyrachyo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 22:34:28 |
+| Lobby ID | 28505203669561741 |
+| Players | 1/10 |
+| Host Name | Br0ker |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 22:35:55 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203666041913 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | мой дом это ветер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 22:34:03 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203661231214 |
-| Players | 5/8 |
-| Host Name | feero |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 22:31:31 |
+| Lobby ID | 28505203668626984 |
+| Players | 6/8 |
+| Host Name | Afghanistan |
+| Region | AUSTRIA |
+| Lobby Creation Time | Saturday, November 4, 2023 22:35:25 |
 
 
 |  | ot3_desert_octet |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203668836311 |
-| Players | 3/15 |
+| Players | 10/15 |
 | Host Name | BYVSHIY HATER RLARLA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 22:35:32 |
@@ -157,44 +157,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203668626984 |
-| Players | 4/8 |
-| Host Name | Afghanistan |
-| Region | AUSTRIA |
-| Lobby Creation Time | Saturday, November 4, 2023 22:35:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203669561741 |
-| Players | 1/10 |
-| Host Name | Br0ker |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 22:35:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203640737358 |
-| Players | 11/15 |
-| Host Name | makdak1111 |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 22:20:45 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505203669601655 |
-| Players | 1/24 |
-| Host Name | brioba |
+| Lobby ID | 28505203669824131 |
+| Players | 5/8 |
+| Host Name | Prostolan |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 22:35:56 |
+| Lobby Creation Time | Saturday, November 4, 2023 22:36:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203669930812 |
+| Players | 4/8 |
+| Host Name | angel lean |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 22:36:07 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203650132998 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | kill20_die300 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 22:25:41 |
@@ -203,7 +185,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203667518601 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Бавовна |
 | Region | AUSTRIA |
 | Lobby Creation Time | Saturday, November 4, 2023 22:34:50 |
