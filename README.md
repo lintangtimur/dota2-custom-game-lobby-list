@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 20:14:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203408391731 |
-| Players | 14/15 |
-| Host Name | r3d |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 20:16:08 |
+| Lobby ID | 28505203398221328 |
+| Players | 6/10 |
+| Host Name | Batal |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 20:10:34 |
 
 
 |  | ot3_gardens_duo |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203411192355 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | hope |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 4, 2023 20:17:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203389828148 |
-| Players | 10/15 |
-| Host Name | I HATE STUPID KIDS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 20:05:52 |
+| Lobby ID | 28505203415115105 |
+| Players | 2/10 |
+| Host Name | black enegry drink |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 20:19:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203366120907 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ' Q ' |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 19:52:29 |
@@ -113,34 +113,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203414908815 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Kakas |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 20:19:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203415115105 |
-| Players | 2/10 |
-| Host Name | black enegry drink |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 20:19:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203398221328 |
-| Players | 5/10 |
-| Host Name | Batal |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 20:10:34 |
+| Lobby ID | 28505203415585458 |
+| Players | 1/8 |
+| Host Name | WAYNE |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 4, 2023 20:20:07 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203396866766 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | KERRIGAN |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 20:09:49 |
