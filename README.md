@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202844591268 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | DX7 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 4, 2023 12:17:38 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202852673892 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | кекокек |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:26:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202852634648 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | DarkMoon |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:26:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202809061131 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Inahaaaaaaan!!!! |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 4, 2023 11:34:54 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202852709943 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Дристающий Ангел |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:26:48 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202852831878 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | KuroiBlazr |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:26:56 |
@@ -122,10 +122,73 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202853099271 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Beryllium |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:27:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202848263597 |
+| Players | 19/24 |
+| Host Name | Phill Dz |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 12:21:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202853205853 |
+| Players | 1/15 |
+| Host Name | AMA TU PERU CTMRE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 12:27:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202853256453 |
+| Players | 1/15 |
+| Host Name | carlitos |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 12:27:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202853231810 |
+| Players | 1/15 |
+| Host Name | Tyler56 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 12:27:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202851421134 |
+| Players | 14/15 |
+| Host Name | Sofuer |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 12:25:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202853277521 |
+| Players | 1/15 |
+| Host Name | arp |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 12:27:26 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202853278225 |
+| Players | 1/24 |
+| Host Name | 왓츠앱 시리 |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 4, 2023 12:27:26 |
 
 
 |  | epic_boss_fight_nightmare |
