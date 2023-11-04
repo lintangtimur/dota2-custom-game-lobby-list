@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 13:06:03 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202887766709 |
-| Players | 23/24 |
-| Host Name | Phill Dz |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 13:05:24 |
+| Lobby ID | 28505202887798591 |
+| Players | 8/10 |
+| Host Name | Nanaue364 |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 13:05:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202892487643 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Матье Бал |
 | Region | AUSTRIA |
 | Lobby Creation Time | Saturday, November 4, 2023 13:10:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202883079911 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | kels |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 13:00:02 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202891774084 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Egotheist |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:09:47 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202889691504 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Wahaha! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:07:31 |
@@ -128,39 +128,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 13:11:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202887798591 |
-| Players | 7/10 |
-| Host Name | Nanaue364 |
+| Lobby ID | 28505202894040977 |
+| Players | 1/15 |
+| Host Name | onaforp xessib |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 13:05:26 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505202893864669 |
-| Players | 1/10 |
-| Host Name | cupido |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 13:12:03 |
+| Lobby Creation Time | Saturday, November 4, 2023 13:12:14 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202880318322 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Big Gringo |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:57:01 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505202893847837 |
-| Players | 2/7 |
-| Host Name | Flexflouzen |
+| Lobby ID | 28505202894017210 |
+| Players | 1/10 |
+| Host Name | Wattson Player |
 | Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 13:12:02 |
+| Lobby Creation Time | Saturday, November 4, 2023 13:12:13 |
 
 
