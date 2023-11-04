@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:00:56 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202782001629 |
-| Players | 22/24 |
-| Host Name | yuyu |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 10:57:29 |
+| Lobby ID | 28505202785283030 |
+| Players | 3/8 |
+| Host Name | SrDumii |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 11:02:18 |
 
 
 |  | ot3_gardens_duo |
@@ -67,26 +67,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202783047617 |
-| Players | 20/24 |
-| Host Name | 1 |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 10:58:57 |
+| Lobby ID | 28505202785675639 |
+| Players | 1/24 |
+| Host Name | RyQゆた |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 11:02:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202783830705 |
-| Players | 14/15 |
-| Host Name | Moonlight |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 11:00:05 |
+| Lobby ID | 28505202785262672 |
+| Players | 6/15 |
+| Host Name | Waal._ |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 11:02:16 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202785086031 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | Mcry |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:02:01 |
@@ -104,37 +104,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202785230066 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | folder |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:02:14 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202785394339 |
+| Players | 1/24 |
+| Host Name | BUTUH DANA CEPAT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 11:02:28 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202785262672 |
-| Players | 3/15 |
-| Host Name | Waal._ |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 11:02:16 |
+| Lobby ID | 28505202785488166 |
+| Players | 1/15 |
+| Host Name | Elden Lord Mingming |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 11:02:37 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202785283030 |
+| Lobby ID | 28505202785436718 |
 | Players | 1/8 |
-| Host Name | SrDumii |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 11:02:18 |
+| Host Name | 李沖 ZENONZARD |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 11:02:32 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202783815463 |
-| Players | 1/10 |
-| Host Name | a |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 11:00:03 |
+| Lobby ID | 28505202783047617 |
+| Players | 20/24 |
+| Host Name | 1 |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 10:58:57 |
 
 
 |  | epic_boss_fight_nightmare |
