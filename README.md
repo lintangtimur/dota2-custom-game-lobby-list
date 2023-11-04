@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202784811149 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:01:36 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202784368651 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | paradise |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:00:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202785283030 |
-| Players | 6/8 |
-| Host Name | SrDumii |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 11:02:18 |
+| Lobby ID | 28505202786290529 |
+| Players | 1/10 |
+| Host Name | skado |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 11:03:48 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202785262672 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Waal._ |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:02:16 |
@@ -122,37 +122,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202785949540 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | RyQゆた |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 11:03:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202786047563 |
-| Players | 1/24 |
-| Host Name | poo-zinping |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 11:03:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202786175016 |
-| Players | 1/15 |
-| Host Name | Sṃäŕẗṗḧöńệ彡 |
+| Lobby ID | 28505202786195292 |
+| Players | 3/10 |
+| Host Name | avix |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 11:03:38 |
+| Lobby Creation Time | Saturday, November 4, 2023 11:03:40 |
 
 
-|  | ot3_demo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202786193051 |
-| Players | 1/1 |
+| Lobby ID | 28505202786286412 |
+| Players | 1/8 |
 | Host Name | 大宝剑 |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 4, 2023 11:03:40 |
+| Lobby Creation Time | Saturday, November 4, 2023 11:03:48 |
 
 
 |  | epic_boss_fight_nightmare |
