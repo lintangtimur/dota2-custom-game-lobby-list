@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204107415812 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | UtErRnaL WuRm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 04:29:31 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204105297533 |
-| Players | 19/24 |
+| Players | 15/24 |
 | Host Name | Злая волчица |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 04:27:00 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204105965675 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | ViralSpiral |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 04:27:48 |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 04:28:25 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505204105385473 |
-| Players | 9/10 |
-| Host Name | Booberries |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 04:27:06 |
 
 
