@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203017189365 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | отставной |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:11:08 |
@@ -58,29 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203017540326 |
-| Players | 3/8 |
-| Host Name | Maybe |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 15:11:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28505203017558913 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Me tocan ratas en mi equipo} |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 15:11:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203017606622 |
-| Players | 1/15 |
-| Host Name | SkYliNel2 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 15:11:31 |
+| Lobby ID | 28505203017824414 |
+| Players | 1/8 |
+| Host Name | Тайлер Дырдырчик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 15:11:43 |
 
 
 |  | epic_boss_fight_nightmare |
