@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202933880517 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Son of Mulyarchuk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:52:32 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202936489141 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | ТОНИ СТАРК (IRON MAN) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:55:04 |
@@ -108,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lippi |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 13:56:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202937857511 |
+| Players | 1/24 |
+| Host Name | 蓝胖舌吻双头龙 |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 4, 2023 13:56:24 |
 
 
 |  | epic_boss_fight_nightmare |
