@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202936687758 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Я ЕСТЬ ГРУТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:55:15 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202936489141 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | ТОНИ СТАРК (IRON MAN) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:55:04 |
@@ -92,13 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 13:55:38 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202937545643 |
-| Players | 1/24 |
-| Host Name | 🌸温柔 丶小太陽🌸 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 13:56:05 |
+| Lobby ID | 28505202937593334 |
+| Players | 1/8 |
+| Host Name | pepegucci |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 13:56:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202937720547 |
+| Players | 1/15 |
+| Host Name | Lippi |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 13:56:16 |
 
 
 |  | epic_boss_fight_nightmare |
