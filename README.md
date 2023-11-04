@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202859358874 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Reniec |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:34:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202857368248 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | THC |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:31:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202857908637 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | ☥†A.K.A AlienEv†☥ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:32:34 |
@@ -103,17 +103,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202856443009 |
-| Players | 9/10 |
-| Host Name | NO SE |
+| Lobby ID | 28505202859593976 |
+| Players | 7/10 |
+| Host Name | dW |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 12:30:57 |
+| Lobby Creation Time | Saturday, November 4, 2023 12:34:26 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202858858950 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Freshy |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:33:37 |
@@ -173,21 +173,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 12:34:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202859571437 |
-| Players | 4/8 |
-| Host Name | kris |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 12:34:24 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505202858970240 |
-| Players | 1/10 |
-| Host Name | ComradeHeval |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 4, 2023 12:33:44 |
+| Lobby ID | 28505202859598157 |
+| Players | 7/15 |
+| Host Name | OutlandeR. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 12:34:26 |
 
 
