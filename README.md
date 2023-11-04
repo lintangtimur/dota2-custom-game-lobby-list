@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202951390239 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | king of fools |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:09:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202948625306 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Nemro |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:06:47 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202950488273 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | [R][O][A][M] |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 14:08:33 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202949803507 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | (-_-) dragon rider (-_-) |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:07:54 |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202952746973 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Guadianeitor.giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 14:10:41 |
@@ -167,9 +167,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505202948658759 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Евстолий |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:06:49 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505202952873764 |
+| Players | 1/5 |
+| Host Name | xsilenser |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, November 4, 2023 14:10:48 |
 
 
