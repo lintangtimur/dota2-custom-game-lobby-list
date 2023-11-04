@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202966802702 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Gigachad thundercock |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 4, 2023 14:23:55 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202986308665 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | no excuses |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:42:10 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202987502806 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:43:18 |
@@ -113,8 +113,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202983496590 |
-| Players | 5/8 |
-| Host Name | син капрісуна |
+| Players | 4/8 |
+| Host Name | Попу-лизатор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:39:31 |
 
@@ -122,10 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202987604183 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | O.o |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:43:24 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202987870223 |
+| Players | 1/10 |
+| Host Name | heyheyhey |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 14:43:39 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -162,5 +171,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Just subscribe for Linda H |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:43:21 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505202987996900 |
+| Players | 1/10 |
+| Host Name | Minez |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 14:43:46 |
 
 
