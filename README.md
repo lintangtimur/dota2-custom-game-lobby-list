@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202837914095 |
-| Players | 12/24 |
+| Players | 18/24 |
 | Host Name | Martin-Luther-King. |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:09:53 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202837197597 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Pachacutec |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:09:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202835699364 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Plastic Pop can |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 12:07:18 |
@@ -110,40 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 12:11:09 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202839289712 |
-| Players | 2/15 |
-| Host Name | biyabo |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 12:11:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202837808315 |
-| Players | 13/15 |
-| Host Name | ПРЕСС КАЧАТ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 12:09:45 |
+| Lobby ID | 28505202839481685 |
+| Players | 1/24 |
+| Host Name | szunari |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 12:11:43 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202839329448 |
-| Players | 1/10 |
-| Host Name | Batang Gi Quiapoy |
+| Lobby ID | 28505202839397712 |
+| Players | 2/10 |
+| Host Name | TIO RAMBITO -v |
 | Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 12:11:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202839339553 |
-| Players | 1/8 |
-| Host Name | Ах*евший Байкер |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 4, 2023 12:11:33 |
+| Lobby Creation Time | Saturday, November 4, 2023 12:11:37 |
 
 
 |  | epic_boss_fight_challenger |
