@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203735282475 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Пивная хрюша |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 23:13:17 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 23:12:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203735081087 |
-| Players | 4/10 |
-| Host Name | Sparatun o.0 |
+| Lobby ID | 28505203728436458 |
+| Players | 7/8 |
+| Host Name | ϟ GROM ϟ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 23:13:10 |
+| Lobby Creation Time | Saturday, November 4, 2023 23:09:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -194,7 +194,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203624766863 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Jefferson |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 22:12:22 |
@@ -252,5 +252,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Vincenzo Cassano |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 23:12:51 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505203735842147 |
+| Players | 1/5 |
+| Host Name | ✖ transcendental ✖ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 23:13:38 |
 
 
