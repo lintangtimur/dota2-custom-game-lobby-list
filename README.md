@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202791660349 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | 大鲶鱼 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 11:11:32 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202791647648 |
-| Players | 6/8 |
-| Host Name | isn't like holding to the center |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 11:11:31 |
+| Lobby ID | 28505202794113554 |
+| Players | 1/8 |
+| Host Name | Richi Rage |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 11:14:58 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202791605333 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Arctic Prophecie |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:11:28 |
@@ -130,11 +130,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202794113554 |
+| Lobby ID | 28505202794220548 |
 | Players | 1/8 |
-| Host Name | Richi Rage |
+| Host Name | Rayha on 165hz |
 | Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 11:14:58 |
+| Lobby Creation Time | Saturday, November 4, 2023 11:15:07 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202794163618 |
+| Players | 1/24 |
+| Host Name | »DatMPy◘ |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 11:15:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202792300754 |
+| Players | 14/15 |
+| Host Name | Struggle |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 11:12:27 |
 
 
 |  | epic_boss_fight_normal |
