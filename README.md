@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203519679342 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Blackberry Thunder |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 21:17:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203439623224 |
-| Players | 20/24 |
-| Host Name | dobriy |
+| Lobby ID | 28505203389828148 |
+| Players | 7/15 |
+| Host Name | Фант |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 20:33:32 |
+| Lobby Creation Time | Saturday, November 4, 2023 20:05:52 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203527138124 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | [ALL][MUTED][BE][POSITIVE][GLHF] |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 21:21:14 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203533917474 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | ged |
 | Region | AUSTRIA |
 | Lobby Creation Time | Saturday, November 4, 2023 21:24:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203531079634 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Пупочный катышек |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 21:23:18 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203532424604 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | dele lang |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 21:24:01 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203534234417 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | SleepLess |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 21:24:58 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203534404320 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Kärss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 21:25:03 |
@@ -194,7 +194,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203486402146 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | Neoicebear |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 20:59:28 |
@@ -221,7 +221,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203533316617 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Ярик Добрый |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 21:24:29 |
@@ -230,7 +230,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203536155081 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Бархатные тяги |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 21:25:59 |
@@ -284,9 +284,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203536159725 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | демон ебаный |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 21:25:59 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505203512015933 |
+| Players | 8/10 |
+| Host Name | 不狂菜狗子 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 21:13:14 |
 
 
