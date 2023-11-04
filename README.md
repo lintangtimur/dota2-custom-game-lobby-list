@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202773933297 |
-| Players | 8/15 |
-| Host Name | Kure Raian//我回来了 |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 10:46:16 |
+| Lobby ID | 28505202774914139 |
+| Players | 1/15 |
+| Host Name | Solo Leveling |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 10:47:37 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202773092947 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 10:45:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202771229286 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | RyQゆた |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 10:42:33 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202773826771 |
-| Players | 11/15 |
-| Host Name | Naruto |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 10:46:07 |
+| Lobby ID | 28505202775140802 |
+| Players | 2/15 |
+| Host Name | Dom |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 10:47:56 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202773905958 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Deza |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 10:46:14 |
@@ -83,37 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 10:46:33 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202775140802 |
-| Players | 2/15 |
-| Host Name | Dom |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 10:47:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202774914139 |
-| Players | 1/15 |
-| Host Name | Solo Leveling |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 10:47:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202775046820 |
-| Players | 3/8 |
-| Host Name | DeadBoy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 10:47:48 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202763786717 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | ComradeHeval |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 10:32:20 |
