@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204206751228 |
-| Players | 7/24 |
+| Players | 12/24 |
 | Host Name | th@n@tos |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:49:31 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204206025036 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Vasya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 06:48:18 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204206019345 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Анатолий Убийца |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:48:17 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204206838039 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | BAD BUNNY REGRESO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:49:39 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204206871354 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Tu viejo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:49:43 |
@@ -153,6 +153,51 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | shib |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:49:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505204206935201 |
+| Players | 1/24 |
+| Host Name | Un Dotita y a mimir |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 06:49:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204206974797 |
+| Players | 1/15 |
+| Host Name | 󠀡󠀡 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 06:49:53 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505204207011973 |
+| Players | 1/24 |
+| Host Name | alex krasiuk |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 06:49:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204207020423 |
+| Players | 4/8 |
+| Host Name | коля пошел нахуй |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 06:49:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505204207030780 |
+| Players | 1/24 |
+| Host Name | Radi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 06:49:59 |
 
 
 |  | epic_boss_fight_normal |
