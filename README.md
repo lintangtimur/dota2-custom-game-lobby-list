@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202806567565 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | Struggle |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:31:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202802100631 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | Adrenaline Junkie |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 11:25:52 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202805077004 |
-| Players | 6/8 |
-| Host Name | TU MAMITA JOSE |
+| Players | 1/8 |
+| Host Name | ⚔Lalechuga^ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:29:45 |
 
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202804964194 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 11:29:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202806604265 |
-| Players | 1/24 |
-| Host Name | Дристающий Ангел |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 4, 2023 11:31:44 |
+| Lobby ID | 28505202806167482 |
+| Players | 1/10 |
+| Host Name | Moises |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 11:31:10 |
 
 
 |  | ot3_gardens_duo |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202805942309 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Grimorum ~_^ |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 11:30:52 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202805990525 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Thunderpants |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:30:56 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202806106196 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | cigarro? AGGG!!! |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:31:05 |
@@ -131,19 +131,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202806147164 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | SrDumii |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:31:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202806167482 |
-| Players | 1/10 |
-| Host Name | Moises |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 11:31:10 |
+| Lobby ID | 28505202806770759 |
+| Players | 1/24 |
+| Host Name | Дристающий Ангел |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 11:31:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202806777467 |
+| Players | 2/24 |
+| Host Name | 1-800-LOW-PRIO |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 11:31:57 |
 
 
 |  | epic_boss_fight_nightmare |
