@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204209979923 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | ez mid |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:55:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204210008692 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | fawkes |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 06:55:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204200180357 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Gyrocopter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 06:38:40 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204210281785 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | kagni |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:55:31 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204210328393 |
-| Players | 7/24 |
+| Players | 13/24 |
 | Host Name | qwer123 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:55:36 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204209382197 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Br0ker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 06:53:59 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204210751850 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Dark |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:56:19 |
@@ -146,30 +146,75 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 06:55:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204210966340 |
-| Players | 5/8 |
-| Host Name | Kenny |
+| Lobby ID | 28505204210014146 |
+| Players | 10/15 |
+| Host Name | Predrag Krtolica |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 06:56:41 |
+| Lobby Creation Time | Sunday, November 5, 2023 06:55:03 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204211174784 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | URO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:57:02 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204211282584 |
+| Players | 5/8 |
+| Host Name | fdredsd |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 06:57:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204211303205 |
+| Players | 1/10 |
+| Host Name | ๋ |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 06:57:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204210966340 |
+| Players | 7/8 |
+| Host Name | Kenny |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 06:56:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204211312333 |
+| Players | 1/10 |
+| Host Name | lioN. |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 06:57:17 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204208378130 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | I miss the rage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:52:16 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505204211276230 |
+| Players | 2/5 |
+| Host Name | mataperro |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 06:57:13 |
 
 
