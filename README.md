@@ -104,19 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202856443009 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | NO SE |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:30:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202857137948 |
-| Players | 8/15 |
-| Host Name | >>¥¥♔Limbo♔¥¥<< |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 12:31:43 |
+| Lobby ID | 28505202856009922 |
+| Players | 9/10 |
+| Host Name | MihaWk |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 12:30:28 |
 
 
 |  | ot3_gardens_duo |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202858684817 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | si lees esto juguemos arcade |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:33:25 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202858208947 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | SASUKE UCHIHA DESERTOR |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:32:53 |
@@ -164,21 +164,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 12:33:22 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202851594285 |
-| Players | 8/10 |
-| Host Name | TrX. Aki¤€.Fear |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 12:25:33 |
+| Lobby ID | 28505202858812254 |
+| Players | 1/15 |
+| Host Name | He'ershingenmosiken |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 12:33:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202858858950 |
+| Players | 5/15 |
+| Host Name | Freshy |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 12:33:37 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505202858014884 |
+| Lobby ID | 28505202858909871 |
 | Players | 1/10 |
 | Host Name | ComradeHeval |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 4, 2023 12:32:41 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 12:33:40 |
 
 
