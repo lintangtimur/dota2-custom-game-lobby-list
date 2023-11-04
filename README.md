@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202959913923 |
-| Players | 9/10 |
-| Host Name | heyheyhey |
-| Region | AUSTRIA |
-| Lobby Creation Time | Saturday, November 4, 2023 14:17:24 |
+| Lobby ID | 28505202963047964 |
+| Players | 3/8 |
+| Host Name | skorpziro |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 14:20:22 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202960041729 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:17:31 |
@@ -103,56 +103,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202962100950 |
-| Players | 1/15 |
-| Host Name | 23 CM |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 14:19:28 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202959213145 |
-| Players | 23/24 |
-| Host Name | Professor |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 14:16:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202963368553 |
-| Players | 2/15 |
-| Host Name | MickeY |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 14:20:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202956949279 |
-| Players | 21/24 |
-| Host Name | 大鲶鱼 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 14:14:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28505202962851929 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Москва |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:20:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202963047964 |
-| Players | 3/8 |
-| Host Name | skorpziro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 14:20:22 |
+| Lobby ID | 28505202963667913 |
+| Players | 2/10 |
+| Host Name | :( |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 14:20:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202963368553 |
+| Players | 4/15 |
+| Host Name | MickeY |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 14:20:40 |
 
 
 |  | epic_boss_fight_normal |
