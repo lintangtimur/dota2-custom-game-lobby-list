@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203472994511 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Даниил-тебя убил |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 20:52:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203441716074 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | Fabian! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 20:34:43 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203439623224 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Carlost |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 20:33:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203480339317 |
-| Players | 7/8 |
-| Host Name | wwwwwwwwwwwwwwwwww. |
-| Region | AUSTRIA |
-| Lobby Creation Time | Saturday, November 4, 2023 20:56:11 |
+| Lobby ID | 28505203442042794 |
+| Players | 2/15 |
+| Host Name | ЧВК Варден |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 20:34:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203464403253 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | CameraMan |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 20:47:26 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203482147642 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | LHPixel |
 | Region | AUSTRIA |
 | Lobby Creation Time | Saturday, November 4, 2023 20:57:10 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203429721122 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | Mana Bruh |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 20:28:02 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203481791086 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | マ路DanLor路マ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 20:56:59 |
@@ -173,13 +173,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 20:57:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505203482652984 |
-| Players | 1/8 |
-| Host Name | ZERO |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 4, 2023 20:57:27 |
+| Lobby ID | 28505203429639358 |
+| Players | 9/24 |
+| Host Name | o0oS2o0o |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 20:27:59 |
 
 
 |  | epic_boss_fight_normal |
@@ -194,9 +194,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203482545719 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | ⋨Key*Sha⋩ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 20:57:23 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505203451012776 |
+| Players | 7/10 |
+| Host Name | @Dy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 20:39:58 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505203465618203 |
+| Players | 9/10 |
+| Host Name | 8oi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 20:48:06 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505203460052323 |
+| Players | 9/10 |
+| Host Name | God Of Noob |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 20:45:01 |
 
 
