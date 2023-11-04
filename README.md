@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202827197487 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | 蓝胖舌吻双头龙 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:57:18 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202827691838 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Connor McGee Thor |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:57:54 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202826202762 |
-| Players | 7/8 |
-| Host Name | 1>9 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:56:07 |
+| Lobby ID | 28505202828422765 |
+| Players | 4/8 |
+| Host Name | Cerveza Pilsen Trujillo |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 11:58:47 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202827678073 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | UNHOLY DE HELL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:57:53 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202827803742 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | MiniSoGood |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 11:58:02 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202823405352 |
-| Players | 14/15 |
-| Host Name | Личность |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 11:52:46 |
+| Lobby ID | 28505202825328017 |
+| Players | 12/15 |
+| Host Name | Diresuns |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 11:55:03 |
 
 
 |  | ot3_desert_octet |
@@ -128,15 +128,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:58:53 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202828422765 |
-| Players | 4/8 |
-| Host Name | Cerveza Pilsen Trujillo |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 11:58:47 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202827130106 |
@@ -146,13 +137,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:57:14 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505202827888579 |
-| Players | 1/5 |
-| Host Name | Pato Lucas el Hechicero :V |
+| Lobby ID | 28505202828767899 |
+| Players | 2/10 |
+| Host Name | BadMove |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 11:58:08 |
+| Lobby Creation Time | Saturday, November 4, 2023 11:59:12 |
 
 
 |  | epic_boss_fight_nightmare |
