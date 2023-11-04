@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203075287902 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | GEORGIY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:04:09 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203072632743 |
-| Players | 14/15 |
-| Host Name | Riku |
+| Lobby ID | 28505203063591040 |
+| Players | 13/15 |
+| Host Name | Thug Life |
 | Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 16:01:43 |
+| Lobby Creation Time | Saturday, November 4, 2023 15:53:32 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203075322346 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | 9pudges.HVTSU |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:04:11 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203074042277 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | ни чего себе |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 16:03:00 |
@@ -103,28 +103,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203075552859 |
+| Lobby ID | 28505203075709458 |
 | Players | 1/8 |
 | Host Name | francyz |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 16:04:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203075762530 |
+| Players | 1/8 |
+| Host Name | blitheog* |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:04:23 |
+| Lobby Creation Time | Saturday, November 4, 2023 16:04:35 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203070830399 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Nitva |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:00:05 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505203074776300 |
-| Players | 2/5 |
-| Host Name | kote_moloke [] |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 16:03:41 |
 
 
