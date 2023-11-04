@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203080534873 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | HXDY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:08:58 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203090681330 |
-| Players | 1/15 |
-| Host Name | Xuyatt.! |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 16:18:18 |
+| Lobby ID | 28505203076037158 |
+| Players | 13/15 |
+| Host Name | Егор Кридит |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 16:04:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -121,11 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203076037158 |
-| Players | 13/15 |
-| Host Name | Егор Кридит |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:04:50 |
+| Lobby ID | 28505203087146336 |
+| Players | 14/15 |
+| Host Name | -Lemob |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 16:15:02 |
 
 
 |  | epic_boss_fight_normal |
@@ -144,23 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tiimii ~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:14:34 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505203090633888 |
-| Players | 1/5 |
-| Host Name | ™♥™ |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 16:18:15 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505203090668400 |
-| Players | 1/5 |
-| Host Name | oo |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 16:18:17 |
 
 
