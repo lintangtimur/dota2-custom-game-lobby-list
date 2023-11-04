@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203017189365 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | отставной |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:11:08 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:10:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203010644372 |
-| Players | 1/24 |
-| Host Name | Jeb_ |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 15:05:06 |
+| Lobby ID | 28505203017899565 |
+| Players | 1/10 |
+| Host Name | Тайлер Дырдырчик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 15:11:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,28 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203017824414 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 春丽 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:11:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505203017899565 |
-| Players | 1/10 |
-| Host Name | Тайлер Дырдырчик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 15:11:47 |
+| Lobby ID | 28505203018225052 |
+| Players | 1/24 |
+| Host Name | 风梨QAQ |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 15:12:04 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505203018027853 |
+| Lobby ID | 28505203018232294 |
 | Players | 1/24 |
-| Host Name | ihavenoformalshoes |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 15:11:54 |
+| Host Name | ^^ |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 4, 2023 15:12:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203018231722 |
+| Players | 1/24 |
+| Host Name | Kermit Da Frog |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 15:12:05 |
 
 
 |  | epic_boss_fight_nightmare |
