@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203110054877 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | necrophilia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:36:24 |
@@ -40,20 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203111234854 |
+| Lobby ID | 28505203111412500 |
 | Players | 1/10 |
-| Host Name | Oledzhinal |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:37:30 |
+| Host Name | Работайте БРАТЬЯ!!!! |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 16:37:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203109820830 |
-| Players | 7/8 |
-| Host Name | БЕСпоЩАДОВ МУН |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:36:11 |
+| Lobby ID | 28505203108895799 |
+| Players | 12/15 |
+| Host Name | Xaxa |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 16:35:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203111499295 |
-| Players | 13/15 |
-| Host Name | Windranger |
-| Region | AUSTRIA |
-| Lobby Creation Time | Saturday, November 4, 2023 16:37:45 |
+| Lobby ID | 28505203111872274 |
+| Players | 8/15 |
+| Host Name | ewyang |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 16:38:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,42 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | pr0skill проскилович ^_^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:37:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203111412500 |
-| Players | 1/10 |
-| Host Name | Работайте БРАТЬЯ!!!! |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 16:37:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203107824188 |
-| Players | 9/10 |
-| Host Name | Slarkas777 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:34:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203110171207 |
-| Players | 13/15 |
-| Host Name | Безумный Паша |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:36:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203111872274 |
-| Players | 2/15 |
-| Host Name | ewyang |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:38:05 |
 
 
 |  | epic_boss_fight_normal |
