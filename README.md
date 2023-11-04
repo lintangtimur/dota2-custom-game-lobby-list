@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202837914095 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Martin-Luther-King. |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:09:53 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202837996909 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ShaV |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:09:59 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202837573109 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Cum aguero |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:09:29 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202837099411 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | KuroiBlazr |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 4, 2023 12:08:56 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202837808315 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | ПРЕСС КАЧАТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:09:45 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202837978248 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | arp |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:09:57 |
@@ -140,10 +140,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202838125901 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | CAMPEÓN |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:10:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202838248407 |
+| Players | 1/15 |
+| Host Name | littleflower |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Saturday, November 4, 2023 12:10:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202838274691 |
+| Players | 1/8 |
+| Host Name | godplayingwithus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 12:10:18 |
 
 
 |  | epic_boss_fight_challenger |
