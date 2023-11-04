@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 13:24:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202906257888 |
-| Players | 7/8 |
-| Host Name | Maliketh La Hoja Negra |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 13:25:08 |
+| Lobby ID | 28505202903362197 |
+| Players | 6/24 |
+| Host Name | Yeager |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 13:22:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202904145086 |
-| Players | 6/10 |
-| Host Name | L-A-K-E-R |
+| Players | 3/10 |
+| Host Name | НАБАЛДАШНИК |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:22:55 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202898882370 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Muy Malo |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 13:17:22 |
@@ -103,28 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202905147051 |
-| Players | 11/15 |
-| Host Name | shojun侍 |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 13:23:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202903362197 |
-| Players | 4/24 |
-| Host Name | Yeager |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 13:22:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202906314614 |
-| Players | 4/15 |
+| Lobby ID | 28505202906619133 |
+| Players | 5/15 |
 | Host Name | 小熊猫替身使者 |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 13:25:11 |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 13:25:30 |
 
 
