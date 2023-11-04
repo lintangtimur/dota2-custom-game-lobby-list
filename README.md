@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204178414376 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | nuTs |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, November 5, 2023 06:05:07 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 06:37:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204199721442 |
-| Players | 9/10 |
-| Host Name | ANONIMOXVR |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 06:37:56 |
+| Lobby ID | 28505204200255460 |
+| Players | 1/24 |
+| Host Name | NNNNNNNNNNNNNN |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 06:38:47 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204200021741 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Elinbarrage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:38:25 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204199954507 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Monero |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:38:19 |
@@ -131,25 +131,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204200197361 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | PMA swap commetds |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:38:42 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204200255460 |
-| Players | 1/24 |
-| Host Name | NNNNNNNNNNNNNN |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 06:38:47 |
+| Lobby ID | 28505204200342731 |
+| Players | 3/8 |
+| Host Name | necrophilia |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 06:38:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204198022169 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Keyner |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:35:13 |
