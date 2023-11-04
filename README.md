@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204023275415 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | Swag под себя |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 02:58:19 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204022467936 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Ништяк Шкатулочка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 02:57:31 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 02:55:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204013289814 |
-| Players | 3/8 |
-| Host Name | Cvas |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 02:48:29 |
+| Lobby ID | 28505204022577956 |
+| Players | 1/15 |
+| Host Name | crimVx |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 02:57:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203989571077 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | dockt |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 5, 2023 02:25:50 |
@@ -148,11 +148,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204022577956 |
-| Players | 1/15 |
-| Host Name | crimVx |
+| Lobby ID | 28505204023692887 |
+| Players | 4/15 |
+| Host Name | Яєчко Олег |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 02:57:37 |
+| Lobby Creation Time | Sunday, November 5, 2023 02:58:44 |
 
 
 |  | epic_boss_fight_normal |
@@ -189,15 +189,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ♥Ricky Regal♥ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 02:47:43 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505204019392631 |
-| Players | 3/5 |
-| Host Name | Hades |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 02:54:27 |
 
 
 |  | epic_boss_fight_challenger |
