@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203071473944 |
-| Players | 9/10 |
-| Host Name | Apxfly |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:00:40 |
+| Lobby ID | 28505203069193207 |
+| Players | 6/15 |
+| Host Name | XBOX SERIES Z |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 15:58:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505203072464278 |
-| Players | 7/8 |
-| Host Name | Кирито |
-| Region | AUSTRIA |
-| Lobby Creation Time | Saturday, November 4, 2023 16:01:34 |
+| Lobby ID | 28505203061477639 |
+| Players | 17/24 |
+| Host Name | เ น้ น นั ว ร์ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 15:51:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203072783057 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | РАБМЕН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:01:52 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203072632743 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Riku |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 16:01:43 |
@@ -85,26 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505203061477639 |
-| Players | 15/24 |
-| Host Name | เ น้ น นั ว ร์ |
+| Lobby ID | 28505203070830930 |
+| Players | 21/24 |
+| Host Name | Грешник / Sinner |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 15:51:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203069193207 |
-| Players | 2/15 |
-| Host Name | XBOX SERIES Z |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 15:58:37 |
+| Lobby Creation Time | Saturday, November 4, 2023 16:00:05 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203070830399 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Nitva |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:00:05 |
