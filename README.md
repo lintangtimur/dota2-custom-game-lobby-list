@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202853716227 |
-| Players | 13/15 |
-| Host Name | arp |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 12:27:55 |
+| Lobby ID | 28505202851421134 |
+| Players | 14/15 |
+| Host Name | Sofuer |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 12:25:21 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202854047372 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | :Xaiko midaX:) |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:28:17 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:10:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202853851995 |
-| Players | 20/24 |
-| Host Name | Time Ower |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 12:28:04 |
+| Lobby ID | 28505202854661847 |
+| Players | 3/15 |
+| Host Name | ^^bongafonx` |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 12:28:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202852709943 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Дристающий Ангел |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:26:48 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202854444293 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | Rayha on 165hz |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 12:28:44 |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 12:26:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202851421134 |
-| Players | 14/15 |
-| Host Name | Sofuer |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 12:25:21 |
+| Lobby ID | 28505202854722739 |
+| Players | 2/24 |
+| Host Name | My fart doesn't stink |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, November 4, 2023 12:29:02 |
 
 
 |  | epic_boss_fight_nightmare |
