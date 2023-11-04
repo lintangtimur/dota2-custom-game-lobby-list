@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204151935780 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Maganahi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 05:27:31 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204152863274 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:28:48 |
@@ -76,20 +76,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204153729928 |
-| Players | 7/8 |
-| Host Name | Артур Паркур |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 05:30:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28505204153890920 |
 | Players | 4/8 |
 | Host Name | я не сдамся |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, November 5, 2023 05:30:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204154085761 |
+| Players | 2/10 |
+| Host Name | KINOX_GT |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 05:30:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204154082993 |
+| Players | 2/8 |
+| Host Name | Need? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 05:30:30 |
 
 
 |  | epic_boss_fight_normal |
@@ -117,15 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Carl *FreePalestine* |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:30:13 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28505204141052553 |
-| Players | 6/7 |
-| Host Name | 76561198054146500 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 05:12:36 |
 
 
 |  | epic_boss_fight_normal |
