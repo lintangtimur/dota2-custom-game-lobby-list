@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203165066969 |
-| Players | 2/8 |
-| Host Name | don't give a fuck about opinions |
+| Lobby ID | 28505203161812030 |
+| Players | 10/15 |
+| Host Name | feeling the dimensions |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:28:40 |
+| Lobby Creation Time | Saturday, November 4, 2023 17:25:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203164325265 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | ...... |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 17:28:00 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203164340572 |
-| Players | 9/10 |
-| Host Name | BRAMBRAGE |
+| Lobby ID | 28505203162460320 |
+| Players | 7/10 |
+| Host Name | QADVA |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:28:01 |
+| Lobby Creation Time | Saturday, November 4, 2023 17:26:17 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203164538627 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | reresxl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:28:12 |
@@ -90,24 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | fn mentality |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:25:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203164905998 |
-| Players | 5/15 |
-| Host Name | ac7 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:28:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203162460320 |
-| Players | 5/10 |
-| Host Name | QADVA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:26:17 |
 
 
 |  | epic_boss_fight_normal |
