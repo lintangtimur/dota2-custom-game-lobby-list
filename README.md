@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204161142127 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | constinty wearin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 05:40:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204163031984 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | P |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 05:43:06 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204162009271 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Злая волчица |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:41:39 |
@@ -101,33 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 05:43:44 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204163322883 |
-| Players | 13/15 |
-| Host Name | cõck |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 05:43:31 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204162740194 |
-| Players | 5/10 |
-| Host Name | mom |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, November 5, 2023 05:42:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204159017533 |
-| Players | 14/15 |
-| Host Name | Neo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 05:37:25 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204160634126 |
@@ -137,12 +110,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 05:39:42 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204162740194 |
+| Players | 3/10 |
+| Host Name | mom |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, November 5, 2023 05:42:41 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204163589908 |
+| Players | 3/15 |
+| Host Name | Smaky Bacon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 05:43:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204163644649 |
+| Players | 1/10 |
+| Host Name | Z |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 05:43:58 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204163569680 |
-| Players | 3/8 |
-| Host Name | HAHAHAHAHHA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 05:43:52 |
+| Lobby ID | 28505204163647826 |
+| Players | 2/8 |
+| Host Name | Need? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 05:43:59 |
 
 
