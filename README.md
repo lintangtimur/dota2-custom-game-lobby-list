@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 04:51:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204127172331 |
-| Players | 6/10 |
-| Host Name | oniqzone- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 04:53:54 |
+| Lobby ID | 28505204126049389 |
+| Players | 23/24 |
+| Host Name | DarkMoon |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 04:52:27 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204127215435 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Vuvuzela Virtuoso Hans Rudolph |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 04:53:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204127634698 |
-| Players | 2/15 |
+| Players | 9/15 |
 | Host Name | Levi Ackerman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 04:54:30 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204125019151 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | § h i t o |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 04:51:08 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 04:54:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204127660323 |
-| Players | 7/8 |
-| Host Name | El apostol |
+| Lobby ID | 28505204127948115 |
+| Players | 1/24 |
+| Host Name | AQUINO |
 | Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 04:54:32 |
+| Lobby Creation Time | Sunday, November 5, 2023 04:54:54 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204126283512 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 04:52:45 |
@@ -113,8 +113,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204127858466 |
-| Players | 4/8 |
-| Host Name | у меня понос |
+| Players | 6/8 |
+| Host Name | Я ПОНЧИК? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 04:54:47 |
 
@@ -128,13 +128,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 04:53:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204127948115 |
-| Players | 1/24 |
-| Host Name | AQUINO |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 04:54:54 |
+| Lobby ID | 28505204128032210 |
+| Players | 5/8 |
+| Host Name | saltvattenmelon |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, November 5, 2023 04:55:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204128084241 |
+| Players | 1/10 |
+| Host Name | Pegisuee |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, November 5, 2023 04:55:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204128041082 |
+| Players | 3/8 |
+| Host Name | emp |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 04:55:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204128084905 |
+| Players | 1/10 |
+| Host Name | ABOBA BOY |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 04:55:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204128093651 |
+| Players | 1/15 |
+| Host Name | ABSORB |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 04:55:05 |
 
 
 |  | epic_boss_fight_challenger |
@@ -149,7 +185,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204120071422 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Leinach |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, November 5, 2023 04:44:53 |
