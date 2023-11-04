@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202801366155 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:24:54 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202802040941 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Bonitos y gorditos hijos de puta |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:25:47 |
@@ -58,29 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202803835392 |
+| Lobby ID | 28505202803883314 |
+| Players | 4/10 |
+| Host Name | M142 HIMARS |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 11:28:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202803921078 |
 | Players | 2/10 |
 | Host Name | sa';das';as |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:28:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202803430987 |
-| Players | 1/15 |
-| Host Name | Cptn.Canuck |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:27:36 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202803842412 |
-| Players | 1/24 |
-| Host Name | Wo die Zitronen bluehen |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 4, 2023 11:28:09 |
+| Lobby Creation Time | Saturday, November 4, 2023 11:28:15 |
 
 
 |  | epic_boss_fight_nightmare |
