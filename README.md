@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202851787149 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | La ultima coca cola del desierto |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:25:46 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202854444293 |
-| Players | 6/8 |
-| Host Name | Rayha on 165hz |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 12:28:44 |
+| Lobby ID | 28505202855531201 |
+| Players | 1/8 |
+| Host Name | Old School |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 12:29:56 |
 
 
 |  | ot3_gardens_duo |
@@ -130,26 +130,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202855501830 |
+| Lobby ID | 28505202855600785 |
 | Players | 1/10 |
-| Host Name | sorry bro i am not stupid |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 12:29:54 |
+| Host Name | [22-1]bbsexxx |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 12:30:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202855531201 |
-| Players | 1/8 |
-| Host Name | Old School |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 12:29:56 |
+| Lobby ID | 28505202855745734 |
+| Players | 1/24 |
+| Host Name | Bryan |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 12:30:10 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202844320755 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Booberries |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:17:19 |
