@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202960041729 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:17:31 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202963667913 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | :( |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 14:20:57 |
@@ -122,10 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202963368553 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | MickeY |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:20:40 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202963805905 |
+| Players | 1/24 |
+| Host Name | Wapo16 |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 14:21:05 |
 
 
 |  | epic_boss_fight_normal |
@@ -144,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Yatoro雨 fan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:20:09 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505202963895808 |
+| Players | 1/5 |
+| Host Name | терморегулятор |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 14:21:10 |
 
 
