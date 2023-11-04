@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202875018923 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:51:15 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202877055985 |
-| Players | 7/8 |
-| Host Name | хочу татарочку |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 12:53:27 |
+| Lobby ID | 28505202878621116 |
+| Players | 5/8 |
+| Host Name | unvalibavol |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 12:55:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202877086603 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 12:53:29 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202876485621 |
-| Players | 12/24 |
+| Players | 18/24 |
 | Host Name | camote |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:52:50 |
@@ -94,20 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202877701629 |
-| Players | 2/8 |
+| Lobby ID | 28505202878669629 |
+| Players | 3/8 |
 | Host Name | NARUTO UZUMAKI DE KONOHA |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 12:54:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202877106754 |
-| Players | 3/15 |
-| Host Name | Dejen de feedear |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 12:53:30 |
+| Lobby Creation Time | Saturday, November 4, 2023 12:55:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202878047937 |
+| Players | 6/10 |
+| Host Name | Muy Malo |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 12:54:33 |
 
 
 |  | ot3_gardens_duo |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202877568946 |
-| Players | 12/24 |
+| Players | 22/24 |
 | Host Name | Fabian! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 12:54:01 |
@@ -137,48 +137,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 12:54:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202878047937 |
-| Players | 4/10 |
-| Host Name | Muy Malo |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 12:54:33 |
+| Lobby ID | 28505202879232360 |
+| Players | 2/15 |
+| Host Name | SOUTHERN LIFE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 12:55:51 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202872622629 |
-| Players | 8/10 |
-| Host Name | 123 |
+| Lobby ID | 28505202878518894 |
+| Players | 10/15 |
+| Host Name | Vuvuzela Virtuoso Hans Rudolph |
 | Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 12:48:39 |
+| Lobby Creation Time | Saturday, November 4, 2023 12:55:03 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28505202878207660 |
-| Players | 1/10 |
-| Host Name | Gabimaru |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 12:54:43 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505202878441873 |
-| Players | 1/10 |
-| Host Name | Xz- |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 12:54:59 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505202878491742 |
-| Players | 1/5 |
+| Lobby ID | 28505202879301574 |
+| Players | 1/7 |
 | Host Name | . Skye |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 12:55:02 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 12:55:55 |
 
 
