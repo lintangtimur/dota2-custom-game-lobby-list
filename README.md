@@ -113,19 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203366120907 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | GENE- |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 19:52:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203379540000 |
-| Players | 7/15 |
-| Host Name | САСЬВА |
+| Lobby ID | 28505203382129080 |
+| Players | 7/8 |
+| Host Name | boss mentality |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 20:00:07 |
+| Lobby Creation Time | Saturday, November 4, 2023 20:01:34 |
 
 
 |  | ot3_jungle_quintet |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203388343963 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Krosher |
 | Region | AUSTRIA |
 | Lobby Creation Time | Saturday, November 4, 2023 20:05:03 |
@@ -155,20 +155,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 20:03:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203387364527 |
-| Players | 1/10 |
-| Host Name | Bondwewd :3 |
+| Lobby ID | 28505203388717130 |
+| Players | 1/8 |
+| Host Name | _Pico_ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 20:04:30 |
+| Lobby Creation Time | Saturday, November 4, 2023 20:05:15 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203379409423 |
 | Players | 6/10 |
-| Host Name | depressed |
+| Host Name | rtc |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 20:00:02 |
 
@@ -184,18 +184,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203378404749 |
-| Players | 9/10 |
-| Host Name | Mr.Popo |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 19:59:28 |
+| Lobby ID | 28505203364037662 |
+| Players | 2/10 |
+| Host Name | say_hay1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 19:51:17 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203361543637 |
-| Players | 3/8 |
-| Host Name | kid$olo |
+| Players | 1/8 |
+| Host Name | Andruxa_Desolator |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 19:49:51 |
 
@@ -203,7 +203,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203358046745 |
-| Players | 10/24 |
+| Players | 6/24 |
 | Host Name | A N U K A |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 19:47:50 |
@@ -218,22 +218,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 19:58:44 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203388458856 |
-| Players | 4/15 |
-| Host Name | XBOX SERIES Z |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, November 4, 2023 20:05:06 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203364037662 |
+| Lobby ID | 28505203388560432 |
 | Players | 2/10 |
-| Host Name | say_hay1 |
+| Host Name | Tuz |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 19:51:17 |
+| Lobby Creation Time | Saturday, November 4, 2023 20:05:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -245,21 +236,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 20:02:04 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505203388516453 |
-| Players | 1/7 |
-| Host Name | ivsc |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 20:05:08 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505203371274797 |
-| Players | 9/10 |
-| Host Name | Ryujiin.Beta.2.01ec |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 19:55:25 |
+| Lobby ID | 28505203388617997 |
+| Players | 1/5 |
+| Host Name | ⛧Gosha028⛧ |
+| Region | AUSTRIA |
+| Lobby Creation Time | Saturday, November 4, 2023 20:05:12 |
 
 
