@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204207614893 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 06:50:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204207091268 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | вычисляю тебя в толпе по попке |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:50:05 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204207664656 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | MasonLayble |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, November 5, 2023 06:51:04 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204206884537 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Mai Sakurajima |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:49:44 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 06:51:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204208393398 |
-| Players | 13/15 |
-| Host Name | Elinbarrage |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 06:52:17 |
+| Lobby ID | 28505204208726777 |
+| Players | 2/10 |
+| Host Name | merenge |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 06:52:52 |
 
 
 |  | ot3_gardens_duo |
@@ -137,13 +137,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 06:50:00 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204208726777 |
-| Players | 1/10 |
-| Host Name | merenge |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 06:52:52 |
+| Lobby ID | 28505204208891528 |
+| Players | 1/15 |
+| Host Name | loss is inevitable. |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 06:53:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204208876484 |
+| Players | 1/15 |
+| Host Name | V Padlu Live |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 06:53:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204208900481 |
+| Players | 1/15 |
+| Host Name | mist1l |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 06:53:09 |
 
 
 |  | epic_boss_fight_nightmare |
