@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203053518086 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Boogie Woogie O'Man |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 15:44:23 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203052199370 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | lose feed peru |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:43:09 |
@@ -65,6 +65,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 15:44:15 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203054989563 |
+| Players | 3/15 |
+| Host Name | Ado |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 15:45:43 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202971238412 |
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Особо опасен |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:45:37 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28505203055113909 |
+| Players | 1/7 |
+| Host Name | XmanWz |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 4, 2023 15:45:50 |
 
 
