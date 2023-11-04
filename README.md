@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204195960818 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | BOMBERMAN |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:31:58 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204181664863 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 5, 2023 06:09:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204193465267 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Mai Sakurajima |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:28:01 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 04:30:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204194793766 |
-| Players | 9/10 |
-| Host Name | Mango |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 06:30:07 |
+| Lobby ID | 28505204196206201 |
+| Players | 3/15 |
+| Host Name | Kayyo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 06:32:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204195470213 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:31:12 |
@@ -108,24 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | fdredsd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 06:31:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204196143122 |
-| Players | 1/15 |
-| Host Name | TitanPudge |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, November 5, 2023 06:32:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204196135613 |
-| Players | 2/15 |
-| Host Name | ♥Miul♥ |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, November 5, 2023 06:32:14 |
 
 
 |  | ot3_necropolis_ffa |
