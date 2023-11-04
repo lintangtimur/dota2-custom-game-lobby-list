@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202925226272 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | wolfhound |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:44:05 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:34:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202925126514 |
-| Players | 8/10 |
-| Host Name | LOOSER |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 13:43:59 |
+| Lobby ID | 28505202922472908 |
+| Players | 23/24 |
+| Host Name | Only D |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 13:41:24 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202922515586 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | 路人 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 13:41:27 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202923609447 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Harry's House |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:42:31 |
@@ -113,10 +113,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202925220981 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | DANICH |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 13:44:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202922005355 |
+| Players | 14/15 |
+| Host Name | king of fools |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 13:40:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202925679106 |
+| Players | 5/10 |
+| Host Name | unvalibavol |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 13:44:31 |
 
 
 |  | epic_boss_fight_nightmare |
