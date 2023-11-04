@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203198176696 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ᴠᴇʀᴀsᴜ  ורסו |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 17:57:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203185003290 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | dikapb_diman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:46:21 |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203198619168 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | добрый грибничек |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:57:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203193306130 |
-| Players | 14/15 |
-| Host Name | Murâkai |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:53:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -119,6 +110,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 17:57:24 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203199250365 |
+| Players | 2/24 |
+| Host Name | Salival |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 4, 2023 17:58:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203193306130 |
+| Players | 14/15 |
+| Host Name | Свиное рыльце |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 17:53:30 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28505203195106348 |
@@ -126,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Death Is My Bitch |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 17:55:01 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28505203199243862 |
+| Players | 2/7 |
+| Host Name | momo |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 17:58:31 |
 
 
