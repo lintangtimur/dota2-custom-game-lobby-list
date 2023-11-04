@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202967571166 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Wiz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:24:38 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202968690493 |
-| Players | 3/15 |
+| Players | 10/15 |
 | Host Name | The Dead of Marshes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:25:41 |
@@ -94,20 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202959213145 |
+| Lobby ID | 28505202968916648 |
 | Players | 1/24 |
-| Host Name | NoobMaster69 |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 14:16:44 |
+| Host Name | Touch Me |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 14:25:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202968811881 |
-| Players | 1/8 |
-| Host Name | телекрысор |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 14:25:48 |
+| Lobby ID | 28505202963667913 |
+| Players | 7/10 |
+| Host Name | :( |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 14:20:57 |
 
 
 |  | ot3_gardens_duo |
@@ -117,6 +117,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | >>¥¥♔Limbo♔¥¥<< |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:25:49 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202968960698 |
+| Players | 2/24 |
+| Host Name | Coloratura |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 14:25:56 |
 
 
 |  | epic_boss_fight_nightmare |
