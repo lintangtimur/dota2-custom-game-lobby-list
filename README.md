@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202765684005 |
-| Players | 9/10 |
-| Host Name | MONCHI |
+| Lobby ID | 28505202767621361 |
+| Players | 6/24 |
+| Host Name | Buscador de las almas perdidas |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 10:34:56 |
+| Lobby Creation Time | Saturday, November 4, 2023 10:37:37 |
 
 
 |  | ot3_jungle_quintet |
@@ -20,22 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 10:26:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202766465633 |
-| Players | 8/10 |
-| Host Name | Депутат свиней🫒 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 10:36:00 |
+| Lobby ID | 28505202767836094 |
+| Players | 1/8 |
+| Host Name | 叫凡先生就好啦 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Saturday, November 4, 2023 10:37:54 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202766689898 |
-| Players | 2/8 |
+| Lobby ID | 28505202767770168 |
+| Players | 1/8 |
 | Host Name | y0ngG |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 10:36:19 |
+| Lobby Creation Time | Saturday, November 4, 2023 10:37:49 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202766973748 |
-| Players | 9/24 |
+| Players | 16/24 |
 | Host Name | miley cyrex |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 10:36:43 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202766546161 |
-| Players | 6/15 |
-| Host Name | Cacique Carlossteiger |
+| Players | 10/15 |
+| Host Name | Novato |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 10:36:07 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202766321877 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | PonToday |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 10:35:48 |
@@ -95,43 +95,61 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202766737675 |
-| Players | 6/24 |
+| Players | 12/24 |
 | Host Name | ǝʞıN |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 10:36:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505202766759976 |
-| Players | 7/10 |
-| Host Name | Röyksopp |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 10:36:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202766772529 |
-| Players | 7/15 |
-| Host Name | Davikucho |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 10:36:26 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202766899848 |
 | Players | 1/24 |
-| Host Name | FireDog |
+| Host Name | Grodan Pogg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 10:36:37 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202767755584 |
+| Players | 2/10 |
+| Host Name | Griga |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 10:37:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202767662846 |
+| Players | 1/24 |
+| Host Name | (lFuzy^^! |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 10:37:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202767846340 |
+| Players | 1/8 |
+| Host Name | CORFISH_MALIGNO |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 10:37:55 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202767841131 |
+| Players | 1/24 |
+| Host Name | FireDog |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 10:37:54 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202763786717 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Booberries |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 10:32:20 |
