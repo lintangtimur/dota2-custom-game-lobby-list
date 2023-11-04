@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202897070900 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Imbecility & Courage♉ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:15:27 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202898139193 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Sadlife |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 13:16:35 |
@@ -146,6 +146,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 13:17:40 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202900066704 |
+| Players | 2/8 |
+| Host Name | Andy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 13:18:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202899097983 |
+| Players | 5/8 |
+| Host Name | unvalibavol |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 13:17:36 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202880318322 |
@@ -158,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202897120030 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Epicose |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:15:30 |
