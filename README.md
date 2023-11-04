@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202844591268 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | UltraAA |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 4, 2023 12:17:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202844470178 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Матье Бал |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 12:17:29 |
@@ -86,37 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202849852518 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | MERLYN |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:23:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202850175151 |
-| Players | 7/15 |
-| Host Name | Regreso del retiro |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 12:23:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202848263597 |
-| Players | 16/24 |
-| Host Name | Phill Dz |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 12:21:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202849391655 |
-| Players | 7/8 |
-| Host Name | хочу татарочку |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 12:23:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -126,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | unvalibavol |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:23:34 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202848263597 |
+| Players | 18/24 |
+| Host Name | Phill Dz |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 12:21:48 |
 
 
 |  | epic_boss_fight_nightmare |
