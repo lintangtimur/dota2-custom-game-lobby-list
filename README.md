@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202844591268 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | UltraAA |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 4, 2023 12:17:38 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202845394013 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | broskiii |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:18:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202844470178 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Матье Бал |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 12:17:29 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202836123377 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | don't-do-drugs |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:07:47 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202845740592 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Dr. Chaputin modo Sexo |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:18:56 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202845767208 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Melaq |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:18:58 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202845803310 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Sad Clown((( |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:19:00 |
@@ -113,10 +113,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202843069372 |
-| Players | 5/15 |
+| Players | 3/15 |
 | Host Name | Ruckus |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:15:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202846205772 |
+| Players | 3/10 |
+| Host Name | Muy Malo |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 12:19:28 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202846243481 |
+| Players | 4/24 |
+| Host Name | 砍王 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 12:19:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202846307785 |
+| Players | 5/15 |
+| Host Name | Shiro |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 12:19:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202846361004 |
+| Players | 1/8 |
+| Host Name | MODO SEPSO |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 12:19:38 |
 
 
 |  | epic_boss_fight_normal |
@@ -140,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202844251298 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | {THE~@} |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 12:17:14 |
@@ -149,7 +185,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202844320755 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Booberries |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:17:19 |
