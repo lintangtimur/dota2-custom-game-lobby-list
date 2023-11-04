@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202763172679 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | ...... |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 10:31:29 |
@@ -83,40 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 10:32:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202762723347 |
-| Players | 9/10 |
-| Host Name | MentatsAddict |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 10:30:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202763678328 |
-| Players | 6/8 |
-| Host Name | GearWill |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 10:32:11 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202764202314 |
-| Players | 9/24 |
-| Host Name | Mak Banteng Penguasa |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 10:32:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202760525986 |
-| Players | 4/8 |
-| Host Name | MODO SEPSO |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 10:27:49 |
+| Lobby ID | 28505202764724765 |
+| Players | 1/15 |
+| Host Name | Raccoon |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 10:33:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -130,20 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202762356329 |
-| Players | 21/24 |
-| Host Name | mis causas son kchudos |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 10:30:20 |
+| Lobby ID | 28505202764202314 |
+| Players | 13/24 |
+| Host Name | Mak Banteng Penguasa |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 10:32:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202764724765 |
-| Players | 1/15 |
-| Host Name | Raccoon |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 10:33:37 |
+| Lobby ID | 28505202760525986 |
+| Players | 4/8 |
+| Host Name | MODO SEPSO |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 10:27:49 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -171,23 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ｌｅｖｉ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 10:32:10 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28505202764692491 |
-| Players | 1/7 |
-| Host Name | Seo Lee Hin |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 10:33:35 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28505202764738882 |
-| Players | 1/7 |
-| Host Name | Zaraki Kenpachi - 11th |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 10:33:38 |
 
 
