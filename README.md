@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 05:50:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204167357138 |
-| Players | 12/15 |
-| Host Name | Aggressive Koala |
+| Lobby ID | 28505204167770823 |
+| Players | 1/8 |
+| Host Name | Mystog@n |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 05:49:12 |
+| Lobby Creation Time | Sunday, November 5, 2023 05:49:47 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204168190145 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Piu Piu Gaaaaaaaaa |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 5, 2023 05:50:22 |
@@ -65,33 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 05:16:33 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204167240558 |
-| Players | 6/8 |
-| Host Name | lm |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 05:49:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204167963094 |
-| Players | 2/10 |
-| Host Name | гойда Z |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 05:50:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204167770823 |
-| Players | 1/8 |
-| Host Name | Mystog@n |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 05:49:47 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204163480314 |
@@ -101,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 05:43:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204168651644 |
-| Players | 2/8 |
-| Host Name | rudysss BP2022.cc |
+| Lobby ID | 28505204167963094 |
+| Players | 4/10 |
+| Host Name | гойда Z |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 05:51:02 |
+| Lobby Creation Time | Sunday, November 5, 2023 05:50:03 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204165608808 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | ameMODE:start |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 05:46:43 |
