@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203145743313 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | ac7 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:10:27 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203146573605 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | RednWhite |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 17:11:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203142975354 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | sad story' |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 17:07:41 |
@@ -83,22 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 17:11:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203147635656 |
-| Players | 1/24 |
-| Host Name | Сай |
+| Lobby ID | 28505203147716769 |
+| Players | 6/8 |
+| Host Name | reresxl |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:12:18 |
+| Lobby Creation Time | Saturday, November 4, 2023 17:12:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203142846612 |
-| Players | 11/15 |
-| Host Name | Boyara |
+| Lobby ID | 28505203147811867 |
+| Players | 1/8 |
+| Host Name | Blood in my eyes |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:07:33 |
+| Lobby Creation Time | Saturday, November 4, 2023 17:12:29 |
 
 
 |  | epic_boss_fight_normal |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505203146976018 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | Foggy |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 4, 2023 17:11:39 |
