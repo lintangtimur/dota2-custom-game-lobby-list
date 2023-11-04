@@ -68,28 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202789946877 |
-| Players | 2/24 |
-| Host Name | ZZZZZZZZ |
+| Players | 3/24 |
+| Host Name | Quagmire |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 11:09:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202789656792 |
-| Players | 11/15 |
-| Host Name | Yello |
+| Lobby ID | 28505202790163984 |
+| Players | 6/10 |
+| Host Name | Rambod D. Luffy |
 | Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 11:08:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202788144500 |
-| Players | 7/8 |
-| Host Name | CURSE |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 11:06:28 |
+| Lobby Creation Time | Saturday, November 4, 2023 11:09:23 |
 
 
 |  | ot3_gardens_duo |
@@ -101,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:09:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202790163984 |
-| Players | 4/10 |
-| Host Name | Rambod D. Luffy |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 11:09:23 |
+| Lobby ID | 28505202790224440 |
+| Players | 2/24 |
+| Host Name | [JnM]Nickname |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 11:09:29 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ezmurf |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:06:05 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28505202790236760 |
+| Players | 2/7 |
+| Host Name | Tengo lag tmre |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 11:09:30 |
 
 
