@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203085455919 |
-| Players | 11/24 |
+| Players | 17/24 |
 | Host Name | 中身なき人間 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:13:29 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203087146336 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Böömer |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, November 4, 2023 16:15:02 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 16:15:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203078902888 |
-| Players | 14/15 |
-| Host Name | _H1BoT_2 |
+| Lobby ID | 28505203087478856 |
+| Players | 1/8 |
+| Host Name | Ankaresto |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:07:28 |
+| Lobby Creation Time | Saturday, November 4, 2023 16:15:20 |
 
 
 |  | ot3_desert_octet |
@@ -92,13 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 16:15:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203087478856 |
-| Players | 1/8 |
-| Host Name | Ankaresto |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:15:20 |
+| Lobby ID | 28505203088196264 |
+| Players | 1/10 |
+| Host Name | Br0ker |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 16:16:00 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203088223682 |
+| Players | 1/24 |
+| Host Name | sigma jamal |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 16:16:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203086893444 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Diclonius |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:14:48 |
