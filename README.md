@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204029471237 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Feelingpeace’s |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, November 5, 2023 03:04:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204030380249 |
-| Players | 2/15 |
+| Players | 14/15 |
 | Host Name | Sitru |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, November 5, 2023 03:05:46 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204027652461 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 03:02:55 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 02:25:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204029340959 |
-| Players | 1/15 |
-| Host Name | Ibo |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, November 5, 2023 03:04:41 |
+| Lobby ID | 28505204030706118 |
+| Players | 4/10 |
+| Host Name | Scream |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 03:06:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,40 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 03:05:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204029427429 |
-| Players | 1/8 |
-| Host Name | G |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 03:04:46 |
+| Lobby ID | 28505204029753649 |
+| Players | 1/15 |
+| Host Name | Амбассадор Лопер |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 03:05:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204027443067 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | kagni |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 03:02:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204030069669 |
-| Players | 8/15 |
-| Host Name | pop |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 03:05:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204029753649 |
-| Players | 2/15 |
-| Host Name | FOREVER young |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 03:05:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -155,13 +137,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 03:05:28 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204030738422 |
+| Players | 2/10 |
+| Host Name | alohadance |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 03:06:09 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204027933358 |
-| Players | 14/15 |
-| Host Name | gpgatoo120 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, November 5, 2023 03:03:13 |
+| Lobby ID | 28505204028966430 |
+| Players | 4/15 |
+| Host Name | Isshō | |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, November 5, 2023 03:04:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -198,5 +189,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | you're scared? |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, November 5, 2023 03:05:21 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505204030621987 |
+| Players | 1/10 |
+| Host Name | Qnce |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 03:06:02 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505204030779517 |
+| Players | 3/5 |
+| Host Name | ETESKIN |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, November 5, 2023 03:06:11 |
 
 
