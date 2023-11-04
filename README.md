@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202794989825 |
-| Players | 20/24 |
-| Host Name | Daniel |
+| Lobby ID | 28505202795669670 |
+| Players | 4/8 |
+| Host Name | BelliGol |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 11:16:10 |
+| Lobby Creation Time | Saturday, November 4, 2023 11:17:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202794462755 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | RASTREANDO TU IP CERRANO CTV |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:15:27 |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:08:45 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202794852445 |
-| Players | 14/15 |
-| Host Name | Enrage |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:15:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202795669670 |
-| Players | 3/8 |
-| Host Name | BelliGol |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 11:17:07 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202795804531 |
@@ -90,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Instagram |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 11:17:18 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202796022122 |
+| Players | 1/24 |
+| Host Name | VOy a fedear aviso ! |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 11:17:36 |
 
 
 |  | epic_boss_fight_normal |
