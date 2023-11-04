@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203018761313 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:12:35 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203018589015 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | m0yonezzy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:12:25 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203002809952 |
-| Players | 11/15 |
-| Host Name | hi |
+| Players | 8/15 |
+| Host Name | blink dagger and bkb |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:57:45 |
 
@@ -95,10 +95,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203019654396 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Видящий Угадайка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:13:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203012563168 |
+| Players | 21/24 |
+| Host Name | Weed |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 15:06:52 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203019967077 |
+| Players | 1/24 |
+| Host Name | kieve |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 4, 2023 15:13:42 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203020004985 |
+| Players | 1/24 |
+| Host Name | ハーパー |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 15:13:44 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -140,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203019519457 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Rebecca |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:13:18 |
