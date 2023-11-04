@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203004472277 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | EVOLɅE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:59:18 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203004600630 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Shade1 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:59:25 |
@@ -130,20 +130,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203005657019 |
+| Lobby ID | 28505203006012080 |
 | Players | 2/10 |
 | Host Name | Wokki |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 4, 2023 15:00:26 |
+| Lobby Creation Time | Saturday, November 4, 2023 15:00:46 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203005712396 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | uselessuselessuselessuseless |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:00:29 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203005890589 |
+| Players | 1/10 |
+| Host Name | Copvix |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 15:00:39 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -167,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203003541149 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Kimdyy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:58:26 |
@@ -176,7 +185,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203003467742 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Mandarin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:58:22 |
