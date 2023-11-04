@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204122680848 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | CHAD NORRIZ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 04:48:10 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204122579476 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Ice |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 04:48:02 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204122151595 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | w0nKa |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 04:47:29 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204122532399 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | TvoiTamada |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Sunday, November 5, 2023 04:47:58 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204121980041 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | Stivhen |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 04:47:17 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204123006330 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | ЕБАДОЛБ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 04:48:35 |
