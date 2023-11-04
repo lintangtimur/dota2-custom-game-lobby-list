@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204200896519 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Poomp |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 06:39:50 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204200849661 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | VoDka-KimimarO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:39:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204199700746 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | BaN el zorro |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:37:54 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204199366536 |
-| Players | 5/10 |
-| Host Name | Саша-АмНям |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 06:37:22 |
+| Lobby ID | 28505204200943188 |
+| Players | 1/10 |
+| Host Name | Yisus |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 06:39:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204199954507 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Monero |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:38:19 |
@@ -113,28 +113,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204199939055 |
-| Players | 3/24 |
-| Host Name | Micho |
+| Players | 2/24 |
+| Host Name | Bakita Hanma |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:38:17 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204200021741 |
-| Players | 14/15 |
-| Host Name | Elinbarrage |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 06:38:25 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204200943188 |
-| Players | 1/10 |
-| Host Name | Yisus |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 06:39:54 |
+| Lobby ID | 28505204200966370 |
+| Players | 4/10 |
+| Host Name | constinty wearin |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 06:39:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204201024636 |
+| Players | 2/15 |
+| Host Name | Dan91 |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 06:40:02 |
 
 
 |  | epic_boss_fight_normal |
