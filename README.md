@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202981999349 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | KVASLOVER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:38:06 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:10:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202972997642 |
-| Players | 14/15 |
-| Host Name | hi |
+| Lobby ID | 28505202982955437 |
+| Players | 1/24 |
+| Host Name | h0h0 |
 | Region | USWEST |
-| Lobby Creation Time | Saturday, November 4, 2023 14:29:41 |
+| Lobby Creation Time | Saturday, November 4, 2023 14:39:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202982393116 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | 3-hp |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:38:28 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202980295677 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | ✟ מִיכָאֵל ✟ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:36:30 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202982226905 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 14:38:18 |
@@ -108,6 +108,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Goatse |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:38:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202982755663 |
+| Players | 1/10 |
+| Host Name | B as in Boy |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 14:38:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202979805531 |
+| Players | 6/8 |
+| Host Name | Tryhard |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 14:36:02 |
 
 
 |  | epic_boss_fight_nightmare |
