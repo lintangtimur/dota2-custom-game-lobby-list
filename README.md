@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:21:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202797718196 |
-| Players | 1/10 |
-| Host Name | Selfish |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 4, 2023 11:19:57 |
+| Lobby ID | 28505202799507150 |
+| Players | 1/24 |
+| Host Name | Dr Tazerenix |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 11:22:25 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202796163279 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | MoonWalker |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 11:17:48 |
@@ -86,25 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202798694689 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | (T_T) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:21:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202798460077 |
-| Players | 13/15 |
-| Host Name | ^^bongafonx` |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 11:20:59 |
+| Lobby ID | 28505202798987019 |
+| Players | 7/8 |
+| Host Name | BABYODA |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 11:21:43 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202798932080 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Karl |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:21:38 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202798987019 |
-| Players | 6/8 |
-| Host Name | BABYODA |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 11:21:43 |
+| Lobby ID | 28505202799396250 |
+| Players | 1/8 |
+| Host Name | SantiiSc |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 11:22:16 |
 
 
 |  | epic_boss_fight_normal |
