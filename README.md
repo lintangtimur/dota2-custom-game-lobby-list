@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203121619479 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Anthony Berguermonte Talcone |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 4, 2023 16:47:08 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203132933116 |
-| Players | 6/8 |
-| Host Name | Ukrainian  SERAPH |
-| Region | AUSTRIA |
-| Lobby Creation Time | Saturday, November 4, 2023 16:57:51 |
+| Lobby ID | 28505203133657729 |
+| Players | 1/8 |
+| Host Name | pr0skill проскилович ^_^ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 16:58:32 |
 
 
 |  | ot3_desert_octet |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | NN✪Kyoko |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:58:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203133651576 |
+| Players | 1/15 |
+| Host Name | Sch |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 16:58:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203132839472 |
+| Players | 5/8 |
+| Host Name | Rain |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 16:57:46 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203129991079 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | (^^) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:55:04 |
@@ -144,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Чебуратор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:55:14 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505203133637804 |
+| Players | 1/5 |
+| Host Name | Bobcat |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 4, 2023 16:58:31 |
 
 
