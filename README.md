@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202904224548 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | HUY¶~¶sos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:23:00 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202902841457 |
-| Players | 6/24 |
-| Host Name | 壶转 |
+| Players | 2/24 |
+| Host Name | Empty |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 13:21:33 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202903588921 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | Leeney♥ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 13:22:20 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 13:17:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202904351643 |
-| Players | 7/10 |
-| Host Name | Bored- |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 13:23:08 |
+| Lobby ID | 28505202905147051 |
+| Players | 1/15 |
+| Host Name | shojun侍 |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 13:23:58 |
 
 
 |  | ot3_desert_octet |
@@ -117,6 +117,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Yeager |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 13:22:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202905169882 |
+| Players | 3/10 |
+| Host Name | J h a n |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 13:24:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202905162052 |
+| Players | 1/8 |
+| Host Name | Яйцеглот |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 4, 2023 13:23:59 |
 
 
 |  | epic_boss_fight_nightmare |
