@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203461417568 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | die |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 20:45:46 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 21:41:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203577596244 |
-| Players | 2/8 |
-| Host Name | хозяин крипов |
+| Lobby ID | 28505203575886658 |
+| Players | 2/10 |
+| Host Name | EVOLUTION- |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 21:47:39 |
+| Lobby Creation Time | Saturday, November 4, 2023 21:46:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 21:48:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505203583146719 |
-| Players | 7/8 |
-| Host Name | Bungbeem |
+| Lobby ID | 28505203492336611 |
+| Players | 23/24 |
+| Host Name | Brotino |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 21:50:36 |
+| Lobby Creation Time | Saturday, November 4, 2023 21:02:42 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203581890915 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | KOUSSSAAAA |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 4, 2023 21:49:57 |
@@ -166,20 +166,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203583480427 |
-| Players | 1/10 |
-| Host Name | Life Is Roblox |
-| Region | SOUTHAFRICA |
+| Lobby ID | 28505203583479600 |
+| Players | 6/10 |
+| Host Name | Я пивоман |
+| Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 21:50:47 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203582689831 |
-| Players | 13/15 |
-| Host Name | Nihdogg |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 4, 2023 21:50:22 |
+| Lobby ID | 28505203541161896 |
+| Players | 2/15 |
+| Host Name | Java |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 21:28:39 |
 
 
 |  | ot3_jungle_quintet |
@@ -230,7 +230,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203582991099 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | учиха пудж |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 21:50:31 |
@@ -263,31 +263,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 21:50:41 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203551392045 |
+| Players | 6/8 |
+| Host Name | На пельменях |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 21:34:00 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505203492336611 |
-| Players | 20/24 |
-| Host Name | Brotino |
+| Lobby ID | 28505203583723904 |
+| Players | 1/24 |
+| Host Name | J.A |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 21:50:55 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203564028469 |
+| Players | 11/24 |
+| Host Name | EDP.Nik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 21:40:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203583146719 |
+| Players | 2/8 |
+| Host Name | legkae |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 21:02:42 |
+| Lobby Creation Time | Saturday, November 4, 2023 21:50:36 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203541161896 |
-| Players | 1/15 |
-| Host Name | Java |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 21:28:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203583479600 |
-| Players | 1/10 |
-| Host Name | Я пивоман |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 21:50:47 |
+| Lobby ID | 28505203582689831 |
+| Players | 14/15 |
+| Host Name | Nihdogg |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 4, 2023 21:50:22 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -299,20 +317,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 21:27:27 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505203580253853 |
-| Players | 5/5 |
-| Host Name | MORFEY |
-| Region | AUSTRIA |
-| Lobby Creation Time | Saturday, November 4, 2023 21:49:04 |
+| Lobby ID | 28505203523580268 |
+| Players | 9/10 |
+| Host Name | Duck My Sick |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 21:19:22 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203508967170 |
-| Players | 5/10 |
-| Host Name | OhmMYoHM |
+| Players | 1/10 |
+| Host Name | sERIKAeri |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 21:11:36 |
 
@@ -320,27 +338,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203580191896 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Aonka |
 | Region | AUSTRIA |
 | Lobby Creation Time | Saturday, November 4, 2023 21:49:02 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505203583106465 |
-| Players | 1/5 |
-| Host Name | Камень |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, November 4, 2023 21:50:35 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505203523580268 |
-| Players | 8/10 |
-| Host Name | Duck My Sick |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 21:19:22 |
 
 
