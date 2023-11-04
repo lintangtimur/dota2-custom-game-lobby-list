@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203002809952 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | hi |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:57:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203011680096 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | bloomtodeath |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 15:06:03 |
@@ -83,22 +83,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 15:06:23 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505203012191049 |
-| Players | 2/24 |
-| Host Name | Fear more |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, November 4, 2023 15:06:32 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203012010673 |
-| Players | 2/8 |
-| Host Name | Камиль |
+| Lobby ID | 28505203012370087 |
+| Players | 1/8 |
+| Host Name | миракл в прайме |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 15:06:22 |
+| Lobby Creation Time | Saturday, November 4, 2023 15:06:42 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203012254772 |
+| Players | 1/24 |
+| Host Name | Fear more |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 4, 2023 15:06:35 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203012283173 |
+| Players | 2/10 |
+| Host Name | fassadsafdsafsad |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 15:06:37 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | k-9c |
 | Region | AUSTRIA |
 | Lobby Creation Time | Saturday, November 4, 2023 15:05:35 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505203005697249 |
-| Players | 8/10 |
-| Host Name | Антонио Еблэнас |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 15:00:28 |
 
 
