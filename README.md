@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203894327400 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Cobaken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 01:02:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203893087523 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | ZXC_DMT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 01:01:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203894402002 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | MONO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 01:02:55 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203893528005 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Jesus is a negro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 01:02:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203894052423 |
-| Players | 5/8 |
-| Host Name | НЯм-Ням |
-| Region | AUSTRIA |
-| Lobby Creation Time | Sunday, November 5, 2023 01:02:38 |
+| Lobby ID | 28505203894738170 |
+| Players | 2/10 |
+| Host Name | :v |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 01:03:11 |
 
 
 |  | ot3_desert_octet |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 00:58:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203877781067 |
-| Players | 22/24 |
-| Host Name | clatus |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 00:50:16 |
+| Lobby ID | 28505203894960074 |
+| Players | 1/8 |
+| Host Name | Need? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 01:03:22 |
 
 
 |  | ot3_gardens_duo |
@@ -176,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203890627679 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | ็ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 5, 2023 00:59:55 |
@@ -191,13 +191,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 00:48:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203894533213 |
-| Players | 1/15 |
-| Host Name | саянчик |
+| Lobby ID | 28505203892572438 |
+| Players | 7/8 |
+| Host Name | i have brain damage, sry |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 01:03:01 |
+| Lobby Creation Time | Sunday, November 5, 2023 01:01:27 |
 
 
 |  | ot3_gardens_duo |
@@ -220,56 +220,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203892515441 |
-| Players | 14/15 |
-| Host Name | Bratwurst |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 5, 2023 01:01:25 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203875502886 |
-| Players | 6/10 |
-| Host Name | ОТБИТЫЙ ПАНК |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 00:48:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28505203889498719 |
 | Players | 4/15 |
 | Host Name | ビクトリー-ガイズ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 00:59:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203894738170 |
-| Players | 2/10 |
-| Host Name | :v |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 01:03:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203892572438 |
-| Players | 5/8 |
-| Host Name | i have brain damage, sry |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 01:01:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203894757969 |
-| Players | 1/15 |
-| Host Name | Carry Styles |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 5, 2023 01:03:12 |
 
 
 |  | epic_boss_fight_challenger |
