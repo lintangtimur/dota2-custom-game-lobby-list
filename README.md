@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202898001495 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Weganerd |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 13:16:26 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202898038824 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Skarp. TRADEIT.GG |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 13:16:29 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202898139193 |
-| Players | 18/24 |
+| Players | 23/24 |
 | Host Name | Sadlife |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 13:16:35 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 13:17:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202899280690 |
-| Players | 1/15 |
-| Host Name | sadboi |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 13:17:48 |
+| Lobby ID | 28505202900066704 |
+| Players | 3/8 |
+| Host Name | Andy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 13:18:37 |
 
 
 |  | ot3_jungle_quintet |
@@ -137,15 +137,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 13:17:56 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202900066704 |
-| Players | 3/8 |
-| Host Name | Andy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 13:18:37 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202880318322 |
@@ -158,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202897120030 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Epicose |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:15:30 |
