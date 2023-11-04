@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202866361050 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | MoonWalker |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:41:53 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202863460170 |
-| Players | 2/24 |
-| Host Name | J.X.J. |
+| Players | 1/24 |
+| Host Name | Bald globe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:38:41 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202868153661 |
-| Players | 1/8 |
-| Host Name | витя бетонщик |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 4, 2023 12:43:51 |
+| Lobby ID | 28505202868048864 |
+| Players | 3/8 |
+| Host Name | Целуйте ноги мне |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 12:43:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 12:41:26 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202862694745 |
-| Players | 1/24 |
-| Host Name | Fabian! |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 4, 2023 12:37:51 |
+| Lobby ID | 28505202866927743 |
+| Players | 6/8 |
+| Host Name | KuroiBlazr |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 12:42:30 |
 
 
 |  | ot3_jungle_quintet |
@@ -135,59 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | JJJJJJ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:40:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202866927743 |
-| Players | 6/8 |
-| Host Name | KuroiBlazr |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 12:42:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202862370237 |
-| Players | 14/15 |
-| Host Name | Топ 100 Антарктиды |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 12:37:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202868048864 |
-| Players | 3/8 |
-| Host Name | Целуйте ноги мне |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 12:43:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202868152390 |
-| Players | 4/8 |
-| Host Name | wolfhound |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 12:43:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202868200591 |
-| Players | 3/8 |
-| Host Name | Spit in my face |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 12:43:54 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28505202867189463 |
-| Players | 2/7 |
-| Host Name | Kerry Copito |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 12:42:47 |
 
 
