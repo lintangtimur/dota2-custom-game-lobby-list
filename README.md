@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204158028018 |
-| Players | 2/8 |
-| Host Name | AriBri<3 |
+| Players | 1/8 |
+| Host Name | ScorpioN |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 05:36:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204159099198 |
-| Players | 3/8 |
-| Host Name | -$ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 05:37:32 |
+| Lobby ID | 28505204159422018 |
+| Players | 1/24 |
+| Host Name | ุexw_onoma |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, November 5, 2023 05:38:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204157872235 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 05:35:49 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204158659446 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | KcSMr |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 05:36:55 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204158661610 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Bane |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 05:36:55 |
@@ -113,27 +113,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204159182563 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | unreall heavenly |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 05:37:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204159149635 |
-| Players | 5/10 |
-| Host Name | enjoy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 05:37:37 |
+| Lobby ID | 28505204159590602 |
+| Players | 1/24 |
+| Host Name | Desolated (All Mute) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 05:38:14 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204158491907 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | GHINZU |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 05:36:41 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505204159343248 |
+| Players | 1/10 |
+| Host Name | ► Good gay, noob played |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 05:37:53 |
 
 
