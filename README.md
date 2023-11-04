@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505203044205850 |
+| Lobby ID | 28505203043797339 |
 | Players | 1/24 |
-| Host Name | ZerefDragneel |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 15:35:49 |
+| Host Name | Salival |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 15:35:27 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203043829614 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | kl |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 15:35:29 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203043844078 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | tryhard |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:35:30 |
@@ -85,11 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505203043797339 |
+| Lobby ID | 28505203044420764 |
 | Players | 1/24 |
-| Host Name | Salival |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 15:35:27 |
+| Host Name | Ralph.KM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 15:36:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203044425483 |
+| Players | 2/15 |
+| Host Name | The Dead of Marshes |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 15:36:01 |
 
 
 |  | epic_boss_fight_nightmare |
