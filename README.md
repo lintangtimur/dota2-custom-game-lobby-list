@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203050506745 |
-| Players | 4/10 |
-| Host Name | I'm a talentless bastard |
+| Players | 3/10 |
+| Host Name | ISPANEC |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:41:35 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203049134840 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | ... |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:40:20 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:36:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203050609320 |
+| Players | 1/8 |
+| Host Name | ebawy kak f0rest |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 15:41:41 |
 
 
 |  | epic_boss_fight_nightmare |
