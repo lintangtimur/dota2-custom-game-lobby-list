@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202803251632 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | BEER+LUCK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:27:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202802040941 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Bonitos y gorditos hijos de puta |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:25:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202802100631 |
-| Players | 10/24 |
+| Players | 8/24 |
 | Host Name | Adrenaline Junkie |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 11:25:52 |
@@ -56,22 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:11:41 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202803245287 |
-| Players | 7/8 |
-| Host Name | Muy Malo |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 11:27:21 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202802905348 |
-| Players | 9/10 |
-| Host Name | 床单 |
+| Lobby ID | 28505202803835392 |
+| Players | 2/10 |
+| Host Name | sa';das';as |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:26:54 |
+| Lobby Creation Time | Saturday, November 4, 2023 11:28:08 |
 
 
 |  | ot3_jungle_quintet |
@@ -81,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Cptn.Canuck |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:27:36 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202803842412 |
+| Players | 1/24 |
+| Host Name | Wo die Zitronen bluehen |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, November 4, 2023 11:28:09 |
 
 
 |  | epic_boss_fight_nightmare |
