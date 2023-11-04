@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203069193207 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | XBOX SERIES Z |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:58:37 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203078693524 |
-| Players | 9/15 |
-| Host Name | MUTANT ШАЙЛУШАЙ |
+| Lobby ID | 28505203076037158 |
+| Players | 14/15 |
+| Host Name | llllIllllllllllllllIllllllllllll |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:07:16 |
+| Lobby Creation Time | Saturday, November 4, 2023 16:04:50 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203078784836 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | ☺ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:07:21 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203063591040 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Kawaii Tolkien Black Jesus |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 15:53:32 |
@@ -104,16 +104,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203076079090 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:04:52 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203079834291 |
+| Players | 1/8 |
+| Host Name | Жадность |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 16:08:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203078902888 |
+| Players | 9/15 |
+| Host Name | _H1BoT_2 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 16:07:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203080031101 |
+| Players | 1/15 |
+| Host Name | The Dead of Marshes |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 16:08:30 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203078631512 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 11 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:07:13 |
@@ -128,15 +155,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 16:06:08 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505203078925015 |
-| Players | 1/10 |
-| Host Name | biubiubiup |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 16:07:29 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28505203079392060 |
@@ -144,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ТурбоZавр |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, November 4, 2023 16:07:55 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28505203079973820 |
+| Players | 1/7 |
+| Host Name | Hansol |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 16:08:27 |
 
 
