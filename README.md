@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202818786124 |
-| Players | 2/15 |
+| Players | 9/15 |
 | Host Name | 33 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:47:06 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202817635745 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:45:41 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202817171588 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:45:07 |
@@ -110,22 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:46:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202819033172 |
-| Players | 1/8 |
-| Host Name | Mr. Chikiryau |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:47:24 |
+| Lobby ID | 28505202819236794 |
+| Players | 1/24 |
+| Host Name | please dont ban AA |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 11:47:39 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202819031650 |
+| Lobby ID | 28505202819249214 |
 | Players | 1/8 |
-| Host Name | листья лозы |
+| Host Name | lumee |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:47:24 |
+| Lobby Creation Time | Saturday, November 4, 2023 11:47:40 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -155,12 +155,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:46:58 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505202818895940 |
-| Players | 1/7 |
+| Lobby ID | 28505202819179839 |
+| Players | 1/5 |
 | Host Name | suslik |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:47:14 |
+| Lobby Creation Time | Saturday, November 4, 2023 11:47:35 |
 
 
