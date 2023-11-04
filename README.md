@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202984730373 |
+| Lobby ID | 28505202984067707 |
 | Players | 4/8 |
-| Host Name | Яйцеглот |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 14:40:41 |
+| Host Name | MisterFoxxy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 14:40:03 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202983496590 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | WR+ROT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:39:31 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202983785663 |
-| Players | 2/10 |
-| Host Name | B as in Boy |
+| Players | 1/10 |
+| Host Name | Dragos |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:39:47 |
 
@@ -95,28 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202984507969 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:40:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202984067707 |
-| Players | 4/8 |
-| Host Name | MisterFoxxy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 14:40:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202985413052 |
-| Players | 8/15 |
-| Host Name | P.S.I.X |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 14:41:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,27 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505202984168333 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | Dlay |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 14:40:09 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505202985874707 |
-| Players | 1/10 |
-| Host Name | . Skye |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 14:41:46 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505202985877651 |
-| Players | 1/5 |
-| Host Name | Koz9va♡ |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 14:41:46 |
 
 
