@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202840628023 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | AMA TU PERU CTMRE |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 12:13:04 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:10:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202835699364 |
-| Players | 1/24 |
-| Host Name | Plastic Pop can |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 12:07:18 |
+| Lobby ID | 28505202841341204 |
+| Players | 2/8 |
+| Host Name | XxS4R37H xX |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 12:13:52 |
 
 
 |  | ot3_jungle_quintet |
@@ -157,11 +157,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202839687528 |
-| Players | 23/24 |
-| Host Name | Time Ower |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 12:11:57 |
+| Lobby ID | 28505202841357906 |
+| Players | 1/24 |
+| Host Name | Sid, el indomable :v |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 12:13:53 |
 
 
 |  | epic_boss_fight_normal |
@@ -180,5 +180,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Papita Frita con Cremas |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:09:12 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505202841341854 |
+| Players | 2/10 |
+| Host Name | Minez |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 12:13:52 |
 
 
