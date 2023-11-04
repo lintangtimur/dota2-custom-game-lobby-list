@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:54:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202824816064 |
-| Players | 8/10 |
-| Host Name | dW |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 11:54:26 |
+| Lobby ID | 28505202823812743 |
+| Players | 12/15 |
+| Host Name | Sstine |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 11:53:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202823649862 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Chrisnochet |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:53:03 |
@@ -104,54 +104,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202823098959 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | PonToday |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:52:23 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505202823342667 |
-| Players | 9/10 |
-| Host Name | NO SE |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 11:52:41 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202823812743 |
-| Players | 10/15 |
-| Host Name | Sstine |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:53:15 |
+| Lobby ID | 28505202825328017 |
+| Players | 3/15 |
+| Host Name | ToweLie Reloded |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 11:55:03 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202823210083 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Minez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 11:52:31 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505202823227219 |
-| Players | 2/5 |
-| Host Name | =) |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 11:52:33 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505202825177679 |
-| Players | 1/5 |
-| Host Name | HolySit |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:54:52 |
 
 
