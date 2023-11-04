@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202842185573 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | ☥†A.K.A AlienEv†☥ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:14:50 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202840546310 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Enrique |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:12:58 |
@@ -103,20 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202842742830 |
+| Lobby ID | 28505202843069372 |
 | Players | 1/15 |
-| Host Name | 有钱人 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 12:15:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202841618730 |
-| Players | 6/8 |
-| Host Name | инфоцыган |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 12:14:11 |
+| Host Name | Politician=Parasite |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 12:15:52 |
 
 
 |  | epic_boss_fight_normal |
@@ -128,21 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 12:11:04 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505202842410922 |
-| Players | 1/5 |
-| Host Name | CooKie! |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 12:15:06 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505202842913459 |
-| Players | 1/5 |
-| Host Name | Xin cái Tuổi? |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 12:15:41 |
+| Lobby ID | 28505202843063438 |
+| Players | 1/10 |
+| Host Name | TrX. Aki¤€.Fear |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 12:15:52 |
 
 
