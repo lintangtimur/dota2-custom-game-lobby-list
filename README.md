@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204195960818 |
-| Players | 21/24 |
-| Host Name | BOMBERMAN |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 06:31:58 |
+| Lobby ID | 28505204196742675 |
+| Players | 4/8 |
+| Host Name | D1MENS10N |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 06:33:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204181664863 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 5, 2023 06:09:57 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 04:30:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204186934480 |
-| Players | 24/24 |
-| Host Name | ahUO |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, November 5, 2023 06:17:54 |
+| Lobby ID | 28505204196424404 |
+| Players | 1/8 |
+| Host Name | Selfish |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 06:32:42 |
 
 
 |  | ot3_gardens_duo |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204196149390 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | papita papita xd |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:32:16 |
@@ -122,28 +122,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204196569080 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 06:32:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204196424404 |
-| Players | 1/8 |
-| Host Name | Selfish |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 06:32:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204196654548 |
-| Players | 1/8 |
-| Host Name | Soy humilde |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 06:33:04 |
 
 
 |  | epic_boss_fight_normal |
