@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203069193207 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | XBOX SERIES Z |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:58:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203076648597 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | а |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:05:23 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203076079090 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:04:52 |
@@ -77,10 +77,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203076939211 |
-| Players | 2/15 |
+| Players | 10/15 |
 | Host Name | ya_ryadom l t.tv |
 | Region | AUSTRIA |
 | Lobby Creation Time | Saturday, November 4, 2023 16:05:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203063591040 |
+| Players | 13/15 |
+| Host Name | Thug Life |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 15:53:32 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203077161191 |
+| Players | 1/24 |
+| Host Name | Kajhofish |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 16:05:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203077175478 |
+| Players | 3/8 |
+| Host Name | Кошачий корм |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 16:05:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Nitva |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:00:05 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505203077095373 |
+| Players | 1/5 |
+| Host Name | Чакыр Маняо Джидж |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 4, 2023 16:05:48 |
 
 
