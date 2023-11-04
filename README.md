@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505202992503693 |
 | Players | 2/8 |
-| Host Name | новогодний вайб |
+| Host Name | Canela pasión |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:47:58 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202983685627 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | Battoosaii |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 14:39:41 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202994111031 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | 🅰🆂🅲🅴🆂🅸🆂 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:49:29 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202992529822 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | myls |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:48:00 |
@@ -153,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Spike Duck |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:47:57 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505202994192627 |
+| Players | 1/5 |
+| Host Name | IIpopok |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 14:49:33 |
 
 
