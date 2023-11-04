@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203225968504 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 𝙃𝘰𝘳𝘳𝘰𝘳 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 18:20:02 |
@@ -119,19 +119,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 18:19:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203224676359 |
-| Players | 10/15 |
-| Host Name | Alexandr The Great |
+| Lobby ID | 28505203224222396 |
+| Players | 7/8 |
+| Host Name | r3dq |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 18:19:04 |
+| Lobby Creation Time | Saturday, November 4, 2023 18:18:43 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203223551286 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | буравчик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 18:18:13 |
@@ -148,19 +148,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203224222396 |
-| Players | 7/8 |
-| Host Name | N.I.K.A.R.K.H.O |
+| Lobby ID | 28505203217942179 |
+| Players | 4/8 |
+| Host Name | coldichip(`з´) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 18:18:43 |
+| Lobby Creation Time | Saturday, November 4, 2023 18:13:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203220113043 |
+| Players | 9/10 |
+| Host Name | Lada niva 4 life! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 18:15:34 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203217712266 |
-| Players | 14/15 |
+| Players | 12/15 |
 | Host Name | похуй мне |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 18:13:42 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505203226294913 |
+| Players | 1/10 |
+| Host Name | Shallowdream、 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 18:20:17 |
 
 
