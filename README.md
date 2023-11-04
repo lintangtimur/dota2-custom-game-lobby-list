@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203953048707 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Rosé- |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 01:53:00 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203955044438 |
-| Players | 7/10 |
-| Host Name | Wukash |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 01:54:44 |
+| Lobby ID | 28505203955229946 |
+| Players | 4/10 |
+| Host Name | TonyMewntaNa! |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 5, 2023 01:54:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203948008557 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name |  Quest For Salvation  |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 01:48:36 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203952246610 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Gab |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 01:52:18 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203953814315 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | nkf |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 01:53:40 |
@@ -175,20 +175,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203954175499 |
-| Players | 6/8 |
-| Host Name | акунаматата |
+| Lobby ID | 28505203940079002 |
+| Players | 5/8 |
+| Host Name | Füstösszaftosbarack |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 01:53:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203955229946 |
-| Players | 1/10 |
-| Host Name | TonyMewntaNa! |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 5, 2023 01:54:54 |
+| Lobby Creation Time | Sunday, November 5, 2023 01:41:42 |
 
 
 |  | epic_boss_fight_nightmare |
