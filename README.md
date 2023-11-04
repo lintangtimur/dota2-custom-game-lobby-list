@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202850647044 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | depko13 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:24:29 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202850053845 |
-| Players | 6/10 |
-| Host Name | 110 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 12:23:49 |
+| Lobby ID | 28505202851604461 |
+| Players | 7/10 |
+| Host Name | Chunchunmaru |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 12:25:34 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,28 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202851720934 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | unvalibavol |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:25:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505202851604461 |
-| Players | 7/10 |
-| Host Name | Chunchunmaru |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 12:25:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202851887490 |
-| Players | 3/8 |
-| Host Name | i kill u |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, November 4, 2023 12:25:53 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -140,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202851254305 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Fihed |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 12:25:10 |
