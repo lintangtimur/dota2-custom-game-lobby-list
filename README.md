@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202942279429 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | 路人 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:00:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202942709649 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | pepegucci |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:01:07 |
@@ -128,24 +128,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:00:52 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202943076062 |
-| Players | 2/8 |
-| Host Name | Todo anda mal |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 4, 2023 14:01:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202943082094 |
-| Players | 4/8 |
-| Host Name | DYNAMO |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 14:01:29 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202943082962 |
@@ -153,6 +135,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Кар-карыч |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, November 4, 2023 14:01:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202943098934 |
+| Players | 2/15 |
+| Host Name | 永恒.T-Rex |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 14:01:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202943234743 |
+| Players | 1/8 |
+| Host Name | CumHere |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 14:01:38 |
 
 
 |  | epic_boss_fight_nightmare |
