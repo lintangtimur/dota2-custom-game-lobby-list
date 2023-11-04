@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203187921630 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | IM COOKIN |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 4, 2023 17:48:53 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203189112952 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:49:55 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203189280780 |
-| Players | 3/10 |
-| Host Name | my heart will leave you never |
+| Players | 4/10 |
+| Host Name | Adam West |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:50:03 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203187670534 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Shinraaaa~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 17:48:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203188164277 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Жадность |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:49:06 |
@@ -99,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | twitch.tv/k_vr4 |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 17:44:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203189533409 |
+| Players | 2/10 |
+| Host Name | BRAMBRAGE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 17:50:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203166742453 |
+| Players | 9/10 |
+| Host Name | depressed kid |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 17:30:11 |
 
 
 |  | epic_boss_fight_nightmare |
