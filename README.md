@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202955713831 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | no excuses |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:13:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202939937230 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | smokyma |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:58:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202952718775 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 14:10:39 |
@@ -77,25 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202956182957 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Ｍ８ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:13:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202956236733 |
-| Players | 5/8 |
-| Host Name | Яйцеглот |
+| Lobby ID | 28505202956572763 |
+| Players | 2/24 |
+| Host Name | 1 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 14:13:57 |
+| Lobby Creation Time | Saturday, November 4, 2023 14:14:16 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202953806847 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Vuvuzela Virtuoso Hans Rudolph |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:11:41 |
@@ -110,19 +110,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:13:45 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202956503041 |
-| Players | 1/24 |
-| Host Name | อำนวย บรรทวยรวยทอง |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 14:14:12 |
-
-
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28505202955970524 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | Raizel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:13:42 |
