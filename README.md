@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:20:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202960041729 |
-| Players | 22/24 |
-| Host Name | POM |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 14:17:31 |
+| Lobby ID | 28505202964983556 |
+| Players | 4/8 |
+| Host Name | WRIPwrip |
+| Region | AUSTRIA |
+| Lobby Creation Time | Saturday, November 4, 2023 14:22:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202956572763 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | qpepyM |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:14:16 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202959213145 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | ACollosalWreck |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:16:44 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202963368553 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | MickeY |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:20:40 |
@@ -112,28 +112,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202964983556 |
-| Players | 2/8 |
-| Host Name | WRIPwrip |
-| Region | AUSTRIA |
-| Lobby Creation Time | Saturday, November 4, 2023 14:22:12 |
+| Lobby ID | 28505202965222724 |
+| Players | 1/8 |
+| Host Name | CumHere |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 14:22:25 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202962820271 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Yatoro雨 fan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:20:09 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505202965131039 |
-| Players | 1/5 |
-| Host Name | 󠁳insaniac |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 14:22:20 |
 
 
