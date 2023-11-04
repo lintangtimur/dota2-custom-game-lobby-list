@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203018232294 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Tony Tony Chopper |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 15:12:05 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203020720809 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | CALLA BURRE |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 15:14:24 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203020771974 |
-| Players | 1/24 |
-| Host Name | Kermit Da Frog |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 15:14:27 |
+| Lobby ID | 28505203022267854 |
+| Players | 1/8 |
+| Host Name | b u d d h a |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 15:15:50 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203018761309 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | ... |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:12:35 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203021542529 |
-| Players | 2/15 |
+| Players | 10/15 |
 | Host Name | ТУКИ ТУКИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:15:10 |
