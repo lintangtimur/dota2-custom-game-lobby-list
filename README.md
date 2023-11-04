@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203195208457 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Missing |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 4, 2023 17:55:06 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203193764645 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Delirium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:53:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203185003290 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | dikapb_diman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:46:21 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203191605062 |
+| Lobby ID | 28505203192712580 |
 | Players | 6/8 |
-| Host Name | Streptococcus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:52:03 |
+| Host Name | last way |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 17:53:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203194873710 |
-| Players | 1/15 |
+| Players | 9/15 |
 | Host Name | Triplesixgods |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:54:49 |
@@ -101,40 +101,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 17:44:41 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203193823886 |
-| Players | 8/10 |
-| Host Name | Yume |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:53:56 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505203193794418 |
-| Players | 17/24 |
-| Host Name | 小萌胖 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 17:53:55 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203193896418 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Snobias |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:54:00 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203193794418 |
+| Players | 15/24 |
+| Host Name | 小萌胖 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 17:53:55 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203195090139 |
-| Players | 1/10 |
-| Host Name | FRSTCMFRSTSRVD |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 4, 2023 17:55:01 |
+| Lobby ID | 28505203166742453 |
+| Players | 7/10 |
+| Host Name | Chicha de moye |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 17:30:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -148,20 +139,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28505203194153951 |
-| Players | 1/7 |
-| Host Name | huh |
+| Lobby ID | 28505203195106348 |
+| Players | 2/7 |
+| Host Name | Death Is My Bitch |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 17:54:13 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505203194092865 |
-| Players | 9/10 |
-| Host Name | XAin'tGonnaGiveIt |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 17:54:10 |
+| Lobby Creation Time | Saturday, November 4, 2023 17:55:01 |
 
 
 |  | epic_boss_fight_normal |
@@ -171,14 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Freesty Tae |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 17:54:43 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28505203195106348 |
-| Players | 2/7 |
-| Host Name | Death Is My Bitch |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 17:55:01 |
 
 
