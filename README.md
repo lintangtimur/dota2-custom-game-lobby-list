@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203085455919 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | 中身なき人間 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:13:29 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203087146336 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Böömer |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, November 4, 2023 16:15:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203086193777 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | BRAMBRAGE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:14:09 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 16:15:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203086103902 |
-| Players | 7/8 |
-| Host Name | from metal city |
+| Lobby ID | 28505203078902888 |
+| Players | 14/15 |
+| Host Name | _H1BoT_2 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:14:04 |
+| Lobby Creation Time | Saturday, November 4, 2023 16:07:28 |
 
 
 |  | ot3_desert_octet |
@@ -99,42 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ankaresto |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:15:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203076037158 |
-| Players | 14/15 |
-| Host Name | Егор Кридит |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:04:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203078902888 |
-| Players | 12/15 |
-| Host Name | _H1BoT_2 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:07:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203084333180 |
-| Players | 8/10 |
-| Host Name | terrible and horrible |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:12:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203087871960 |
-| Players | 1/10 |
-| Host Name | Br0ker |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 16:15:42 |
 
 
 |  | epic_boss_fight_nightmare |
