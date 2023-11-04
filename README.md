@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202801366155 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:24:54 |
@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202803251632 |
-| Players | 12/15 |
-| Host Name | BEER+LUCK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:27:22 |
+| Lobby ID | 28505202804016617 |
+| Players | 1/15 |
+| Host Name | 76561198335907364 |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 11:28:22 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202802040941 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Bonitos y gorditos hijos de puta |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:25:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202803883314 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | M142 HIMARS |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:28:12 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | sa';das';as |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:28:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202804123290 |
+| Players | 6/8 |
+| Host Name | KuKin.Punkkeke |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 11:28:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202804093006 |
+| Players | 1/15 |
+| Host Name | Cptn.Canuck |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 11:28:28 |
 
 
 |  | epic_boss_fight_nightmare |
