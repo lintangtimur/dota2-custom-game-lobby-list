@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203063591040 |
-| Players | 9/15 |
-| Host Name | Elegant Elephant |
+| Players | 7/15 |
+| Host Name | Thug Life |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 15:53:32 |
 
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 15:55:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203064722451 |
-| Players | 9/10 |
-| Host Name | BRAMBRAGE |
+| Lobby ID | 28505203065841859 |
+| Players | 2/15 |
+| Host Name | Goatse |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 15:54:33 |
+| Lobby Creation Time | Saturday, November 4, 2023 15:55:34 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,19 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 15:51:41 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203065841859 |
-| Players | 1/15 |
-| Host Name | Goatse |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 15:55:34 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203065293492 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | TriHard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:55:04 |
