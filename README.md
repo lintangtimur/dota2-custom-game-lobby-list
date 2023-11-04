@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203851931323 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | 猫又 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 00:31:38 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 00:36:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203839959647 |
-| Players | 12/15 |
-| Host Name | Даня зигомёт |
+| Lobby ID | 28505203859975623 |
+| Players | 1/8 |
+| Host Name | boss mentality |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 00:23:07 |
+| Lobby Creation Time | Sunday, November 5, 2023 00:37:21 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203858917576 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | ZXC_DMT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 00:36:35 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203859066441 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | манур надиршахов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 00:36:42 |
@@ -104,25 +104,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203857026679 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Палундра |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 00:35:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203848526317 |
-| Players | 6/10 |
-| Host Name | Мои яички съели птички |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 00:29:12 |
+| Lobby ID | 28505203860097295 |
+| Players | 1/8 |
+| Host Name | ,,, |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 00:37:26 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203856635918 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | >CroW< |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 00:34:57 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203857049794 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | мудрый тип |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, November 5, 2023 00:35:15 |
@@ -141,7 +141,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505203858931187 |
 | Players | 1/15 |
-| Host Name | Hayashi |
+| Host Name | Explosive_Climax |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 00:36:36 |
 
@@ -162,6 +162,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Канибал |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 00:29:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203860111069 |
+| Players | 1/15 |
+| Host Name | sun//eater |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 00:37:27 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203860194621 |
+| Players | 1/24 |
+| Host Name | |||||||||||||||||| |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 00:37:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203832062978 |
+| Players | 6/15 |
+| Host Name | tank72 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 00:17:30 |
 
 
 |  | epic_boss_fight_normal |
@@ -189,5 +216,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Escanor_la superbia |
 | Region | AUSTRIA |
 | Lobby Creation Time | Sunday, November 5, 2023 00:34:49 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505203860205380 |
+| Players | 2/10 |
+| Host Name | ✪ Janči |
+| Region | AUSTRIA |
+| Lobby Creation Time | Sunday, November 5, 2023 00:37:31 |
 
 
