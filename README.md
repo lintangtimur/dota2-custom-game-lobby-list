@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202909163439 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Thalox123 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 13:28:08 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202908400537 |
-| Players | 4/8 |
-| Host Name | wolfhound |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 13:27:21 |
+| Lobby ID | 28505202905266552 |
+| Players | 7/8 |
+| Host Name | El gato con botas |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 13:24:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202908459536 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | novak |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 13:27:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202909519262 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Phill Dz |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 13:28:30 |
@@ -113,25 +113,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202907596140 |
-| Players | 5/15 |
+| Players | 1/15 |
 | Host Name | ... |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 13:26:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202909884927 |
-| Players | 1/24 |
-| Host Name | `END |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 13:28:52 |
+| Lobby ID | 28505202910007067 |
+| Players | 1/8 |
+| Host Name | haagenti |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 13:29:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202910063987 |
+| Players | 1/8 |
+| Host Name | 1933452966 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 13:29:04 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202907571130 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Duck My Sick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 13:26:30 |
