@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204134336944 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | DiZoksi4 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 05:03:24 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204133467164 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | J.A |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 05:02:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204132814645 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Professor |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 05:01:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204131010762 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | WEED |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 04:58:53 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204134799203 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Note |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 05:04:01 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204134700041 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Flux |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Sunday, November 5, 2023 05:03:53 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204134952128 |
-| Players | 5/15 |
+| Players | 3/15 |
 | Host Name | С каждым |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:04:14 |
@@ -146,19 +146,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 05:04:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204134849174 |
-| Players | 8/10 |
-| Host Name | stfu |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 05:04:06 |
+| Lobby ID | 28505204135172981 |
+| Players | 1/15 |
+| Host Name | Dog.animal.cat |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 05:04:32 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204134779261 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | граф де Генерат |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:04:00 |
@@ -185,7 +185,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204134725080 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | _-↑MayerŠ↑-_J® |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 05:03:55 |
@@ -198,6 +198,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | xd |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, November 5, 2023 05:04:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204135150397 |
+| Players | 5/8 |
+| Host Name | WALTI |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 05:04:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204135204368 |
+| Players | 4/8 |
+| Host Name | Псих |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 05:04:34 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -234,14 +252,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tengo lag tmre |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 05:04:22 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505204135079545 |
-| Players | 1/10 |
-| Host Name | 𝓢𝓵𝓪𝓴𝓲𝓬𝓱 |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, November 5, 2023 05:04:24 |
 
 
