@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202811118001 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | 1>9 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:37:32 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:10:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202811483624 |
-| Players | 13/15 |
-| Host Name | Bald globe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:38:01 |
+| Lobby ID | 28505202812438858 |
+| Players | 2/8 |
+| Host Name | DPGaming |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 11:39:13 |
 
 
 |  | ot3_jungle_quintet |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202811893505 |
-| Players | 11/15 |
-| Host Name | Niñoblis Tu Terror +.+ |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 11:38:32 |
+| Lobby ID | 28505202811054924 |
+| Players | 14/15 |
+| Host Name | CheatT |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 11:37:27 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202812070840 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | FRANZZZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 11:38:45 |
@@ -110,28 +110,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:37:44 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202811054924 |
-| Players | 14/15 |
-| Host Name | CheatT |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 11:37:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202812310572 |
-| Players | 1/8 |
-| Host Name | PUTO EL QUE LO LEA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:39:03 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202802380595 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | 世界是残酷的 |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, November 4, 2023 11:26:14 |
@@ -140,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202811667388 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | tulindoteiro |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:38:15 |
@@ -155,12 +137,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:38:31 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505202812237266 |
-| Players | 1/5 |
-| Host Name | suslik |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 11:38:58 |
+| Lobby ID | 28505202812367695 |
+| Players | 1/10 |
+| Host Name | Be Humble |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 11:39:08 |
 
 
