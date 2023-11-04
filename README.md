@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202948625306 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Glückspilz |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:06:47 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202952718775 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 14:10:39 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202956949279 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | 大鲶鱼 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:14:37 |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202956572763 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | 1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:14:16 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505202957774283 |
-| Players | 8/10 |
-| Host Name | 我被诅咒了 |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 14:15:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202958700614 |
-| Players | 1/8 |
-| Host Name | Aloha |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 14:16:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -128,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:16:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202958889261 |
-| Players | 1/10 |
-| Host Name | い Aure - LBy <3 |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 14:16:26 |
+| Lobby ID | 28505202950867627 |
+| Players | 22/24 |
+| Host Name | Kether |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 14:08:54 |
 
 
 |  | epic_boss_fight_nightmare |
