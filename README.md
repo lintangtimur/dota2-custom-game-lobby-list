@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202823157250 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | JESUS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 11:52:28 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202821725608 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | El MALDITO CREEP |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:50:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202819390793 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 11:47:50 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202823649862 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | Chrisnochet |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:53:03 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202823812743 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Sstine |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:53:15 |
@@ -131,19 +131,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202823860498 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Матье Бал |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:53:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202824223416 |
-| Players | 1/15 |
-| Host Name | frankistein555 |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 11:53:43 |
 
 
 |  | ot3_jungle_quintet |
