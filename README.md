@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203108002154 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Alonzo |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:34:30 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203107373445 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | aa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:33:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203107824188 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Slarkas777 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:34:20 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 16:34:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203107463194 |
-| Players | 10/15 |
-| Host Name | Oldwarx |
+| Lobby ID | 28505203108465405 |
+| Players | 5/8 |
+| Host Name | MrWol4onok |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:33:59 |
+| Lobby Creation Time | Saturday, November 4, 2023 16:34:56 |
 
 
 |  | ot3_gardens_duo |
@@ -85,11 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203108465405 |
-| Players | 5/8 |
-| Host Name | MrWol4onok |
+| Lobby ID | 28505203108620599 |
+| Players | 1/8 |
+| Host Name | pr0skill проскилович ^_^ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:34:56 |
+| Lobby Creation Time | Saturday, November 4, 2023 16:35:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203108692636 |
+| Players | 1/8 |
+| Host Name | SS+ ранг loser |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 16:35:08 |
 
 
 |  | epic_boss_fight_normal |
@@ -113,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203106043731 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | After School Teatime |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 16:32:41 |
