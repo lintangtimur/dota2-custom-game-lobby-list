@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204146546345 |
-| Players | 10/15 |
-| Host Name | ♂Dungeon Master♂ |
+| Lobby ID | 28505204146795852 |
+| Players | 1/15 |
+| Host Name | Fireflies |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 05:20:04 |
+| Lobby Creation Time | Sunday, November 5, 2023 05:20:25 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204145287622 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | ЕБАДОЛБ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:18:21 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204144854428 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | Злая волчица |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:17:45 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204146689399 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | Sitru |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:20:16 |
@@ -162,24 +162,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | на яйцах |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:20:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204146795852 |
-| Players | 1/15 |
-| Host Name | Fireflies |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 05:20:25 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204145844560 |
-| Players | 7/8 |
-| Host Name | Tauro-El rey del dota |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, November 5, 2023 05:19:07 |
 
 
 |  | epic_boss_fight_challenger |
@@ -198,14 +180,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ameMODE:start |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 05:19:32 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28505204146814471 |
-| Players | 3/7 |
-| Host Name | Melofmatix |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 05:20:27 |
 
 
