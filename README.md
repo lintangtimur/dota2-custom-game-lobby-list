@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202753613411 |
-| Players | 21/24 |
-| Host Name | Yonwalther |
+| Lobby ID | 28505202755661021 |
+| Players | 8/15 |
+| Host Name | Mendenhall |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 10:18:16 |
+| Lobby Creation Time | Saturday, November 4, 2023 10:21:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202755358073 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | 大鲶鱼 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 10:20:41 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202755542770 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | MrBuba |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 10:20:57 |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202755505960 |
-| Players | 6/10 |
-| Host Name | PERUANOS HIJOS DEL PICO |
+| Players | 2/10 |
+| Host Name | FURIA ROJA |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 10:20:54 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202755733380 |
+| Players | 2/24 |
+| Host Name | nudlelay |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 10:21:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202755759747 |
+| Players | 3/15 |
+| Host Name | Ramenhotep |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 10:21:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ang qt qt ko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 10:16:20 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505202755789234 |
+| Players | 1/5 |
+| Host Name | АраАра |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 10:21:17 |
 
 
