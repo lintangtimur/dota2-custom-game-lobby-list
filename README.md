@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202906343966 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | necrophilia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:25:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202809061131 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Inahaaaaaaan!!!! |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 4, 2023 11:34:54 |
@@ -92,13 +92,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 13:22:55 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202907587349 |
+| Players | 2/10 |
+| Host Name | DANICH |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 4, 2023 13:26:31 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202907501302 |
-| Players | 1/15 |
-| Host Name | Апостол Пётр |
+| Lobby ID | 28505202907596140 |
+| Players | 7/15 |
+| Host Name | ... |
 | Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 13:26:25 |
+| Lobby Creation Time | Saturday, November 4, 2023 13:26:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202907650716 |
+| Players | 5/8 |
+| Host Name | Maliketh La Hoja Negra |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 13:26:35 |
 
 
 |  | epic_boss_fight_normal |
@@ -119,12 +137,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 13:25:56 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505202907533309 |
-| Players | 1/5 |
-| Host Name | Pirate |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 13:26:27 |
+| Lobby ID | 28505202907571130 |
+| Players | 1/10 |
+| Host Name | Duck My Sick |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 13:26:30 |
 
 
