@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202783702087 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Bloodscourge |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 10:59:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202784129095 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Enrique |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:00:33 |
@@ -78,7 +78,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505202783830705 |
 | Players | 2/15 |
-| Host Name | OfficialKTChubs |
+| Host Name | Moonlight |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 11:00:05 |
 
@@ -86,19 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202784067635 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | To Fu |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:00:28 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202784368651 |
+| Players | 1/10 |
+| Host Name | paradise |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 11:00:56 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505202777619568 |
-| Players | 1/10 |
-| Host Name | ComradeHeval |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 10:51:21 |
+| Lobby ID | 28505202783815463 |
+| Players | 3/10 |
+| Host Name | GHINZU |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 11:00:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TAPIJARO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 10:59:35 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505202783815463 |
-| Players | 3/10 |
-| Host Name | GHINZU |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 11:00:03 |
 
 
