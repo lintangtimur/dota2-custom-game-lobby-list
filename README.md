@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202847382464 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | BABY-ROSH (AL) |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:20:48 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202845767208 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Melaq |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:18:58 |
@@ -117,6 +117,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 大鲶鱼 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 12:21:24 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202848832817 |
+| Players | 1/10 |
+| Host Name | . |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 12:22:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202848898399 |
+| Players | 1/15 |
+| Host Name | feeling the dimensions |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 12:22:31 |
 
 
 |  | epic_boss_fight_nightmare |
