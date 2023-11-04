@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204186820171 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Hopeful Men (GPRD) |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:17:44 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204186058195 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 06:16:34 |
@@ -122,25 +122,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204187162568 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Cptn.Canuck |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 06:18:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204186861883 |
-| Players | 4/15 |
-| Host Name | yung tax return |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 06:17:48 |
+| Lobby ID | 28505204187408665 |
+| Players | 1/8 |
+| Host Name | бледный гнол |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 06:18:38 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204187264207 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Yonwalther |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:18:24 |
