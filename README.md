@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202921733661 |
-| Players | 1/8 |
-| Host Name | xxxx |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 4, 2023 13:40:41 |
+| Lobby ID | 28505202922069473 |
+| Players | 2/8 |
+| Host Name | Kick.com/lumaid |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 13:41:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202919665507 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | GRINGo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:38:41 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202917569548 |
-| Players | 12/24 |
+| Players | 17/24 |
 | Host Name | 归海一刀 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:36:38 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202922109855 |
+| Lobby ID | 28505202922044850 |
 | Players | 1/24 |
-| Host Name | jhgdfds |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 4, 2023 13:41:03 |
+| Host Name | era |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 13:40:59 |
 
 
 |  | ot3_gardens_duo |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202921892653 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Ромашковый чифир |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:40:50 |
@@ -139,20 +139,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202922069473 |
+| Lobby ID | 28505202922291825 |
 | Players | 1/8 |
-| Host Name | Kick.com/lumaid |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 13:41:01 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202922044850 |
-| Players | 1/24 |
-| Host Name | era |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 13:40:59 |
+| Host Name | WRIPwrip |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 13:41:14 |
 
 
 |  | epic_boss_fight_nightmare |
