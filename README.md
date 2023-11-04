@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204088641310 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 04:07:58 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204088679411 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | SosuZaMef |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, November 5, 2023 04:08:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204086395248 |
-| Players | 2/8 |
-| Host Name | Yurcash |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 04:05:29 |
+| Lobby ID | 28505204088904399 |
+| Players | 2/10 |
+| Host Name | Moises |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 04:08:16 |
 
 
 |  | ot3_jungle_quintet |
@@ -40,20 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204088502419 |
-| Players | 9/10 |
-| Host Name | ♏ リアス・グレモリー |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 04:07:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204088929088 |
-| Players | 2/15 |
-| Host Name | Selfish❤ |
+| Lobby ID | 28505204089048143 |
+| Players | 2/10 |
+| Host Name | Marshal1 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 04:08:17 |
+| Lobby Creation Time | Sunday, November 5, 2023 04:08:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204087345447 |
+| Players | 4/8 |
+| Host Name | ICHZ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 04:06:32 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204086364333 |
-| Players | 6/24 |
+| Players | 13/24 |
 | Host Name | Злая волчица |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 04:05:27 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204073523650 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Gyrocopter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 03:51:20 |
@@ -104,25 +104,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204087540451 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Cerdo Comunista |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 04:06:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204086771524 |
-| Players | 14/15 |
-| Host Name | Yoss |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 04:05:54 |
+| Lobby ID | 28505204086874622 |
+| Players | 7/8 |
+| Host Name | ВИТЯ БИЗНЕС |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 04:06:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204088121080 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Cheater |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 04:07:23 |
@@ -144,24 +144,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kärss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 04:07:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204087345447 |
-| Players | 3/8 |
-| Host Name | ICHZ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 04:06:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204088904399 |
-| Players | 2/10 |
-| Host Name | Moises |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 04:08:16 |
 
 
 |  | epic_boss_fight_challenger |
