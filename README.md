@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202966802702 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Surprize mother farker |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 4, 2023 14:23:55 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202968373927 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | DANICH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:25:23 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202968960698 |
-| Players | 14/24 |
+| Players | 20/24 |
 | Host Name | Coloratura |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:25:56 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:26:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202969856774 |
-| Players | 5/8 |
-| Host Name | Душевно больной |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 14:26:47 |
+| Lobby ID | 28505202970062972 |
+| Players | 1/15 |
+| Host Name | Flawless |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 14:26:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -117,6 +117,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SQUEEZY BALVANKIN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:26:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202970134511 |
+| Players | 1/8 |
+| Host Name | Ряд Фурье |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 14:27:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202963667913 |
+| Players | 9/10 |
+| Host Name | 1312 |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 14:20:57 |
 
 
 |  | epic_boss_fight_nightmare |
