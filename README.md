@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202805990525 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Thunderpants |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:30:56 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202810106387 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | KuroiBlazr |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:36:15 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202809721859 |
-| Players | 1/24 |
-| Host Name | 2eas4ezy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:35:45 |
+| Lobby ID | 28505202809359010 |
+| Players | 5/24 |
+| Host Name | WEED |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 11:35:17 |
 
 
 |  | ot3_jungle_quintet |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202809359010 |
-| Players | 4/24 |
-| Host Name | WEED |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 11:35:17 |
+| Lobby ID | 28505202810871370 |
+| Players | 1/24 |
+| Host Name | Bonitos y gorditos hijos de puta |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 11:37:13 |
 
 
 |  | epic_boss_fight_nightmare |
