@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202757670549 |
-| Players | 12/15 |
-| Host Name | I HATE STUPID KIDS |
+| Lobby ID | 28505202759237138 |
+| Players | 1/15 |
+| Host Name | Priamo v rojy |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 10:23:54 |
+| Lobby Creation Time | Saturday, November 4, 2023 10:26:03 |
 
 
 |  | ot3_desert_octet |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 10:25:11 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202758625712 |
-| Players | 2/24 |
-| Host Name | Ｍｒ． Ｒｏｂｏｔ |
+| Lobby ID | 28505202759166028 |
+| Players | 1/8 |
+| Host Name | zero |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 10:25:12 |
+| Lobby Creation Time | Saturday, November 4, 2023 10:25:57 |
 
 
 |  | ot3_desert_octet |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202759028073 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | morganith |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 10:25:46 |
@@ -137,28 +137,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 10:25:47 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202759104526 |
-| Players | 1/15 |
-| Host Name | Arkay |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 10:25:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202759126703 |
-| Players | 1/15 |
-| Host Name | 胡大虾哩 |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Saturday, November 4, 2023 10:25:54 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202758259154 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Minez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 10:24:42 |
