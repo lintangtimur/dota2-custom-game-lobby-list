@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202919001590 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | [A] Projekt Red |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:38:02 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:34:54 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202917944367 |
-| Players | 21/24 |
-| Host Name | BLEHHHHH :P |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 13:37:00 |
+| Lobby ID | 28505202918207032 |
+| Players | 9/15 |
+| Host Name | king of fools |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 13:37:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202918868160 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | Pause Malone! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 13:37:54 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202918207032 |
-| Players | 12/15 |
-| Host Name | king of fools |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 13:37:15 |
+| Lobby ID | 28505202919457664 |
+| Players | 1/15 |
+| Host Name | Reddy |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 13:38:29 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Zero Two |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 13:34:21 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505202919032895 |
-| Players | 1/10 |
-| Host Name | Бy}{@9 M@NaIIIk@ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 13:38:04 |
 
 
