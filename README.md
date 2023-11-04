@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203046181594 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | 2FatSnails |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:37:37 |
@@ -68,10 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203045381536 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:36:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203046872584 |
+| Players | 1/8 |
+| Host Name | Larl mindset |
+| Region | AUSTRIA |
+| Lobby Creation Time | Saturday, November 4, 2023 15:38:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203046895910 |
+| Players | 3/8 |
+| Host Name | don't give a fuck about opinions |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 15:38:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203046897062 |
+| Players | 1/15 |
+| Host Name | hichin enjoyer |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 15:38:17 |
 
 
 |  | epic_boss_fight_nightmare |
