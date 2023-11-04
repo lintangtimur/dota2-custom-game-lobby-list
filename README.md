@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203119396997 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | ни чего себе |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:45:03 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203117588171 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Metall |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 16:43:22 |
@@ -65,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 16:44:25 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505203117649747 |
-| Players | 23/24 |
-| Host Name | Sanctus Animus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:43:26 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203120161896 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | convulsivic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:45:46 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203120427327 |
+| Players | 2/10 |
+| Host Name | Богдан Боголюбов |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 16:46:01 |
 
 
 |  | epic_boss_fight_normal |
