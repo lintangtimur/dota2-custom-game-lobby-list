@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204197191062 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Fartoviy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:33:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204108469443 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Goku |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, November 5, 2023 04:30:46 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 06:31:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204197533223 |
-| Players | 6/8 |
-| Host Name | ¿? |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 06:34:27 |
+| Lobby ID | 28505204197707246 |
+| Players | 4/10 |
+| Host Name | tv.inwaii |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 06:34:43 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204197620745 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | k s e n |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:34:35 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204197645790 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | 사랑해 나연 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:34:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204197791168 |
+| Players | 2/8 |
+| Host Name | pega seu lanche ae, cussão |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, November 5, 2023 06:34:51 |
 
 
 |  | epic_boss_fight_normal |
