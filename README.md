@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202862847428 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:38:01 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202863939086 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | JrY |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:39:13 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202862370237 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Топ 100 Антарктиды |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:37:29 |
@@ -167,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202865852155 |
-| Players | 14/24 |
+| Players | 20/24 |
 | Host Name | Dr Tazerenix |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 12:41:19 |
@@ -175,35 +175,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202865928464 |
-| Players | 1/8 |
-| Host Name | Euphorico |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 12:41:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202866593294 |
-| Players | 1/8 |
-| Host Name | Kavaix |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 12:42:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202866652259 |
+| Lobby ID | 28505202866858446 |
 | Players | 2/8 |
-| Host Name | водка |
-| Region | AUSTRIA |
-| Lobby Creation Time | Saturday, November 4, 2023 12:42:12 |
+| Host Name | FL? |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, November 4, 2023 12:42:26 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202866071584 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Fallen Sky |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 12:41:34 |
