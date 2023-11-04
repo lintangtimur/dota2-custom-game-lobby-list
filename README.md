@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202767621361 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | Buscador de las almas perdidas |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 10:37:37 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 10:26:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202767876375 |
-| Players | 7/8 |
-| Host Name | L1ger |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 10:37:57 |
+| Lobby ID | 28505202768033563 |
+| Players | 2/10 |
+| Host Name | райан гослинг |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 10:38:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -67,20 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202766973748 |
-| Players | 23/24 |
-| Host Name | miley cyrex |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 10:36:43 |
+| Lobby ID | 28505202768136887 |
+| Players | 1/24 |
+| Host Name | BABY-ROSH (AL) |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 10:38:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202766546161 |
-| Players | 14/15 |
-| Host Name | 𝙴𝚜𝚚𝚞𝚒𝚕𝚘𝚃 |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 10:36:07 |
+| Lobby ID | 28505202768033601 |
+| Players | 1/24 |
+| Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 10:38:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202766737675 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | STERBLICH |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 10:36:23 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202767841131 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | FireDog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 10:37:54 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202767946267 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | ♁＊＊ SIA ＊＊ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 10:38:03 |
@@ -157,29 +157,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202768033563 |
+| Lobby ID | 28505202768351946 |
 | Players | 2/10 |
-| Host Name | райан гослинг |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 10:38:10 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202768033601 |
-| Players | 1/24 |
-| Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
+| Host Name | Angry |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 10:38:10 |
+| Lobby Creation Time | Saturday, November 4, 2023 10:38:36 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202768136887 |
-| Players | 1/24 |
-| Host Name | BABY-ROSH (AL) |
+| Lobby ID | 28505202768366775 |
+| Players | 1/8 |
+| Host Name | Canela pasión |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 10:38:19 |
+| Lobby Creation Time | Saturday, November 4, 2023 10:38:37 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -189,14 +180,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Booberries |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 10:32:20 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505202768213576 |
-| Players | 1/10 |
-| Host Name | .-. |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, November 4, 2023 10:38:25 |
 
 
