@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203103181384 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | GATITO PERDITO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:30:00 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 16:22:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203103333480 |
-| Players | 5/8 |
-| Host Name | Colours |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 4, 2023 16:30:08 |
+| Lobby ID | 28505203103421553 |
+| Players | 2/15 |
+| Host Name | Hari Seldon |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 16:30:13 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203102803613 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Dranxzy |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 16:29:38 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203102747445 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Prionzombie |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:29:35 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203103182384 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | [JnM]Nickname |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:30:00 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203100407193 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Diclonius |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:27:22 |
