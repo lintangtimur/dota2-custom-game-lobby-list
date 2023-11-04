@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203152700603 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | huylo |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 17:17:10 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203155740223 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | ♤ |
 | Region | AUSTRIA |
 | Lobby Creation Time | Saturday, November 4, 2023 17:20:02 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 17:15:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203156152922 |
-| Players | 2/8 |
-| Host Name | 21 |
+| Lobby ID | 28505203155607276 |
+| Players | 3/10 |
+| Host Name | lord |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:20:25 |
+| Lobby Creation Time | Saturday, November 4, 2023 17:19:54 |
 
 
 |  | ot3_gardens_duo |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 17:20:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203155174297 |
-| Players | 7/10 |
-| Host Name | Vulva |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:19:30 |
+| Lobby ID | 28505203151691897 |
+| Players | 14/15 |
+| Host Name | неумехапелемеха |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 17:16:13 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,28 +110,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 17:19:33 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203151691897 |
-| Players | 14/15 |
-| Host Name | неумехапелемеха |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 17:16:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203155607276 |
-| Players | 2/10 |
-| Host Name | lord |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:19:54 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505203153135427 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | IO |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 17:17:35 |
