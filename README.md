@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203332849198 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Liliput |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 19:33:01 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203333972664 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Dr. Strange where rampage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 19:33:41 |
@@ -65,28 +65,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 19:29:38 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203325473530 |
-| Players | 14/15 |
-| Host Name | XBOX SERIES Z |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 19:28:31 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203330558002 |
-| Players | 6/10 |
-| Host Name | ёбырь |
+| Lobby ID | 28505203323356089 |
+| Players | 9/10 |
+| Host Name | Макима |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 19:31:37 |
+| Lobby Creation Time | Saturday, November 4, 2023 19:27:13 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203319632746 |
+| Players | 22/24 |
+| Host Name | Faerie Dragon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 19:24:55 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203333459331 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | SDVDS |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 19:33:23 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203319700609 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Kira sempai <3 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 19:24:58 |
@@ -128,13 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 19:32:38 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203305710603 |
-| Players | 14/24 |
-| Host Name | GoD_ARES |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 19:16:07 |
+| Lobby ID | 28505203335857440 |
+| Players | 5/8 |
+| Host Name | король крипов |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 4, 2023 19:34:49 |
 
 
 |  | ot3_gardens_duo |
@@ -176,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203334802829 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | steliar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 19:34:11 |
@@ -194,7 +194,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203253775151 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | мамгюка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 18:40:24 |
@@ -209,24 +209,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 19:27:11 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203321317827 |
-| Players | 13/15 |
-| Host Name | BASTER |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 19:25:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505203319632746 |
-| Players | 20/24 |
-| Host Name | Faerie Dragon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 19:24:55 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203262725603 |
@@ -239,7 +221,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203334264232 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Ray |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 19:33:52 |
