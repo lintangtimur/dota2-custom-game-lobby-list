@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203068510471 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | +- |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 15:58:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203070215725 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | OG-RYD-1999 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 15:59:32 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203063591040 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Thug Life |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 15:53:32 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203068883141 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | maybe good team |
 | Region | AUSTRIA |
 | Lobby Creation Time | Saturday, November 4, 2023 15:58:20 |
@@ -103,10 +103,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203069838428 |
-| Players | 5/8 |
-| Host Name | малой |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 15:59:12 |
+| Lobby ID | 28505203070351109 |
+| Players | 1/8 |
+| Host Name | skorpziro |
+| Region | AUSTRIA |
+| Lobby Creation Time | Saturday, November 4, 2023 15:59:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203070408529 |
+| Players | 4/8 |
+| Host Name | sss+вайбалов |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 4, 2023 15:59:43 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203067020529 |
+| Players | 14/15 |
+| Host Name | bloomtodeath |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 15:56:39 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28505203070479373 |
+| Players | 2/7 |
+| Host Name | w1nd |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 15:59:47 |
 
 
