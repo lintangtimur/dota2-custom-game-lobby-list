@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202836225972 |
-| Players | 23/24 |
-| Host Name | 辣鸡龙 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 12:07:55 |
+| Lobby ID | 28505202839082160 |
+| Players | 5/10 |
+| Host Name | [D]iomegod |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 12:11:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202837914095 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | Martin-Luther-King. |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:09:53 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202837197597 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Pachacutec |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:09:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202835699364 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Plastic Pop can |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 12:07:18 |
@@ -112,47 +112,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202839136996 |
-| Players | 1/15 |
+| Lobby ID | 28505202839289712 |
+| Players | 2/15 |
 | Host Name | biyabo |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 12:11:19 |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 12:11:29 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202837808315 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | ПРЕСС КАЧАТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:09:45 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202839329448 |
+| Players | 1/10 |
+| Host Name | Batang Gi Quiapoy |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 12:11:32 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202838978983 |
+| Lobby ID | 28505202839339553 |
 | Players | 1/8 |
 | Host Name | Ах*евший Байкер |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 4, 2023 12:11:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505202839082160 |
-| Players | 4/10 |
-| Host Name | [D]iomegod |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 12:11:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202839154838 |
-| Players | 5/15 |
-| Host Name | Luci |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 12:11:20 |
+| Lobby Creation Time | Saturday, November 4, 2023 12:11:33 |
 
 
 |  | epic_boss_fight_challenger |
