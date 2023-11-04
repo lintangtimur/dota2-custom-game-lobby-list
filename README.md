@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203046181594 |
-| Players | 8/24 |
+| Players | 18/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:37:37 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203059021546 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | зря вы убрали у меня премут |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 15:49:23 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203059391223 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | (: |
 | Region | AUSTRIA |
 | Lobby Creation Time | Saturday, November 4, 2023 15:49:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203060665125 |
-| Players | 1/8 |
-| Host Name | Shuhky |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 15:50:53 |
+| Lobby ID | 28505203060016318 |
+| Players | 7/10 |
+| Host Name | Vulva |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 15:50:18 |
 
 
 |  | ot3_gardens_duo |
@@ -95,18 +95,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203060029673 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | eleskovic^ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:50:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505203060016318 |
-| Players | 5/10 |
-| Host Name | Vulva |
+| Lobby ID | 28505203061021645 |
+| Players | 1/24 |
+| Host Name | Yatoro雨 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 15:50:18 |
+| Lobby Creation Time | Saturday, November 4, 2023 15:51:12 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203061093794 |
+| Players | 1/24 |
+| Host Name | Coloratura |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 15:51:16 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505203060884142 |
+| Players | 1/5 |
+| Host Name | WHAT THE FUCK IS THAT!? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 15:51:05 |
 
 
