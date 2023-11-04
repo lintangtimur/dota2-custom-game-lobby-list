@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203062196215 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Br0ker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:52:16 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203068510471 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | +- |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 15:58:00 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203070215725 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | OG-RYD-1999 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 15:59:32 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203061477639 |
-| Players | 23/24 |
-| Host Name | kels |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 15:51:37 |
+| Lobby ID | 28505203067020529 |
+| Players | 14/15 |
+| Host Name | bloomtodeath |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 15:56:39 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 15:58:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203068883141 |
-| Players | 14/15 |
-| Host Name | maybe good team |
+| Lobby ID | 28505203070351109 |
+| Players | 1/8 |
+| Host Name | skorpziro |
 | Region | AUSTRIA |
-| Lobby Creation Time | Saturday, November 4, 2023 15:58:20 |
+| Lobby Creation Time | Saturday, November 4, 2023 15:59:40 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,39 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 15:58:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203070351109 |
-| Players | 1/8 |
-| Host Name | skorpziro |
-| Region | AUSTRIA |
-| Lobby Creation Time | Saturday, November 4, 2023 15:59:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203070408529 |
-| Players | 4/8 |
-| Host Name | sss+вайбалов |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 15:59:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203067020529 |
-| Players | 14/15 |
-| Host Name | bloomtodeath |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 15:56:39 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28505203070479373 |
-| Players | 2/7 |
-| Host Name | w1nd |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 15:59:47 |
+| Lobby ID | 28505203070641885 |
+| Players | 2/10 |
+| Host Name | РАБМЕН |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 4, 2023 15:59:56 |
 
 
