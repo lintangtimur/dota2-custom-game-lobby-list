@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204012925059 |
-| Players | 5/8 |
-| Host Name | я не сдамся |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, November 5, 2023 02:48:08 |
+| Lobby ID | 28505203983439947 |
+| Players | 8/10 |
+| Host Name | Arthas Menethil |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 02:20:04 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204011055773 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | ♂EL CAMPER GANDALFS♂ |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 02:46:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204005591754 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | SDVDS |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 5, 2023 02:41:01 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 02:48:32 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204012930566 |
-| Players | 8/10 |
-| Host Name | СЛАВЯНСКИЙ БОГ ПЕРУН |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 02:48:08 |
+| Lobby ID | 28505204013852198 |
+| Players | 3/8 |
+| Host Name | Tapok |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, November 5, 2023 02:49:02 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204004907084 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | < blank > |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 02:40:21 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204010381431 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | aaroneverr |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 02:45:39 |
@@ -104,37 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203981820744 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | Vuvuzela Virtuoso Hans Rudolph |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 02:18:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204012700265 |
-| Players | 1/8 |
-| Host Name | CACHORRAO |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 02:47:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505203989571077 |
-| Players | 12/24 |
-| Host Name | Moon Baboon |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, November 5, 2023 02:25:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204013429153 |
-| Players | 10/15 |
-| Host Name | Пивная поддержка |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, November 5, 2023 02:48:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -146,28 +119,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 02:48:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204013595440 |
-| Players | 3/8 |
-| Host Name | Tapok |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, November 5, 2023 02:48:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204013692182 |
-| Players | 1/8 |
-| Host Name | ๋ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 02:48:52 |
+| Lobby ID | 28505203989571077 |
+| Players | 13/24 |
+| Host Name | Moon Baboon |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, November 5, 2023 02:25:50 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204006117652 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | timy porky |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 02:41:31 |
