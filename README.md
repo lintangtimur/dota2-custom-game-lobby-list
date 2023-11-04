@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203201100657 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | Im next (bald) TI winner |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 18:00:04 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203199718936 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | xJw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 17:58:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203185003290 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | dikapb_diman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:46:21 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203200890925 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Riku |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 17:59:54 |
@@ -85,20 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203198619168 |
-| Players | 14/15 |
-| Host Name | добрый грибничек |
+| Lobby ID | 28505203194873710 |
+| Players | 11/15 |
+| Host Name | Fartoviy |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:57:59 |
+| Lobby Creation Time | Saturday, November 4, 2023 17:54:49 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203200912350 |
+| Lobby ID | 28505203201519216 |
 | Players | 1/10 |
-| Host Name | Thanatos |
-| Region | AUSTRIA |
-| Lobby Creation Time | Saturday, November 4, 2023 17:59:55 |
+| Host Name | ПОДЫШИ, ВСЕОК |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 18:00:25 |
 
 
 |  | epic_boss_fight_normal |
