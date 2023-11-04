@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203734728741 |
-| Players | 6/8 |
-| Host Name | Kirillich |
+| Lobby ID | 28505203736119550 |
+| Players | 7/10 |
+| Host Name | GATITO PERDITO |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 23:12:56 |
+| Lobby Creation Time | Saturday, November 4, 2023 23:13:48 |
 
 
 |  | ot3_desert_octet |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203735282475 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Пивная хрюша |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 23:13:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203734395409 |
-| Players | 1/8 |
-| Host Name | твари |
+| Lobby ID | 28505203736146603 |
+| Players | 1/15 |
+| Host Name | Triplesixgods |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 23:12:44 |
+| Lobby Creation Time | Saturday, November 4, 2023 23:13:49 |
 
 
 |  | ot3_gardens_duo |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203721740200 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | Eternal Pain |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 23:04:57 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203651856804 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | бармен епта |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 22:26:36 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203732522650 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | 关注MyGO!!!!!喵谢谢关注 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 23:11:35 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203704214022 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Негр |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 22:54:49 |
@@ -176,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203734808795 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 346515 |
 | Region | AUSTRIA |
 | Lobby Creation Time | Saturday, November 4, 2023 23:12:59 |
@@ -200,42 +200,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 23:13:51 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203736093003 |
-| Players | 4/10 |
-| Host Name | дензо кудуро |
-| Region | AUSTRIA |
-| Lobby Creation Time | Saturday, November 4, 2023 23:13:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203736119550 |
-| Players | 2/10 |
-| Host Name | GATITO PERDITO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 23:13:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203736414676 |
-| Players | 3/8 |
-| Host Name | ✪Natie<3 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 23:13:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203736146603 |
-| Players | 1/15 |
-| Host Name | Triplesixgods |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 23:13:49 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505203676390243 |
@@ -254,21 +218,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 23:12:29 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505203735842147 |
-| Players | 1/5 |
-| Host Name | ✖ transcendental ✖ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 23:13:38 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203734571865 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Vincenzo Cassano |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 23:12:51 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505203736948013 |
+| Players | 1/5 |
+| Host Name | ✖ transcendental ✖ |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 23:14:19 |
 
 
