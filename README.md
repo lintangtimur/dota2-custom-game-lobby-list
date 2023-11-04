@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202878621116 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | unvalibavol |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:55:10 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202877086603 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 12:53:29 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202880219114 |
-| Players | 2/24 |
-| Host Name | BalZ@_Er |
+| Players | 5/24 |
+| Host Name | YHWH |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:56:55 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202878669629 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | NARUTO UZUMAKI DE KONOHA |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:55:13 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202879232360 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | SOUTHERN LIFE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:55:51 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202880088361 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Bored- |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:56:46 |
@@ -162,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Big Gringo |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:57:01 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505202880506567 |
+| Players | 1/5 |
+| Host Name | eternal |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 12:57:13 |
 
 
