@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202955713831 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | no excuses |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:13:29 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202955363302 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | nissinwafer |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, November 4, 2023 14:13:09 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:12:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202954990690 |
-| Players | 23/24 |
-| Host Name | nigero GEOP |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 14:12:48 |
+| Lobby ID | 28505202956236733 |
+| Players | 1/8 |
+| Host Name | Яйцеглот |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 14:13:57 |
 
 
 |  | ot3_jungle_quintet |
@@ -110,13 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:13:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202956120306 |
-| Players | 2/8 |
-| Host Name | Todo anda mal |
+| Lobby ID | 28505202956182957 |
+| Players | 2/10 |
+| Host Name | Ｍ８ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 14:13:54 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202956305073 |
+| Players | 1/24 |
+| Host Name | 13 |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 4, 2023 14:13:51 |
+| Lobby Creation Time | Saturday, November 4, 2023 14:14:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28505202955970524 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | Raizel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:13:42 |
