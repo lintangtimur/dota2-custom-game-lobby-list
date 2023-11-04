@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203187182878 |
-| Players | 1/15 |
-| Host Name | Random |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 17:48:14 |
+| Lobby ID | 28505203188158685 |
+| Players | 2/10 |
+| Host Name | . |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 17:49:05 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203157842957 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | fleming |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:22:00 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203187670534 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Shinraaaa~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 17:48:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203173379449 |
-| Players | 10/15 |
-| Host Name | Gaman |
+| Lobby ID | 28505203188164277 |
+| Players | 1/8 |
+| Host Name | Жадность |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:36:08 |
+| Lobby Creation Time | Saturday, November 4, 2023 17:49:06 |
 
 
 |  | ot3_gardens_duo |
@@ -119,10 +119,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 17:48:53 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203188045917 |
+| Players | 4/8 |
+| Host Name | Cristoforo Colombo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 17:48:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203188079264 |
+| Players | 4/8 |
+| Host Name | SalF |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 17:49:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203188092277 |
+| Players | 2/24 |
+| Host Name | Lil Tortilla Boy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 17:49:02 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203182883973 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | inadequate |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:44:31 |
