@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202837914095 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Martin-Luther-King. |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:09:53 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202837197597 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Pachacutec |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:09:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202835699364 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Plastic Pop can |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 12:07:18 |
@@ -83,22 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 12:05:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202838860670 |
-| Players | 6/8 |
-| Host Name | Messi |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 12:10:59 |
+| Lobby ID | 28505202839615217 |
+| Players | 4/15 |
+| Host Name | Norton |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, November 4, 2023 12:11:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202837573109 |
-| Players | 3/8 |
-| Host Name | Cum aguero |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 12:09:29 |
+| Lobby ID | 28505202839687528 |
+| Players | 2/24 |
+| Host Name | Time Ower |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 4, 2023 12:11:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -122,19 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202839548644 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | KisKA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:11:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202839615217 |
-| Players | 1/15 |
-| Host Name | Norton |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, November 4, 2023 12:11:52 |
+| Lobby ID | 28505202839777514 |
+| Players | 3/8 |
+| Host Name | Cum aguero |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 12:12:04 |
 
 
 |  | epic_boss_fight_challenger |
