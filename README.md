@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202801366155 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:24:54 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202802040941 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Bonitos y gorditos hijos de puta |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:25:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202802100631 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Adrenaline Junkie |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 11:25:52 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202800706660 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Deza |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:24:02 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202796985397 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ФОРТАНУЛО ЕБАТЬ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:18:56 |
