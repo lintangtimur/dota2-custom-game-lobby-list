@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202777157446 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Aggressive Koala |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 10:50:43 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202778747158 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | JoeShiesty |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 10:52:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202778817226 |
+| Players | 5/10 |
+| Host Name | Norton |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, November 4, 2023 10:53:02 |
 
 
 |  | epic_boss_fight_nightmare |
