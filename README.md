@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202969549173 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | yHuuu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:26:29 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202971260966 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Egotheist |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:28:05 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202969085064 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | rtb |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:26:03 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202970603527 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | =) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:27:28 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:27:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202970775474 |
-| Players | 1/15 |
-| Host Name | SQUEEZY BALVANKIN |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 4, 2023 14:27:38 |
+| Lobby ID | 28505202963667913 |
+| Players | 8/10 |
+| Host Name | EMANS |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 14:20:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -126,6 +126,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Bored- |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 14:28:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202971845533 |
+| Players | 2/15 |
+| Host Name | bloomtodeath |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 14:28:37 |
 
 
 |  | epic_boss_fight_nightmare |
