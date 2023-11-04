@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204101371529 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | Puntito( El Maximo Exponente) |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 04:22:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204099792865 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Romans 7:15-20 |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 5, 2023 04:20:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204100947656 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | --->TYT<--- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 04:21:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204095824559 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | VALHALLA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 04:16:02 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204100609811 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | CR@$# |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 04:21:31 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204101055958 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | ♥FREE YOURSELF♥ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 04:22:02 |
@@ -164,13 +164,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 04:22:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204101420056 |
-| Players | 1/15 |
-| Host Name | Крепкий Кокон |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, November 5, 2023 04:22:27 |
+| Lobby ID | 28505204101647418 |
+| Players | 6/8 |
+| Host Name | hqd enjoyer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 04:22:43 |
 
 
 |  | ot3_jungle_quintet |
@@ -194,7 +194,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204101468995 |
-| Players | 1/15 |
+| Players | 8/15 |
 | Host Name | Showed |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 04:22:31 |
@@ -204,9 +204,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505204101487723 |
 | Players | 1/24 |
-| Host Name | alex krasiuk |
+| Host Name | arhikent |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 04:22:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204101553745 |
+| Players | 3/10 |
+| Host Name | FireproofReZ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 04:22:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204101617979 |
+| Players | 1/15 |
+| Host Name | Cheater |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 04:22:41 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204101667025 |
+| Players | 1/15 |
+| Host Name | Головосование |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 04:22:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204101671629 |
+| Players | 1/10 |
+| Host Name | bot gameplay |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, November 5, 2023 04:22:45 |
 
 
 |  | epic_boss_fight_challenger |
@@ -238,10 +274,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505204101481703 |
+| Lobby ID | 28505204101663026 |
 | Players | 1/5 |
 | Host Name | Pure-White Wanderer |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 04:22:32 |
+| Lobby Creation Time | Sunday, November 5, 2023 04:22:44 |
 
 
