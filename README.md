@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202919665507 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | GRINGo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:38:41 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202918462756 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 13:37:31 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202918868160 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Pause Malone! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 13:37:54 |
@@ -104,10 +104,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202919713760 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | Not Nilc |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 13:38:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202920412778 |
+| Players | 1/10 |
+| Host Name | ♛Саян♛ |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 13:39:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202920508817 |
+| Players | 1/8 |
+| Host Name | 7 ошибок в слове |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 4, 2023 13:39:30 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mamawebaso |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 13:38:43 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505202920347273 |
-| Players | 1/5 |
-| Host Name | Johnny Sins |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 13:39:21 |
 
 
