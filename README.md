@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204031476927 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | кот (или пёс) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 03:06:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204027652461 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 03:02:55 |
@@ -112,20 +112,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204031295581 |
-| Players | 5/8 |
-| Host Name | Feelingpeace’s |
+| Lobby ID | 28505204032181573 |
+| Players | 4/8 |
+| Host Name | лихач |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 03:06:44 |
+| Lobby Creation Time | Sunday, November 5, 2023 03:07:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204031833762 |
-| Players | 2/8 |
-| Host Name | трахаю бухаю |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 03:07:18 |
+| Lobby ID | 28505204032167518 |
+| Players | 1/10 |
+| Host Name | :l |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 03:07:38 |
 
 
 |  | ot3_jungle_quintet |
@@ -149,10 +149,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204031974999 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Ищу девушку |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, November 5, 2023 03:07:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204032021058 |
+| Players | 5/10 |
+| Host Name | Pre-Alfa V?.? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 03:07:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204032076448 |
+| Players | 4/8 |
+| Host Name | 野生.justgohard |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 03:07:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204032148369 |
+| Players | 1/8 |
+| Host Name | ЧИКИБРЯК |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 03:07:37 |
 
 
 |  | epic_boss_fight_nightmare |
