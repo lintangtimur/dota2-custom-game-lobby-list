@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203867035876 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Jugador profesional de overthrow |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 00:42:26 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:11:41 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203869977482 |
-| Players | 20/24 |
-| Host Name | YouKnowMyName |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 00:44:33 |
+| Lobby ID | 28505203869793578 |
+| Players | 8/10 |
+| Host Name | london |
+| Region | AUSTRIA |
+| Lobby Creation Time | Sunday, November 5, 2023 00:44:25 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203870658952 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | PomeXxX |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 00:45:03 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203843640514 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 5, 2023 00:25:44 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203786888749 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | Kriwetka(W=Ш) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 23:46:30 |
@@ -131,19 +131,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203872419148 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | NAVIGATOR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 00:46:19 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203848688834 |
-| Players | 6/10 |
-| Host Name | Канибал |
+| Lobby ID | 28505203872761134 |
+| Players | 3/8 |
+| Host Name | ГРЫМАС ШЧЕЙК |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 00:29:19 |
+| Lobby Creation Time | Sunday, November 5, 2023 00:46:34 |
 
 
 |  | ot3_necropolis_ffa |
@@ -193,17 +193,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203855491018 |
-| Players | 14/15 |
-| Host Name | SSS+ |
+| Lobby ID | 28505203867783420 |
+| Players | 2/15 |
+| Host Name | Persianin J |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 00:34:08 |
+| Lobby Creation Time | Sunday, November 5, 2023 00:42:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203872779637 |
+| Players | 3/8 |
+| Host Name | Koala778(M1nerVa) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 00:46:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203872738117 |
+| Players | 3/8 |
+| Host Name | 優勝 |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 5, 2023 00:46:33 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203872819660 |
+| Players | 1/24 |
+| Host Name | Agua |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 5, 2023 00:46:37 |
 
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28505203870761351 |
-| Players | 3/7 |
+| Players | 4/7 |
 | Host Name | [DG^]-Hanane |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 5, 2023 00:45:07 |
@@ -216,5 +243,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Асланбек |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 00:46:21 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505203872658341 |
+| Players | 2/5 |
+| Host Name | eblan? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 00:46:30 |
 
 
