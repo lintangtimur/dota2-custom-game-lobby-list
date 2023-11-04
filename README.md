@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204157872235 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 05:35:49 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204156542575 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Deva path |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 05:33:58 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204158483389 |
-| Players | 5/8 |
-| Host Name | NOHCHO |
+| Players | 1/8 |
+| Host Name | _AXA_BORZ_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 05:36:40 |
 
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204158665915 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | фуфел |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:36:56 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204158661610 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Bane |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 05:36:55 |
@@ -148,11 +148,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204157321297 |
-| Players | 14/15 |
-| Host Name | Sitru |
+| Lobby ID | 28505204158936995 |
+| Players | 4/15 |
+| Host Name | Elinbarrage |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 05:35:03 |
+| Lobby Creation Time | Sunday, November 5, 2023 05:37:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204158849553 |
+| Players | 1/10 |
+| Host Name | Tanjiro |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, November 5, 2023 05:37:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204158659446 |
+| Players | 1/8 |
+| Host Name | KcSMr |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 05:36:55 |
 
 
 |  | epic_boss_fight_normal |
