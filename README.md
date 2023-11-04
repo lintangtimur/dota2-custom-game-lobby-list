@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204114094697 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | xXx |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 04:37:32 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204114852327 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Vuvuzela Virtuoso Hans Rudolph |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 04:38:27 |
@@ -59,37 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204112801650 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 04:35:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505204115184645 |
-| Players | 2/24 |
-| Host Name | Nikitus228 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 04:38:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204115169864 |
-| Players | 3/15 |
-| Host Name | Good_Win |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, November 5, 2023 04:38:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204115108279 |
-| Players | 1/15 |
-| Host Name | I love pussy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 04:38:46 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,12 +74,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 04:38:47 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204115142867 |
-| Players | 2/5 |
-| Host Name | .heaven |
+| Lobby ID | 28505204115169864 |
+| Players | 7/15 |
+| Host Name | Good_Win |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 04:38:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204115108279 |
+| Players | 6/15 |
+| Host Name | I love pussy |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 04:38:48 |
+| Lobby Creation Time | Sunday, November 5, 2023 04:38:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204114438484 |
+| Players | 13/15 |
+| Host Name | 暴躁狂怒之人 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, November 5, 2023 04:37:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204115347171 |
+| Players | 1/15 |
+| Host Name | Yuki? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 04:39:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505204115359785 |
+| Players | 1/24 |
+| Host Name | alex krasiuk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 04:39:04 |
 
 
