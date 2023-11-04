@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204144371147 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | chilling |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 05:17:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204142236023 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Ohm! |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 05:14:11 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204144854428 |
-| Players | 1/24 |
+| Players | 6/24 |
 | Host Name | Злая волчица |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:17:45 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204145011891 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | ''Yahiiko'' |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 05:17:58 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204145101642 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Радислав |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:18:05 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204145133090 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Дауби Даубиев |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:18:08 |
@@ -158,8 +158,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204145310517 |
-| Players | 1/15 |
-| Host Name | Viktor Reznov |
+| Players | 4/15 |
+| Host Name | Guy |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 05:18:23 |
 
