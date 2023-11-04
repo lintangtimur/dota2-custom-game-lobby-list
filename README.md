@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203408904497 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | Fakog |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 20:16:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203408391731 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | uuuu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 20:16:08 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203409136168 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Jagindas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 20:16:32 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203358046745 |
-| Players | 2/24 |
-| Host Name | unging |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 19:47:50 |
+| Lobby ID | 28505203391995102 |
+| Players | 5/10 |
+| Host Name | ★★★TOXI$ KING★★★ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 20:07:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -121,11 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203408446953 |
-| Players | 4/10 |
-| Host Name | Splinter13 |
-| Region | AUSTRIA |
-| Lobby Creation Time | Saturday, November 4, 2023 20:16:10 |
+| Lobby ID | 28505203409878250 |
+| Players | 1/10 |
+| Host Name | qweasd |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 20:16:57 |
 
 
 |  | ot3_desert_octet |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203387996567 |
-| Players | 18/24 |
+| Players | 15/24 |
 | Host Name | Pumm0r |
 | Region | AUSTRIA |
 | Lobby Creation Time | Saturday, November 4, 2023 20:04:51 |
@@ -149,19 +149,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203336744927 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | ТИШИНА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 19:35:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203389828148 |
-| Players | 12/15 |
-| Host Name | I HATE STUPID KIDS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 20:05:52 |
 
 
 |  | ot3_jungle_quintet |
@@ -173,28 +164,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 20:16:42 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203394508281 |
-| Players | 3/8 |
-| Host Name | If you flame me GG ! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 20:08:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203409541331 |
-| Players | 4/8 |
-| Host Name | papo4ka rampage |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 4, 2023 20:16:46 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203396866766 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | KERRIGAN |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 20:09:49 |
@@ -203,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203398005734 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Escanor_la superbia |
 | Region | AUSTRIA |
 | Lobby Creation Time | Saturday, November 4, 2023 20:10:27 |
@@ -213,7 +186,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505203404199705 |
 | Players | 3/5 |
-| Host Name | Verse// |
+| Host Name | 世界是残酷的 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 20:13:51 |
 
