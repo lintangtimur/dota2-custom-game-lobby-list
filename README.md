@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204122648310 |
-| Players | 2/8 |
-| Host Name | [Team ASCENT] Yatooke |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 04:48:07 |
+| Lobby ID | 28505204123036994 |
+| Players | 6/15 |
+| Host Name | Ahi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 04:48:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204120592038 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | Griffith |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 04:45:32 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204118824691 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Ouanny |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 04:43:20 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204122579476 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Ice |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 04:48:02 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204122151595 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | w0nKa |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 04:47:29 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204121204613 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | pweyy |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 04:46:18 |
@@ -122,19 +122,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204122532399 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | TvoiTamada |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Sunday, November 5, 2023 04:47:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204122040242 |
-| Players | 1/8 |
-| Host Name | 我是法西斯主義者 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 04:47:21 |
+| Lobby ID | 28505204121980041 |
+| Players | 14/15 |
+| Host Name | Stivhen |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 04:47:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204123006330 |
+| Players | 2/10 |
+| Host Name | ЕБАДОЛБ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 04:48:35 |
 
 
 |  | epic_boss_fight_challenger |
