@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202844591268 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | DX7 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 4, 2023 12:17:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202852634648 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | DarkMoon |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:26:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202809061131 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Inahaaaaaaan!!!! |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 4, 2023 11:34:54 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202852470019 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Грамм золота |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:26:32 |
@@ -137,22 +137,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 12:27:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202851421134 |
-| Players | 14/15 |
-| Host Name | Sofuer |
+| Lobby ID | 28505202848263597 |
+| Players | 23/24 |
+| Host Name | Phill Dz |
 | Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 12:25:21 |
+| Lobby Creation Time | Saturday, November 4, 2023 12:21:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202853441016 |
-| Players | 1/15 |
-| Host Name | arp |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 12:27:37 |
+| Lobby ID | 28505202853578149 |
+| Players | 1/24 |
+| Host Name | 桃李春风 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 12:27:46 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202850999725 |
+| Players | 22/24 |
+| Host Name | J |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 12:24:53 |
 
 
 |  | epic_boss_fight_nightmare |
