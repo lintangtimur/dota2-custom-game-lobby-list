@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204111943587 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Hipotenusa² |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 04:34:56 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204113259516 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | манур надиршахов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 04:36:31 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 04:36:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204113476349 |
-| Players | 4/8 |
-| Host Name | skorpziro |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 04:36:47 |
+| Lobby ID | 28505204112801650 |
+| Players | 6/24 |
+| Host Name | ahUO |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, November 5, 2023 04:35:58 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204113339017 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Cerdo Comunista |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 04:36:37 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204111104363 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | lil |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 04:33:55 |
@@ -104,27 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204113432291 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Good Vibes |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 04:36:44 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505204112801650 |
-| Players | 7/24 |
-| Host Name | ahUO |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, November 5, 2023 04:35:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204112088311 |
-| Players | 7/8 |
-| Host Name | pace |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 04:35:07 |
 
 
