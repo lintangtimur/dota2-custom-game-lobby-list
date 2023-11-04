@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204108469443 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Goku |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, November 5, 2023 04:30:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204207575404 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | Cowboy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:50:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204207091268 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | вычисляю тебя в толпе по попке |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:50:05 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204200180357 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | Gyrocopter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 06:38:40 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204207388858 |
+| Lobby ID | 28505204207664656 |
 | Players | 1/8 |
-| Host Name | Олег Туарег |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, November 5, 2023 06:50:35 |
+| Host Name | MasonLayble |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, November 5, 2023 06:51:04 |
 
 
 |  | ot3_gardens_duo |
@@ -113,25 +113,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204206838039 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Michicron |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:49:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204206872733 |
-| Players | 2/10 |
-| Host Name | тайно дёрнул |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 06:49:43 |
+| Lobby ID | 28505204207622770 |
+| Players | 2/8 |
+| Host Name | вхожу в готей) |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, November 5, 2023 06:50:59 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204206871354 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Tu viejo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:49:43 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204206916357 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | shib |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:49:47 |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204206935201 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | Un Dotita y a mimir |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:49:49 |
@@ -167,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204206974797 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | 󠀡󠀡 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:49:53 |
@@ -182,22 +182,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 06:50:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204207622770 |
-| Players | 1/8 |
-| Host Name | вхожу в готей) |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, November 5, 2023 06:50:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204207664656 |
-| Players | 1/8 |
-| Host Name | MasonLayble |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, November 5, 2023 06:51:04 |
+| Lobby ID | 28505204207806028 |
+| Players | 1/15 |
+| Host Name | UR'SUS |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 06:51:18 |
 
 
 |  | epic_boss_fight_normal |
