@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202902407353 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | bonbon |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 13:21:06 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202902336323 |
-| Players | 8/10 |
-| Host Name | НАБАЛДАШНИК |
+| Players | 9/10 |
+| Host Name | Dyrachyo |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 13:21:01 |
 
@@ -140,19 +140,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202904351643 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Bored- |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 13:23:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505202904357897 |
-| Players | 2/10 |
-| Host Name | DarikMoLoi |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 4, 2023 13:23:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -164,12 +155,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 12:57:01 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505202904367010 |
-| Players | 1/5 |
-| Host Name | FalleN- |
+| Lobby ID | 28505202904546124 |
+| Players | 1/10 |
+| Host Name | Minez |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 4, 2023 13:23:09 |
+| Lobby Creation Time | Saturday, November 4, 2023 13:23:21 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505202904554350 |
+| Players | 1/10 |
+| Host Name | TriHard |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 13:23:21 |
 
 
