@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202873371819 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | NN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 12:49:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202872975008 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Scrayl |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:49:02 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 12:48:43 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202870291529 |
-| Players | 1/24 |
-| Host Name | Movistar Perú |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 4, 2023 12:46:09 |
+| Lobby ID | 28505202874342933 |
+| Players | 5/8 |
+| Host Name | NicoMB_Luchi<3 |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 12:50:32 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202864965124 |
-| Players | 5/8 |
+| Players | 3/8 |
 | Host Name | Bayer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:40:21 |
@@ -128,13 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 12:49:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202873604388 |
-| Players | 5/8 |
-| Host Name | Reniec |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 12:49:43 |
+| Lobby ID | 28505202874194304 |
+| Players | 1/10 |
+| Host Name | Леопольд |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 12:50:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -144,15 +144,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SPIDER-MAN |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:49:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505202874194304 |
-| Players | 1/10 |
-| Host Name | Леопольд |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 4, 2023 12:50:22 |
 
 
 |  | epic_boss_fight_nightmare |
