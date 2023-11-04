@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204089606222 |
-| Players | 3/8 |
-| Host Name | Закись Ашота |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 04:09:03 |
+| Lobby ID | 28505204091034722 |
+| Players | 8/10 |
+| Host Name | smokey (mira smurf) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 04:10:39 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 04:01:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204090405664 |
-| Players | 6/10 |
-| Host Name | mrph |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 04:09:57 |
+| Lobby ID | 28505204091118869 |
+| Players | 2/8 |
+| Host Name | Mil<3 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 04:10:45 |
 
 
 |  | ot3_desert_octet |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204090831378 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | aurora |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 04:10:25 |
@@ -137,13 +137,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 04:10:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204090372676 |
-| Players | 9/10 |
-| Host Name | Moises |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 04:09:55 |
+| Lobby ID | 28505204089519060 |
+| Players | 12/15 |
+| Host Name | ViralSpiral |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 04:08:57 |
 
 
 |  | ot3_jungle_quintet |
@@ -171,51 +171,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Блуд для чмонек |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 04:09:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204089519060 |
-| Players | 10/15 |
-| Host Name | ViralSpiral |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 04:08:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204091108888 |
-| Players | 3/8 |
-| Host Name | xxolywy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 04:10:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204089966243 |
-| Players | 9/10 |
-| Host Name | Головосование |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 04:09:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204090843759 |
-| Players | 1/8 |
-| Host Name | mongolskiy yretrokol |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 04:10:26 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204091034722 |
-| Players | 3/10 |
-| Host Name | smokey (mira smurf) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 04:10:39 |
 
 
 |  | epic_boss_fight_nightmare |
