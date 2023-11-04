@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203037865712 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Br0ker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:30:05 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203040371471 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | 路人 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:32:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203041306668 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | мой кайф |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:33:12 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203041926776 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | maybe good team |
 | Region | AUSTRIA |
 | Lobby Creation Time | Saturday, November 4, 2023 15:33:46 |
@@ -77,10 +77,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203041981762 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | xdxdxd |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 15:33:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203042108574 |
+| Players | 4/8 |
+| Host Name | OG-RYD-1999 |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 15:33:56 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203042174825 |
+| Players | 2/24 |
+| Host Name | TV x Nefor_gilon294 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 15:33:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203042214693 |
+| Players | 3/8 |
+| Host Name | Андрей санстрайк |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 15:34:01 |
 
 
 |  | epic_boss_fight_nightmare |
