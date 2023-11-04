@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203103182384 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | [JnM]Nickname |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:30:00 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 16:22:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203103421553 |
-| Players | 13/15 |
-| Host Name | Hari Seldon |
+| Lobby ID | 28505203103279995 |
+| Players | 6/10 |
+| Host Name | samurai |
 | Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 16:30:13 |
+| Lobby Creation Time | Saturday, November 4, 2023 16:30:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203102803613 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Dranxzy |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 16:29:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203103775134 |
-| Players | 6/8 |
-| Host Name | Sunrise |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:30:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203103279995 |
-| Players | 5/10 |
-| Host Name | samurai |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 16:30:05 |
 
 
 |  | ot3_desert_octet |
