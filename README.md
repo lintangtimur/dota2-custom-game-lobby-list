@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204123699071 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Daybreaker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 04:49:28 |
@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204124430307 |
-| Players | 3/8 |
-| Host Name | отрицательные +30 |
+| Lobby ID | 28505204124576439 |
+| Players | 4/8 |
+| Host Name | boss mentality |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 04:50:23 |
+| Lobby Creation Time | Sunday, November 5, 2023 04:50:34 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204118824691 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | Ouanny |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 04:43:20 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204123931059 |
-| Players | 4/8 |
-| Host Name | холодные ножки |
+| Players | 2/8 |
+| Host Name | wanna be rain |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 04:49:45 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204123782394 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Toji |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 04:49:34 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204122151595 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | w0nKa |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 04:47:29 |
@@ -104,28 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204123800181 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Славянский зажим яйцами |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 04:49:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204124576439 |
-| Players | 3/8 |
-| Host Name | boss mentality |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 04:50:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204124638757 |
-| Players | 2/8 |
-| Host Name | СТЕКЛОПАКЕТ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, November 5, 2023 04:50:39 |
+| Lobby ID | 28505204124766738 |
+| Players | 1/24 |
+| Host Name | 209. |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 04:50:48 |
 
 
 |  | epic_boss_fight_challenger |
@@ -149,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204123271816 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 04:48:55 |
