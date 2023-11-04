@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203103182384 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | [JnM]Nickname |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:30:00 |
@@ -47,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:10:34 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203104735607 |
+| Players | 4/8 |
+| Host Name | Peak Comedy |
+| Region | AUSTRIA |
+| Lobby Creation Time | Saturday, November 4, 2023 16:31:28 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203102803613 |
-| Players | 14/15 |
-| Host Name | Dranxzy |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 16:29:38 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505203104358611 |
-| Players | 1/24 |
-| Host Name | sigma jamal |
+| Lobby ID | 28505203104841993 |
+| Players | 4/15 |
+| Host Name | Яша Болда |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:31:07 |
+| Lobby Creation Time | Saturday, November 4, 2023 16:31:34 |
 
 
 |  | epic_boss_fight_normal |
@@ -87,7 +87,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505203104495847 |
 | Players | 2/10 |
-| Host Name | Danh hài Vân Sơn |
+| Host Name | unstoppable |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:31:14 |
 
