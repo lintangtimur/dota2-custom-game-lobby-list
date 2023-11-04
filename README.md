@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203313603053 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Mr.Popo |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 19:21:08 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203313375863 |
-| Players | 4/8 |
-| Host Name | Ilon_Cat |
+| Lobby ID | 28505203315029825 |
+| Players | 1/8 |
+| Host Name | 強奪者 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 19:20:59 |
+| Lobby Creation Time | Saturday, November 4, 2023 19:22:02 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203306084721 |
-| Players | 7/24 |
+| Players | 3/24 |
 | Host Name | Nutribun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 19:16:21 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203308567229 |
-| Players | 2/15 |
+| Players | 11/15 |
 | Host Name | ПРЯНЯ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 19:17:56 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203305710603 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | ダミールくん |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 19:16:07 |
@@ -126,51 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ЕМЕЛЯ ДИЛДОНОВ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 19:21:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203300865945 |
-| Players | 1/8 |
-| Host Name | Пудж жаж кринж жадж мЯсо) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 19:13:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203228945635 |
-| Players | 13/15 |
-| Host Name | boss |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 18:22:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203310146066 |
-| Players | 1/8 |
-| Host Name | 626 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 19:18:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203315029825 |
-| Players | 1/8 |
-| Host Name | 強奪者 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 19:22:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203312340223 |
-| Players | 8/10 |
-| Host Name | ёбырь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 19:20:20 |
 
 
 |  | epic_boss_fight_nightmare |
