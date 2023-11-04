@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204178638843 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | <Exanime> |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:05:27 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204183076082 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Preacher |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:12:03 |
@@ -140,28 +140,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204181639097 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Grapefruit: Slayer of Donkeys |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:09:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204182876477 |
-| Players | 1/8 |
-| Host Name | Дейнеріс |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 06:11:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204183097907 |
-| Players | 1/15 |
-| Host Name | xLordCiclop |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 5, 2023 06:12:05 |
 
 
 |  | ot3_desert_octet |
@@ -171,6 +153,60 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sax |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 06:12:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204183097907 |
+| Players | 2/15 |
+| Host Name | xLordCiclop |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 5, 2023 06:12:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505204183154077 |
+| Players | 6/24 |
+| Host Name | ITS_SHOWTIME |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 06:12:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505204180421202 |
+| Players | 22/24 |
+| Host Name | JustAnotherMorbiusFan |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 06:08:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204182094953 |
+| Players | 10/15 |
+| Host Name | 󠀡󠀡 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 06:10:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204183201119 |
+| Players | 1/8 |
+| Host Name | Mekus Mekus mo yan Insan |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 06:12:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204183225006 |
+| Players | 1/8 |
+| Host Name | Fami |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, November 5, 2023 06:12:16 |
 
 
 |  | epic_boss_fight_nightmare |
