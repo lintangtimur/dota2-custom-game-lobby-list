@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:15:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202948625306 |
-| Players | 14/15 |
-| Host Name | Glückspilz |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 14:06:47 |
+| Lobby ID | 28505202959265979 |
+| Players | 4/8 |
+| Host Name | миракл в прайме |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 14:16:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202809061131 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Inahaaaaaaan!!!! |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 4, 2023 11:34:54 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202956949279 |
-| Players | 13/24 |
+| Players | 20/24 |
 | Host Name | 大鲶鱼 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:14:37 |
@@ -104,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202958499600 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | SuperFranki◄ |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 14:16:04 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202950867627 |
-| Players | 21/24 |
-| Host Name | Kether |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 14:08:54 |
 
 
 |  | ot3_desert_octet |
@@ -128,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:16:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202959265979 |
-| Players | 1/8 |
-| Host Name | миракл в прайме |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 14:16:47 |
+| Lobby ID | 28505202959406848 |
+| Players | 1/10 |
+| Host Name | La Pixiris |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 14:16:55 |
 
 
 |  | epic_boss_fight_nightmare |
