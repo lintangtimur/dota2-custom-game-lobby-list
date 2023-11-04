@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202868757542 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | ♥Y U N J I N♥ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 12:44:30 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202866361050 |
-| Players | 24/24 |
-| Host Name | MoonWalker |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 12:41:53 |
+| Lobby ID | 28505202864800119 |
+| Players | 6/8 |
+| Host Name | JJJJJJ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 12:40:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 12:44:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202868048864 |
-| Players | 3/8 |
-| Host Name | Целуйте ноги мне |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 12:43:44 |
+| Lobby ID | 28505202870291529 |
+| Players | 3/24 |
+| Host Name | Pariston |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 4, 2023 12:46:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -108,42 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ЭТО ВТОРОЙ |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, November 4, 2023 12:44:46 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202870291529 |
-| Players | 2/24 |
-| Host Name | Pariston |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 4, 2023 12:46:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202862847428 |
-| Players | 13/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 12:38:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202864800119 |
-| Players | 6/8 |
-| Host Name | JJJJJJ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 12:40:10 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202870431734 |
-| Players | 1/24 |
-| Host Name | Phill Dz |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 12:46:18 |
 
 
 |  | epic_boss_fight_nightmare |
