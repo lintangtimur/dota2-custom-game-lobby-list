@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202884668498 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Onyx |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 13:01:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202882154594 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Clean Cat |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 12:59:01 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202884873976 |
-| Players | 1/24 |
+| Players | 9/24 |
 | Host Name | midline (experiment acc) |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 13:02:08 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202883079911 |
-| Players | 17/24 |
-| Host Name | beebee |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 13:00:02 |
+| Lobby ID | 28505202885036540 |
+| Players | 1/15 |
+| Host Name | Стив Хуйс |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 13:02:19 |
 
 
 |  | ot3_gardens_duo |
@@ -104,37 +104,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202884433108 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Lennyt |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 13:01:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202882815347 |
-| Players | 1/8 |
-| Host Name | SodaZ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 12:59:45 |
+| Lobby ID | 28505202881644337 |
+| Players | 8/10 |
+| Host Name | net) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 12:58:28 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202884930539 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Arc Wagner |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:02:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202880872331 |
-| Players | 14/15 |
-| Host Name | Gayge |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, November 4, 2023 12:57:37 |
+| Lobby ID | 28505202885110443 |
+| Players | 4/8 |
+| Host Name | 洛普斯塔克 |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 13:02:24 |
 
 
 |  | epic_boss_fight_nightmare |
