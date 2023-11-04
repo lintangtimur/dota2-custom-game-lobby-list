@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202756259716 |
-| Players | 1/24 |
-| Host Name | Mendenhall |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, November 4, 2023 10:21:57 |
+| Lobby ID | 28505202756215732 |
+| Players | 1/8 |
+| Host Name | БаРаГуЗ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 10:21:53 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202755540598 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Ювелир |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 10:20:57 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202755542770 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | MrBuba |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 10:20:57 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202755505960 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | FURIA ROJA |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 10:20:54 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202755733380 |
-| Players | 7/24 |
+| Players | 12/24 |
 | Host Name | nudlelay |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 10:21:12 |
@@ -119,12 +119,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 10:21:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505202756215732 |
-| Players | 1/8 |
-| Host Name | БаРаГуЗ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 10:21:53 |
+| Lobby ID | 28505202756330135 |
+| Players | 1/5 |
+| Host Name | PRO•GUMMY•conectxD |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 10:22:02 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28505202756373250 |
+| Players | 1/7 |
+| Host Name | CAPYBARA CAPYBARA CAPYBARA |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 4, 2023 10:22:07 |
 
 
