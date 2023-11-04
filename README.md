@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202966802702 |
-| Players | 7/24 |
+| Players | 5/24 |
 | Host Name | Gigachad thundercock |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 4, 2023 14:23:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202809061131 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Inahaaaaaaan!!!! |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 4, 2023 11:34:54 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202983785663 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Dragos |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:39:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202987870223 |
-| Players | 9/10 |
-| Host Name | heyheyhey |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 14:43:39 |
+| Lobby ID | 28505202987502806 |
+| Players | 22/24 |
+| Host Name | DrX |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 14:43:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -113,18 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202989361360 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | Fireflies |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 14:45:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202989365761 |
-| Players | 1/8 |
-| Host Name | Merlin |
-| Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:45:03 |
 
 
@@ -158,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505202988840481 |
-| Players | 1/5 |
+| Players | 3/5 |
 | Host Name | inadequate |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:44:34 |
