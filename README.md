@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 03:19:22 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204041338422 |
-| Players | 6/10 |
-| Host Name | KiW3^ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 03:17:12 |
+| Lobby ID | 28505204036253016 |
+| Players | 3/8 |
+| Host Name | IT'S ALL OVER UA |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, November 5, 2023 03:11:54 |
 
 
 |  | ot3_desert_octet |
@@ -112,26 +112,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204043054180 |
-| Players | 5/8 |
-| Host Name | Ｊａｓｕｓ ｎａｍｅ |
+| Lobby ID | 28505204043728816 |
+| Players | 1/8 |
+| Host Name | Comatose |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 03:19:00 |
+| Lobby Creation Time | Sunday, November 5, 2023 03:19:43 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204042437160 |
+| Lobby ID | 28505204043366581 |
 | Players | 9/10 |
-| Host Name | манур надиршахов |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 03:18:21 |
+| Host Name | Hoakin |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 03:19:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204039574225 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | Hadi awang |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 03:15:21 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204040840950 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | cant win without him |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 03:16:40 |
@@ -176,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204042579051 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | СЛАВЯНСКИЙ БОГ ПЕРУН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 03:18:30 |
@@ -218,40 +218,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 03:18:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204043366581 |
-| Players | 4/10 |
-| Host Name | Hoakin |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 03:19:20 |
+| Lobby ID | 28505204043757066 |
+| Players | 1/15 |
+| Host Name | Neon Annihilation |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, November 5, 2023 03:19:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204043721687 |
+| Players | 1/8 |
+| Host Name | дэд инсульт |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 03:19:42 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204042626820 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | PesKokos |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 03:18:33 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505204043550175 |
-| Players | 3/5 |
-| Host Name | Королёв |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, November 5, 2023 03:19:32 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505204043382411 |
-| Players | 3/5 |
-| Host Name | iTz |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, November 5, 2023 03:19:21 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -261,5 +252,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TuRoNs | RUS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 03:19:35 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505204043382411 |
+| Players | 3/5 |
+| Host Name | iTz |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, November 5, 2023 03:19:21 |
 
 
