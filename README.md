@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202833002187 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Chrisnochet |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:04:10 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202834384436 |
-| Players | 10/24 |
+| Players | 16/24 |
 | Host Name | Coloratura |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 12:05:47 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202834883690 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Chunchunmaru |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:06:21 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 12:06:10 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202834112739 |
-| Players | 1/24 |
-| Host Name | Platinum |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 4, 2023 12:05:28 |
+| Lobby ID | 28505202833846277 |
+| Players | 1/15 |
+| Host Name | monday left me broken |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 12:05:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -128,28 +128,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 12:03:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202833846277 |
-| Players | 1/15 |
-| Host Name | monday left me broken |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 12:05:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505202835023931 |
-| Players | 1/10 |
-| Host Name | al1te |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 4, 2023 12:06:31 |
+| Lobby ID | 28505202835183157 |
+| Players | 1/8 |
+| Host Name | save me from myself |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 12:06:42 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202830793150 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Jo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 12:01:35 |
