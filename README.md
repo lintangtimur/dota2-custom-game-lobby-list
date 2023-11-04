@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203018232294 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | Tony Tony Chopper |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 15:12:05 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:10:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203020308307 |
-| Players | 13/15 |
-| Host Name | hi |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 15:14:01 |
+| Lobby ID | 28505203020720809 |
+| Players | 2/10 |
+| Host Name | CALLA BURRE |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 15:14:24 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203002809952 |
-| Players | 5/15 |
+| Players | 2/15 |
 | Host Name | blink dagger and bkb |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:57:45 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 15:14:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203020720809 |
-| Players | 2/10 |
-| Host Name | CALLA BURRE |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 15:14:24 |
+| Lobby ID | 28505203021336751 |
+| Players | 2/8 |
+| Host Name | 1>9 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 15:14:58 |
 
 
 |  | epic_boss_fight_nightmare |
