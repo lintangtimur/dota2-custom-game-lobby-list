@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 13:06:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202894910823 |
-| Players | 8/10 |
-| Host Name | Ray |
+| Lobby ID | 28505202896729071 |
+| Players | 3/8 |
+| Host Name | 30 чурок в минуту |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 13:13:10 |
+| Lobby Creation Time | Saturday, November 4, 2023 13:15:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 13:14:07 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202888294783 |
-| Players | 23/24 |
-| Host Name | TSR.iJean_x |
+| Lobby ID | 28505202895982584 |
+| Players | 5/8 |
+| Host Name | Dikey - |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 13:05:59 |
+| Lobby Creation Time | Saturday, November 4, 2023 13:14:18 |
 
 
 |  | ot3_desert_octet |
@@ -101,30 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 13:12:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202895982584 |
-| Players | 5/8 |
-| Host Name | Dikey - |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 13:14:18 |
+| Lobby ID | 28505202896648212 |
+| Players | 1/15 |
+| Host Name | feeling the dimensions |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 13:15:00 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202880318322 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Big Gringo |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:57:01 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505202896048458 |
-| Players | 1/10 |
-| Host Name | Pias |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 13:14:22 |
 
 
