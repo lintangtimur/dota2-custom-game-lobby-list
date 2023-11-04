@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 04:51:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204124962931 |
-| Players | 7/10 |
-| Host Name | @REPLIKSHOES |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 04:51:03 |
+| Lobby ID | 28505204126384046 |
+| Players | 1/15 |
+| Host Name | Cheater |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 04:52:53 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204125906312 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Afghanistan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 04:52:16 |
@@ -94,11 +94,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204126239415 |
-| Players | 1/15 |
-| Host Name | saynomore |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, November 5, 2023 04:52:42 |
+| Lobby ID | 28505204126276086 |
+| Players | 6/15 |
+| Host Name | типа узкий анус |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 04:52:44 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505204126283512 |
+| Players | 1/24 |
+| Host Name | ahUO |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, November 5, 2023 04:52:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204126353467 |
+| Players | 4/10 |
+| Host Name | samy el heladero |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 04:52:50 |
 
 
 |  | epic_boss_fight_challenger |
@@ -113,8 +131,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204120071422 |
-| Players | 2/10 |
-| Host Name | Leinach |
+| Players | 1/10 |
+| Host Name | играютольконамыш |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, November 5, 2023 04:44:53 |
 
@@ -126,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | x--DD |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 04:52:25 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28505204126384193 |
+| Players | 1/7 |
+| Host Name | Leinach |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 04:52:53 |
 
 
