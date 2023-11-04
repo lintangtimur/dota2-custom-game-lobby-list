@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202868757542 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | ♥Y U N J I N♥ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 12:44:30 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202870814902 |
-| Players | 9/24 |
+| Players | 16/24 |
 | Host Name | Mike Oxlong |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:46:43 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202870899279 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | ... |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:46:48 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202870922647 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Rabbit |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:46:50 |
@@ -158,18 +158,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202871961279 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | - SR GioO - |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:47:57 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202872101481 |
+| Players | 1/8 |
+| Host Name | Rayha on 165hz |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 12:48:06 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202871052381 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | TrX. Aki¤€.Fear |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 12:46:58 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505202872084321 |
+| Players | 1/10 |
+| Host Name | 123 |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 12:48:05 |
 
 
