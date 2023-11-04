@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202809061131 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Inahaaaaaaan!!!! |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 4, 2023 11:34:54 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 12:52:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202875144565 |
-| Players | 3/8 |
-| Host Name | Лютый Холод |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 12:51:23 |
+| Lobby ID | 28505202878518894 |
+| Players | 11/15 |
+| Host Name | Vuvuzela Virtuoso Hans Rudolph |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 12:55:03 |
 
 
 |  | ot3_gardens_duo |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202878063017 |
-| Players | 8/10 |
+| Players | 5/10 |
 | Host Name | dW |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:54:34 |
@@ -149,27 +149,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202879393878 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Freshy |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:56:01 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202874194304 |
+| Players | 9/10 |
+| Host Name | @prolux |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 12:50:22 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505202879666227 |
+| Lobby ID | 28505202879776227 |
 | Players | 1/10 |
 | Host Name | Xz- |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, November 4, 2023 12:56:19 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505202879673251 |
-| Players | 1/5 |
-| Host Name | . Skye |
 | Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 12:56:19 |
+| Lobby Creation Time | Saturday, November 4, 2023 12:56:26 |
 
 
