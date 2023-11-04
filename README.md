@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202917569548 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | 归海一刀 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:36:38 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202919713760 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Not Nilc |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 13:38:44 |
@@ -128,13 +128,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 13:40:22 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202918868160 |
-| Players | 23/24 |
-| Host Name | Pause Malone! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 13:37:54 |
+| Lobby ID | 28505202921715216 |
+| Players | 1/15 |
+| Host Name | Pryance |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 13:40:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202921733661 |
+| Players | 1/8 |
+| Host Name | xxxx |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, November 4, 2023 13:40:41 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -153,14 +162,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | as |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 13:39:40 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505202921453684 |
-| Players | 1/10 |
-| Host Name | Slytherin |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 13:40:25 |
 
 
