@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204155721073 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 5, 2023 05:32:48 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204158028018 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Быдло |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 05:36:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204157872235 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 05:35:49 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204158483389 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | NOHCHO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 05:36:40 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 05:34:21 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204157405077 |
-| Players | 18/24 |
-| Host Name | JEAN |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 05:35:10 |
+| Lobby ID | 28505204158757815 |
+| Players | 2/10 |
+| Host Name | мемчик |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 05:37:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -139,11 +139,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204158678489 |
+| Lobby ID | 28505204158661610 |
 | Players | 1/15 |
-| Host Name | fzy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 05:36:57 |
+| Host Name | Bane |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 05:36:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204157321297 |
+| Players | 14/15 |
+| Host Name | Sitru |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 05:35:03 |
 
 
 |  | epic_boss_fight_normal |
