@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203151210331 |
-| Players | 11/24 |
+| Players | 18/24 |
 | Host Name | 'le Yan |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 17:15:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203154298830 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Chogori |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:18:41 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203152586472 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | БЕСпоЩАДОВ МУН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:17:04 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203153538844 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | feeling the dimensions |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:17:58 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203154215020 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | 私はみんなにとって死んでいる |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 17:18:36 |
@@ -114,9 +114,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505203152364966 |
 | Players | 2/10 |
-| Host Name | мексиканец |
+| Host Name | ALEXBYRDASHEV |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:16:51 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203154380534 |
+| Players | 4/24 |
+| Host Name | Onyx |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 17:18:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203154362840 |
+| Players | 1/15 |
+| Host Name | Eddy |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 4, 2023 17:18:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203154515937 |
+| Players | 1/8 |
+| Host Name | ИНЖЕНЕР |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 4, 2023 17:18:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203154511174 |
+| Players | 3/8 |
+| Host Name | faint |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 17:18:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203150853204 |
+| Players | 6/8 |
+| Host Name | Psevdo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 17:15:24 |
 
 
 |  | epic_boss_fight_nightmare |
