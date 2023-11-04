@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202882154594 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Эдсон Вера Девяты |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 12:59:01 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202883079911 |
-| Players | 18/24 |
+| Players | 16/24 |
 | Host Name | beebee |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 13:00:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202887766709 |
-| Players | 23/24 |
-| Host Name | Phill Dz |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 13:05:24 |
+| Lobby ID | 28505202891774084 |
+| Players | 2/15 |
+| Host Name | Egotheist |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 13:09:47 |
 
 
 |  | ot3_gardens_duo |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202889691504 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Топ 100 Антарктиды |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:07:31 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202887714114 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | DANICH |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 13:05:20 |
@@ -167,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202890550238 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | 無定向喪心病狂 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 13:08:28 |
@@ -180,6 +180,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nigero GEOP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 13:09:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202891663751 |
+| Players | 1/15 |
+| Host Name | El chipirón enrojao |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 13:09:40 |
 
 
 |  | epic_boss_fight_nightmare |
