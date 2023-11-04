@@ -74,13 +74,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 16:36:17 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203107373445 |
+| Players | 5/8 |
+| Host Name | aa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 16:33:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203111309452 |
+| Players | 1/8 |
+| Host Name | pr0skill проскилович ^_^ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 16:37:34 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203107932923 |
-| Players | 7/10 |
-| Host Name | KO/\9H4uK |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 16:34:26 |
+| Lobby ID | 28505203111412500 |
+| Players | 1/10 |
+| Host Name | Работайте БРАТЬЯ!!!! |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 16:37:40 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203111437900 |
+| Players | 4/10 |
+| Host Name | Shiro |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 16:37:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203107824188 |
+| Players | 8/10 |
+| Host Name | Slarkas777 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 16:34:20 |
 
 
 |  | epic_boss_fight_normal |
@@ -108,14 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Death Is My Bitch |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:36:48 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28505203111270958 |
-| Players | 1/7 |
-| Host Name | Hansol |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 16:37:32 |
 
 
