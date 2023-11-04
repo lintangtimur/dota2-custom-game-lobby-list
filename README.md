@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202898228939 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | い Aure - LBy <3 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 13:16:41 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202898038824 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Skarp. TRADEIT.GG |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 13:16:29 |
@@ -92,22 +92,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 13:16:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202898180202 |
-| Players | 1/24 |
-| Host Name | JESUS |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 13:16:38 |
+| Lobby ID | 28505202898882370 |
+| Players | 3/10 |
+| Host Name | Muy Malo |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 13:17:22 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202898676159 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Bored- |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, November 4, 2023 13:17:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202895143917 |
+| Players | 9/10 |
+| Host Name | upkankul |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 13:13:25 |
 
 
 |  | epic_boss_fight_nightmare |
