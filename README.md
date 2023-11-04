@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202955136594 |
-| Players | 2/24 |
-| Host Name | Dendi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 14:12:56 |
+| Lobby ID | 28505202955713831 |
+| Players | 1/15 |
+| Host Name | no excuses |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 14:13:29 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202955363302 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | nissinwafer |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, November 4, 2023 14:13:09 |
@@ -77,37 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202954137235 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Madm1ke |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:12:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202955282798 |
-| Players | 1/8 |
-| Host Name | Kick.com/lumaid |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 14:13:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505202953642417 |
-| Players | 9/10 |
-| Host Name | 我被诅咒了 |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 4, 2023 14:11:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202953806847 |
-| Players | 8/15 |
-| Host Name | Vuvuzela Virtuoso Hans Rudolph |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 14:11:41 |
+| Lobby ID | 28505202954990690 |
+| Players | 17/24 |
+| Host Name | nigero GEOP |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 14:12:48 |
 
 
 |  | ot3_gardens_duo |
@@ -119,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:12:15 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202954990690 |
-| Players | 13/24 |
-| Host Name | nigero GEOP |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 14:12:48 |
+| Lobby ID | 28505202953806847 |
+| Players | 8/15 |
+| Host Name | Vuvuzela Virtuoso Hans Rudolph |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 14:11:41 |
 
 
 |  | epic_boss_fight_nightmare |
