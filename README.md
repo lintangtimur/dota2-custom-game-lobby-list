@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203052337827 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | 626 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:43:17 |
@@ -47,31 +47,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:10:34 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203051595283 |
-| Players | 14/15 |
-| Host Name | I'm a talentless bastard |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 15:42:36 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203051515573 |
+| Lobby ID | 28505203053062629 |
 | Players | 1/8 |
-| Host Name | skorpziro |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 15:42:31 |
+| Host Name | Кошачий корм |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 15:43:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203046181594 |
+| Players | 20/24 |
+| Host Name | 2FatSnails |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 15:37:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203052199370 |
 | Players | 6/24 |
-| Host Name | Shuhky |
+| Host Name | monagillo 2.0 |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:43:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203053053136 |
+| Players | 1/8 |
+| Host Name | skorpziro |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 15:43:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203053097369 |
+| Players | 1/8 |
+| Host Name | Ratidars |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 15:44:00 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | trucker |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 14:28:03 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505203052883542 |
-| Players | 1/5 |
-| Host Name | 나를 |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 15:43:48 |
 
 
