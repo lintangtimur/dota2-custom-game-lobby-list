@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203046181594 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:37:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203059809431 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | mmmMMM |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:50:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203059668928 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | Wawi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:49:58 |
@@ -110,10 +110,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 15:50:18 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203060110342 |
+| Players | 2/10 |
+| Host Name | twitch.tv/p0ma3abp |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 15:50:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203060130884 |
+| Players | 5/15 |
+| Host Name | ✿GOJO SATORU✿ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 15:50:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203060284411 |
+| Players | 1/8 |
+| Host Name | Anthony Berguermonte Talcone |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, November 4, 2023 15:50:32 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203057272851 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Just subscribe for Linda H |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:47:48 |
