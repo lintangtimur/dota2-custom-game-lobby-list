@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202940568450 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | ATEIZM |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:59:02 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202935610371 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | BLEHHHHH :P |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 13:54:13 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 13:55:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202938884107 |
-| Players | 21/24 |
-| Host Name | 大鲶鱼 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 13:57:24 |
+| Lobby ID | 28505202941630984 |
+| Players | 3/10 |
+| Host Name | Sr Timba |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 14:00:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,30 +101,66 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 13:57:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202941630984 |
-| Players | 3/10 |
-| Host Name | Sr Timba |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 14:00:04 |
+| Lobby ID | 28505202941883237 |
+| Players | 1/24 |
+| Host Name | ✟ מִיכָאֵל ✟ |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 14:00:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202936489141 |
+| Players | 14/15 |
+| Host Name | makdak1111 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 13:55:04 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202941918807 |
+| Players | 2/24 |
+| Host Name | Coloratura |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 14:00:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202941924823 |
+| Players | 1/24 |
+| Host Name | DrX |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 14:00:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202941919706 |
+| Players | 1/24 |
+| Host Name | 百变小樱桃 |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 14:00:21 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202940926832 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | PINK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:59:23 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505202941532879 |
-| Players | 1/5 |
-| Host Name | Cнежинка |
+| Lobby ID | 28505202941911659 |
+| Players | 2/10 |
+| Host Name | Hawt ASF |
 | Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 13:59:59 |
+| Lobby Creation Time | Saturday, November 4, 2023 14:00:20 |
 
 
