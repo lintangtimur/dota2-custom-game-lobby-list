@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203026333942 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Timer |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 15:19:33 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203025242281 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | ハーパー |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:18:34 |
@@ -67,38 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203027326771 |
-| Players | 14/15 |
-| Host Name | The Dead of Marshes |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 15:20:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203026623716 |
-| Players | 6/8 |
-| Host Name | 我被诅咒了 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 15:19:49 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505203018232294 |
-| Players | 23/24 |
-| Host Name | skynet |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 15:12:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203027764046 |
-| Players | 2/10 |
-| Host Name | Remiferia |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 15:20:51 |
+| Lobby ID | 28505203027876220 |
+| Players | 4/15 |
+| Host Name | bloomtodeath |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 15:20:57 |
 
 
 |  | ot3_gardens_duo |
@@ -108,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | эль чача |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:20:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203027764046 |
+| Players | 4/10 |
+| Host Name | Remiferia |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 15:20:51 |
 
 
 |  | epic_boss_fight_nightmare |
