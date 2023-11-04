@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202840546310 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Enrique |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:12:58 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202840628023 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | AMA TU PERU CTMRE |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 12:13:04 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202809061131 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Inahaaaaaaan!!!! |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 4, 2023 11:34:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202836123377 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | T4P |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:07:47 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202839397712 |
-| Players | 9/10 |
+| Players | 6/10 |
 | Host Name | TIO RAMBITO -v |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 12:11:37 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202840727483 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Messi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:13:11 |
@@ -144,6 +144,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | peach eyes |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 12:13:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202841024285 |
+| Players | 4/8 |
+| Host Name | ODIO a los PATOS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 12:13:31 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202840918340 |
+| Players | 1/24 |
+| Host Name | imehy3u |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 12:13:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202840977141 |
+| Players | 1/8 |
+| Host Name | Conchito Coimero |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 12:13:28 |
 
 
 |  | epic_boss_fight_normal |
