@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202786929958 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Montinha |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:04:43 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202785230066 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | folder |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:02:14 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202785262672 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Donut Squirrel |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:02:16 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202785949540 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | RyQゆた |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 11:03:18 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202787123809 |
-| Players | 1/8 |
-| Host Name | Lenic |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 11:05:00 |
+| Lobby ID | 28505202787436960 |
+| Players | 5/8 |
+| Host Name | Ghosty ❤ |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 11:05:27 |
 
 
 |  | ot3_necropolis_ffa |
@@ -126,15 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | alexander  yc |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 11:05:15 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505202787316400 |
-| Players | 1/10 |
-| Host Name | Hani |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 11:05:17 |
 
 
 |  | epic_boss_fight_nightmare |
