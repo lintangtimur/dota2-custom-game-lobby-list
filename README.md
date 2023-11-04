@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203147270511 |
-| Players | 6/8 |
-| Host Name | Colours |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 4, 2023 17:11:57 |
+| Lobby ID | 28505203152700603 |
+| Players | 1/10 |
+| Host Name | huylo |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 17:17:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203151210331 |
-| Players | 3/24 |
+| Players | 10/24 |
 | Host Name | 'le Yan |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 17:15:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203151691897 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | неумехапелемеха |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 17:16:13 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203150853204 |
-| Players | 6/8 |
-| Host Name | Psevdo |
+| Lobby ID | 28505203152586472 |
+| Players | 3/8 |
+| Host Name | 私はみんなにとって死んでいる |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:15:24 |
+| Lobby Creation Time | Saturday, November 4, 2023 17:17:04 |
 
 
 |  | ot3_gardens_duo |
@@ -74,66 +74,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 17:16:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203151028905 |
-| Players | 9/10 |
-| Host Name | Арбузный Дилер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:15:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203152069278 |
-| Players | 7/8 |
-| Host Name | RONIN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:16:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203150344608 |
-| Players | 4/10 |
-| Host Name | zxcikona |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:14:55 |
+| Lobby ID | 28505203152538465 |
+| Players | 1/15 |
+| Host Name | Twitch.tv/KreiK1_ |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 4, 2023 17:17:01 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203152364966 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Я потушу весь ад |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:16:51 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203150344608 |
+| Players | 6/10 |
+| Host Name | zxcikona |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 17:14:55 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203129991079 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | inadequate |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:55:04 |
 
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28505203110474019 |
-| Players | 6/7 |
-| Host Name | Death Is My Bitch |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 16:36:48 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505203152032812 |
-| Players | 1/5 |
-| Host Name | Barakuda |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 4, 2023 17:16:32 |
+| Lobby ID | 28505203152607588 |
+| Players | 2/5 |
+| Host Name | Hell mix |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 4, 2023 17:17:05 |
 
 
