@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203018232294 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | Tony Tony Chopper |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 15:12:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203020308307 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | hi |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 15:14:01 |
@@ -92,31 +92,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:57:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203019654396 |
-| Players | 6/8 |
-| Host Name | Видящий Угадайка |
+| Lobby ID | 28505203018589015 |
+| Players | 14/15 |
+| Host Name | m0yonezzy |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 15:13:25 |
+| Lobby Creation Time | Saturday, November 4, 2023 15:12:25 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203020720809 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | CALLA BURRE |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 15:14:24 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203012563168 |
-| Players | 23/24 |
-| Host Name | Weed |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 15:06:52 |
+| Lobby ID | 28505203020984077 |
+| Players | 1/10 |
+| Host Name | coover雨 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 15:14:39 |
 
 
 |  | epic_boss_fight_nightmare |
