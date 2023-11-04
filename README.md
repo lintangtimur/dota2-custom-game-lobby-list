@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203076648597 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | а |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:05:23 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 16:06:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203078902888 |
-| Players | 11/15 |
-| Host Name | The Dead of Marshes |
+| Lobby ID | 28505203079217561 |
+| Players | 2/10 |
+| Host Name | Vulva |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:07:28 |
+| Lobby Creation Time | Saturday, November 4, 2023 16:07:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,13 +110,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 16:07:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203079217561 |
-| Players | 2/10 |
-| Host Name | Vulva |
+| Lobby ID | 28505203079283665 |
+| Players | 7/15 |
+| Host Name | kokojambo ♠ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:07:45 |
+| Lobby Creation Time | Saturday, November 4, 2023 16:07:49 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203074238283 |
+| Players | 23/24 |
+| Host Name | [JnM]Nickname |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 16:03:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203063591040 |
+| Players | 13/15 |
+| Host Name | Kawaii Tolkien Black Jesus |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 15:53:32 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | biubiubiup |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:07:29 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28505203079392060 |
+| Players | 1/7 |
+| Host Name | ТурбоZавр |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 16:07:55 |
 
 
