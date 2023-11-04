@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203026333942 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Timer |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 15:19:33 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203025242831 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | El depredador de gallinas |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 15:18:34 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203027781511 |
-| Players | 2/10 |
-| Host Name | эль чача |
+| Players | 7/10 |
+| Host Name | Pizdarik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:20:52 |
 
@@ -86,19 +86,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203027764046 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:20:51 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203018232294 |
+| Players | 23/24 |
+| Host Name | skynet |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 4, 2023 15:12:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203028498238 |
+| Players | 10/15 |
+| Host Name | TRIVIAL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 15:21:31 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203028849337 |
+| Players | 1/10 |
+| Host Name | unvalibavol |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 15:21:51 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203028326868 |
+| Lobby ID | 28505203028883555 |
 | Players | 1/8 |
 | Host Name | s.nasermahmoudi1 |
 | Region | DUBAI |
-| Lobby Creation Time | Saturday, November 4, 2023 15:21:22 |
+| Lobby Creation Time | Saturday, November 4, 2023 15:21:53 |
 
 
 |  | epic_boss_fight_nightmare |
