@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202854661847 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | ^^bongafonx` |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:28:58 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202854970376 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | JrY |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:29:19 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202855745734 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Bryan |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:30:10 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202856443009 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | NO SE |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:30:57 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202856753063 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | The Dead of Marshes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:31:17 |
@@ -141,18 +141,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505202856966155 |
 | Players | 1/10 |
-| Host Name | NeeL |
+| Host Name | ONI |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:31:31 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202857137948 |
+| Players | 1/15 |
+| Host Name | >>¥¥♔Limbo♔¥¥<< |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 12:31:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202857173704 |
+| Players | 2/10 |
+| Host Name | DANICH |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 12:31:45 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202857088845 |
+| Lobby ID | 28505202857209689 |
 | Players | 4/8 |
 | Host Name | si me ganas yo pierdo :v |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 12:31:40 |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 12:31:48 |
 
 
 |  | epic_boss_fight_nightmare |
