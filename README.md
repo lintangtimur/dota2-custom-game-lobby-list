@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202805147230 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | ✙ Ukrainian Abrams + |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:29:51 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202805572837 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | 永恒.T-Rex |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:30:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202798738243 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Jesse Pinkman |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 11:21:22 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202805883212 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | MAGISTR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:30:48 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202805942309 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Grimorum ~_^ |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 11:30:52 |
@@ -112,29 +112,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202806029013 |
-| Players | 1/15 |
-| Host Name | Nathan |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Saturday, November 4, 2023 11:30:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202806106196 |
-| Players | 2/15 |
-| Host Name | De la Kamada de los Kamado |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 11:31:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28505202806106484 |
 | Players | 6/15 |
 | Host Name | RexBeto |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:31:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202806106196 |
+| Players | 1/15 |
+| Host Name | cigarro? AGGG!!! |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 11:31:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202806147164 |
+| Players | 1/8 |
+| Host Name | SrDumii |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 11:31:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202806167482 |
+| Players | 1/10 |
+| Host Name | Moises |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 11:31:10 |
 
 
 |  | epic_boss_fight_nightmare |
