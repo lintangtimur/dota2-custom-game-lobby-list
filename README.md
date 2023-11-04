@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202963667913 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | :( |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 14:20:57 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202962689296 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | xdxdxd |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:20:01 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202963805905 |
-| Players | 22/24 |
-| Host Name | Wapo16 |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 14:21:05 |
+| Lobby ID | 28505202967130729 |
+| Players | 1/8 |
+| Host Name | SpΣrM |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 14:24:13 |
 
 
 |  | ot3_gardens_duo |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202959213145 |
-| Players | 5/24 |
-| Host Name | Empty |
+| Players | 3/24 |
+| Host Name | NoobMaster69 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:16:44 |
 
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:20:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202965222724 |
-| Players | 7/8 |
-| Host Name | CumHere |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 14:22:25 |
+| Lobby ID | 28505202966396359 |
+| Players | 2/10 |
+| Host Name | Danilo Montano |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 4, 2023 14:23:32 |
 
 
 |  | ot3_desert_octet |
@@ -128,19 +128,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:23:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202966396359 |
-| Players | 2/10 |
-| Host Name | Danilo Montano |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 14:23:32 |
+| Lobby ID | 28505202967162717 |
+| Players | 1/8 |
+| Host Name | клоп гэнг |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 4, 2023 14:24:15 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202967095924 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | TriHard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:24:11 |
