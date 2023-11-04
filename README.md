@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204209979923 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | ez mid |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:55:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204209667296 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | EL Cochinote |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 5, 2023 06:54:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204205648503 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 5, 2023 06:47:40 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204200180357 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Gyrocopter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 06:38:40 |
@@ -94,17 +94,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204210502080 |
-| Players | 13/15 |
-| Host Name | Devil Wears Prada |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 06:55:54 |
+| Lobby ID | 28505204210673396 |
+| Players | 4/15 |
+| Host Name | Ks7a- |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, November 5, 2023 06:56:11 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204207977110 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:51:35 |
@@ -155,22 +155,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 06:55:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204210009082 |
-| Players | 7/8 |
-| Host Name | TAP TAP A LA PANTALLA |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 06:55:03 |
+| Lobby ID | 28505204210766891 |
+| Players | 2/15 |
+| Host Name | Marimo |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 06:56:21 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204210642141 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | bro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:56:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204210751850 |
+| Players | 1/10 |
+| Host Name | Dark |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 06:56:19 |
 
 
 |  | epic_boss_fight_nightmare |
