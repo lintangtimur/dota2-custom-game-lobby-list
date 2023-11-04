@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204128131098 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | NEGATIVELY CHARGED SKUNK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 04:55:08 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 04:55:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204125019151 |
-| Players | 7/8 |
-| Host Name | § h i t o |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 04:51:08 |
+| Lobby ID | 28505204128663092 |
+| Players | 3/10 |
+| Host Name | MAD |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 04:55:49 |
 
 
 |  | ot3_desert_octet |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 04:54:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204127257908 |
-| Players | 1/10 |
-| Host Name | москвачкала |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 04:54:01 |
+| Lobby ID | 28505204128820684 |
+| Players | 2/8 |
+| Host Name | ABOBA BOY |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 04:56:02 |
 
 
 |  | ot3_desert_octet |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204128546449 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | GreenGunAbility |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 04:55:40 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204128227704 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Dreamcore |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 04:55:16 |
@@ -130,11 +130,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204128733758 |
-| Players | 4/8 |
-| Host Name | Eto Yoshimura |
+| Lobby ID | 28505204128884020 |
+| Players | 1/8 |
+| Host Name | москвачкала |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 04:55:55 |
+| Lobby Creation Time | Sunday, November 5, 2023 04:56:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -148,20 +148,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204128663092 |
+| Lobby ID | 28505204128927602 |
 | Players | 1/10 |
-| Host Name | MAD |
+| Host Name | bro |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 04:55:49 |
+| Lobby Creation Time | Sunday, November 5, 2023 04:56:10 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204128774228 |
-| Players | 2/10 |
-| Host Name | w0rse |
+| Lobby ID | 28505204128934919 |
+| Players | 4/10 |
+| Host Name | The Hunter (dead inside) |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, November 5, 2023 04:56:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505204128945612 |
+| Players | 1/24 |
+| Host Name | OnMuZoon |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 04:55:58 |
+| Lobby Creation Time | Sunday, November 5, 2023 04:56:11 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505204128951624 |
+| Players | 1/24 |
+| Host Name | Kori❄♡ |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 5, 2023 04:56:12 |
 
 
 |  | epic_boss_fight_challenger |
@@ -171,14 +189,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Seiun Sky |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 04:42:07 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28505204128751325 |
-| Players | 2/7 |
-| Host Name | Doung neng Hah :D |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 04:55:56 |
 
 
