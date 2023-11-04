@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202872563448 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Enrage |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:48:35 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202809061131 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Inahaaaaaaan!!!! |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 4, 2023 11:34:54 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202874194304 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Леопольд |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, November 4, 2023 12:50:22 |
@@ -137,12 +137,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 12:53:21 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202877055985 |
+| Players | 3/8 |
+| Host Name | хочу татарочку |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 12:53:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202877086603 |
+| Players | 3/15 |
+| Host Name | arp |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 12:53:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202877106754 |
+| Players | 1/15 |
+| Host Name | onaforp xessib |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 12:53:30 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202872622629 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | 123 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:48:39 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28505202876058074 |
+| Players | 1/7 |
+| Host Name | #ASAP! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 12:52:23 |
 
 
