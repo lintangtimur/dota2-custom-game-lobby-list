@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203054989563 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Ado |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:45:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203056264875 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | BestFriendoooo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:46:53 |
@@ -83,13 +83,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 15:46:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505203053518086 |
-| Players | 13/15 |
-| Host Name | Boogie Woogie O'Man |
+| Lobby ID | 28505203056749335 |
+| Players | 1/24 |
+| Host Name | Lionheart ♥ |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 15:47:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203056730544 |
+| Players | 1/8 |
+| Host Name | Teмa, 14 лeт, пoшлый |
 | Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 15:44:23 |
+| Lobby Creation Time | Saturday, November 4, 2023 15:47:18 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203052199370 |
+| Players | 10/24 |
+| Host Name | Rico Suave |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 15:43:09 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203046181594 |
+| Players | 23/24 |
+| Host Name | 2FatSnails |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 15:37:37 |
 
 
 |  | epic_boss_fight_nightmare |
