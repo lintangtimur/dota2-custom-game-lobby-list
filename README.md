@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202806147164 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | SrDumii |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:31:08 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:33:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202806106484 |
-| Players | 6/15 |
-| Host Name | RexBeto |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 11:31:05 |
+| Lobby ID | 28505202808368349 |
+| Players | 4/8 |
+| Host Name | Cerveza Pilsen Trujillo |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 11:34:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202806777467 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Quenta |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:31:57 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202806847327 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | Lunaria |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, November 4, 2023 11:32:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202804964194 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 11:29:37 |
@@ -128,12 +128,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:33:43 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28505202808259057 |
-| Players | 1/5 |
+| Lobby ID | 28505202808416269 |
+| Players | 1/7 |
 | Host Name | . Skye |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:33:52 |
+| Lobby Creation Time | Saturday, November 4, 2023 11:34:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505202808416646 |
+| Players | 1/5 |
+| Host Name | godota2.com |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 4, 2023 11:34:04 |
 
 
