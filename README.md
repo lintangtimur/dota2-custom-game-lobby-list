@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203204647345 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | KosenoK <3 U |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 18:03:02 |
@@ -65,33 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 17:44:41 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203198619168 |
-| Players | 14/15 |
-| Host Name | FULL master |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:57:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203200890925 |
-| Players | 11/15 |
-| Host Name | Riku |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 17:59:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505203203899138 |
-| Players | 15/24 |
-| Host Name | 小心踏得两艘船 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 18:02:24 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203205693146 |
@@ -101,30 +74,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 18:03:55 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203205307251 |
-| Players | 1/5 |
-| Host Name | beautiful life |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 4, 2023 18:03:35 |
+| Lobby ID | 28505203200890925 |
+| Players | 12/15 |
+| Host Name | Riku |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 17:59:54 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505203203663274 |
-| Players | 5/10 |
-| Host Name | lous vi |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 4, 2023 18:02:12 |
+| Lobby ID | 28505203203899138 |
+| Players | 17/24 |
+| Host Name | 小心踏得两艘船 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 18:02:24 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203204091127 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Твоя бывшая |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 18:02:34 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505203203663274 |
+| Players | 6/10 |
+| Host Name | lous vi |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 4, 2023 18:02:12 |
 
 
