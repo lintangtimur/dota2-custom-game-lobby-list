@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202786929958 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Montinha |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:04:43 |
@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505202785139643 |
 | Players | 2/24 |
-| Host Name | Ligis |
+| Host Name | Jasmine |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:02:05 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202785876419 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Ray |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:03:12 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202785949540 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | RyQゆた |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 11:03:18 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202787044240 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | JNK |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 11:04:53 |
@@ -113,10 +113,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202787123809 |
-| Players | 5/8 |
-| Host Name | Ghosty ❤ |
+| Players | 1/8 |
+| Host Name | Lenic |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 11:05:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202787295256 |
+| Players | 1/8 |
+| Host Name | alexander  yc |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 11:05:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202787316400 |
+| Players | 1/10 |
+| Host Name | Hani |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 11:05:17 |
 
 
 |  | epic_boss_fight_nightmare |
