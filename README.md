@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202779625153 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Grodan Pogg |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 10:54:09 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202782240784 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 10:57:49 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202781551870 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | fap my mom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 10:56:51 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202781954060 |
-| Players | 9/10 |
+| Players | 6/10 |
 | Host Name | ... |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 10:57:25 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202782197626 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Bajito pero soberbio |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 10:57:45 |
@@ -126,6 +126,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | "Butters" |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 10:56:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202782441946 |
+| Players | 3/8 |
+| Host Name | ЭТО ВТОРОЙ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 10:58:06 |
 
 
 |  | epic_boss_fight_nightmare |
