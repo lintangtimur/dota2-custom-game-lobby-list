@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202773933297 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Kure Raian//我回来了 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 10:46:16 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202773092947 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 10:45:07 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202773905958 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Deza |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 10:46:14 |
@@ -85,17 +85,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202774452890 |
-| Players | 1/8 |
-| Host Name | Frontier |
+| Lobby ID | 28505202774509723 |
+| Players | 2/8 |
+| Host Name | EL INSANO WUAZAAA |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 10:46:58 |
+| Lobby Creation Time | Saturday, November 4, 2023 10:47:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202774610481 |
+| Players | 1/15 |
+| Host Name | 950926sk |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, November 4, 2023 10:47:11 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202763786717 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Booberries |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 10:32:20 |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202771988143 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ang qt qt ko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 10:43:36 |
