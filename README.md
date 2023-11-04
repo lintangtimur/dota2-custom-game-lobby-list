@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202875018923 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:51:15 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202878621116 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | unvalibavol |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:55:10 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202878047937 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Muy Malo |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:54:33 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202877568946 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Fabian! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 12:54:01 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202878063017 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | dW |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:54:34 |
@@ -149,18 +149,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202879393878 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Freshy |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:56:01 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505202879666227 |
+| Players | 1/10 |
+| Host Name | Xz- |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 4, 2023 12:56:19 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505202879502314 |
+| Lobby ID | 28505202879673251 |
 | Players | 1/5 |
 | Host Name | . Skye |
 | Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 12:56:08 |
+| Lobby Creation Time | Saturday, November 4, 2023 12:56:19 |
 
 
