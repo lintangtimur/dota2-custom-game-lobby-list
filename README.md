@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204200896519 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Poomp |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 06:39:50 |
@@ -47,20 +47,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 04:30:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204202729631 |
-| Players | 7/8 |
-| Host Name | Crystal Collector |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 06:42:49 |
+| Lobby ID | 28505204202372524 |
+| Players | 5/15 |
+| Host Name | Aarön |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 06:42:14 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204201831969 |
-| Players | 3/10 |
-| Host Name | тайский боец |
+| Players | 2/10 |
+| Host Name | барашка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:41:21 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204198783832 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Ibo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 06:36:26 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 06:42:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204201767404 |
-| Players | 9/15 |
-| Host Name | asdadsadsa |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 06:41:15 |
+| Lobby ID | 28505204202697341 |
+| Players | 2/10 |
+| Host Name | EulerPii |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 06:42:46 |
 
 
 |  | ot3_gardens_duo |
@@ -126,33 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Shrek 4/2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:42:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204202697341 |
-| Players | 2/10 |
-| Host Name | EulerPii |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 06:42:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204202372524 |
-| Players | 1/15 |
-| Host Name | Aarön |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 06:42:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204200197361 |
-| Players | 7/8 |
-| Host Name | PMA swap commetds |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 06:38:42 |
 
 
 |  | epic_boss_fight_normal |
