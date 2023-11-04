@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202974189878 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Священная Рана |
 | Region | AUSTRIA |
 | Lobby Creation Time | Saturday, November 4, 2023 14:30:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202809061131 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Inahaaaaaaan!!!! |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 4, 2023 11:34:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202973441435 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | ewyang |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:30:05 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202969085064 |
-| Players | 20/24 |
-| Host Name | rtb |
+| Lobby ID | 28505202968960698 |
+| Players | 22/24 |
+| Host Name | Coloratura |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 14:26:03 |
+| Lobby Creation Time | Saturday, November 4, 2023 14:25:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202973289447 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Griefer Jesus |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:29:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202968960698 |
-| Players | 21/24 |
-| Host Name | Coloratura |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 14:25:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -153,15 +144,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | エッラ |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 14:28:57 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505202973690650 |
-| Players | 1/10 |
-| Host Name | Бy}{@9 M@NaIIIk@ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 14:30:19 |
 
 
 |  | epic_boss_fight_nightmare |
