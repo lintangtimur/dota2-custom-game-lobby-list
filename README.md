@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204159984100 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Funq |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:38:47 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204159951950 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Rosé- |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 05:38:45 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204156822126 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Future good guy |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 5, 2023 05:34:21 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204159665507 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | EL TIO CHERO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 05:38:20 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204159737859 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | this cake is awful guys fuck it |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:38:27 |
@@ -121,29 +121,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204159801423 |
-| Players | 1/15 |
+| Lobby ID | 28505204160045766 |
+| Players | 7/15 |
 | Host Name | Marshals |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 05:38:32 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 05:38:52 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204159704635 |
-| Players | 5/24 |
+| Players | 9/24 |
 | Host Name | Geegee |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 5, 2023 05:38:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204159808925 |
-| Players | 1/10 |
-| Host Name | ATOM |
+| Lobby ID | 28505204160124883 |
+| Players | 1/8 |
+| Host Name | cb|fh99^ # have fun :) |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 05:38:33 |
+| Lobby Creation Time | Sunday, November 5, 2023 05:38:59 |
 
 
 |  | epic_boss_fight_nightmare |
