@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203106192448 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | A1ZEN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:32:49 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203095231924 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Bagzy |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 4, 2023 16:22:33 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203105891687 |
-| Players | 11/24 |
+| Players | 17/24 |
 | Host Name | Conq |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:32:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203106449184 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | ЕБУ ДЕТЕЙ |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:33:03 |
@@ -58,20 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203106768710 |
-| Players | 3/8 |
-| Host Name | 1VS9 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:33:21 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203106413040 |
-| Players | 8/10 |
-| Host Name | takizava |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:33:01 |
+| Lobby ID | 28505203106216141 |
+| Players | 2/8 |
+| Host Name | RANGER:AZUL/godota2.com |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 16:32:50 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | After School Teatime |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 16:32:41 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505203107301975 |
+| Players | 2/10 |
+| Host Name | XAin'tGonnaGiveIt |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 16:33:50 |
 
 
