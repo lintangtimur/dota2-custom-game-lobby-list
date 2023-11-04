@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202942252576 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Ralph.KM |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:00:40 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202935610371 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | BLEHHHHH :P |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 13:54:13 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202942279429 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | 路人 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:00:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202936957747 |
-| Players | 9/10 |
-| Host Name | heyheyhey |
+| Lobby ID | 28505202942709649 |
+| Players | 1/8 |
+| Host Name | pepegucci |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 13:55:31 |
+| Lobby Creation Time | Saturday, November 4, 2023 14:01:07 |
 
 
 |  | ot3_gardens_duo |
@@ -103,17 +103,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202941919706 |
+| Lobby ID | 28505202942617038 |
 | Players | 1/24 |
-| Host Name | 百变小樱桃 |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 14:00:21 |
+| Host Name | W1nd Wanker |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 14:01:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202942391111 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 14:00:48 |
@@ -137,19 +137,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:00:54 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202942617038 |
-| Players | 1/24 |
-| Host Name | W1nd Wanker |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 14:01:02 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202940926832 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | PINK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:59:23 |
