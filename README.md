@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204201954191 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | ГОЙ?ДА. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:41:33 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204201767404 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | asdadsadsa |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:41:15 |
@@ -113,19 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204202044835 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | XxTuviejoxX |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 06:41:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204202204310 |
-| Players | 1/8 |
-| Host Name | JODEME Y TE SACO TU MRDA |
+| Lobby ID | 28505204199700746 |
+| Players | 23/24 |
+| Host Name | BaN el zorro |
 | Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 06:41:58 |
+| Lobby Creation Time | Sunday, November 5, 2023 06:37:54 |
 
 
 |  | ot3_gardens_duo |
@@ -137,13 +137,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 06:41:22 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204199700746 |
-| Players | 23/24 |
-| Host Name | BaN el zorro |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 06:37:54 |
+| Lobby ID | 28505204202372524 |
+| Players | 1/15 |
+| Host Name | Aarön |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 06:42:14 |
 
 
 |  | epic_boss_fight_normal |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204201984244 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Touch me |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 06:41:36 |
