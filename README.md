@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202842185573 |
-| Players | 23/24 |
-| Host Name | ☥†A.K.A AlienEv†☥ |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 12:14:50 |
+| Lobby ID | 28505202844591268 |
+| Players | 2/24 |
+| Host Name | UltraAA |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, November 4, 2023 12:17:38 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202843069372 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Politician=Parasite |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:15:52 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202809061131 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Inahaaaaaaan!!!! |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 4, 2023 11:34:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202836123377 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | don't-do-drugs |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:07:47 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202839397712 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Kenny'S |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 12:11:37 |
@@ -135,15 +135,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Матье Бал |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 12:17:29 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202844526114 |
-| Players | 1/24 |
-| Host Name | dominating |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 4, 2023 12:17:33 |
 
 
 |  | epic_boss_fight_normal |
@@ -180,14 +171,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Booberries |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:17:19 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28505202844344815 |
-| Players | 1/7 |
-| Host Name | Leysritt イブ・リース |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 12:17:21 |
 
 
