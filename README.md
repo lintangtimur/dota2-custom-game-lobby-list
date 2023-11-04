@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 05:06:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204136515264 |
-| Players | 3/8 |
-| Host Name | Скотина |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 05:06:21 |
+| Lobby ID | 28505204137242904 |
+| Players | 1/15 |
+| Host Name | NO CONOZCO LA VICTORIA |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 05:07:21 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204137012794 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Satanovski |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:07:02 |
@@ -113,19 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204136718867 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Yo soy Alpharius |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 05:06:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204134700041 |
-| Players | 7/8 |
-| Host Name | zcxa |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, November 5, 2023 05:03:53 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -162,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Bedolaga |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 05:05:49 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505204137229647 |
+| Players | 1/5 |
+| Host Name | High_Spirit |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, November 5, 2023 05:07:19 |
 
 
