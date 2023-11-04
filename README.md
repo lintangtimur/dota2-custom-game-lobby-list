@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:06:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202944735461 |
-| Players | 14/15 |
-| Host Name | Pumba |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, November 4, 2023 14:03:06 |
+| Lobby ID | 28505202950488273 |
+| Players | 4/24 |
+| Host Name | [R][O][A][M] |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 14:08:33 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202950867627 |
-| Players | 17/24 |
+| Players | 23/24 |
 | Host Name | Lulalelilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:08:54 |
@@ -131,37 +131,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202949803507 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | (-_-) dragon rider (-_-) |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:07:54 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202950488273 |
-| Players | 3/24 |
-| Host Name | [R][O][A][M] |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 14:08:33 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202951948738 |
+| Lobby ID | 28505202952177866 |
 | Players | 1/10 |
 | Host Name | heyheyhey |
 | Region | AUSTRIA |
-| Lobby Creation Time | Saturday, November 4, 2023 14:09:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202951963116 |
-| Players | 2/8 |
-| Host Name | Todo anda mal |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 14:09:57 |
+| Lobby Creation Time | Saturday, November 4, 2023 14:10:09 |
 
 
 |  | epic_boss_fight_normal |
@@ -185,9 +167,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28505202951936266 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | Raizel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:09:55 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505202952184764 |
+| Players | 1/5 |
+| Host Name | Light Lander |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 14:10:09 |
 
 
