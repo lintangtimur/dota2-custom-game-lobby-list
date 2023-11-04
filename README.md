@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202842185573 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | ☥†A.K.A AlienEv†☥ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:14:50 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202840546310 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Enrique |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:12:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202839397712 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | TIO RAMBITO -v |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 12:11:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202836123377 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | don't-do-drugs |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:07:47 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202840687500 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | peach eyes |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 12:13:08 |
@@ -110,6 +110,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 12:15:29 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202841618730 |
+| Players | 6/8 |
+| Host Name | инфоцыган |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 12:14:11 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505202838928225 |
@@ -126,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CooKie! |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 12:15:06 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505202842913459 |
+| Players | 1/5 |
+| Host Name | Xin cái Tuổi? |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 4, 2023 12:15:41 |
 
 
