@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204173214231 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | SaatteNacarKadındaMacar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:57:34 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 05:56:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204173389929 |
-| Players | 12/15 |
-| Host Name | Валера-хроносфера |
+| Lobby ID | 28505204173588723 |
+| Players | 3/10 |
+| Host Name | Transmashingunman |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 05:57:49 |
+| Lobby Creation Time | Sunday, November 5, 2023 05:58:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204173337176 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | q rico aprieta tu germa mano |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 05:57:45 |
@@ -139,29 +139,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204173492544 |
-| Players | 6/8 |
-| Host Name | Krucha |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 5, 2023 05:57:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28505204173398600 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | доходяга |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:57:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204173588723 |
-| Players | 2/10 |
-| Host Name | МОНОЛИТ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 05:58:06 |
 
 
 |  | epic_boss_fight_nightmare |
