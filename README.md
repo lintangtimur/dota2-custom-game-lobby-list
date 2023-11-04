@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203259674134 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Zim Zimma |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 18:44:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203260303628 |
-| Players | 5/10 |
-| Host Name | mmmMMM |
+| Lobby ID | 28505203260172920 |
+| Players | 3/8 |
+| Host Name | wolfhound |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 18:45:03 |
+| Lobby Creation Time | Saturday, November 4, 2023 18:44:58 |
 
 
 |  | ot3_gardens_duo |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505203232790410 |
-| Players | 21/24 |
-| Host Name | Teudoongie |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 18:25:06 |
+| Lobby ID | 28505203260708747 |
+| Players | 4/24 |
+| Host Name | W®13 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 18:45:21 |
 
 
 |  | ot3_desert_octet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203254526222 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Blackberry Thunder |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 18:40:56 |
@@ -130,11 +130,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203258964465 |
+| Lobby ID | 28505203261102895 |
 | Players | 5/8 |
-| Host Name | Hoakin |
+| Host Name | csgorun я девочка научите сосать |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 18:44:07 |
+| Lobby Creation Time | Saturday, November 4, 2023 18:45:38 |
 
 
 |  | ot3_desert_octet |
@@ -167,46 +167,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203253775151 |
-| Players | 3/15 |
-| Host Name | ТИШИНА |
+| Players | 5/15 |
+| Host Name | Канибал |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 18:40:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203260172920 |
-| Players | 3/8 |
-| Host Name | wolfhound |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 18:44:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505203260708747 |
-| Players | 3/24 |
-| Host Name | W®13 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 18:45:21 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203257610963 |
-| Players | 2/10 |
-| Host Name | Sanjiro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 18:43:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203260805728 |
-| Players | 7/10 |
-| Host Name | Lua |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 18:45:25 |
 
 
 |  | epic_boss_fight_challenger |
