@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203171056232 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Buu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:34:04 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 17:35:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203173030907 |
-| Players | 6/8 |
-| Host Name | Chogori |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:35:50 |
+| Lobby ID | 28505203173876487 |
+| Players | 8/10 |
+| Host Name | ZooM - speak english dogs |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 4, 2023 17:36:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 17:33:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203173379449 |
-| Players | 8/15 |
-| Host Name | PonToday |
+| Lobby ID | 28505203166742453 |
+| Players | 9/10 |
+| Host Name | EbaNoomba |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:36:08 |
+| Lobby Creation Time | Saturday, November 4, 2023 17:30:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203172004190 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Димка Невидимка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:34:55 |
@@ -173,22 +173,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 17:16:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203158778288 |
-| Players | 13/15 |
-| Host Name | Blunder!! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:22:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203173876487 |
-| Players | 6/10 |
-| Host Name | ZooM - speak english dogs |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 4, 2023 17:36:35 |
+| Lobby ID | 28505203174141929 |
+| Players | 4/8 |
+| Host Name | Bagzy |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, November 4, 2023 17:36:49 |
 
 
 |  | epic_boss_fight_nightmare |
