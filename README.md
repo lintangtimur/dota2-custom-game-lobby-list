@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203238210409 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | W®13 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 18:29:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203229530359 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Fortino Samano |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 18:22:42 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203239653646 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | 21 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 18:30:06 |
@@ -128,22 +128,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 18:29:03 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203242408105 |
+| Players | 1/10 |
+| Host Name | ntolstikov18 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 18:32:04 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203241247021 |
-| Players | 12/15 |
-| Host Name | I HATE STUPID KIDS |
+| Lobby ID | 28505203231633888 |
+| Players | 13/15 |
+| Host Name | BOT ARTEM |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 18:31:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203222333826 |
-| Players | 3/8 |
-| Host Name | pos 69 or feed |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 18:17:17 |
+| Lobby Creation Time | Saturday, November 4, 2023 18:24:15 |
 
 
 |  | ot3_desert_octet |
@@ -153,6 +153,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | себас |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 18:31:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203242284201 |
+| Players | 3/15 |
+| Host Name | SadPess |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 18:31:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203211567003 |
+| Players | 11/15 |
+| Host Name | underTHEstaff |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 18:08:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203242307682 |
+| Players | 1/10 |
+| Host Name | sp33dy el' m00d1nY |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 18:32:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203240689394 |
+| Players | 1/8 |
+| Host Name | Elatos |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 18:30:50 |
 
 
 |  | epic_boss_fight_nightmare |
