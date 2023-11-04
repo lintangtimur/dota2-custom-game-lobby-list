@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505202805572837 |
 | Players | 2/8 |
-| Host Name | relo |
+| Host Name | GAmerZ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:30:24 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202804736565 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | yotsuba |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:29:19 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202798738243 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | Jesse Pinkman |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 11:21:22 |
@@ -144,6 +144,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:31:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202806011432 |
+| Players | 2/8 |
+| Host Name | AMANTE DEL HOUSE |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 11:30:58 |
 
 
 |  | epic_boss_fight_nightmare |
