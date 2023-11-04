@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 21:13:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203514166959 |
-| Players | 1/8 |
-| Host Name | 加速同调是没有极限的 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Saturday, November 4, 2023 21:14:22 |
+| Lobby ID | 28505203515600599 |
+| Players | 1/15 |
+| Host Name | Say |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 21:15:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203513126198 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | dpersikov |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 21:13:49 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203505758150 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ТУКИ ТУКИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 21:09:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203514861433 |
-| Players | 6/8 |
-| Host Name | олег тараска |
+| Lobby ID | 28505203503135029 |
+| Players | 2/10 |
+| Host Name | Картоха |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 21:14:44 |
+| Lobby Creation Time | Saturday, November 4, 2023 21:08:29 |
 
 
 |  | ot3_gardens_duo |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203512971658 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | chill doto |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 21:13:44 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203514819768 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | cant win without him |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 21:14:43 |
@@ -167,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203501652941 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Adolf Hotler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 21:07:42 |
@@ -203,7 +203,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203504900768 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | 神力无敌李大海 |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 21:09:26 |
@@ -221,16 +221,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203461417568 |
-| Players | 22/24 |
+| Players | 17/24 |
 | Host Name | Geegee |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 20:45:46 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203515602542 |
+| Players | 3/15 |
+| Host Name | heisenburger |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 21:15:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203515756501 |
+| Players | 1/15 |
+| Host Name | G |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 21:15:12 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505203506690198 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | king jagvar |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 4, 2023 21:10:24 |
@@ -239,7 +257,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203512706768 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Vertual |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 21:13:36 |
