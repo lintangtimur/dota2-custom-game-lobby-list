@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203063591040 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Elegant Elephant |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 15:53:32 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203063571040 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | jabava kaira |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:53:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203063826583 |
-| Players | 14/15 |
-| Host Name | SUPREME# [16] |
+| Lobby ID | 28505203064043989 |
+| Players | 3/8 |
+| Host Name | Space-man ඞ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 15:53:45 |
+| Lobby Creation Time | Saturday, November 4, 2023 15:53:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,28 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 15:51:37 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203062617285 |
-| Players | 7/8 |
-| Host Name | Видящий Угадайка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 15:52:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203064043989 |
-| Players | 1/8 |
-| Host Name | Space-man ඞ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 15:53:57 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203064258353 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | шельма |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 15:54:08 |
@@ -122,36 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203062143697 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Provion |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:52:13 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505203062786000 |
-| Players | 1/10 |
-| Host Name | Empty |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 4, 2023 15:52:48 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505203062837297 |
-| Players | 7/10 |
-| Host Name | I ATE NOTHING |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 15:52:51 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28505203064361327 |
-| Players | 1/7 |
-| Host Name | momo |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 15:54:14 |
 
 
