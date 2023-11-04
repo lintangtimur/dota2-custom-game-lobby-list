@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204018592222 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | -Voxz- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 02:53:40 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204021371459 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Wukash |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 02:56:25 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204021278911 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | j7suk6 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 02:56:20 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204018988986 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | [Otaru] |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 02:54:03 |
@@ -164,22 +164,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 02:56:16 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204021451855 |
+| Players | 1/8 |
+| Host Name | Big Mama (yulezz) |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, November 5, 2023 02:56:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204021490853 |
+| Players | 6/8 |
+| Host Name | Твоя мать грешна |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 02:56:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204020245500 |
+| Players | 1/8 |
+| Host Name | Дедус |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, November 5, 2023 02:55:18 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204021116817 |
-| Players | 10/15 |
-| Host Name | Mister Do6Pblu |
+| Lobby ID | 28505204021605128 |
+| Players | 1/15 |
+| Host Name | YawaDota |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, November 5, 2023 02:56:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204020666205 |
-| Players | 13/15 |
-| Host Name | Good_Win |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, November 5, 2023 02:55:43 |
+| Lobby Creation Time | Sunday, November 5, 2023 02:56:39 |
 
 
 |  | epic_boss_fight_normal |
