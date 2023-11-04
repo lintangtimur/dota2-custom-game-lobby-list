@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202833002187 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Chrisnochet |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:04:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202832573879 |
-| Players | 9/10 |
-| Host Name | 彼女は私のワイフです |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 12:03:40 |
+| Lobby ID | 28505202834384436 |
+| Players | 7/24 |
+| Host Name | Coloratura |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 12:05:47 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202833779951 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | Panda in Jupyter |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:05:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202831683071 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | asd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:02:38 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202833381676 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:04:36 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202831773581 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ** *** |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:02:44 |
@@ -155,13 +155,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 12:05:38 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202834384436 |
-| Players | 4/24 |
-| Host Name | Coloratura |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 12:05:47 |
+| Lobby ID | 28505202834715472 |
+| Players | 1/10 |
+| Host Name | mundirkaka0 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 12:06:10 |
 
 
 |  | epic_boss_fight_nightmare |
