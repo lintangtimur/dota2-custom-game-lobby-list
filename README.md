@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204099792865 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Romans 7:15-20 |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 5, 2023 04:20:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204101667025 |
-| Players | 3/15 |
+| Players | 12/15 |
 | Host Name | Головосование |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 04:22:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204101487723 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | arhikent |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 04:22:32 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 04:20:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204099511207 |
-| Players | 2/10 |
-| Host Name | J-Usp |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 04:20:14 |
+| Lobby ID | 28505204102011153 |
+| Players | 1/8 |
+| Host Name | iceblink luck |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 04:23:09 |
 
 
 |  | ot3_gardens_duo |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204100396378 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | Быдло |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 04:21:16 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204098136833 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Tilapia com Aids |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 5, 2023 04:18:40 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204101055958 |
-| Players | 17/24 |
+| Players | 23/24 |
 | Host Name | ♥FREE YOURSELF♥ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 04:22:02 |
@@ -173,13 +173,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 04:22:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204101976124 |
-| Players | 3/8 |
-| Host Name | Timpan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 04:23:06 |
+| Lobby ID | 28505204098821832 |
+| Players | 9/10 |
+| Host Name | Oops |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 04:19:27 |
 
 
 |  | ot3_necropolis_ffa |
@@ -191,13 +191,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 04:21:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204101987888 |
-| Players | 3/8 |
-| Host Name | Свиное рыльце |
+| Lobby ID | 28505204100947656 |
+| Players | 8/10 |
+| Host Name | --->TYT<--- |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 04:21:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204102125868 |
+| Players | 1/10 |
+| Host Name | Работайте БРАТЬЯ!!!! |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 04:23:07 |
+| Lobby Creation Time | Sunday, November 5, 2023 04:23:17 |
 
 
 |  | epic_boss_fight_challenger |
@@ -234,14 +243,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Pure-White Wanderer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 04:22:59 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505204101979816 |
-| Players | 1/10 |
-| Host Name | Tetsu |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, November 5, 2023 04:23:07 |
 
 
