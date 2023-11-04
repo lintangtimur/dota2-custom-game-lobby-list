@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 04:30:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204109102307 |
-| Players | 13/15 |
-| Host Name | тайно дёрнул |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 04:31:31 |
+| Lobby ID | 28505204109702935 |
+| Players | 2/8 |
+| Host Name | Hopeful Men (GPRD) |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 04:32:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204108989647 |
-| Players | 7/8 |
-| Host Name | 123 |
+| Lobby ID | 28505204109734634 |
+| Players | 2/8 |
+| Host Name | Адмирал Кончал |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 04:31:23 |
+| Lobby Creation Time | Sunday, November 5, 2023 04:32:16 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204109540317 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 22AcaciaAvenue |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 5, 2023 04:32:02 |
@@ -137,13 +137,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 04:32:00 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204109771733 |
+| Players | 1/15 |
+| Host Name | 艾欧尼亚第一ADC |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Sunday, November 5, 2023 04:32:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204109686858 |
+| Players | 5/10 |
+| Host Name | Falk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 04:32:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204109749814 |
+| Players | 3/15 |
+| Host Name | La Morte Del Paradiso |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 04:32:18 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204109599833 |
+| Lobby ID | 28505204109768289 |
 | Players | 3/8 |
-| Host Name | отец атома василий |
+| Host Name | Свиное рыльце |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 04:32:07 |
+| Lobby Creation Time | Sunday, November 5, 2023 04:32:19 |
 
 
 |  | epic_boss_fight_normal |
@@ -162,5 +189,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Leinach |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, November 5, 2023 04:31:51 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505204109739990 |
+| Players | 1/10 |
+| Host Name | GAMBIT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 04:32:17 |
 
 
