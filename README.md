@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202952718775 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 14:10:39 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202959621472 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Dr.Wells |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:17:07 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202956572763 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:14:16 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202959213145 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Professor |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:16:44 |
@@ -122,19 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202960041729 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:17:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202959919799 |
-| Players | 1/24 |
-| Host Name | 路人 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 14:17:24 |
+| Lobby ID | 28505202959265979 |
+| Players | 5/8 |
+| Host Name | миракл в прайме |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 14:16:47 |
 
 
 |  | ot3_desert_octet |
@@ -144,15 +144,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 砍王 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:17:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202961200735 |
-| Players | 3/8 |
-| Host Name | sss+вайбалов |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 14:18:37 |
 
 
 |  | epic_boss_fight_nightmare |
