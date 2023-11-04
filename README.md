@@ -2,31 +2,31 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204147892419 |
-| Players | 4/8 |
-| Host Name | фуфел(даня) |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, November 5, 2023 05:21:56 |
+| Lobby ID | 28505204147801720 |
+| Players | 8/15 |
+| Host Name | Elinbarrage |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 05:21:48 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204146642676 |
+| Lobby ID | 28505204147770093 |
 | Players | 1/10 |
-| Host Name | ᴅᴅJEKA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 05:20:12 |
+| Host Name | москвачкала |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, November 5, 2023 05:21:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204147078489 |
-| Players | 22/24 |
-| Host Name | Yonwalther |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 05:20:48 |
+| Lobby ID | 28505204147402012 |
+| Players | 2/10 |
+| Host Name | Andrzej Duda |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 05:21:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204146077287 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:19:26 |
@@ -92,42 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 05:16:33 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204147402012 |
-| Players | 2/10 |
-| Host Name | Andrzej Duda |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 05:21:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204147801720 |
-| Players | 2/15 |
-| Host Name | Elinbarrage |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 05:21:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204147770093 |
-| Players | 1/10 |
-| Host Name | москвачкала |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, November 5, 2023 05:21:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204147873631 |
-| Players | 1/8 |
-| Host Name | Бритый ваня |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 05:21:54 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28505204141052553 |
@@ -135,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 76561198054146500 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 05:12:36 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505204147991071 |
+| Players | 1/10 |
+| Host Name | турбо воин |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, November 5, 2023 05:22:04 |
 
 
