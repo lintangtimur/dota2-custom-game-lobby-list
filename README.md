@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202788436959 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | @lexkill.com... |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:06:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202787805440 |
-| Players | 1/15 |
-| Host Name | ✪GiddyBoiiii✪ |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, November 4, 2023 11:05:59 |
+| Lobby ID | 28505202788151146 |
+| Players | 6/8 |
+| Host Name | Ghosty ❤ |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 11:06:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202785139643 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Jasmine |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:02:05 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202787680408 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Hulumullu! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:05:48 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202787044240 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | JNK |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 11:04:53 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202788203744 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | miley cyrex |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 11:06:33 |
@@ -126,42 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CURSE |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:06:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202788151146 |
-| Players | 6/8 |
-| Host Name | Ghosty ❤ |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 11:06:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202788519293 |
-| Players | 3/8 |
-| Host Name | AMANTE DEL HOUSE |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 11:07:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505202788524537 |
-| Players | 1/10 |
-| Host Name | SALAMANDER_KING |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 11:07:00 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505202783493387 |
-| Players | 9/10 |
-| Host Name | TAPIJARO |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 10:59:35 |
 
 
 |  | epic_boss_fight_nightmare |
