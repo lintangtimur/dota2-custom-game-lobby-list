@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202777831485 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | K1dmen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 10:51:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202773092947 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Skere |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 10:45:07 |
@@ -77,16 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202777301778 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Solo Leveling |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 10:50:55 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202778479251 |
+| Players | 1/24 |
+| Host Name | zzz |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 10:52:33 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202773711542 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | tulindoteiro |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 10:45:58 |
