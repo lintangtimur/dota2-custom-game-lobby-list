@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202868574357 |
-| Players | 1/8 |
-| Host Name | водка |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 4, 2023 12:44:18 |
+| Lobby ID | 28505202868757542 |
+| Players | 1/24 |
+| Host Name | ♥Y U N J I N♥ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 12:44:30 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202866361050 |
-| Players | 5/24 |
+| Players | 10/24 |
 | Host Name | MoonWalker |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:41:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202858637445 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | 菜鸟 |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 12:33:22 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 12:42:42 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202863460170 |
-| Players | 1/24 |
-| Host Name | Bald globe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 12:38:41 |
+| Lobby ID | 28505202868441495 |
+| Players | 1/8 |
+| Host Name | Матье Бал |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 12:44:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202862847428 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:38:01 |
@@ -131,18 +131,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202864800119 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | JJJJJJ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:40:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202868441495 |
-| Players | 1/8 |
-| Host Name | Матье Бал |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 12:44:09 |
 
 
