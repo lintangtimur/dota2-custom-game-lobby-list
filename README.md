@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203129658791 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Hermes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:54:45 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203138654045 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | GATITO PERDITO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:03:22 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203140140970 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | полудурок) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:04:49 |
@@ -119,6 +119,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 17:05:05 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203141280785 |
+| Players | 1/8 |
+| Host Name | Ебатель |
+| Region | AUSTRIA |
+| Lobby Creation Time | Saturday, November 4, 2023 17:05:58 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505203030868319 |
@@ -131,18 +140,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28505203110474019 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | Death Is My Bitch |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:36:48 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505203129991079 |
-| Players | 9/10 |
-| Host Name | C4 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:55:04 |
 
 
