@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202997762071 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | ϟƘƦƖןןΣx |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:52:57 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 15:01:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505203004600630 |
-| Players | 12/15 |
-| Host Name | Shade1 |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 14:59:25 |
+| Lobby ID | 28505203007621508 |
+| Players | 1/24 |
+| Host Name | 今天我很肉 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Saturday, November 4, 2023 15:02:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -110,21 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:57:28 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203006167548 |
-| Players | 8/10 |
-| Host Name | Wokki |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 4, 2023 15:00:55 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505203007591463 |
-| Players | 1/24 |
-| Host Name | Merlin |
-| Region | USEAST |
+| Lobby ID | 28505203007595708 |
+| Players | 10/24 |
+| Host Name | [R.F.Y.L]LXP |
+| Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:02:16 |
 
 
@@ -149,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203003541149 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Kimdyy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:58:26 |
@@ -162,14 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Антонио Еблэнас |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:00:28 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505202989675971 |
-| Players | 9/10 |
-| Host Name | Semen Supervisor |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 14:45:21 |
 
 
