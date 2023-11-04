@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203564028469 |
-| Players | 23/24 |
-| Host Name | strongly positive |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 21:40:29 |
+| Lobby ID | 28505203662049491 |
+| Players | 2/8 |
+| Host Name | Punisher PMA |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 22:31:57 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203661231214 |
-| Players | 7/8 |
-| Host Name | feero |
+| Lobby ID | 28505203662469402 |
+| Players | 1/8 |
+| Host Name | borodya |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 22:31:31 |
+| Lobby Creation Time | Saturday, November 4, 2023 22:32:10 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203660504397 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | ʕ •ᴥ•ʔ Big Russian Lion |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 22:31:08 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203657660866 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | 母ノ背中.TOTOROKYOTO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 22:29:39 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203661330319 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | black enegry drink |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 22:31:34 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203626149937 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Moon Baboon |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 22:13:06 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203661533415 |
-| Players | 6/8 |
+| Players | 3/8 |
 | Host Name | Transcended |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 22:31:41 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203652722226 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Djilina_Lin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 22:27:03 |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203640737358 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | makdak1111 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 22:20:45 |
@@ -176,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203652384528 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Yaho Chu Bluewhite |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 22:26:53 |
@@ -194,7 +194,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203660866849 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | Chloe Grace Moretz |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 4, 2023 22:31:20 |
@@ -202,18 +202,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203662049491 |
-| Players | 2/8 |
-| Host Name | Punisher PMA |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 22:31:57 |
+| Lobby ID | 28505203662394037 |
+| Players | 1/8 |
+| Host Name | ebatelb |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 22:32:08 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203651586053 |
 | Players | 4/10 |
-| Host Name | Shinzou wo Sasageyo! |
+| Host Name | hauw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 22:26:27 |
 
