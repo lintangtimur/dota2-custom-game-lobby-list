@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203000066498 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | вывфвфывфвфвыф1231 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:55:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202996097796 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Shulton 2.0 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 14:51:22 |
@@ -95,25 +95,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202998806741 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | -Все-Отец |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:53:57 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202999915975 |
-| Players | 9/15 |
-| Host Name | lebanon don |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 4, 2023 14:55:00 |
+| Lobby ID | 28505203001016793 |
+| Players | 2/24 |
+| Host Name | ALWAYS LUCKY |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 14:56:03 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202993917320 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Яша |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:49:18 |
@@ -158,10 +158,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203000729207 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Soy pasivo llamar 975206772 |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:55:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203001060797 |
+| Players | 1/24 |
+| Host Name | Explosive Shot |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 14:56:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202998340264 |
+| Players | 2/8 |
+| Host Name | Prodigy |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 14:53:30 |
 
 
 |  | epic_boss_fight_nightmare |
