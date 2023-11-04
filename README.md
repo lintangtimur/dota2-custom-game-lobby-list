@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203827586215 |
-| Players | 17/24 |
+| Players | 22/24 |
 | Host Name | AyEfKay |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 00:14:22 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 00:19:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203832070782 |
-| Players | 6/8 |
-| Host Name | 啤酒大学校长 |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 5, 2023 00:17:30 |
+| Lobby ID | 28505203786888749 |
+| Players | 13/15 |
+| Host Name | 13.07.2024 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 23:46:30 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203834184225 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | Justin Weaver |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 5, 2023 00:19:00 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203833927071 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | уилл тернер |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 5, 2023 00:18:50 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203819063136 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | elkintoteletubi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 00:08:26 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203831881318 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | romchyg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 00:17:22 |
@@ -158,8 +158,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203806802128 |
-| Players | 5/8 |
-| Host Name | Kärss |
+| Players | 4/8 |
+| Host Name | BENJA |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 00:00:04 |
 
@@ -167,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203827898593 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | white tea |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 00:14:34 |
@@ -185,7 +185,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203831665426 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | TeriTeri |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 00:17:13 |
@@ -236,6 +236,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 00:19:04 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203834332186 |
+| Players | 1/10 |
+| Host Name | I Love Low |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, November 5, 2023 00:19:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203834514444 |
+| Players | 4/10 |
+| Host Name | ∀ε>0 ∃N=N(ε) ∀n>=N: |x-a|<ε |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 00:19:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203834554933 |
+| Players | 2/8 |
+| Host Name | Avadamus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 00:19:16 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203832826891 |
@@ -248,18 +275,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28505203831589742 |
-| Players | 2/7 |
-| Host Name | KRATOS👽 |
+| Players | 1/7 |
+| Host Name | Demolition @ Internet |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 00:17:10 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28505203834256497 |
-| Players | 2/7 |
-| Host Name | kotiki |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 00:19:04 |
 
 
