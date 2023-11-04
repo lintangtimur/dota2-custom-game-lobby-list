@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202783561914 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Chunchunmaru |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 10:59:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202782001629 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | yuyu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 10:57:29 |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202783047617 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | 1 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 10:58:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202781702675 |
-| Players | 1/24 |
-| Host Name | Time Ower |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 4, 2023 10:57:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505202783461901 |
-| Players | 2/10 |
-| Host Name | sin tus maridos perra ctmre! |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 10:59:32 |
 
 
 |  | ot3_jungle_quintet |
@@ -99,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | OfficialKTChubs |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 11:00:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202783461901 |
+| Players | 2/10 |
+| Host Name | sin tus maridos perra ctmre! |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 10:59:32 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,18 +122,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202783815463 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | GHINZU |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 11:00:03 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505202783876329 |
-| Players | 1/5 |
-| Host Name | げ无名 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 4, 2023 11:00:09 |
 
 
