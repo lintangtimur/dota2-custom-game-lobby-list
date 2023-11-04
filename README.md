@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203226925108 |
-| Players | 3/8 |
-| Host Name | rSn |
+| Lobby ID | 28505203224222396 |
+| Players | 5/8 |
+| Host Name | Kolyanar- |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 18:20:45 |
+| Lobby Creation Time | Saturday, November 4, 2023 18:18:43 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203225968504 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | 𝙃𝘰𝘳𝘳𝘰𝘳 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 18:20:02 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 18:16:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203226790977 |
-| Players | 4/10 |
-| Host Name | Valkyrie |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 4, 2023 18:20:39 |
+| Lobby ID | 28505203227111657 |
+| Players | 1/8 |
+| Host Name | 456 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 18:20:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203226720576 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | wamanize |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 18:20:36 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203222333826 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Frisson |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 18:17:17 |
@@ -155,10 +155,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 18:13:53 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203211567003 |
+| Players | 9/15 |
+| Host Name | VeNoMuS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 18:08:48 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203226621165 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Kidz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 18:20:32 |
