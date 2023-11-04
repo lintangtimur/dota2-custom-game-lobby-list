@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204108215533 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | хуй хуй пенис mode |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 04:30:28 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204105297533 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Злая волчица |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 04:27:00 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204108367331 |
+| Lobby ID | 28505204108501912 |
 | Players | 1/10 |
-| Host Name | Fortino Samano |
+| Host Name | Transmashingunman |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 04:30:38 |
+| Lobby Creation Time | Sunday, November 5, 2023 04:30:48 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204106587330 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Zet |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 04:28:32 |
@@ -58,20 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204108143515 |
-| Players | 4/10 |
-| Host Name | Zekromgiordota.com |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 04:30:22 |
+| Lobby ID | 28505204108510748 |
+| Players | 1/10 |
+| Host Name | Female milker |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, November 5, 2023 04:30:49 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204106654754 |
-| Players | 7/8 |
-| Host Name | Dlinnich |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 04:28:37 |
+| Lobby ID | 28505204108478060 |
+| Players | 2/8 |
+| Host Name | idi naxyi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 04:30:46 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 04:27:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204108311745 |
-| Players | 1/8 |
-| Host Name | 6 pos player |
+| Lobby ID | 28505204108540130 |
+| Players | 1/10 |
+| Host Name | Fortino Samano |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 04:30:35 |
+| Lobby Creation Time | Sunday, November 5, 2023 04:30:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -103,19 +103,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204108291492 |
+| Lobby ID | 28505204108459054 |
+| Players | 1/10 |
+| Host Name | multipaxos |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 04:30:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204108439763 |
+| Players | 2/8 |
+| Host Name | Help mid pls |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 04:30:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204108469443 |
+| Players | 1/10 |
+| Host Name | Goku |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 04:30:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204108525193 |
+| Players | 1/8 |
+| Host Name | Dirty Deeds Done Dirt Cheeps |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 04:30:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204108526264 |
 | Players | 2/10 |
 | Host Name | I know I'll die alone |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, November 5, 2023 04:30:33 |
+| Lobby Creation Time | Sunday, November 5, 2023 04:30:50 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204108349646 |
-| Players | 2/7 |
-| Host Name | Doung neng Hah :D |
+| Lobby ID | 28505204108551629 |
+| Players | 1/8 |
+| Host Name |  |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 04:30:37 |
+| Lobby Creation Time | Sunday, November 5, 2023 04:30:52 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505204108399722 |
+| Players | 1/10 |
+| Host Name | Leinach |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 04:30:41 |
 
 
