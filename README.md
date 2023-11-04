@@ -4,20 +4,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202755759747 |
-| Players | 14/15 |
-| Host Name | Ramenhotep |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 10:21:15 |
+| Lobby ID | 28505202757687663 |
+| Players | 4/15 |
+| Host Name | Gnoren |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 10:23:56 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202755540598 |
-| Players | 14/15 |
-| Host Name | Ювелир |
+| Lobby ID | 28505202757670549 |
+| Players | 2/15 |
+| Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 10:20:57 |
+| Lobby Creation Time | Saturday, November 4, 2023 10:23:54 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202756784163 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Enrique |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 4, 2023 10:22:41 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202757417905 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Camu Camu |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 10:23:33 |
@@ -122,19 +122,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202757496601 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Chisato |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 10:23:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202757632361 |
-| Players | 2/24 |
-| Host Name | Annihilation |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 10:23:51 |
 
 
 |  | epic_boss_fight_challenger |
