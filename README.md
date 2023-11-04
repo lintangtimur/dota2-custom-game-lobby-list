@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202948625306 |
-| Players | 14/15 |
-| Host Name | Michi_God |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 14:06:47 |
+| Lobby ID | 28505202955136594 |
+| Players | 2/24 |
+| Host Name | Dendi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 14:12:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:12:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202950488273 |
-| Players | 21/24 |
-| Host Name | [R][O][A][M] |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 14:08:33 |
+| Lobby ID | 28505202955282798 |
+| Players | 1/8 |
+| Host Name | Kick.com/lumaid |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 14:13:05 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202953642417 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | 我被诅咒了 |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:11:32 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202954410293 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | DarikMoLoi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:12:15 |
@@ -122,28 +122,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202954990690 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | nigero GEOP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:12:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202955085522 |
-| Players | 2/15 |
-| Host Name | Lokyo |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 14:12:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202955136594 |
-| Players | 2/24 |
-| Host Name | Dendi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 14:12:56 |
 
 
 |  | epic_boss_fight_nightmare |
