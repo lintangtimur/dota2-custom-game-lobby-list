@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203109616233 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Plab Plab |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:36:00 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203108895799 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Xaxa |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 16:35:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203110186149 |
-| Players | 1/15 |
-| Host Name | Luh chonka |
+| Lobby ID | 28505203110718617 |
+| Players | 3/8 |
+| Host Name | CCCP |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:36:32 |
+| Lobby Creation Time | Saturday, November 4, 2023 16:37:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203106309933 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | archgivi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:32:55 |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203110171207 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | Безумный Паша |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:36:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203110686127 |
-| Players | 3/8 |
-| Host Name | Прекрасная тварь |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 4, 2023 16:37:00 |
 
 
 |  | epic_boss_fight_normal |
@@ -135,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Death Is My Bitch |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:36:48 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505203107301975 |
+| Players | 9/10 |
+| Host Name | XAin'tGonnaGiveIt |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 16:33:50 |
 
 
