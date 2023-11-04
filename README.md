@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204155369467 |
-| Players | 8/10 |
-| Host Name | <bread>> |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 05:32:18 |
+| Lobby ID | 28505204155721073 |
+| Players | 1/24 |
+| Host Name | RiftBreaker |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, November 5, 2023 05:32:48 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204155177315 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | daradara |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 05:32:02 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204152863274 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:28:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204153530460 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ISAAC_BBX |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 05:29:44 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204154314097 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | MAPACHE_$INC0LA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 05:30:49 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204155504839 |
-| Players | 2/8 |
-| Host Name | андрюха) |
+| Players | 1/8 |
+| Host Name | shedelok |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:32:30 |
 
@@ -101,13 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 05:32:36 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505204155696836 |
+| Players | 1/24 |
+| Host Name | MODO PICANTE |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 05:32:46 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204155690690 |
-| Players | 1/15 |
-| Host Name | iCrownRic - |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 05:32:46 |
+| Lobby ID | 28505204155815145 |
+| Players | 3/15 |
+| Host Name | TSpirit.Yatoro |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 05:32:56 |
 
 
 |  | epic_boss_fight_normal |
