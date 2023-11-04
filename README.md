@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202822954251 |
-| Players | 1/10 |
-| Host Name | ShaV |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, November 4, 2023 11:52:13 |
+| Lobby ID | 28505202823520692 |
+| Players | 1/24 |
+| Host Name | frankistein555 |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 11:52:54 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202823157250 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | JESUS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 11:52:28 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202821725608 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | El MALDITO CREEP |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:50:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202821416968 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | STINKY BUTTHOLE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:50:20 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202821745851 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Bayer |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:50:44 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202822713474 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Droguito |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 11:51:55 |
@@ -117,6 +117,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | NO SE |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:52:41 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202823649862 |
+| Players | 1/24 |
+| Host Name | Chrisnochet |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 11:53:03 |
 
 
 |  | epic_boss_fight_nightmare |
