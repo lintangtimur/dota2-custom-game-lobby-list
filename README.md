@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203877781067 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Enzo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 00:50:16 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 01:01:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203897307362 |
-| Players | 12/15 |
-| Host Name | heavenly |
+| Lobby ID | 28505203897596115 |
+| Players | 3/8 |
+| Host Name | Y5055 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 01:05:16 |
+| Lobby Creation Time | Sunday, November 5, 2023 01:05:30 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203897520360 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Pisun |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 01:05:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203897390450 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | :PowerAutomate |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 01:05:20 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203897477916 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Лоб Селёдки |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, November 5, 2023 01:05:24 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203880223440 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | FuManChu |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 00:52:05 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203897405259 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | DarkMoon |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 01:05:21 |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203896836861 |
-| Players | 1/15 |
+| Players | 14/15 |
 | Host Name | 不死 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 01:04:53 |
@@ -200,40 +200,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 01:05:29 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203857115164 |
-| Players | 6/10 |
-| Host Name | Lord of Trolls |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 00:35:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203897596115 |
-| Players | 1/8 |
-| Host Name | Y5055 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 01:05:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203897017996 |
-| Players | 7/8 |
-| Host Name | руский?В ПАКЕТ! |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 5, 2023 01:05:02 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203897683494 |
-| Players | 1/15 |
-| Host Name | TASSAY BEZ GAZA |
+| Lobby ID | 28505203876058047 |
+| Players | 10/15 |
+| Host Name | shu |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, November 5, 2023 00:48:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203897843127 |
+| Players | 3/10 |
+| Host Name | ARS |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 01:05:34 |
+| Lobby Creation Time | Sunday, November 5, 2023 01:05:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203897891358 |
+| Players | 1/8 |
+| Host Name | ТаЩеР1337 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 01:05:45 |
 
 
 |  | epic_boss_fight_challenger |
