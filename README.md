@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203668108518 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | граф де Генерат |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 22:35:09 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203655704392 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | bu tai xing a xiao lao di |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 22:28:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203564028469 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Артак Хаммер 777 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 21:40:29 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203664822204 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | [DG] Smurf Aposentado |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 22:33:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203670360210 |
-| Players | 2/10 |
-| Host Name | чурчиль |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 22:36:20 |
+| Lobby ID | 28505203670913483 |
+| Players | 2/8 |
+| Host Name | nerf np |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 22:36:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203670108933 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | nLLIOJl_BOH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 22:36:12 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203668778065 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | iudex |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 22:35:30 |
@@ -155,40 +155,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 22:36:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203670601644 |
-| Players | 2/10 |
-| Host Name | paralich mozga |
+| Lobby ID | 28505203670818078 |
+| Players | 1/8 |
+| Host Name | Ƹ̵̡Ӝ̵̨̄Ʒ 90 gain 100% sync |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 22:36:28 |
+| Lobby Creation Time | Saturday, November 4, 2023 22:36:35 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505203650132998 |
-| Players | 9/10 |
-| Host Name | kill20_die300 |
+| Lobby ID | 28505203651586053 |
+| Players | 2/10 |
+| Host Name | Freddiii |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 22:25:41 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505203667518601 |
-| Players | 9/10 |
-| Host Name | Бавовна |
-| Region | AUSTRIA |
-| Lobby Creation Time | Saturday, November 4, 2023 22:34:50 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505203663778414 |
-| Players | 6/10 |
-| Host Name | XOPOWEE |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, November 4, 2023 22:32:52 |
+| Lobby Creation Time | Saturday, November 4, 2023 22:26:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -202,10 +184,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505203651586053 |
-| Players | 2/10 |
-| Host Name | Freddiii |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 22:26:27 |
+| Lobby ID | 28505203663778414 |
+| Players | 6/10 |
+| Host Name | XOPOWEE |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 4, 2023 22:32:52 |
 
 
