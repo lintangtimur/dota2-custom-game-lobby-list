@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202844591268 |
-| Players | 9/24 |
+| Players | 7/24 |
 | Host Name | UltraAA |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 4, 2023 12:17:38 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202848898399 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | feeling the dimensions |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:22:31 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202849852518 |
-| Players | 8/24 |
+| Players | 16/24 |
 | Host Name | MERLYN |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:23:36 |
@@ -104,10 +104,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202848263597 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Phill Dz |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:21:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202851011021 |
+| Players | 1/8 |
+| Host Name | Richi Rage |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 12:24:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202851018358 |
+| Players | 6/10 |
+| Host Name | - SR GioO - |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 12:24:54 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202850999725 |
+| Players | 1/24 |
+| Host Name | J |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 12:24:53 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -121,10 +148,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505202844251298 |
-| Players | 9/10 |
-| Host Name | {THE~@} |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 12:17:14 |
+| Lobby ID | 28505202851047368 |
+| Players | 1/10 |
+| Host Name | Kidz |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 12:24:56 |
 
 
