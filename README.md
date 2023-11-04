@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203103182384 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | [JnM]Nickname |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:30:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203104735607 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Peak Comedy |
 | Region | AUSTRIA |
 | Lobby Creation Time | Saturday, November 4, 2023 16:31:28 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 16:31:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203102088625 |
-| Players | 12/15 |
-| Host Name | POXUI PROEBALI BEZ SHANSOV |
+| Lobby ID | 28505203105218265 |
+| Players | 1/8 |
+| Host Name | Про100!УзБеК!!! |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:28:57 |
+| Lobby Creation Time | Saturday, November 4, 2023 16:31:55 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203100407193 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Diclonius |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:27:22 |
@@ -94,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505203104495847 |
-| Players | 2/10 |
-| Host Name | unstoppable |
+| Lobby ID | 28505203105252052 |
+| Players | 1/10 |
+| Host Name | Danh hài Vân Sơn |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 16:31:14 |
+| Lobby Creation Time | Saturday, November 4, 2023 16:31:57 |
 
 
