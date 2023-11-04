@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202784811149 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:01:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202786929958 |
-| Players | 14/15 |
-| Host Name | Montinha |
+| Lobby ID | 28505202787436960 |
+| Players | 5/8 |
+| Host Name | Ghosty ❤ |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 11:04:43 |
+| Lobby Creation Time | Saturday, November 4, 2023 11:05:27 |
 
 
 |  | ot3_necropolis_ffa |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202785262672 |
-| Players | 13/15 |
-| Host Name | Donut Squirrel |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 11:02:16 |
+| Lobby ID | 28505202787680408 |
+| Players | 1/15 |
+| Host Name | Hulumullu! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 11:05:48 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202785949540 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | RyQゆた |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 11:03:18 |
@@ -110,28 +110,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:04:53 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202787436960 |
-| Players | 5/8 |
-| Host Name | Ghosty ❤ |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 11:05:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202787563723 |
-| Players | 1/15 |
-| Host Name | Hulumullu! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:05:38 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202783493387 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | TAPIJARO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 10:59:35 |
