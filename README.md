@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202836225972 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | 辣鸡龙 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 12:07:55 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202835864612 |
-| Players | 8/10 |
+| Players | 6/10 |
 | Host Name | кекокек |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:07:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202835699364 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Plastic Pop can |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 12:07:18 |
@@ -95,9 +95,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202837065902 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Struggle |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:08:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202837099411 |
+| Players | 3/8 |
+| Host Name | KuroiBlazr |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, November 4, 2023 12:08:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202837197597 |
+| Players | 1/8 |
+| Host Name | 20-1 t1Bu |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 12:09:03 |
 
 
