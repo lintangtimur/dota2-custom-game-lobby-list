@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202921855418 |
-| Players | 11/24 |
+| Players | 9/24 |
 | Host Name | KeiiiiGeee! |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 13:40:48 |
@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202924822114 |
-| Players | 12/15 |
-| Host Name | ewyang |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 13:43:42 |
+| Lobby ID | 28505202927249376 |
+| Players | 6/15 |
+| Host Name | lucho cartucho |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 13:46:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202926844433 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | EMANS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:45:38 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202926020977 |
-| Players | 5/8 |
-| Host Name | Crusader |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 13:44:51 |
+| Lobby ID | 28505202927699648 |
+| Players | 1/8 |
+| Host Name | Zuah |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 13:46:27 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202927378479 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Muy Malo |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 13:46:08 |
@@ -112,20 +112,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202927299676 |
-| Players | 1/24 |
+| Lobby ID | 28505202927832332 |
+| Players | 2/24 |
 | Host Name | ANIKI 兄貴 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 13:46:04 |
+| Lobby Creation Time | Saturday, November 4, 2023 13:46:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202927249376 |
-| Players | 6/15 |
-| Host Name | lucho cartucho |
+| Lobby ID | 28505202927827348 |
+| Players | 3/8 |
+| Host Name | Muted all |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 13:46:01 |
+| Lobby Creation Time | Saturday, November 4, 2023 13:46:34 |
 
 
 |  | epic_boss_fight_nightmare |
