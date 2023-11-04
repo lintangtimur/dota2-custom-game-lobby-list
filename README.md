@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203048175621 |
-| Players | 7/8 |
-| Host Name | Parazittus |
+| Lobby ID | 28505203049558533 |
+| Players | 1/8 |
+| Host Name | skorpziro |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 15:39:27 |
+| Lobby Creation Time | Saturday, November 4, 2023 15:40:43 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203049134840 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | ... |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:40:20 |
@@ -83,24 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 15:39:37 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203049391547 |
-| Players | 8/10 |
-| Host Name | РАБМЕН |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 15:40:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203049454057 |
-| Players | 6/8 |
-| Host Name | Rako- |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 15:40:37 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202971238412 |
@@ -110,21 +92,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:28:03 |
 
 
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28505203048554509 |
+| Players | 2/7 |
+| Host Name | ►bot.atkr |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 15:39:48 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505203048646098 |
+| Lobby ID | 28505203049685858 |
 | Players | 1/5 |
-| Host Name | mamyshonok |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 15:39:53 |
+| Host Name | OMEGALULZ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 15:40:50 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28505203048554509 |
+| Lobby ID | 28505203049731640 |
 | Players | 1/7 |
-| Host Name | ►bot.atkr |
+| Host Name | shurapon |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 15:39:48 |
+| Lobby Creation Time | Saturday, November 4, 2023 15:40:53 |
 
 
