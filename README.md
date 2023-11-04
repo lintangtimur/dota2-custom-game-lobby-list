@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202794462755 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | RASTREANDO TU IP CERRANO CTV |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:15:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202795021309 |
-| Players | 7/8 |
-| Host Name | SrDumii |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 11:16:13 |
+| Lobby ID | 28505202795822412 |
+| Players | 3/24 |
+| Host Name | RyQゆた |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 11:17:19 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202794852445 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Enrage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:15:59 |
@@ -83,22 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:17:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202795682068 |
-| Players | 1/15 |
-| Host Name | ^^bongafonx` |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 11:17:08 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202795723339 |
-| Players | 1/24 |
-| Host Name | RyQゆた |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 11:17:11 |
+| Lobby ID | 28505202795804531 |
+| Players | 1/8 |
+| Host Name | Instagram |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 11:17:18 |
 
 
 |  | epic_boss_fight_normal |
