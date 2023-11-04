@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203053518086 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Boogie Woogie O'Man |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 15:44:23 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203052199370 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | lose feed peru |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:43:09 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:10:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203054731124 |
-| Players | 4/8 |
-| Host Name | (: |
-| Region | AUSTRIA |
-| Lobby Creation Time | Saturday, November 4, 2023 15:45:29 |
+| Lobby ID | 28505203055197518 |
+| Players | 2/10 |
+| Host Name | dingo tokatlayan |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 15:45:55 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203053381088 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | ёбырь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:44:15 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203053164367 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 나를 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:44:03 |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Особо опасен |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:45:37 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28505203055113909 |
-| Players | 1/7 |
-| Host Name | XmanWz |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 15:45:50 |
 
 
