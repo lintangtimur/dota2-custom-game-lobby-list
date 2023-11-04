@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202966802702 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | Gigachad thundercock |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 4, 2023 14:23:55 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202998497960 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Хулиганочка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:53:39 |
@@ -131,8 +131,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202993917320 |
-| Players | 13/15 |
-| Host Name | lebanon don |
+| Players | 9/15 |
+| Host Name | destroy |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:49:18 |
 
