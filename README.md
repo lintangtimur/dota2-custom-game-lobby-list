@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202759543873 |
+| Lobby ID | 28505202769162855 |
 | Players | 3/15 |
-| Host Name | 企业家 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 10:26:28 |
+| Host Name | Kaioh Retsu |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 10:39:43 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202768033563 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | райан гослинг |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 10:38:10 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 10:38:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202768136887 |
-| Players | 1/24 |
-| Host Name | BABY-ROSH (AL) |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 10:38:19 |
+| Lobby ID | 28505202769065275 |
+| Players | 1/8 |
+| Host Name | i have no enemies (full chill) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 10:39:35 |
 
 
 |  | ot3_desert_octet |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202766737675 |
-| Players | 22/24 |
-| Host Name | STERBLICH |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 10:36:23 |
+| Lobby ID | 28505202767662846 |
+| Players | 1/24 |
+| Host Name | (lFuzy^^! |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 10:37:40 |
 
 
 |  | ot3_jungle_quintet |
@@ -117,42 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Griga |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 10:37:47 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202767662846 |
-| Players | 1/24 |
-| Host Name | (lFuzy^^! |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 10:37:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202767841131 |
-| Players | 1/24 |
-| Host Name | Definity higher than nova 3 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 10:37:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202769063014 |
-| Players | 3/8 |
-| Host Name | O.Steve艾丝 < |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 10:39:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202769065275 |
-| Players | 1/8 |
-| Host Name | i have no enemies (full chill) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 10:39:35 |
 
 
 |  | epic_boss_fight_nightmare |
