@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204023583287 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | [A]DmiralLight |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Sunday, November 5, 2023 02:58:38 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204020014769 |
-| Players | 8/10 |
-| Host Name | SDVDS |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, November 5, 2023 02:55:04 |
+| Lobby ID | 28505204024033215 |
+| Players | 1/10 |
+| Host Name | 死ね? |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Sunday, November 5, 2023 02:59:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203989571077 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | dockt |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 5, 2023 02:25:50 |
@@ -104,19 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204023946333 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | KOUSSSAAAA |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Sunday, November 5, 2023 02:59:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204022093189 |
-| Players | 1/8 |
-| Host Name | 黑暗劍士 [グ] |
+| Lobby ID | 28505204024186531 |
+| Players | 1/24 |
+| Host Name | Dwayne the pussy Joshson |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 02:57:08 |
+| Lobby Creation Time | Sunday, November 5, 2023 02:59:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -128,13 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 02:56:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204023980626 |
-| Players | 1/8 |
-| Host Name | УЕБАН |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 02:59:02 |
+| Lobby ID | 28505204024177165 |
+| Players | 1/10 |
+| Host Name | MAad? |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 02:59:13 |
 
 
 |  | epic_boss_fight_normal |
