@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203040083920 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Pizdarik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:32:05 |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203018232294 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | millionware.vip |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 15:12:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505203039691440 |
-| Players | 7/8 |
-| Host Name | -$ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 15:31:44 |
+| Lobby ID | 28505203040371471 |
+| Players | 1/24 |
+| Host Name | 路人 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 15:32:21 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203040209597 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | ASSWECAN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:32:12 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:28:03 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28505203036718535 |
-| Players | 8/10 |
-| Host Name | EternaL Ice...! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 15:29:02 |
+| Lobby ID | 28505203040010311 |
+| Players | 1/7 |
+| Host Name | Death Is My Bitch |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 15:32:01 |
 
 
 |  | epic_boss_fight_hard |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | shurapon |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 15:31:06 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28505203040010311 |
-| Players | 1/7 |
-| Host Name | Death Is My Bitch |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 15:32:01 |
 
 
