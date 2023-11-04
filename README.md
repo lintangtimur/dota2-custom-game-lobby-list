@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203043119488 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Sofia is Numba 1 gurl for me |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:34:50 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203043829614 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | kl |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 15:35:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203043844078 |
-| Players | 7/8 |
-| Host Name | tryhard |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 15:35:30 |
+| Lobby ID | 28505203044459131 |
+| Players | 1/10 |
+| Host Name | Lord of Trolls |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 15:36:03 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203044420764 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | Ralph.KM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:36:01 |
@@ -95,10 +95,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203044425483 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | The Dead of Marshes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:36:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203044529333 |
+| Players | 2/10 |
+| Host Name | aquaпузик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 15:36:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203044649486 |
+| Players | 1/8 |
+| Host Name | ähm…relatable nvm |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 15:36:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203042108574 |
+| Players | 5/8 |
+| Host Name | JUANETO MAMANE QUESPE (TO PAPE) |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 15:33:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -140,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203043184046 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | wdym |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:34:54 |
@@ -149,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203043531385 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | [*BaSkeTka*] |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 15:35:13 |
