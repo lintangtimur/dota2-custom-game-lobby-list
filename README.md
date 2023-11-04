@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202801366155 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:24:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202802623057 |
-| Players | 2/10 |
-| Host Name | Kick.com/lumaid |
+| Lobby ID | 28505202803251632 |
+| Players | 10/15 |
+| Host Name | BEER+LUCK |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:26:32 |
+| Lobby Creation Time | Saturday, November 4, 2023 11:27:22 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202802100631 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Adrenaline Junkie |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 11:25:52 |
@@ -56,67 +56,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:11:41 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202800706660 |
-| Players | 20/24 |
-| Host Name | Deza |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 11:24:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505202802905348 |
-| Players | 6/10 |
-| Host Name | 床单 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:26:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505202800419719 |
-| Players | 7/10 |
-| Host Name | 52kolobok |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:23:39 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202802082354 |
-| Players | 1/24 |
-| Host Name | Wo die Zitronen bluehen |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 11:25:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202803251632 |
-| Players | 1/15 |
-| Host Name | BEER+LUCK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:27:22 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202803245287 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | Muy Malo |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:27:21 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202798738243 |
-| Players | 22/24 |
-| Host Name | Jesse Pinkman |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 11:21:22 |
+| Lobby ID | 28505202802905348 |
+| Players | 9/10 |
+| Host Name | 床单 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 11:26:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202803430987 |
+| Players | 1/15 |
+| Host Name | Cptn.Canuck |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 11:27:36 |
 
 
 |  | epic_boss_fight_nightmare |
