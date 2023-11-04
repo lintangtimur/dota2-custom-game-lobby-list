@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203790323027 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | gato con tabas |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 23:48:49 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203791048509 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Banksy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 23:49:19 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:11:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203791637822 |
-| Players | 11/15 |
-| Host Name | Гоша Беларус |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 23:49:43 |
+| Lobby ID | 28505203783420346 |
+| Players | 6/8 |
+| Host Name | haagenti |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 23:44:10 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203784377945 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | 啤酒大学校长 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 23:44:49 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203760266993 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Master Blaster |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 23:28:59 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203782886855 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 23:43:48 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203784023909 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Rover |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 23:44:35 |
@@ -203,7 +203,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203790622428 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | WTF&!о_О |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 23:49:02 |
@@ -211,20 +211,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203783420346 |
-| Players | 7/8 |
-| Host Name | haagenti |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 23:44:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203792123194 |
+| Lobby ID | 28505203792263382 |
 | Players | 1/8 |
-| Host Name | Chanchito |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 23:50:03 |
+| Host Name | только мне можно руинить |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 23:50:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203790593071 |
+| Players | 12/15 |
+| Host Name | Тедж Паркер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 23:49:01 |
 
 
 |  | epic_boss_fight_normal |
@@ -234,24 +234,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | absoluteSSS+ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 22:39:34 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505203791466499 |
-| Players | 1/10 |
-| Host Name | Perfect |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 4, 2023 23:49:36 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505203790505498 |
-| Players | 9/10 |
-| Host Name | HarBonDioxide |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 23:48:57 |
 
 
 |  | epic_boss_fight_normal |
