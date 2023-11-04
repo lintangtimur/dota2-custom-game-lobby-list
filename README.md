@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203963937946 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Смотрите кирпич |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 02:02:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203945160999 |
-| Players | 14/15 |
-| Host Name | Ð€§ŦRØ¥€R |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 01:46:08 |
+| Lobby ID | 28505203965891715 |
+| Players | 1/8 |
+| Host Name | ) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 02:04:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203964535260 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Містер Сідр |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 02:02:55 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203965671582 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ПОТМЕН |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 02:03:53 |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203953356609 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ABOBA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 01:53:16 |
@@ -176,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203958965694 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | CHAD NORRIZ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 01:58:11 |
@@ -200,15 +200,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 02:03:34 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203965751502 |
-| Players | 1/8 |
-| Host Name | saltvattenmelon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 02:03:57 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203943645172 |
@@ -218,31 +209,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 01:44:48 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203965986674 |
+| Players | 6/10 |
+| Host Name | soundzz |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 5, 2023 02:04:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203965951339 |
+| Players | 1/15 |
+| Host Name | Гоша Беларус |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 02:04:08 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203965794741 |
-| Players | 5/8 |
-| Host Name | КРОВНЫЙ КОРОЛЬ |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, November 5, 2023 02:03:59 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505203961952635 |
-| Players | 8/10 |
-| Host Name | Kendrick |
+| Lobby ID | 28505203966006410 |
+| Players | 1/8 |
+| Host Name | Ganglion |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 02:00:42 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28505203959926164 |
-| Players | 1/7 |
-| Host Name | Hench Guy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 01:59:00 |
+| Lobby Creation Time | Sunday, November 5, 2023 02:04:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -252,5 +243,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PcMasterBait |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 01:58:54 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28505203959926164 |
+| Players | 1/7 |
+| Host Name | Hench Guy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 01:59:00 |
 
 
