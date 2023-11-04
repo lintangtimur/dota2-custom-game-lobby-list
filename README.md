@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:10:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203041103681 |
-| Players | 13/15 |
-| Host Name | Ореховый вкус тво |
+| Lobby ID | 28505203040786910 |
+| Players | 5/8 |
+| Host Name | Видящий Угадайка |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 15:33:01 |
+| Lobby Creation Time | Saturday, November 4, 2023 15:32:44 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203040371471 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | 路人 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:32:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203040786910 |
-| Players | 3/8 |
-| Host Name | Видящий Угадайка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 15:32:44 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505203036392942 |
-| Players | 23/24 |
-| Host Name | ✪ [W]_love ✪ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 15:28:44 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203041561802 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Alfy Fox |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:33:26 |
