@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202944190180 |
-| Players | 3/24 |
-| Host Name | Skee Yeee |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 14:02:34 |
+| Lobby ID | 28505202949803507 |
+| Players | 1/24 |
+| Host Name | (-_-) dragon rider (-_-) |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 14:07:54 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202939937230 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | smokyma |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:58:26 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202952618420 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | Wheel.Reinventer |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 4, 2023 14:10:34 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202950488273 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | [R][O][A][M] |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 14:08:33 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202951083547 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | GRINGo |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 14:09:06 |
@@ -117,24 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | heyheyhey |
 | Region | AUSTRIA |
 | Lobby Creation Time | Saturday, November 4, 2023 14:10:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202944735461 |
-| Players | 14/15 |
-| Host Name | Pumba |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, November 4, 2023 14:03:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202949803507 |
-| Players | 1/24 |
-| Host Name | (-_-) dragon rider (-_-) |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 14:07:54 |
 
 
 |  | epic_boss_fight_hard |
@@ -153,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | xsilenser |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 4, 2023 14:10:48 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28505202953373361 |
+| Players | 2/7 |
+| Host Name | bugdughh |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 14:11:17 |
 
 
