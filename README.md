@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:57:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202827680723 |
-| Players | 3/8 |
-| Host Name | Spit in my face |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 11:57:53 |
+| Lobby ID | 28505202827952014 |
+| Players | 1/15 |
+| Host Name | ToweLie Reloded |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 11:58:13 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202827691838 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Connor McGee Thor |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:57:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202826202762 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 1>9 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:56:07 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202827069618 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | who asked? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:57:09 |
@@ -131,18 +131,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202827803742 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | MiniSoGood |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 11:58:02 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202827943076 |
+| Players | 5/15 |
+| Host Name | darkwolf2108 |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 11:58:12 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202827130106 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Qnce |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:57:14 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505202827888579 |
+| Players | 1/5 |
+| Host Name | BadMove |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 11:58:08 |
 
 
