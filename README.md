@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203979958932 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Daedalus™ |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, November 5, 2023 02:16:49 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203972243145 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | calla  mrda |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 02:09:44 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203978156229 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | < blank > |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 02:15:09 |
@@ -122,10 +122,91 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203973162391 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Run Yo Pockets |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 02:10:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203980590913 |
+| Players | 1/15 |
+| Host Name | Goodmorning |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 02:17:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203980478711 |
+| Players | 1/15 |
+| Host Name | TOYOTA |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 02:17:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203980502015 |
+| Players | 2/10 |
+| Host Name | Mr.Popo |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 02:17:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203980610276 |
+| Players | 2/15 |
+| Host Name | Тарас Вульва |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 02:17:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203980505556 |
+| Players | 1/15 |
+| Host Name | Сол Ґудман |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 02:17:20 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203980550846 |
+| Players | 1/24 |
+| Host Name | ✣ Ahh Duu ✣ |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, November 5, 2023 02:17:22 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203980539815 |
+| Players | 1/24 |
+| Host Name | mimilya |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 02:17:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203980613075 |
+| Players | 4/8 |
+| Host Name | ЯКИЛЬКА |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 02:17:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203980659749 |
+| Players | 1/15 |
+| Host Name | I used to Chill |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 02:17:28 |
 
 
 |  | epic_boss_fight_nightmare |
