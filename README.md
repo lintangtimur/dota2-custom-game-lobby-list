@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203049558533 |
-| Players | 4/8 |
-| Host Name | skorpziro |
+| Lobby ID | 28505203050506745 |
+| Players | 4/10 |
+| Host Name | I'm a talentless bastard |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 15:40:43 |
+| Lobby Creation Time | Saturday, November 4, 2023 15:41:35 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203049846539 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Atomic |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, November 4, 2023 15:40:59 |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | OMEGALULZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:40:50 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28505203049731640 |
-| Players | 1/7 |
-| Host Name | shurapon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 15:40:53 |
 
 
