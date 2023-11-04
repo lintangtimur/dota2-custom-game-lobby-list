@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202801366155 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:24:54 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202798738243 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | Jesse Pinkman |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 11:21:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202796985397 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | ФОРТАНУЛО ЕБАТЬ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:18:56 |
@@ -99,6 +99,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SantiiSc |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:24:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202800065974 |
+| Players | 14/15 |
+| Host Name | Федеральный ГУСЬ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 11:23:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202801969350 |
+| Players | 1/15 |
+| Host Name | chakalito |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 11:25:41 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202801960762 |
+| Players | 1/15 |
+| Host Name | Sofuer |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 11:25:41 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202798932080 |
+| Players | 12/15 |
+| Host Name | Karl |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, November 4, 2023 11:21:38 |
 
 
 |  | epic_boss_fight_nightmare |
