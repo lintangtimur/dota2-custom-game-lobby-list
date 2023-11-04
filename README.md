@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203129152963 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | Phat |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 16:54:16 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203134469265 |
-| Players | 13/15 |
-| Host Name | hennessey with no cola |
+| Lobby ID | 28505203132608589 |
+| Players | 9/15 |
+| Host Name | .. |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:59:18 |
+| Lobby Creation Time | Saturday, November 4, 2023 16:57:33 |
 
 
 |  | ot3_gardens_duo |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203137408447 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | lord |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:02:09 |
@@ -122,19 +122,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203133498011 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Ты лох,вот и плох |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:58:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203132608589 |
-| Players | 8/15 |
-| Host Name | .. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:57:33 |
 
 
 |  | epic_boss_fight_normal |
@@ -171,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | АрнольдШвальцНиг |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:03:24 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505203139490147 |
+| Players | 1/5 |
+| Host Name | Turbo |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 17:04:11 |
 
 
