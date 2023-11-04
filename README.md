@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203049558533 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | skorpziro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:40:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203047702925 |
-| Players | 9/10 |
-| Host Name | SenorMouse |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 15:39:01 |
+| Lobby ID | 28505203049846539 |
+| Players | 6/15 |
+| Host Name | Atomic |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 15:40:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,24 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 15:40:20 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203048928370 |
-| Players | 7/10 |
-| Host Name | unvalibavol |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 15:40:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203045381536 |
-| Players | 3/10 |
-| Host Name | Remiferia |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 15:36:53 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203048361757 |
@@ -83,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 15:39:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203049846539 |
-| Players | 4/15 |
-| Host Name | Atomic |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 4, 2023 15:40:59 |
+| Lobby ID | 28505203045381536 |
+| Players | 3/10 |
+| Host Name | Remiferia |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 15:36:53 |
 
 
 |  | epic_boss_fight_nightmare |
