@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203129658791 |
-| Players | 11/15 |
-| Host Name | Hermes |
+| Lobby ID | 28505203145743313 |
+| Players | 3/15 |
+| Host Name | ac7 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:54:45 |
+| Lobby Creation Time | Saturday, November 4, 2023 17:10:27 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203144529575 |
-| Players | 9/24 |
+| Players | 20/24 |
 | Host Name | Wing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 17:09:15 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203142137900 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | 1VS9 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:06:50 |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203145064739 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Мені похуй |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, November 4, 2023 17:09:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203145120664 |
-| Players | 14/15 |
-| Host Name | Alonzo |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 17:09:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203145349923 |
-| Players | 3/8 |
-| Host Name | Ебатель |
-| Region | AUSTRIA |
-| Lobby Creation Time | Saturday, November 4, 2023 17:10:04 |
 
 
 |  | ot3_gardens_duo |
@@ -117,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Про100!УзБеК!!! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:10:00 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203145688741 |
+| Players | 1/24 |
+| Host Name | Сай |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 17:10:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203145669987 |
+| Players | 1/15 |
+| Host Name | pos 5 only |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 17:10:23 |
 
 
 |  | epic_boss_fight_normal |
