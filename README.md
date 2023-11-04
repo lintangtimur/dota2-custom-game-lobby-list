@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202996097796 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | Shulton 2.0 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 14:51:22 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202994621447 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | ☠丂HۣۜะĨ尺Oۣۜ≈☣ |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:49:58 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202997498731 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | ewyang |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:52:42 |
@@ -113,19 +113,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202997954893 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | 路人 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:53:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202993917320 |
-| Players | 13/15 |
-| Host Name | lebanon don |
+| Lobby ID | 28505202998412940 |
+| Players | 1/10 |
+| Host Name | Middleware |
 | Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 14:49:18 |
+| Lobby Creation Time | Saturday, November 4, 2023 14:53:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202998446252 |
+| Players | 1/8 |
+| Host Name | Чумовая Крыса |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 14:53:36 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -149,25 +158,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202989675971 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Semen Supervisor |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 14:45:21 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505202998035317 |
-| Players | 3/5 |
-| Host Name | mamyshonok |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 4, 2023 14:53:13 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202998236569 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Alfy Fox |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:53:24 |
