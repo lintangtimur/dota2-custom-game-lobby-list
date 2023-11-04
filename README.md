@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203108002154 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Alonzo |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:34:30 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203107373445 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | aa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:33:54 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:11:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203107824188 |
-| Players | 9/10 |
-| Host Name | Slarkas777 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:34:20 |
+| Lobby ID | 28505203108895799 |
+| Players | 1/15 |
+| Host Name | Xaxa |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 16:35:20 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203108141971 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Locomobile | The Chimney |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:34:37 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KO/\9H4uK |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 16:34:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203108692636 |
-| Players | 1/8 |
-| Host Name | SS+ ранг loser |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 16:35:08 |
 
 
 |  | ot3_jungle_quintet |
