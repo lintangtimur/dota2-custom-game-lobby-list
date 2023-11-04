@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202866361050 |
-| Players | 8/24 |
+| Players | 5/24 |
 | Host Name | MoonWalker |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:41:53 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202858324892 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | ✪  =D |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 12:33:01 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202862370237 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Топ 100 Антарктиды |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:37:29 |
@@ -158,19 +158,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202865788519 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | feeling the dimensions |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:41:15 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202866071584 |
-| Players | 9/10 |
-| Host Name | Fallen Sky |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 12:41:34 |
+| Lobby ID | 28505202867852010 |
+| Players | 1/8 |
+| Host Name | dzhenkens00 |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 12:43:31 |
 
 
 |  | epic_boss_fight_challenger |
