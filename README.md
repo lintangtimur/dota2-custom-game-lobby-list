@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202767621361 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | Buscador de las almas perdidas |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 10:37:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202767876375 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | L1ger |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 10:37:57 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202767770168 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | y0ngG |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 10:37:49 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202766973748 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | miley cyrex |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 10:36:43 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202766546161 |
-| Players | 11/15 |
-| Host Name | Novato |
+| Players | 14/15 |
+| Host Name | 𝙴𝚜𝚚𝚞𝚒𝚕𝚘𝚃 |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 10:36:07 |
 
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202766737675 |
-| Players | 15/24 |
-| Host Name | ǝʞıN |
+| Players | 14/24 |
+| Host Name | STERBLICH |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 10:36:23 |
 
@@ -153,6 +153,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 离手鸳鸯刀 |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, November 4, 2023 10:38:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202768033563 |
+| Players | 2/10 |
+| Host Name | райан гослинг |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 10:38:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202768033601 |
+| Players | 1/24 |
+| Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 10:38:10 |
 
 
 |  | epic_boss_fight_nightmare |
