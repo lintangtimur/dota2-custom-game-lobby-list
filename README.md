@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203076133768 |
-| Players | 1/8 |
-| Host Name | blitheog* |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 16:04:55 |
+| Lobby ID | 28505203076170242 |
+| Players | 5/8 |
+| Host Name | кормушка |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 4, 2023 16:04:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 16:03:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505203075396667 |
-| Players | 1/8 |
-| Host Name | мен казакпын |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 16:04:15 |
+| Lobby ID | 28505203076079090 |
+| Players | 8/24 |
+| Host Name | SUPREME# [16] |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 16:04:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,54 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203076037158 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Murâkai |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:04:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203076170242 |
-| Players | 1/8 |
-| Host Name | кормушка |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 4, 2023 16:04:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505203076079090 |
-| Players | 6/24 |
-| Host Name | SUPREME# [16] |
+| Lobby ID | 28505203076352712 |
+| Players | 2/10 |
+| Host Name | Major Bandage |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:04:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203074042277 |
-| Players | 14/15 |
-| Host Name | ни чего себе |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 16:03:00 |
+| Lobby Creation Time | Saturday, November 4, 2023 16:05:07 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203070830399 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Nitva |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:00:05 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28505203076150547 |
-| Players | 1/7 |
-| Host Name | ♂ |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 16:04:56 |
 
 
