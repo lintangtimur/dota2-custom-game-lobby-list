@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202784368651 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | paradise |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:00:56 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202782001629 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | yuyu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 10:57:29 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202783047617 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | 1 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 10:58:57 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202783830705 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Moonlight |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 11:00:05 |
@@ -86,10 +86,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202785086031 |
-| Players | 1/10 |
-| Host Name | El ultimo Inka |
+| Players | 3/10 |
+| Host Name | Mcry |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:02:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202785215083 |
+| Players | 2/10 |
+| Host Name | райан гослинг |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 11:02:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202785230066 |
+| Players | 2/15 |
+| Host Name | folder |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 11:02:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202785262672 |
+| Players | 3/15 |
+| Host Name | Waal._ |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 11:02:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202785283030 |
+| Players | 1/8 |
+| Host Name | SrDumii |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 11:02:18 |
 
 
 |  | epic_boss_fight_nightmare |
