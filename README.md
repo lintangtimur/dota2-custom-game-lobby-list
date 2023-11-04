@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202797037074 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Movistar Perú |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:19:00 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202796055490 |
-| Players | 10/15 |
+| Players | 8/15 |
 | Host Name | Crungo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:17:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202796163279 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | asap |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 11:17:48 |
@@ -72,6 +72,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ФОРТАНУЛО ЕБАТЬ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:18:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202796441039 |
+| Players | 9/10 |
+| Host Name | M142 HIMARS |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 11:18:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202797310358 |
+| Players | 4/8 |
+| Host Name | LuisPC |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 11:19:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202797331831 |
+| Players | 6/10 |
+| Host Name | dW |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 11:19:25 |
 
 
 |  | epic_boss_fight_normal |
