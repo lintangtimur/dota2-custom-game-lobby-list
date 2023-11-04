@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204063126309 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | kagni |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 03:40:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204063255076 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | El depredador de gallinas |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 03:40:19 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204064954395 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Physique Magnifique |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 5, 2023 03:42:08 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204061263832 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | licen₸ia |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, November 5, 2023 03:38:12 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204062904523 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | ★彡iＫⓐＲㄖş 彡★ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 03:39:56 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204058124944 |
-| Players | 17/24 |
+| Players | 22/24 |
 | Host Name | EPIC |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 5, 2023 03:34:51 |
@@ -128,20 +128,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 03:41:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204065075205 |
-| Players | 14/15 |
-| Host Name | ✪ huyase |
+| Lobby ID | 28505204065020364 |
+| Players | 2/10 |
+| Host Name | Thawne |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 03:42:16 |
+| Lobby Creation Time | Sunday, November 5, 2023 03:42:12 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204060274465 |
-| Players | 9/10 |
-| Host Name | R2-D2 |
+| Players | 7/10 |
+| Host Name | SenorMouse |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 03:37:08 |
 
@@ -182,13 +182,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 03:41:32 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204065020364 |
-| Players | 2/10 |
-| Host Name | Thawne |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 03:42:12 |
+| Lobby ID | 28505204065322488 |
+| Players | 3/8 |
+| Host Name | Cvas |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 03:42:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204065322174 |
+| Players | 2/15 |
+| Host Name | your dady |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 03:42:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204065370766 |
+| Players | 1/15 |
+| Host Name | mamania |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 03:42:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204065467219 |
+| Players | 1/15 |
+| Host Name | Байкальская Водица |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 03:42:41 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -207,14 +234,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BUTTOWSKI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 03:42:01 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505204065294358 |
-| Players | 1/5 |
-| Host Name | Rasta |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 03:42:30 |
 
 
