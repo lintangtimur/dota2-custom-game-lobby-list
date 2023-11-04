@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:34:54 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202932080441 |
-| Players | 1/24 |
-| Host Name | Black Raven |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 13:50:47 |
+| Lobby ID | 28505202934456741 |
+| Players | 1/8 |
+| Host Name | wonder |
+| Region | Unknown |
+| Lobby Creation Time | Saturday, November 4, 2023 13:53:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202929698912 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | [R][O][A][M] |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 13:48:25 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202930312277 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | ri |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 13:49:02 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202926844433 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | EMANS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:45:38 |
@@ -131,28 +131,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202932424541 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | nissinwafer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:51:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202934245024 |
-| Players | 4/8 |
-| Host Name | Kavaix |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 4, 2023 13:52:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202934279519 |
-| Players | 1/8 |
-| Host Name | 老子才不是魔法少女！ |
-| Region | Unknown |
-| Lobby Creation Time | Saturday, November 4, 2023 13:52:56 |
+| Lobby ID | 28505202925820917 |
+| Players | 13/15 |
+| Host Name | Boomhauer |
+| Region | USWEST |
+| Lobby Creation Time | Saturday, November 4, 2023 13:44:39 |
 
 
 |  | epic_boss_fight_nightmare |
