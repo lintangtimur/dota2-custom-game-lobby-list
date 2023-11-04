@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203036262776 |
-| Players | 7/8 |
-| Host Name | DiSPoNSiR |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 4, 2023 15:28:37 |
+| Lobby ID | 28505203038212119 |
+| Players | 4/8 |
+| Host Name | sss+вайбалов |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 4, 2023 15:30:23 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203036963624 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | mmmMMM |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:29:16 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203018232294 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | 断水流大师兄 |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 15:12:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203037635649 |
-| Players | 9/15 |
-| Host Name | Хулиганочка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 15:29:52 |
+| Lobby ID | 28505203038330415 |
+| Players | 1/8 |
+| Host Name | wersus absolut??? |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 15:30:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -141,8 +141,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505203036718535 |
 | Players | 4/10 |
-| Host Name | Антонио Еблэнас |
+| Host Name | EternaL Ice...! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:29:02 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28505203038226834 |
+| Players | 1/7 |
+| Host Name | shurapon |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 15:30:24 |
 
 
