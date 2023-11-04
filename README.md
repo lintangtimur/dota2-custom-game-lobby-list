@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 05:36:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204157321297 |
-| Players | 12/15 |
-| Host Name | Sitru |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 05:35:03 |
+| Lobby ID | 28505204158045602 |
+| Players | 5/10 |
+| Host Name | merenge |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 05:36:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204156542575 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Deva path |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 05:33:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204156496375 |
-| Players | 13/15 |
-| Host Name | Aarön |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 05:33:54 |
+| Lobby ID | 28505204158361681 |
+| Players | 3/24 |
+| Host Name | IndiGо |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 05:36:30 |
 
 
 |  | ot3_gardens_duo |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204158043294 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | ᴅᴅJEKA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:36:03 |
@@ -112,28 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204156067208 |
-| Players | 3/8 |
-| Host Name | Cataclysm |
+| Lobby ID | 28505204158302828 |
+| Players | 1/8 |
+| Host Name | Дауби Даубиев |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 05:33:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204158045602 |
-| Players | 2/10 |
-| Host Name | merenge |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 05:36:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204158183680 |
-| Players | 1/10 |
-| Host Name | Запорожец |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 05:36:15 |
+| Lobby Creation Time | Sunday, November 5, 2023 05:36:25 |
 
 
