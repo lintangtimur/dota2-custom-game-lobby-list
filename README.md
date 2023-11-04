@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203080534873 |
-| Players | 10/15 |
-| Host Name | HXDY |
+| Lobby ID | 28505203089321478 |
+| Players | 1/10 |
+| Host Name | . |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:08:58 |
+| Lobby Creation Time | Saturday, November 4, 2023 16:17:02 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203088196264 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Br0ker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:16:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203087478856 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | Ankaresto |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:15:20 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203088987298 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | РАБМЕН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:16:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203089273347 |
-| Players | 3/8 |
-| Host Name | I will always be alone |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 16:17:00 |
+| Lobby ID | 28505203089344318 |
+| Players | 1/15 |
+| Host Name | namikaze<>alone ❟❛❟ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 16:17:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Tiimii ~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:14:34 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505203030868319 |
+| Players | 1/5 |
+| Host Name | Jeb1 |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 4, 2023 15:23:42 |
 
 
