@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202861910207 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | aWarDeeee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:36:59 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202862472074 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Bored- |
 | Region | BRAZIL |
 | Lobby Creation Time | Saturday, November 4, 2023 12:37:36 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202860598021 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Flawless |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:35:32 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202861372391 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Frekidoom |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:36:23 |
@@ -113,27 +113,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202862694745 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Little |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 4, 2023 12:37:51 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202862847428 |
+| Players | 1/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 12:38:01 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202862772451 |
+| Lobby ID | 28505202862870415 |
+| Players | 2/24 |
+| Host Name | Faerie Dragon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 12:38:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202862878129 |
 | Players | 1/24 |
-| Host Name | Ryan 777 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 4, 2023 12:37:56 |
+| Host Name | LION EL MESI |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 12:38:03 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202859783675 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ComradeHeval |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:34:38 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505202862929162 |
+| Players | 1/10 |
+| Host Name | Xypher |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 12:38:06 |
 
 
