@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 17:09:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505203137816183 |
-| Players | 9/10 |
-| Host Name | black enegry drink |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 17:02:33 |
+| Lobby ID | 28505203144529575 |
+| Players | 2/24 |
+| Host Name | Wing |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 17:09:15 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203142846612 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | typical psycho |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:07:33 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203144129006 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Работайте БРАТЬЯ!!!! |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 4, 2023 17:08:50 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203144469355 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Германий |
 | Region | AUSTRIA |
 | Lobby Creation Time | Saturday, November 4, 2023 17:09:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203142137900 |
+| Players | 3/8 |
+| Host Name | 1VS9 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 17:06:50 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,9 +131,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203129991079 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | inadequate |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:55:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505203144570704 |
+| Players | 1/5 |
+| Host Name | One Sock Joe |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 17:09:17 |
 
 
