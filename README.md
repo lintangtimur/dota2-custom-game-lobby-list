@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 19:32:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505203298816323 |
-| Players | 9/15 |
-| Host Name | Егор Кридит |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 19:11:40 |
+| Lobby ID | 28505203332849198 |
+| Players | 21/24 |
+| Host Name | white skin pig |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 19:33:01 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203371469422 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Президент Лп |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 19:55:32 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505203344046417 |
-| Players | 20/24 |
-| Host Name | Cold Starss |
+| Lobby ID | 28505203301538183 |
+| Players | 22/24 |
+| Host Name | Gigachad thundercock |
 | Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 19:39:39 |
+| Lobby Creation Time | Saturday, November 4, 2023 19:13:26 |
 
 
 |  | ot3_desert_octet |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203362377621 |
-| Players | 5/8 |
-| Host Name | алтайская бурёнк |
+| Players | 7/8 |
+| Host Name | zitraks-mode |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 19:50:20 |
 
@@ -123,7 +123,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505203343835320 |
 | Players | 6/15 |
-| Host Name | Fireflies |
+| Host Name | смоил |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 19:39:31 |
 
@@ -182,46 +182,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 19:55:30 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203371341418 |
-| Players | 5/8 |
-| Host Name | Искорка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 19:55:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203371662602 |
-| Players | 3/8 |
-| Host Name | ⚔Kusanagy Zero☯ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 19:55:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203371666276 |
-| Players | 1/8 |
-| Host Name | 5 нашка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 19:55:39 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505203332849198 |
-| Players | 21/24 |
-| Host Name | white skin pig |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 19:33:01 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505203356511260 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Boroda4 Live |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 19:46:57 |
