@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202875018923 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:51:15 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202877055985 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | хочу татарочку |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:53:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202876485621 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | camote |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:52:50 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202876361054 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | The Dead of Marshes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:52:42 |
@@ -155,10 +155,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 12:54:23 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202878047937 |
+| Players | 3/10 |
+| Host Name | Muy Malo |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 12:54:33 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202878063017 |
+| Players | 5/10 |
+| Host Name | dW |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 12:54:34 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202872622629 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 123 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:48:39 |
