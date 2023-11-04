@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203439623224 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | dobriy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 20:33:32 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203498791273 |
-| Players | 2/15 |
+| Players | 12/15 |
 | Host Name | ОТ[MOROZ]ОК |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 21:06:10 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203486402146 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | 神说天堂满了你去地狱 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 20:59:28 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203451052660 |
-| Players | 3/10 |
-| Host Name | FeelMyPain |
+| Players | 8/10 |
+| Host Name | shen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 20:39:59 |
 
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203496239867 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Даубиджон |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 21:04:48 |
@@ -202,17 +202,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203493152739 |
-| Players | 13/15 |
-| Host Name | томатус / csgorun |
+| Lobby ID | 28505203500211610 |
+| Players | 1/15 |
+| Host Name | ꃥꈤꊐ |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 21:06:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203496211361 |
+| Players | 1/8 |
+| Host Name | Странные дела |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 21:03:09 |
+| Lobby Creation Time | Saturday, November 4, 2023 21:04:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203495321933 |
+| Players | 6/8 |
+| Host Name | death of commentator |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 21:04:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203500429228 |
+| Players | 1/8 |
+| Host Name | 神力无敌李大海 |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 4, 2023 21:07:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203486479782 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Lamperouge |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 20:59:30 |
