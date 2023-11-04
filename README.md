@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203063591040 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | Elegant Elephant |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 15:53:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203063571040 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | jabava kaira |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:53:31 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203061877446 |
-| Players | 2/15 |
-| Host Name | Pepe Ozima |
+| Players | 1/15 |
+| Host Name | 11 |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 4, 2023 15:51:59 |
 
@@ -94,17 +94,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203064258353 |
-| Players | 7/10 |
-| Host Name | шельма |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 15:54:08 |
+| Lobby ID | 28505203064722451 |
+| Players | 2/10 |
+| Host Name | BRAMBRAGE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 15:54:33 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203062143697 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Provion |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:52:13 |
