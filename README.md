@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202918318467 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Major Bandage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:37:22 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:34:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202918207032 |
-| Players | 9/15 |
-| Host Name | king of fools |
+| Lobby ID | 28505202919665507 |
+| Players | 1/10 |
+| Host Name | GRINGo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 13:37:15 |
+| Lobby Creation Time | Saturday, November 4, 2023 13:38:41 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202918868160 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Pause Malone! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 13:37:54 |
@@ -104,37 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202919713760 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Not Nilc |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 13:38:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505202919665507 |
-| Players | 1/10 |
-| Host Name | GRINGo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 13:38:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202919922015 |
-| Players | 1/8 |
-| Host Name | Пустота |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 13:38:56 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202920175230 |
-| Players | 1/24 |
-| Host Name | kelbull |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, November 4, 2023 13:39:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mamawebaso |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 13:38:43 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505202920347273 |
+| Players | 1/5 |
+| Host Name | Johnny Sins |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 13:39:21 |
 
 
