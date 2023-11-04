@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:15:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202794462755 |
-| Players | 8/10 |
-| Host Name | RASTREANDO TU IP CERRANO CTV |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 11:15:27 |
+| Lobby ID | 28505202796055490 |
+| Players | 1/15 |
+| Host Name | Crungo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 11:17:39 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202795822412 |
-| Players | 3/24 |
+| Players | 8/24 |
 | Host Name | RyQゆた |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 11:17:19 |
@@ -74,19 +74,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:17:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202796022122 |
-| Players | 1/24 |
-| Host Name | VOy a fedear aviso ! |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 11:17:36 |
+| Lobby ID | 28505202796050690 |
+| Players | 1/15 |
+| Host Name | Okay |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 11:17:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202796121136 |
+| Players | 2/10 |
+| Host Name | XDD |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 11:17:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202796131685 |
+| Players | 4/8 |
+| Host Name | BMKM |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 11:17:45 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505202791094218 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Minuteman |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:10:43 |
