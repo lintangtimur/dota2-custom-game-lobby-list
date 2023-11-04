@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202851421134 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | Sofuer |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 12:25:21 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202851787149 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | La ultima coca cola del desierto |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:25:46 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202850999725 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | J |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 12:24:53 |
@@ -104,19 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202851720934 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | unvalibavol |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:25:42 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202852426132 |
-| Players | 1/24 |
-| Host Name | DarkMoon |
+| Lobby ID | 28505202852470019 |
+| Players | 3/10 |
+| Host Name | АЛЕКСАНДР ЮСЮК |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 12:26:29 |
+| Lobby Creation Time | Saturday, November 4, 2023 12:26:32 |
 
 
 |  | epic_boss_fight_nightmare |
