@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202750632041 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | el último de los ronderos |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 10:14:10 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202751007972 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Guapeta |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 10:14:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202751507314 |
-| Players | 7/8 |
-| Host Name | Sharuko |
+| Lobby ID | 28505202752255593 |
+| Players | 4/10 |
+| Host Name | yo+4pezuñas |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 10:15:21 |
+| Lobby Creation Time | Saturday, November 4, 2023 10:16:23 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202752652183 |
-| Players | 8/24 |
+| Players | 18/24 |
 | Host Name | Buscador de las almas perdidas |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 10:16:55 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202752038288 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | PIDROгидар |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 10:16:05 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202752322377 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Scr33nP33k |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 10:16:28 |
@@ -130,20 +130,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202752255593 |
-| Players | 4/10 |
-| Host Name | yo+4pezuñas |
+| Lobby ID | 28505202752955454 |
+| Players | 1/10 |
+| Host Name | Fio<3(Hachistoso) |
 | Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 10:16:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202752415861 |
-| Players | 8/15 |
-| Host Name | Sensei |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 10:16:36 |
+| Lobby Creation Time | Saturday, November 4, 2023 10:17:21 |
 
 
 |  | epic_boss_fight_nightmare |
