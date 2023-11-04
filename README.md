@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202888043445 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | nissinwafer |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 13:05:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202887766709 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | Phill Dz |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 13:05:24 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202889691504 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Топ 100 Антарктиды |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:07:31 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202889369678 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | The Dead of Marshes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:07:10 |
@@ -157,29 +157,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202890426417 |
-| Players | 1/24 |
-| Host Name | Mika |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 13:08:19 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202890441713 |
+| Lobby ID | 28505202890584289 |
 | Players | 1/24 |
 | Host Name | 砍王 |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 13:08:21 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 13:08:30 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202890419179 |
+| Lobby ID | 28505202890543390 |
 | Players | 1/24 |
-| Host Name | 嗯啊 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 13:08:19 |
+| Host Name | 123456 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 13:08:27 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202890550238 |
+| Players | 2/24 |
+| Host Name | 無定向喪心病狂 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 13:08:28 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202890572925 |
+| Players | 4/8 |
+| Host Name | si me ganas yo pierdo :v |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 13:08:29 |
 
 
 |  | epic_boss_fight_nightmare |
