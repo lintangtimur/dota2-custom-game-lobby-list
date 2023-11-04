@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202914858882 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Flawless |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 13:33:56 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:10:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202913783779 |
-| Players | 2/15 |
-| Host Name | arp |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 13:32:51 |
+| Lobby ID | 28505202918295698 |
+| Players | 1/24 |
+| Host Name | Wheel.Reinventer |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 4, 2023 13:37:21 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202917944367 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | BLEHHHHH :P |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 13:37:00 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202917158688 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | ✪hoFFmaaan✪ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:36:13 |
@@ -95,10 +95,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202917739447 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Bored- |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 13:36:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202918206601 |
+| Players | 2/10 |
+| Host Name | Vincenzooo |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 13:37:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202918207032 |
+| Players | 2/15 |
+| Host Name | king of fools |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 13:37:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202918237512 |
+| Players | 1/10 |
+| Host Name | CORRALITO |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 13:37:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505202918318467 |
+| Players | 2/10 |
+| Host Name | Major Bandage |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 13:37:22 |
 
 
 |  | epic_boss_fight_nightmare |
