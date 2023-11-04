@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202854722739 |
-| Players | 3/24 |
+| Players | 1/24 |
 | Host Name | My fart doesn't stink |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Saturday, November 4, 2023 12:29:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202854047372 |
-| Players | 9/10 |
-| Host Name | :Xaiko midaX:) |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 12:28:17 |
+| Lobby ID | 28505202855072877 |
+| Players | 3/24 |
+| Host Name | Dr Tazerenix |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 12:29:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202852709943 |
-| Players | 5/24 |
+| Players | 1/24 |
 | Host Name | Дристающий Ангел |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:26:48 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202851787149 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | La ultima coca cola del desierto |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:25:46 |
@@ -128,13 +128,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 12:29:19 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202855072877 |
-| Players | 1/24 |
-| Host Name | Dr Tazerenix |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 12:29:26 |
+| Lobby ID | 28505202855501830 |
+| Players | 1/10 |
+| Host Name | sorry bro i am not stupid |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 12:29:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202855531201 |
+| Players | 1/8 |
+| Host Name | Old School |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 12:29:56 |
 
 
 |  | epic_boss_fight_nightmare |
