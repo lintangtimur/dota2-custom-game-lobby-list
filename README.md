@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203151210331 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | 'le Yan |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 17:15:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203151691897 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | неумехапелемеха |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 17:16:13 |
@@ -59,37 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203154298830 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Chogori |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:18:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203152586472 |
-| Players | 1/8 |
-| Host Name | БЕСпоЩАДОВ МУН |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:17:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203153331667 |
-| Players | 2/8 |
-| Host Name | тимоха шо ты твор |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:17:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203153538844 |
-| Players | 12/15 |
-| Host Name | feeling the dimensions |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:17:58 |
 
 
 |  | ot3_gardens_duo |
@@ -103,47 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203154215020 |
-| Players | 3/8 |
-| Host Name | 私はみんなにとって死んでいる |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 17:18:36 |
+| Lobby ID | 28505203153331667 |
+| Players | 2/8 |
+| Host Name | тимоха шо ты твор |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 17:17:46 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203152364966 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | ALEXBYRDASHEV |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:16:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505203154380534 |
-| Players | 4/24 |
-| Host Name | Onyx |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 17:18:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203152279294 |
-| Players | 9/10 |
-| Host Name | психокомбинат |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:16:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203154737583 |
-| Players | 1/10 |
-| Host Name | Usurper Beyond the Heaven |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 17:19:06 |
 
 
 |  | epic_boss_fight_nightmare |
