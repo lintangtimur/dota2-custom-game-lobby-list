@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202955363302 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | nissinwafer |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, November 4, 2023 14:13:09 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202956182957 |
-| Players | 7/10 |
-| Host Name | Ｍ８ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 14:13:54 |
+| Lobby ID | 28505202953642417 |
+| Players | 5/10 |
+| Host Name | You are nothing. |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 4, 2023 14:11:32 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202953806847 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Vuvuzela Virtuoso Hans Rudolph |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:11:41 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202948625306 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | Michi_God |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:06:47 |
@@ -113,25 +113,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202956949279 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | 大鲶鱼 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:14:37 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505202953642417 |
-| Players | 8/10 |
-| Host Name | You are nothing. |
-| Region | EUROPE |
-| Lobby Creation Time | Saturday, November 4, 2023 14:11:32 |
-
-
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28505202955970524 |
-| Players | 4/7 |
+| Players | 5/7 |
 | Host Name | Raizel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:13:42 |
