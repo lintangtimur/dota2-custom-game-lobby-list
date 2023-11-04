@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:20:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202964983556 |
-| Players | 7/8 |
-| Host Name | WRIPwrip |
-| Region | AUSTRIA |
-| Lobby Creation Time | Saturday, November 4, 2023 14:22:12 |
+| Lobby ID | 28505202965530715 |
+| Players | 1/15 |
+| Host Name | asd |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 14:22:43 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202939937230 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | smokyma |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:58:26 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202965222724 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | CumHere |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:22:25 |
@@ -137,13 +137,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:22:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202965530715 |
-| Players | 1/15 |
-| Host Name | asd |
+| Lobby ID | 28505202965849873 |
+| Players | 1/10 |
+| Host Name | qweqwewqeqwqwe |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 14:22:43 |
+| Lobby Creation Time | Saturday, November 4, 2023 14:23:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -153,14 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Yatoro雨 fan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:20:09 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505202965562331 |
-| Players | 1/5 |
-| Host Name | bagoro神 |
-| Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 14:22:45 |
 
 
