@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202957797431 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | TIDEHUNTER |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:15:25 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202948625306 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Glückspilz |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:06:47 |
@@ -113,16 +113,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202950867627 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | Kether |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:08:54 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202959213145 |
+| Players | 3/24 |
+| Host Name | Professor |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 14:16:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202959265979 |
+| Players | 1/8 |
+| Host Name | миракл в прайме |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 14:16:47 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202958406691 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Ghee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:15:59 |
@@ -144,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | OID |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:16:16 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505202959176132 |
+| Players | 1/5 |
+| Host Name | LeeLoo |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 4, 2023 14:16:42 |
 
 
