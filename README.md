@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202888346930 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 13:06:03 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202897070900 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Imbecility & Courage♉ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:15:27 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202896648212 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | feeling the dimensions |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:15:00 |
@@ -110,6 +110,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 13:13:53 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202897597277 |
+| Players | 1/24 |
+| Host Name | C.C |
+| Region | PWTELECOMGUANGZHOU |
+| Lobby Creation Time | Saturday, November 4, 2023 13:16:00 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505202897659993 |
+| Players | 1/24 |
+| Host Name | Sadlife |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 13:16:04 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202880318322 |
@@ -130,19 +148,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28505202896963153 |
+| Lobby ID | 28505202897658502 |
 | Players | 2/7 |
-| Host Name | Solenoyd |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 13:15:20 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505202897503181 |
-| Players | 1/10 |
-| Host Name | Pias |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 13:15:54 |
+| Host Name | Flexflouzen |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 13:16:04 |
 
 
