@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:11:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505203166836311 |
-| Players | 7/10 |
-| Host Name | BRAMBRAGE |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 17:30:16 |
+| Lobby ID | 28505203171056232 |
+| Players | 4/24 |
+| Host Name | Buu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 17:34:04 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203170019976 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Delirium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:33:08 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203171501333 |
-| Players | 1/24 |
+| Players | 8/24 |
 | Host Name | 'le Yan |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 17:34:28 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203167908203 |
-| Players | 23/24 |
-| Host Name | :D |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 17:31:14 |
+| Lobby ID | 28505203171508703 |
+| Players | 2/10 |
+| Host Name | Yume |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 17:34:28 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203160510298 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | увековечено в кам |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:24:29 |
@@ -119,55 +119,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 17:33:26 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505203171056232 |
-| Players | 4/24 |
-| Host Name | Kuzya |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:34:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505203171508703 |
-| Players | 2/10 |
-| Host Name | Yume |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:34:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203171584161 |
-| Players | 3/15 |
-| Host Name | mamania |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:34:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203171659878 |
-| Players | 4/8 |
-| Host Name | Spit in my face |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 17:34:36 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28505203171184754 |
-| Players | 1/7 |
-| Host Name | Kazuha |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 17:34:11 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203171234873 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | sar-Mirim |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:34:14 |
