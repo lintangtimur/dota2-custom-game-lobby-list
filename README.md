@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204207614893 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 06:50:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204207091268 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | вычисляю тебя в толпе по попке |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:50:05 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204200180357 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Gyrocopter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 06:38:40 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204209122922 |
-| Players | 1/10 |
-| Host Name | Br0ker |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, November 5, 2023 06:53:32 |
+| Lobby ID | 28505204208976061 |
+| Players | 5/10 |
+| Host Name | dW |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 06:53:17 |
 
 
 |  | ot3_gardens_duo |
@@ -119,40 +119,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 06:52:52 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204208749160 |
-| Players | 5/10 |
-| Host Name | Seijuro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 06:52:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204207043177 |
-| Players | 1/15 |
-| Host Name | Exército de Tilambucano |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, November 5, 2023 06:50:00 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204208900481 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | mist1l |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:53:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204208976061 |
-| Players | 5/10 |
-| Host Name | dW |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 06:53:17 |
+| Lobby ID | 28505204207043177 |
+| Players | 3/15 |
+| Host Name | Exército de Tilambucano |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, November 5, 2023 06:50:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204209210791 |
+| Players | 4/8 |
+| Host Name | Dante |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 06:53:41 |
 
 
 |  | epic_boss_fight_nightmare |
