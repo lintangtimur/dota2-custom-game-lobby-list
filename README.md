@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203835483388 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Великомученик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 00:19:56 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203836925275 |
-| Players | 2/8 |
-| Host Name | MIDBORN, THE ONLY MVP |
-| Region | AUSTRIA |
-| Lobby Creation Time | Sunday, November 5, 2023 00:20:57 |
+| Lobby ID | 28505203836981632 |
+| Players | 5/8 |
+| Host Name | ニュークリア |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 00:21:00 |
 
 
 |  | ot3_gardens_duo |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203834299786 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Rover |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 00:19:05 |
@@ -139,11 +139,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203819063136 |
-| Players | 6/8 |
-| Host Name | elkintoteletubi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 00:08:26 |
+| Lobby ID | 28505203836997511 |
+| Players | 2/8 |
+| Host Name | 我是meow' |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 00:21:01 |
 
 
 |  | ot3_desert_octet |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203831572848 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Antwonardo |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 00:17:09 |
@@ -176,8 +176,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203828398678 |
-| Players | 10/15 |
-| Host Name | xpratf |
+| Players | 9/15 |
+| Host Name | Xiao BB |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 00:14:55 |
 
@@ -193,11 +193,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203836304428 |
-| Players | 14/15 |
-| Host Name | Доктор Курлык |
+| Lobby ID | 28505203832062978 |
+| Players | 9/15 |
+| Host Name | Karna.val |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 00:20:31 |
+| Lobby Creation Time | Sunday, November 5, 2023 00:17:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -227,19 +227,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 00:04:20 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203832062978 |
-| Players | 6/15 |
-| Host Name | Karna.val |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 00:17:30 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203832826891 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Lin Yushia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 00:18:03 |
@@ -247,19 +238,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505203836890619 |
-| Players | 1/5 |
+| Lobby ID | 28505203837110555 |
+| Players | 3/5 |
 | Host Name | RanGo |
 | Region | AUSTRIA |
-| Lobby Creation Time | Sunday, November 5, 2023 00:20:56 |
+| Lobby Creation Time | Sunday, November 5, 2023 00:21:05 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505203836875201 |
-| Players | 1/10 |
-| Host Name | Baby Don't Hurt Me |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 5, 2023 00:20:55 |
+| Lobby ID | 28505203837150436 |
+| Players | 1/5 |
+| Host Name | Pikachu is my sexslave |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 00:21:07 |
 
 
