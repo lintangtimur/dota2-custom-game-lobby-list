@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203986943253 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | #DFined |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 02:23:22 |
@@ -128,19 +128,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 02:10:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203985031838 |
-| Players | 15/15 |
-| Host Name | ʕ •ᴥ•ʔ Big Russian Lion |
+| Lobby ID | 28505203988778220 |
+| Players | 6/8 |
+| Host Name | ebnuty psih |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 02:21:34 |
+| Lobby Creation Time | Sunday, November 5, 2023 02:25:05 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203988318078 |
-| Players | 3/15 |
+| Players | 12/15 |
 | Host Name | JJ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 02:24:39 |
@@ -176,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203987762057 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | [ALL][MUTED][BE][POSITIVE][GLHF] |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 02:24:08 |
@@ -191,31 +191,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 02:20:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203988652728 |
-| Players | 1/15 |
-| Host Name | Dno |
+| Lobby ID | 28505203988806512 |
+| Players | 1/8 |
+| Host Name | senbonzakura |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 02:24:58 |
+| Lobby Creation Time | Sunday, November 5, 2023 02:25:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203988590749 |
+| Lobby ID | 28505203988792829 |
 | Players | 1/8 |
-| Host Name | Делаю |
+| Host Name | MONAME |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 02:24:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203985733798 |
-| Players | 13/15 |
-| Host Name | |||||||||||| |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 02:22:14 |
+| Lobby Creation Time | Sunday, November 5, 2023 02:25:06 |
 
 
 |  | epic_boss_fight_challenger |
