@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203158119390 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | GATITO PERDITO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:22:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203157623579 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | .#h21z |
 | Region | EUROPE |
 | Lobby Creation Time | Saturday, November 4, 2023 17:21:48 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203157009044 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | oloololo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 17:21:13 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203158485722 |
-| Players | 1/15 |
-| Host Name | 浙江第一神钩 |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 17:22:35 |
+| Lobby ID | 28505203153538844 |
+| Players | 14/15 |
+| Host Name | feeling the dimensions |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 17:17:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -126,6 +126,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Romanidze |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 17:19:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203154298830 |
+| Players | 7/8 |
+| Host Name | Chogori |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 17:18:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203158535646 |
+| Players | 2/10 |
+| Host Name | Інфляція |
+| Region | AUSTRIA |
+| Lobby Creation Time | Saturday, November 4, 2023 17:22:38 |
 
 
 |  | epic_boss_fight_normal |
