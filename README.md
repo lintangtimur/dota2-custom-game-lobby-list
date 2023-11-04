@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202805572837 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | GAmerZ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:30:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202806847327 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Lunaria |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Saturday, November 4, 2023 11:32:03 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202805990525 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Thunderpants |
 | Region | USWEST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:30:56 |
@@ -122,19 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202806106196 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | cigarro? AGGG!!! |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:31:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202807131861 |
-| Players | 6/8 |
-| Host Name | TU MAMITA JOSE |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 11:32:25 |
+| Lobby ID | 28505202807214561 |
+| Players | 1/10 |
+| Host Name | PIDROгидар |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 11:32:31 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -158,18 +158,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202806936964 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Kimdyy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 11:32:10 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505202806903916 |
-| Players | 1/10 |
-| Host Name | Lin Yushia |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 11:32:07 |
 
 
