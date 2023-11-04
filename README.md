@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204022982959 |
-| Players | 3/8 |
-| Host Name | kriv4203 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 02:58:02 |
+| Lobby ID | 28505204023091217 |
+| Players | 9/10 |
+| Host Name | СЛАВЯНСКИЙ БОГ ПЕРУН |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 02:58:08 |
 
 
 |  | ot3_gardens_duo |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 02:49:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204021239128 |
-| Players | 2/8 |
-| Host Name | Ебанько,БЛЯТЬ! |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, November 5, 2023 02:56:17 |
+| Lobby ID | 28505204023142166 |
+| Players | 13/15 |
+| Host Name | Pelo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 02:58:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:11:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204020679221 |
-| Players | 2/8 |
-| Host Name | гоша арам-зам-зан |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, November 5, 2023 02:55:44 |
+| Lobby ID | 28505204023275415 |
+| Players | 4/10 |
+| Host Name | Swag под себя |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 02:58:19 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204022922409 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Hanni- |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 02:57:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204020453658 |
-| Players | 18/24 |
+| Players | 23/24 |
 | Host Name | Papi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 02:55:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204020014769 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | SDVDS |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 5, 2023 02:55:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204013289814 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Cvas |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 02:48:29 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204022599647 |
-| Players | 5/8 |
-| Host Name | Drink vodka play dotka |
+| Lobby ID | 28505204022083906 |
+| Players | 7/8 |
+| Host Name | kom1st |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 02:57:38 |
+| Lobby Creation Time | Sunday, November 5, 2023 02:57:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204021729500 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | ТомЯм |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 02:56:47 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204020204033 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Zumotokaari |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 5, 2023 02:55:15 |
@@ -167,55 +167,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204022467936 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Ништяк Шкатулочка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 02:57:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204022836705 |
-| Players | 12/15 |
-| Host Name | sgem |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 02:57:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204023142166 |
-| Players | 1/15 |
-| Host Name | Pelo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 02:58:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204023091217 |
-| Players | 7/10 |
-| Host Name | СЛАВЯНСКИЙ БОГ ПЕРУН |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 02:58:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204023275415 |
-| Players | 2/10 |
-| Host Name | Swag под себя |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 02:58:19 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204015611750 |
 | Players | 7/8 |
-| Host Name | endless hard |
+| Host Name | TosmitH |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 02:50:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204023452094 |
+| Players | 2/8 |
+| Host Name | мачупил |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 02:58:30 |
 
 
 |  | epic_boss_fight_normal |
@@ -254,13 +227,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 02:47:43 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505204020849029 |
-| Players | 8/10 |
-| Host Name | Calabreso |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 02:55:54 |
+| Lobby ID | 28505204019392631 |
+| Players | 3/5 |
+| Host Name | Hades |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 02:54:27 |
 
 
 |  | epic_boss_fight_challenger |
