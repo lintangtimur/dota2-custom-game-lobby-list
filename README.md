@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203975357079 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | .nvo |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, November 5, 2023 02:12:35 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203970083302 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | aaroneverr |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 02:07:48 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203970187808 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Håper |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 5, 2023 02:07:54 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203973631213 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Ruby |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, November 5, 2023 02:11:01 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203975158665 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | ymer4ik |
 | Region | AUSTRIA |
 | Lobby Creation Time | Sunday, November 5, 2023 02:12:24 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203976036079 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Phat |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 02:13:12 |
@@ -166,20 +166,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203976840397 |
+| Lobby ID | 28505203976919587 |
 | Players | 1/8 |
-| Host Name | дайте мид шлюхи |
+| Host Name | Min_Z_Draw |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, November 5, 2023 02:13:56 |
+| Lobby Creation Time | Sunday, November 5, 2023 02:14:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203976888813 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | тайно дёрнул |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 02:13:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203976978409 |
+| Players | 4/8 |
+| Host Name | Мегаладон |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 02:14:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203972316758 |
+| Players | 9/10 |
+| Host Name | саня любит хуй |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, November 5, 2023 02:09:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203977047783 |
+| Players | 1/8 |
+| Host Name | sa_ru |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 02:14:07 |
 
 
 |  | epic_boss_fight_challenger |
