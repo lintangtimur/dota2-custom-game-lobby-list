@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202927827348 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Muted all |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 13:46:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202933091591 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | scumchav |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:51:46 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202929698912 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | [R][O][A][M] |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 13:48:25 |
@@ -117,6 +117,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Емне Гров |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:51:38 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202933745062 |
+| Players | 1/15 |
+| Host Name | Vuvuzela Virtuoso Hans Rudolph |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 13:52:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202932424541 |
+| Players | 5/8 |
+| Host Name | nissinwafer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 13:51:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202933880517 |
+| Players | 1/8 |
+| Host Name | Son of Mulyarchuk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 13:52:32 |
 
 
 |  | epic_boss_fight_nightmare |
