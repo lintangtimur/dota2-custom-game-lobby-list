@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203259674134 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Zim Zimma |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 18:44:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203258319883 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | shaman king |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 18:43:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203260708747 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | W®13 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 18:45:21 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203261102895 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | csgorun я девочка научите сосать |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 18:45:38 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203260775680 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Faerie Dragon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 18:45:24 |
@@ -167,10 +167,73 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203253775151 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | Канибал |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 18:40:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203258921318 |
+| Players | 1/8 |
+| Host Name | dux0ne |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 18:44:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203250956728 |
+| Players | 4/10 |
+| Host Name | Fortino Samano |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 18:38:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203261321126 |
+| Players | 1/8 |
+| Host Name | Puk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 18:45:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203242284201 |
+| Players | 14/15 |
+| Host Name | На пельменях |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 18:31:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505203261514678 |
+| Players | 2/10 |
+| Host Name | Sanjiro |
+| Region | EUROPE |
+| Lobby Creation Time | Saturday, November 4, 2023 18:45:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203256551587 |
+| Players | 14/15 |
+| Host Name | A r1ce! |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Saturday, November 4, 2023 18:42:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203258964465 |
+| Players | 6/8 |
+| Host Name | Hoakin |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 18:44:07 |
 
 
 |  | epic_boss_fight_challenger |
