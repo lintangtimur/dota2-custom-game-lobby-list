@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202956572763 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:14:16 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202958692147 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | KVASLOVER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:16:15 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202959213145 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Professor |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:16:44 |
@@ -122,19 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202960041729 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:17:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202959894077 |
-| Players | 1/8 |
-| Host Name | Я ебанутый на голову, скорость у |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, November 4, 2023 14:17:23 |
+| Lobby ID | 28505202959919799 |
+| Players | 1/24 |
+| Host Name | 路人 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 14:17:24 |
 
 
 |  | ot3_desert_octet |
@@ -155,19 +155,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:17:24 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202959919799 |
-| Players | 1/24 |
-| Host Name | 路人 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 14:17:24 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202958699121 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | OID |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:16:16 |
