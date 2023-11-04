@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204152032331 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | mk_koresh |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:27:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204149510168 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | los estudios me nerfearon |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 05:24:11 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204152569065 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | constinty wearin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:28:23 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204152639949 |
-| Players | 1/24 |
+| Players | 7/24 |
 | Host Name | mimilya |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 05:28:29 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 05:28:32 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204152685907 |
-| Players | 1/24 |
-| Host Name | Ace |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 05:28:33 |
+| Lobby ID | 28505204152733424 |
+| Players | 1/8 |
+| Host Name | R<3 |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 05:28:37 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -153,14 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Demo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 05:28:31 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505204152699544 |
-| Players | 1/10 |
-| Host Name | mr.Mike |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, November 5, 2023 05:28:34 |
 
 
