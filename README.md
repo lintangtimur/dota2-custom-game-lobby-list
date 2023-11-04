@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202959213145 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | Professor |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:16:44 |
@@ -121,17 +121,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202962488211 |
-| Players | 1/15 |
-| Host Name | Reddy |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 14:19:50 |
+| Lobby ID | 28505202963368553 |
+| Players | 2/15 |
+| Host Name | MickeY |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 14:20:40 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202956949279 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | 大鲶鱼 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:14:37 |
@@ -155,15 +155,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:20:22 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202963368553 |
-| Players | 1/15 |
-| Host Name | MickeY |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 14:20:40 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505202962327893 |
@@ -176,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202962820271 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Yatoro雨 fan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:20:09 |
