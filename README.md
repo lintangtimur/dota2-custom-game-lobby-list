@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202851421134 |
-| Players | 14/15 |
-| Host Name | Sofuer |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 12:25:21 |
+| Lobby ID | 28505202854722739 |
+| Players | 3/24 |
+| Host Name | My fart doesn't stink |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Saturday, November 4, 2023 12:29:02 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202854047372 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | :Xaiko midaX:) |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:28:17 |
@@ -117,15 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Грамм золота |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 12:26:32 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202854722739 |
-| Players | 2/24 |
-| Host Name | My fart doesn't stink |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 4, 2023 12:29:02 |
 
 
 |  | epic_boss_fight_nightmare |
