@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203076037158 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Егор Кридит |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:04:50 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203080879957 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Nacho |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:09:17 |
@@ -113,36 +113,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203086103902 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | from metal city |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:14:04 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203080534873 |
+| Players | 12/15 |
+| Host Name | namikaze<>alone ❟❛❟ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 16:08:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203078902888 |
+| Players | 11/15 |
+| Host Name | _H1BoT_2 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 16:07:28 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203086248964 |
+| Lobby ID | 28505203086449198 |
 | Players | 1/8 |
-| Host Name | Calm |
+| Host Name | Кошачий корм |
 | Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 16:14:12 |
+| Lobby Creation Time | Saturday, November 4, 2023 16:14:23 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505203086174238 |
+| Lobby ID | 28505203086354199 |
 | Players | 1/10 |
-| Host Name | Tovi - |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 16:14:08 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505203086254287 |
-| Players | 1/10 |
-| Host Name | momo |
+| Host Name | I ATE NOTHING |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Saturday, November 4, 2023 16:14:13 |
+| Lobby Creation Time | Saturday, November 4, 2023 16:14:18 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505203086444828 |
+| Players | 1/5 |
+| Host Name | neikus |
+| Region | CHILE |
+| Lobby Creation Time | Saturday, November 4, 2023 16:14:23 |
 
 
