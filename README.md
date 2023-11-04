@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204128131098 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | NEGATIVELY CHARGED SKUNK |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 04:55:08 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204128945612 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | OnMuZoon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 04:56:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204128442611 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | КРУГ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 04:55:32 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204127517406 |
-| Players | 18/24 |
+| Players | 23/24 |
 | Host Name | Злая волчица |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 04:54:21 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204128820684 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | ABOBA BOY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 04:56:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204129141892 |
-| Players | 5/10 |
-| Host Name | Romans 7:15-20 |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, November 5, 2023 04:56:27 |
+| Lobby ID | 28505204129488632 |
+| Players | 6/24 |
+| Host Name | ITS_SHOWTIME |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 04:56:54 |
 
 
 |  | ot3_desert_octet |
@@ -148,11 +148,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204129362146 |
+| Lobby ID | 28505204129411596 |
 | Players | 6/24 |
-| Host Name | ITS_SHOWTIME |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 04:56:44 |
+| Host Name | 7Elite |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 04:56:48 |
 
 
 |  | epic_boss_fight_challenger |
