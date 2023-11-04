@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203018232294 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | rtb |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 15:12:05 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 15:24:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203027764046 |
-| Players | 9/10 |
-| Host Name | Remiferia |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 15:20:51 |
+| Lobby ID | 28505203031708635 |
+| Players | 2/8 |
+| Host Name | Kartoha |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 15:24:28 |
 
 
 |  | ot3_gardens_duo |
@@ -110,24 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 15:21:53 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203032007301 |
-| Players | 2/15 |
-| Host Name | sooshiant |
-| Region | DUBAI |
-| Lobby Creation Time | Saturday, November 4, 2023 15:24:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203031708635 |
-| Players | 2/8 |
-| Host Name | Kartoha |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 15:24:28 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203031957282 |
@@ -135,6 +117,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kermit Da Frog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:24:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203032163996 |
+| Players | 3/15 |
+| Host Name | maybe good team |
+| Region | AUSTRIA |
+| Lobby Creation Time | Saturday, November 4, 2023 15:24:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203032215406 |
+| Players | 1/8 |
+| Host Name | SoreX |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 15:24:56 |
 
 
 |  | epic_boss_fight_nightmare |
