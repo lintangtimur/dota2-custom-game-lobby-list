@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202827197487 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | YHWH |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:57:18 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202829965867 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | KLEYDERMAN |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 12:00:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202828906156 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | BABY-ROSH (AL) |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:59:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202829891669 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Vegrace |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 12:00:32 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202828983851 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:59:27 |
@@ -137,21 +137,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 12:00:54 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202830790181 |
+| Players | 1/8 |
+| Host Name | zero |
+| Region | BRAZIL |
+| Lobby Creation Time | Saturday, November 4, 2023 12:01:35 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202827130106 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Qnce |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:57:14 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505202828767899 |
-| Players | 9/10 |
-| Host Name | BadMove |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 11:59:12 |
 
 
