@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202974189878 |
-| Players | 7/8 |
+| Players | 4/8 |
 | Host Name | Священная Рана |
 | Region | AUSTRIA |
 | Lobby Creation Time | Saturday, November 4, 2023 14:30:46 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202973289447 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | let's win |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:29:57 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505202972154715 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | псих :-') |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 14:28:54 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202975753459 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | XAin'tGonnaGiveIt |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:32:13 |
