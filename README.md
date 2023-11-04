@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203018431382 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | чпок |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:12:16 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 15:11:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505203017189365 |
-| Players | 15/15 |
-| Host Name | отставной |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 15:11:08 |
+| Lobby ID | 28505203018761309 |
+| Players | 2/24 |
+| Host Name | ... |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 15:12:35 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,19 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203018761313 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:12:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203018761309 |
-| Players | 2/24 |
-| Host Name | ... |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 15:12:35 |
+| Lobby ID | 28505203019112581 |
+| Players | 3/8 |
+| Host Name | Игорь Авраалович |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 4, 2023 15:12:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203019203328 |
+| Players | 2/8 |
+| Host Name | chort |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 15:13:00 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ꜱʏꜰʏ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:09:00 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505203019043109 |
+| Players | 1/5 |
+| Host Name | Jeb1 |
+| Region | JAPAN |
+| Lobby Creation Time | Saturday, November 4, 2023 15:12:51 |
 
 
