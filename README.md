@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202801447441 |
-| Players | 2/15 |
-| Host Name | XDD |
-| Region | PERU |
-| Lobby Creation Time | Saturday, November 4, 2023 11:25:01 |
+| Lobby ID | 28505202801366155 |
+| Players | 4/24 |
+| Host Name | 乱战先锋专用帐号 |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 11:24:54 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202798738243 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Jesse Pinkman |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 11:21:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202800065974 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Федеральный ГУСЬ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:23:10 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202800706660 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Deza |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:24:02 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 11:24:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202801366155 |
-| Players | 3/24 |
-| Host Name | 乱战先锋专用帐号 |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 11:24:54 |
+| Lobby ID | 28505202794852445 |
+| Players | 14/15 |
+| Host Name | Umm? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 11:15:59 |
 
 
 |  | epic_boss_fight_nightmare |
