@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203052199370 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | lose feed peru |
 | Region | CHILE |
 | Lobby Creation Time | Saturday, November 4, 2023 15:43:09 |
@@ -59,37 +59,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203055482282 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | .tv/k1ngboom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:46:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203055536467 |
-| Players | 4/8 |
-| Host Name | Never say me no? |
+| Lobby ID | 28505203055628450 |
+| Players | 1/10 |
+| Host Name | Wiz |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 15:46:13 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505203055531501 |
-| Players | 1/24 |
-| Host Name | Protagonist |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 15:46:13 |
+| Lobby Creation Time | Saturday, November 4, 2023 15:46:18 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203055511919 |
-| Players | 1/10 |
-| Host Name | AMATERASU |
+| Lobby ID | 28505203055623231 |
+| Players | 2/10 |
+| Host Name | tarım makinesi |
+| Region | AUSTRIA |
+| Lobby Creation Time | Saturday, November 4, 2023 15:46:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203055693994 |
+| Players | 1/8 |
+| Host Name | Me tocan ratas en mi equipo} |
+| Region | PERU |
+| Lobby Creation Time | Saturday, November 4, 2023 15:46:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203055740926 |
+| Players | 2/8 |
+| Host Name | ? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 15:46:12 |
+| Lobby Creation Time | Saturday, November 4, 2023 15:46:24 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Особо опасен |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 15:45:37 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505203055647921 |
+| Players | 1/10 |
+| Host Name | Alfy Fox |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 15:46:19 |
 
 
