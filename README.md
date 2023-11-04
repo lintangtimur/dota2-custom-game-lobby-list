@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204186934480 |
-| Players | 5/24 |
+| Players | 10/24 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 06:17:54 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 06:28:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204193267586 |
-| Players | 8/10 |
-| Host Name | руский?В ПАКЕТ! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 06:27:42 |
+| Lobby ID | 28505204193992898 |
+| Players | 1/8 |
+| Host Name | пуртыга |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 06:28:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204178414376 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | nuTs |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, November 5, 2023 06:05:07 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204192735537 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ПРОКЛЯТИЕ ГАБЕНА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:26:52 |
@@ -128,22 +128,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 06:28:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204193992898 |
-| Players | 1/8 |
-| Host Name | пуртыга |
+| Lobby ID | 28505204194085657 |
+| Players | 4/10 |
+| Host Name | GodOfWar |
 | Region | JAPAN |
-| Lobby Creation Time | Sunday, November 5, 2023 06:28:51 |
+| Lobby Creation Time | Sunday, November 5, 2023 06:29:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204192140259 |
-| Players | 14/15 |
-| Host Name | yung tax return |
+| Lobby ID | 28505204194142856 |
+| Players | 2/15 |
+| Host Name | Имбецил |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 06:25:56 |
+| Lobby Creation Time | Sunday, November 5, 2023 06:29:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204194147549 |
+| Players | 1/15 |
+| Host Name | Смайл фейс |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 06:29:06 |
 
 
 |  | epic_boss_fight_normal |
