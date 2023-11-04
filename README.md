@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202801366155 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:24:54 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202798738243 |
-| Players | 19/24 |
-| Host Name | Jesse Pinkman |
-| Region | CHILE |
-| Lobby Creation Time | Saturday, November 4, 2023 11:21:22 |
+| Lobby ID | 28505202802623057 |
+| Players | 1/10 |
+| Host Name | Kick.com/lumaid |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 11:26:32 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202802040941 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Bonitos y gorditos hijos de puta |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:25:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202802100631 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Adrenaline Junkie |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 11:25:52 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202800706660 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Deza |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 11:24:02 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202796985397 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | ФОРТАНУЛО ЕБАТЬ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 11:18:56 |
@@ -94,38 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505202798932080 |
-| Players | 14/15 |
-| Host Name | Karl |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, November 4, 2023 11:21:38 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505202802186736 |
-| Players | 1/24 |
-| Host Name | ...... |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 11:25:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28505202801960762 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Sofuer |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 11:25:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202802561928 |
-| Players | 1/8 |
-| Host Name | Kick.com/lumaid |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 11:26:28 |
 
 
 |  | epic_boss_fight_nightmare |
