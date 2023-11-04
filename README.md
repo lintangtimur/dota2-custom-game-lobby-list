@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202809061131 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Inahaaaaaaan!!!! |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 4, 2023 11:34:54 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202950064697 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Egotheist |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:08:09 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505202950057020 |
-| Players | 1/24 |
-| Host Name | 95-A |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 14:08:08 |
+| Lobby ID | 28505202950867627 |
+| Players | 3/24 |
+| Host Name | Lulalelilo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 14:08:54 |
 
 
 |  | ot3_jungle_quintet |
@@ -131,8 +131,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202949803507 |
-| Players | 2/24 |
-| Host Name | Lulalelilo |
+| Players | 1/24 |
+| Host Name | (-_-) dragon rider (-_-) |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 14:07:54 |
 
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202950488273 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | [R][O][A][M] |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 14:08:33 |
