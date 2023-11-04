@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202966802702 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Gigachad thundercock |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 4, 2023 14:23:55 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202993757102 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 14:49:09 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202996097796 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Shulton 2.0 |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 14:51:22 |
@@ -137,6 +137,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 14:51:43 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505202996583952 |
+| Players | 1/8 |
+| Host Name | SSàmūrãÎcsgorun |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 14:51:50 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202971238412 |
@@ -158,18 +167,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202989675971 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Semen Supervisor |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 14:45:21 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505202996495346 |
-| Players | 1/5 |
-| Host Name | ドラゴン |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 14:51:45 |
 
 
