@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202932966312 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Топ 100 Антарктиды |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:51:38 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:10:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202925820917 |
-| Players | 14/15 |
-| Host Name | Boomhauer |
-| Region | USWEST |
-| Lobby Creation Time | Saturday, November 4, 2023 13:44:39 |
+| Lobby ID | 28505202933091591 |
+| Players | 3/8 |
+| Host Name | scumchav |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 13:51:46 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202930312277 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ri |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 13:49:02 |
@@ -119,13 +119,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 13:51:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505202933091591 |
-| Players | 1/8 |
-| Host Name | scumchav |
+| Lobby ID | 28505202933311939 |
+| Players | 2/10 |
+| Host Name | L-A-K-E-R |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 13:51:46 |
+| Lobby Creation Time | Saturday, November 4, 2023 13:51:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505202929893911 |
+| Players | 14/15 |
+| Host Name | SHVEPS |
+| Region | USEAST |
+| Lobby Creation Time | Saturday, November 4, 2023 13:48:37 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -140,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505202931921794 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Rebecca |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 13:50:37 |
