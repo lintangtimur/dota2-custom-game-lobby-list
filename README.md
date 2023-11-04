@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505202892487643 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Матье Бал |
 | Region | AUSTRIA |
 | Lobby Creation Time | Saturday, November 4, 2023 13:10:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505202883079911 |
-| Players | 9/24 |
+| Players | 6/24 |
 | Host Name | kels |
 | Region | JAPAN |
 | Lobby Creation Time | Saturday, November 4, 2023 13:00:02 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202891774084 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Egotheist |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:09:47 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202891663751 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | El chipirón enrojao |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 13:09:40 |
@@ -104,8 +104,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505202889691504 |
-| Players | 3/15 |
-| Host Name | Топ 100 Антарктиды |
+| Players | 2/15 |
+| Host Name | Wahaha! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 13:07:31 |
 
@@ -128,13 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 13:11:22 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505202887766709 |
-| Players | 22/24 |
-| Host Name | Phill Dz |
-| Region | USEAST |
-| Lobby Creation Time | Saturday, November 4, 2023 13:05:24 |
+| Lobby ID | 28505202893519482 |
+| Players | 1/8 |
+| Host Name | Топ 100 Антарктиды |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 13:11:40 |
 
 
 |  | epic_boss_fight_nightmare |
