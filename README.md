@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203958990724 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Ryan Gosling |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 01:58:12 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203963800667 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Swag под себя |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 02:02:17 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203963022720 |
-| Players | 4/15 |
+| Players | 1/15 |
 | Host Name | Blake |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 02:01:37 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203963518078 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | D丨乇 千ㄖ尺 ㄚㄖㄩ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 02:02:02 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203963479267 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | prayforursins |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 02:02:00 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203961489276 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Mr.Popo |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 02:00:19 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203960263360 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | merme |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 01:59:17 |
@@ -185,7 +185,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203964174255 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | GasPoll |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 02:02:36 |
@@ -202,11 +202,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203964034765 |
+| Lobby ID | 28505203964341015 |
+| Players | 2/8 |
+| Host Name | riojundsghuhiodr |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, November 5, 2023 02:02:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203964375474 |
+| Players | 1/15 |
+| Host Name | , |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 02:02:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203964415340 |
 | Players | 1/8 |
-| Host Name | fade away |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 02:02:29 |
+| Host Name | фрин |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, November 5, 2023 02:02:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203964463228 |
+| Players | 1/8 |
+| Host Name | Puk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 02:02:51 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -239,19 +266,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505203959453781 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | .!. (-_-) .!. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 01:58:36 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505203964231119 |
-| Players | 1/5 |
-| Host Name | Leviathan |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 02:02:39 |
 
 
 |  | epic_boss_fight_normal |
