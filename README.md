@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505202966802702 |
 | Players | 4/24 |
-| Host Name | Barasa |
+| Host Name | Gigachad thundercock |
 | Region | DUBAI |
 | Lobby Creation Time | Saturday, November 4, 2023 14:23:55 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505202979574870 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Zanzi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 14:35:49 |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | [R][O][A][M] |
 | Region | PERU |
 | Lobby Creation Time | Saturday, November 4, 2023 14:31:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505202975924930 |
-| Players | 2/8 |
-| Host Name | TSpirit.Alen |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 14:32:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505202978155599 |
-| Players | 10/15 |
-| Host Name | Топ 100 Антарктиды |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 14:34:29 |
 
 
 |  | ot3_necropolis_ffa |
