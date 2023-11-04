@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203131853788 |
-| Players | 3/10 |
-| Host Name | Кiт Члiнокрад |
+| Lobby ID | 28505203134861877 |
+| Players | 6/10 |
+| Host Name | 你是个失败者 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:56:50 |
+| Lobby Creation Time | Saturday, November 4, 2023 16:59:41 |
 
 
 |  | ot3_gardens_duo |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 16:54:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505203133831869 |
-| Players | 9/15 |
-| Host Name | NN✪Kyoko |
+| Lobby ID | 28505203135976222 |
+| Players | 1/10 |
+| Host Name | Qsaar |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:58:42 |
+| Lobby Creation Time | Saturday, November 4, 2023 17:00:46 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505203134921562 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:59:44 |
@@ -128,6 +128,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 17:00:34 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505203135906137 |
+| Players | 4/8 |
+| Host Name | 322 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Saturday, November 4, 2023 17:00:42 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505203136043492 |
+| Players | 1/24 |
+| Host Name | better |
+| Region | DUBAI |
+| Lobby Creation Time | Saturday, November 4, 2023 17:00:50 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505203030868319 |
@@ -140,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28505203110474019 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | Death Is My Bitch |
 | Region | SINGAPORE |
 | Lobby Creation Time | Saturday, November 4, 2023 16:36:48 |
