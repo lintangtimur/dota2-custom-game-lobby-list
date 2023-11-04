@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203083471171 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | ✿GOJO SATORU✿ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:11:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203083619471 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Hedgehog |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:11:48 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203081087688 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | СОЗДАН ДЛЯ ПОБЕД |
 | Region | USEAST |
 | Lobby Creation Time | Saturday, November 4, 2023 16:09:28 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505203080879957 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Nacho |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:09:17 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505203082472913 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Sam Rollingballs [1,2] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:10:45 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505203085576690 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Gay ruin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Saturday, November 4, 2023 16:13:35 |
@@ -130,10 +130,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203085636529 |
-| Players | 3/8 |
-| Host Name | Героиновая блядь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 16:13:38 |
+| Lobby ID | 28505203085783717 |
+| Players | 1/8 |
+| Host Name | SodaZ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 16:13:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505203069193207 |
+| Players | 14/15 |
+| Host Name | XBOX SERIES Z |
+| Region | SINGAPORE |
+| Lobby Creation Time | Saturday, November 4, 2023 15:58:37 |
 
 
