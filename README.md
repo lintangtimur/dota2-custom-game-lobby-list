@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 17:57:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505203166742453 |
-| Players | 9/10 |
-| Host Name | slayer007 |
+| Lobby ID | 28505203198619168 |
+| Players | 13/15 |
+| Host Name | добрый грибничек |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:30:11 |
+| Lobby Creation Time | Saturday, November 4, 2023 17:57:59 |
 
 
 |  | ot3_gardens_duo |
@@ -85,64 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505203198653937 |
-| Players | 6/8 |
-| Host Name | Colours |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Saturday, November 4, 2023 17:58:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203198619168 |
-| Players | 7/15 |
-| Host Name | добрый грибничек |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:57:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505203197939887 |
-| Players | 1/8 |
-| Host Name | dankur12 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:57:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505203199250365 |
-| Players | 2/24 |
-| Host Name | Salival |
-| Region | JAPAN |
-| Lobby Creation Time | Saturday, November 4, 2023 17:58:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505203193306130 |
-| Players | 14/15 |
-| Host Name | Свиное рыльце |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Saturday, November 4, 2023 17:53:30 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28505203195106348 |
-| Players | 4/7 |
-| Host Name | Death Is My Bitch |
-| Region | SINGAPORE |
-| Lobby Creation Time | Saturday, November 4, 2023 17:55:01 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28505203199243862 |
-| Players | 2/7 |
-| Host Name | momo |
+| Lobby ID | 28505203199475505 |
+| Players | 2/8 |
+| Host Name | SOsy JOpy |
 | Region | BRAZIL |
-| Lobby Creation Time | Saturday, November 4, 2023 17:58:31 |
+| Lobby Creation Time | Saturday, November 4, 2023 17:58:43 |
 
 
