@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204282169227 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 09:02:14 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 09:04:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204283500744 |
-| Players | 1/8 |
-| Host Name | Shizukano |
+| Lobby ID | 28505204283862840 |
+| Players | 4/15 |
+| Host Name | Hello Kitty <3 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 09:04:33 |
+| Lobby Creation Time | Sunday, November 5, 2023 09:05:10 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204282924507 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | bl7770 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:03:33 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204282882661 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Notamee弥登呂 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:03:29 |
@@ -108,6 +108,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GOOD GAME |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, November 5, 2023 08:57:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204283813906 |
+| Players | 3/8 |
+| Host Name | < blank > |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 09:05:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204283910762 |
+| Players | 1/15 |
+| Host Name | БОТ(!%:) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 09:05:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204283901110 |
+| Players | 2/8 |
+| Host Name | 悲しみ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 09:05:14 |
 
 
 |  | epic_boss_fight_nightmare |
