@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204264031376 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Cheater |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:30:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204262993533 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 08:28:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204264188292 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | DY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 08:31:06 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204264554529 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | she |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:31:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204263290670 |
-| Players | 14/15 |
-| Host Name | :D |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 08:29:31 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,12 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 08:31:49 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204264512970 |
-| Players | 1/5 |
-| Host Name | rosariomeloy |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, November 5, 2023 08:31:40 |
+| Lobby ID | 28505204264701897 |
+| Players | 1/24 |
+| Host Name | KONSTANTINE |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 08:31:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204263290670 |
+| Players | 14/15 |
+| Host Name | :D |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 08:29:31 |
 
 
