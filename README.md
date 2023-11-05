@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204297060656 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Platinum |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 09:26:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204297945787 |
-| Players | 1/15 |
-| Host Name | Trade commend |
+| Lobby ID | 28505204299497809 |
+| Players | 4/10 |
+| Host Name | Tike Myson |
 | Region | BRAZIL |
-| Lobby Creation Time | Sunday, November 5, 2023 09:27:45 |
+| Lobby Creation Time | Sunday, November 5, 2023 09:30:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204295749931 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Ripper |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 09:24:30 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204298797201 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | CA_AURIEL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:28:59 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204298877422 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | Movistar Perú |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:29:06 |
@@ -128,15 +128,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 09:29:53 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204299453204 |
-| Players | 3/15 |
-| Host Name | r0r0 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, November 5, 2023 09:29:57 |
-
-
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28505204284485512 |
@@ -149,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204296531791 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 09:25:41 |
