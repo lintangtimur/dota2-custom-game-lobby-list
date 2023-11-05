@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204275946544 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | medved hnedy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 08:51:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204277765264 |
-| Players | 1/24 |
-| Host Name | Amaraki |
+| Lobby ID | 28505204278109355 |
+| Players | 2/10 |
+| Host Name | Mai Sakurajima |
 | Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 08:54:38 |
+| Lobby Creation Time | Sunday, November 5, 2023 08:55:13 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204277947401 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Mute All Chat √ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:54:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204277043741 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Invincible under the Heavens |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:53:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204276256410 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 08:52:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204276891445 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Grapefruit: Slayer of Donkeys |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:53:08 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204277659152 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | "Pumopolis" |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:54:27 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ХОЧУ АПНУТЬ ММР |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:53:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204278087352 |
-| Players | 1/8 |
-| Host Name | Whats is love |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 08:55:11 |
 
 
 |  | epic_boss_fight_nightmare |
