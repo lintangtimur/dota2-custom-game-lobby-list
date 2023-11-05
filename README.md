@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204285541469 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | Ralph.KM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 09:08:02 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204288286503 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Richi Rage |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:12:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204288230160 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | q rico aprieta tu germa mano |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:12:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204287279333 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | CaeluMidnight |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 09:10:57 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204288207049 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | *смех* а потом пог |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:12:30 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204288008762 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Mango |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 09:12:10 |
@@ -122,10 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204288625494 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Oklahoma |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:13:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204288951863 |
+| Players | 2/10 |
+| Host Name | черти |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 09:13:42 |
 
 
 |  | epic_boss_fight_hard |
