@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204285541469 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Ralph.KM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 09:08:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204287207201 |
-| Players | 22/24 |
-| Host Name | Jasmine |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 09:10:50 |
+| Lobby ID | 28505204288286503 |
+| Players | 1/8 |
+| Host Name | Richi Rage |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 09:12:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204288230160 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | q rico aprieta tu germa mano |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:12:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204287279333 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | CaeluMidnight |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 09:10:57 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204286689794 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Saintless |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 09:09:58 |
@@ -122,19 +122,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204288207049 |
-| Players | 2/8 |
-| Host Name | sequence |
+| Players | 3/8 |
+| Host Name | *смех* а потом пог |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:12:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204288286503 |
-| Players | 1/8 |
-| Host Name | Richi Rage |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 09:12:37 |
 
 
 |  | epic_boss_fight_hard |
@@ -144,15 +135,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Евдокия |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:06:14 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505204288127374 |
-| Players | 1/10 |
-| Host Name | ДЕВОЧКА ИЗ АНИМЕ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 09:12:22 |
 
 
 |  | epic_boss_fight_normal |
