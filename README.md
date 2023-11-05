@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204263640952 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | P-JACK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:30:08 |
@@ -59,25 +59,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204263290670 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | :D |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:29:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204263827438 |
-| Players | 1/24 |
-| Host Name | DY |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, November 5, 2023 08:30:28 |
+| Lobby ID | 28505204263860459 |
+| Players | 7/15 |
+| Host Name | Mr.Stallin |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 08:30:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204263887425 |
+| Players | 1/8 |
+| Host Name | No cometas el crimen varón |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 08:30:34 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28505204262369723 |
-| Players | 5/7 |
+| Players | 6/7 |
 | Host Name | All-Muted |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:27:53 |
