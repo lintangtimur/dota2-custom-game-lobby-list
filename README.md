@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204251646115 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | < blank > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:08:50 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204251342027 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | しいんどうたないわだ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:08:18 |
@@ -59,28 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204251658998 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Ҝ丨几丂卄丨 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 08:08:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204251650635 |
-| Players | 2/10 |
-| Host Name | Gread |
-| Region | DUBAI |
-| Lobby Creation Time | Sunday, November 5, 2023 08:08:50 |
+| Lobby ID | 28505204251766721 |
+| Players | 2/15 |
+| Host Name | xpapaya |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 08:09:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204251674743 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | my.pp.hurt |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:08:53 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505204251731656 |
+| Players | 1/24 |
+| Host Name | Jordani Jovanovic |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 08:08:59 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fihed |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 08:05:56 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505204251775921 |
+| Players | 1/5 |
+| Host Name | Lao |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 08:09:03 |
 
 
