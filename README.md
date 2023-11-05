@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204278109355 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Mai Sakurajima |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:55:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204276256410 |
-| Players | 13/24 |
+| Players | 19/24 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 08:52:03 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204278553231 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Hipotenusa² |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:55:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204278605567 |
-| Players | 1/24 |
-| Host Name | StelioKontos |
+| Lobby ID | 28505204278774456 |
+| Players | 1/8 |
+| Host Name | isn't like holding to the center |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 08:56:04 |
+| Lobby Creation Time | Sunday, November 5, 2023 08:56:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,10 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204278314072 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Квас Секс Эскорт |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:55:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204278859251 |
+| Players | 1/15 |
+| Host Name | 24 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 08:56:29 |
 
 
 |  | epic_boss_fight_nightmare |
