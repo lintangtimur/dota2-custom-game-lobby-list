@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204278859251 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | 24 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:56:29 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204279231658 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | EMPEROR OF MANKIND |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 5, 2023 08:57:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204272185084 |
-| Players | 2/15 |
-| Host Name | Haigh in the Shkaigh |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, November 5, 2023 08:45:03 |
+| Lobby ID | 28505204279642708 |
+| Players | 2/8 |
+| Host Name | Gnoren |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 08:57:49 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 08:54:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204279180652 |
-| Players | 8/10 |
-| Host Name | Oklahoma |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 08:57:02 |
+| Lobby ID | 28505204276256410 |
+| Players | 22/24 |
+| Host Name | XAVY |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, November 5, 2023 08:52:03 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204279155916 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | ☠Ðeaŧђ△lέѕѕ☠ |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, November 5, 2023 08:57:00 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204276983078 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ilyuschaclysmic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:53:18 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505204279635067 |
+| Players | 2/24 |
+| Host Name | MrGrimm |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 08:57:48 |
 
 
 |  | epic_boss_fight_nightmare |
