@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 08:50:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204275160620 |
-| Players | 1/24 |
-| Host Name | Sunny |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, November 5, 2023 08:50:09 |
+| Lobby ID | 28505204274816805 |
+| Players | 5/10 |
+| Host Name | GabeN |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 08:49:33 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,22 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 08:50:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204274816805 |
-| Players | 4/10 |
-| Host Name | GabeN |
+| Lobby ID | 28505204275361369 |
+| Players | 1/24 |
+| Host Name | Yves Saint Laurent |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 08:49:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204275261314 |
-| Players | 1/15 |
-| Host Name | 陰陽 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 08:50:20 |
+| Lobby Creation Time | Sunday, November 5, 2023 08:50:30 |
 
 
 |  | epic_boss_fight_nightmare |
