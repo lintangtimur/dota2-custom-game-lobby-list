@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204267520852 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | 24 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:36:59 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204268639425 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | nlt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:38:56 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204268422079 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Mystog@n |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:38:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204267761350 |
-| Players | 7/8 |
-| Host Name | By: H☼†.7<inG-NighT |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 08:37:25 |
+| Lobby ID | 28505204268735260 |
+| Players | 2/24 |
+| Host Name | Nimbuzz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 08:39:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 08:38:59 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204268735260 |
-| Players | 1/24 |
-| Host Name | Nimbuzz |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 08:39:06 |
+| Lobby ID | 28505204268828824 |
+| Players | 1/15 |
+| Host Name | 65daysofstatic |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 08:39:16 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204268614740 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Fozzzey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 08:38:53 |
