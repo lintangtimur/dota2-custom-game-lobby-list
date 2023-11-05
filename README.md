@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204240896759 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Pancit Canton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 07:49:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204241109871 |
-| Players | 9/10 |
-| Host Name | bajando pepa en arconte |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 07:50:14 |
+| Lobby ID | 28505204241946279 |
+| Players | 1/15 |
+| Host Name | xpapaya |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 07:51:44 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204239881514 |
-| Players | 17/24 |
+| Players | 22/24 |
 | Host Name | MAIDERINO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:48:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204241825700 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Chaos_NIKE |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 07:51:31 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204241293014 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Gream_rip |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:50:34 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204240809564 |
-| Players | 5/15 |
+| Players | 3/15 |
 | Host Name | Qaz |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 07:49:42 |
@@ -104,18 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204241562911 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | HAHAHAHAHHA |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 07:51:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204241564801 |
-| Players | 12/15 |
-| Host Name | ЗОМБИ ЕБУТ |
-| Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:51:03 |
 
 
