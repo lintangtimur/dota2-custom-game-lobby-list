@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204296389407 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Yaga |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:25:28 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204295749931 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | Ripper |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 09:24:30 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204295668572 |
-| Players | 1/24 |
-| Host Name | Stunodevoli |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 09:24:22 |
+| Lobby ID | 28505204295008971 |
+| Players | 22/24 |
+| Host Name | Balanar |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, November 5, 2023 09:23:21 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 09:24:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204294400101 |
-| Players | 12/15 |
-| Host Name | I HATE STUPID KIDS |
+| Lobby ID | 28505204296956188 |
+| Players | 6/10 |
+| Host Name | сын турбо |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 09:22:25 |
+| Lobby Creation Time | Sunday, November 5, 2023 09:26:19 |
 
 
 |  | ot3_necropolis_ffa |
@@ -126,24 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 開ღ♥*♥ღ.開•*¨)開(? |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:26:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204296803897 |
-| Players | 1/10 |
-| Host Name | dnarud |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 09:26:05 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505204295008971 |
-| Players | 22/24 |
-| Host Name | Balanar |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, November 5, 2023 09:23:21 |
 
 
 |  | epic_boss_fight_hard |
@@ -189,5 +171,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Cat Rangoons |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 09:22:40 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505204297046038 |
+| Players | 1/5 |
+| Host Name | 龍山精神病院院长 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Sunday, November 5, 2023 09:26:28 |
 
 
