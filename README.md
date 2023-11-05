@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204296389407 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Yaga |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:25:28 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204296051491 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | тайно дёрнул |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:24:57 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204294400101 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:22:25 |
@@ -122,19 +122,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204296769024 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 開ღ♥*♥ღ.開•*¨)開(? |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:26:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204296793345 |
-| Players | 1/8 |
-| Host Name | puchaoun |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, November 5, 2023 09:26:04 |
 
 
 |  | ot3_gardens_duo |
@@ -144,6 +135,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | dnarud |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:26:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505204295008971 |
+| Players | 22/24 |
+| Host Name | Balanar |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, November 5, 2023 09:23:21 |
 
 
 |  | epic_boss_fight_hard |
@@ -171,5 +171,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | YoruNeko |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, November 5, 2023 09:25:44 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505204296881804 |
+| Players | 1/10 |
+| Host Name | heheehe |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, November 5, 2023 09:26:12 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505204294570742 |
+| Players | 9/10 |
+| Host Name | Cat Rangoons |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 09:22:40 |
 
 
