@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204223036178 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | LooPer |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:18:14 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204222400866 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | 21Savage |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:17:07 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204222748993 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Anri |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 07:17:44 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204223686975 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 07:19:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204223302078 |
-| Players | 7/8 |
-| Host Name | глубоко плаваю |
+| Lobby ID | 28505204223866239 |
+| Players | 1/15 |
+| Host Name | Cheater |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 07:18:43 |
+| Lobby Creation Time | Sunday, November 5, 2023 07:19:43 |
 
 
 |  | epic_boss_fight_nightmare |
