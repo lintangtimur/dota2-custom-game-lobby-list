@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505204234781366 |
 | Players | 7/8 |
-| Host Name | COSMO EL GATO |
+| Host Name | LXST |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:39:04 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204234109645 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Napoléon Bonaparte |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 07:37:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204234986058 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | тайно дёрнул |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:39:26 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204234704230 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | LganteKLK-giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:38:56 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204232766340 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:35:30 |
@@ -131,19 +131,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204235124830 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Cheater |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:39:41 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204235168633 |
-| Players | 1/24 |
-| Host Name | Boxodon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 07:39:45 |
+| Lobby ID | 28505204235264942 |
+| Players | 2/10 |
+| Host Name | Full-Time Griefer |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 07:39:55 |
 
 
 |  | epic_boss_fight_nightmare |
