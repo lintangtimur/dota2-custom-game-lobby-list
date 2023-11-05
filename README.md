@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204239881514 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | MAIDERINO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:48:04 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 04:30:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204239914929 |
-| Players | 1/24 |
-| Host Name | JAustin |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 07:48:07 |
+| Lobby ID | 28505204241708484 |
+| Players | 3/8 |
+| Host Name | P-JACK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 07:51:18 |
 
 
 |  | ot3_desert_octet |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204241564801 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | ЗОМБИ ЕБУТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:51:03 |
@@ -137,13 +137,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 07:51:03 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204241818062 |
+| Players | 1/15 |
+| Host Name | Chefsito |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 07:51:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204241825700 |
+| Players | 5/15 |
+| Host Name | Chaos_NIKE |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 07:51:31 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204241708484 |
-| Players | 3/8 |
-| Host Name | P-JACK |
+| Lobby ID | 28505204241826265 |
+| Players | 2/8 |
+| Host Name | Need? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 07:51:18 |
+| Lobby Creation Time | Sunday, November 5, 2023 07:51:31 |
 
 
 |  | epic_boss_fight_nightmare |
