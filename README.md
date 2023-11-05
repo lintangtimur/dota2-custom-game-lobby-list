@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204254025487 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | 22AcaciaAvenue |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:13:00 |
@@ -49,20 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204254390480 |
-| Players | 1/15 |
-| Host Name | killamonjaro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 08:13:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28505204254388400 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | em0k1d2005 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:13:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204254666251 |
+| Players | 3/8 |
+| Host Name | P-JACK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 08:14:06 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204254559933 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | By: H☼†.7<inG-NighT |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:13:55 |
@@ -85,20 +85,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204254628327 |
-| Players | 1/10 |
-| Host Name | kaneki |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 08:14:02 |
+| Lobby ID | 28505204254618072 |
+| Players | 2/10 |
+| Host Name | COSMONAUTA💩💩 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 08:14:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505204254678585 |
+| Players | 2/24 |
+| Host Name | Jasmine |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 08:14:08 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204254618072 |
-| Players | 1/10 |
-| Host Name | COSMONAUTA💩💩 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 08:14:01 |
+| Lobby ID | 28505204254715154 |
+| Players | 2/10 |
+| Host Name | DeepThroat the Boot! SNACkGod |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 08:14:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204252858202 |
+| Players | 9/10 |
+| Host Name | Тайно Дернул |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 08:10:56 |
 
 
 |  | epic_boss_fight_nightmare |
