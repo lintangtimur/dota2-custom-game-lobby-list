@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204258532409 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:21:03 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204262557662 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Full-Time Griefer |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:28:13 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204260525075 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | dontflame |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:24:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204258960758 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Hope |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:21:48 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204261773416 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | БОТ Гэрри |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:26:48 |
@@ -77,19 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204261679508 |
-| Players | 8/15 |
+| Players | 6/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:26:39 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204262492708 |
-| Players | 1/24 |
-| Host Name | CA_AURIEL |
+| Lobby ID | 28505204262645139 |
+| Players | 1/10 |
+| Host Name | Church Of The One |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 08:28:06 |
+| Lobby Creation Time | Sunday, November 5, 2023 08:28:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204262673841 |
+| Players | 2/10 |
+| Host Name | Blutch |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, November 5, 2023 08:28:25 |
 
 
 |  | epic_boss_fight_hard |
