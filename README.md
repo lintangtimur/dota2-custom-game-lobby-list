@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204264188292 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | DY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 08:31:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204266331921 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Mika |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 08:34:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204266832370 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | Vάιŝ♡√•∆ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:35:46 |
@@ -67,28 +67,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204266450345 |
-| Players | 7/10 |
-| Host Name | larry capolla |
+| Lobby ID | 28505204266940802 |
+| Players | 2/10 |
+| Host Name | EL PADRASTO DE NEHUD |
 | Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 08:35:05 |
+| Lobby Creation Time | Sunday, November 5, 2023 08:35:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204266975604 |
+| Players | 3/8 |
+| Host Name | ROCKITA |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 08:36:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505204266915492 |
+| Players | 1/24 |
+| Host Name | S T R O N G |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 08:35:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204266585711 |
-| Players | 11/15 |
-| Host Name | Hipotenusa² |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 08:35:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204266634328 |
-| Players | 8/15 |
-| Host Name | kodla |
+| Lobby ID | 28505204266936760 |
+| Players | 3/15 |
+| Host Name | katashanez |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 08:35:25 |
+| Lobby Creation Time | Sunday, November 5, 2023 08:35:57 |
 
 
