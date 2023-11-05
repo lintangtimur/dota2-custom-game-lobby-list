@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204295298531 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ♿🧠 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 09:23:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204294739176 |
-| Players | 8/10 |
-| Host Name | lol |
+| Lobby ID | 28505204295749931 |
+| Players | 2/24 |
+| Host Name | Ripper |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 09:22:56 |
+| Lobby Creation Time | Sunday, November 5, 2023 09:24:30 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204286154766 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | 削茎疼 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:09:04 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204295008971 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | Balanar |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 09:23:21 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204292885632 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Eggtarts |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, November 5, 2023 09:20:00 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 09:23:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204295223338 |
-| Players | 14/15 |
-| Host Name | jhejo96 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 09:23:41 |
+| Lobby ID | 28505204295730515 |
+| Players | 1/24 |
+| Host Name | RiftBreaker |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, November 5, 2023 09:24:28 |
 
 
 |  | ot3_desert_octet |
@@ -153,15 +153,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | xpapaya |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:24:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204295691066 |
-| Players | 3/15 |
-| Host Name | T.R. LEVRAM |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, November 5, 2023 09:24:24 |
 
 
 |  | ot3_desert_octet |
