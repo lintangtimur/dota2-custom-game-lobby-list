@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204224702494 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | < blank > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:21:12 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204224770179 |
-| Players | 5/15 |
-| Host Name | Jesu3fois - TTV |
+| Players | 7/15 |
+| Host Name | FreddySoFluff |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:21:19 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204223203901 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Hope |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:18:32 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 04:30:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204224032157 |
-| Players | 5/10 |
-| Host Name | XxTuviejoxX |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 07:20:01 |
+| Lobby ID | 28505204224917871 |
+| Players | 1/8 |
+| Host Name | Ебатель |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 07:21:34 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204224722805 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | APONEUROSIS |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:21:14 |
@@ -76,17 +76,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204224829682 |
+| Lobby ID | 28505204224893745 |
 | Players | 1/24 |
-| Host Name | Corin |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, November 5, 2023 07:21:25 |
+| Host Name | TransQuil |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 07:21:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204224896809 |
+| Players | 7/15 |
+| Host Name | Golf GTI |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 07:21:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204224951713 |
+| Players | 1/8 |
+| Host Name | Jesu3fois - TTV |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 07:21:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204224470002 |
+| Players | 7/8 |
+| Host Name | волтер уайт |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 07:20:47 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505204223979895 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Koledos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:19:56 |
