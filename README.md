@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204291493398 |
-| Players | 2/10 |
-| Host Name | Nidals17(Road to 1k MMR) |
+| Lobby ID | 28505204291709043 |
+| Players | 1/8 |
+| Host Name | < blank > |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 09:17:47 |
+| Lobby Creation Time | Sunday, November 5, 2023 09:18:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204291134727 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Jivchik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:17:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204286154766 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Q17.Larry |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:09:04 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204291461311 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | XdLink |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 09:17:43 |
@@ -77,19 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204291452913 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | Who Doesn't Love Butters! |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 09:17:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204291709043 |
-| Players | 1/8 |
-| Host Name | < blank > |
+| Lobby ID | 28505204291840548 |
+| Players | 3/10 |
+| Host Name | Nidals17(Road to 1k MMR) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 09:18:07 |
+| Lobby Creation Time | Sunday, November 5, 2023 09:18:20 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505204291857477 |
+| Players | 1/24 |
+| Host Name | :O |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 09:18:21 |
 
 
 |  | epic_boss_fight_hard |
