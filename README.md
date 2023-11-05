@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204291452913 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Who Doesn't Love Butters! |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 09:17:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204292885632 |
-| Players | 7/24 |
+| Players | 5/24 |
 | Host Name | noob team |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, November 5, 2023 09:20:00 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204292971460 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 430 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:20:08 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204292977360 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | nasa yuzaki |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:20:09 |
@@ -117,6 +117,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 24 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 09:17:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505204290936824 |
+| Players | 23/24 |
+| Host Name | ♥Sєє Tιηн♥ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 09:16:53 |
 
 
 |  | epic_boss_fight_hard |
