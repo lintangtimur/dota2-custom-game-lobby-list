@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204232727847 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | IS THIS THE REAL LIFE? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 07:35:26 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204228318965 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Ralph.KM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 07:27:37 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 04:30:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204232587631 |
-| Players | 1/24 |
-| Host Name | Dan91 |
+| Lobby ID | 28505204232785148 |
+| Players | 1/10 |
+| Host Name | noot |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 07:35:11 |
+| Lobby Creation Time | Sunday, November 5, 2023 07:35:32 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204232480918 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | gloryus |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 07:34:59 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204232737305 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | аджичный монстр |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:35:27 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204232608566 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | WeeWee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:35:13 |
@@ -113,8 +113,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204232364269 |
-| Players | 6/8 |
-| Host Name | Napoléon Bonaparte |
+| Players | 7/8 |
+| Host Name | Х/\H V $OLO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 07:34:47 |
 
@@ -128,6 +128,60 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 07:33:25 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204232766340 |
+| Players | 1/8 |
+| Host Name | Kukurudza Striptizerka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 07:35:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204232770009 |
+| Players | 4/8 |
+| Host Name | Church Of The One |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 07:35:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204232826271 |
+| Players | 3/10 |
+| Host Name | Teniente roca |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 07:35:36 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204231373428 |
+| Players | 14/15 |
+| Host Name | У Ш А Н |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 07:33:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204232846095 |
+| Players | 3/15 |
+| Host Name | РЫБА ФУГУ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 07:35:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204232853659 |
+| Players | 1/15 |
+| Host Name | xpapaya |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 07:35:39 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204230333686 |
@@ -139,10 +193,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505204232752153 |
+| Lobby ID | 28505204232851200 |
 | Players | 1/5 |
 | Host Name | nyThanh |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 07:35:28 |
+| Lobby Creation Time | Sunday, November 5, 2023 07:35:39 |
 
 
