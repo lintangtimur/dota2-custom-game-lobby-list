@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204296051491 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | тайно дёрнул |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:24:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204286154766 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 削茎疼 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:09:04 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204295693057 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 09:24:25 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204296769024 |
-| Players | 8/24 |
+| Players | 14/24 |
 | Host Name | 開ღ♥*♥ღ.開•*¨)開(? |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:26:02 |
@@ -137,6 +137,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 09:27:08 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204297623554 |
+| Players | 2/8 |
+| Host Name | »Rewrite] |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 09:27:17 |
+
+
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28505204284485512 |
@@ -149,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204296531791 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 09:25:41 |
@@ -176,7 +185,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204294570742 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Cat Rangoons |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 09:22:40 |
