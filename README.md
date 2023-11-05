@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204220752274 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Хищник доты |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:14:11 |
@@ -83,22 +83,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 07:17:16 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204222078927 |
+| Players | 6/10 |
+| Host Name | RHYTHM TA |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, November 5, 2023 07:16:33 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204222015072 |
+| Players | 1/10 |
+| Host Name | ove |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 07:16:26 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204222479321 |
-| Players | 13/15 |
-| Host Name | Devil Wears Prada |
+| Lobby ID | 28505204222722731 |
+| Players | 2/15 |
+| Host Name | ßęşĕĺäŝĩý Ğąž |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 07:17:16 |
+| Lobby Creation Time | Sunday, November 5, 2023 07:17:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204222633620 |
-| Players | 1/15 |
-| Host Name | ......... |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, November 5, 2023 07:17:32 |
+| Lobby ID | 28505204222758311 |
+| Players | 3/10 |
+| Host Name | ТОП-1 ПОРЯДОЧНОСТИ ЕВРОПЫ |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, November 5, 2023 07:17:45 |
 
 
 |  | epic_boss_fight_nightmare |
