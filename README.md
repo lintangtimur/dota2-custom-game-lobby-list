@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204266832370 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Vάιŝ♡√•∆ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:35:46 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204267097309 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Veneca Positiva♥ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:36:14 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204267380361 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | lost |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, November 5, 2023 08:36:44 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 08:37:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204266936760 |
-| Players | 14/15 |
-| Host Name | katashanez |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 08:35:57 |
+| Lobby ID | 28505204267761350 |
+| Players | 1/8 |
+| Host Name | By: H☼†.7<inG-NighT |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 08:37:25 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204267076168 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Ouch! |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:36:12 |
@@ -119,21 +119,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 08:37:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204267761350 |
-| Players | 1/8 |
-| Host Name | By: H☼†.7<inG-NighT |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 08:37:25 |
+| Lobby ID | 28505204266936760 |
+| Players | 14/15 |
+| Host Name | katashanez |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 08:35:57 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505204267872947 |
-| Players | 1/5 |
+| Lobby ID | 28505204267996360 |
+| Players | 1/10 |
 | Host Name | Artx |
 | Region | USWEST |
-| Lobby Creation Time | Sunday, November 5, 2023 08:37:36 |
+| Lobby Creation Time | Sunday, November 5, 2023 08:37:49 |
 
 
