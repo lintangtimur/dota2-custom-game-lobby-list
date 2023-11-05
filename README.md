@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204291287326 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Church Of The One |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:17:27 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 09:17:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204290230311 |
-| Players | 2/8 |
-| Host Name | < blank > |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 09:15:45 |
+| Lobby ID | 28505204287591885 |
+| Players | 8/10 |
+| Host Name | Llamaloco |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, November 5, 2023 09:11:28 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204290936824 |
-| Players | 11/24 |
+| Players | 9/24 |
 | Host Name | ♥Sєє Tιηн♥ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:16:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204286154766 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Q17.Larry |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:09:04 |
@@ -68,10 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204291254894 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | 14K |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:17:23 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505204291452913 |
+| Players | 4/24 |
+| Host Name | Who Doesn't Love Butters! |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 09:17:43 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505204291461311 |
+| Players | 4/24 |
+| Host Name | XdLink |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 09:17:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204291493398 |
+| Players | 2/10 |
+| Host Name | Love |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 09:17:47 |
 
 
 |  | epic_boss_fight_hard |
@@ -90,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ДЕВОЧКА ИЗ АНИМЕ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:12:58 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505204291304405 |
-| Players | 1/5 |
-| Host Name | Chypakrayshan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 09:17:28 |
 
 
