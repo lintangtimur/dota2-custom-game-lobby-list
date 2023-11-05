@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204260230994 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Hanako |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:24:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204260652704 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | МАРАТ КЛУБНИКА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:24:49 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 08:21:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204260460970 |
-| Players | 12/15 |
-| Host Name | Saint Piсят Два |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 08:24:29 |
+| Lobby ID | 28505204260915447 |
+| Players | 1/24 |
+| Host Name | minmin |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 08:25:17 |
 
 
 |  | epic_boss_fight_nightmare |
