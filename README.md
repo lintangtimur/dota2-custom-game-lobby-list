@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204293402314 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | ScorpioN |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:20:50 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204293496748 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | черти |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:20:59 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204292885632 |
-| Players | 6/24 |
-| Host Name | noob team |
+| Players | 4/24 |
+| Host Name | TransQuil |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, November 5, 2023 09:20:00 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204292954930 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | Movistar Perú |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:20:07 |
@@ -135,6 +135,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 09:21:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204293891848 |
+| Players | 2/15 |
+| Host Name | Struggle |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 09:21:37 |
 
 
 |  | epic_boss_fight_hard |
