@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204288951863 |
+| Lobby ID | 28505204287591885 |
 | Players | 8/10 |
-| Host Name | Грелка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 09:13:42 |
+| Host Name | Llamaloco |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, November 5, 2023 09:11:28 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204289401726 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Solo estoy pasando el rato |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:14:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204289592353 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | bajando pepa |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:14:44 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204289740961 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | ABSOLUTE 2023 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:14:59 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204289858284 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Chaos_NIKE |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 09:15:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204287591885 |
-| Players | 8/10 |
-| Host Name | Llamaloco |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, November 5, 2023 09:11:28 |
 
 
 |  | epic_boss_fight_hard |
