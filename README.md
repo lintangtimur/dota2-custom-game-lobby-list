@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204250619392 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 08:07:02 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204252915129 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | sorry bro i am not stupid |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:11:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204252603582 |
-| Players | 9/10 |
-| Host Name | InjectVenom |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 08:10:30 |
+| Lobby ID | 28505204249808780 |
+| Players | 23/24 |
+| Host Name | AyEfKay |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 08:05:37 |
 
 
 |  | ot3_desert_octet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204252281117 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | isn't like holding to the center |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:09:56 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204253101339 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Qwefir |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:11:22 |
