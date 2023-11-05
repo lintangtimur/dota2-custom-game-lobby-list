@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204259155138 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | SDVDS |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 5, 2023 08:22:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204258723910 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | ♥Tocoshly♥ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:21:23 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204259435885 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | CEO OF SEX |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:22:39 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204259367106 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Silverchild habbibi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:22:32 |
@@ -119,10 +119,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 08:22:51 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204259663040 |
+| Players | 1/10 |
+| Host Name | Sooyaaa___ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 08:23:03 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204256522826 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Booberries |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:17:25 |
