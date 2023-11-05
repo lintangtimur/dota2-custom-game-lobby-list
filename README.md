@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204214752877 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Purple Star |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:03:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204214749539 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | JAustin |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:03:31 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204214829678 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | испытываю бога |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:03:39 |
@@ -104,27 +104,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204214723738 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Kill 'Em All |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:03:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204214440794 |
-| Players | 13/15 |
-| Host Name | Bjǫrn |
+| Lobby ID | 28505204215066374 |
+| Players | 6/8 |
+| Host Name | Ruby da Cherry |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 07:02:57 |
+| Lobby Creation Time | Sunday, November 5, 2023 07:04:04 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505204215003914 |
-| Players | 1/5 |
-| Host Name | ㄒ卂卩ㄖ4乇Ҝ |
+| Lobby ID | 28505204215109937 |
+| Players | 2/5 |
+| Host Name | All-Muted |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 07:03:58 |
+| Lobby Creation Time | Sunday, November 5, 2023 07:04:09 |
 
 
