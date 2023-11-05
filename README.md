@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204267520852 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | 24 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:36:59 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204267076168 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Ouch! |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:36:12 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204268145704 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Голубь Геннадий |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:38:05 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204266832370 |
-| Players | 22/24 |
-| Host Name | Vάιŝ♡√•∆ |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 08:35:46 |
+| Lobby ID | 28505204268423859 |
+| Players | 2/24 |
+| Host Name | 小萌胖 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, November 5, 2023 08:38:34 |
 
 
 |  | ot3_jungle_quintet |
@@ -76,28 +76,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204267380361 |
-| Players | 1/8 |
-| Host Name | lost |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, November 5, 2023 08:36:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28505204267636340 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | супер серега |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:37:11 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204268082376 |
-| Players | 2/10 |
-| Host Name | HODL |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, November 5, 2023 08:37:58 |
+| Lobby ID | 28505204268422079 |
+| Players | 1/8 |
+| Host Name | Mystog@n |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 08:38:34 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505204268412526 |
+| Players | 1/5 |
+| Host Name | ПажИЛая_ЗеЛИбобКA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 08:38:33 |
 
 
