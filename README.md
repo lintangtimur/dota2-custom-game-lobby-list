@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204219579538 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | isn't like holding to the center |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 07:12:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204219110238 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | MATA CABROS |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:11:18 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204217762687 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:08:54 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204218457816 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | 76561198341866785 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:10:08 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204220233028 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Bald globe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:13:17 |
@@ -110,19 +110,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 07:12:17 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204220087511 |
-| Players | 1/15 |
-| Host Name | fart engineer |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, November 5, 2023 07:13:01 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204218840563 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | mel |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 07:10:49 |
