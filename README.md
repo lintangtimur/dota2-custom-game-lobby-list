@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 07:49:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204242600716 |
-| Players | 2/10 |
-| Host Name | kle. |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, November 5, 2023 07:52:54 |
+| Lobby ID | 28505204242364741 |
+| Players | 11/15 |
+| Host Name | Carrying more animals than Noah |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 07:52:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 07:51:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204241293014 |
-| Players | 6/8 |
-| Host Name | Gream_rip |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 07:50:34 |
+| Lobby ID | 28505204243072899 |
+| Players | 1/24 |
+| Host Name | ahUO |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, November 5, 2023 07:53:45 |
 
 
 |  | ot3_gardens_duo |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204242075294 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | NotStar |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:51:58 |
@@ -110,42 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 07:52:29 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204242364741 |
-| Players | 6/15 |
-| Host Name | Carrying more animals than Noah |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 07:52:29 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505204243072899 |
-| Players | 1/24 |
-| Host Name | ahUO |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, November 5, 2023 07:53:45 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505204238785737 |
-| Players | 9/10 |
-| Host Name | Crescent Fresh |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, November 5, 2023 07:46:08 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28505204242780887 |
-| Players | 1/7 |
-| Host Name | KING  CRIMSON |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 07:53:13 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505204242858447 |
@@ -153,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kruger |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 07:53:22 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28505204242780887 |
+| Players | 2/7 |
+| Host Name | KING  CRIMSON |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 07:53:13 |
 
 
