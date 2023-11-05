@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204282169227 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 09:02:14 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204280999202 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | ɢօֆɦ 7.5ӄ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:00:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204282188225 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | oniqzone- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:02:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204281035469 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | USA IS THE TERRORIST N°1 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:00:09 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204282321026 |
-| Players | 3/8 |
-| Host Name | No siento nada |
+| Players | 6/8 |
+| Host Name | TANK LUJAN CARRION |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 5, 2023 09:02:30 |
 
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ELECTRA...! |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 5, 2023 09:02:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505204282674299 |
+| Players | 1/24 |
+| Host Name | E6yчий тысячник |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 09:03:08 |
 
 
