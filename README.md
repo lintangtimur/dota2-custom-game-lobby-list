@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204284666029 |
-| Players | 7/8 |
-| Host Name | Me tocan ratas en mi equipo} |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 09:06:33 |
+| Lobby ID | 28505204285541469 |
+| Players | 8/24 |
+| Host Name | Ralph.KM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 09:08:02 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204287283683 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | vanilacry~ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:10:57 |
@@ -83,19 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 08:57:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204285541469 |
-| Players | 5/24 |
-| Host Name | Ralph.KM |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 09:08:02 |
+| Lobby ID | 28505204288008277 |
+| Players | 1/10 |
+| Host Name | ЭЛЬВЕНСКИЙ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 09:12:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204288008762 |
+| Players | 4/15 |
+| Host Name | Mango |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 09:12:10 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204286855312 |
-| Players | 8/10 |
+| Players | 10/10 |
 | Host Name | Fihed |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 09:10:14 |
@@ -108,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Евдокия |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:06:14 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505204287853310 |
-| Players | 1/10 |
-| Host Name | Slava_Ukraine |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 09:11:54 |
 
 
