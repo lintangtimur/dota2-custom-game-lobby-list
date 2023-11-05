@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204239881514 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | MAIDERINO |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:48:04 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204239328219 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | jhejo96 |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 5, 2023 07:47:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204240884955 |
-| Players | 7/10 |
-| Host Name | HeDen4ik |
+| Lobby ID | 28505204241293014 |
+| Players | 2/8 |
+| Host Name | Gream_rip |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 07:49:51 |
+| Lobby Creation Time | Sunday, November 5, 2023 07:50:34 |
 
 
 |  | ot3_jungle_quintet |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204241162633 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | саня любит хуй |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:50:20 |
@@ -128,12 +128,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 07:50:18 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204239848480 |
+| Players | 13/15 |
+| Host Name | букака |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 07:48:00 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204238785737 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Crescent Fresh |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 5, 2023 07:46:08 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505204241286916 |
+| Players | 1/5 |
+| Host Name | KING  CRIMSON |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 07:50:33 |
 
 
