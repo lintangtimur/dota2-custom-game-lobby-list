@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204291452913 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Who Doesn't Love Butters! |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 09:17:43 |
@@ -15,18 +15,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505204292346556 |
 | Players | 1/10 |
-| Host Name | Valera_Pudge |
+| Host Name | 彼女は私のワイフです |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:19:08 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204292036933 |
-| Players | 14/15 |
-| Host Name | Mo' Cake |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 09:18:38 |
+| Lobby ID | 28505204292538505 |
+| Players | 3/15 |
+| Host Name | DaveyJones |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 09:19:27 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204290936824 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | ♥Sєє Tιηн♥ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:16:53 |
