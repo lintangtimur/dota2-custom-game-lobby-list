@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204264701897 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | KONSTANTINE |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:31:59 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204263887425 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | No cometas el crimen varón |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:30:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204265372397 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | alex krasiuk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:33:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204265263327 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Run Yo Pockets |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:32:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204265080690 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | I know I'll die alone |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:32:40 |
@@ -86,9 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204264905309 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Rhythm |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:32:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204265826031 |
+| Players | 1/10 |
+| Host Name | 【༺𒋲✶...LombriS...✶༺ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 08:33:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204265845995 |
+| Players | 1/8 |
+| Host Name |  |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 08:34:01 |
 
 
