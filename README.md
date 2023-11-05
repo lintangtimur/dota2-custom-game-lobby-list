@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204228318965 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Ralph.KM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 07:27:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204237995130 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Aggressive Koala |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 07:44:44 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204236759843 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | reaching 1k |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:42:33 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204237925351 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Transmashingunman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:44:36 |
@@ -113,36 +113,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204237942692 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Frontier |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:44:38 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204238317313 |
-| Players | 2/8 |
-| Host Name | Ебатель |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 07:45:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204238335831 |
-| Players | 1/10 |
-| Host Name | ЛЕВАЯ ГАЛОША |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 07:45:20 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204238355716 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Sr Timba |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:45:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204238499062 |
+| Players | 1/10 |
+| Host Name | ЛЕВАЯ ГАЛОША |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 07:45:37 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505204238492254 |
+| Players | 1/10 |
+| Host Name | wts |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 07:45:37 |
 
 
