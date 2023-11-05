@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204240896759 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Pancit Canton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 07:49:52 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204241946279 |
-| Players | 1/15 |
+| Players | 10/15 |
 | Host Name | xpapaya |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:51:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204239881514 |
-| Players | 22/24 |
-| Host Name | MAIDERINO |
+| Lobby ID | 28505204241141723 |
+| Players | 1/8 |
+| Host Name | Hope |
 | Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 07:48:04 |
+| Lobby Creation Time | Sunday, November 5, 2023 07:50:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204241825700 |
-| Players | 14/15 |
-| Host Name | Chaos_NIKE |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 07:51:31 |
+| Lobby ID | 28505204242072071 |
+| Players | 2/15 |
+| Host Name | fawkes |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, November 5, 2023 07:51:58 |
 
 
 |  | ot3_desert_octet |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204240809564 |
-| Players | 3/15 |
-| Host Name | Qaz |
+| Players | 1/15 |
+| Host Name | Seph |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 07:49:42 |
 
@@ -110,12 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 07:51:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204241141723 |
-| Players | 1/8 |
-| Host Name | Hope |
+| Lobby ID | 28505204242075294 |
+| Players | 1/24 |
+| Host Name | NotStar |
 | Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 07:50:18 |
+| Lobby Creation Time | Sunday, November 5, 2023 07:51:58 |
 
 
