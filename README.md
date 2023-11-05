@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204278859251 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | 24 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:56:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204272185084 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Haigh in the Shkaigh |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, November 5, 2023 08:45:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204279180652 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Oklahoma |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:57:02 |
@@ -65,33 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 08:57:00 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204278553231 |
-| Players | 11/15 |
-| Host Name | Hipotenusa² |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 08:55:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204278774456 |
-| Players | 3/8 |
-| Host Name | isn't like holding to the center |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 08:56:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204276983078 |
-| Players | 7/8 |
-| Host Name | ХОЧУ АПНУТЬ ММР |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 08:53:18 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204279098590 |
@@ -103,11 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204279182242 |
-| Players | 5/8 |
-| Host Name | B U D H H A |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, November 5, 2023 08:57:02 |
+| Lobby ID | 28505204278774456 |
+| Players | 4/8 |
+| Host Name | isn't like holding to the center |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 08:56:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204276983078 |
+| Players | 6/8 |
+| Host Name | ilyuschaclysmic |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 08:53:18 |
 
 
 |  | epic_boss_fight_nightmare |
