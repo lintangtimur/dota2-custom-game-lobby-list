@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204288230160 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | q rico aprieta tu germa mano |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:12:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204286154766 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | 削茎疼 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:09:04 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204288080260 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | By: H☼†.7<inG-NighT |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:12:17 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204288194244 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | INGEN RÖR STRÄNGNÄS mvh Rajje |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:12:28 |
@@ -122,10 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204288951863 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | черти |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:13:42 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204288008277 |
+| Players | 9/10 |
+| Host Name | Don Payiyo de Pumitas |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 09:12:10 |
 
 
 |  | epic_boss_fight_hard |
