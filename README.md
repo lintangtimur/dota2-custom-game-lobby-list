@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204275946544 |
-| Players | 23/24 |
-| Host Name | medved hnedy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 08:51:31 |
+| Lobby ID | 28505204278859251 |
+| Players | 1/15 |
+| Host Name | 24 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 08:56:29 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204276256410 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 08:52:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204278553231 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Hipotenusa² |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:55:58 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204276891445 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Grapefruit: Slayer of Donkeys |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:53:08 |
@@ -110,30 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 08:55:34 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204278859251 |
-| Players | 1/15 |
-| Host Name | 24 |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 08:56:29 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204275867508 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Booberries |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:51:23 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28505204278570706 |
-| Players | 1/7 |
-| Host Name | Gutao |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, November 5, 2023 08:56:00 |
 
 
