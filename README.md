@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204255986041 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | lost |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 08:16:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204257282165 |
-| Players | 1/15 |
-| Host Name | 顶尖三号位 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 08:18:47 |
+| Lobby ID | 28505204257341905 |
+| Players | 2/24 |
+| Host Name | Tonga° |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 08:18:54 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204256641948 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Rousseau |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:17:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204254678585 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | Jasmine |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:14:08 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204257181763 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | princelio |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:18:36 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204257276718 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Ahappypuppy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:18:47 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204257332504 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Rodrigo.CSV |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 08:18:53 |
