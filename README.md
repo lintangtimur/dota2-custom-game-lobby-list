@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204259155138 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | SDVDS |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 5, 2023 08:22:09 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204259663040 |
-| Players | 5/10 |
-| Host Name | Sooyaaa___ |
+| Players | 4/10 |
+| Host Name | chis |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:23:03 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204258292946 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Más Narnia |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:20:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204259435885 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | CEO OF SEX |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:22:39 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204259349261 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | лохматый хуй |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:22:30 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204259367106 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Silverchild habbibi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:22:32 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204257083191 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Shinzou wo Sasageyo! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 08:18:26 |
