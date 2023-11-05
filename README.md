@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204258554108 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | my role please |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:21:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204258723910 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | ♥Tocoshly♥ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:21:23 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204258361120 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Run Yo Pockets |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:20:44 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204258960758 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Hope |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:21:48 |
@@ -86,19 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204258532409 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:21:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204258894539 |
-| Players | 3/8 |
-| Host Name | Richi Rage |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 08:21:42 |
+| Lobby ID | 28505204259349261 |
+| Players | 1/10 |
+| Host Name | лохматый хуй |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 08:22:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204259367106 |
+| Players | 4/15 |
+| Host Name | Silverchild habbibi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 08:22:32 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204257083191 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Shinzou wo Sasageyo! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 08:18:26 |
