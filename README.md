@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204218591102 |
-| Players | 12/15 |
-| Host Name | RETRO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 07:10:22 |
+| Lobby ID | 28505204218940030 |
+| Players | 2/15 |
+| Host Name | TYSKIE ENJOYER |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 07:11:00 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204217279372 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | MasonLayble |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:08:02 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204217762687 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:08:54 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 07:10:27 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204218232851 |
-| Players | 20/24 |
-| Host Name | Carizu:3 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 07:09:44 |
+| Lobby ID | 28505204218938630 |
+| Players | 5/10 |
+| Host Name | Slattgang++ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 07:11:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -108,24 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | тайно дёрнул |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:09:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204218938630 |
-| Players | 1/10 |
-| Host Name | Slattgang++ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 07:11:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204218940030 |
-| Players | 2/15 |
-| Host Name | TYSKIE ENJOYER |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 07:11:00 |
 
 
 |  | epic_boss_fight_nightmare |
