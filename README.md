@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204283014553 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | Ripper |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 09:03:43 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204283175053 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | nigero GEOP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 09:04:00 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204281454153 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Full-Time Griefer |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 09:00:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204284348474 |
-| Players | 1/8 |
-| Host Name | 悲しみ |
+| Lobby ID | 28505204284433517 |
+| Players | 14/15 |
+| Host Name | ARAFAT IS THE NEW CARRY |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 09:06:00 |
+| Lobby Creation Time | Sunday, November 5, 2023 09:06:09 |
 
 
 |  | ot3_gardens_duo |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 09:03:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204284043817 |
-| Players | 6/8 |
-| Host Name | Stingray |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, November 5, 2023 09:05:29 |
+| Lobby ID | 28505204284451331 |
+| Players | 1/24 |
+| Host Name | AyEfKay |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 09:06:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204284292727 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | ^^bongafonx` |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 09:05:54 |
@@ -148,20 +148,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204284433517 |
-| Players | 4/15 |
-| Host Name | ARAFAT IS THE NEW CARRY |
+| Lobby ID | 28505204284534136 |
+| Players | 1/15 |
+| Host Name | xpapaya |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 09:06:09 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505204284451331 |
-| Players | 1/24 |
-| Host Name | AyEfKay |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 09:06:11 |
+| Lobby Creation Time | Sunday, November 5, 2023 09:06:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -171,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ДЕВОЧКА ИЗ АНИМЕ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:04:37 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28505204284485512 |
+| Players | 1/7 |
+| Host Name | Евдокия |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 09:06:14 |
 
 
