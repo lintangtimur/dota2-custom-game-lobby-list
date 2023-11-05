@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204239291728 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 07:47:01 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204239310074 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | увековечено в камне |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:47:03 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204239210414 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Cheems amnsioso |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:46:53 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204237380304 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Neo |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 5, 2023 07:43:38 |
@@ -103,20 +103,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204239004384 |
-| Players | 6/8 |
-| Host Name | isn't like holding to the center |
+| Lobby ID | 28505204239576136 |
+| Players | 5/8 |
+| Host Name | B.G.prodigy |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 07:46:31 |
+| Lobby Creation Time | Sunday, November 5, 2023 07:47:31 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204239069012 |
+| Players | 9/10 |
+| Host Name | qwerty |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 07:46:38 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204239549139 |
-| Players | 4/8 |
-| Host Name | fdredsd |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, November 5, 2023 07:47:28 |
+| Lobby ID | 28505204239651340 |
+| Players | 1/8 |
+| Host Name | 永恒.T-Rex |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 07:47:39 |
 
 
 |  | epic_boss_fight_nightmare |
