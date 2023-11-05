@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204240896759 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | 青衣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 07:49:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204247045931 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | this cake is awful guys fuck it |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:00:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204246374085 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Zoobomarofa |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 07:59:35 |
@@ -77,28 +77,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204246911596 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | тайно дёрнул |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:00:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204247166118 |
-| Players | 1/15 |
-| Host Name | all designer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 08:00:58 |
+| Lobby ID | 28505204247194819 |
+| Players | 2/10 |
+| Host Name | ♿🧠 |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 08:01:01 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204247170840 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | ꜰɢ ʟᴇɴɴ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:00:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204246441233 |
+| Players | 7/10 |
+| Host Name | ↓←4 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 07:59:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204247217423 |
+| Players | 1/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 08:01:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204247221252 |
+| Players | 2/10 |
+| Host Name | Тайно Дернул |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 08:01:04 |
 
 
 |  | epic_boss_fight_nightmare |
