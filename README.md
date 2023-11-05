@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204219579538 |
-| Players | 7/8 |
-| Host Name | isn't like holding to the center |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 07:12:07 |
+| Lobby ID | 28505204220503456 |
+| Players | 5/8 |
+| Host Name | アキラ-ユ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 07:13:44 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204217762687 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:08:54 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204218457816 |
-| Players | 22/24 |
-| Host Name | 76561198341866785 |
+| Lobby ID | 28505204220524792 |
+| Players | 1/8 |
+| Host Name | Mauricio Estrada |
 | Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 07:10:08 |
+| Lobby Creation Time | Sunday, November 5, 2023 07:13:47 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204220039544 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | SXL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:12:56 |
@@ -101,21 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 07:13:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204219666063 |
-| Players | 8/10 |
-| Host Name | snayderex |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 07:12:17 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505204218840563 |
-| Players | 9/10 |
-| Host Name | mel |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 07:10:49 |
+| Lobby ID | 28505204220476109 |
+| Players | 5/8 |
+| Host Name | god complex |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 07:13:41 |
 
 
