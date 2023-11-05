@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204236113219 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | RONPEcraneos |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:41:25 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204228318965 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | Ralph.KM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 07:27:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204235995256 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Nikki |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:41:12 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204236086364 |
-| Players | 5/10 |
-| Host Name | 43 |
+| Lobby ID | 28505204236276534 |
+| Players | 4/10 |
+| Host Name | Тайно Дернул |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 07:41:22 |
+| Lobby Creation Time | Sunday, November 5, 2023 07:41:42 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204236090181 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Rousseau |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:41:22 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204235962954 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | WK |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:41:09 |
@@ -117,23 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | D E G A |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:39:27 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505204233250571 |
-| Players | 9/10 |
-| Host Name | DayDreamer |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 07:36:22 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505204236177548 |
-| Players | 1/5 |
-| Host Name | *EGN*WHITEDUDE |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 07:41:32 |
 
 
