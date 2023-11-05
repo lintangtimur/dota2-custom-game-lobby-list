@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204273931281 |
-| Players | 12/15 |
-| Host Name | wNs.Arquitecto |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 08:48:02 |
+| Lobby ID | 28505204275088435 |
+| Players | 4/8 |
+| Host Name | sequence |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 08:50:02 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204273669287 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | dba07 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:47:35 |
@@ -58,20 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204274980380 |
-| Players | 1/15 |
-| Host Name | charefpc500 |
+| Lobby ID | 28505204275086029 |
+| Players | 2/15 |
+| Host Name | SO EZ IDK |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 08:49:50 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505204275040284 |
-| Players | 1/24 |
-| Host Name | 先攻击这个嘲讽英雄 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 08:49:57 |
+| Lobby Creation Time | Sunday, November 5, 2023 08:50:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Al Capone |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:49:50 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505204275044539 |
-| Players | 1/10 |
-| Host Name | gegeegegge |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Sunday, November 5, 2023 08:49:57 |
 
 
