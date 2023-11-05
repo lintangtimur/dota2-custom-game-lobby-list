@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204258532409 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:21:03 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204260230994 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Hanako |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:24:05 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204260525075 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | dontflame |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:24:36 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204260652704 |
-| Players | 9/10 |
-| Host Name | МАРАТ КЛУБНИКА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 08:24:49 |
+| Lobby ID | 28505204261053604 |
+| Players | 2/10 |
+| Host Name | GoTiT@ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 08:25:32 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204258960758 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Hope |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:21:48 |
@@ -58,20 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204260968444 |
+| Lobby ID | 28505204261075104 |
 | Players | 1/10 |
-| Host Name | kinse |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 08:25:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204259155138 |
-| Players | 9/10 |
-| Host Name | SDVDS |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, November 5, 2023 08:22:09 |
+| Host Name | oniqzone- |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 08:25:34 |
 
 
 |  | epic_boss_fight_nightmare |
