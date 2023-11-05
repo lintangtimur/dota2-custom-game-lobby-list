@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204229211549 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | pan pan cul cul |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, November 5, 2023 07:29:12 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204229059005 |
-| Players | 8/24 |
+| Players | 13/24 |
 | Host Name | DgJ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:28:56 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204108469443 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Goku |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, November 5, 2023 04:30:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204226687134 |
-| Players | 13/15 |
-| Host Name | Sasori |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 07:24:43 |
+| Lobby ID | 28505204228824672 |
+| Players | 7/10 |
+| Host Name | Church Of The One |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 5, 2023 07:28:31 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204228343814 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | CHECHITOO <3 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:27:40 |
@@ -86,34 +86,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204228030312 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Tony |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 5, 2023 07:27:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204228332897 |
-| Players | 12/15 |
-| Host Name | Mikesimus |
+| Lobby ID | 28505204229373332 |
+| Players | 1/8 |
+| Host Name | McLovin |
 | Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 07:27:39 |
+| Lobby Creation Time | Sunday, November 5, 2023 07:29:30 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204228395002 |
-| Players | 6/10 |
-| Host Name | Jester |
+| Lobby ID | 28505204229520596 |
+| Players | 5/10 |
+| Host Name | Wintur_ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 07:27:45 |
+| Lobby Creation Time | Sunday, November 5, 2023 07:29:46 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204228645865 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | < blank > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:28:12 |
@@ -126,32 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Need? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:28:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204228781297 |
-| Players | 1/8 |
-| Host Name | lets_fight |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 07:28:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204228824672 |
-| Players | 6/10 |
-| Host Name | Church Of The One |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 5, 2023 07:28:31 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505204228619294 |
-| Players | 7/10 |
-| Host Name | NAFU |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 07:28:09 |
 
 
