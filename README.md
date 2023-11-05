@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204270777948 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Trade commend |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:42:38 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204270811865 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:42:41 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204271129088 |
-| Players | 4/8 |
-| Host Name | an? idea |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 08:43:15 |
+| Lobby ID | 28505204271886642 |
+| Players | 3/8 |
+| Host Name | kekegozu |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 08:44:33 |
 
 
 |  | ot3_desert_octet |
@@ -113,27 +113,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204270805481 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | BanBan |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:42:41 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204271688214 |
-| Players | 1/24 |
-| Host Name | Jasmine |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 08:44:13 |
+| Lobby ID | 28505204271852137 |
+| Players | 2/8 |
+| Host Name | Kira sempai <3 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 08:44:29 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204270675129 |
-| Players | 9/10 |
-| Host Name | Heisenberg |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 08:42:27 |
+| Lobby ID | 28505204271878888 |
+| Players | 2/15 |
+| Host Name | тайно дёрнул |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 08:44:32 |
 
 
