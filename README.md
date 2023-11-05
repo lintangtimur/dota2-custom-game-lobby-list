@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204214752877 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | Purple Star |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:03:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204214651025 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Ебатель |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:03:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204214749539 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | JAustin |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:03:31 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204200180357 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Gyrocopter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 06:38:40 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 06:55:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204214829678 |
-| Players | 6/8 |
-| Host Name | испытываю бога |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 07:03:39 |
+| Lobby ID | 28505204215134184 |
+| Players | 2/15 |
+| Host Name | mlg- |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 07:04:12 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204214723738 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Kill 'Em All |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:03:28 |
@@ -117,6 +117,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ruby da Cherry |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:04:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204215174287 |
+| Players | 1/8 |
+| Host Name | гавноед |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 07:04:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204215199261 |
+| Players | 2/8 |
+| Host Name | dyrachyo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 07:04:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204215223685 |
+| Players | 1/15 |
+| Host Name | Левый сосок |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 07:04:22 |
 
 
 |  | epic_boss_fight_normal |
