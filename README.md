@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204217123579 |
-| Players | 1/15 |
+| Players | 8/15 |
 | Host Name | MoNsTeR! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:07:46 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204216945268 |
-| Players | 5/10 |
-| Host Name | Sashka na Ochote |
+| Lobby ID | 28505204214752877 |
+| Players | 10/10 |
+| Host Name | Purple Star |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 07:07:27 |
+| Lobby Creation Time | Sunday, November 5, 2023 07:03:31 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204216653520 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | TOGA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:06:56 |
@@ -90,6 +90,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kagni |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:55:31 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505204217270908 |
+| Players | 1/24 |
+| Host Name | castillo TERRUCONES |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 07:08:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204217279372 |
+| Players | 1/8 |
+| Host Name | MasonLayble |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 07:08:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204216587154 |
+| Players | 14/15 |
+| Host Name | niko |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 07:06:49 |
 
 
 |  | epic_boss_fight_nightmare |
