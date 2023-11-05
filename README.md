@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204270777948 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Trade commend |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:42:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204270265825 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | Weganerd |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:41:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204270352546 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Oklahoma |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:41:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204269340440 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | mfdghdghtr |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 08:40:09 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204270727171 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Ajax |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:42:32 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204270811865 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:42:41 |
@@ -137,19 +137,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 08:43:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204271471799 |
-| Players | 1/15 |
-| Host Name | Jeremy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 08:43:50 |
+| Lobby ID | 28505204271507608 |
+| Players | 1/10 |
+| Host Name | dontflame |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 08:43:54 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204270675129 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Heisenberg |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 08:42:27 |
