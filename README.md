@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 08:50:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204275420785 |
-| Players | 1/15 |
-| Host Name | Mai Sakurajima |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 08:50:37 |
+| Lobby ID | 28505204275525865 |
+| Players | 3/10 |
+| Host Name | princelio |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 08:50:47 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204275086029 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | SO EZ IDK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:50:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204275361369 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Yves Saint Laurent |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:50:30 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204275464946 |
-| Players | 2/10 |
-| Host Name | черти |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 08:50:41 |
+| Lobby ID | 28505204275575639 |
+| Players | 3/10 |
+| Host Name | Mai Sakurajima |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 08:50:52 |
 
 
 |  | ot3_jungle_quintet |
