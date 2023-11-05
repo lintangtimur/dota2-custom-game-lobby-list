@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204261362995 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | ShazaM |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:26:05 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 08:26:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204261677207 |
-| Players | 1/15 |
-| Host Name | Griga |
+| Lobby ID | 28505204262197859 |
+| Players | 2/8 |
+| Host Name | Mantelis |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 08:26:38 |
+| Lobby Creation Time | Sunday, November 5, 2023 08:27:34 |
 
 
 |  | ot3_jungle_quintet |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | БОТ Гэрри |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:26:48 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505204262216157 |
+| Players | 2/10 |
+| Host Name | All-Muted |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 08:27:37 |
 
 
