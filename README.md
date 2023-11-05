@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204254025487 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | 22AcaciaAvenue |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:13:00 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204255640629 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Full-Time Griefer |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:15:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204252479830 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Jordani Jovanovic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:10:17 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204255167520 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ROCKITA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:15:00 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204254618072 |
-| Players | 5/10 |
-| Host Name | El low me hizo reflexionar |
+| Players | 3/10 |
+| Host Name | JOSEP |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:14:01 |
 
@@ -110,10 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 08:15:34 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204255877534 |
+| Players | 3/15 |
+| Host Name | Michiking |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 08:16:17 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204254187579 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Darling... |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 08:13:18 |
