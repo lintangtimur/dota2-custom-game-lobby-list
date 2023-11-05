@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204256760813 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | ShichisuALT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:17:51 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 08:17:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204254824794 |
-| Players | 14/15 |
-| Host Name | KuroiBlazr |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 08:14:23 |
+| Lobby ID | 28505204256932768 |
+| Players | 2/10 |
+| Host Name | HAHAHAHAHHA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 08:18:09 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204256573218 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | FRISK |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:17:31 |
