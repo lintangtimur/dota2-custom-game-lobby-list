@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204255986041 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | lost |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 08:16:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204258309269 |
-| Players | 8/10 |
-| Host Name | Дитя Божье |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 08:20:39 |
+| Lobby ID | 28505204258102309 |
+| Players | 19/24 |
+| Host Name | Fightinside 4-5 |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 08:20:16 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204258321120 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:20:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204257522273 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | it |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:19:13 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204257917462 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | dasha |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:19:56 |
@@ -85,17 +85,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204258102309 |
-| Players | 13/24 |
-| Host Name | Fightinside 4-5 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 08:20:16 |
+| Lobby ID | 28505204258532409 |
+| Players | 1/24 |
+| Host Name | RiftBreaker |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, November 5, 2023 08:21:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204258521453 |
+| Players | 3/8 |
+| Host Name | Мамкин царь папки |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 08:21:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204258544011 |
+| Players | 4/8 |
+| Host Name | 814a32111 |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, November 5, 2023 08:21:04 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204256522826 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Booberries |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:17:25 |
