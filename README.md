@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204267222414 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Full-Time Griefer |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:36:27 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204265845995 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Kärss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:34:01 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204265372397 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | alex krasiuk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:33:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204266832370 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Vάιŝ♡√•∆ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:35:46 |
@@ -78,7 +78,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505204267380361 |
 | Players | 2/8 |
-| Host Name | Pulchritude |
+| Host Name | lost |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, November 5, 2023 08:36:44 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204266936760 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | katashanez |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:35:57 |
@@ -108,5 +108,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ouch! |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:36:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204267498418 |
+| Players | 2/10 |
+| Host Name | FRISK |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 08:36:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204266975604 |
+| Players | 7/8 |
+| Host Name | ROCKITA |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 08:36:01 |
 
 
