@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204214654159 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Level 100 Torchic!~ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:03:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204214749539 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | JAustin |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:03:31 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204215385056 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | INGEN RÖR STRÄNGNÄS mvh Rajje |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:04:39 |
@@ -113,8 +113,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204215349302 |
-| Players | 3/10 |
-| Host Name | Феечка Свинкс |
+| Players | 1/10 |
+| Host Name | RHYTHM TA |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:04:35 |
 
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204215566587 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | ЯДЕРХКА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:04:58 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204215521389 |
-| Players | 10/15 |
+| Players | 7/15 |
 | Host Name | Napoléon Bonaparte |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, November 5, 2023 07:04:54 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204215558610 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | DashaAspirantochka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:04:58 |
