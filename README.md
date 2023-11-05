@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204267076168 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Ouch! |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:36:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204267761350 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | By: H☼†.7<inG-NighT |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:37:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204267097309 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Veneca Positiva♥ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:36:14 |
@@ -68,16 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204268664646 |
-| Players | 2/15 |
-| Host Name | Nimbuzz |
+| Players | 1/15 |
+| Host Name | lost |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 08:38:59 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505204268735260 |
+| Players | 1/24 |
+| Host Name | Nimbuzz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 08:39:06 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505204268412526 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | ПажИЛая_ЗеЛИбобКA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:38:33 |
@@ -86,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204268614740 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Fozzzey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 08:38:53 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505204268688270 |
-| Players | 1/10 |
-| Host Name | Papa.D |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, November 5, 2023 08:39:01 |
 
 
