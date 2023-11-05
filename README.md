@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204278859251 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | 24 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:56:29 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204279231658 |
-| Players | 5/24 |
+| Players | 2/24 |
 | Host Name | EMPEROR OF MANKIND |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 5, 2023 08:57:07 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204277947401 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Mute All Chat √ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:54:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204276256410 |
-| Players | 22/24 |
-| Host Name | XAVY |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, November 5, 2023 08:52:03 |
+| Lobby ID | 28505204279804562 |
+| Players | 3/8 |
+| Host Name | No siento nada |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, November 5, 2023 08:58:05 |
 
 
 |  | ot3_desert_octet |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 08:53:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204279635067 |
-| Players | 2/24 |
-| Host Name | MrGrimm |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 08:57:48 |
+| Lobby ID | 28505204279835844 |
+| Players | 5/8 |
+| Host Name | B U D H H A |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, November 5, 2023 08:58:08 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204279073815 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | heheehe |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, November 5, 2023 08:56:51 |
