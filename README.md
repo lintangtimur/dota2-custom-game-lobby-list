@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204283014553 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | Ripper |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 09:03:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204284666029 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Me tocan ratas en mi equipo} |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:06:33 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204284728010 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | bloomtodeath |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 09:06:39 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204284573239 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | SO EZ IDK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:06:23 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204279155916 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Dukemon X |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, November 5, 2023 08:57:00 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204284351303 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | ~{ ■} |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:06:00 |
@@ -155,19 +155,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 09:06:37 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204285183923 |
-| Players | 1/15 |
-| Host Name | 穿靴子的猫 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 09:07:26 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204285182765 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Rupicola |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 5, 2023 09:07:25 |
