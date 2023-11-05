@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204297060656 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Platinum |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 09:26:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204295749931 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Ripper |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 09:24:30 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204294802627 |
-| Players | 14/15 |
-| Host Name | 24 |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, November 5, 2023 09:23:02 |
+| Lobby ID | 28505204298354320 |
+| Players | 1/15 |
+| Host Name | P@nic |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 09:28:20 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204298097859 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | Piminchumo...!!! |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 5, 2023 09:27:57 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204295008971 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Balanar |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 09:23:21 |
@@ -121,29 +121,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204297510865 |
-| Players | 9/10 |
-| Host Name | Ես Հայ Եմ |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, November 5, 2023 09:27:07 |
+| Lobby ID | 28505204298337723 |
+| Players | 7/10 |
+| Host Name | LISTEN TO THE KIDS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 09:28:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204298354320 |
+| Lobby ID | 28505204298596377 |
 | Players | 1/15 |
-| Host Name | P@nic |
+| Host Name | Lunatico |
 | Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 09:28:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204298337723 |
-| Players | 2/10 |
-| Host Name | LISTEN TO THE KIDS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 09:28:19 |
+| Lobby Creation Time | Sunday, November 5, 2023 09:28:42 |
 
 
 |  | epic_boss_fight_hard |
