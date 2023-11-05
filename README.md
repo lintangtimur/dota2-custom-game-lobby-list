@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204267612307 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Awita de Morphling UwU |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:37:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204266832370 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | Vάιŝ♡√•∆ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:35:46 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204267097309 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Veneca Positiva♥ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:36:14 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 08:36:44 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204266915492 |
-| Players | 1/24 |
-| Host Name | S T R O N G |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 08:35:55 |
+| Lobby ID | 28505204267636340 |
+| Players | 2/8 |
+| Host Name | супер серега |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 08:37:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204267076168 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Ouch! |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:36:12 |
@@ -121,10 +121,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204267636340 |
-| Players | 2/8 |
-| Host Name | супер серега |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 08:37:11 |
+| Lobby ID | 28505204267761350 |
+| Players | 1/8 |
+| Host Name | By: H☼†.7<inG-NighT |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 08:37:25 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505204267816427 |
+| Players | 1/5 |
+| Host Name | Artx |
+| Region | USWEST |
+| Lobby Creation Time | Sunday, November 5, 2023 08:37:31 |
 
 
