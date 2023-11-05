@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204240896759 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Pancit Canton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 07:49:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204242072071 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | fawkes |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 07:51:58 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204242075294 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | NotStar |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:51:58 |
@@ -122,10 +122,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204241564801 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | ЗОМБИ ЕБУТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:51:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204242589654 |
+| Players | 2/10 |
+| Host Name | noot |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 07:52:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204242600716 |
+| Players | 2/10 |
+| Host Name | kle. |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 07:52:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Crescent Fresh |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 5, 2023 07:46:08 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505204242584416 |
+| Players | 1/5 |
+| Host Name | KING  CRIMSON |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 07:52:52 |
 
 
