@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204278859251 |
-| Players | 13/15 |
-| Host Name | 24 |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 08:56:29 |
+| Lobby ID | 28505204280004276 |
+| Players | 4/8 |
+| Host Name | B U D H H A |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, November 5, 2023 08:58:25 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204279231658 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | EMPEROR OF MANKIND |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 5, 2023 08:57:07 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:11:41 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204277043741 |
-| Players | 23/24 |
-| Host Name | alex krasiuk |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 08:53:24 |
+| Lobby ID | 28505204279916192 |
+| Players | 5/10 |
+| Host Name | siddhartha |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 08:58:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,34 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204278774456 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | isn't like holding to the center |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:56:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204279916192 |
-| Players | 1/10 |
-| Host Name | siddhartha |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 08:58:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204279900625 |
-| Players | 1/15 |
-| Host Name | Lucky Roux |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, November 5, 2023 08:58:15 |
+| Lobby ID | 28505204279998108 |
+| Players | 1/24 |
+| Host Name | kagni |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 08:58:24 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204279073815 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | heheehe |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, November 5, 2023 08:56:51 |
