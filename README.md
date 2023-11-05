@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204288230160 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | q rico aprieta tu germa mano |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:12:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204286154766 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 削茎疼 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:09:04 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204287279333 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | CaeluMidnight |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 09:10:57 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204279155916 |
-| Players | 2/24 |
-| Host Name | Dukemon X |
+| Players | 1/24 |
+| Host Name | Natso - |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, November 5, 2023 08:57:00 |
 
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204288080260 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | By: H☼†.7<inG-NighT |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:12:17 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204288625494 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Oklahoma |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:13:11 |
@@ -148,17 +148,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505204288452079 |
-| Players | 1/10 |
-| Host Name | XOPOWEE |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Sunday, November 5, 2023 09:12:54 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28505204288492033 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ДЕВОЧКА ИЗ АНИМЕ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 09:12:58 |
