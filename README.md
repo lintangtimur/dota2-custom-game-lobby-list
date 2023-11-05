@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204252139404 |
-| Players | 1/10 |
-| Host Name | ''Yahiiko'' |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 08:09:42 |
+| Lobby ID | 28505204252202371 |
+| Players | 1/15 |
+| Host Name | spankyotoole |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 08:09:48 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204251457283 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | poppl |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 5, 2023 08:08:30 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204251766721 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | xpapaya |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:09:02 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204252051521 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Gread |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:09:32 |
@@ -92,28 +92,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 08:09:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204252187045 |
-| Players | 1/24 |
-| Host Name | Erika!!!!!!!!!!!!!!!!! |
-| Region | USWEST |
-| Lobby Creation Time | Sunday, November 5, 2023 08:09:47 |
+| Lobby ID | 28505204252282015 |
+| Players | 1/10 |
+| Host Name | merenge |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 08:09:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204252202371 |
-| Players | 1/15 |
-| Host Name | spankyotoole |
+| Lobby ID | 28505204252281117 |
+| Players | 1/8 |
+| Host Name | isn't like holding to the center |
 | Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 08:09:48 |
+| Lobby Creation Time | Sunday, November 5, 2023 08:09:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204252326379 |
+| Players | 2/8 |
+| Host Name | Need? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 08:10:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204252327657 |
+| Players | 1/8 |
+| Host Name | A4ron |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 08:10:01 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204250172957 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | D E G A |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:06:15 |
