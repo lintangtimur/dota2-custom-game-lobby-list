@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204267612307 |
-| Players | 2/10 |
-| Host Name | FRISK |
+| Players | 6/10 |
+| Host Name | Awita de Morphling UwU |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:37:09 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204265372397 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | alex krasiuk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:33:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204266331921 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Mika |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 08:34:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204266647254 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | INGEN RÖR STRÄNGNÄS mvh Rajje |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:35:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204266832370 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Vάιŝ♡√•∆ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:35:46 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204266936760 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | katashanez |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:35:57 |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ryan |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, November 5, 2023 08:37:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204267636340 |
+| Players | 2/8 |
+| Host Name | супер серега |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 08:37:11 |
 
 
