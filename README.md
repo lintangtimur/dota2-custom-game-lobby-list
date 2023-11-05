@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204254025487 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | 22AcaciaAvenue |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:13:00 |
@@ -41,26 +41,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204252479830 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Jordani Jovanovic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:10:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204252858202 |
-| Players | 9/10 |
-| Host Name | Тайно Дернул |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 08:10:56 |
+| Lobby ID | 28505204252281117 |
+| Players | 5/8 |
+| Host Name | 悲しみ |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 08:09:56 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204254919760 |
-| Players | 3/15 |
-| Host Name | Endless .— |
+| Players | 8/15 |
+| Host Name | GhuL-TeAm |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:14:33 |
 
@@ -68,46 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204253129565 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | NENEK PEYOT PDIP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 08:11:25 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204254559933 |
-| Players | 7/8 |
-| Host Name | By: H☼†.7<inG-NighT |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 08:13:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204254618072 |
-| Players | 2/10 |
-| Host Name | OmeGaX |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 08:14:01 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505204254678585 |
-| Players | 3/24 |
-| Host Name | Jasmine |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 08:14:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204254715154 |
-| Players | 3/10 |
-| Host Name | DeepThroat the Boot! SNACkGod |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 08:14:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -119,13 +83,76 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 08:14:23 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204254618072 |
+| Players | 1/10 |
+| Host Name | El low me hizo reflexionar |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 08:14:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505204254678585 |
+| Players | 4/24 |
+| Host Name | Jasmine |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 08:14:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204254715154 |
+| Players | 7/10 |
+| Host Name | DeepThroat the Boot! SNACkGod |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 08:14:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204255115483 |
+| Players | 2/15 |
+| Host Name | Ромашковый чифир |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 08:14:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204255132404 |
+| Players | 4/15 |
+| Host Name | SAFLA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 08:14:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204255141899 |
+| Players | 1/15 |
+| Host Name | SO EZ IDK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 08:14:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204253134372 |
+| Players | 13/15 |
+| Host Name | SHZZY |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 08:11:25 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204252281117 |
-| Players | 6/8 |
-| Host Name | Lenin |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 08:09:56 |
+| Lobby ID | 28505204255167520 |
+| Players | 3/8 |
+| Host Name | ROCKITA |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 08:15:00 |
 
 
 |  | epic_boss_fight_nightmare |
