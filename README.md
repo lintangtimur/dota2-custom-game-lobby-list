@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204240896759 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | MY name Is barry Allen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 07:49:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204245772747 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | ✪ huyase |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:58:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204245679595 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Somalian Space Program |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:58:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204240290851 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | kagni |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:48:48 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204245748225 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | IS THIS THE REAL LIFE? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:58:29 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204244931238 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | [MTL]Yoshi |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 07:57:02 |
