@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204293966661 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Bad Bunny |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:21:44 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204294642069 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Alyssa Rayne |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:22:47 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204294109528 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | ɢօֆɦ 7.5ӄ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:21:57 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204293891848 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Struggle |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 09:21:37 |
@@ -131,10 +131,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204294776806 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Gnoren |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:22:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204294180529 |
+| Players | 2/10 |
+| Host Name | Roni |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 09:22:04 |
 
 
 |  | epic_boss_fight_hard |
