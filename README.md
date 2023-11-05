@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204275735150 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Rainz |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:51:09 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:11:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204275086029 |
-| Players | 13/15 |
-| Host Name | SO EZ IDK |
+| Lobby ID | 28505204275854272 |
+| Players | 1/8 |
+| Host Name | супер серега |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 08:50:01 |
+| Lobby Creation Time | Sunday, November 5, 2023 08:51:21 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204275361369 |
-| Players | 8/24 |
+| Players | 14/24 |
 | Host Name | Yves Saint Laurent |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:50:30 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204275785314 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | kodla |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:51:14 |
@@ -86,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204274975450 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Al Capone |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:49:50 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505204275867508 |
+| Players | 1/10 |
+| Host Name | Booberries |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 08:51:23 |
 
 
