@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204242689557 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | < blank > |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:53:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204242589654 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | noot |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:52:53 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204241293014 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Gream_rip |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:50:34 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204241162633 |
-| Players | 7/10 |
-| Host Name | delta |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 07:50:20 |
+| Lobby ID | 28505204108469443 |
+| Players | 9/10 |
+| Host Name | trash teammate |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 5, 2023 04:30:46 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204242075294 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | NotStar |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:51:58 |
@@ -113,19 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204242364741 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Carrying more animals than Noah |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 07:52:29 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505204108469443 |
-| Players | 9/10 |
-| Host Name | trash teammate |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, November 5, 2023 04:30:46 |
+| Lobby ID | 28505204243072899 |
+| Players | 1/24 |
+| Host Name | ahUO |
+| Region | BRAZIL |
+| Lobby Creation Time | Sunday, November 5, 2023 07:53:45 |
 
 
 |  | epic_boss_fight_nightmare |
