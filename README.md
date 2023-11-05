@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204258554108 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | my role please |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:21:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204258321120 |
-| Players | 13/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 08:20:40 |
+| Lobby ID | 28505204259155138 |
+| Players | 1/10 |
+| Host Name | SDVDS |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, November 5, 2023 08:22:09 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204258723910 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | ♥Tocoshly♥ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:21:23 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204258292946 |
-| Players | 4/15 |
-| Host Name | Ev4! |
+| Players | 3/15 |
+| Host Name | Más Narnia |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:20:37 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204258361120 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Run Yo Pockets |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:20:44 |
@@ -99,24 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Richi Rage |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:21:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204257522273 |
-| Players | 6/8 |
-| Host Name | it |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 08:19:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204259155138 |
-| Players | 1/10 |
-| Host Name | SDVDS |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, November 5, 2023 08:22:09 |
 
 
 |  | epic_boss_fight_nightmare |
