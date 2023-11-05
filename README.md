@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204258723910 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | ♥Tocoshly♥ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:21:23 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204258532409 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:21:03 |
@@ -110,6 +110,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 08:22:32 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204259547791 |
+| Players | 4/8 |
+| Host Name | Ashirogi-Muto |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 08:22:51 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204256522826 |
@@ -119,19 +128,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 08:17:25 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505204253489196 |
-| Players | 1/5 |
-| Host Name | as |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 08:12:03 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204257083191 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Shinzou wo Sasageyo! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 08:18:26 |
