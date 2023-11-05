@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204279231658 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | EMPEROR OF MANKIND |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 5, 2023 08:57:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204272185084 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Haigh in the Shkaigh |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, November 5, 2023 08:45:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204277947401 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Mute All Chat √ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:54:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204279180652 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Oklahoma |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:57:02 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204279155916 |
-| Players | 2/24 |
-| Host Name | Pua |
+| Players | 5/24 |
+| Host Name | ☠Ðeaŧђ△lέѕѕ☠ |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, November 5, 2023 08:57:00 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204278553231 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Hipotenusa² |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:55:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204278774456 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | isn't like holding to the center |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:56:21 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204279073815 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | heheehe |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, November 5, 2023 08:56:51 |
