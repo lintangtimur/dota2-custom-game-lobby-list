@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204252642231 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | C A P I T A N |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:10:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204251457283 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | poppl |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 5, 2023 08:08:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204253812087 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | PUCP, 3er año, Ing, pepin |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:12:37 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204252582815 |
+| Lobby ID | 28505204254103369 |
 | Players | 7/8 |
-| Host Name | Mantelis |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 08:10:28 |
+| Host Name | isn't like holding to the center |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 08:13:09 |
 
 
 |  | ot3_desert_octet |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204254013563 |
-| Players | 9/10 |
-| Host Name | INGEN RÖR STRÄNGNÄS mvh Rajje |
+| Lobby ID | 28505204254261834 |
+| Players | 5/10 |
+| Host Name | no hate |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 08:12:59 |
+| Lobby Creation Time | Sunday, November 5, 2023 08:13:26 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204254025487 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 22AcaciaAvenue |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:13:00 |
@@ -99,24 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | P-JACK |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:09:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204254103369 |
-| Players | 4/8 |
-| Host Name | isn't like holding to the center |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 08:13:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204254200347 |
-| Players | 2/10 |
-| Host Name | отец игры |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 08:13:19 |
 
 
 |  | epic_boss_fight_nightmare |
