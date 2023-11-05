@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204258532409 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:21:03 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204261679508 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:26:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204262673841 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Blutch |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:28:25 |
@@ -51,7 +51,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505204262733672 |
 | Players | 1/24 |
-| Host Name | I'm a superman |
+| Host Name | DY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 08:28:32 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204262940371 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Michiking |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:28:53 |
@@ -99,6 +99,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 08:28:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204263074439 |
+| Players | 1/10 |
+| Host Name | Drakalian the Dragon King |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 08:29:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204263099282 |
+| Players | 1/10 |
+| Host Name | kinse |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 08:29:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505204263103206 |
+| Players | 1/24 |
+| Host Name | Rawone |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 08:29:11 |
 
 
 |  | epic_boss_fight_hard |
