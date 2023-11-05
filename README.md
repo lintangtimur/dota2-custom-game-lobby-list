@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204290299999 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | isn't like holding to the center |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 09:15:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204287591885 |
-| Players | 7/10 |
-| Host Name | Llamaloco |
-| Region | CHILE |
-| Lobby Creation Time | Sunday, November 5, 2023 09:11:28 |
+| Lobby ID | 28505204291134727 |
+| Players | 1/8 |
+| Host Name | Jivchik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 09:17:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204290936824 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | ♥Sєє Tιηн♥ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 09:16:53 |
@@ -58,56 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204290926273 |
-| Players | 10/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 09:16:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204291010654 |
-| Players | 5/8 |
-| Host Name | TuK1 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 09:17:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28505204291068074 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | 24 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 09:17:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204291134727 |
-| Players | 1/8 |
-| Host Name | Jivchik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 09:17:12 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505204291131590 |
-| Players | 1/24 |
-| Host Name | Sneaky Murloc |
+| Lobby ID | 28505204291254894 |
+| Players | 2/10 |
+| Host Name | 14K |
 | Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 09:17:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505204291120265 |
-| Players | 1/15 |
-| Host Name | like pls |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 09:17:11 |
+| Lobby Creation Time | Sunday, November 5, 2023 09:17:23 |
 
 
 |  | epic_boss_fight_hard |
