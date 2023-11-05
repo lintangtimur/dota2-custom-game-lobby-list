@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204234986058 |
-| Players | 4/15 |
+| Players | 13/15 |
 | Host Name | тайно дёрнул |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:39:26 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204234704230 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | LganteKLK-giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:38:56 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204232766340 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:35:30 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204234108274 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Cheb |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 07:37:53 |
@@ -128,6 +128,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 07:39:24 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505204235124830 |
+| Players | 1/15 |
+| Host Name | Cheater |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 07:39:41 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505204235168633 |
+| Players | 1/24 |
+| Host Name | Boxodon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 07:39:45 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204230333686 |
@@ -149,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204235001220 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | D E G A |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:39:27 |
