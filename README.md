@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204220752274 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Хищник доты |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:14:11 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204222196860 |
-| Players | 7/8 |
-| Host Name | rudy |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 07:16:45 |
+| Lobby ID | 28505204222544720 |
+| Players | 2/8 |
+| Host Name | HAHAHAHAHHA |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 07:17:22 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204218371624 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 07:09:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204222406812 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Larry Capija |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:17:08 |
@@ -86,46 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204222479321 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | Devil Wears Prada |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:17:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204222500118 |
-| Players | 3/8 |
-| Host Name | Супер Абдул |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 07:17:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204222513762 |
-| Players | 6/10 |
-| Host Name | Seijuro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 07:17:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204222524084 |
-| Players | 2/8 |
-| Host Name | я это самое |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 07:17:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204222544720 |
-| Players | 2/8 |
-| Host Name | HAHAHAHAHHA |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 5, 2023 07:17:22 |
+| Lobby ID | 28505204222633620 |
+| Players | 1/15 |
+| Host Name | ......... |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, November 5, 2023 07:17:32 |
 
 
 |  | epic_boss_fight_nightmare |
