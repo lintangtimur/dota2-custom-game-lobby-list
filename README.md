@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204240896759 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Pancit Canton |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 07:49:52 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204243352377 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | пукнул 246 раз |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:54:14 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204242075294 |
-| Players | 23/24 |
-| Host Name | NotStar |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 07:51:58 |
+| Lobby ID | 28505204244059081 |
+| Players | 2/15 |
+| Host Name | AllPositive. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 07:55:29 |
 
 
 |  | ot3_jungle_quintet |
@@ -85,15 +85,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204243923300 |
-| Players | 1/8 |
-| Host Name | ミカサ・アッカーマン |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 5, 2023 07:55:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28505204243513203 |
 | Players | 6/8 |
 | Host Name | ts\komorebi |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505204243628748 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Aight, Bet! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 5, 2023 07:54:43 |
