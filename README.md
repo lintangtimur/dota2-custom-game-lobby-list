@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204214654159 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Level 100 Torchic!~ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:03:20 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505204215509225 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | гавноед |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:04:52 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204205648503 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 5, 2023 06:47:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204214749539 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | JAustin |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:03:31 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204210281785 |
-| Players | 7/24 |
+| Players | 4/24 |
 | Host Name | kagni |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 06:55:31 |
@@ -121,20 +121,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505204210008692 |
-| Players | 14/15 |
-| Host Name | fawkes |
-| Region | BRAZIL |
-| Lobby Creation Time | Sunday, November 5, 2023 06:55:03 |
+| Lobby ID | 28505204215566587 |
+| Players | 2/15 |
+| Host Name | ЯДЕРХКА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 07:04:58 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204215521389 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Napoléon Bonaparte |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, November 5, 2023 07:04:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505204215558610 |
+| Players | 6/10 |
+| Host Name | DashaAspirantochka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 5, 2023 07:04:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505204215628028 |
+| Players | 1/8 |
+| Host Name | CYBERGNIDA |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, November 5, 2023 07:05:05 |
 
 
 |  | epic_boss_fight_normal |
