@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204249391670 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Full-Time Griefer |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 5, 2023 08:04:53 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 08:05:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204249303945 |
-| Players | 1/10 |
-| Host Name | CPP |
+| Lobby ID | 28505204249929187 |
+| Players | 1/8 |
+| Host Name | VoDka-KimimarO |
 | Region | PERU |
-| Lobby Creation Time | Sunday, November 5, 2023 08:04:43 |
+| Lobby Creation Time | Sunday, November 5, 2023 08:05:49 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204249121703 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | how |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 08:04:24 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204249384966 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | OG-LOL |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:04:52 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505204249773714 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Teniente roca |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:05:33 |
@@ -90,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 1QwErTy1 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 08:05:37 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505204249938950 |
+| Players | 1/5 |
+| Host Name | HaZze |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 5, 2023 08:05:50 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505204249993564 |
+| Players | 1/10 |
+| Host Name | Fihed |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 5, 2023 08:05:56 |
 
 
