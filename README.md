@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505204220503456 |
-| Players | 5/8 |
-| Host Name | アキラ-ユ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 07:13:44 |
+| Lobby ID | 28505204220630578 |
+| Players | 1/10 |
+| Host Name | k s e n |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 5, 2023 07:13:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204219110238 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | MATA CABROS |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 5, 2023 07:11:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505204218371624 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 5, 2023 07:09:59 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 07:13:27 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505204217762687 |
-| Players | 23/24 |
-| Host Name | ITS_SHOWTIME |
+| Lobby ID | 28505204220476109 |
+| Players | 5/8 |
+| Host Name | god complex |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 07:08:54 |
+| Lobby Creation Time | Sunday, November 5, 2023 07:13:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,30 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 5, 2023 07:13:47 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505204220039544 |
-| Players | 8/10 |
-| Host Name | SXL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 07:12:56 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505204220233028 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | Bald globe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 5, 2023 07:13:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505204220476109 |
-| Players | 5/8 |
-| Host Name | god complex |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 5, 2023 07:13:41 |
 
 
