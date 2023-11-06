@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206087392755 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | WSWSWSWSWSWSWS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 13:45:00 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206087598421 |
-| Players | 1/24 |
-| Host Name | Sup |
+| Lobby ID | 28505206084296762 |
+| Players | 21/24 |
+| Host Name | MD. |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 6, 2023 13:45:19 |
+| Lobby Creation Time | Monday, November 6, 2023 13:40:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206086835722 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | Vuvuzela Virtuoso Hans Rudolph |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 13:44:08 |
@@ -92,21 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:43:51 |
 
 
-|  | ot3_desert_octet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505206084296762 |
-| Players | 21/24 |
-| Host Name | MD. |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 6, 2023 13:40:10 |
+| Lobby ID | 28505206087916421 |
+| Players | 3/10 |
+| Host Name | РЫЖИК |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 13:45:48 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505206087916421 |
-| Players | 2/10 |
-| Host Name | РЫЖИК |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 13:45:48 |
+| Lobby ID | 28505206088155065 |
+| Players | 3/10 |
+| Host Name | katharsis |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, November 6, 2023 13:46:11 |
 
 
