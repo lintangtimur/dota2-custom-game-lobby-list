@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206167309521 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Nephalem |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:34:02 |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:33:33 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206167416653 |
-| Players | 1/15 |
-| Host Name | gentleman |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:34:09 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206167499619 |
@@ -110,21 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:34:15 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206167670990 |
+| Players | 2/10 |
+| Host Name | KennyKey |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 15:34:28 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206165954647 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Arcane~ |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 15:32:24 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206167505826 |
-| Players | 1/10 |
-| Host Name | SKILLGUI TRUMP |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 15:34:16 |
 
 
