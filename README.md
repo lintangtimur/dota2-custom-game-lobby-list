@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206043843021 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | who knows |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 12:32:56 |
@@ -67,20 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206044685812 |
-| Players | 1/15 |
-| Host Name | ByeBye |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 12:34:21 |
+| Lobby ID | 28505206044731343 |
+| Players | 5/15 |
+| Host Name | vincent black shadow |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 12:34:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206044694060 |
-| Players | 1/15 |
+| Lobby ID | 28505206044761881 |
+| Players | 6/10 |
 | Host Name | LEAR |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 12:34:22 |
+| Lobby Creation Time | Monday, November 6, 2023 12:34:29 |
 
 
 |  | epic_boss_fight_challenger |
