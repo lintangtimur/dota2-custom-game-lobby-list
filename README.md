@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206086709350 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | DIEGO(ง︡'<'︠)ง |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 13:43:56 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206084296762 |
-| Players | 4/24 |
-| Host Name | SexyLips |
+| Players | 3/24 |
+| Host Name | 喂奶，儿子在哭 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 6, 2023 13:40:10 |
 
@@ -92,31 +92,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:47:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206088599106 |
-| Players | 1/24 |
-| Host Name | timdig |
+| Lobby ID | 28505206089446224 |
+| Players | 5/15 |
+| Host Name | Контрпик женщин |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 13:46:52 |
+| Lobby Creation Time | Monday, November 6, 2023 13:48:10 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206089319489 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | drismayilli.azer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:47:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206089446224 |
-| Players | 1/15 |
-| Host Name | Контрпик женщин |
+| Lobby ID | 28505206089600202 |
+| Players | 1/24 |
+| Host Name | timdig |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 13:48:10 |
+| Lobby Creation Time | Monday, November 6, 2023 13:48:24 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206088690682 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | 9527 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 13:47:01 |
