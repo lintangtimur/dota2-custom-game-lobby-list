@@ -31,38 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206052160914 |
-| Players | 1/15 |
-| Host Name | Haru~ |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 12:46:55 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206049355038 |
-| Players | 23/24 |
-| Host Name | Punisher PMA |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 12:42:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206049492751 |
-| Players | 6/8 |
-| Host Name | Madafacar |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 12:42:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206051355438 |
-| Players | 9/15 |
-| Host Name | Сигма |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 12:45:33 |
+| Lobby ID | 28505206052155211 |
+| Players | 2/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 12:46:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,13 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 12:45:53 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206049492751 |
+| Players | 7/8 |
+| Host Name | Madafacar |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 12:42:27 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206052155211 |
-| Players | 1/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 12:46:54 |
+| Lobby ID | 28505206051355438 |
+| Players | 11/15 |
+| Host Name | Сигма |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 12:45:33 |
 
 
 |  | epic_boss_fight_nightmare |
