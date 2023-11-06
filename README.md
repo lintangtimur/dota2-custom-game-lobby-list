@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206174671331 |
-| Players | 14/15 |
-| Host Name | twitch.tv/lone_strider |
+| Lobby ID | 28505206173707121 |
+| Players | 12/15 |
+| Host Name | king of fools |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:42:45 |
+| Lobby Creation Time | Monday, November 6, 2023 15:41:38 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206173737705 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | LoŸal |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 15:41:40 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206174791519 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | 346515 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 15:42:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206170894393 |
-| Players | 1/8 |
-| Host Name | SodaZ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 15:38:18 |
+| Lobby ID | 28505206174734318 |
+| Players | 6/10 |
+| Host Name | ржавый |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 15:42:50 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,23 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | [ZIG]Arthas |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 15:41:31 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206174734318 |
-| Players | 4/10 |
-| Host Name | ржавый |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:42:50 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206173136876 |
-| Players | 9/10 |
-| Host Name | Duck My Sick |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 15:40:58 |
 
 
