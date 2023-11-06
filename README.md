@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206220664542 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | makdak1111 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:35:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206220032416 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Lil Krystalll |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:34:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206220727860 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | А |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:35:06 |
@@ -83,19 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 16:35:13 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206219748936 |
-| Players | 8/10 |
-| Host Name | lol_Monster |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:34:01 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206219717288 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | 😇Динозаврик😇 |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 16:33:59 |
@@ -128,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 16:32:32 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505206216616942 |
-| Players | 9/10 |
-| Host Name | Andreas Maler |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 16:30:32 |
+| Lobby ID | 28505206221981105 |
+| Players | 1/5 |
+| Host Name | Dipre55ion? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 16:36:30 |
 
 
 |  | epic_boss_fight_nightmare |
