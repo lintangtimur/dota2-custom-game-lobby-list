@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 12:30:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206045622819 |
-| Players | 14/15 |
-| Host Name | this gex is on fire |
-| Region | USWEST |
-| Lobby Creation Time | Monday, November 6, 2023 12:35:58 |
+| Lobby ID | 28505206047440884 |
+| Players | 1/8 |
+| Host Name | SoreX |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 12:39:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206047358507 |
-| Players | 5/24 |
+| Players | 14/24 |
 | Host Name | Taweret |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 12:38:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206046276580 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Fitzcarraldo |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:37:04 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206043285611 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Maharaja Lawana |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:32:00 |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | TriHard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 12:37:55 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28505206047495185 |
+| Players | 5/7 |
+| Host Name | wocoxl |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 12:39:08 |
 
 
