@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206193155829 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | pinelopa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:04:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206192443958 |
-| Players | 7/8 |
-| Host Name | [ZIG]Arthas |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 16:03:25 |
+| Lobby ID | 28505206193892198 |
+| Players | 6/15 |
+| Host Name | Rodi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 16:05:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206193706735 |
-| Players | 2/10 |
-| Host Name | TopolM2077 |
+| Players | 1/10 |
+| Host Name | qss1 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 16:04:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206193892198 |
-| Players | 4/15 |
-| Host Name | Rodi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:05:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206192986068 |
-| Players | 9/10 |
-| Host Name | Упал, отжался! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:04:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | XL #SUMMERRUST |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:01:50 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28505206194011580 |
-| Players | 1/7 |
-| Host Name | . Richelieu |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 16:05:12 |
 
 
