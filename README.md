@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206448983317 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | chilling |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:35:16 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206457982136 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | 홍은채) 내 동료가 돼라 홍은채) 물고기 캠 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:40:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206175893473 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | KALOG |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206436396244 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Стиратель писюна |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 19:28:02 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206457098221 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | 5 мидас = аганим = б |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 19:39:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206455251842 |
-| Players | 12/15 |
-| Host Name | шельма |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 6, 2023 19:38:50 |
+| Lobby ID | 28505206458315691 |
+| Players | 4/10 |
+| Host Name | 777 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 19:40:33 |
 
 
 |  | ot3_gardens_duo |
@@ -110,42 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 19:38:27 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206457787198 |
-| Players | 1/24 |
-| Host Name | Sable |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 19:40:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206458359581 |
-| Players | 1/15 |
-| Host Name | Замкадыш |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 19:40:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206457080024 |
-| Players | 1/8 |
-| Host Name | 3mptY |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 19:39:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206437231375 |
-| Players | 12/15 |
-| Host Name | Вопросикович |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 19:28:31 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206449809463 |
@@ -155,28 +119,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 19:35:44 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206458359581 |
+| Players | 7/15 |
+| Host Name | Замкадыш |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 19:40:34 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206415278908 |
+| Lobby ID | 28505206458792835 |
 | Players | 5/8 |
-| Host Name | работник пилорам |
+| Host Name | Espada.NNR |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 19:15:22 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206458315691 |
-| Players | 2/10 |
-| Host Name | 777 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 19:40:33 |
+| Lobby Creation Time | Monday, November 6, 2023 19:40:49 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206457342496 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | naitmer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:40:00 |
