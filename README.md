@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206112952677 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 14:23:00 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206111699840 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | mr bigglesworth |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 14:21:15 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Bashn1 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 14:21:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206114277622 |
+| Players | 1/8 |
+| Host Name | вышедший из лп))) |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 14:24:52 |
 
 
 |  | epic_boss_fight_nightmare |
