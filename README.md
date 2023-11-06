@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206275055823 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | waiting for death |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 17:31:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206257003952 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Алёна сучка шмара |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:13:42 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 17:31:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206275934596 |
-| Players | 1/10 |
-| Host Name | Sosed |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 17:32:14 |
+| Lobby ID | 28505206276688652 |
+| Players | 1/15 |
+| Host Name | nessishima |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 17:32:56 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206276189114 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | QPAD. RED PANDA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:32:29 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206275216875 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | Platinum |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 17:31:34 |
@@ -121,37 +121,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206241480141 |
-| Players | 14/15 |
-| Host Name | ✝ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:57:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206276688652 |
+| Lobby ID | 28505206276911104 |
 | Players | 1/15 |
-| Host Name | nessishima |
+| Host Name | swap cm |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:32:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206274594557 |
-| Players | 7/8 |
-| Host Name | Silentcry |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 17:30:59 |
+| Lobby Creation Time | Monday, November 6, 2023 17:33:08 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206272938066 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Çħίℓℓ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:29:25 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206276745706 |
+| Players | 1/10 |
+| Host Name | アノニーメ | #0_Sanity |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 17:32:59 |
 
 
