@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206112994046 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | WSWSWSWSWSWSWS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:23:04 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206115956000 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | edge |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:27:14 |
@@ -95,36 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206116094423 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Supermeta |
 | Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 14:27:26 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206116099248 |
-| Players | 1/24 |
-| Host Name | Yatoro𓆩神döta𓆪 |
-| Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 14:27:26 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206115351923 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | 黑人黑人 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:26:23 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206113965250 |
-| Players | 9/10 |
-| Host Name | Cpt. Douchebag |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 14:24:26 |
 
 
