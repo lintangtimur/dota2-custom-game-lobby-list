@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206001986118 |
-| Players | 2/15 |
-| Host Name | YTZ、 |
+| Players | 1/15 |
+| Host Name | PerpleXity_ |
 | Region | Unknown |
 | Lobby Creation Time | Monday, November 6, 2023 11:21:53 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206000676012 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | lebanon don |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 11:19:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206000837967 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:19:47 |
@@ -99,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fadealy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 11:21:50 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505206002212439 |
+| Players | 1/24 |
+| Host Name | wanderer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 11:22:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206002243403 |
+| Players | 1/15 |
+| Host Name | Eliza.B |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 11:22:21 |
 
 
 |  | epic_boss_fight_challenger |
