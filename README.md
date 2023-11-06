@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205988317541 |
-| Players | 12/24 |
+| Players | 17/24 |
 | Host Name | El Rey Brujo de Angmar |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:55:56 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205987421249 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | SALAMANDER_KING |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 10:54:14 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205988930143 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | 1/8,071,121,xxx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:57:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205985614570 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | jie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 10:50:50 |
@@ -83,22 +83,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 10:56:51 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505205988315238 |
+| Players | 9/10 |
+| Host Name | Ulqiorra |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 10:55:56 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505205989048580 |
+| Lobby ID | 28505205989141467 |
 | Players | 1/15 |
-| Host Name | JomDaime |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 10:57:19 |
+| Host Name | ASmita |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 10:57:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505205989048896 |
-| Players | 2/8 |
-| Host Name | лопай попай |
+| Lobby ID | 28505205989165818 |
+| Players | 1/10 |
+| Host Name | ВЫЕБАЛ ЧЛЕН ЖОПОЙ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 10:57:19 |
+| Lobby Creation Time | Monday, November 6, 2023 10:57:32 |
 
 
 |  | epic_boss_fight_nightmare |
