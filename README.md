@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206462301940 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | ckomo6oйня |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:42:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206434919726 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | S1my |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:27:11 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206403848076 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | OPSesad |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 19:08:12 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206453766225 |
-| Players | 2/15 |
-| Host Name | FP = Full potensial |
+| Lobby ID | 28505206463155788 |
+| Players | 1/15 |
+| Host Name | ЦАРЬ ТОЛЧКА |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 19:38:00 |
+| Lobby Creation Time | Monday, November 6, 2023 19:43:14 |
 
 
 |  | ot3_gardens_duo |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206449809463 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Xelsy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 19:35:44 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206462103066 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | GeNdOs_THE_Papich |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:42:39 |
@@ -155,22 +155,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 19:43:02 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206462286930 |
+| Players | 3/8 |
+| Host Name | Анальный гид |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 19:42:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206462945597 |
+| Players | 1/15 |
+| Host Name | Onis |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 19:43:07 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206456702961 |
 | Players | 14/15 |
-| Host Name | Haze |
+| Host Name | S |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:39:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206462799881 |
-| Players | 2/15 |
-| Host Name | Wake up to reality |
+| Lobby ID | 28505206463069877 |
+| Players | 3/10 |
+| Host Name | jb |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 19:43:02 |
+| Lobby Creation Time | Monday, November 6, 2023 19:43:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206463040722 |
+| Players | 1/8 |
+| Host Name | пирога сират |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 19:43:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -185,7 +212,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206460120785 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Whiteney |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 19:41:33 |
@@ -216,5 +243,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | king jagvar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:35:37 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206462923626 |
+| Players | 1/5 |
+| Host Name | Velikiy Waaagh! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 19:43:06 |
 
 
