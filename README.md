@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206669055178 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ELMARAJA |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 21:32:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206668353172 |
-| Players | 10/15 |
+| Players | 5/15 |
 | Host Name | ДИДЖЕЙ АРБУЗ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 21:31:43 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206673935534 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Хук в хроносперму |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 21:34:38 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206664548589 |
-| Players | 21/24 |
-| Host Name | Invincible under the Heavens |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 21:29:44 |
+| Lobby ID | 28505206674129412 |
+| Players | 5/10 |
+| Host Name | TwXsTR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 21:34:44 |
 
 
 |  | ot3_jungle_quintet |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206672472113 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | WomanDoNotExist/ttv |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 21:33:52 |
@@ -155,21 +155,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 21:34:27 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206674339504 |
+| Players | 3/8 |
+| Host Name | ✿GOJO SATORU✿ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 21:34:51 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206674129412 |
-| Players | 2/10 |
-| Host Name | TwXsTR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 21:34:44 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505206674159442 |
-| Players | 1/5 |
-| Host Name | 𝕄𝕒𝕪𝔻𝕒𝕪 |
+| Lobby ID | 28505206674431643 |
+| Players | 1/10 |
+| Host Name | ♏ リアス・グレモリー |
 | Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 6, 2023 21:34:45 |
+| Lobby Creation Time | Monday, November 6, 2023 21:34:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206674530735 |
+| Players | 2/10 |
+| Host Name | ckomo6oйня |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 21:34:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206674540686 |
+| Players | 3/8 |
+| Host Name | Година Добри |
+| Region | USWEST |
+| Lobby Creation Time | Monday, November 6, 2023 21:34:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505206674591740 |
+| Players | 1/24 |
+| Host Name | Squi |
+| Region | AUSTRIA |
+| Lobby Creation Time | Monday, November 6, 2023 21:34:59 |
 
 
