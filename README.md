@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206471440085 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Axel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 19:47:50 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206564188025 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | talent?//.hardwork |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 20:37:33 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 20:36:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206560634779 |
-| Players | 12/15 |
-| Host Name | noobie |
+| Lobby ID | 28505206563614707 |
+| Players | 7/8 |
+| Host Name | anticipation |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 20:35:42 |
+| Lobby Creation Time | Monday, November 6, 2023 20:37:15 |
 
 
 |  | ot3_gardens_duo |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206564169880 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | BMW-MOSCOW |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 20:37:32 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206526578994 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | 25 Savage |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 20:17:47 |
@@ -121,11 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206563193339 |
-| Players | 9/10 |
-| Host Name | L-A-K-E-R |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 20:37:02 |
+| Lobby ID | 28505206564382403 |
+| Players | 2/10 |
+| Host Name | You get me,fam? |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 20:37:39 |
 
 
 |  | ot3_gardens_duo |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206562849213 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | www.twitch.tv/fominini |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 20:36:51 |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206548072920 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | Cool KidZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 20:29:10 |
@@ -173,22 +173,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 20:36:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206563614707 |
-| Players | 5/8 |
-| Host Name | anticipation |
+| Lobby ID | 28505206564692852 |
+| Players | 1/10 |
+| Host Name | кукуруза |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 20:37:15 |
+| Lobby Creation Time | Monday, November 6, 2023 20:37:49 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206564382403 |
+| Lobby ID | 28505206564684427 |
+| Players | 1/10 |
+| Host Name | Cappuccino Lover |
+| Region | AUSTRIA |
+| Lobby Creation Time | Monday, November 6, 2023 20:37:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206564772791 |
 | Players | 2/10 |
-| Host Name | You get me,fam? |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 20:37:39 |
+| Host Name | TwXsTR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 20:37:51 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206553775531 |
+| Players | 14/15 |
+| Host Name | 暁|TSR my fan. <3 leler |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 20:32:08 |
 
 
 |  | epic_boss_fight_nightmare |
