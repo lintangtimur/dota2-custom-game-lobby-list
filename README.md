@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206048517899 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Atlas Troll |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 12:40:50 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | A Dog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 12:40:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206049252426 |
+| Players | 6/8 |
+| Host Name | COSMO EL GATO |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 12:42:03 |
 
 
 |  | epic_boss_fight_nightmare |
