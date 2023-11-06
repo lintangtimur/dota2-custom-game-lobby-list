@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206299423985 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | RageBoy |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 6, 2023 17:53:00 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206299807292 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Cricket |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 17:53:20 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206299226425 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | BootyHunter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 17:52:50 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206301608567 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Лапша Ачу |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 17:54:52 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206295500305 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | eXploit. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:49:38 |
@@ -144,6 +144,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ASPE_RIN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:47:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206298671076 |
+| Players | 6/15 |
+| Host Name | ( |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 17:52:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206279690148 |
+| Players | 2/8 |
+| Host Name | Лупа |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 17:35:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206302108422 |
+| Players | 1/8 |
+| Host Name | zeiks |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 17:55:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206302085801 |
+| Players | 1/10 |
+| Host Name | Даня 9 Кл. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 17:55:16 |
 
 
 |  | epic_boss_fight_challenger |
