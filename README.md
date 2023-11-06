@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206175893473 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | KALOG |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206188096816 |
-| Players | 13/15 |
-| Host Name | Ｍｉｌｌｙ ★ |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 15:58:24 |
+| Lobby ID | 28505206190629021 |
+| Players | 3/15 |
+| Host Name | Максимка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 16:01:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -99,24 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WTF&!о_О |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 16:00:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206185927750 |
-| Players | 11/15 |
-| Host Name | who knows |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 15:55:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206190629021 |
-| Players | 2/15 |
-| Host Name | Максимка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:01:18 |
 
 
 |  | epic_boss_fight_normal |
