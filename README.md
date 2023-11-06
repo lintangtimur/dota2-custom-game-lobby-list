@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206266094087 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | hypocrisy |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 17:22:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206264762336 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Cappuccino Lover |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, November 6, 2023 17:21:28 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206265990988 |
-| Players | 3/8 |
-| Host Name | Dildo shwaggins |
+| Players | 1/8 |
+| Host Name | ТРЁХНОГИЙ ДЖО |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 17:22:40 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206266149392 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Pick necro or primal = clown |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:22:49 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206252853791 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | UncleWateri |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:09:31 |
