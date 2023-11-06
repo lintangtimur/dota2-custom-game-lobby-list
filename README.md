@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 10:58:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505205988930143 |
-| Players | 9/15 |
-| Host Name | 1/8,071,121,xxx |
+| Lobby ID | 28505205989663888 |
+| Players | 2/10 |
+| Host Name | kyarisama |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 10:57:05 |
+| Lobby Creation Time | Monday, November 6, 2023 10:58:29 |
 
 
 |  | ot3_desert_octet |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 10:57:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505205988807351 |
-| Players | 14/15 |
-| Host Name | Dream |
+| Lobby ID | 28505205987421249 |
+| Players | 9/10 |
+| Host Name | SALAMANDER_KING |
 | Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 10:56:51 |
+| Lobby Creation Time | Monday, November 6, 2023 10:54:14 |
 
 
 |  | ot3_gardens_duo |
@@ -92,24 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 10:55:56 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505205989663888 |
-| Players | 2/10 |
-| Host Name | kyarisama |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 10:58:29 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505205987421249 |
-| Players | 9/10 |
-| Host Name | SALAMANDER_KING |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 10:54:14 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505205988989413 |
@@ -117,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | moiii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 10:57:12 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28505205989923702 |
+| Players | 2/7 |
+| Host Name | Slavik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 10:58:59 |
 
 
