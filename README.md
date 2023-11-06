@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206466301281 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Romario |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:44:59 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206381248462 |
-| Players | 3/15 |
-| Host Name | shadow |
+| Players | 4/15 |
+| Host Name | paranoid |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:53:24 |
 
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206465867680 |
-| Players | 7/10 |
-| Host Name | desh- |
+| Lobby ID | 28505206467261331 |
+| Players | 4/10 |
+| Host Name | baruhibu |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 19:44:44 |
+| Lobby Creation Time | Monday, November 6, 2023 19:45:31 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 19:27:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206465879859 |
-| Players | 5/8 |
-| Host Name | yn252 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 19:44:45 |
+| Lobby ID | 28505206467420686 |
+| Players | 1/15 |
+| Host Name | ®Hanzo Hasashi® |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 19:45:36 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206467152809 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Вася Фармацевт |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 19:45:27 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206454575829 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 🍌 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 19:38:27 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206465118844 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | lomstorm |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 19:44:19 |
@@ -146,13 +146,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 19:39:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206467067420 |
-| Players | 2/10 |
-| Host Name | PLUMBATA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 19:45:25 |
+| Lobby ID | 28505206417793966 |
+| Players | 23/24 |
+| Host Name | Ayesha♥♥♥ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 19:16:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -173,6 +173,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 19:45:25 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206467214471 |
+| Players | 1/8 |
+| Host Name | TvoiTamada |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 19:45:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206460424945 |
+| Players | 1/15 |
+| Host Name | Appledream |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 19:41:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206467355429 |
+| Players | 1/8 |
+| Host Name | NN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 19:45:34 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505206462923626 |
@@ -185,7 +212,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206446714684 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Bankai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 19:33:58 |
