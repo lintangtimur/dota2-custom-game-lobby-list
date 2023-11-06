@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206017106528 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | 50.Centaur |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 11:48:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206016943834 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 11:47:53 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206013865020 |
-| Players | 23/24 |
-| Host Name | T - アイドル |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 11:42:34 |
+| Lobby ID | 28505206015689271 |
+| Players | 21/24 |
+| Host Name | WilifWilofWilai |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 11:45:43 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Halimaw mag dota |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 11:42:49 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28505206017681848 |
-| Players | 1/7 |
-| Host Name | KeanuReeves |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 11:49:09 |
 
 
