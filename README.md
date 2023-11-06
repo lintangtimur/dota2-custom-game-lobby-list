@@ -32,28 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206133572304 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | LoŸal |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:51:18 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206134269076 |
-| Players | 1/8 |
-| Host Name | валенок |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 14:52:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206111994829 |
-| Players | 2/8 |
-| Host Name | Bashn1 |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 14:21:40 |
 
 
 |  | ot3_gardens_duo |
@@ -67,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206134732053 |
-| Players | 7/8 |
-| Host Name | next one #FreedomforPalestine |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 14:52:50 |
+| Lobby ID | 28505206111994829 |
+| Players | 2/8 |
+| Host Name | Bashn1 |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 14:21:40 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206132320168 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Arcane~ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:49:37 |
