@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206093502836 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Щербачев |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:54:28 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206093062918 |
-| Players | 6/10 |
-| Host Name | dead blonde |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 13:53:47 |
+| Lobby ID | 28505206093398807 |
+| Players | 5/10 |
+| Host Name | HolyGod |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 13:54:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ^^bongafonx` |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 13:54:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206093398807 |
-| Players | 5/10 |
-| Host Name | HolyGod |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 13:54:18 |
 
 
 |  | epic_boss_fight_nightmare |
