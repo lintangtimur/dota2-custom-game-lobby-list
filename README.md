@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206140229866 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Gromm |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 15:00:10 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:21:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206142340179 |
-| Players | 4/15 |
-| Host Name | Zzzzzz |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 15:03:03 |
+| Lobby ID | 28505206143749479 |
+| Players | 1/8 |
+| Host Name | Deyniol |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 15:04:52 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206142652524 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Good Vibes |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 15:03:27 |
@@ -101,31 +101,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:03:41 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206143533854 |
-| Players | 1/24 |
-| Host Name | Kermit Da Frog |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 15:04:36 |
+| Lobby ID | 28505206143802210 |
+| Players | 1/10 |
+| Host Name | Cara Delevingne |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 15:04:56 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206143278034 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 190mph |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 15:04:16 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206143707682 |
-| Players | 1/24 |
-| Host Name | Greggy Liwanag |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 15:04:49 |
+| Lobby ID | 28505206143801850 |
+| Players | 3/8 |
+| Host Name | interesno? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 15:04:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206143857149 |
+| Players | 1/10 |
+| Host Name | очнулся |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 15:05:01 |
 
 
 |  | epic_boss_fight_nightmare |
