@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206064596176 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | B|O|O|M |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:08:22 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206066002741 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Halimaw mag dota |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 13:10:43 |
