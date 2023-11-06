@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206159459873 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Johnny Rambo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 15:24:29 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206141893987 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 15:02:28 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:18:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206160087365 |
-| Players | 1/10 |
-| Host Name | Chronic |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:25:16 |
+| Lobby ID | 28505206160510810 |
+| Players | 1/15 |
+| Host Name | Billy Gibbons |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 6, 2023 15:25:47 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206160245419 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | freelancer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:25:28 |
