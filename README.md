@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205988038149 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Sengoku: El Buda del Sexo |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:55:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505205989331947 |
-| Players | 1/8 |
-| Host Name | 飛 ベ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 10:57:51 |
+| Lobby ID | 28505205988317541 |
+| Players | 23/24 |
+| Host Name | El Rey Brujo de Angmar |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 10:55:56 |
 
 
 |  | ot3_gardens_duo |
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505205989413808 |
 | Players | 2/24 |
-| Host Name | REWQ |
+| Host Name | METRALLETA JHON |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:58:00 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205988315238 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | МяSSSNicK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:55:56 |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | moiii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 10:57:12 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28505205989923702 |
-| Players | 2/7 |
-| Host Name | Slavik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 10:58:59 |
 
 
