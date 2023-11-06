@@ -47,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206298671076 |
-| Players | 13/15 |
-| Host Name | DukeNukem |
+| Lobby ID | 28505206324685115 |
+| Players | 3/8 |
+| Host Name | ytka_v_tapkax |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:52:22 |
+| Lobby Creation Time | Monday, November 6, 2023 18:13:34 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206357542813 |
-| Players | 3/15 |
-| Host Name | God Of Shit |
+| Lobby ID | 28505206365972716 |
+| Players | 1/15 |
+| Host Name | baldyrina enjoyer |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:37:25 |
+| Lobby Creation Time | Monday, November 6, 2023 18:43:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206365022086 |
-| Players | 8/10 |
-| Host Name | A |
+| Lobby ID | 28505206331208707 |
+| Players | 3/10 |
+| Host Name | mode : |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:42:33 |
+| Lobby Creation Time | Monday, November 6, 2023 18:18:32 |
 
 
 |  | ot3_jungle_quintet |
@@ -126,6 +126,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 18:43:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505206366210241 |
+| Players | 1/24 |
+| Host Name | nougat |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 18:43:21 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -167,9 +176,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206365504999 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | OID |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 18:42:52 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206366185130 |
+| Players | 1/5 |
+| Host Name | CHICKEN MCNUGGETS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 18:43:20 |
 
 
