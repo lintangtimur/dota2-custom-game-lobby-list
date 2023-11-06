@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205972571085 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Ratatouille jr |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:26:29 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505205971282455 |
-| Players | 1/15 |
-| Host Name | GATITO TRISTE |
+| Lobby ID | 28505205973966765 |
+| Players | 5/15 |
+| Host Name | LOCO CHESS |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:24:05 |
+| Lobby Creation Time | Monday, November 6, 2023 10:29:06 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205973547983 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Виктор Лесоруб |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:28:18 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205973737013 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | wtt2k |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:28:40 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | A!ienwizard |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 10:28:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505205973917700 |
+| Players | 4/8 |
+| Host Name | SEHUMILLA:0 |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 10:29:00 |
 
 
 |  | epic_boss_fight_nightmare |
