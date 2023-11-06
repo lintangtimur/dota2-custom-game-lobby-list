@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206040162362 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | El Rey Brujo de Angmar |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:26:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206039244587 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Lumis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 12:25:08 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206042334978 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Егор Крест |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:30:23 |
