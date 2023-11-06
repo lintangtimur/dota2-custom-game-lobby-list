@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206656856221 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Afghanistan |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 6, 2023 21:25:43 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206651218592 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | ƒ |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 21:22:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206655279058 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | SHAKAツ |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 21:24:54 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206632727218 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Joey Marquez |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 21:13:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206656397673 |
-| Players | 7/10 |
-| Host Name | 11 |
+| Lobby ID | 28505206657308363 |
+| Players | 1/8 |
+| Host Name | женат на кураторе |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 21:25:29 |
+| Lobby Creation Time | Monday, November 6, 2023 21:25:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206624861878 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | 626 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 21:09:01 |
@@ -128,13 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 21:25:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206655826302 |
-| Players | 10/15 |
-| Host Name | Simpest Pimp |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 21:25:11 |
+| Lobby ID | 28505206657615902 |
+| Players | 1/10 |
+| Host Name | BaLiger0 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 21:26:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -149,8 +149,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206657117291 |
-| Players | 2/15 |
-| Host Name | Ang mga taga hilaga ay mga tanga |
+| Players | 1/15 |
+| Host Name | [Марк-2]OLG |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 21:25:51 |
 
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206656200083 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Diamond Fish sauce |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 21:25:23 |
@@ -176,19 +176,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206657280638 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | EL STEFANO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 21:25:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206657308363 |
-| Players | 1/8 |
-| Host Name | женат на кураторе |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 21:25:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -216,5 +207,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Soos |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 21:16:03 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206657699978 |
+| Players | 1/10 |
+| Host Name | АнтонКапибара |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 21:26:09 |
 
 
