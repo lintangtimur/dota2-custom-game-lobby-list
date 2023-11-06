@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206063510158 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:06:31 |
@@ -47,15 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:04:09 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206063177256 |
-| Players | 10/15 |
-| Host Name | kiLLEr |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 13:05:57 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206062483440 |
@@ -72,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Styll7 |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 13:04:06 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206064205241 |
+| Players | 1/10 |
+| Host Name | Ryujiin.GG [ Buunja ] |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 6, 2023 13:07:42 |
 
 
