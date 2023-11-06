@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206178631576 |
-| Players | 2/15 |
-| Host Name | Billy Gibbons |
+| Players | 1/15 |
+| Host Name | *hildegan* |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 15:47:23 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206178775394 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | Mel- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:47:34 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206177807802 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | waiting for death |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 15:46:26 |
@@ -144,14 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | bןɐɔʞ ƃɥosʇ |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 15:47:06 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206179012112 |
-| Players | 1/10 |
-| Host Name | [*BaSkeTka*] |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 15:47:50 |
 
 
