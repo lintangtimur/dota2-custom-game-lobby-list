@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205955264893 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | appreciate life |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 09:54:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505205959328942 |
-| Players | 1/8 |
-| Host Name | Anonymous |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 10:02:09 |
+| Lobby ID | 28505205958744383 |
+| Players | 6/10 |
+| Host Name | Too Good To Win? |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 10:01:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205957163718 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | DN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 09:58:13 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205956619769 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Jakou, Buster Blader |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 09:57:13 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205957857344 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Catbug |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 09:59:30 |
@@ -95,36 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205958903686 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Giu |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:01:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505205958806785 |
-| Players | 7/10 |
-| Host Name | Lord Valdomero |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:01:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505205958744383 |
-| Players | 6/10 |
-| Host Name | Too Good To Win? |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 10:01:06 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505205959282003 |
-| Players | 1/5 |
-| Host Name | Zeeinthehouse |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 6, 2023 10:02:04 |
 
 
