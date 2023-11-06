@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205938228011 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | Kie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 09:22:59 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 09:54:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505205955851590 |
-| Players | 3/8 |
-| Host Name | KOMPAYASO |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 09:55:48 |
+| Lobby ID | 28505205955930162 |
+| Players | 8/10 |
+| Host Name | CriTzuz |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 09:55:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205953677178 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 09:51:48 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205955502363 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | OSITO SANGRIENTO |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 09:55:10 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205955264893 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | appreciate life |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 09:54:44 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205955138310 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Hecker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 09:54:30 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205955427984 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Zellious |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 09:55:02 |
