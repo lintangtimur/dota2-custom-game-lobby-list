@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206021173999 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | *Mister Bubbles |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 11:55:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206016807966 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Loka |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 11:47:38 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206021290843 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Ganseame 7w7 |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 11:55:23 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206021216155 |
+| Lobby ID | 28505206025389937 |
 | Players | 1/24 |
-| Host Name | Quagmire |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 11:55:15 |
+| Host Name | Rho AIas외로운 |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 12:02:25 |
 
 
 |  | epic_boss_fight_nightmare |
