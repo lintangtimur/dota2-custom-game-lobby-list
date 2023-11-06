@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206208161821 |
-| Players | 4/24 |
+| Players | 9/24 |
 | Host Name | Makson! sw3g. |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 16:20:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206217123091 |
-| Players | 12/15 |
-| Host Name | няшная няшка ^-^ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:31:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206218070905 |
-| Players | 1/8 |
-| Host Name | ДОЕДАЛА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:32:10 |
 
 
 |  | ot3_gardens_duo |
@@ -81,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GORGIJ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:32:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206218070905 |
+| Players | 2/8 |
+| Host Name | ДОЕДАЛА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 16:32:10 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505206218701788 |
+| Players | 1/24 |
+| Host Name | NARBERAL GAMA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 16:32:52 |
 
 
 |  | epic_boss_fight_normal |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206216616942 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Andreas Maler |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 16:30:32 |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Славный Котик Иут |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:32:32 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206218683384 |
+| Players | 1/5 |
+| Host Name | ASEP KUMAMOTO |
+| Region | USWEST |
+| Lobby Creation Time | Monday, November 6, 2023 16:32:50 |
 
 
