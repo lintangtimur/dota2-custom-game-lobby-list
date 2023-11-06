@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206218890741 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | -$ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:33:04 |
@@ -47,49 +47,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206208161821 |
-| Players | 22/24 |
-| Host Name | Makson! sw3g. |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 16:20:58 |
+| Lobby ID | 28505206219711988 |
+| Players | 10/15 |
+| Host Name | WTF&!о_О |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 16:33:59 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206219748936 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | lol_Monster |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:34:01 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206219874912 |
-| Players | 3/8 |
-| Host Name | PATRONчик |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 6, 2023 16:34:10 |
+| Lobby ID | 28505206220032416 |
+| Players | 1/10 |
+| Host Name | Lil Krystalll |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 16:34:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206218701788 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 16:32:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206219711988 |
-| Players | 7/15 |
-| Host Name | WTF&!о_О |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 16:33:59 |
+| Lobby ID | 28505206208161821 |
+| Players | 23/24 |
+| Host Name | Makson! sw3g. |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 16:20:58 |
 
 
 |  | epic_boss_fight_normal |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Andreas Maler |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 16:30:32 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505206220019952 |
-| Players | 1/5 |
-| Host Name | THE SIXTH |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 16:34:19 |
 
 
