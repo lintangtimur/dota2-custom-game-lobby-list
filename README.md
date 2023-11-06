@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205954622844 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | i am herald btw |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 09:53:33 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205953908711 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 09:52:14 |
@@ -77,16 +77,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205954832932 |
-| Players | 8/10 |
-| Host Name | Vagabond |
+| Players | 4/10 |
+| Host Name | CriTzuz |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 09:53:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505205955098157 |
+| Players | 1/15 |
+| Host Name | SCZ   J FLEX |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 09:54:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505205955138310 |
+| Players | 2/10 |
+| Host Name | Hecker |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 09:54:30 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505205954411596 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Catador de Conchas |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 09:53:10 |
@@ -95,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505205954497034 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Cpt. Douchebag |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 09:53:19 |
