@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206048378531 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | El chipirón enrojao |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:40:36 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206046748389 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:37:52 |
@@ -58,29 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206048847240 |
-| Players | 1/24 |
-| Host Name | hAggU pLaYeR |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 12:41:23 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
 | Lobby ID | 28505206048206608 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | A Dog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 12:40:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206049080504 |
-| Players | 1/8 |
-| Host Name | Mudachyo雨 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 12:41:46 |
 
 
 |  | epic_boss_fight_nightmare |
