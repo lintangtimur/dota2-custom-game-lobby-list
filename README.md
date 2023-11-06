@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206008828223 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | EL VENECO |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:33:57 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206010958982 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Mouches Volantes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:37:34 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | EL AYUWOKI |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:37:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206011319301 |
+| Players | 2/10 |
+| Host Name | Мiсячне Сяйво |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 11:38:11 |
 
 
