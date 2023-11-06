@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206073748696 |
-| Players | 17/24 |
+| Players | 15/24 |
 | Host Name | TheWiseTomato |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 13:23:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206076171822 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Даня[ШароваяМолн |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:27:20 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206076921111 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | vincent black shadow |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 13:28:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206078013424 |
-| Players | 1/15 |
-| Host Name | IDK |
-| Region | USWEST |
-| Lobby Creation Time | Monday, November 6, 2023 13:30:16 |
+| Lobby ID | 28505206078216812 |
+| Players | 1/8 |
+| Host Name | Vlkswgn |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 6, 2023 13:30:35 |
 
 
 |  | ot3_desert_octet |
@@ -110,21 +110,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:30:22 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206078074903 |
-| Players | 1/15 |
-| Host Name | ?> |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 13:30:22 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206078121088 |
+| Lobby ID | 28505206078141187 |
 | Players | 1/10 |
-| Host Name | GVG |
+| Host Name | MOTOMAMI |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 13:30:28 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505206078257634 |
+| Players | 1/24 |
+| Host Name | Evil PAPA |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 13:30:26 |
+| Lobby Creation Time | Monday, November 6, 2023 13:30:39 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206078140570 |
+| Players | 1/10 |
+| Host Name | chloe |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 6, 2023 13:30:28 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206078215433 |
+| Players | 1/5 |
+| Host Name | Arcane~ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 13:30:35 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206078236892 |
+| Players | 1/10 |
+| Host Name | What you think? |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 6, 2023 13:30:37 |
 
 
