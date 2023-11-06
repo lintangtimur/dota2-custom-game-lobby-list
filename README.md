@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206124940432 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | PTB |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 14:39:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206287514201 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | .. |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 17:42:41 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206283377161 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | 626 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:39:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206241480141 |
-| Players | 11/15 |
-| Host Name | в |
+| Lobby ID | 28505206290081271 |
+| Players | 1/8 |
+| Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:57:25 |
+| Lobby Creation Time | Monday, November 6, 2023 17:44:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -122,9 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206289248979 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Sea Server Cancer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 17:44:11 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206285133581 |
+| Players | 3/10 |
+| Host Name | PcMasterBait |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 17:40:35 |
 
 
