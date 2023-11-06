@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206073726506 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Conor McGregor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:23:26 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206074192335 |
-| Players | 6/10 |
-| Host Name | dead blonde |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 13:24:11 |
+| Lobby ID | 28505206074233285 |
+| Players | 9/10 |
+| Host Name | ♿🧠 |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 13:24:15 |
 
 
 |  | ot3_gardens_duo |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:25:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206074233285 |
-| Players | 9/10 |
-| Host Name | ♿🧠 |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 13:24:15 |
+| Lobby ID | 28505206075452568 |
+| Players | 1/8 |
+| Host Name | I'll motherfuckin' murder her |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 13:26:11 |
 
 
 |  | epic_boss_fight_nightmare |
