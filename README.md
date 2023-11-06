@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206084296762 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | MD. |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 6, 2023 13:40:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206086835722 |
-| Players | 14/15 |
-| Host Name | Vuvuzela Virtuoso Hans Rudolph |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 13:44:08 |
+| Lobby ID | 28505206089064022 |
+| Players | 4/8 |
+| Host Name | Животное |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 6, 2023 13:47:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,10 +104,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206088880472 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | kol_fnl |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 13:47:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206089012553 |
+| Players | 1/8 |
+| Host Name | Robbie Rotten |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, November 6, 2023 13:47:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206089036187 |
+| Players | 1/8 |
+| Host Name | Miris slampa |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 6, 2023 13:47:33 |
 
 
 |  | epic_boss_fight_nightmare |
