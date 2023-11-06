@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505205983757956 |
+| Lobby ID | 28505205984302586 |
 | Players | 1/10 |
-| Host Name | Too Good To Win? |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 6, 2023 10:47:21 |
+| Host Name | Purple Star |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 10:48:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205983730265 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:47:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205981032588 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Jesus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 10:42:13 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205982912355 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Giu |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:45:45 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205984072621 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | cat♡ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:47:56 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205984130633 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Denascar |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:48:02 |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 丫卂 乃口工 丂山乇乇丅 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 10:48:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505205984302586 |
-| Players | 1/10 |
-| Host Name | Purple Star |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 10:48:22 |
 
 
 |  | epic_boss_fight_nightmare |
