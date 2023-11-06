@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206175893473 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | KALOG |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206205860556 |
-| Players | 7/8 |
-| Host Name | waiting for death |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 16:18:20 |
+| Lobby ID | 28505206205793727 |
+| Players | 10/15 |
+| Host Name | Альё |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 16:18:15 |
 
 
 |  | ot3_desert_octet |
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 16:18:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206205793727 |
-| Players | 5/15 |
-| Host Name | Альё |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:18:15 |
+| Lobby ID | 28505206207312802 |
+| Players | 1/8 |
+| Host Name | Dol Bluss Vachello |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 16:20:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206207320121 |
+| Players | 2/10 |
+| Host Name | Leo´stian ♡ |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 16:20:01 |
 
 
 |  | epic_boss_fight_normal |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206203532175 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | eƿisc૦ƿ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 16:15:41 |
@@ -122,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206206884534 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | ► Good gay, noob played |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 16:19:31 |
