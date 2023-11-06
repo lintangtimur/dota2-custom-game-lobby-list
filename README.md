@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206177516659 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | OverNight |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:46:05 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206177530211 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 5 pos otkril rot = lose |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:46:06 |
@@ -119,10 +119,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:46:55 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505206178249502 |
+| Players | 5/24 |
+| Host Name | Trungdaica |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 15:46:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206178271944 |
+| Players | 1/15 |
+| Host Name | Soldier.99 |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 15:46:58 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505206176383175 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | william.lewis.2009 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 6, 2023 15:44:46 |
@@ -139,10 +157,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505206178121807 |
+| Lobby ID | 28505206178379400 |
 | Players | 1/5 |
-| Host Name | bןɐɔʞ ƃɥosʇ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 6, 2023 15:46:48 |
+| Host Name | VanyshaXANAX |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 15:47:06 |
 
 
