@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:44:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206123956391 |
-| Players | 1/24 |
-| Host Name | Droppin |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 14:38:17 |
+| Lobby ID | 28505206123660914 |
+| Players | 1/8 |
+| Host Name | DaveyJones |
+| Region | USWEST |
+| Lobby Creation Time | Monday, November 6, 2023 14:37:53 |
 
 
 |  | ot3_gardens_duo |
@@ -65,39 +65,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:37:55 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206124077604 |
+| Players | 1/15 |
+| Host Name | Good Vibes |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 14:38:27 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505206124158143 |
+| Players | 1/24 |
+| Host Name | i need passion for everything |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 14:38:34 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206123660914 |
+| Lobby ID | 28505206124197411 |
 | Players | 1/8 |
-| Host Name | DaveyJones |
-| Region | USWEST |
-| Lobby Creation Time | Monday, November 6, 2023 14:37:53 |
+| Host Name | ★MMXVII |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 14:38:37 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206123878734 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | JMC |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 6, 2023 14:38:11 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505206124042119 |
-| Players | 1/5 |
-| Host Name | Hasta La Vista |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 14:38:24 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28505206124065451 |
-| Players | 1/7 |
-| Host Name | 123 |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 14:38:26 |
 
 
