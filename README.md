@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206316480386 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | kol_fnl |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 18:07:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206314674490 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Alulnad |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 18:05:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206315876517 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | сергей маляр |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:06:38 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206315650001 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | SpeedWagon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:06:27 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206274782994 |
-| Players | 10/15 |
-| Host Name | ✝ |
+| Lobby ID | 28505206307639743 |
+| Players | 7/15 |
+| Host Name | AfyBC |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:31:09 |
+| Lobby Creation Time | Monday, November 6, 2023 17:59:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -122,9 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206311651325 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | lThe Boys:Dl |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 18:03:14 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28505206316982304 |
+| Players | 1/7 |
+| Host Name | 8itch please |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 18:07:31 |
 
 
