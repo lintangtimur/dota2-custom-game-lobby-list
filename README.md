@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206089995257 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | SexyLips |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 13:49:01 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206086795536 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | If you're a crrano I'll ban you |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 13:44:04 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:50:52 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206091474613 |
-| Players | 1/15 |
-| Host Name | Ира макропира |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 13:51:19 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206091118056 |
@@ -99,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | timdig |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 13:50:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206091552025 |
+| Players | 1/15 |
+| Host Name | Ира макропира |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 13:51:26 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206091558098 |
+| Players | 2/10 |
+| Host Name | Natsumi®◘ |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 13:51:26 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -110,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:45:48 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505206088155065 |
-| Players | 1/10 |
+| Lobby ID | 28505206091603380 |
+| Players | 1/5 |
 | Host Name | CEEEEEEEB,UDOK |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 6, 2023 13:46:11 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 13:51:31 |
 
 
