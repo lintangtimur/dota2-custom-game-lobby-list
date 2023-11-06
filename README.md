@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206033685014 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Starboy |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:15:54 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206033024756 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | amigo de Chutor |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 12:14:47 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206032357359 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Dr. Chaputin modo Sexo |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 12:13:41 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206033453429 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Yatoro雨 |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:15:30 |
