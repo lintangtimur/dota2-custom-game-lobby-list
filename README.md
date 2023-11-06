@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206375568753 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Zafatenko |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 18:49:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206124940432 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | PTB |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 14:39:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206175893473 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | KALOG |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206372359279 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | The last of ass 2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:47:30 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206365022086 |
-| Players | 2/10 |
+| Players | 9/10 |
 | Host Name | жопа |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:42:33 |
@@ -86,25 +86,61 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206375756012 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | CACHORRAO |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 18:49:45 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505206377851308 |
+| Players | 2/24 |
+| Host Name | s1buyas |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 18:51:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206367053253 |
+| Players | 1/15 |
+| Host Name | 6lade |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 18:43:55 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206377852776 |
-| Players | 2/8 |
-| Host Name | perush |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 6, 2023 18:51:08 |
+| Lobby ID | 28505206353641933 |
+| Players | 1/8 |
+| Host Name | ❤Пися-нутелла❤ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 18:34:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206378049764 |
+| Players | 3/8 |
+| Host Name | БОГДАША 1 ЛАВ |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 18:51:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206378064063 |
+| Players | 2/10 |
+| Host Name | Красавчик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 18:51:17 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206374798756 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Ἆqὖa✔Minerale™ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:49:07 |
