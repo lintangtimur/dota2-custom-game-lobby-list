@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206313388993 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ժӠɾվվ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:04:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206308021137 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | waiting for death |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 18:00:16 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206241480141 |
-| Players | 8/15 |
-| Host Name | Daniel1st |
+| Lobby ID | 28505206307639743 |
+| Players | 7/15 |
+| Host Name | Ыаы |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:57:25 |
+| Lobby Creation Time | Monday, November 6, 2023 17:59:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206274782994 |
-| Players | 5/15 |
-| Host Name | Mademoiselle |
+| Players | 4/15 |
+| Host Name | ✝ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:31:09 |
 
@@ -95,37 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206298671076 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | FeeZy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:52:22 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206313132397 |
-| Players | 3/8 |
-| Host Name | V 𝖋𝖊𝖓𝕶𝖛𝖊𝖓 V |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:04:26 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206313355767 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | YodaOFF |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 6, 2023 18:04:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206307639743 |
-| Players | 6/15 |
-| Host Name | Ыаы |
+| Lobby ID | 28505206313926069 |
+| Players | 1/10 |
+| Host Name | NeUkiN |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:59:57 |
+| Lobby Creation Time | Monday, November 6, 2023 18:05:04 |
 
 
 |  | epic_boss_fight_challenger |
