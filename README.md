@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206124940432 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | PTB |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 14:39:37 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206239147117 |
-| Players | 3/8 |
-| Host Name | ? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:54:56 |
+| Lobby ID | 28505206239675223 |
+| Players | 1/8 |
+| Host Name | bijou? |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 16:55:29 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206234520159 |
-| Players | 4/24 |
-| Host Name | Almond Butter Honey |
+| Players | 3/24 |
+| Host Name | Jesus take da wheel, take it ! |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 6, 2023 16:49:59 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206240439247 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | лосось |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 16:56:19 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206240297187 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | WTF&!о_О |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 16:56:09 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206239804436 |
-| Players | 7/8 |
-| Host Name | -$ |
+| Lobby ID | 28505206240971155 |
+| Players | 1/8 |
+| Host Name | dlySins |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:55:38 |
+| Lobby Creation Time | Monday, November 6, 2023 16:56:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -126,24 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Депутат свиней🫒 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:56:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206239675223 |
-| Players | 1/8 |
-| Host Name | bijou? |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 16:55:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206240971155 |
-| Players | 1/8 |
-| Host Name | dlySins |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:56:52 |
 
 
 |  | epic_boss_fight_nightmare |
