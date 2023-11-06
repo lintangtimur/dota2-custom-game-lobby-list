@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206031262418 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ЯДаунил |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:11:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206031350512 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | [D]iomegod |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:12:02 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206031182865 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Nyem |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:11:45 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206030103873 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Sérendipité (>ω<) |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 12:09:57 |
@@ -122,10 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206032392397 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ChAo_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 12:13:44 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505206032658248 |
+| Players | 1/24 |
+| Host Name | Taweret |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 6, 2023 12:14:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | La Rata Mayor |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 12:12:08 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206032649723 |
+| Players | 1/5 |
+| Host Name | Nidoking |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 12:14:10 |
 
 
