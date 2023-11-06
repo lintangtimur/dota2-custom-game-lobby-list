@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206322165319 |
-| Players | 8/10 |
-| Host Name | ньа ньа ньа |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:11:37 |
+| Lobby ID | 28505206322854725 |
+| Players | 6/15 |
+| Host Name | Logen |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 18:12:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206321299751 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | Genie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 18:10:57 |
@@ -85,29 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206312038961 |
-| Players | 12/15 |
-| Host Name | Larva |
+| Lobby ID | 28505206323039751 |
+| Players | 2/15 |
+| Host Name | SUPER SSSANIN |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:03:32 |
+| Lobby Creation Time | Monday, November 6, 2023 18:12:18 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206319119722 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | GOD OF WAR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:09:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206295500305 |
-| Players | 7/10 |
-| Host Name | eXploit. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:49:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -119,13 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 18:12:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206322854725 |
-| Players | 1/15 |
-| Host Name | Logen |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 18:12:10 |
+| Lobby ID | 28505206323015167 |
+| Players | 1/8 |
+| Host Name | xxxx |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 18:12:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206323004397 |
+| Players | 1/8 |
+| Host Name | 吃人 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Monday, November 6, 2023 18:12:17 |
 
 
 |  | epic_boss_fight_nightmare |
