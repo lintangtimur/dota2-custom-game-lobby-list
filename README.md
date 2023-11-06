@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206048517899 |
-| Players | 12/15 |
-| Host Name | Atlas Troll |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 12:40:50 |
+| Lobby ID | 28505206048378531 |
+| Players | 13/15 |
+| Host Name | El chipirón enrojao |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 12:40:36 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206049492751 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Madafacar |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:42:27 |
@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505206050653220 |
 | Players | 2/10 |
-| Host Name | Kenpachi |
+| Host Name | Llego tu carry :D |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 12:44:24 |
 
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206050262177 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | СAмtакоi:) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:43:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206048378531 |
-| Players | 12/15 |
-| Host Name | El chipirón enrojao |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 12:40:36 |
 
 
 |  | epic_boss_fight_nightmare |
