@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:21:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206149753684 |
-| Players | 13/15 |
-| Host Name | WTF&!о_О |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 15:12:18 |
+| Lobby ID | 28505206150697929 |
+| Players | 3/8 |
+| Host Name | 7 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 6, 2023 15:13:29 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206149970693 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Shadow |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 15:12:34 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Arthas Menethil |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 15:12:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206151287849 |
+| Players | 1/8 |
+| Host Name | КоdeиN |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 6, 2023 15:14:13 |
 
 
 |  | epic_boss_fight_nightmare |
