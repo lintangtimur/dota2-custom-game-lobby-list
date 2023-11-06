@@ -11,22 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:11:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505205988038149 |
-| Players | 14/15 |
-| Host Name | Sengoku: El Buda del Sexo |
+| Lobby ID | 28505205989376078 |
+| Players | 6/8 |
+| Host Name | DawnPlayer |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:55:24 |
+| Lobby Creation Time | Monday, November 6, 2023 10:57:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505205988315238 |
-| Players | 9/10 |
-| Host Name | МяSSSNicK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 10:55:56 |
+| Lobby ID | 28505205985614570 |
+| Players | 15/24 |
+| Host Name | jie |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 10:50:50 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205989413808 |
-| Players | 1/24 |
+| Players | 6/24 |
 | Host Name | METRALLETA JHON |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:58:00 |
@@ -54,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kyarisama |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:58:29 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505205985614570 |
-| Players | 15/24 |
-| Host Name | jie |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 10:50:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505205989376078 |
-| Players | 6/8 |
-| Host Name | DawnPlayer |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:57:56 |
 
 
 |  | epic_boss_fight_nightmare |
