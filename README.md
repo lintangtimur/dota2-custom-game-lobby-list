@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205970170895 |
-| Players | 18/24 |
+| Players | 23/24 |
 | Host Name | Maxsteel NAZI (EL PEPO) |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:22:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205969924003 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Cannoli |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:21:33 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505205970978295 |
-| Players | 1/15 |
-| Host Name | lil uzi's yurt |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 10:23:30 |
+| Lobby ID | 28505205971029275 |
+| Players | 3/15 |
+| Host Name | what the hell is going on |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 10:23:36 |
 
 
 |  | epic_boss_fight_nightmare |
