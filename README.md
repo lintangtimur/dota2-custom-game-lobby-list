@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206016943834 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 11:47:53 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206026638226 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | ZeЯN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 12:04:29 |
@@ -110,6 +110,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 12:04:59 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206027144604 |
+| Players | 1/8 |
+| Host Name | Per aspera ad astra |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 12:05:17 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206018334430 |
@@ -117,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | XhOoPe |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 11:50:17 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206022198652 |
-| Players | 8/10 |
-| Host Name | DOTA: The Legend Of Miracle |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 11:56:57 |
 
 
