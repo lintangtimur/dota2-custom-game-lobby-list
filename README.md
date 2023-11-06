@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206163818736 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Làm bố người ta à??? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 15:29:49 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206167499619 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Быдло |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 15:34:15 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206168779117 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | eleskovic^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:35:48 |
@@ -117,23 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Arcane~ |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 15:32:24 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505206168685997 |
-| Players | 1/5 |
-| Host Name | william.lewis.2009 |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 15:35:41 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206169174826 |
-| Players | 1/10 |
-| Host Name | Zone Keeper |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:36:17 |
 
 
