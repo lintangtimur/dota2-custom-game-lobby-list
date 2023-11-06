@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206175893473 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | KALOG |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
@@ -104,25 +104,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206203227798 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | farm simulator |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 16:15:21 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206202066886 |
-| Players | 7/8 |
-| Host Name | Trooman |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:14:03 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206201699769 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Влад Темерев prime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:13:39 |
