@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206283194702 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:38:51 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206283140244 |
-| Players | 5/8 |
-| Host Name | -$ |
+| Lobby ID | 28505206282814606 |
+| Players | 1/8 |
+| Host Name | Дима Жмыходавов |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:38:48 |
+| Lobby Creation Time | Monday, November 6, 2023 17:38:31 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 16:33:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206282897843 |
-| Players | 9/10 |
-| Host Name | Marmok |
+| Lobby ID | 28505206283377161 |
+| Players | 1/8 |
+| Host Name | 626 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:38:35 |
+| Lobby Creation Time | Monday, November 6, 2023 17:39:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206283480079 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | ˜'*X/☠\_₭ΐR8y_/☠\X*'˜ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:39:07 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206282245276 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | ℍ𝕒𝕡𝕡𝕪 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 17:38:00 |
@@ -117,33 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | tSnp∼ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:38:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206282814606 |
-| Players | 1/8 |
-| Host Name | Дима Жмыходавов |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:38:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206283377161 |
-| Players | 1/8 |
-| Host Name | 626 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:39:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206284002927 |
-| Players | 2/8 |
-| Host Name | dont lose for ark |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:39:35 |
 
 
 |  | epic_boss_fight_nightmare |
