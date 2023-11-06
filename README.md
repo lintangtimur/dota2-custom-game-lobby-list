@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206124940432 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | PTB |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 14:39:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206629004421 |
-| Players | 9/10 |
-| Host Name | kel'tas |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 21:11:10 |
+| Lobby ID | 28505206630090176 |
+| Players | 1/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 21:11:45 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206175893473 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | KALOG |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206629337918 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | OneWay ༼つ ◕_◕ ༽つ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 21:11:21 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206619448331 |
-| Players | 2/8 |
-| Host Name | [V] Nero [Z] |
+| Lobby ID | 28505206630173994 |
+| Players | 1/8 |
+| Host Name | fashion podonok |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 21:06:10 |
+| Lobby Creation Time | Monday, November 6, 2023 21:11:48 |
 
 
 |  | ot3_desert_octet |
@@ -132,24 +132,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505206579998614 |
 | Players | 4/15 |
-| Host Name | 𝓐𝓼𝓪 |
+| Host Name | x44t00 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 20:45:39 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206609753135 |
-| Players | 14/15 |
-| Host Name | stuart |
+| Lobby ID | 28505206630232978 |
+| Players | 1/15 |
+| Host Name | DodjIro |
 | Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 21:01:05 |
+| Lobby Creation Time | Monday, November 6, 2023 21:11:49 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206628965601 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Gonza |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 21:11:09 |
@@ -182,48 +182,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 21:11:41 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206630090176 |
-| Players | 1/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 21:11:45 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206627478902 |
-| Players | 9/10 |
-| Host Name | Администратор сарая |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 21:10:23 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505206629224958 |
-| Players | 2/5 |
-| Host Name | CyberBaked |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 21:11:17 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206602795863 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | eƿisc૦ƿ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 20:57:27 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505206630039889 |
-| Players | 1/10 |
-| Host Name | Just subscribe for Linda H |
+| Lobby ID | 28505206629224958 |
+| Players | 3/5 |
+| Host Name | CyberBaked |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 21:11:17 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206630314529 |
+| Players | 1/5 |
+| Host Name | allucaangeles |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 21:11:43 |
+| Lobby Creation Time | Monday, November 6, 2023 21:11:52 |
 
 
