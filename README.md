@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:11:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206083985469 |
-| Players | 9/10 |
-| Host Name | Karrigan |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 13:39:42 |
+| Lobby ID | 28505206089995257 |
+| Players | 1/24 |
+| Host Name | SexyLips |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 13:49:01 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206086795536 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | If you're a crrano I'll ban you |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 13:44:04 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206089319489 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | drismayilli.azer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:47:59 |
