@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205996342048 |
-| Players | 2/8 |
-| Host Name | Йаcobs monarch |
+| Players | 1/8 |
+| Host Name | SUPER_Krut228_1337 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:11:27 |
 
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 11:12:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505205996505553 |
-| Players | 7/8 |
-| Host Name | AVENA 3 URSITAS |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 11:11:45 |
+| Lobby ID | 28505205998105969 |
+| Players | 1/10 |
+| Host Name | Too Good To Win? |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 11:14:44 |
 
 
 |  | ot3_desert_octet |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205997674586 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Мiсячне Сяйво |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:13:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505205998081851 |
+| Players | 5/10 |
+| Host Name | ♿🧠 |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 11:14:41 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 李老丝丶 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 6, 2023 11:06:16 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505205998064020 |
+| Players | 1/10 |
+| Host Name | Da |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 11:14:39 |
 
 
