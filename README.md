@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206473023794 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 🍌 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 19:48:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206500327303 |
-| Players | 4/15 |
+| Players | 11/15 |
 | Host Name | S |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 20:03:45 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206469594823 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Larla |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 19:46:49 |
@@ -110,19 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 19:47:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206496940035 |
-| Players | 13/15 |
-| Host Name | マミヤKejOY |
+| Lobby ID | 28505206501634561 |
+| Players | 4/8 |
+| Host Name | Бабушкин домофон |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 20:01:54 |
+| Lobby Creation Time | Monday, November 6, 2023 20:04:27 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206473257625 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | fap my mom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:48:51 |
@@ -146,21 +146,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 20:04:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505206500683750 |
-| Players | 5/8 |
-| Host Name | worldwide baby |
+| Lobby ID | 28505206489978445 |
+| Players | 3/10 |
+| Host Name | планы на вечер |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 20:03:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206462798916 |
-| Players | 7/8 |
-| Host Name | Анальный гид |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 19:43:02 |
+| Lobby Creation Time | Monday, November 6, 2023 19:58:06 |
 
 
