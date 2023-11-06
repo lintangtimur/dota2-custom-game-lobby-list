@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206013374681 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | GonzoBloodySpy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:41:43 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206013865020 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | T - アイドル |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 11:42:34 |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 11:44:03 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206012654557 |
-| Players | 14/15 |
-| Host Name | NeonRicer |
-| Region | USWEST |
-| Lobby Creation Time | Monday, November 6, 2023 11:40:28 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206014010081 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206014364658 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | La Rata Mayor |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 11:43:26 |
