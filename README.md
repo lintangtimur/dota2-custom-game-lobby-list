@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206006409667 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | EnZo |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:29:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206006247634 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | jek ma |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 11:29:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206006224592 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Powpow |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 11:29:25 |
@@ -74,40 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 11:29:06 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206006795764 |
-| Players | 5/8 |
-| Host Name | Yo no carreo bajos |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 11:30:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206006802661 |
-| Players | 2/24 |
-| Host Name | Maxsteel NAZI (EL PEPO) |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 11:30:25 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206006841495 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Muchtolearn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:30:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206006849001 |
-| Players | 1/15 |
-| Host Name | Te@M $PIRIT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 11:30:30 |
+| Lobby ID | 28505206006802661 |
+| Players | 6/24 |
+| Host Name | Maxsteel NAZI (EL PEPO) |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 11:30:25 |
 
 
 |  | epic_boss_fight_nightmare |
