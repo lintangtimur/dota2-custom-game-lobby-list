@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206630090176 |
-| Players | 13/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 21:11:45 |
+| Lobby ID | 28505206648774888 |
+| Players | 8/15 |
+| Host Name | Fireflies |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 21:21:31 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206616573156 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Snolled |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 21:04:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206644560169 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | [EvanS]ThariuX |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 21:19:19 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206558238019 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Apollo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 20:34:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206647087881 |
-| Players | 5/10 |
-| Host Name | Мразь[UA] |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 21:20:38 |
+| Lobby ID | 28505206649942130 |
+| Players | 1/24 |
+| Host Name | 蓝胖舌吻双头龙 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 21:22:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206641335138 |
-| Players | 18/24 |
-| Host Name | STRATEGIC ИНВЕСТИЦИЯ В ТЕРПЕНИЕ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 21:17:38 |
+| Lobby ID | 28505206649557799 |
+| Players | 1/24 |
+| Host Name | -Decoy- |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 21:21:55 |
 
 
 |  | ot3_desert_octet |
@@ -126,42 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ГромоГусь |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 21:21:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206648606120 |
-| Players | 5/8 |
-| Host Name | Gently |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 21:21:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206648774888 |
-| Players | 6/15 |
-| Host Name | Fireflies |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 21:21:31 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206649557799 |
-| Players | 1/24 |
-| Host Name | -Decoy- |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 21:21:55 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206649942130 |
-| Players | 1/24 |
-| Host Name | 蓝胖舌吻双头龙 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 21:22:07 |
 
 
 |  | epic_boss_fight_nightmare |
