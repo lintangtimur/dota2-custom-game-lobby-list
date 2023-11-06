@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206137830406 |
-| Players | 3/10 |
-| Host Name | Limbo |
+| Players | 1/10 |
+| Host Name | Gromm |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 6, 2023 14:56:58 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206136963171 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | < blank > |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:55:48 |
