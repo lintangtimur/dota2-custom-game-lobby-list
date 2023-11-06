@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206051728357 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Rare |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:46:11 |
@@ -32,37 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206052155211 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 12:46:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206051554731 |
-| Players | 1/8 |
-| Host Name | I'll motherfuckin' murder her |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 12:45:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206051355438 |
-| Players | 11/15 |
-| Host Name | Сигма |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 12:45:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206052549134 |
-| Players | 5/8 |
-| Host Name | KBMM |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 12:47:34 |
 
 
 |  | ot3_desert_octet |
@@ -74,6 +47,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 12:47:36 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206051355438 |
+| Players | 14/15 |
+| Host Name | Сигма |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 12:45:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206052778785 |
+| Players | 2/8 |
+| Host Name | asd |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 12:47:57 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206047919135 |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | D E G A |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:39:50 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206052788744 |
+| Players | 2/10 |
+| Host Name | MYB11RU |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 12:47:58 |
 
 
