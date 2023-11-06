@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206021173999 |
-| Players | 5/15 |
-| Host Name | Reddy |
+| Players | 3/15 |
+| Host Name | harry |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 11:55:11 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206020000094 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Jivchik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:53:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206016943834 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 11:47:53 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206021290843 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | xd |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 11:55:23 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206021383755 |
-| Players | 8/15 |
-| Host Name | KuKin.Punkkeke |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 11:55:33 |
+| Lobby ID | 28505206021510460 |
+| Players | 1/15 |
+| Host Name | Minami<3 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 11:55:46 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DOTA: The Legend Of Miracle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:52:03 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206021474400 |
+| Players | 2/10 |
+| Host Name | 88888888888888888888888888888888 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 6, 2023 11:55:42 |
 
 
