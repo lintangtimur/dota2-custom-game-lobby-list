@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206065315515 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Сигма |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:09:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206064596176 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | B|O|O|M |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:08:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206064956669 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Gamer |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 13:08:58 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Natsumi®◘ |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 13:08:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206067037474 |
+| Players | 1/15 |
+| Host Name | Zero |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Monday, November 6, 2023 13:12:27 |
 
 
