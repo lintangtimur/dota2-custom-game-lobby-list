@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206114472387 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | BlastBeats |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:25:09 |
@@ -56,24 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:21:40 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206118390848 |
-| Players | 3/10 |
-| Host Name | ... |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 6, 2023 14:30:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206118635312 |
-| Players | 1/10 |
-| Host Name | woe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 14:30:56 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206118645246 |
@@ -81,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ky6ukHy6uk |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 14:30:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206118635312 |
+| Players | 2/10 |
+| Host Name | woe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 14:30:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206118903083 |
+| Players | 2/10 |
+| Host Name | Mika (not mira) |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 14:31:19 |
 
 
 |  | epic_boss_fight_nightmare |
