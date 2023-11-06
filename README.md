@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205955264893 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | appreciate life |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 09:54:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205960984770 |
-| Players | 16/24 |
+| Players | 14/24 |
 | Host Name | sexo anal y besos humedos |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:05:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205960574376 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | No cometas el crimen varón |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:04:24 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505205958277538 |
-| Players | 4/8 |
-| Host Name | S.C.C.O.R |
+| Lobby ID | 28505205961552452 |
+| Players | 6/8 |
+| Host Name | JonalCs |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:00:15 |
+| Lobby Creation Time | Monday, November 6, 2023 10:06:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,21 +65,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 10:05:19 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505205961530187 |
-| Players | 4/8 |
-| Host Name | U&me_godota2.com |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 10:06:09 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205961530302 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ShaV |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 10:06:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505205961592550 |
+| Players | 5/8 |
+| Host Name | - |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 10:06:16 |
 
 
