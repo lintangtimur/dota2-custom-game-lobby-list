@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505205947135593 |
-| Players | 7/8 |
-| Host Name | HellCr1st |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 09:39:48 |
+| Lobby ID | 28505205947746905 |
+| Players | 1/8 |
+| Host Name | buti sito lindo |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 09:40:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205947595303 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | cb|fh99^ #too far in the sky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 09:40:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205946843147 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | GATO KCHONDO |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 09:39:15 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205947078254 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 09:39:41 |
@@ -103,28 +103,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505205947746905 |
-| Players | 1/8 |
-| Host Name | buti sito lindo |
+| Lobby ID | 28505205947849048 |
+| Players | 5/8 |
+| Host Name | HTSlash |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 09:40:55 |
+| Lobby Creation Time | Monday, November 6, 2023 09:41:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505205947860434 |
+| Players | 5/8 |
+| Host Name | C1RU3L/| |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 09:41:08 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505205946584099 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Backdoor Enjoyer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 09:38:47 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505205947761495 |
-| Players | 1/7 |
-| Host Name | baicaiaiyuanyuan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 09:40:57 |
+| Lobby ID | 28505205947865240 |
+| Players | 1/10 |
+| Host Name | ITS_SHOWTIME |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 09:41:09 |
 
 
