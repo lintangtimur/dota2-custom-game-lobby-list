@@ -50,64 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205955296191 |
-| Players | 2/10 |
-| Host Name | Chiquitin Medalles |
+| Players | 1/10 |
+| Host Name | asdasd ☻ |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 09:54:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505205955930162 |
-| Players | 8/10 |
-| Host Name | CriTzuz |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 09:55:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505205953677178 |
-| Players | 2/24 |
-| Host Name | -♣ |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 09:51:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505205955502363 |
-| Players | 14/15 |
-| Host Name | OSITO SANGRIENTO |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 09:55:10 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505205955264893 |
-| Players | 2/24 |
-| Host Name | appreciate life |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 09:54:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505205955138310 |
-| Players | 7/10 |
-| Host Name | Hecker |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 09:54:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505205955427984 |
-| Players | 6/15 |
-| Host Name | Zellious |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 09:55:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -119,10 +65,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 09:55:00 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505205953677178 |
+| Players | 4/24 |
+| Host Name | -♣ |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 09:51:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505205955427984 |
+| Players | 7/15 |
+| Host Name | Zellious |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 09:55:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505205955264893 |
+| Players | 4/24 |
+| Host Name | appreciate life |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 09:54:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505205955138310 |
+| Players | 8/10 |
+| Host Name | Hecker |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 09:54:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505205955669485 |
+| Players | 1/8 |
+| Host Name | Lotus(A fleeting character) |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 6, 2023 09:55:28 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505205954497034 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Cpt. Douchebag |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 09:53:19 |
