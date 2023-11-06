@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206113890631 |
-| Players | 1/8 |
-| Host Name | DeeDeeNido |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 6, 2023 14:24:20 |
+| Lobby ID | 28505206115956000 |
+| Players | 2/8 |
+| Host Name | edge |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 14:27:14 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206114589253 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | 123123123123123123 |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, November 6, 2023 14:25:19 |
@@ -92,31 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:25:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206115956000 |
-| Players | 1/8 |
-| Host Name | edge |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 14:27:14 |
+| Lobby ID | 28505206116094423 |
+| Players | 2/15 |
+| Host Name | Supermeta |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 14:27:26 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206114165346 |
-| Players | 1/10 |
-| Host Name | Fihed |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 14:24:43 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206113965250 |
-| Players | 7/10 |
-| Host Name | Cpt. Douchebag |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 14:24:26 |
+| Lobby ID | 28505206116099248 |
+| Players | 1/24 |
+| Host Name | Yatoro𓆩神döta𓆪 |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 14:27:26 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -128,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:26:23 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505206115580616 |
-| Players | 1/5 |
-| Host Name | dyrachoy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 14:26:43 |
+| Lobby ID | 28505206113965250 |
+| Players | 9/10 |
+| Host Name | Cpt. Douchebag |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 14:24:26 |
 
 
