@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206043292386 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Max of Tarask |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:32:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206043843021 |
+| Players | 1/15 |
+| Host Name | who knows |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 12:32:56 |
 
 
 |  | epic_boss_fight_challenger |
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | *-_AB_-* |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:32:05 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206043877744 |
+| Players | 2/10 |
+| Host Name | {THE~@} |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 12:32:59 |
 
 
