@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206762127700 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | SHAKAツ |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 22:22:45 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 22:23:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206767258299 |
-| Players | 2/10 |
-| Host Name | 1tkin iwnl |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 22:25:42 |
+| Lobby ID | 28505206753152846 |
+| Players | 2/15 |
+| Host Name | Fearx |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 22:17:38 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206704158660 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Nickel |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 21:50:32 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206758978463 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Pidorasu a ne intelegencia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 22:20:56 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206765512561 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Нико |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 22:24:41 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206752966966 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | real human bean |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 22:17:32 |
@@ -128,13 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 22:17:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206765339433 |
-| Players | 1/8 |
-| Host Name | :D |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 22:24:35 |
+| Lobby ID | 28505206767480108 |
+| Players | 2/10 |
+| Host Name | Kinmekki |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 22:25:49 |
 
 
 |  | ot3_gardens_duo |
@@ -146,15 +146,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 22:24:31 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206767274179 |
-| Players | 4/10 |
-| Host Name | G-Dog |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 22:25:42 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206767123143 |
@@ -164,40 +155,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 22:25:37 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206767480108 |
-| Players | 2/10 |
-| Host Name | Kinmekki |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 22:25:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206767505393 |
-| Players | 5/8 |
-| Host Name | ЛАЙТ?) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 22:25:50 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206764859213 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Анальный дебошир |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 22:24:19 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206765226222 |
-| Players | 6/10 |
-| Host Name | 『 Thicc Donger 』 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 22:24:32 |
 
 
 |  | epic_boss_fight_nightmare |
