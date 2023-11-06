@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205993610452 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | More |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:06:18 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205993510210 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | TopolM2077 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:06:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505205993632734 |
-| Players | 12/15 |
-| Host Name | MODE ISSASHOW |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 11:06:21 |
+| Lobby ID | 28505205994373062 |
+| Players | 1/8 |
+| Host Name | [EvanS]ThariuX |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 11:07:45 |
 
 
 |  | ot3_desert_octet |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 11:07:06 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505205994373062 |
-| Players | 1/8 |
-| Host Name | [EvanS]ThariuX |
+| Lobby ID | 28505205994502741 |
+| Players | 6/24 |
+| Host Name | J. |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 11:07:45 |
+| Lobby Creation Time | Monday, November 6, 2023 11:07:59 |
 
 
 |  | epic_boss_fight_nightmare |
