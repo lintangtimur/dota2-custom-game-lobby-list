@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205983730265 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | -♣ |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:47:18 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 10:39:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505205981032588 |
-| Players | 22/24 |
-| Host Name | Jesus |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 10:42:13 |
+| Lobby ID | 28505205985429062 |
+| Players | 1/15 |
+| Host Name | ewyang |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 10:50:30 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205983530367 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | dogical |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 10:46:55 |
@@ -85,11 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505205985384922 |
-| Players | 1/15 |
-| Host Name | tengo un conocido que es joro |
+| Lobby ID | 28505205985439031 |
+| Players | 3/15 |
+| Host Name | NoMercy |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:50:24 |
+| Lobby Creation Time | Monday, November 6, 2023 10:50:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505205985471892 |
+| Players | 5/8 |
+| Host Name | Aki- |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 10:50:34 |
 
 
 |  | epic_boss_fight_nightmare |
