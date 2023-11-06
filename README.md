@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206021173999 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Reddy |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 11:55:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206016807966 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Loka |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 11:47:38 |
@@ -58,29 +58,56 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206021215222 |
+| Lobby ID | 28505206021257523 |
 | Players | 1/15 |
-| Host Name | Miguel JM |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 11:55:15 |
+| Host Name | Muchtolearn |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 11:55:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206021216155 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | SI |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 11:55:15 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206021219595 |
+| Players | 2/8 |
+| Host Name | pene maniaco |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 11:55:16 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206021207948 |
+| Lobby ID | 28505206021270511 |
 | Players | 1/24 |
-| Host Name | βЯUИØ |
+| Host Name | Dr Tazerenix |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 11:55:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206021290843 |
+| Players | 1/15 |
+| Host Name | xd |
 | Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 11:55:14 |
+| Lobby Creation Time | Monday, November 6, 2023 11:55:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206021328591 |
+| Players | 6/8 |
+| Host Name | El Tio Custom |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 11:55:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206019355030 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | DOTA: The Legend Of Miracle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:52:03 |
