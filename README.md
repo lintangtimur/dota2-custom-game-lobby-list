@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205996342048 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Йаcobs monarch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:11:27 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205996107330 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Чернейшая из Душ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:11:01 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | AVENA 3 URSITAS |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:11:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505205996575364 |
+| Players | 1/15 |
+| Host Name | Quagmire |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 11:11:53 |
 
 
 |  | epic_boss_fight_nightmare |
