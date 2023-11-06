@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206102697556 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Parkur TV |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:08:17 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:08:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206102951782 |
-| Players | 1/15 |
-| Host Name | Judaswithoutmoney |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 14:08:39 |
+| Lobby ID | 28505206100537609 |
+| Players | 9/10 |
+| Host Name | ПОЛОВОЙ КОНТРАКТ |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 14:05:06 |
 
 
 |  | epic_boss_fight_nightmare |
