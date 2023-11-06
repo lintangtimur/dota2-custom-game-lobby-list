@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206189958041 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | appreciate life |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 16:00:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206185893181 |
-| Players | 3/15 |
-| Host Name | Максимка |
-| Region | USWEST |
-| Lobby Creation Time | Monday, November 6, 2023 15:55:52 |
+| Lobby ID | 28505206190096703 |
+| Players | 2/8 |
+| Host Name | donorstail |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 6, 2023 16:00:42 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206154515216 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | swap commends |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 15:18:17 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206188096816 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Ｍｉｌｌｙ ★ |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 15:58:24 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206185927750 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | who knows |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 15:55:55 |
@@ -113,18 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206189800269 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | logive12 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:00:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505206190096703 |
-| Players | 2/8 |
-| Host Name | donorstail |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 6, 2023 16:00:42 |
+| Lobby ID | 28505206190425305 |
+| Players | 1/5 |
+| Host Name | KILLER. 13 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 6, 2023 16:01:04 |
 
 
