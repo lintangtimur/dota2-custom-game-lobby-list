@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205978942854 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | Разрушитель |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:38:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205982720284 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Colsexo |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:45:23 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205981032588 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Jesus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 10:42:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505205983104439 |
-| Players | 5/8 |
-| Host Name | Nicefrog |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:46:07 |
+| Lobby ID | 28505205983268198 |
+| Players | 2/15 |
+| Host Name | Osaed |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 10:46:25 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205982402185 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Jasmine |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 10:44:48 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205983053253 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Staff |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 10:46:01 |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | юпитер (lft2) |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 10:46:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505205983195274 |
-| Players | 3/8 |
-| Host Name | сергей маляр |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 10:46:17 |
 
 
 |  | epic_boss_fight_nightmare |
