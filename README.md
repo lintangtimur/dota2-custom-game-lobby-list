@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206061661212 |
-| Players | 9/15 |
-| Host Name | Dream |
+| Players | 7/15 |
+| Host Name | Mode:Sisyphus |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 13:03:21 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206061441104 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | WEED |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 13:02:58 |
@@ -56,12 +56,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:00:38 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206061754109 |
-| Players | 1/5 |
-| Host Name | Just subscribe for Linda H |
+| Lobby ID | 28505206061994695 |
+| Players | 5/15 |
+| Host Name | Lada niva 4 life! |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 13:03:30 |
+| Lobby Creation Time | Monday, November 6, 2023 13:03:55 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505206062066237 |
+| Players | 1/24 |
+| Host Name | PENEDURO |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 13:04:02 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206062061996 |
+| Players | 1/10 |
+| Host Name | I miss the rage |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 13:04:02 |
 
 
