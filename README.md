@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206074875596 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Gaaaaa |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 13:25:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206074233285 |
-| Players | 9/10 |
-| Host Name | ♿🧠 |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 13:24:15 |
+| Lobby ID | 28505206075452568 |
+| Players | 1/8 |
+| Host Name | I'll motherfuckin' murder her |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 13:26:11 |
 
 
 |  | ot3_gardens_duo |
@@ -69,18 +69,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505206075090927 |
 | Players | 7/15 |
-| Host Name | GT |
+| Host Name | Maldiño |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 13:25:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206075452568 |
-| Players | 1/8 |
-| Host Name | I'll motherfuckin' murder her |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 13:26:11 |
 
 
 |  | epic_boss_fight_nightmare |
