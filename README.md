@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205974014585 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Sneaky like a Snek |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 10:29:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205973547983 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | [Orda]Alfa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:28:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205973601872 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | чел |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:28:24 |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205974403922 |
-| Players | 3/15 |
-| Host Name | Derios pipipi |
+| Players | 8/15 |
+| Host Name | BUMBAYASH. |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:29:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505205974894814 |
+| Players | 3/10 |
+| Host Name | DEFINICION ETERNA |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 10:30:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505205974974330 |
+| Players | 6/8 |
+| Host Name | LongoPatan |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 10:30:59 |
 
 
 |  | epic_boss_fight_nightmare |
