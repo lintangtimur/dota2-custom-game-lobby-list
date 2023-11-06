@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206018993667 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | O'Sullivan |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:51:25 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206020000094 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Jivchik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:53:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206016943834 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 11:47:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206016807966 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Echizennn |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 11:47:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206018988336 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ЯДаунил |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:51:25 |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206020159627 |
-| Players | 2/15 |
-| Host Name | frankistein555 |
+| Players | 3/15 |
+| Host Name | Más Narnia |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 11:53:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206020390002 |
+| Players | 1/8 |
+| Host Name | 난 그들을 증오 |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 11:53:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206020380670 |
+| Players | 1/8 |
+| Host Name | Sad Clown((( |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 11:53:49 |
 
 
 |  | epic_boss_fight_nightmare |
