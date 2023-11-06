@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 10:51:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505205984451334 |
-| Players | 9/10 |
-| Host Name | Too Good To Win? |
+| Lobby ID | 28505205986883982 |
+| Players | 2/15 |
+| Host Name | kiLLEr |
 | Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 10:48:38 |
+| Lobby Creation Time | Monday, November 6, 2023 10:53:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 10:52:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505205986883982 |
-| Players | 2/15 |
-| Host Name | kiLLEr |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 10:53:14 |
+| Lobby ID | 28505205987037957 |
+| Players | 1/10 |
+| Host Name | Marimo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 10:53:32 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505205985867348 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | MYB11RU |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 10:51:19 |
