@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206317854775 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Убийца Билла |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:08:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206175893473 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | KALOG |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206318015857 |
-| Players | 1/10 |
+| Players | 7/10 |
 | Host Name | Агент Габена |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 18:08:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206317414812 |
-| Players | 10/15 |
-| Host Name | FORNICATOR_MAXIMUS |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 18:07:52 |
+| Lobby ID | 28505206318206003 |
+| Players | 1/8 |
+| Host Name | Freez-Blood.ru Black Flesh |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 18:08:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -99,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | НАТЯЖНЫЕ ПОТОЛКИ |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 18:08:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206318201251 |
+| Players | 4/8 |
+| Host Name | Missing you happiness |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 18:08:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206241480141 |
+| Players | 14/15 |
+| Host Name | Daniel1st |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 16:57:25 |
 
 
 |  | epic_boss_fight_challenger |
