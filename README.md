@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505206297619927 |
 | Players | 3/24 |
-| Host Name | Mr. Чел |
+| Host Name | Yafa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:51:28 |
 
@@ -41,28 +41,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206175893473 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | KALOG |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206274782994 |
-| Players | 13/15 |
-| Host Name | Mademoiselle |
+| Lobby ID | 28505206307676058 |
+| Players | 4/10 |
+| Host Name | Despeller |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:31:09 |
+| Lobby Creation Time | Monday, November 6, 2023 17:59:59 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206295103253 |
-| Players | 7/8 |
-| Host Name | блек ангус |
+| Lobby ID | 28505206281479623 |
+| Players | 5/8 |
+| Host Name | 啤酒大学校长 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:49:17 |
+| Lobby Creation Time | Monday, November 6, 2023 17:37:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206307639743 |
+| Players | 7/15 |
+| Host Name | dv3xxx |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 17:59:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206300083313 |
+| Players | 1/15 |
+| Host Name | ASPE_RIN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 17:53:34 |
 
 
 |  | epic_boss_fight_challenger |
