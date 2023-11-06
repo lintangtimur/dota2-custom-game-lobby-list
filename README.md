@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206202839915 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | slipknotik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:14:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206203398732 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | P.S.I.X |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:15:32 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 16:13:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206203317829 |
-| Players | 8/10 |
-| Host Name | Sanyo |
+| Lobby ID | 28505206203628776 |
+| Players | 1/8 |
+| Host Name | Moon |
 | Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 16:15:27 |
+| Lobby Creation Time | Monday, November 6, 2023 16:15:48 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206203227798 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | farm simulator |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 16:15:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206203628776 |
-| Players | 1/8 |
-| Host Name | Moon |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 16:15:48 |
 
 
 |  | epic_boss_fight_normal |
@@ -149,9 +140,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206203532175 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | eƿisc૦ƿ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 16:15:41 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206203794874 |
+| Players | 1/10 |
+| Host Name | Tovi - |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 16:15:59 |
 
 
