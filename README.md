@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:39:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206172658359 |
-| Players | 7/8 |
-| Host Name | только мне можно руинить |
+| Lobby ID | 28505206172278286 |
+| Players | 14/15 |
+| Host Name | Кухонный Spirit |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:40:24 |
+| Lobby Creation Time | Monday, November 6, 2023 15:39:57 |
 
 
 |  | ot3_gardens_duo |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:38:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206172278286 |
-| Players | 12/15 |
-| Host Name | Кухонный Spirit |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:39:57 |
+| Lobby ID | 28505206173614901 |
+| Players | 3/8 |
+| Host Name | [ZIG]Arthas |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 6, 2023 15:41:31 |
 
 
 |  | epic_boss_fight_challenger |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206173136876 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Duck My Sick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 15:40:58 |
