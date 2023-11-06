@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206028808061 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | 113 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:07:52 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206028874979 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Hurricane Hasan |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 12:07:59 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 12:07:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206029787539 |
-| Players | 7/8 |
-| Host Name | 얼티밋고스트 |
+| Lobby ID | 28505206030518156 |
+| Players | 6/10 |
+| Host Name | LEAR |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 12:09:27 |
+| Lobby Creation Time | Monday, November 6, 2023 12:10:38 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206030103873 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | COVID - 19 |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 12:09:57 |
@@ -101,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 12:10:34 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206030518156 |
-| Players | 6/10 |
-| Host Name | LEAR |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 12:10:38 |
+| Lobby ID | 28505206030646455 |
+| Players | 3/8 |
+| Host Name | Nocturne |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 12:10:51 |
 
 
