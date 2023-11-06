@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205998686036 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | SUPER_Krut228_1337 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:15:48 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205999197650 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Rumbo al retiro |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:16:44 |
@@ -101,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 11:14:39 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28505205999307680 |
-| Players | 1/10 |
-| Host Name | .... |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 11:16:57 |
+| Lobby ID | 28505205999349237 |
+| Players | 1/7 |
+| Host Name | kaito |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 11:17:01 |
 
 
