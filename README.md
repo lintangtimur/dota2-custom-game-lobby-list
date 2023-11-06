@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206543270256 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | chill doto |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 20:26:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206545727984 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | чучмек |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 20:27:56 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206545759023 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | я пиздец |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 20:27:57 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206544573169 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | ToughSpirit |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 20:27:19 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206545632263 |
-| Players | 8/10 |
-| Host Name | ≧◠ᴥ◠≦ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 20:27:53 |
+| Lobby ID | 28505206511305125 |
+| Players | 14/15 |
+| Host Name | r3d |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 20:09:38 |
 
 
 |  | ot3_jungle_quintet |
@@ -128,13 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 20:28:16 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206540554802 |
-| Players | 23/24 |
-| Host Name | chokeza555+ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 20:25:12 |
+| Lobby ID | 28505206546644317 |
+| Players | 3/8 |
+| Host Name | The End |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 20:28:25 |
 
 
 |  | epic_boss_fight_nightmare |
