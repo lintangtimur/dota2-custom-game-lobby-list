@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206021173999 |
-| Players | 8/15 |
-| Host Name | PuchunGOZU |
+| Players | 7/15 |
+| Host Name | Leonidas |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 11:55:11 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206016943834 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 11:47:53 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206025389937 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | cueck |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:02:25 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ESCANOR EL LEON HORGULLO |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 12:04:38 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206026956152 |
+| Players | 2/15 |
+| Host Name | 6☦god |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 12:04:59 |
 
 
 |  | epic_boss_fight_nightmare |
