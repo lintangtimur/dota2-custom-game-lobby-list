@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206344146351 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Henry Cavill |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 18:28:02 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206340011182 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Смурф на фп |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:25:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206345136361 |
-| Players | 7/8 |
-| Host Name | ToughSpirit |
+| Lobby ID | 28505206348946289 |
+| Players | 1/10 |
+| Host Name | toflex |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 18:28:44 |
+| Lobby Creation Time | Monday, November 6, 2023 18:31:27 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206348646608 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Frisk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:31:14 |
