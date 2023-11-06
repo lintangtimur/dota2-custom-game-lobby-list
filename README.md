@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206175893473 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | KALOG |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206270462570 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Chucky™ |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 6, 2023 17:27:01 |
@@ -76,38 +76,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206267807362 |
-| Players | 21/24 |
-| Host Name | LIL BABY TAPE ZXC |
+| Lobby ID | 28505206271175277 |
+| Players | 1/24 |
+| Host Name | Instrument~ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 17:24:26 |
+| Lobby Creation Time | Monday, November 6, 2023 17:27:43 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206270405403 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | 777777777777777 |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 17:26:58 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206271268092 |
+| Players | 5/8 |
+| Host Name | Долбаёб, фижу всё! |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 17:27:48 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206269825069 |
-| Players | 11/15 |
-| Host Name | Natus Vinci |
+| Lobby ID | 28505206241480141 |
+| Players | 10/15 |
+| Host Name | BrölBröl |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:26:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206259851900 |
-| Players | 14/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 17:16:34 |
+| Lobby Creation Time | Monday, November 6, 2023 16:57:25 |
 
 
 |  | epic_boss_fight_normal |
