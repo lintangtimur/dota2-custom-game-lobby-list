@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206124940432 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 14:39:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206144106493 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Kermit Da Frog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 15:05:20 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206142497628 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Caramelbear |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 15:03:15 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206145378320 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | bon voyage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:06:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206145314093 |
-| Players | 1/15 |
-| Host Name | سندليف |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 15:06:50 |
+| Lobby ID | 28505206144593571 |
+| Players | 7/8 |
+| Host Name | КАЛ МНОГО КАЛА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 15:05:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206142843726 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | stacked |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 6, 2023 15:03:42 |
