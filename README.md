@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206101993897 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | хочу татарочку |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:07:15 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:03:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206102604815 |
-| Players | 1/15 |
-| Host Name | в |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 14:08:09 |
+| Lobby ID | 28505206102098390 |
+| Players | 5/24 |
+| Host Name | 风显 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 14:07:24 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:06:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206086795536 |
-| Players | 23/24 |
-| Host Name | Viper Venom |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 13:44:04 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206102098390 |
-| Players | 4/24 |
-| Host Name | 风显 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 14:07:24 |
+| Lobby ID | 28505206102697556 |
+| Players | 1/15 |
+| Host Name | Parkur TV |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 14:08:17 |
 
 
 |  | epic_boss_fight_nightmare |
