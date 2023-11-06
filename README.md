@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206004336059 |
-| Players | 2/8 |
-| Host Name | MiaNoona |
+| Players | 1/8 |
+| Host Name | 0% hit rate sniper |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 11:26:06 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206008828223 |
-| Players | 8/10 |
+| Players | 5/10 |
 | Host Name | EL VENECO |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:33:57 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206006992921 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Tornado Thanh |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 11:30:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206009400293 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | ///M Akrop |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 11:34:56 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206006247634 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | [Komm] イレイナ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 11:29:27 |
@@ -113,9 +113,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206009666013 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | potage007 |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 11:35:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206008930388 |
+| Players | 4/8 |
+| Host Name | renegado |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 11:34:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206009801637 |
+| Players | 6/8 |
+| Host Name | El Tio Custom |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 11:35:38 |
 
 
