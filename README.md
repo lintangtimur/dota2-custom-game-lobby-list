@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205988317541 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | El Rey Brujo de Angmar |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:55:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205986883982 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | kiLLEr |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 10:53:14 |
@@ -68,16 +68,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205988550453 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | 葉王・朝倉 |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:56:22 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505205988807351 |
+| Players | 5/15 |
+| Host Name | Dream |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 10:56:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505205988438942 |
+| Players | 4/8 |
+| Host Name | мопед в воду упал |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 10:56:10 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505205987842704 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | DayDreamer |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 10:55:02 |
