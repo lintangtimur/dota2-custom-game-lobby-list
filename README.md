@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206016751102 |
-| Players | 9/10 |
-| Host Name | Too Good To Win? |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 11:47:33 |
+| Lobby ID | 28505206018988336 |
+| Players | 2/10 |
+| Host Name | ..... |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 11:51:25 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206021257523 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Muchtolearn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:55:20 |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206021290843 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Dan |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 11:55:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206018988336 |
-| Players | 2/10 |
-| Host Name | ..... |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 11:51:25 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,18 +122,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206021474400 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 88888888888888888888888888888888 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 6, 2023 11:55:42 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206021963823 |
-| Players | 1/10 |
-| Host Name | Loading |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 6, 2023 11:56:32 |
 
 
