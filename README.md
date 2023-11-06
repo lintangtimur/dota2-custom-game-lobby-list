@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206040162362 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | El Rey Brujo de Angmar |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:26:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206040734124 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Goodbye Bystander |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:27:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206040924239 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | El Che |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:27:59 |
@@ -68,28 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206040768586 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Immortal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:27:43 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206040976683 |
-| Players | 1/15 |
-| Host Name | Nemro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 12:28:05 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206041181866 |
-| Players | 2/8 |
-| Host Name | Батя дед инсайд |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 6, 2023 12:28:25 |
+| Lobby ID | 28505206041216600 |
+| Players | 1/8 |
+| Host Name | xdxdxd |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 12:28:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206041244336 |
+| Players | 3/15 |
+| Host Name | Antonio Margharette |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 12:28:32 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505206034603638 |
+| Players | 23/24 |
+| Host Name | Xxecho-slamxX |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 12:17:26 |
 
 
 |  | epic_boss_fight_challenger |
