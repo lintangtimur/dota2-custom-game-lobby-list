@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:33:11 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206166749044 |
-| Players | 1/8 |
-| Host Name | 尸丹乚丁囗丂 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:33:21 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206165954647 |
@@ -108,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Arcane~ |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 15:32:24 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28505206166916447 |
+| Players | 2/7 |
+| Host Name | 忠厚老实的晨曦 |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 6, 2023 15:33:33 |
 
 
