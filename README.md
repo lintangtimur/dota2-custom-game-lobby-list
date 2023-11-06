@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205948961679 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 助けてください |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 09:43:09 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205944741417 |
-| Players | 9/24 |
+| Players | 6/24 |
 | Host Name | Impress the Kid |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 09:35:24 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205949655810 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Victor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 09:44:26 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205949764400 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ЛиканХРЮК (СВО) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 09:44:38 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205950154612 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Tabarnak de câlisse |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 09:45:21 |
@@ -122,19 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205948327983 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Elerne |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 09:42:00 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505205950182803 |
-| Players | 4/8 |
-| Host Name | montagem coral |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 09:45:24 |
+| Lobby ID | 28505205950257539 |
+| Players | 4/10 |
+| Host Name | U&me_godota2.com |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 09:45:32 |
 
 
 |  | epic_boss_fight_nightmare |
