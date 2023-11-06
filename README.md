@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205974894814 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | DEFINICION ETERNA |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:30:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505205974974330 |
-| Players | 7/8 |
-| Host Name | LongoPatan |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:30:59 |
+| Lobby ID | 28505205975117400 |
+| Players | 1/15 |
+| Host Name | Gransax |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 10:31:15 |
 
 
 |  | ot3_gardens_duo |
