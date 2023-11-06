@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206309075587 |
-| Players | 8/10 |
-| Host Name | Basuka Hands |
+| Lobby ID | 28505206329838191 |
+| Players | 9/10 |
+| Host Name | Vasya HURRICANE |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:01:09 |
+| Lobby Creation Time | Monday, November 6, 2023 18:17:31 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206321131811 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | WF.Proeba Je |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:10:49 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206332635514 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | マミヤKejOY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:19:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206241480141 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | T 1000 Bot |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:57:25 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 18:19:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206331440611 |
-| Players | 6/8 |
-| Host Name | АРТЕМ СТРУБЦИНА |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 6, 2023 18:18:43 |
+| Lobby ID | 28505206333570307 |
+| Players | 1/15 |
+| Host Name | Elinbarrage |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 18:20:18 |
 
 
 |  | ot3_necropolis_ffa |
@@ -112,38 +112,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206332017077 |
-| Players | 6/8 |
-| Host Name | codename.300) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:19:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206332475159 |
-| Players | 2/10 |
-| Host Name | радик можно разоб |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:19:29 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206333201883 |
-| Players | 7/24 |
-| Host Name | POM |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 18:20:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28505206330180428 |
 | Players | 1/8 |
 | Host Name | Ха-ха-ха I♡ANAL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:17:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206324685115 |
+| Players | 2/8 |
+| Host Name | Prodigy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 18:13:34 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505206333201883 |
+| Players | 8/24 |
+| Host Name | POM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 18:20:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -158,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206326962812 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | ♥HeavenGirl♥ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:15:19 |
@@ -171,5 +162,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 世界是残酷的 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 18:19:31 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206324446466 |
+| Players | 4/10 |
+| Host Name | LaZaR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 18:13:24 |
 
 
