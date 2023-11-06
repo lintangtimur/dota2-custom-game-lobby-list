@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206162658854 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Mouches Volantes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:28:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206162731172 |
-| Players | 13/15 |
-| Host Name | bon voyage |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:28:29 |
+| Lobby ID | 28505206163225522 |
+| Players | 1/24 |
+| Host Name | $WAAAAAG |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 6, 2023 15:29:05 |
 
 
 |  | ot3_gardens_duo |
@@ -103,10 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505206163094007 |
+| Lobby ID | 28505206163148972 |
 | Players | 1/5 |
-| Host Name | Lookas |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 6, 2023 15:28:56 |
+| Host Name | Joyjoy |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 6, 2023 15:29:00 |
 
 
