@@ -33,18 +33,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505206132156701 |
 | Players | 2/8 |
-| Host Name | ковапс |
+| Host Name | Artem YAZ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 14:49:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206130382936 |
-| Players | 9/15 |
-| Host Name | wp |
+| Lobby ID | 28505206132499288 |
+| Players | 1/24 |
+| Host Name | WF.Proeba Je |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 6, 2023 14:47:01 |
+| Lobby Creation Time | Monday, November 6, 2023 14:49:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 14:48:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206131989180 |
-| Players | 4/15 |
-| Host Name | EL HOMBRE SIDA !! |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 14:49:10 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206132499288 |
-| Players | 1/24 |
-| Host Name | WF.Proeba Je |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 6, 2023 14:49:51 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206132396997 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Fortuna |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:49:43 |
