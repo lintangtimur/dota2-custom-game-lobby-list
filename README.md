@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206187338350 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | I7 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 15:57:32 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206186198284 |
-| Players | 1/10 |
-| Host Name | Мохнатое Колесо |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 6, 2023 15:56:13 |
+| Lobby ID | 28505206187828263 |
+| Players | 1/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 15:58:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,46 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206186662680 |
-| Players | 3/10 |
-| Host Name | Dead Inside |
+| Players | 1/10 |
+| Host Name | xxxx |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 6, 2023 15:56:45 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206187828263 |
-| Players | 1/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 15:58:06 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206187892409 |
-| Players | 2/10 |
-| Host Name | Leo´stian ♡ |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 15:58:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206187885674 |
-| Players | 1/10 |
-| Host Name | . |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 15:58:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206187906497 |
-| Players | 2/10 |
-| Host Name | ... |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 15:58:11 |
+| Lobby ID | 28505206187985407 |
+| Players | 3/10 |
+| Host Name | Мохнатое Колесо |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 15:58:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -162,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Blood Greeting |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 15:58:10 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505206187902235 |
-| Players | 1/5 |
-| Host Name | Kukushka |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 15:58:11 |
 
 
