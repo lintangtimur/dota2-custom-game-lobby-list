@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206184123950 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | waiting for death |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 15:53:49 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206184718580 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | ILOVEKAKAT`666 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:54:31 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206180975174 |
-| Players | 7/8 |
-| Host Name | поллюцифер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:50:08 |
+| Lobby ID | 28505206184987724 |
+| Players | 3/8 |
+| Host Name | wh1tn3s_OPIUM |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 15:54:49 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ryujiin.GG [ Buunja ] |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 15:53:52 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206184885376 |
+| Players | 2/10 |
+| Host Name | 🐒 M O N K E 🐒 |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 15:54:42 |
 
 
