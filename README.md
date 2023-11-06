@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206671193515 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | 乱战先锋第一骚货！ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 21:33:12 |
@@ -29,31 +29,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:39:37 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206706721777 |
+| Players | 2/10 |
+| Host Name | |||||||||||| |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 21:51:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206707022445 |
+| Players | 1/8 |
+| Host Name | nothing new |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 21:52:04 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206706518515 |
-| Players | 1/15 |
-| Host Name | kripachyo |
+| Lobby ID | 28505206686731232 |
+| Players | 3/15 |
+| Host Name | Fesyse |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 21:51:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206705915937 |
-| Players | 10/15 |
-| Host Name | MilF-HanteR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 21:51:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206705919155 |
-| Players | 9/15 |
-| Host Name | Zzz negr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 21:51:29 |
+| Lobby Creation Time | Monday, November 6, 2023 21:41:19 |
 
 
 |  | ot3_desert_octet |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206705804562 |
+| Lobby ID | 28505206707352546 |
 | Players | 1/24 |
-| Host Name | Mun |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 21:51:25 |
+| Host Name | 太田 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 21:52:15 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206703720581 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | A$ad |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 21:50:18 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206705310878 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ezzzzzzz |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 21:51:09 |
@@ -164,51 +164,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 21:51:19 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206707022445 |
-| Players | 1/8 |
-| Host Name | nothing new |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 21:52:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206706721777 |
-| Players | 2/10 |
-| Host Name | |||||||||||| |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 21:51:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206686731232 |
-| Players | 2/15 |
-| Host Name | МrβoyŠkaut© |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 21:41:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206706998469 |
-| Players | 4/8 |
-| Host Name | пенисист |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 6, 2023 21:52:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206690522909 |
-| Players | 14/15 |
-| Host Name | Dionis92 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 21:43:18 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206688132196 |
@@ -221,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505206705144833 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | radiant desolation |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 21:51:03 |
