@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 12:19:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206035799987 |
-| Players | 1/8 |
-| Host Name | SoreX |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 12:19:26 |
+| Lobby ID | 28505206036220680 |
+| Players | 3/24 |
+| Host Name | Salival |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 12:20:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -49,24 +49,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206032357359 |
-| Players | 14/15 |
-| Host Name | Dr. Chaputin modo Sexo |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 12:13:41 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206036220680 |
-| Players | 1/24 |
-| Host Name | Salival |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 12:20:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28505206036304897 |
 | Players | 1/15 |
 | Host Name | Vados |
@@ -74,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 12:20:15 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206035559269 |
-| Players | 1/5 |
-| Host Name | Барыга насвая |
+| Lobby ID | 28505206036524425 |
+| Players | 1/8 |
+| Host Name | SoreX |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 12:19:02 |
+| Lobby Creation Time | Monday, November 6, 2023 12:20:37 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206035594626 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Pasta |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 12:19:05 |
