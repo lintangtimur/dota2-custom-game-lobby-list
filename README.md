@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206529613627 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | Heaven & Earth |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 20:19:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206511305125 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | CameraMan |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 20:09:38 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 19:27:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206525287599 |
-| Players | 12/15 |
-| Host Name | MrSuperman|002| |
+| Lobby ID | 28505206530887009 |
+| Players | 1/8 |
+| Host Name | чвк фембой Падж |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 20:17:06 |
+| Lobby Creation Time | Monday, November 6, 2023 20:20:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206518939943 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | kudzo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 20:13:43 |
@@ -191,30 +191,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 20:19:57 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206530887009 |
-| Players | 1/8 |
-| Host Name | чвк фембой Падж |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 20:20:05 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206519975353 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Daimon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 20:14:16 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505206531012130 |
-| Players | 1/5 |
-| Host Name | MadMax |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 6, 2023 20:20:09 |
+| Lobby ID | 28505206531113563 |
+| Players | 1/10 |
+| Host Name | undefeatable opponent |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 20:20:12 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28505206531364715 |
+| Players | 1/7 |
+| Host Name | "DemoN" |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 20:20:20 |
 
 
