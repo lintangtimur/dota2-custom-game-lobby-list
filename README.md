@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206149423540 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | CLOWN |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 15:11:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206141893987 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 15:02:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206149753684 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | WTF&!о_О |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 15:12:18 |
@@ -68,28 +68,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206144106493 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Kermit Da Frog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 15:05:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206149303546 |
-| Players | 3/8 |
-| Host Name | Каюс Бонус |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 6, 2023 15:11:44 |
+| Lobby ID | 28505206150011326 |
+| Players | 1/15 |
+| Host Name | Teddy |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 15:12:38 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206149788193 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | kindamental |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:12:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206149970693 |
+| Players | 5/15 |
+| Host Name | Shadow |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 15:12:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206149980237 |
+| Players | 2/10 |
+| Host Name | Arthas Menethil |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 15:12:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206149995829 |
+| Players | 1/8 |
+| Host Name | СAмtакоi:) |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 6, 2023 15:12:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206150013636 |
+| Players | 5/8 |
+| Host Name | Spit in my face |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 6, 2023 15:12:38 |
 
 
 |  | epic_boss_fight_nightmare |
