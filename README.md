@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206001665169 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | DN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:21:19 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206003087167 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Jakou, Buster Blader |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 11:23:52 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206002807207 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Marcos3tres |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 11:23:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206002999829 |
-| Players | 14/15 |
-| Host Name | J.Grimm |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 11:23:43 |
+| Lobby ID | 28505206003864835 |
+| Players | 1/10 |
+| Host Name | talent?hardwork? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 11:25:16 |
 
 
 |  | ot3_jungle_quintet |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | -Padrastro 100% |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:25:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206003864835 |
-| Players | 1/10 |
-| Host Name | talent?hardwork? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 11:25:16 |
 
 
 |  | epic_boss_fight_nightmare |
