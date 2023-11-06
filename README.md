@@ -68,18 +68,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505205993589604 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | 李老丝丶 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 6, 2023 11:06:16 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505205997048567 |
-| Players | 1/5 |
-| Host Name | Пердёж |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 11:12:46 |
 
 
