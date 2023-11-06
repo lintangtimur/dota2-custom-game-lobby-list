@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:39:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206194295951 |
-| Players | 23/24 |
-| Host Name | LiLkUrSo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 16:05:32 |
+| Lobby ID | 28505206197153661 |
+| Players | 10/15 |
+| Host Name | бамбуча лялябра |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 16:08:39 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206175893473 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | KALOG |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206196440017 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | bahcheeeparis |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:07:53 |
@@ -74,48 +74,75 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 16:08:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206197451043 |
-| Players | 10/15 |
-| Host Name | Бавтика |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:08:59 |
+| Lobby ID | 28505206197783760 |
+| Players | 1/8 |
+| Host Name | 346515 |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 16:09:20 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206197362014 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | илюша |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 6, 2023 16:08:53 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206197617981 |
+| Players | 1/8 |
+| Host Name | XkOMVuk |
+| Region | USWEST |
+| Lobby Creation Time | Monday, November 6, 2023 16:09:09 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206197153661 |
-| Players | 9/15 |
-| Host Name | бамбуча лялябра |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 16:08:39 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206191077452 |
-| Players | 8/10 |
-| Host Name | XL #SUMMERRUST |
+| Lobby ID | 28505206198160724 |
+| Players | 5/15 |
+| Host Name | Десантный кораблb |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:01:50 |
+| Lobby Creation Time | Monday, November 6, 2023 16:09:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206198351251 |
+| Players | 3/10 |
+| Host Name | Ox |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 16:09:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505206198369690 |
+| Players | 1/24 |
+| Host Name | jzcz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 16:09:59 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206197893032 |
+| Players | 1/5 |
+| Host Name | Uchiha Madara |
+| Region | USWEST |
+| Lobby Creation Time | Monday, November 6, 2023 16:09:27 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505206197695784 |
+| Lobby ID | 28505206198281365 |
 | Players | 1/10 |
-| Host Name | Bogart |
-| Region | USWEST |
-| Lobby Creation Time | Monday, November 6, 2023 16:09:14 |
+| Host Name | Adel |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 16:09:53 |
 
 
