@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206069197209 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | 45¿shadow pool¿ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 13:15:59 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206064741699 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | PRISIONERO LINDO LINDO |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 13:08:37 |
@@ -77,26 +77,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206069412318 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | РЫЖИК |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 13:16:20 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206069730798 |
-| Players | 2/10 |
-| Host Name | World of warships |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 13:16:52 |
-
-
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28505206069786393 |
-| Players | 2/7 |
-| Host Name | Kraus |
+| Players | 1/7 |
+| Host Name | 󠁳insaniac |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 13:16:57 |
 
