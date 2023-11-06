@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:39:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206176083845 |
-| Players | 11/15 |
-| Host Name | loof |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 6, 2023 15:44:25 |
+| Lobby ID | 28505206176569752 |
+| Players | 1/8 |
+| Host Name | Witcher |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 15:44:59 |
 
 
 |  | ot3_gardens_duo |
@@ -81,24 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KALOG |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206176569752 |
-| Players | 4/8 |
-| Host Name | [ZIG]Arthas |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 15:44:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206176952768 |
-| Players | 1/15 |
-| Host Name | Пчелёнок Кузя |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:45:26 |
 
 
 |  | epic_boss_fight_normal |
