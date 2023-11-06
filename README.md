@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206842601152 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | 76561199096113964 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 23:14:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206844847277 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | typical psycho |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 23:15:57 |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206823308889 |
-| Players | 2/10 |
+| Players | 9/10 |
 | Host Name | O.G.Yato |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 23:00:30 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206836453881 |
-| Players | 23/24 |
-| Host Name | WF.Proeba Je |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 23:09:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206822156538 |
-| Players | 11/15 |
-| Host Name | Julius |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 22:59:43 |
 
 
 |  | ot3_gardens_duo |
@@ -110,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 23:15:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206843701501 |
-| Players | 6/10 |
-| Host Name | waiting for death |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 6, 2023 23:15:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206837756149 |
-| Players | 6/8 |
-| Host Name | Patron4ik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 23:10:46 |
+| Lobby ID | 28505206843970684 |
+| Players | 12/15 |
+| Host Name | Damn. |
+| Region | AUSTRIA |
+| Lobby Creation Time | Monday, November 6, 2023 23:15:18 |
 
 
 |  | epic_boss_fight_nightmare |
