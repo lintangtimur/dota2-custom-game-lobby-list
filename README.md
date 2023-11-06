@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206030272973 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Dog.animal.cat |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 12:10:14 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206028874979 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Hurricane Hasan |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 12:07:59 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206030103873 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | COVID - 19 |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 12:09:57 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206030646455 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Nocturne |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 12:10:51 |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | NeonRicer |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 12:10:55 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206030847482 |
+| Players | 2/5 |
+| Host Name | MCKY |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 12:11:11 |
 
 
