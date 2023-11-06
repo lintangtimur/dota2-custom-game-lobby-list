@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206062133215 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Punisher PMA |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 13:04:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206064596176 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | B|O|O|M |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:08:22 |
@@ -101,6 +101,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:08:37 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206064861271 |
+| Players | 2/8 |
+| Host Name | НЕ АЙКУ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 13:08:49 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206062483440 |
@@ -113,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206064205241 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Ryujiin.GG [ Buunja ] |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 13:07:42 |
