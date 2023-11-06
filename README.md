@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:11:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505205949940984 |
-| Players | 6/8 |
-| Host Name | C1RU3L/| |
+| Lobby ID | 28505205948327983 |
+| Players | 7/10 |
+| Host Name | Elerne |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 09:44:57 |
+| Lobby Creation Time | Monday, November 6, 2023 09:42:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205938228011 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Kie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 09:22:59 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505205949679833 |
-| Players | 13/15 |
-| Host Name | ._. |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 09:44:28 |
+| Lobby ID | 28505205950353462 |
+| Players | 4/15 |
+| Host Name | dpersikov |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 09:45:43 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205944741417 |
-| Players | 6/24 |
+| Players | 3/24 |
 | Host Name | Impress the Kid |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 09:35:24 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205949764400 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | ЛиканХРЮК (СВО) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 09:44:38 |
@@ -119,22 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 09:45:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505205948327983 |
-| Players | 6/10 |
-| Host Name | Elerne |
+| Lobby ID | 28505205950380251 |
+| Players | 3/8 |
+| Host Name | C1RU3L/| |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 09:42:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505205950257539 |
-| Players | 4/10 |
-| Host Name | U&me_godota2.com |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 09:45:32 |
+| Lobby Creation Time | Monday, November 6, 2023 09:45:46 |
 
 
 |  | epic_boss_fight_nightmare |
