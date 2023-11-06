@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206016642367 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Kärss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:47:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206017911617 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 11:49:32 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206016655215 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | WAWITA DE 18 AÑITOS |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:47:23 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206017623381 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | JUANETO MAMANE QUESPE (TO PAPE) |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:49:03 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206018088755 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Damn. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:49:51 |
@@ -128,10 +128,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 11:51:25 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505206018993667 |
+| Players | 1/24 |
+| Host Name | O'Sullivan |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 11:51:25 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206018334430 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | XhOoPe |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 11:50:17 |
