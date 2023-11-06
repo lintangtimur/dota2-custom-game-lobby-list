@@ -58,11 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206036179172 |
+| Lobby ID | 28505206036220680 |
 | Players | 1/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 12:20:03 |
+| Lobby Creation Time | Monday, November 6, 2023 12:20:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206036304897 |
+| Players | 1/15 |
+| Host Name | Vados |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 12:20:15 |
 
 
 |  | epic_boss_fight_normal |
