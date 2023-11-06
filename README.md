@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206260632691 |
-| Players | 6/8 |
-| Host Name | seoul paradise |
+| Lobby ID | 28505206264918215 |
+| Players | 2/8 |
+| Host Name | блек ангус |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:17:21 |
+| Lobby Creation Time | Monday, November 6, 2023 17:21:37 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206242438811 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | WF.Proeba Je |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:58:25 |
@@ -74,24 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 16:51:49 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206261095870 |
-| Players | 23/24 |
-| Host Name | Oversea Sexy Guy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 17:17:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206264419835 |
-| Players | 3/8 |
-| Host Name | ? |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 6, 2023 17:21:08 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206259851900 |
@@ -101,12 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 17:16:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206264918215 |
-| Players | 1/8 |
-| Host Name | блек ангус |
+| Lobby ID | 28505206262782962 |
+| Players | 9/15 |
+| Host Name | lil |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:21:37 |
+| Lobby Creation Time | Monday, November 6, 2023 17:19:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206241480141 |
+| Players | 11/15 |
+| Host Name | BrölBröl |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 16:57:25 |
 
 
