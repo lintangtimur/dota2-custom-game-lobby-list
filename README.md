@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206062133215 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Punisher PMA |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 13:04:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206064596176 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | B|O|O|M |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:08:22 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206064499185 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Madafacar |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 13:08:12 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206064741699 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | PRISIONERO LINDO LINDO |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 13:08:37 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206064747003 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Natsumi®◘ |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 13:08:37 |
@@ -110,10 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:10:10 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206066136380 |
+| Players | 1/8 |
+| Host Name | Wolfstrong97 |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 13:10:56 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206066002741 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Halimaw mag dota |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 13:10:43 |
