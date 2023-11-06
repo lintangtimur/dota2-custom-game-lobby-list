@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205965116877 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ГЕЛЕНЖИЖИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:12:46 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205965667926 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | пycть лyнa сияeт яpкo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:13:44 |
@@ -32,43 +32,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205962395688 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | FB 🎸🦃 |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 10:07:44 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505205965275531 |
-| Players | 2/24 |
-| Host Name | Kgthxy♥ |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:13:03 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505205965055882 |
-| Players | 20/24 |
-| Host Name | Toñizonte |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:12:39 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505205965834476 |
-| Players | 1/24 |
-| Host Name | hamleys |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 10:14:03 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205965840257 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Bank of Braavos |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 10:14:03 |
@@ -83,13 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 10:14:04 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505205965834476 |
+| Players | 1/24 |
+| Host Name | hamleys |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 10:14:03 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505205965881186 |
-| Players | 3/15 |
+| Lobby ID | 28505205965961558 |
+| Players | 4/15 |
 | Host Name | Robther |
 | Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 10:14:08 |
+| Lobby Creation Time | Monday, November 6, 2023 10:14:17 |
 
 
 |  | epic_boss_fight_nightmare |
