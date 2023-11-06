@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205966179356 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | hamleys |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 10:14:41 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205966134658 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Dream |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 10:14:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505205965961558 |
-| Players | 12/15 |
-| Host Name | Robther |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 10:14:17 |
+| Lobby ID | 28505205966462284 |
+| Players | 3/24 |
+| Host Name | ShaDow |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 10:15:11 |
 
 
 |  | ot3_desert_octet |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205966552326 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | CAMARADA CAPIBARA |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 10:15:21 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505205966462284 |
-| Players | 2/24 |
-| Host Name | ShaDow |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 10:15:11 |
 
 
 |  | epic_boss_fight_nightmare |
