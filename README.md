@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206159459873 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Johnny Rambo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 15:24:29 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206141893987 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 15:02:28 |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:23:50 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206157500182 |
-| Players | 8/15 |
-| Host Name | wp |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 6, 2023 15:22:04 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206154515216 |
@@ -72,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | wikiped |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 15:18:17 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206159770903 |
-| Players | 4/8 |
-| Host Name | дядя Богдан |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 15:24:53 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Get Waxed |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 6, 2023 15:24:26 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505206159721296 |
-| Players | 1/5 |
-| Host Name | cant talk with animals |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 15:24:49 |
 
 
