@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206176083845 |
-| Players | 2/15 |
-| Host Name | callebo サソリとカエル |
+| Players | 5/15 |
+| Host Name | loof |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 6, 2023 15:44:25 |
 
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206173737705 |
-| Players | 21/24 |
-| Host Name | LoŸal |
+| Lobby ID | 28505206176339204 |
+| Players | 9/24 |
+| Host Name | Trungdaica |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 15:41:40 |
+| Lobby Creation Time | Monday, November 6, 2023 15:44:43 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206176064418 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | мэр пизды |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:44:24 |
@@ -77,18 +77,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206175893473 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | KALOG |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206176241593 |
+| Players | 1/8 |
+| Host Name | fUck MdMa |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 15:44:36 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206176060221 |
-| Players | 2/10 |
-| Host Name | Mistress Life |
+| Lobby ID | 28505206176256430 |
+| Players | 1/10 |
+| Host Name | 释放你的灵魂 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:44:24 |
+| Lobby Creation Time | Monday, November 6, 2023 15:44:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206176569752 |
+| Players | 3/8 |
+| Host Name | [ZIG]Arthas |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 15:44:59 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206176383175 |
+| Players | 2/5 |
+| Host Name | william.lewis.2009 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 6, 2023 15:44:46 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206176496761 |
+| Players | 1/10 |
+| Host Name | Mr.Henky |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 15:44:54 |
 
 
