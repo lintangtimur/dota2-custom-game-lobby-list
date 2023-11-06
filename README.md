@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206070640560 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | BUTUH DANA CEPAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 13:18:21 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206071250103 |
+| Lobby ID | 28505206071337690 |
 | Players | 3/8 |
 | Host Name | MARCELINE |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 13:19:21 |
+| Lobby Creation Time | Monday, November 6, 2023 13:19:30 |
 
 
 |  | epic_boss_fight_nightmare |
