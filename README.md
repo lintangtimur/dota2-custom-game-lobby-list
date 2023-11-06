@@ -14,18 +14,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205988038149 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Sengoku: El Buda del Sexo |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:55:24 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505205988317541 |
-| Players | 23/24 |
-| Host Name | El Rey Brujo de Angmar |
-| Region | PERU |
+| Lobby ID | 28505205988315238 |
+| Players | 9/10 |
+| Host Name | МяSSSNicK |
+| Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:55:56 |
 
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205989413808 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | METRALLETA JHON |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:58:00 |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DawnPlayer |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:57:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505205987421249 |
-| Players | 9/10 |
-| Host Name | SALAMANDER_KING |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 10:54:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505205988315238 |
-| Players | 7/10 |
-| Host Name | МяSSSNicK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 10:55:56 |
 
 
 |  | epic_boss_fight_nightmare |
