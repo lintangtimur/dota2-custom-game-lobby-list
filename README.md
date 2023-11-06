@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206796778123 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | incognito |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 22:43:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206815111969 |
-| Players | 1/15 |
+| Players | 12/15 |
 | Host Name | FORNICATOR_MAXIMUS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 22:55:02 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206814343484 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | постройте мост на |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 22:54:32 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206771029817 |
-| Players | 12/15 |
-| Host Name | ENIGMA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 22:27:52 |
+| Lobby ID | 28505206815409465 |
+| Players | 1/15 |
+| Host Name | nahoyou |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 22:55:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -128,20 +128,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 22:51:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206814987124 |
-| Players | 1/8 |
-| Host Name | 271 <3 |
+| Lobby ID | 28505206815499063 |
+| Players | 1/10 |
+| Host Name | dezzmk |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 22:54:57 |
+| Lobby Creation Time | Monday, November 6, 2023 22:55:18 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206812346228 |
-| Players | 9/10 |
-| Host Name | Nessm |
+| Players | 8/10 |
+| Host Name | from the bottom to the moon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 22:53:14 |
 
@@ -149,36 +149,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206814727817 |
-| Players | 3/8 |
-| Host Name | ma1n1k |
+| Players | 2/8 |
+| Host Name | Яна Солях |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 22:54:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206815409465 |
-| Players | 1/15 |
-| Host Name | nahoyou |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 22:55:14 |
+| Lobby ID | 28505206815570825 |
+| Players | 2/10 |
+| Host Name | SIN ROLES ZZZ |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 22:55:20 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206799054867 |
-| Players | 9/10 |
-| Host Name | Сучка |
+| Lobby ID | 28505206815549544 |
+| Players | 2/10 |
+| Host Name | Аду-Баби |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 22:44:42 |
+| Lobby Creation Time | Monday, November 6, 2023 22:55:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206792143385 |
+| Players | 8/10 |
+| Host Name | улюлю |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 22:40:25 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206815291216 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | turnOver! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 22:55:09 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206815623909 |
+| Players | 3/5 |
+| Host Name | Ashputtel Axo |
+| Region | INDIA |
+| Lobby Creation Time | Monday, November 6, 2023 22:55:23 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206806221483 |
+| Players | 3/10 |
+| Host Name | InDiGo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 22:49:15 |
 
 
