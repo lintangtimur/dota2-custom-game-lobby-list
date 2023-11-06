@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206244830570 |
-| Players | 7/8 |
-| Host Name | Mp3 |
+| Lobby ID | 28505206252281739 |
+| Players | 1/8 |
+| Host Name | Trupak |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:01:00 |
+| Lobby Creation Time | Monday, November 6, 2023 17:08:56 |
 
 
 |  | ot3_desert_octet |
@@ -94,17 +94,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206250517632 |
+| Lobby ID | 28505206251983615 |
 | Players | 1/8 |
-| Host Name | Sakyra_Lis |
+| Host Name | bananaana |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:07:05 |
+| Lobby Creation Time | Monday, November 6, 2023 17:08:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206251057393 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | < blank > |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 17:07:39 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206251959121 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | Замкадыш |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:08:36 |
@@ -121,35 +121,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206251983615 |
+| Lobby ID | 28505206252406983 |
 | Players | 1/8 |
-| Host Name | bananaana |
+| Host Name | ДИКИЙ БАНАН В ПОПКЕ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:08:37 |
+| Lobby Creation Time | Monday, November 6, 2023 17:09:04 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206252268205 |
+| Lobby ID | 28505206252460498 |
 | Players | 1/10 |
 | Host Name | IIiIIiII |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:08:55 |
+| Lobby Creation Time | Monday, November 6, 2023 17:09:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206252281739 |
-| Players | 1/8 |
-| Host Name | Trupak |
+| Lobby ID | 28505206252486106 |
+| Players | 4/8 |
+| Host Name | ЯРОСЛАВ ПИМПОЧКИ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:08:56 |
+| Lobby Creation Time | Monday, November 6, 2023 17:09:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206252460070 |
+| Players | 1/10 |
+| Host Name | Optimal |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 17:09:07 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206248921958 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Bud chi co |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 17:05:24 |
