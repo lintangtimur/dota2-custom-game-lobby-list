@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:11:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206379117150 |
-| Players | 5/8 |
-| Host Name | MA?D |
+| Lobby ID | 28505206376163606 |
+| Players | 1/10 |
+| Host Name | TopolM2077 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:51:59 |
+| Lobby Creation Time | Monday, November 6, 2023 18:50:02 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206370911155 |
-| Players | 23/24 |
+| Players | 20/24 |
 | Host Name | 一叶之秋 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 18:46:32 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206381248462 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | yshkalover |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:53:24 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206375756012 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | CACHORRAO |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 18:49:45 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206381435565 |
-| Players | 3/10 |
-| Host Name | Сollapse replacement |
+| Players | 8/10 |
+| Host Name | Да как в эту хуйню |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:53:31 |
 
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ἆqὖa✔Minerale™ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:49:07 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28505206370837070 |
-| Players | 6/7 |
-| Host Name | Secretary-specific |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 18:46:29 |
 
 
