@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206040734124 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Goodbye Bystander |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:27:40 |
@@ -58,29 +58,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206040463759 |
-| Players | 7/10 |
-| Host Name | KOMPAYASO |
+| Lobby ID | 28505206040924239 |
+| Players | 2/10 |
+| Host Name | El Che |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 12:27:12 |
+| Lobby Creation Time | Monday, November 6, 2023 12:27:59 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206040768586 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Immortal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:27:43 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206038103255 |
-| Players | 9/10 |
-| Host Name | alauvient |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 6, 2023 12:23:15 |
+| Lobby ID | 28505206040966280 |
+| Players | 3/8 |
+| Host Name | Батя дед инсайд |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 12:28:04 |
 
 
 |  | epic_boss_fight_challenger |
