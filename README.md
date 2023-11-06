@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205950154612 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | CASINO |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 09:45:21 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205951604767 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Camila Cabello |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 09:48:00 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505205951676585 |
-| Players | 7/10 |
-| Host Name | Victor |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 6, 2023 09:48:08 |
+| Lobby ID | 28505205951659250 |
+| Players | 6/10 |
+| Host Name | Lamar |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 09:48:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205944741417 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Impress the Kid |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 09:35:24 |
@@ -117,15 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Glue Sommelier |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 09:47:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505205951659250 |
-| Players | 5/10 |
-| Host Name | Lamar |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 09:48:06 |
 
 
 |  | epic_boss_fight_nightmare |
