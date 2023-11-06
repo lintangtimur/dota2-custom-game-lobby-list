@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206073748696 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | TheWiseTomato |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 13:23:28 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:26:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206074192335 |
-| Players | 9/10 |
-| Host Name | dead blonde |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 13:24:11 |
+| Lobby ID | 28505206076248911 |
+| Players | 4/24 |
+| Host Name | COSMO EL GATO |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 13:27:27 |
 
 
 |  | ot3_gardens_duo |
@@ -105,18 +105,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505206076171822 |
 | Players | 2/8 |
-| Host Name | reflection your voice |
+| Host Name | Даня[ШароваяМолн |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:27:20 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206076248911 |
-| Players | 3/24 |
-| Host Name | COSMO EL GATO |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 13:27:27 |
 
 
 |  | epic_boss_fight_normal |
