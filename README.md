@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206073726506 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Conor McGregor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:23:26 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206073260913 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 13:22:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206073748696 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | TheWiseTomato |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 13:23:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206072168036 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | кетчуп |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 13:20:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206074192335 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | dead blonde |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:24:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206074233285 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ♿🧠 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 13:24:15 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Гриша вишнёвочка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:24:22 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505206074875596 |
+| Players | 1/24 |
+| Host Name | Gaaaaa |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 13:25:16 |
 
 
 |  | epic_boss_fight_nightmare |
