@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206062552699 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | depko13 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:04:52 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:02:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206061827278 |
-| Players | 9/10 |
-| Host Name | SALAMANDER_KING |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 13:03:38 |
+| Lobby ID | 28505206062133215 |
+| Players | 2/24 |
+| Host Name | Punisher PMA |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 13:04:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206063177256 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | kiLLEr |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 13:05:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206062133215 |
-| Players | 3/24 |
-| Host Name | Punisher PMA |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 13:04:09 |
 
 
 |  | epic_boss_fight_nightmare |
