@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205955330023 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ♡ |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 09:54:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505205953023204 |
-| Players | 8/8 |
-| Host Name | hahaha omg lol xd lmfao hehehe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 09:50:36 |
+| Lobby ID | 28505205955296191 |
+| Players | 2/10 |
+| Host Name | Chiquitin Medalles |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 09:54:47 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205955264893 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | appreciate life |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 09:54:44 |
@@ -95,28 +95,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205955138310 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Hecker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 09:54:30 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505205955427984 |
+| Players | 3/15 |
+| Host Name | Zellious |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 09:55:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505205955414073 |
+| Players | 1/8 |
+| Host Name | zai^^ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 09:55:00 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505205955296191 |
-| Players | 2/10 |
-| Host Name | Chiquitin Medalles |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 09:54:47 |
+| Lobby ID | 28505205955477336 |
+| Players | 1/10 |
+| Host Name | Yondaime |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 09:55:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505205955484396 |
+| Players | 2/8 |
+| Host Name | Lotus(A fleeting character) |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, November 6, 2023 09:55:08 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505205955399030 |
-| Players | 1/15 |
-| Host Name | SCZ   J FLEX |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 09:54:58 |
+| Lobby ID | 28505205955502363 |
+| Players | 2/15 |
+| Host Name | OSITO SANGRIENTO |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 09:55:10 |
 
 
 |  | epic_boss_fight_nightmare |
