@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206315080244 |
-| Players | 4/8 |
-| Host Name | kvch |
+| Lobby ID | 28505206312038961 |
+| Players | 3/15 |
+| Host Name | P.S.I.X |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:06:00 |
+| Lobby Creation Time | Monday, November 6, 2023 18:03:32 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206313522410 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Sheeeeeeeeeeeeeeeez |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:04:45 |
@@ -99,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Thawne |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 6, 2023 18:05:36 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206315650001 |
+| Players | 1/15 |
+| Host Name | SpeedWagon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 18:06:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206315691148 |
+| Players | 3/8 |
+| Host Name | Own your ass |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 18:06:29 |
 
 
 |  | epic_boss_fight_challenger |
