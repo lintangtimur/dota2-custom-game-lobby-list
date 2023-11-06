@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206086795536 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | LunaticEyes (Kuroushi) |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 13:44:04 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206205456231 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | heisenburger |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:17:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206205272054 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | -$ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:17:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206154515216 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | swap commends |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 15:18:17 |
@@ -77,37 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206204908800 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | :l |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:17:15 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206204754344 |
-| Players | 1/10 |
-| Host Name | WRTK |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 16:17:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206204861181 |
-| Players | 14/15 |
-| Host Name | ДИДЖЕЙ АРБУЗ |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 6, 2023 16:17:12 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206205552090 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | eleskovic^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:17:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206205633831 |
+| Players | 1/15 |
+| Host Name | slipknotik |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 6, 2023 16:18:04 |
 
 
 |  | epic_boss_fight_normal |
