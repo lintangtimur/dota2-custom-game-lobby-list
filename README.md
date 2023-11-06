@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206338055241 |
-| Players | 7/24 |
+| Players | 12/24 |
 | Host Name | HybridTheory |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 18:23:37 |
@@ -56,66 +56,57 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 18:18:57 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206338612297 |
-| Players | 6/8 |
-| Host Name | пустое место |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:24:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206298671076 |
-| Players | 12/15 |
-| Host Name | FeeZy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:52:22 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206336530259 |
-| Players | 9/10 |
-| Host Name | Pyrtoper |
+| Lobby ID | 28505206339228130 |
+| Players | 8/10 |
+| Host Name | ПАРАВОЗNK |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:22:30 |
+| Lobby Creation Time | Monday, November 6, 2023 18:24:29 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206337733442 |
-| Players | 7/8 |
-| Host Name | Missing you happiness |
+| Lobby ID | 28505206339996272 |
+| Players | 4/8 |
+| Host Name | WAS |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:23:23 |
+| Lobby Creation Time | Monday, November 6, 2023 18:25:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206338669245 |
-| Players | 1/15 |
-| Host Name | scotland |
+| Lobby ID | 28505206339858928 |
+| Players | 1/8 |
+| Host Name | waterlose |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:24:04 |
+| Lobby Creation Time | Monday, November 6, 2023 18:24:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206339837422 |
+| Players | 2/8 |
+| Host Name | heisenburger |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 18:24:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206337710006 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | RB19 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 18:23:22 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28505206338954523 |
-| Players | 1/5 |
+| Lobby ID | 28505206339054494 |
+| Players | 2/7 |
 | Host Name | kolpacheque |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:24:17 |
+| Lobby Creation Time | Monday, November 6, 2023 18:24:21 |
 
 
