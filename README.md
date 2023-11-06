@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206821680901 |
-| Players | 3/8 |
-| Host Name | Deadline |
+| Players | 2/8 |
+| Host Name | 离手鸳鸯刀 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 22:59:24 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206826984494 |
-| Players | 1/10 |
+| Players | 9/10 |
 | Host Name | Пидарок |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 23:03:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206817205757 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | ๋ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 22:56:25 |
@@ -121,17 +121,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206826311667 |
-| Players | 12/15 |
-| Host Name | фанат кишлака 11:11 |
+| Lobby ID | 28505206827338590 |
+| Players | 3/15 |
+| Host Name | Чернушка |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 23:02:37 |
+| Lobby Creation Time | Monday, November 6, 2023 23:03:20 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206827146426 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Tri Slepa Misa |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 23:03:12 |
@@ -146,22 +146,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 23:03:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206823066775 |
-| Players | 14/15 |
-| Host Name | SKY DOCK v,, colin firth :3 |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 6, 2023 23:00:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206827338590 |
-| Players | 3/15 |
-| Host Name | Чернушка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 23:03:20 |
+| Lobby ID | 28505206821956700 |
+| Players | 7/8 |
+| Host Name | ---- |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 22:59:35 |
 
 
 |  | epic_boss_fight_nightmare |
