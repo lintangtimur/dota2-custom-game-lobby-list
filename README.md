@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206259719015 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Azimov. |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 6, 2023 17:16:26 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206259988816 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | lil |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:16:42 |
@@ -157,11 +157,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206257624714 |
-| Players | 7/8 |
-| Host Name | -$ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:14:20 |
+| Lobby ID | 28505206260331784 |
+| Players | 1/8 |
+| Host Name | чумная шерсть |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 6, 2023 17:17:03 |
 
 
 |  | ot3_jungle_quintet |
@@ -171,24 +171,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hanzo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:15:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206260331784 |
-| Players | 1/8 |
-| Host Name | чумная шерсть |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 6, 2023 17:17:03 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206245634738 |
-| Players | 8/10 |
-| Host Name | CCO UKRAINE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:01:53 |
 
 
 |  | epic_boss_fight_nightmare |
