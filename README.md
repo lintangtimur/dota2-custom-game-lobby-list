@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206021173999 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | PuchunGOZU |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 11:55:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206025638570 |
-| Players | 8/10 |
-| Host Name | VOID ESPONJA |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 12:02:50 |
+| Lobby ID | 28505206026348972 |
+| Players | 1/8 |
+| Host Name | 【﻿DESpAIR】 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 12:04:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206016943834 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 11:47:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206026092637 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | no voice |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:03:36 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206025389937 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Rho AIas외로운 |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:02:25 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206026085703 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Paul Thomas Anderson |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:03:36 |
@@ -85,20 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206026292829 |
+| Lobby ID | 28505206026418551 |
 | Players | 1/15 |
 | Host Name | vincent black shadow |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 12:03:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206026292360 |
-| Players | 3/8 |
-| Host Name | Miposhka 死 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 12:03:56 |
+| Lobby Creation Time | Monday, November 6, 2023 12:04:08 |
 
 
 |  | epic_boss_fight_nightmare |
