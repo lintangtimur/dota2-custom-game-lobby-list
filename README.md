@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206244830570 |
-| Players | 6/8 |
+| Players | 3/8 |
 | Host Name | a? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:01:00 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206236241002 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | TwentyOneInch |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 16:51:49 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206244991850 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | CANCELUL |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 17:01:11 |
@@ -104,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206242438811 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | WF.Proeba Je |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:58:25 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206245471071 |
-| Players | 5/8 |
-| Host Name | kedr |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 17:01:42 |
 
 
 |  | ot3_jungle_quintet |
@@ -149,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206245344966 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | BadMove |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 17:01:34 |
@@ -157,10 +148,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505206245470158 |
-| Players | 1/5 |
-| Host Name | MARSIGLIESE |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 17:01:42 |
+| Lobby ID | 28505206245609284 |
+| Players | 3/5 |
+| Host Name | you'remylittledarlingallthetime |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 17:01:51 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206245634738 |
+| Players | 1/10 |
+| Host Name | ароматный чепчик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 17:01:53 |
 
 
