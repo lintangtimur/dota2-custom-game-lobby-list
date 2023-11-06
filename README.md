@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206045622819 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | this gex is on fire |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 12:35:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206044649657 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Drago |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:34:18 |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206044761881 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | LEAR |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:34:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206045778330 |
-| Players | 1/15 |
-| Host Name | 等我A仗，带你们翻 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 6, 2023 12:36:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206045786881 |
-| Players | 3/8 |
-| Host Name | U&me_godota2.com |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 12:36:15 |
 
 
 |  | epic_boss_fight_challenger |
@@ -108,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Maharaja Lawana |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:32:00 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206043877744 |
-| Players | 8/10 |
-| Host Name | {THE~@} |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 12:32:59 |
 
 
