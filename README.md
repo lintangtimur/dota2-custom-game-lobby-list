@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206087392755 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | WSWSWSWSWSWSWS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 13:45:00 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206086835722 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Vuvuzela Virtuoso Hans Rudolph |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 13:44:08 |
@@ -86,25 +86,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206086656310 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 13:43:51 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206088208468 |
-| Players | 1/8 |
-| Host Name | SdWETn |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 6, 2023 13:46:16 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206088276605 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | pussy in boots |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:46:22 |
@@ -126,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | katharsis |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 13:46:11 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28505206088346346 |
-| Players | 1/7 |
-| Host Name | 年轻人不气盛叫年轻人吗 |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 13:46:29 |
 
 
