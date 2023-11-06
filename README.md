@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206526578994 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | d1 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 20:17:47 |
@@ -112,11 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206537677535 |
-| Players | 9/15 |
-| Host Name | Гречка з сосискою |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 6, 2023 20:23:40 |
+| Lobby ID | 28505206541065262 |
+| Players | 4/15 |
+| Host Name | алкаш enjoyer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 20:25:28 |
 
 
 |  | ot3_jungle_quintet |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206539299063 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Storium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 20:24:32 |
@@ -167,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206539972827 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | богом данный |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 20:24:53 |
@@ -182,28 +182,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 20:22:36 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206537512240 |
-| Players | 9/10 |
-| Host Name | Shuma ЛЫСЫЙ ЧЕРЕП |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 20:23:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206536581747 |
-| Players | 9/10 |
-| Host Name | ckomo6oйня |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 20:23:05 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206539305558 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Жополиз |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 20:24:32 |
