@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206159459873 |
-| Players | 8/24 |
+| Players | 13/24 |
 | Host Name | Johnny Rambo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 15:24:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206158936288 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | CHULETA FUAKATÁ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 15:23:50 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:18:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206160510810 |
-| Players | 1/15 |
-| Host Name | Billy Gibbons |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 6, 2023 15:25:47 |
+| Lobby ID | 28505206161277314 |
+| Players | 4/8 |
+| Host Name | exemplary offlane player |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 15:26:43 |
 
 
 |  | ot3_gardens_duo |
@@ -94,26 +94,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206160993596 |
-| Players | 1/15 |
-| Host Name | Херасмент |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 15:26:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206161277314 |
-| Players | 2/8 |
-| Host Name | exemplary offlane player |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:26:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28505206161276834 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | dv3xxx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:26:43 |
@@ -122,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206160367765 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Bud chi co |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 15:25:36 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206161538240 |
+| Players | 1/5 |
+| Host Name | TimBo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 15:27:02 |
 
 
