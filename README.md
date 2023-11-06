@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206075090927 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Maldiño |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 13:25:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206073260913 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 13:22:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206073748696 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | TheWiseTomato |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 13:23:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206075992588 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | ?> |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 13:27:03 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206075897349 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Отдамся за шаурму |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 13:26:54 |
@@ -101,13 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:27:14 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206072094804 |
-| Players | 9/10 |
-| Host Name | Барыга насвая |
+| Lobby ID | 28505206076171822 |
+| Players | 1/8 |
+| Host Name | reflection your voice |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 13:20:45 |
+| Lobby Creation Time | Monday, November 6, 2023 13:27:20 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505206076248911 |
+| Players | 1/24 |
+| Host Name | COSMO EL GATO |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 13:27:27 |
 
 
 |  | epic_boss_fight_normal |
