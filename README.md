@@ -41,28 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206009400293 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | ///M Akrop |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 11:34:56 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206006247634 |
-| Players | 21/24 |
-| Host Name | [Komm] イレイナ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 11:29:27 |
+| Lobby ID | 28505206009953867 |
+| Players | 10/15 |
+| Host Name | Argentinos hijos de puta |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 11:35:53 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206009889027 |
-| Players | 1/8 |
-| Host Name | < blank > |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 11:35:47 |
+| Lobby ID | 28505206009472274 |
+| Players | 7/8 |
+| Host Name | Nocturne |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 11:35:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206008587895 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | TwentyOneInch |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 11:33:32 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206009250487 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | no sé qué es ganar |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:34:41 |
@@ -101,30 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 11:34:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206009472274 |
-| Players | 7/8 |
-| Host Name | Nocturne |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 11:35:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206009953867 |
-| Players | 6/15 |
-| Host Name | Argentinos hijos de puta |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 11:35:53 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206010266813 |
-| Players | 1/10 |
-| Host Name | Arcane~ |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 6, 2023 11:36:25 |
+| Lobby ID | 28505206010364400 |
+| Players | 1/24 |
+| Host Name | xJw |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 6, 2023 11:36:35 |
 
 
