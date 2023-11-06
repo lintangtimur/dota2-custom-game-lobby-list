@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 18:25:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206340461071 |
-| Players | 7/15 |
-| Host Name | Romek |
+| Lobby ID | 28505206340889969 |
+| Players | 5/10 |
+| Host Name | VII |
 | Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 6, 2023 18:25:22 |
+| Lobby Creation Time | Monday, November 6, 2023 18:25:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206339837422 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | heisenburger |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:24:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206340889969 |
-| Players | 3/10 |
-| Host Name | VII |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 6, 2023 18:25:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206341021563 |
-| Players | 6/8 |
-| Host Name | ZT .l1nk. |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 6, 2023 18:25:47 |
 
 
 |  | epic_boss_fight_challenger |
