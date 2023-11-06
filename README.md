@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:11:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206514991110 |
-| Players | 6/8 |
-| Host Name | ya heiter |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 20:11:37 |
+| Lobby ID | 28505206514840082 |
+| Players | 7/10 |
+| Host Name | `ÐieHÃRÐ´ |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 20:11:32 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206514755348 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | yuuichi katagiri |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 20:11:29 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 20:08:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206514106820 |
-| Players | 9/10 |
-| Host Name | чарж на стройку |
+| Lobby ID | 28505206515115125 |
+| Players | 1/15 |
+| Host Name | CHELOVETKIN |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 20:11:09 |
+| Lobby Creation Time | Monday, November 6, 2023 20:11:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -137,19 +137,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 20:10:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206497444061 |
-| Players | 1/10 |
-| Host Name | Deyniol |
+| Lobby ID | 28505206490762454 |
+| Players | 1/8 |
+| Host Name | from metal city |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 20:02:10 |
+| Lobby Creation Time | Monday, November 6, 2023 19:58:32 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206513361937 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | WASD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 20:10:45 |
@@ -167,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206514836872 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 416. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 20:11:32 |
@@ -185,45 +185,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206472425026 |
-| Players | 5/15 |
-| Host Name | brobrobrobrorbo |
+| Players | 7/15 |
+| Host Name | nikezar2005 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:48:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206490762454 |
-| Players | 1/8 |
-| Host Name | from metal city |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 19:58:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206514851438 |
-| Players | 5/8 |
-| Host Name | poke |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 20:11:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206514840082 |
-| Players | 1/10 |
-| Host Name | `ÐieHÃRÐ´ |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 20:11:32 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206502119117 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Bud chi co |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 20:04:42 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206515359140 |
+| Players | 1/10 |
+| Host Name | МАМКИН ШНЫРЬ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 20:11:49 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206515434075 |
+| Players | 2/10 |
+| Host Name | 提亚蜜斯林 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Monday, November 6, 2023 20:11:51 |
 
 
