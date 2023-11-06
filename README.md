@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206086795536 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | If you're a crrano I'll ban you |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 13:44:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206093502836 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Щербачев |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:54:28 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206092748462 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | skorpziro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:53:18 |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SOOBRIDT |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 6, 2023 13:54:19 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206094434380 |
+| Players | 1/5 |
+| Host Name | Polat |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 13:55:53 |
 
 
