@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206399455622 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | just so sad |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 19:05:23 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 18:50:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206398073645 |
-| Players | 3/24 |
-| Host Name | DEM20111102 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 19:04:29 |
+| Lobby ID | 28505206400339727 |
+| Players | 4/8 |
+| Host Name | Espada.bladee666 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 19:05:57 |
 
 
 |  | ot3_desert_octet |
@@ -149,8 +149,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206391200806 |
-| Players | 2/15 |
-| Host Name | Valgrant |
+| Players | 1/15 |
+| Host Name | D1xibo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:59:56 |
 
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206399731957 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Сочи 2003 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:05:34 |
@@ -176,34 +176,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206389620591 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Мыслант Гигисли |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:58:53 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206400199883 |
-| Players | 6/8 |
-| Host Name | moon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 19:05:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206393124036 |
-| Players | 14/15 |
-| Host Name | 醜𝐓wø-facеd☿ |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 19:01:14 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206399527657 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | KillerBee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 19:05:26 |
