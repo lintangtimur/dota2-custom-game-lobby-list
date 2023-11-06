@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205968838548 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Staff |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 10:19:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205968278165 |
-| Players | 13/24 |
+| Players | 19/24 |
 | Host Name | Theuza |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:18:32 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505205967801292 |
-| Players | 7/8 |
-| Host Name | MAPACHE_$INC0LA |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:17:39 |
+| Lobby ID | 28505205969480926 |
+| Players | 1/8 |
+| Host Name | Damaroo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 10:20:44 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205966462284 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | WSWSWSWSWSWSWS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 10:15:11 |
@@ -83,30 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 10:18:16 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505205969480926 |
-| Players | 1/8 |
-| Host Name | Damaroo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 10:20:44 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505205969228938 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | Вика террорист |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:20:17 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505205969507572 |
-| Players | 1/7 |
+| Lobby ID | 28505205969543697 |
+| Players | 1/10 |
 | Host Name | зайка? нереальная |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 10:20:47 |
+| Lobby Creation Time | Monday, November 6, 2023 10:20:51 |
 
 
