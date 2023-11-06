@@ -47,6 +47,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:08:37 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505206069197209 |
+| Players | 4/24 |
+| Host Name | 45¿shadow pool¿ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 13:15:59 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206068517559 |
@@ -63,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | katharsis |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 13:14:59 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505206069110657 |
-| Players | 1/5 |
-| Host Name | Косипоша |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 13:15:50 |
 
 
