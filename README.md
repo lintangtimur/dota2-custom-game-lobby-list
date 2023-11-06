@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206016943834 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 11:47:53 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206026638226 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | ZeЯN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 12:04:29 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206025389937 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | cueck |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:02:25 |
@@ -94,27 +94,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206026729869 |
-| Players | 1/15 |
-| Host Name | ESCANOR EL LEON HORGULLO |
+| Lobby ID | 28505206021290843 |
+| Players | 11/15 |
+| Host Name | Ganseame 7w7 |
 | Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 12:04:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206025647854 |
-| Players | 1/8 |
-| Host Name | Venom2.0 |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 12:02:51 |
+| Lobby Creation Time | Monday, November 6, 2023 11:55:23 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206018334430 |
-| Players | 3/10 |
-| Host Name | XhOoPe |
+| Players | 2/10 |
+| Host Name | Compensô Hein |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 11:50:17 |
 
