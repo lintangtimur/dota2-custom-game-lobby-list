@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206073726506 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Conor McGregor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:23:26 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206069575780 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Br0ker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 13:16:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206073748696 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | TheWiseTomato |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 13:23:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206072168036 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | кетчуп |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 13:20:53 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206072094804 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Барыга насвая |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:20:45 |
@@ -117,23 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | NezukoChannnnn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:23:21 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505206074280441 |
-| Players | 1/5 |
-| Host Name | thEdarK1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 13:24:19 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206074322180 |
-| Players | 1/10 |
-| Host Name | Figarland |
-| Region | USWEST |
-| Lobby Creation Time | Monday, November 6, 2023 13:24:23 |
 
 
