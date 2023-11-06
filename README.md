@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205965667926 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | пycть лyнa сияeт яpкo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:13:44 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205962395688 |
-| Players | 9/24 |
+| Players | 7/24 |
 | Host Name | FB 🎸🦃 |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 10:07:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505205965840257 |
-| Players | 7/10 |
-| Host Name | Bank of Braavos |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 10:14:03 |
+| Lobby ID | 28505205966570909 |
+| Players | 1/24 |
+| Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 10:15:23 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205966134658 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Dream |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 10:14:36 |
@@ -77,43 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205966028910 |
-| Players | 5/24 |
-| Host Name | Talento Nada |
+| Players | 4/24 |
+| Host Name | StH |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 10:14:24 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505205965056146 |
-| Players | 13/15 |
-| Host Name | Moiiiiiii |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 10:12:39 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505205966315625 |
-| Players | 7/8 |
-| Host Name | No siento nada |
+| Lobby ID | 28505205966552326 |
+| Players | 2/8 |
+| Host Name | CAMARADA CAPIBARA |
 | Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 10:14:56 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505205965055882 |
-| Players | 22/24 |
-| Host Name | Toñizonte |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:12:39 |
+| Lobby Creation Time | Monday, November 6, 2023 10:15:21 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205966462284 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ShaDow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 10:15:11 |
