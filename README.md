@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505205951297666 |
-| Players | 12/15 |
-| Host Name | skijunkie |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 09:47:26 |
+| Lobby ID | 28505205951901215 |
+| Players | 2/15 |
+| Host Name | I HATE STUPID KIDS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 09:48:33 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205949884574 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 09:44:51 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205951171268 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | nissinwafer |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 6, 2023 09:47:12 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205951383860 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Glue Sommelier |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 09:47:36 |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505205947865240 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 09:41:09 |
@@ -167,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505205951042439 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | JMC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 09:46:58 |
