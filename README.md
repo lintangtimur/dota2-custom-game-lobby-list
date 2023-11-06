@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206048206608 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | A Dog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 12:40:19 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206054728192 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Drago |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:51:17 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 12:51:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206053811841 |
-| Players | 13/15 |
-| Host Name | Shroomba |
+| Lobby ID | 28505206055276393 |
+| Players | 2/10 |
+| Host Name | Moises |
 | Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 12:49:43 |
+| Lobby Creation Time | Monday, November 6, 2023 12:52:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | estoy cansado jefe |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:52:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206055276393 |
-| Players | 2/10 |
-| Host Name | Moises |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 12:52:14 |
 
 
 |  | epic_boss_fight_nightmare |
