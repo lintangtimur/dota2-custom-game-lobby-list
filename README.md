@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206110001780 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Most positive player!! |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 14:18:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206109646001 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | Chungha |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:18:20 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:00:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206109970068 |
-| Players | 13/15 |
-| Host Name | . |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 14:18:48 |
+| Lobby ID | 28505206109696411 |
+| Players | 1/8 |
+| Host Name | Deyniol |
+| Region | USWEST |
+| Lobby Creation Time | Monday, November 6, 2023 14:18:25 |
 
 
 |  | ot3_gardens_duo |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | bot<3 |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 14:19:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206109696411 |
-| Players | 1/8 |
-| Host Name | Deyniol |
-| Region | USWEST |
-| Lobby Creation Time | Monday, November 6, 2023 14:18:25 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Yuriy |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 14:18:54 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206110811703 |
+| Players | 1/5 |
+| Host Name | доктор колбаскин |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, November 6, 2023 14:19:59 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28505206110829235 |
+| Players | 1/7 |
+| Host Name | Иуда |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 6, 2023 14:20:01 |
 
 
