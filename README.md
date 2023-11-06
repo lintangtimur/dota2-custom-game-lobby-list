@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205965116877 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | ГЕЛЕНЖИЖИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:12:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505205965056146 |
-| Players | 11/15 |
-| Host Name | Dream |
+| Lobby ID | 28505205965162321 |
+| Players | 5/10 |
+| Host Name | Moises |
 | Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 10:12:39 |
+| Lobby Creation Time | Monday, November 6, 2023 10:12:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205962395688 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | FB 🎸🦃 |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 10:07:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205965275531 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | Kgthxy♥ |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:13:03 |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205965055882 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Toñizonte |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:12:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505205965162321 |
-| Players | 4/10 |
-| Host Name | Moises |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 10:12:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505205965473634 |
-| Players | 1/15 |
-| Host Name | Петушиный Алан Де |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 10:13:25 |
 
 
 |  | epic_boss_fight_nightmare |
