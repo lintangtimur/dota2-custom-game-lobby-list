@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 11:01:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505205995181971 |
-| Players | 10/15 |
-| Host Name | Joshe ▼♥ ♥☻giordota.com |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 11:09:16 |
+| Lobby ID | 28505205995917733 |
+| Players | 1/24 |
+| Host Name | The Indomitable Human Spirit |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 6, 2023 11:10:39 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205995092339 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | flipflop |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:09:06 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205995482791 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | А |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:09:50 |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hecker |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 11:10:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505205995875637 |
-| Players | 8/15 |
-| Host Name | MMR DONATOR |
-| Region | USWEST |
-| Lobby Creation Time | Monday, November 6, 2023 11:10:34 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505205995917733 |
-| Players | 1/24 |
-| Host Name | The Indomitable Human Spirit |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 6, 2023 11:10:39 |
 
 
 |  | epic_boss_fight_nightmare |
