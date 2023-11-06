@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205993610452 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | More |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:06:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205993510210 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | TopolM2077 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:06:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205994373062 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | [EvanS]ThariuX |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:07:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205994578039 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | dllm |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 11:08:08 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205994389933 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | I.M.Sin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:07:47 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205994502741 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | J. |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:07:59 |
@@ -85,11 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505205991052924 |
+| Lobby ID | 28505205992385643 |
 | Players | 23/24 |
-| Host Name | Grey Light |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 11:01:19 |
+| Host Name | Señora A su hijo lestan pegando |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 11:03:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505205994843096 |
+| Players | 1/15 |
+| Host Name | 她比塔难守 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 6, 2023 11:08:38 |
 
 
 |  | epic_boss_fight_nightmare |
