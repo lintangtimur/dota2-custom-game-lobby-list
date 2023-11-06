@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206149423540 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | CLOWN |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 15:11:53 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:21:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206144761000 |
-| Players | 13/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 15:06:09 |
+| Lobby ID | 28505206149712123 |
+| Players | 1/8 |
+| Host Name | Пажилой Хефнер |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 15:12:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206144106493 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Kermit Da Frog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 15:05:20 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:11:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206149594869 |
-| Players | 2/10 |
-| Host Name | Lover |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 15:12:06 |
+| Lobby ID | 28505206149732908 |
+| Players | 1/15 |
+| Host Name | Губка |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 6, 2023 15:12:17 |
 
 
 |  | epic_boss_fight_nightmare |
