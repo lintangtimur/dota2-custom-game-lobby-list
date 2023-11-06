@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206124940432 |
-| Players | 9/24 |
+| Players | 5/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 14:39:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206151402107 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Упал, отжался! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:14:21 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206150011326 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | Teddy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 15:12:38 |
@@ -92,21 +92,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:15:25 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505206152334670 |
+| Players | 1/24 |
+| Host Name | Lulala |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 15:15:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206152396021 |
+| Players | 1/8 |
+| Host Name | SPLINTER |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 15:15:36 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505206152417021 |
+| Players | 1/24 |
+| Host Name | 腹有诗书气自华 |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 15:15:38 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505206148178493 |
-| Players | 9/10 |
-| Host Name | Mr.Freedom |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:10:20 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505206152204860 |
-| Players | 1/5 |
-| Host Name | Кристмас шалопай |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 15:15:21 |
+| Lobby ID | 28505206152284234 |
+| Players | 1/10 |
+| Host Name | @@Andy |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 15:15:27 |
 
 
