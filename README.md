@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205977879180 |
-| Players | 6/8 |
+| Players | 1/8 |
 | Host Name | ☠丂HۣۜะĨ尺Oۣۜ≈☣ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 10:36:18 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505205978328470 |
-| Players | 9/10 |
-| Host Name | Chunchunmaru |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:37:08 |
+| Lobby ID | 28505205978850615 |
+| Players | 3/10 |
+| Host Name | dom1br0s |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 10:38:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205978432557 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | superazraq |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:37:20 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205978770362 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | Fearless |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:37:58 |
