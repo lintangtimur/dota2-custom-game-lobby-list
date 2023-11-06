@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206773221080 |
-| Players | 2/10 |
-| Host Name | AVOCADIY |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 22:29:08 |
+| Lobby ID | 28505206788425302 |
+| Players | 6/10 |
+| Host Name | The geese' Goose #FL1XA |
+| Region | AUSTRIA |
+| Lobby Creation Time | Monday, November 6, 2023 22:38:10 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206726924228 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Rick & Clancy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 22:02:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206787984560 |
-| Players | 8/8 |
+| Players | 5/8 |
 | Host Name | NVV |
 | Region | PWTELECOMGUANGZHOU |
 | Lobby Creation Time | Monday, November 6, 2023 22:37:53 |
@@ -67,20 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206789720405 |
-| Players | 1/8 |
-| Host Name | кнопкодав |
+| Lobby ID | 28505206788434466 |
+| Players | 6/8 |
+| Host Name | N O R B Я Ь |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 22:38:57 |
+| Lobby Creation Time | Monday, November 6, 2023 22:38:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206788206747 |
-| Players | 3/15 |
-| Host Name | Logen |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 22:38:02 |
+| Lobby ID | 28505206788282875 |
+| Players | 1/8 |
+| Host Name | Murgath |
+| Region | AUSTRIA |
+| Lobby Creation Time | Monday, November 6, 2023 22:38:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206784620502 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | 21Savage |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 22:35:51 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206783358087 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | ГромоГусь |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 22:35:06 |
@@ -146,42 +146,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 22:39:06 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206789976865 |
-| Players | 5/8 |
-| Host Name | NEO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 22:39:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206788282875 |
-| Players | 1/8 |
-| Host Name | Murgath |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 6, 2023 22:38:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206788425302 |
-| Players | 6/10 |
-| Host Name | The geese' Goose #FL1XA |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 6, 2023 22:38:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206788434466 |
-| Players | 4/8 |
-| Host Name | N O R B Я Ь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 22:38:10 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206784773911 |
@@ -194,18 +158,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206780817268 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | IWillMakeYouCry |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 22:33:35 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505206790062109 |
-| Players | 1/5 |
-| Host Name | Blast Off! в Израиль |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 22:39:09 |
 
 
