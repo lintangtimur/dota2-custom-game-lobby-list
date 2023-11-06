@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206175893473 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | KALOG |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206154515216 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | swap commends |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 15:18:17 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 16:17:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206204908800 |
-| Players | 9/10 |
-| Host Name | :l |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:17:15 |
+| Lobby ID | 28505206205719494 |
+| Players | 2/24 |
+| Host Name | Violet Evergarden |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 16:18:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206205552090 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | eleskovic^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:17:59 |
@@ -99,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | slipknotik |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, November 6, 2023 16:18:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206205793727 |
+| Players | 1/15 |
+| Host Name | Альё |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 16:18:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206205860556 |
+| Players | 1/8 |
+| Host Name | waiting for death |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 16:18:20 |
 
 
 |  | epic_boss_fight_normal |
