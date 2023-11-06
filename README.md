@@ -101,6 +101,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:56:45 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206187828263 |
+| Players | 1/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 15:58:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206187892409 |
+| Players | 2/10 |
+| Host Name | Leo´stian ♡ |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 15:58:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206187885674 |
+| Players | 1/10 |
+| Host Name | . |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 15:58:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206187906497 |
+| Players | 2/10 |
+| Host Name | ... |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 15:58:11 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206185603751 |
@@ -117,5 +153,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | r |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:56:30 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206187892678 |
+| Players | 1/5 |
+| Host Name | Blood Greeting |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 15:58:10 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206187902235 |
+| Players | 1/5 |
+| Host Name | Kukushka |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 15:58:11 |
 
 
