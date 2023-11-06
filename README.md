@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205965116877 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ГЕЛЕНЖИЖИ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:12:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205966134658 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | Dream |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 10:14:36 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205966028910 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | StH |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 10:14:24 |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205966552326 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | CAMARADA CAPIBARA |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 10:15:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505205966726035 |
+| Players | 3/10 |
+| Host Name | C1RU3L/| |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 10:15:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505205966799510 |
+| Players | 1/8 |
+| Host Name | Victor |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, November 6, 2023 10:15:49 |
 
 
 |  | epic_boss_fight_nightmare |
