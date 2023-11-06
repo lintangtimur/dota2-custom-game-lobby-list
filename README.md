@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 11:19:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206000213159 |
-| Players | 7/8 |
-| Host Name | Destr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 11:18:38 |
+| Lobby ID | 28505206001257478 |
+| Players | 2/10 |
+| Host Name | Jane.A7x |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 11:20:33 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206000837967 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:19:47 |
@@ -58,11 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206001192071 |
+| Lobby ID | 28505206001321310 |
+| Players | 5/15 |
+| Host Name | LEAR |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 11:20:41 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206001336652 |
 | Players | 1/15 |
-| Host Name | cookiejar |
+| Host Name | wanderer |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 11:20:26 |
+| Lobby Creation Time | Monday, November 6, 2023 11:20:42 |
 
 
 |  | epic_boss_fight_challenger |
