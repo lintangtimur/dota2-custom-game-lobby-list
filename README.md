@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206183387557 |
-| Players | 13/15 |
-| Host Name | Шамиль Бетон |
+| Lobby ID | 28505206184054782 |
+| Players | 7/8 |
+| Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:52:58 |
+| Lobby Creation Time | Monday, November 6, 2023 15:53:44 |
 
 
 |  | ot3_desert_octet |
@@ -92,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:49:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206184054782 |
-| Players | 7/8 |
-| Host Name | ITS_SHOWTIME |
+| Lobby ID | 28505206184661972 |
+| Players | 3/10 |
+| Host Name | КАПИТАН |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:53:44 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206179326625 |
-| Players | 9/10 |
-| Host Name | [*BaSkeTka*] |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 15:48:13 |
+| Lobby Creation Time | Monday, November 6, 2023 15:54:27 |
 
 
 |  | epic_boss_fight_nightmare |
