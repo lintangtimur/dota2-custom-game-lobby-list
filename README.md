@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206126407917 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | 风显 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:41:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206119550107 |
-| Players | 9/10 |
-| Host Name | LAST PICK OR FEED |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 14:32:13 |
+| Lobby ID | 28505206129333455 |
+| Players | 2/8 |
+| Host Name | El gatoo |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 14:45:35 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206128677088 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | WTF&!о_О |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 14:44:42 |
@@ -83,24 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:40:45 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206128654622 |
-| Players | 13/15 |
-| Host Name | . |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 14:44:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206129434830 |
-| Players | 3/10 |
-| Host Name | Poni straponi ♡ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 6, 2023 14:45:43 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206129115321 |
@@ -110,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:45:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206129333455 |
-| Players | 2/8 |
-| Host Name | El gatoo |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 14:45:35 |
+| Lobby ID | 28505206129434830 |
+| Players | 4/10 |
+| Host Name | L ø v e 系 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 6, 2023 14:45:43 |
 
 
 |  | epic_boss_fight_normal |
