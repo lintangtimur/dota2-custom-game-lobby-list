@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206116559927 |
-| Players | 1/10 |
-| Host Name | SimplyMSG |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 14:28:05 |
+| Lobby ID | 28505206118227292 |
+| Players | 2/10 |
+| Host Name | Mika (not mira) |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 6, 2023 14:30:23 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206117075493 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Dragon |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 14:28:47 |
