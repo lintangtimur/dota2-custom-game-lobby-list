@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 16:33:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206227426435 |
-| Players | 5/10 |
-| Host Name | 大阴茎 |
+| Lobby ID | 28505206228902331 |
+| Players | 2/15 |
+| Host Name | забвение |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:42:29 |
+| Lobby Creation Time | Monday, November 6, 2023 16:44:04 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206228423205 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Carey Mahoney |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 16:43:33 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | king jagvar |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 16:28:47 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206228865420 |
+| Players | 1/10 |
+| Host Name | Страдаю в готане на хардкоре |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 16:44:02 |
 
 
