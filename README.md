@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206376163606 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | TopolM2077 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:50:02 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206383069482 |
-| Players | 5/8 |
-| Host Name | пивной мастер |
+| Lobby ID | 28505206382851329 |
+| Players | 7/15 |
+| Host Name | Doctor Billy |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:54:36 |
+| Lobby Creation Time | Monday, November 6, 2023 18:54:27 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206377851308 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | s1buyas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 18:51:08 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206378817231 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | 6lade |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:51:47 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206382094404 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Dominion |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 6, 2023 18:53:57 |
@@ -104,34 +104,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206382972862 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Sferov |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:54:32 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206382021133 |
-| Players | 9/15 |
-| Host Name | Elinbarrage |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 6, 2023 18:53:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206382851329 |
-| Players | 2/15 |
-| Host Name | Doctor Billy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:54:27 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206374798756 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Ἆqὖa✔Minerale™ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:49:07 |
