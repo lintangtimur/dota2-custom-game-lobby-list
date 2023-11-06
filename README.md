@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206086795536 |
-| Players | 17/24 |
+| Players | 15/24 |
 | Host Name | Viper Venom |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 13:44:04 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:08:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206101732932 |
-| Players | 12/15 |
-| Host Name | DaveyJones |
-| Region | USWEST |
-| Lobby Creation Time | Monday, November 6, 2023 14:06:52 |
+| Lobby ID | 28505206109477593 |
+| Players | 1/8 |
+| Host Name | SQ |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 14:18:06 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206109326958 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Smokey_Samurai |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:17:53 |
@@ -85,11 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206109410089 |
+| Lobby ID | 28505206109448251 |
 | Players | 1/24 |
-| Host Name | its been 12 years |
+| Host Name | wikiped |
 | Region | USWEST |
-| Lobby Creation Time | Monday, November 6, 2023 14:18:00 |
+| Lobby Creation Time | Monday, November 6, 2023 14:18:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206108271959 |
+| Players | 14/15 |
+| Host Name | maybe good team |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 14:16:23 |
 
 
 |  | epic_boss_fight_normal |
