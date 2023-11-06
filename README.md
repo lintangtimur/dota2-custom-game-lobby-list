@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206055806094 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Noblesse Obligue |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 12:53:08 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206052563947 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | George |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 12:47:36 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206054914833 |
-| Players | 2/24 |
-| Host Name | ke |
+| Players | 1/24 |
+| Host Name | onaforp xessib |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:51:36 |
 
