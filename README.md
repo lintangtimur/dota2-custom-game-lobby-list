@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206438784050 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | 🍌 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 19:29:25 |
@@ -101,46 +101,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 19:28:02 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206440503538 |
-| Players | 22/24 |
-| Host Name | chilling |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 19:30:24 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206442975567 |
-| Players | 1/10 |
-| Host Name | gaer390 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 19:31:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206443059279 |
-| Players | 1/8 |
-| Host Name | Хуякс |
+| Lobby ID | 28505206421852451 |
+| Players | 4/10 |
+| Host Name | Fisting Boy |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 19:31:52 |
+| Lobby Creation Time | Monday, November 6, 2023 19:19:25 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206426160902 |
-| Players | 13/15 |
-| Host Name | Gramozeka188 |
+| Lobby ID | 28505206414804488 |
+| Players | 1/15 |
+| Host Name | ^w^ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 19:22:00 |
+| Lobby Creation Time | Monday, November 6, 2023 19:15:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206443827577 |
+| Players | 1/15 |
+| Host Name | Good Vibes |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 19:32:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206443537030 |
+| Players | 1/15 |
+| Host Name | в дс хуйня |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 19:32:09 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206436458665 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | КВАДРАТ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:28:04 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206442452520 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | not human (животное) |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 6, 2023 19:31:31 |
@@ -167,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206442712426 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | just so sad |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 19:31:40 |
@@ -191,28 +191,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 19:32:04 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206443537030 |
-| Players | 1/15 |
-| Host Name | в дс хуйня |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 19:32:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206442575842 |
-| Players | 7/8 |
-| Host Name | xxxx |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 19:31:36 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505206441753588 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Insensitive |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 19:31:07 |
@@ -234,5 +216,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | IIpopok |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:31:22 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206443900798 |
+| Players | 1/10 |
+| Host Name | TriHard |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 19:32:21 |
 
 
