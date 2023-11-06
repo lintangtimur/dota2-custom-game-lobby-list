@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206142829048 |
-| Players | 14/15 |
-| Host Name | wp |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 15:03:41 |
+| Lobby ID | 28505206144761000 |
+| Players | 1/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 15:06:09 |
 
 
 |  | ot3_desert_octet |
@@ -83,19 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:03:15 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206143962795 |
-| Players | 7/10 |
-| Host Name | Deyniol |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:05:09 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206144593571 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | КАЛ МНОГО КАЛА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:05:56 |
@@ -103,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206144761000 |
+| Lobby ID | 28505206145314093 |
 | Players | 1/15 |
-| Host Name | Clean Cat |
+| Host Name | سندليف |
 | Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 15:06:09 |
+| Lobby Creation Time | Monday, November 6, 2023 15:06:50 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206142843726 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Kiyotaka Ayanokoji |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 6, 2023 15:03:42 |
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206144273154 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | antuar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 15:05:32 |
