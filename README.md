@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206175893473 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | KALOG |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206212693839 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 16:26:05 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206213462227 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | ✪Tekken✪ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 16:26:57 |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206208161821 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Makson! sw3g. |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 16:20:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206213927029 |
-| Players | 4/8 |
-| Host Name | pinelopa |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 16:27:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206214396862 |
-| Players | 4/10 |
-| Host Name | FRSTCMFRSTSRVD |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 16:28:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -108,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 16:26:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206214396862 |
+| Players | 3/10 |
+| Host Name | FRSTCMFRSTSRVD |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 16:28:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206214725540 |
+| Players | 1/8 |
+| Host Name | LET ME COOK |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 16:28:23 |
 
 
 |  | epic_boss_fight_normal |
