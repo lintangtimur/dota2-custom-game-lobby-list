@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206248291993 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | CANCELUL |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 17:04:44 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206246918670 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | МИРДЫНЯ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:03:16 |
@@ -104,28 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206247839347 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Убийца Билла |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:04:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206244830570 |
-| Players | 6/8 |
-| Host Name | a? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:01:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206248700880 |
-| Players | 2/8 |
-| Host Name | 777777777777777 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:05:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -137,10 +119,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 17:05:12 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206248763722 |
+| Players | 1/15 |
+| Host Name | Chucky™ |
+| Region | USWEST |
+| Lobby Creation Time | Monday, November 6, 2023 17:05:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206248802233 |
+| Players | 1/8 |
+| Host Name | гоможаба |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 17:05:16 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206242364923 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Andreas Maler |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 16:58:21 |
@@ -171,14 +171,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | king jagvar |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 17:04:43 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206248724350 |
-| Players | 1/10 |
-| Host Name | Bud chi co |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 17:05:12 |
 
 
