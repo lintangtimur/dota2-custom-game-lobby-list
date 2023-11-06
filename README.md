@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505205962322476 |
-| Players | 7/8 |
-| Host Name | El Gotto Cuba |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:07:36 |
+| Lobby ID | 28505205963766031 |
+| Players | 2/8 |
+| Host Name | ГЕЛЕНЖИЖИ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 10:10:16 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205962395688 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | FB 🎸🦃 |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 10:07:44 |
@@ -50,28 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205961995960 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | xJw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 10:07:00 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505205963668236 |
-| Players | 14/15 |
-| Host Name | Yello |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 10:10:05 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505205963766031 |
-| Players | 1/8 |
-| Host Name | ГЕЛЕНЖИЖИ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 10:10:16 |
+| Lobby ID | 28505205964137598 |
+| Players | 5/8 |
+| Host Name | Mata Campesinos |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 10:10:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,18 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505205963721803 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | sleep |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 10:10:11 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505205964020541 |
-| Players | 4/5 |
-| Host Name | IDFC |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 10:10:44 |
 
 
