@@ -31,20 +31,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206034246381 |
-| Players | 8/10 |
-| Host Name | BigYolk |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 12:16:51 |
+| Lobby ID | 28505206034857789 |
+| Players | 1/10 |
+| Host Name | Silver X |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 12:17:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206032957920 |
-| Players | 22/24 |
-| Host Name | 大鲶鱼 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 12:14:41 |
+| Lobby ID | 28505206035405613 |
+| Players | 1/8 |
+| Host Name | Слабый Морально |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 12:18:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,36 +59,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206034603638 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | MERLYN |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:17:26 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206034857789 |
-| Players | 1/10 |
-| Host Name | Silver X |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 12:17:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206033672996 |
-| Players | 1/24 |
-| Host Name | mimilya |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 12:15:53 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505206035272520 |
+| Lobby ID | 28505206035391565 |
 | Players | 1/5 |
 | Host Name | Барыга насвая |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 12:18:34 |
+| Lobby Creation Time | Monday, November 6, 2023 12:18:46 |
 
 
