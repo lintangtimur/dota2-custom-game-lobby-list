@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206002363671 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | El gato con botas |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:22:34 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 11:22:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206001257478 |
-| Players | 8/10 |
-| Host Name | у меня шиза |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 11:20:33 |
+| Lobby ID | 28505206001661498 |
+| Players | 4/8 |
+| Host Name | Hxrxkiller |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 11:21:18 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206000837967 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:19:47 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206001321310 |
-| Players | 14/15 |
-| Host Name | LEAR |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 11:20:41 |
+| Lobby ID | 28505206001955194 |
+| Players | 1/15 |
+| Host Name | Fadealy |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 11:21:50 |
 
 
 |  | ot3_desert_octet |
@@ -92,30 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 11:21:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505206001955194 |
-| Players | 1/15 |
-| Host Name | Fadealy |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 11:21:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206001661498 |
-| Players | 5/8 |
-| Host Name | Hxrxkiller |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 11:21:18 |
+| Lobby ID | 28505206002534441 |
+| Players | 2/10 |
+| Host Name | Duck My Sick |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 11:22:53 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505206002534441 |
-| Players | 3/10 |
-| Host Name | Duck My Sick |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 11:22:53 |
+| Lobby ID | 28505206002765840 |
+| Players | 1/10 |
+| Host Name | Славный Котик Иут |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 11:23:17 |
 
 
