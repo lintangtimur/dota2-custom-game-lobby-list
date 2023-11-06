@@ -65,10 +65,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 12:22:57 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206039114732 |
+| Players | 1/10 |
+| Host Name | Stronger |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 12:24:55 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505206039207413 |
+| Players | 2/24 |
+| Host Name | beebee |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 6, 2023 12:25:04 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206038103255 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | alauvient |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 12:23:15 |
