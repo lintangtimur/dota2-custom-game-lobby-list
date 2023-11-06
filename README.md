@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206438663993 |
-| Players | 21/24 |
-| Host Name | Little |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 19:29:21 |
+| Lobby ID | 28505206448983317 |
+| Players | 1/24 |
+| Host Name | chilling |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 19:35:16 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206447871960 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | evol tnac uoy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:34:38 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206417793966 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | Ace of Sp♠︎des |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 19:16:56 |
@@ -103,20 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206434919726 |
-| Players | 12/15 |
-| Host Name | fomenko.ea |
+| Lobby ID | 28505206448866720 |
+| Players | 1/15 |
+| Host Name | в дс хуйня |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 19:27:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206448737947 |
-| Players | 1/8 |
-| Host Name | AMAZO |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 19:35:08 |
+| Lobby Creation Time | Monday, November 6, 2023 19:35:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kakashi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:21:56 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206449102187 |
+| Players | 1/10 |
+| Host Name | Zinc |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 19:35:20 |
 
 
