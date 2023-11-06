@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206159459873 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Johnny Rambo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 15:24:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206158936288 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | CHULETA FUAKATÁ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 15:23:50 |
@@ -72,23 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | eƿisc૦ƿ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:21:50 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206157503348 |
-| Players | 9/10 |
-| Host Name | ( °Д°) |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 15:22:04 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505206159413427 |
-| Players | 1/5 |
-| Host Name | Get Waxed |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 6, 2023 15:24:26 |
 
 
