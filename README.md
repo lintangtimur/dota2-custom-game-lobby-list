@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 12:59:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206061661212 |
-| Players | 8/15 |
-| Host Name | Mode:Sisyphus |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 13:03:21 |
+| Lobby ID | 28505206062552699 |
+| Players | 1/8 |
+| Host Name | Panacea |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 13:04:52 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206061441104 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | WEED |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 13:02:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206061994695 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Lada niva 4 life! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:03:55 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206062204943 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Vuvuzela Virtuoso Hans Rudolph |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 13:04:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206062552699 |
-| Players | 1/8 |
-| Host Name | Panacea |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 13:04:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Just subscribe for Linda H |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:05:08 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206062810414 |
+| Players | 1/5 |
+| Host Name | Дядя Смурф |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 13:05:19 |
 
 
