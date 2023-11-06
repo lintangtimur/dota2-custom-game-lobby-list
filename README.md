@@ -101,6 +101,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:10:00 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206148068115 |
+| Players | 1/10 |
+| Host Name | Qusiks |
+| Region | AUSTRIA |
+| Lobby Creation Time | Monday, November 6, 2023 15:10:12 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505206147387493 |
@@ -108,23 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LEID |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:09:22 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206142843726 |
-| Players | 9/10 |
-| Host Name | ✓☋☈ρ |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 6, 2023 15:03:42 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28505206147345918 |
-| Players | 5/7 |
-| Host Name | "The Valya" |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:09:19 |
 
 
