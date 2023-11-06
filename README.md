@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206059555840 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 12:59:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206061441104 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | WEED |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 13:02:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206062133215 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Punisher PMA |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 13:04:09 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206064264252 |
+| Lobby ID | 28505206064596176 |
 | Players | 1/8 |
 | Host Name | B|O|O|M |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 13:07:48 |
+| Lobby Creation Time | Monday, November 6, 2023 13:08:22 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206064304549 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | когда я голоден я |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:07:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206064382305 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | 🌩️🌩️🌩️🌩 |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 13:08:00 |
@@ -83,31 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:08:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206064562495 |
-| Players | 1/15 |
+| Lobby ID | 28505206064652870 |
+| Players | 1/10 |
 | Host Name | EMISARIO NORN |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 13:08:18 |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 13:08:28 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206062483440 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | DeadSou1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:04:45 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206062102903 |
-| Players | 1/10 |
-| Host Name | Styll7 |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 13:04:06 |
 
 
 |  | epic_boss_fight_nightmare |
