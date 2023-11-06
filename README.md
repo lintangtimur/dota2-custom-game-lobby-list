@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:39:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206223815938 |
-| Players | 13/15 |
-| Host Name | Влад Темерев prime |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 16:38:32 |
+| Lobby ID | 28505206225695547 |
+| Players | 4/8 |
+| Host Name | Лупа |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 16:40:36 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,37 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 16:33:59 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206227133651 |
-| Players | 6/8 |
-| Host Name | блефую |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:42:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206227426435 |
-| Players | 1/10 |
-| Host Name | 大阴茎 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:42:29 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206227413170 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | 1NVI |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 16:42:28 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206227426435 |
+| Players | 2/10 |
+| Host Name | 大阴茎 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 16:42:29 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505206223550646 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | KiMbO80 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 16:38:14 |
@@ -117,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | HI? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 16:42:27 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505206227613900 |
-| Players | 1/5 |
-| Host Name | Анатолий_1987 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:42:41 |
 
 
