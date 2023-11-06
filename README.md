@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206086795536 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | If you're a crrano I'll ban you |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 13:44:04 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206089798772 |
-| Players | 5/10 |
+| Players | 2/10 |
 | Host Name | GUS MOBLIN |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 13:48:43 |
@@ -103,17 +103,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206089319489 |
-| Players | 7/8 |
-| Host Name | drismayilli.azer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 13:47:59 |
+| Lobby ID | 28505206090837736 |
+| Players | 3/8 |
+| Host Name | хочу татарочку |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 13:50:19 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206087916421 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | РЫЖИК |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:45:48 |
@@ -122,8 +122,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206088155065 |
-| Players | 3/10 |
-| Host Name | Dave |
+| Players | 2/10 |
+| Host Name | I ATE NOTHING |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 13:46:11 |
 
