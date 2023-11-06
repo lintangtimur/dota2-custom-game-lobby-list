@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206126407917 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | 风显 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:41:36 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206124881279 |
-| Players | 14/15 |
-| Host Name | Clean Cat |
+| Lobby ID | 28505206128677088 |
+| Players | 5/15 |
+| Host Name | WTF&!о_О |
 | Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 14:39:32 |
+| Lobby Creation Time | Monday, November 6, 2023 14:44:42 |
 
 
 |  | ot3_desert_octet |
@@ -86,28 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206128654622 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | mr. Pier Dunn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:44:40 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206128677088 |
-| Players | 4/15 |
-| Host Name | WTF&!о_О |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 14:44:42 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206128791855 |
+| Lobby ID | 28505206128966597 |
 | Players | 1/8 |
 | Host Name | Пузоотвод |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 14:44:51 |
+| Lobby Creation Time | Monday, November 6, 2023 14:45:05 |
 
 
 |  | epic_boss_fight_normal |
