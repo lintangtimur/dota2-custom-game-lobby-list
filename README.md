@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206099220729 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Пластiлiн |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:03:07 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206098318638 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | 123123123123123123 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:01:46 |
@@ -126,5 +126,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 34 |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 14:02:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206099442139 |
+| Players | 7/15 |
+| Host Name | Kent |
+| Region | USWEST |
+| Lobby Creation Time | Monday, November 6, 2023 14:03:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206099475400 |
+| Players | 2/15 |
+| Host Name | JIBARO 21 |
+| Region | INDIA |
+| Lobby Creation Time | Monday, November 6, 2023 14:03:30 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28505206099485477 |
+| Players | 1/7 |
+| Host Name | Nakata |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 14:03:31 |
 
 
