@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206365089856 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | LazyMeow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 18:42:35 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206368146916 |
-| Players | 7/8 |
-| Host Name | Snix |
+| Lobby ID | 28505206368421423 |
+| Players | 1/8 |
+| Host Name | ◄KS► Stealing |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:44:40 |
+| Lobby Creation Time | Monday, November 6, 2023 18:44:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 18:43:05 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206358051707 |
-| Players | 22/24 |
-| Host Name | style |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 18:37:46 |
+| Lobby ID | 28505206369020586 |
+| Players | 1/10 |
+| Host Name | GANIBALL |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 18:45:15 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206368616535 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | Gufner Amself |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:44:59 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206361262673 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Elya |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 18:39:59 |
@@ -110,22 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 18:44:52 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206368421423 |
-| Players | 1/8 |
-| Host Name | ◄KS► Stealing |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:44:51 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206368635487 |
-| Players | 7/10 |
-| Host Name | good hearted |
+| Lobby ID | 28505206369093830 |
+| Players | 6/10 |
+| Host Name | 1monthbusiness |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:45:00 |
+| Lobby Creation Time | Monday, November 6, 2023 18:45:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206329069666 |
+| Players | 9/15 |
+| Host Name | qLulidZz csgetto.app |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 18:16:56 |
 
 
 |  | epic_boss_fight_nightmare |
