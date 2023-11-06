@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205979515683 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | In L♥ve With a Fat Pikachu =3 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 10:39:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205979452433 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:39:14 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205979529107 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Zu? |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:39:22 |
@@ -83,10 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 10:38:17 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505205980743451 |
+| Players | 3/8 |
+| Host Name | сергей маляр |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 10:41:40 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505205980738549 |
+| Players | 1/10 |
+| Host Name | COVID - 19 |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 10:41:39 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505205979039669 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | What the help ? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 10:38:28 |
