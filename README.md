@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206329069666 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | r |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:16:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206175893473 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | KALOG |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206329838191 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Vasya HURRICANE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:17:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206241480141 |
-| Players | 11/15 |
-| Host Name | T 1000 Bot |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:57:25 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,37 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 18:17:39 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206330180428 |
-| Players | 5/8 |
-| Host Name | Ха-ха-ха I♡ANAL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:17:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206326812031 |
-| Players | 14/15 |
-| Host Name | f}Khorn |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:15:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206330433118 |
-| Players | 3/8 |
-| Host Name | Шахтёр Донбасса |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 18:17:57 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206324446466 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | LaZaR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:13:24 |
