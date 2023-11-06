@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205950154612 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | CASINO |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 09:45:21 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205951604767 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Camila Cabello |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 09:48:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205944741417 |
-| Players | 16/24 |
+| Players | 22/24 |
 | Host Name | Impress the Kid |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 09:35:24 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205951383860 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Glue Sommelier |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 09:47:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505205952464698 |
+| Players | 1/8 |
+| Host Name | Чернейшая из Душ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 09:49:34 |
 
 
 |  | epic_boss_fight_nightmare |
