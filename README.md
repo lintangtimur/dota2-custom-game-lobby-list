@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206155523129 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | 大鲶鱼 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 15:19:34 |
@@ -92,31 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:20:21 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206155688164 |
-| Players | 9/10 |
-| Host Name | 〠☯BlAcK_VoRoN☯〠 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:19:46 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206156234743 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | ШАЙТАН ИЗ АДА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:20:28 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206152774850 |
-| Players | 8/10 |
-| Host Name | Han Jee-han  한 지한 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 15:16:04 |
+| Lobby ID | 28505206156717988 |
+| Players | 3/8 |
+| Host Name | Damaroo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 15:21:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,23 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | я щас хуй достану |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, November 6, 2023 15:20:44 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206156615453 |
-| Players | 1/10 |
-| Host Name | eƿisc૦ƿ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 6, 2023 15:20:57 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206156652220 |
-| Players | 1/10 |
-| Host Name | 黑人黑人 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 6, 2023 15:20:59 |
 
 
