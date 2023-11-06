@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206159459873 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | Johnny Rambo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 15:24:29 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206161055941 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | свечу с базы |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:26:27 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206158936288 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | CHULETA FUAKATÁ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 15:23:50 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206161276834 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | dv3xxx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:26:43 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206160889386 |
-| Players | 6/10 |
-| Host Name | Marf |
+| Players | 4/10 |
+| Host Name | Richard Rios |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 15:26:15 |
 
