@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206077513252 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | not magic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:29:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206073748696 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | TheWiseTomato |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 13:23:28 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:25:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206075897349 |
-| Players | 7/8 |
-| Host Name | Отдамся за шаурму |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 13:26:54 |
+| Lobby ID | 28505206075090927 |
+| Players | 14/15 |
+| Host Name | Maldiño |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 13:25:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206076248911 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | COSMO EL GATO |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 13:27:27 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206076921111 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | vincent black shadow |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 13:28:32 |
