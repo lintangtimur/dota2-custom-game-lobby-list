@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206095814105 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | WTF&!о_О |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 13:57:58 |
@@ -126,5 +126,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | dead blonde |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:53:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206097179936 |
+| Players | 1/10 |
+| Host Name | Stefano |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 14:00:02 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206097139771 |
+| Players | 1/10 |
+| Host Name | 男人哭吧哭吧不是罪>.< |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 6, 2023 13:59:59 |
 
 
