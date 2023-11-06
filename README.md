@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206048378531 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | El chipirón enrojao |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:40:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206047440884 |
-| Players | 5/8 |
-| Host Name | SoreX |
+| Lobby ID | 28505206048659978 |
+| Players | 1/10 |
+| Host Name | I.M.Sin |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 12:39:02 |
+| Lobby Creation Time | Monday, November 6, 2023 12:41:04 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206046659268 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:37:43 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | D E G A |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:39:50 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206048660830 |
+| Players | 1/10 |
+| Host Name | Fihed |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 12:41:04 |
 
 
