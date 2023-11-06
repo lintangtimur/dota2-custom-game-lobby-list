@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205991300474 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | EnZo |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 11:01:48 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505205985614570 |
-| Players | 23/24 |
-| Host Name | jie |
+| Lobby ID | 28505205992144166 |
+| Players | 1/15 |
+| Host Name | 神力无敌李大海 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 10:50:50 |
+| Lobby Creation Time | Monday, November 6, 2023 11:03:29 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205991052924 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Grey Light |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 11:01:19 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205991165442 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | аРБУЗ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:01:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505205989376078 |
-| Players | 7/8 |
-| Host Name | DawnPlayer |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:57:56 |
+| Lobby ID | 28505205992070950 |
+| Players | 2/15 |
+| Host Name | бизнес крип |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 11:03:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -72,23 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | #Laprendoencasa |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:02:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505205991876609 |
-| Players | 6/8 |
-| Host Name | Miniguy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 11:02:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505205992055859 |
-| Players | 1/15 |
-| Host Name | 神力无敌李大海 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 11:03:18 |
 
 
