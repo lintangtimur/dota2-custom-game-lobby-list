@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206086795536 |
-| Players | 15/24 |
+| Players | 21/24 |
 | Host Name | If you're a crrano I'll ban you |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 13:44:04 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206098971176 |
+| Lobby ID | 28505206099114066 |
 | Players | 1/10 |
-| Host Name | skado |
+| Host Name | ржавый |
 | Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 14:02:45 |
+| Lobby Creation Time | Monday, November 6, 2023 14:02:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -108,6 +108,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Nexro |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 14:02:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206099038605 |
+| Players | 1/15 |
+| Host Name | Пажилой Хефнер |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 14:02:51 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206099067355 |
+| Players | 1/15 |
+| Host Name | 34 |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 14:02:53 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505206099105836 |
+| Players | 1/24 |
+| Host Name | 12345678901234567890123456789012 |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 14:02:57 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206099103707 |
+| Players | 1/10 |
+| Host Name | ЯХАЙ БЛЯ |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 14:02:57 |
 
 
 |  | epic_boss_fight_normal |
