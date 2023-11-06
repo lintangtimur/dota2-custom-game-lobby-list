@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206086145976 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | CryForTheMoon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:43:03 |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206084296762 |
-| Players | 22/24 |
+| Players | 20/24 |
 | Host Name | 顺天堂科学浓缩中药 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 6, 2023 13:40:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206086894034 |
-| Players | 12/15 |
-| Host Name | Grift |
+| Lobby ID | 28505206087184155 |
+| Players | 2/10 |
+| Host Name | Party rock! |
 | Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 13:44:13 |
+| Lobby Creation Time | Monday, November 6, 2023 13:44:40 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206086557746 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Dream |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 13:43:42 |
@@ -119,19 +119,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:44:08 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206087184155 |
-| Players | 2/10 |
-| Host Name | Party rock! |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 13:44:40 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206079322829 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | WhyBaby? |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 13:32:22 |
