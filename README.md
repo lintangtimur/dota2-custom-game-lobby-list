@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206086795536 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | LunaticEyes (Kuroushi) |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 13:44:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206141452862 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | LITVIN 1XBET |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:01:52 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206141314849 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Romario |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:01:41 |
@@ -68,19 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206140643726 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | отлижу за костюм горничной |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 15:00:46 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206139462325 |
+| Players | 12/15 |
+| Host Name | Cukka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 14:59:08 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206141606342 |
+| Lobby ID | 28505206141872924 |
 | Players | 1/24 |
 | Host Name | バットマン |
 | Region | INDIA |
-| Lobby Creation Time | Monday, November 6, 2023 15:02:05 |
+| Lobby Creation Time | Monday, November 6, 2023 15:02:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206141893987 |
+| Players | 1/8 |
+| Host Name | Chris |
+| Region | USWEST |
+| Lobby Creation Time | Monday, November 6, 2023 15:02:28 |
 
 
 |  | epic_boss_fight_nightmare |
