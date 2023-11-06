@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206121661828 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | TSpirit.POPA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:35:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206124881279 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 14:39:32 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206126407917 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | 风显 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:41:36 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206124352395 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | hahahehehoho |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:38:49 |
@@ -103,11 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206126927179 |
-| Players | 1/10 |
-| Host Name | Ас |
+| Lobby ID | 28505206126989836 |
+| Players | 2/10 |
+| Host Name | bot<3 |
 | Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 14:42:18 |
+| Lobby Creation Time | Monday, November 6, 2023 14:42:24 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206127008068 |
+| Players | 1/10 |
+| Host Name | kol_fnl |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 6, 2023 14:42:25 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hasta La Vista |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:39:22 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206127072343 |
+| Players | 4/5 |
+| Host Name | Semmie_therex |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 14:42:31 |
 
 
