@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206481265928 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | ged |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 6, 2023 19:53:18 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206479424059 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Greta Thunberg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:52:17 |
@@ -157,29 +157,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206480798995 |
-| Players | 6/8 |
-| Host Name | крабсбургер |
+| Lobby ID | 28505206474384759 |
+| Players | 1/8 |
+| Host Name | DesuMachina |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 19:53:02 |
+| Lobby Creation Time | Monday, November 6, 2023 19:49:28 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206480486374 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | W |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:52:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206481609588 |
-| Players | 1/15 |
-| Host Name | Я ЛИВАЮ НАХУЙ |
+| Lobby ID | 28505206482469513 |
+| Players | 1/8 |
+| Host Name | poebaly recordz |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 19:53:30 |
+| Lobby Creation Time | Monday, November 6, 2023 19:53:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -198,24 +198,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | pandemoniiium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:53:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206474384759 |
-| Players | 1/8 |
-| Host Name | DesuMachina |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 19:49:28 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206480619587 |
-| Players | 9/10 |
-| Host Name | 哇得发~ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 19:52:57 |
 
 
 |  | epic_boss_fight_nightmare |
