@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206102098390 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | 风显 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:07:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206099856159 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ravenpoe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:04:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206103755338 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | ☆⌒(>。<) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:09:49 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206101732932 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | DaveyJones |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 14:06:52 |
@@ -83,10 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:08:30 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206104388615 |
+| Players | 3/8 |
+| Host Name | джкргe |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 14:10:45 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206102507345 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Fihed |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:08:00 |
@@ -99,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | [Cthulhu] (PriMaPorto) |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 14:10:20 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206104267879 |
+| Players | 1/10 |
+| Host Name | animal mother |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 6, 2023 14:10:35 |
 
 
