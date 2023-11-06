@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205991300474 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | EnZo |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 11:01:48 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505205992144166 |
-| Players | 1/15 |
-| Host Name | 神力无敌李大海 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 11:03:29 |
+| Lobby ID | 28505205992309650 |
+| Players | 6/15 |
+| Host Name | Covid Bryant |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 11:03:48 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205989165818 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Ulqiorra |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:57:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205991052924 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Grey Light |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 11:01:19 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205991502332 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | #Laprendoencasa |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:02:12 |
@@ -83,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 11:03:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28505205992175379 |
-| Players | 3/8 |
-| Host Name | Victor |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 6, 2023 11:03:32 |
+| Lobby ID | 28505205992293469 |
+| Players | 2/7 |
+| Host Name | Kerry Copito |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 11:03:46 |
 
 
