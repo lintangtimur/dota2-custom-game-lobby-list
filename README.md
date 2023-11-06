@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206055806094 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Noblesse Obligue |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 12:53:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206054728192 |
-| Players | 7/8 |
-| Host Name | Drago |
+| Lobby ID | 28505206056533658 |
+| Players | 2/15 |
+| Host Name | fomenko.ea |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 12:51:17 |
+| Lobby Creation Time | Monday, November 6, 2023 12:54:24 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206055958215 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Goodbye Bystander |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:53:24 |
@@ -49,44 +49,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206054914833 |
-| Players | 1/24 |
-| Host Name | onaforp xessib |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 12:51:36 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
 | Lobby ID | 28505206055887572 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | beebee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 12:53:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206056533658 |
-| Players | 1/15 |
-| Host Name | fomenko.ea |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 12:54:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206056547792 |
-| Players | 1/15 |
-| Host Name | Jazz |
+| Lobby ID | 28505206056689801 |
+| Players | 5/10 |
+| Host Name | Odoacer |
 | Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 12:54:26 |
+| Lobby Creation Time | Monday, November 6, 2023 12:54:40 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505206056808395 |
+| Players | 1/24 |
+| Host Name | AnGlz__Strike |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 12:54:52 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206053506484 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | MYB11RU |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 12:49:11 |
