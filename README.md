@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206671193515 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | dansnyp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 21:33:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206721680798 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | Марк Елькин |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 22:00:04 |
@@ -140,19 +140,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206704158660 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Звуковой Агрессор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 21:50:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206723043869 |
-| Players | 5/8 |
-| Host Name | хуяга |
+| Lobby ID | 28505206705915937 |
+| Players | 12/15 |
+| Host Name | MilF-HanteR |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 22:00:49 |
+| Lobby Creation Time | Monday, November 6, 2023 21:51:28 |
 
 
 |  | ot3_gardens_duo |
@@ -173,12 +173,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 22:01:06 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505206723759321 |
-| Players | 1/5 |
-| Host Name | ... |
+| Lobby ID | 28505206723978007 |
+| Players | 1/10 |
+| Host Name | ? ? ? |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 6, 2023 22:01:20 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206724107205 |
+| Players | 1/10 |
+| Host Name | Fihed |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 22:01:13 |
+| Lobby Creation Time | Monday, November 6, 2023 22:01:24 |
 
 
