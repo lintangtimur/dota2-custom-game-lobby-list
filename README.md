@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206089995257 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | SexyLips |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 13:49:01 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206086795536 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | If you're a crrano I'll ban you |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 13:44:04 |
@@ -101,13 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:52:49 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206092553595 |
+| Players | 1/15 |
+| Host Name | антон перфоратор |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 13:53:00 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505206087916421 |
-| Players | 9/10 |
-| Host Name | РЫЖИК |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 13:45:48 |
+| Lobby ID | 28505206092160019 |
+| Players | 2/10 |
+| Host Name | SOOBRIDT |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 13:52:23 |
 
 
 |  | epic_boss_fight_normal |
@@ -117,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Polat |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, November 6, 2023 13:51:47 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206092160019 |
-| Players | 1/10 |
-| Host Name | SOOBRIDT |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 13:52:23 |
 
 
