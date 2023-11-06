@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206022820798 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | ЖёСтКиЙ♂♂♂ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:58:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206016807966 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Loka |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 11:47:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206023458189 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | El gato con botas |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:59:08 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206022822613 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | no sé qué es ganar |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:58:02 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206021270511 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Dr Tazerenix |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 11:55:21 |
@@ -113,16 +113,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206024035319 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Antonio Margharette |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 12:00:09 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206022481383 |
+| Players | 14/15 |
+| Host Name | flipflop |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 11:57:26 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206018334430 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | XhOoPe |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 11:50:17 |
