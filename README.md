@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206209253237 |
+| Lobby ID | 28505206213754501 |
 | Players | 1/8 |
-| Host Name | TwentyOneInch |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 16:22:13 |
+| Host Name | сдуревший |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 16:27:17 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206212985714 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Died of cringe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:26:25 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206212947294 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:26:23 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206213462227 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | hypocrisy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 16:26:57 |
@@ -132,24 +132,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505206213330982 |
 | Players | 1/8 |
-| Host Name | pinelopa |
+| Host Name | TwentyOneInch |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 6, 2023 16:26:48 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206213754501 |
+| Lobby ID | 28505206213927029 |
 | Players | 1/8 |
-| Host Name | сдуревший |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 16:27:17 |
+| Host Name | FRSTCMFRSTSRVD |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 16:27:28 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505206197893032 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Uchiha Madara |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 16:09:27 |
