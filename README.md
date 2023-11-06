@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206111699840 |
-| Players | 6/15 |
-| Host Name | mr bigglesworth |
+| Players | 5/15 |
+| Host Name | TIO JUANCHI |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 14:21:15 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206114522293 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | skorpziro |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, November 6, 2023 14:25:13 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206109884800 |
-| Players | 3/10 |
-| Host Name | sdfljkghksljdhkljasf |
+| Players | 1/10 |
+| Host Name | 宿儺 |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 14:18:40 |
 
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206114826928 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | kindamental |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, November 6, 2023 14:25:39 |
