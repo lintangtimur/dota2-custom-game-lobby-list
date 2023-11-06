@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206077513252 |
-| Players | 12/15 |
-| Host Name | not magic |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 13:29:29 |
+| Lobby ID | 28505206075090927 |
+| Players | 13/15 |
+| Host Name | Maldiño |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 13:25:37 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206073748696 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | TheWiseTomato |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 13:23:28 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:29:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206076248911 |
-| Players | 2/24 |
-| Host Name | ErosS |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 13:27:27 |
+| Lobby ID | 28505206078489781 |
+| Players | 1/8 |
+| Host Name | 神也说我温柔. |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 13:31:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206078216812 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | Vlkswgn |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 6, 2023 13:30:35 |
@@ -122,36 +122,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206078398057 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | CHIBOLO KK |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 13:30:53 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206075090927 |
-| Players | 13/15 |
-| Host Name | Maldiño |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 13:25:37 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206078140570 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | chloe |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 6, 2023 13:30:28 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505206078331476 |
-| Players | 1/5 |
+| Lobby ID | 28505206078594542 |
+| Players | 1/10 |
 | Host Name | What you think? |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 6, 2023 13:30:46 |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 13:31:12 |
 
 
