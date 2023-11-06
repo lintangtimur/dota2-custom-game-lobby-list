@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206040162362 |
-| Players | 7/24 |
+| Players | 12/24 |
 | Host Name | El Rey Brujo de Angmar |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:26:42 |
@@ -47,33 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 12:25:08 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206037918897 |
-| Players | 8/10 |
-| Host Name | Too Good To Win? |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 12:22:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206040463759 |
-| Players | 6/10 |
-| Host Name | KOMPAYASO |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 12:27:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206040633916 |
-| Players | 1/15 |
-| Host Name | QWER |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 12:27:30 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206040734124 |
@@ -83,10 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 12:27:40 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206040463759 |
+| Players | 7/10 |
+| Host Name | KOMPAYASO |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 12:27:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206040768586 |
+| Players | 4/10 |
+| Host Name | Immortal |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 12:27:43 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206038103255 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | alauvient |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 12:23:15 |
