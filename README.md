@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206086795536 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | LunaticEyes (Kuroushi) |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 13:44:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206173707121 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | king of fools |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:41:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206173899789 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | exemplary offlane player |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:41:51 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | drdmr |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 6, 2023 15:42:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206174308913 |
+| Players | 1/10 |
+| Host Name | 🍌 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 15:42:20 |
 
 
 |  | epic_boss_fight_challenger |
