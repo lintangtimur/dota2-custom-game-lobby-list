@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206830401205 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | Беспредед |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 23:05:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206817205757 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | ๋ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 22:56:25 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 23:05:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206830170825 |
-| Players | 11/15 |
-| Host Name | Твой ебырь |
+| Lobby ID | 28505206831252759 |
+| Players | 4/8 |
+| Host Name | Лоля |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 23:05:19 |
+| Lobby Creation Time | Monday, November 6, 2023 23:06:05 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206825778582 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | 脚一滑就 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 23:02:15 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206796778123 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | BODYSHOT BANDIT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 22:43:17 |
@@ -113,8 +113,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206822156538 |
-| Players | 5/15 |
-| Host Name | ꃥꈤꊐ |
+| Players | 4/15 |
+| Host Name | YOU'LL NEVER WALK ALONE |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 22:59:43 |
 
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206830420249 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Zhiltoid |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 23:05:30 |
@@ -131,19 +131,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206828324267 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Shasther |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 23:04:01 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206831137030 |
+| Players | 1/15 |
+| Host Name | Druvee |
+| Region | AUSTRIA |
+| Lobby Creation Time | Monday, November 6, 2023 23:06:00 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206830995960 |
+| Lobby ID | 28505206831134480 |
 | Players | 1/10 |
-| Host Name | владыка матерей |
+| Host Name | Petushidze |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 23:05:55 |
+| Lobby Creation Time | Monday, November 6, 2023 23:06:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206823308889 |
+| Players | 6/10 |
+| Host Name | Денис Жуков |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 23:00:30 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505206804562624 |
+| Players | 15/24 |
+| Host Name | Onez |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 22:48:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206831300668 |
+| Players | 3/8 |
+| Host Name | Tredibfnnf |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 23:06:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -158,7 +194,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505206827666038 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Джамшут |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 23:03:34 |
