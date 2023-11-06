@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 11:26:06 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206002212439 |
-| Players | 22/24 |
-| Host Name | wanderer |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 11:22:18 |
+| Lobby ID | 28505206006237522 |
+| Players | 3/15 |
+| Host Name | REXORT |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 11:29:26 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206005157703 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | 魔鬼 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:27:32 |
@@ -68,28 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206006044733 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | It's ok I just need a break |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 11:29:06 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206006068927 |
-| Players | 1/8 |
-| Host Name | 111 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 11:29:08 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206006122648 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Norton |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 11:29:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206006224592 |
+| Players | 1/10 |
+| Host Name | Powpow |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 11:29:25 |
 
 
 |  | epic_boss_fight_nightmare |
