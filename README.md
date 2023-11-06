@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206440709244 |
-| Players | 4/15 |
+| Players | 2/15 |
 | Host Name | pandemoniiium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:30:31 |
@@ -104,28 +104,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206440503538 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | chilling |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:30:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206440579109 |
-| Players | 1/15 |
-| Host Name | Onis |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 19:30:27 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206437259246 |
-| Players | 11/15 |
-| Host Name | Whackman |
+| Lobby ID | 28505206442119870 |
+| Players | 1/8 |
+| Host Name | N O R B Я Ь |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 19:28:32 |
+| Lobby Creation Time | Monday, November 6, 2023 19:31:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206442276591 |
+| Players | 1/8 |
+| Host Name | героиновый воин |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 19:31:25 |
 
 
 |  | ot3_jungle_quintet |
@@ -137,19 +137,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 19:22:00 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206441157414 |
-| Players | 9/10 |
-| Host Name | любить тя буду |
+| Lobby ID | 28505206441897456 |
+| Players | 2/8 |
+| Host Name | ◄KS► Stealing |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 19:30:47 |
+| Lobby Creation Time | Monday, November 6, 2023 19:31:12 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206417793966 |
-| Players | 15/24 |
+| Players | 22/24 |
 | Host Name | Ace of Sp♠︎des |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 19:16:56 |
@@ -167,25 +167,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206434919726 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | fomenko.ea |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:27:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206441897456 |
-| Players | 1/8 |
-| Host Name | ◄KS► Stealing |
+| Lobby ID | 28505206435863715 |
+| Players | 9/10 |
+| Host Name | мне повезёт |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 19:31:12 |
+| Lobby Creation Time | Monday, November 6, 2023 19:27:43 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206442349511 |
+| Players | 1/15 |
+| Host Name | Aureliuss |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 19:31:28 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28505206426048931 |
-| Players | 5/7 |
+| Players | 6/7 |
 | Host Name | woopz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:21:56 |
@@ -212,7 +221,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505206441753588 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Insensitive |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 19:31:07 |
@@ -220,10 +229,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505206441987685 |
+| Lobby ID | 28505206442177496 |
 | Players | 1/5 |
-| Host Name | Blood Greeting |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 6, 2023 19:31:15 |
+| Host Name | IIpopok |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 19:31:22 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206442355339 |
+| Players | 1/5 |
+| Host Name | 炭烤椒盐海豹 |
+| Region | USWEST |
+| Lobby Creation Time | Monday, November 6, 2023 19:31:28 |
 
 
