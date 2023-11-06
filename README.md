@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206021173999 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | harry |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 11:55:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206021829930 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | ЯДаунил |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:56:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206016807966 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Loka |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 11:47:38 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206021270511 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Dr Tazerenix |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 11:55:21 |
@@ -104,8 +104,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206022481383 |
-| Players | 2/15 |
-| Host Name | СТАРИЧОК |
+| Players | 3/15 |
+| Host Name | flipflop |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:57:26 |
 
@@ -121,28 +121,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505206019355030 |
-| Players | 1/10 |
-| Host Name | DOTA: The Legend Of Miracle |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 11:52:03 |
+| Lobby ID | 28505206022198652 |
+| Players | 4/10 |
+| Host Name | Loading |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 11:56:57 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206021474400 |
-| Players | 2/10 |
-| Host Name | Leinach |
+| Players | 1/10 |
+| Host Name | Noob FROm SEA |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 6, 2023 11:55:42 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505206022198652 |
-| Players | 2/10 |
-| Host Name | Loading |
+| Lobby ID | 28505206022620539 |
+| Players | 1/5 |
+| Host Name | Leinach |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 11:56:57 |
+| Lobby Creation Time | Monday, November 6, 2023 11:57:41 |
 
 
