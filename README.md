@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206671193515 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | 乱战先锋第一骚货！ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 21:33:12 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206703689276 |
-| Players | 4/15 |
+| Players | 14/15 |
 | Host Name | Тузик) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 21:50:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206701600540 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Дэнчик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 21:49:10 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 21:48:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206703216486 |
-| Players | 2/15 |
-| Host Name | Zaa |
+| Lobby ID | 28505206685849018 |
+| Players | 5/8 |
+| Host Name | Фембойчик пудж |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 21:50:01 |
+| Lobby Creation Time | Monday, November 6, 2023 21:40:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -162,6 +162,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | marvin |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 6, 2023 21:40:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206704105767 |
+| Players | 2/10 |
+| Host Name | Pudge Lover |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 21:50:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206704158660 |
+| Players | 8/15 |
+| Host Name | pudgekhalifa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 21:50:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206704172220 |
+| Players | 2/10 |
+| Host Name | ﷽﷽ ﷽﷽﷽ ﷽﷽﷽ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 21:50:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206680564210 |
+| Players | 1/15 |
+| Host Name | Pulsar |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 21:38:05 |
 
 
 |  | epic_boss_fight_nightmare |
