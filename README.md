@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206219717288 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | 😇Динозаврик😇 |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 16:33:59 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206242773510 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | САСЬВА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:58:47 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206242438811 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | WF.Proeba Je |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:58:25 |
@@ -122,10 +122,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206243440102 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | pressure |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:59:28 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206244991850 |
+| Players | 6/10 |
+| Host Name | CANCELUL |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 17:01:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206240297187 |
+| Players | 14/15 |
+| Host Name | WTF&!о_О |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 16:56:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -140,18 +158,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28505206243949900 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | Взгляни в бездну |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:00:00 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505206244892072 |
-| Players | 1/5 |
-| Host Name | 120h25n3o |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 17:01:04 |
 
 
