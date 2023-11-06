@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206426160902 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | tiger woods |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:22:00 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206472635703 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Кудесник |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:48:30 |
@@ -131,8 +131,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206479424059 |
-| Players | 2/15 |
-| Host Name | ТУКИ ТУКИ |
+| Players | 1/15 |
+| Host Name | Greta Thunberg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:52:17 |
 
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206480798995 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | крабсбургер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:53:02 |
@@ -191,10 +191,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 19:49:29 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206481265928 |
+| Players | 1/15 |
+| Host Name | ged |
+| Region | AUSTRIA |
+| Lobby Creation Time | Monday, November 6, 2023 19:53:18 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206480619587 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 哇得发~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 19:52:57 |
@@ -203,7 +212,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206478454485 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | [*BaSkeTka*] |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 19:51:44 |
