@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206841838737 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | макс лавров |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 23:13:43 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206841214176 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | Need? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 23:13:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206841916666 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | typical psycho |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 23:13:47 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206841379667 |
-| Players | 9/10 |
-| Host Name | Divine |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 23:13:24 |
+| Lobby ID | 28505206842084505 |
+| Players | 2/10 |
+| Host Name | Strix |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 23:13:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206839315087 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Xiao BB |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 23:11:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206836453881 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | WF.Proeba Je |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 23:09:49 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206825778582 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | appreciate life |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 23:02:15 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206827841504 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Deadline |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 23:03:41 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206840139269 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | BLUE NIGHT♥ |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 23:12:29 |
@@ -119,19 +119,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 23:02:37 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206842084505 |
-| Players | 2/10 |
-| Host Name | Strix |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 23:13:54 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505206839657519 |
-| Players | 1/5 |
+| Players | 3/5 |
 | Host Name | dsam |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 23:12:08 |
@@ -140,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206830718533 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | artemmik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 23:05:43 |
@@ -157,10 +148,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505206841700601 |
+| Lobby ID | 28505206842157897 |
 | Players | 1/10 |
-| Host Name | lone |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 23:13:37 |
+| Host Name | How Do I Play? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 23:13:58 |
 
 
