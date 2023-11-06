@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206013376406 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | CAPASO MANITO |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 11:41:43 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206008587895 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | TwentyOneInch |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 11:33:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206012910841 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Licht |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 11:40:54 |
@@ -65,6 +65,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 11:43:51 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206014720995 |
+| Players | 3/10 |
+| Host Name | pox na game |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 11:44:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206012654557 |
+| Players | 14/15 |
+| Host Name | NeonRicer |
+| Region | USWEST |
+| Lobby Creation Time | Monday, November 6, 2023 11:40:28 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206014010081 |
@@ -77,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206014118703 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | IDFC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 11:43:00 |
