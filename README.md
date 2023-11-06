@@ -94,20 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206184661972 |
+| Lobby ID | 28505206185727109 |
 | Players | 3/10 |
-| Host Name | Harvester of death |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:54:27 |
+| Host Name | い Aure - LBy <3 |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 15:55:41 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206184718580 |
-| Players | 13/15 |
-| Host Name | ILOVEKAKAT`666 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:54:31 |
+| Lobby ID | 28505206185644743 |
+| Players | 1/15 |
+| Host Name | Phonies |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 6, 2023 15:55:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -121,37 +121,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206185644743 |
+| Lobby ID | 28505206185801093 |
 | Players | 1/15 |
-| Host Name | Phonies |
+| Host Name | чпок |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 6, 2023 15:55:35 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206184168877 |
-| Players | 1/10 |
-| Host Name | Ryujiin.GG [ Buunja ] |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 15:53:52 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505206185369158 |
-| Players | 4/5 |
-| Host Name | Kpa6 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:55:16 |
+| Lobby Creation Time | Monday, November 6, 2023 15:55:46 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206185603751 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 🐒 M O N K E 🐒 |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 15:55:32 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206185801992 |
+| Players | 2/10 |
+| Host Name | Alessia Cara |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 15:55:46 |
 
 
