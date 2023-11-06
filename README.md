@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206268997458 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | imp |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 17:25:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206272749721 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | SUPER SSSANIN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:29:14 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206272529521 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | 777777777777777 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:29:01 |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 17:28:31 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206272092819 |
-| Players | 9/10 |
-| Host Name | pixel_down |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:28:36 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206269374597 |
@@ -108,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WebMage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:25:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206272928942 |
+| Players | 1/10 |
+| Host Name | ЗИГ ХАЙП |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 17:29:24 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -119,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 17:28:08 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505206272798348 |
-| Players | 1/5 |
+| Lobby ID | 28505206272938066 |
+| Players | 1/10 |
 | Host Name | Çħίℓℓ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:29:17 |
+| Lobby Creation Time | Monday, November 6, 2023 17:29:25 |
 
 
