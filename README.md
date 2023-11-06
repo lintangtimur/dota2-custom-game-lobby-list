@@ -56,19 +56,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:21:40 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206123174802 |
-| Players | 2/8 |
-| Host Name | ЧИНГИЗ ЗА ОТЛИЗ |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 14:37:13 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206120411812 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | 110 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 14:33:26 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206121192957 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | ( °Д°) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:34:30 |
