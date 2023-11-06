@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206170576939 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | ʕ •ᴥ•ʔ Big Russian Lion |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 15:37:56 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206171812967 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | ГРУСТНЫЙ ЭМОБОЙЧИК;( |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:39:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206170894393 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 15:38:18 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 𝒑𝒂𝒓𝒛𝒊𝒗𝒂𝒍 |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 15:39:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206172257257 |
+| Players | 6/8 |
+| Host Name | Splaza |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 15:39:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206172278286 |
+| Players | 2/15 |
+| Host Name | Кухонный Spirit |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 15:39:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Славный Котик Иут |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:39:25 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28505206172255522 |
+| Players | 1/7 |
+| Host Name | Взгляни в бездну |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 15:39:55 |
 
 
