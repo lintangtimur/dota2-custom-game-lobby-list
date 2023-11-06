@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206462798916 |
-| Players | 7/8 |
-| Host Name | TSpirit.nullifier |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 19:43:02 |
+| Lobby ID | 28505206442712426 |
+| Players | 9/24 |
+| Host Name | DaiSuMeGai |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 19:31:40 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206490135736 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | =) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:58:12 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206469594823 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Larla |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 19:46:49 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206491486729 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | The geese' Goose #FL1XA |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 6, 2023 19:58:56 |
@@ -146,15 +146,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 19:58:54 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206442712426 |
-| Players | 9/24 |
-| Host Name | DaiSuMeGai |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 19:31:40 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206490040440 |
@@ -167,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206486340628 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Raizel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 19:56:06 |
