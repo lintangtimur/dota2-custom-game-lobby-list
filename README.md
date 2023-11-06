@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206086795536 |
-| Players | 5/24 |
-| Host Name | Percibal |
+| Players | 4/24 |
+| Host Name | BlackShooter |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 13:44:04 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206112994046 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | WSWSWSWSWSWSWS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:23:04 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206113890631 |
-| Players | 2/8 |
-| Host Name | edge |
+| Players | 1/8 |
+| Host Name | DeeDeeNido |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 14:24:20 |
 
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206114826928 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | kindamental |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, November 6, 2023 14:25:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206115244784 |
-| Players | 13/15 |
-| Host Name | montannarus |
+| Lobby ID | 28505206115956000 |
+| Players | 1/8 |
+| Host Name | edge |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 14:26:14 |
+| Lobby Creation Time | Monday, November 6, 2023 14:27:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | dyrachoy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:26:43 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28505206115831372 |
-| Players | 1/7 |
-| Host Name | Wani苦难ן天 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 6, 2023 14:27:04 |
 
 
