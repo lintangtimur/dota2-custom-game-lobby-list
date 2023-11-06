@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206184123950 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | waiting for death |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 15:53:49 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206180729412 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 15:49:51 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206184718580 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | ILOVEKAKAT`666 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:54:31 |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:55:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206185482261 |
-| Players | 2/10 |
-| Host Name | い Aure - LBy <3 |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 15:55:24 |
+| Lobby ID | 28505206185644743 |
+| Players | 1/15 |
+| Host Name | Phonies |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 6, 2023 15:55:35 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kpa6 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:55:16 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206185603751 |
+| Players | 2/10 |
+| Host Name | 🐒 M O N K E 🐒 |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 6, 2023 15:55:32 |
 
 
