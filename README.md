@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206199838419 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Moon |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 16:11:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206198369690 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | jzcz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 16:09:59 |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206197783760 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 346515 |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 16:09:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206199468593 |
-| Players | 7/10 |
-| Host Name | Александр Кишка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:11:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206200113738 |
-| Players | 1/15 |
-| Host Name | Дилдо Долбилдер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:11:54 |
 
 
 |  | epic_boss_fight_normal |
