@@ -50,10 +50,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205973547983 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Виктор Лесоруб |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:28:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505205973601872 |
+| Players | 1/10 |
+| Host Name | чел |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 10:28:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505205973139738 |
+| Players | 14/15 |
+| Host Name | id spz gil |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 10:27:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505205973698784 |
+| Players | 1/10 |
+| Host Name | pipilin10k |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 10:28:35 |
 
 
 |  | epic_boss_fight_challenger |
@@ -77,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505205973486070 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | XhOoPe |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:28:11 |
