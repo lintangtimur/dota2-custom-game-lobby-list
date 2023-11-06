@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206703689276 |
-| Players | 14/15 |
-| Host Name | Тузик) |
+| Lobby ID | 28505206680564210 |
+| Players | 2/15 |
+| Host Name | Pulsar |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 21:50:16 |
+| Lobby Creation Time | Monday, November 6, 2023 21:38:05 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206701600540 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Дэнчик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 21:49:10 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206702981882 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Carizu:3 |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 21:49:54 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206698487540 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Мразь[UA] |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 6, 2023 21:47:30 |
@@ -103,17 +103,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206700928057 |
-| Players | 7/10 |
-| Host Name | 666 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 21:48:48 |
+| Lobby ID | 28505206704634354 |
+| Players | 2/10 |
+| Host Name | vanitas |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 21:50:47 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206685849018 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Фембойчик пудж |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 21:40:51 |
@@ -128,22 +128,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 21:50:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206703812892 |
-| Players | 2/15 |
-| Host Name | solar |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 21:50:20 |
+| Lobby ID | 28505206704172220 |
+| Players | 4/10 |
+| Host Name | ﷽﷽ ﷽﷽﷽ ﷽﷽﷽ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 21:50:32 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206703969574 |
-| Players | 1/24 |
-| Host Name | 猪猪侠 |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 6, 2023 21:50:25 |
+| Lobby ID | 28505206704105767 |
+| Players | 2/10 |
+| Host Name | Pudge Lover |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 21:50:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -164,47 +164,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 21:40:12 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206704105767 |
-| Players | 2/10 |
-| Host Name | Pudge Lover |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 21:50:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206704158660 |
-| Players | 8/15 |
-| Host Name | pudgekhalifa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 21:50:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206704172220 |
-| Players | 2/10 |
-| Host Name | ﷽﷽ ﷽﷽﷽ ﷽﷽﷽ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 21:50:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206680564210 |
-| Players | 1/15 |
-| Host Name | Pulsar |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 21:38:05 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206688132196 |
-| Players | 2/10 |
-| Host Name | Troii |
+| Players | 1/10 |
+| Host Name | shush |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 21:42:03 |
 
