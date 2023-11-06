@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206358051707 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | style |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 18:37:46 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206361449398 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | BMW клитор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:40:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206359618807 |
-| Players | 5/15 |
-| Host Name | 🅰🆂🅲🅴🆂🅸🆂 |
+| Lobby ID | 28505206331208707 |
+| Players | 8/10 |
+| Host Name | mode : |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:38:51 |
+| Lobby Creation Time | Monday, November 6, 2023 18:18:32 |
 
 
 |  | ot3_desert_octet |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 18:29:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206361497431 |
-| Players | 2/8 |
-| Host Name | $ALT $NUFF |
+| Lobby ID | 28505206361570197 |
+| Players | 2/10 |
+| Host Name | I can't breathe.. |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:40:09 |
+| Lobby Creation Time | Monday, November 6, 2023 18:40:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206361262673 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Elya |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 18:39:59 |
@@ -110,13 +110,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 18:37:25 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206361602034 |
+| Players | 1/8 |
+| Host Name | just unluck |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 18:40:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206324685115 |
+| Players | 7/8 |
+| Host Name | ytka_v_tapkax |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 18:13:34 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206361570197 |
+| Lobby ID | 28505206361827696 |
 | Players | 1/10 |
-| Host Name | I can't breathe.. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:40:12 |
+| Host Name | HANJIEE HEHEHE |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 6, 2023 18:40:22 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -140,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206352593689 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | MrMechas |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:34:00 |
