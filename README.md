@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205977879180 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ☠丂HۣۜะĨ尺Oۣۜ≈☣ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 10:36:18 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205976258881 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Professor |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 10:33:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205978432557 |
-| Players | 6/15 |
+| Players | 1/15 |
 | Host Name | superazraq |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:37:20 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 10:37:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505205978281132 |
-| Players | 8/10 |
-| Host Name | ЯДаунил |
+| Lobby ID | 28505205978942854 |
+| Players | 1/8 |
+| Host Name | Разрушитель |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 10:37:03 |
+| Lobby Creation Time | Monday, November 6, 2023 10:38:17 |
 
 
 |  | ot3_desert_octet |
@@ -103,17 +103,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505205978770362 |
-| Players | 5/8 |
-| Host Name | Fearless |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 10:37:58 |
+| Lobby ID | 28505205978920322 |
+| Players | 4/8 |
+| Host Name | Endless |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 10:38:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505205978328470 |
+| Players | 9/10 |
+| Host Name | Chunchunmaru |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 10:37:08 |
 
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28505205978554541 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | Славный Котик Иут |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:37:33 |
