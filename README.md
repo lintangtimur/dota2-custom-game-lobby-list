@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206124940432 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 14:39:37 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206140779412 |
-| Players | 8/10 |
-| Host Name | skado |
+| Lobby ID | 28505206141452862 |
+| Players | 5/10 |
+| Host Name | LITVIN 1XBET |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:00:57 |
+| Lobby Creation Time | Monday, November 6, 2023 15:01:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206141314849 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Romario |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:01:41 |
@@ -68,45 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206140643726 |
-| Players | 6/8 |
-| Host Name | 4 |
+| Players | 5/8 |
+| Host Name | ender_Wanderer |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 15:00:46 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206141451002 |
-| Players | 1/15 |
-| Host Name | Pikachu187 |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 15:01:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206141452862 |
-| Players | 2/10 |
-| Host Name | LITVIN 1XBET |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:01:52 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505206139981444 |
-| Players | 1/5 |
-| Host Name | РАПИРА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 14:59:50 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505206141398819 |
+| Lobby ID | 28505206141537515 |
 | Players | 1/10 |
 | Host Name | YTPO |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 6, 2023 15:01:48 |
+| Lobby Creation Time | Monday, November 6, 2023 15:01:59 |
 
 
