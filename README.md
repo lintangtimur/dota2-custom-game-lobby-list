@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206112638544 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | NonForDevs |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:22:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206112339333 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | WTF&!о_О |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 14:22:09 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206112846907 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | 1 ward and 2 tango |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 6, 2023 14:22:52 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206112952677 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 14:23:00 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206112994046 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | WSWSWSWSWSWSWS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:23:04 |
@@ -113,19 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206113129087 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Greta Thunberg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:23:15 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206110053964 |
-| Players | 9/10 |
-| Host Name | Pravednik |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 14:18:55 |
+| Lobby ID | 28505206109884800 |
+| Players | 8/10 |
+| Host Name | kindamental |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 6, 2023 14:18:40 |
 
 
 |  | epic_boss_fight_nightmare |
