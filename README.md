@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206000676012 |
-| Players | 14/15 |
-| Host Name | lebanon don |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 11:19:29 |
+| Lobby ID | 28505206002438552 |
+| Players | 1/15 |
+| Host Name | Eliza.B |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 11:22:42 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206001321310 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | LEAR |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:20:41 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 11:21:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206002438552 |
-| Players | 1/15 |
-| Host Name | Eliza.B |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 11:22:42 |
+| Lobby ID | 28505206001661498 |
+| Players | 5/8 |
+| Host Name | Hxrxkiller |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 11:21:18 |
 
 
 |  | epic_boss_fight_challenger |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Славный Котик Иут |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:19:06 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206002534441 |
+| Players | 1/10 |
+| Host Name | Duck My Sick |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 11:22:53 |
 
 
