@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206112952677 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 14:23:00 |
@@ -74,13 +74,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:21:40 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206114472387 |
+| Players | 2/15 |
+| Host Name | BlastBeats |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 14:25:09 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206114277622 |
+| Lobby ID | 28505206114522293 |
 | Players | 1/8 |
-| Host Name | вышедший из лп))) |
+| Host Name | skorpziro |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 6, 2023 14:25:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206114505538 |
+| Players | 3/10 |
+| Host Name | Cachita is Back a la Pardo |
 | Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 14:24:52 |
+| Lobby Creation Time | Monday, November 6, 2023 14:25:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206109884800 |
+| Players | 8/10 |
+| Host Name | George W. Kush |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 6, 2023 14:18:40 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206113965250 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Cpt. Douchebag |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:24:26 |
