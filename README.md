@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206170576939 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | ʕ •ᴥ•ʔ Big Russian Lion |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 15:37:56 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206171812967 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | ГРУСТНЫЙ ЭМОБОЙЧИК;( |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:39:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206170894393 |
-| Players | 6/8 |
+| Players | 4/8 |
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 15:38:18 |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206172278286 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Кухонный Spirit |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:39:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206172658359 |
+| Players | 1/8 |
+| Host Name | только мне можно руинить |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 15:40:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206172638052 |
+| Players | 1/8 |
+| Host Name | тангуль |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 15:40:23 |
 
 
 |  | epic_boss_fight_nightmare |
