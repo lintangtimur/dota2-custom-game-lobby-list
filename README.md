@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206637576749 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | SweetheartYuki |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 21:15:40 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206614914376 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Contigo |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 21:03:48 |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206633669677 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | romchyg |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 6, 2023 21:13:38 |
@@ -221,7 +221,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206619448331 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | //// |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 21:06:10 |
@@ -236,37 +236,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 21:15:56 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206638453906 |
+| Players | 1/15 |
+| Host Name | eleskovic^ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 21:16:07 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206638113555 |
-| Players | 9/10 |
-| Host Name | Sferov |
+| Lobby ID | 28505206623509521 |
+| Players | 5/10 |
+| Host Name | T1zetOne |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 21:15:57 |
+| Lobby Creation Time | Monday, November 6, 2023 21:08:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206638148292 |
-| Players | 3/24 |
-| Host Name | STRATEGIC ИНВЕСТИЦИЯ В ТЕРПЕНИЕ |
+| Lobby ID | 28505206638438150 |
+| Players | 3/8 |
+| Host Name | パアイン |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 21:15:58 |
+| Lobby Creation Time | Monday, November 6, 2023 21:16:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206631283886 |
-| Players | 14/15 |
-| Host Name | ♥Trigun♥ |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 6, 2023 21:12:23 |
+| Lobby ID | 28505206583700185 |
+| Players | 1/15 |
+| Host Name | ファックユー |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 20:47:34 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206636862935 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Çħίℓℓ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 21:15:17 |
@@ -284,7 +293,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206502119117 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | エッラ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 20:04:42 |
@@ -293,7 +302,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505206637637121 |
-| Players | 1/5 |
+| Players | 3/5 |
 | Host Name | ♛ H z w a p |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 21:15:42 |
@@ -306,5 +315,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Da Wae |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 21:15:50 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206638314155 |
+| Players | 1/10 |
+| Host Name | Hello |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 21:16:03 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206638496569 |
+| Players | 1/5 |
+| Host Name | ARZAGIR404 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 21:16:09 |
 
 
