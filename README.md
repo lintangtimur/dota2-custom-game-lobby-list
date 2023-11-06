@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206621403869 |
-| Players | 10/24 |
+| Players | 15/24 |
 | Host Name | STRATEGIC ИНВЕСТИЦИЯ В ТЕРПЕНИЕ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 21:07:12 |
@@ -158,10 +158,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206625453276 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | LΔLDØ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 21:09:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206625674739 |
+| Players | 2/10 |
+| Host Name | Ghost Grave |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 21:09:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206625610610 |
+| Players | 2/8 |
+| Host Name | waterlose |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 21:09:24 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -176,9 +194,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206624459802 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Barry Delight |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 21:08:48 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206625557708 |
+| Players | 1/5 |
+| Host Name | Барыга насвая |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 21:09:23 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206625689470 |
+| Players | 1/5 |
+| Host Name | 最强之⑨ |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 6, 2023 21:09:27 |
 
 
