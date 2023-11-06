@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205978942854 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Разрушитель |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:38:17 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205983268198 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Osaed |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:46:25 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205982402185 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Jasmine |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 10:44:48 |
@@ -92,11 +92,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 10:46:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505205983528290 |
-| Players | 1/15 |
-| Host Name | Gino LS |
+| Lobby ID | 28505205983534433 |
+| Players | 1/8 |
+| Host Name | AVENA 3 URSITAS |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:46:55 |
 
@@ -108,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | dogical |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 10:46:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505205983601204 |
+| Players | 1/10 |
+| Host Name | Ищу девушку |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 10:47:03 |
 
 
 |  | epic_boss_fight_nightmare |
