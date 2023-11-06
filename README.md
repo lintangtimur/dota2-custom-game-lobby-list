@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206244830570 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | a? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:01:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206219717288 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | 😇Динозаврик😇 |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 16:33:59 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 16:51:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206234520159 |
-| Players | 1/24 |
-| Host Name | ejji ed |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 6, 2023 16:49:59 |
+| Lobby ID | 28505206244991850 |
+| Players | 6/10 |
+| Host Name | CANCELUL |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 17:01:11 |
 
 
 |  | ot3_gardens_duo |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 16:56:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206242773510 |
-| Players | 14/15 |
-| Host Name | САСЬВА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:58:47 |
+| Lobby ID | 28505206245371121 |
+| Players | 1/24 |
+| Host Name | ejji ed |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 17:01:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,19 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206242438811 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | WF.Proeba Je |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:58:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206239634261 |
-| Players | 12/15 |
-| Host Name | ★Bartimeus★ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:55:27 |
+| Lobby ID | 28505206245471071 |
+| Players | 5/8 |
+| Host Name | kedr |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 17:01:42 |
 
 
 |  | ot3_jungle_quintet |
@@ -128,37 +128,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 16:59:28 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206244991850 |
-| Players | 6/10 |
-| Host Name | CANCELUL |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 17:01:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206240297187 |
-| Players | 13/15 |
-| Host Name | WTF&!о_О |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 16:56:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206245310792 |
-| Players | 1/8 |
-| Host Name | сдуревший |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 6, 2023 17:01:32 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206242364923 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Andreas Maler |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 16:58:21 |
@@ -173,12 +146,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 17:00:00 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505206245312738 |
-| Players | 1/7 |
-| Host Name | . Skye |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 17:01:32 |
+| Lobby ID | 28505206245344966 |
+| Players | 1/10 |
+| Host Name | BadMove |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 17:01:34 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206245470158 |
+| Players | 1/5 |
+| Host Name | MARSIGLIESE |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 17:01:42 |
 
 
