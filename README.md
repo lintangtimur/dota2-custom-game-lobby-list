@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206036220680 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 12:20:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206037156080 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | plzhv |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:21:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206036934903 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Bloodscourge |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:21:18 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206037263981 |
-| Players | 3/8 |
-| Host Name | Bastard with chains. |
+| Lobby ID | 28505206037389340 |
+| Players | 1/8 |
+| Host Name | витя бетонщик |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 12:21:51 |
+| Lobby Creation Time | Monday, November 6, 2023 12:22:03 |
 
 
 |  | epic_boss_fight_nightmare |
