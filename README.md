@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205979515683 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | In L♥ve With a Fat Pikachu =3 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 10:39:21 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205980093637 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | себастиан |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:40:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205981032588 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Jesus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 10:42:13 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205978604881 |
-| Players | 4/24 |
+| Players | 9/24 |
 | Host Name | roswel |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 10:37:39 |
@@ -108,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | wanderer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 10:42:43 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505205981429161 |
+| Players | 1/15 |
+| Host Name | ￥@111 |
+| Region | PWTELECOMGUANGZHOU |
+| Lobby Creation Time | Monday, November 6, 2023 10:42:57 |
 
 
 |  | epic_boss_fight_nightmare |
