@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206144106493 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Kermit Da Frog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 15:05:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206142497628 |
-| Players | 14/15 |
-| Host Name | Caramelbear |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 15:03:15 |
+| Lobby ID | 28505206146407483 |
+| Players | 2/10 |
+| Host Name | letozhara |
+| Region | USWEST |
+| Lobby Creation Time | Monday, November 6, 2023 15:08:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206146228636 |
+| Lobby ID | 28505206146130784 |
 | Players | 1/8 |
-| Host Name | que pro |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 6, 2023 15:07:57 |
+| Host Name | сергей маляр |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 15:07:50 |
 
 
 |  | ot3_gardens_duo |
@@ -110,22 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:07:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206142576611 |
-| Players | 14/15 |
-| Host Name | еБЕНЬ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:03:21 |
+| Lobby ID | 28505206146346572 |
+| Players | 1/10 |
+| Host Name | hakurei |
+| Region | USWEST |
+| Lobby Creation Time | Monday, November 6, 2023 15:08:05 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206146130784 |
-| Players | 1/8 |
-| Host Name | сергей маляр |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 15:07:50 |
+| Lobby ID | 28505206146403014 |
+| Players | 2/8 |
+| Host Name | ๋ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 6, 2023 15:08:09 |
 
 
 |  | epic_boss_fight_nightmare |
