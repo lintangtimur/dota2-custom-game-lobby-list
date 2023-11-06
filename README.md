@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206086795536 |
-| Players | 23/24 |
+| Players | 22/24 |
 | Host Name | Viper Venom |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 13:44:04 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206102098390 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | 风显 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:07:24 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206105220507 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Shrigga |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 14:11:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206105570131 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 14:12:29 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | анальная чехорда |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, November 6, 2023 14:14:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206106723103 |
+| Players | 3/15 |
+| Host Name | Rodi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 14:14:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -110,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:13:02 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505206106714447 |
-| Players | 1/7 |
-| Host Name | 9527 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 14:14:09 |
+| Lobby ID | 28505206106741683 |
+| Players | 1/10 |
+| Host Name | Just subscribe for Linda H |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 14:14:11 |
 
 
