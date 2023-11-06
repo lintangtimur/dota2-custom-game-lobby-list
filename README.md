@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206154515216 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | swap commends |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 15:18:17 |
@@ -113,8 +113,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206188358924 |
-| Players | 2/8 |
-| Host Name | theOne |
+| Players | 1/8 |
+| Host Name | ㅿ |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 6, 2023 15:58:42 |
 
@@ -135,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | r |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:56:30 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505206188397338 |
-| Players | 1/5 |
-| Host Name | Blood Greeting |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 15:58:45 |
 
 
