@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205951604767 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Camila Cabello |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 09:48:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205951659250 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Lamar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 09:48:06 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205951901215 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 09:48:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505205951834320 |
-| Players | 1/8 |
-| Host Name | m9 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 09:48:25 |
+| Lobby ID | 28505205951064405 |
+| Players | 6/10 |
+| Host Name | DAEMON |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 09:47:00 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205944741417 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Impress the Kid |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 09:35:24 |
@@ -77,43 +77,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205949272953 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | oOo-ÉGOÏSTE-oOo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 09:43:43 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505205949703600 |
-| Players | 9/10 |
-| Host Name | juliale |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 09:44:31 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505205951049118 |
-| Players | 1/24 |
-| Host Name | ⬜⬜⬜⬜⬜ |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 09:46:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505205951064405 |
-| Players | 5/10 |
-| Host Name | DAEMON |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 09:47:00 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205951383860 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Glue Sommelier |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 09:47:36 |
