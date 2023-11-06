@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 09:54:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505205958744383 |
-| Players | 9/10 |
-| Host Name | Too Good To Win? |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 10:01:06 |
+| Lobby ID | 28505205959890492 |
+| Players | 1/8 |
+| Host Name | benitocamitroncote |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 10:03:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 10:02:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505205957857344 |
-| Players | 22/24 |
-| Host Name | Catbug |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 09:59:30 |
+| Lobby ID | 28505205959860179 |
+| Players | 4/15 |
+| Host Name | jimmy butler haircut of dota |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 10:03:07 |
 
 
 |  | ot3_gardens_duo |
@@ -81,23 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | S.C.C.O.R |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:00:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505205959860179 |
-| Players | 4/15 |
-| Host Name | jimmy butler haircut of dota |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 10:03:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505205959890492 |
-| Players | 1/8 |
-| Host Name | benitocamitroncote |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 10:03:10 |
 
 
