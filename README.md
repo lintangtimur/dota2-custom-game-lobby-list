@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206176339204 |
-| Players | 14/24 |
-| Host Name | Trungdaica |
+| Players | 16/24 |
+| Host Name | Kwee "KAYPANG" Ceng |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 15:44:43 |
 
@@ -85,11 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206177202123 |
+| Lobby ID | 28505206177438907 |
 | Players | 3/15 |
-| Host Name | Пчелёнок Кузя |
+| Host Name | Максимка фидит |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:45:43 |
+| Lobby Creation Time | Monday, November 6, 2023 15:46:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206177453261 |
+| Players | 1/8 |
+| Host Name | 5 pos otkril rot = lose |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 15:46:01 |
 
 
 |  | epic_boss_fight_normal |
