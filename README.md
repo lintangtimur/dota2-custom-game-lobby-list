@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205948612334 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | S K A T I L S Y A |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 09:42:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205948327983 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | J.Grimm |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 09:42:00 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205949138784 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | wtt2k |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 09:43:29 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205944741417 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Impress the Kid |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 09:35:24 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205949272953 |
-| Players | 1/24 |
-| Host Name | Lulala |
+| Players | 2/24 |
+| Host Name | oOo-ÉGOÏSTE-oOo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 09:43:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505205949285536 |
+| Players | 2/10 |
+| Host Name | ЛиканХРЮК (СВО) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 09:43:45 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 09:41:09 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505205949126392 |
-| Players | 1/5 |
-| Host Name | KING  CRIMSON |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 09:43:28 |
 
 
