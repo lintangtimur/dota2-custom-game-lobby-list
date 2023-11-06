@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206498885541 |
-| Players | 5/8 |
+| Players | 3/8 |
 | Host Name | god complex |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 20:02:58 |
@@ -110,19 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 19:47:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206500294417 |
-| Players | 1/10 |
-| Host Name | FRSTCMFRSTSRVD |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 20:03:44 |
+| Lobby ID | 28505206496940035 |
+| Players | 13/15 |
+| Host Name | マミヤKejOY |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 20:01:54 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206473257625 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | fap my mom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:48:51 |
@@ -139,46 +139,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206497816796 |
-| Players | 8/10 |
-| Host Name | -320 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 20:02:23 |
+| Lobby ID | 28505206501076291 |
+| Players | 2/10 |
+| Host Name | 3-hp |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 20:04:09 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206500683750 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | worldwide baby |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 20:03:56 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206486340628 |
-| Players | 9/10 |
-| Host Name | Raizel |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 19:56:06 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505206500092418 |
-| Players | 4/5 |
-| Host Name | Fade |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 20:03:37 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206486507182 |
-| Players | 8/10 |
-| Host Name | antuar |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 19:56:11 |
+| Lobby ID | 28505206462798916 |
+| Players | 7/8 |
+| Host Name | Анальный гид |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 19:43:02 |
 
 
