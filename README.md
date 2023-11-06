@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206089995257 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | SexyLips |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 13:49:01 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:44:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206086709350 |
-| Players | 1/15 |
-| Host Name | Maldiño |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 13:43:56 |
+| Lobby ID | 28505206092165120 |
+| Players | 1/8 |
+| Host Name | БаРаГуЗ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 6, 2023 13:52:23 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206091738976 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | антон перфоратор |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 13:51:43 |
@@ -94,11 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206091935127 |
-| Players | 1/15 |
-| Host Name | batasai |
+| Lobby ID | 28505206092134586 |
+| Players | 7/15 |
+| Host Name | ЛАЙТ?) |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 6, 2023 13:52:02 |
+| Lobby Creation Time | Monday, November 6, 2023 13:52:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206092198019 |
+| Players | 1/8 |
+| Host Name | Dysphoria |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 13:52:26 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -119,12 +128,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:51:47 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505206092072583 |
-| Players | 1/5 |
+| Lobby ID | 28505206092160019 |
+| Players | 1/10 |
+| Host Name | SOOBRIDT |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 13:52:23 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206092163975 |
+| Players | 1/10 |
 | Host Name | Leinach |
 | Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 13:52:14 |
+| Lobby Creation Time | Monday, November 6, 2023 13:52:23 |
 
 
