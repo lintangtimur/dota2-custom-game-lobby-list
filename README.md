@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206086795536 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Viper Venom |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 13:44:04 |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206110576753 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | bot<3 |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 14:19:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206110853465 |
+| Players | 1/15 |
+| Host Name | opasn1y_t1p |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 14:20:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206110930724 |
+| Players | 1/10 |
+| Host Name | Пацифисто |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 14:20:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,15 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Yuriy |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 14:18:54 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505206110811703 |
-| Players | 1/5 |
-| Host Name | доктор колбаскин |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 6, 2023 14:19:59 |
 
 
 |  | epic_boss_fight_hard |
