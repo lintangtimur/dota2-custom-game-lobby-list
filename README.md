@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206175893473 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | KALOG |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206296044776 |
-| Players | 6/15 |
-| Host Name | SUPER SSSANIN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:50:06 |
+| Lobby ID | 28505206296933575 |
+| Players | 1/15 |
+| Host Name | Kha1m |
+| Region | AUSTRIA |
+| Lobby Creation Time | Monday, November 6, 2023 17:50:52 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206297814815 |
-| Players | 4/8 |
+| Players | 1/8 |
 | Host Name | Stels |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:51:38 |
@@ -121,29 +121,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206298191089 |
-| Players | 1/10 |
-| Host Name | AnimaVestry |
+| Lobby ID | 28505206282897843 |
+| Players | 7/10 |
+| Host Name | мяу |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:51:57 |
+| Lobby Creation Time | Monday, November 6, 2023 17:38:35 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206298366889 |
+| Players | 2/10 |
+| Host Name | кобольд бригадир |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 17:52:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206298386938 |
+| Players | 1/10 |
+| Host Name | Fl_v1x[PKKA] |
+| Region | AUSTRIA |
+| Lobby Creation Time | Monday, November 6, 2023 17:52:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206297223270 |
+| Lobby ID | 28505206295738101 |
 | Players | 2/8 |
-| Host Name | Maslinka# |
+| Host Name | kaiser^^ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:51:07 |
+| Lobby Creation Time | Monday, November 6, 2023 17:49:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206296933575 |
-| Players | 1/15 |
-| Host Name | Kha1m |
+| Lobby ID | 28505206298454699 |
+| Players | 5/8 |
+| Host Name | kedr |
 | Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 6, 2023 17:50:52 |
+| Lobby Creation Time | Monday, November 6, 2023 17:52:11 |
 
 
 |  | epic_boss_fight_challenger |
