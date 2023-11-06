@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205979071266 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | GT |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:38:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205978850615 |
-| Players | 1/10 |
+| Players | 8/10 |
 | Host Name | videogamer2000 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:38:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205978432557 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | superazraq |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:37:20 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205978643735 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Kafka |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 10:37:43 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205978678028 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Yonwalther |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:37:47 |
@@ -108,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fearless |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:37:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505205979452433 |
+| Players | 1/8 |
+| Host Name | Punisher PMA |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 10:39:14 |
 
 
 |  | epic_boss_fight_challenger |
@@ -126,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | What the help ? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 10:38:28 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28505205979397565 |
-| Players | 1/7 |
-| Host Name | Player1 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 10:39:08 |
 
 
