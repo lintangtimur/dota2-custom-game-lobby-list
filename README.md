@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206086145976 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | CryForTheMoon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:43:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206086894034 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Grift |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 13:44:13 |
