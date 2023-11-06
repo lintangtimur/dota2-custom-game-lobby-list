@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206238408353 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | Sogeking |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 16:54:09 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206239634261 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | ★Bartimeus★ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:55:27 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206242230788 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | эминем |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 16:58:12 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206242724262 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Peak Comedy |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 6, 2023 16:58:43 |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206243228979 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | 大鲶鱼 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 16:59:15 |
@@ -189,6 +189,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MVRiCK- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 16:59:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206241650975 |
+| Players | 2/15 |
+| Host Name | Мамкин Лев |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 16:57:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206243631918 |
+| Players | 5/8 |
+| Host Name | absolutno zapomni |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 16:59:40 |
 
 
 |  | epic_boss_fight_nightmare |
