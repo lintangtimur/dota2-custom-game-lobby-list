@@ -74,12 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:20:45 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206072966869 |
+| Players | 1/10 |
+| Host Name | NezukoChannnnn |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 13:22:11 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505206072897301 |
+| Lobby ID | 28505206073062559 |
 | Players | 1/5 |
-| Host Name | Dos? |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 6, 2023 13:22:04 |
+| Host Name | Di'Dock |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 13:22:21 |
 
 
