@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206053031273 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | I'll motherfuckin' murder her |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:48:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206053554519 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | афоня666 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:49:16 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206053635236 |
-| Players | 1/15 |
-| Host Name | Zeldris |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 12:49:24 |
+| Lobby ID | 28505206053811841 |
+| Players | 6/15 |
+| Host Name | Shroomba |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 12:49:43 |
 
 
 |  | ot3_gardens_duo |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 12:49:27 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206053811841 |
-| Players | 6/15 |
-| Host Name | Shroomba |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 12:49:43 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206047919135 |
@@ -94,28 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505206052788744 |
-| Players | 2/10 |
-| Host Name | Arcane~ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 12:47:58 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28505206053506484 |
 | Players | 1/10 |
 | Host Name | MYB11RU |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 12:49:11 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505206053680667 |
-| Players | 2/5 |
-| Host Name | ►bot.atkr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 12:49:29 |
 
 
