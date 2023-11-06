@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206358051707 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | style |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 18:37:46 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 18:39:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206359000441 |
-| Players | 4/10 |
-| Host Name | ДЕЛОВАЯ КАЛБАСА |
+| Lobby ID | 28505206361449398 |
+| Players | 2/8 |
+| Host Name | BMW клитор |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:38:25 |
+| Lobby Creation Time | Monday, November 6, 2023 18:40:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206359618807 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | 🅰🆂🅲🅴🆂🅸🆂 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:38:51 |
@@ -85,20 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206361206825 |
-| Players | 1/8 |
-| Host Name | エレン・イェーガ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 18:39:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206358977957 |
-| Players | 1/10 |
-| Host Name | Неуязвимый |
+| Lobby ID | 28505206361497431 |
+| Players | 2/8 |
+| Host Name | $ALT $NUFF |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:38:24 |
+| Lobby Creation Time | Monday, November 6, 2023 18:40:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206361262673 |
+| Players | 2/15 |
+| Host Name | Elya |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 18:39:59 |
 
 
 |  | ot3_jungle_quintet |
@@ -112,38 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206348646608 |
-| Players | 2/10 |
-| Host Name | gaer390 |
+| Lobby ID | 28505206361570197 |
+| Players | 1/10 |
+| Host Name | I can't breathe.. |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:31:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206340011182 |
-| Players | 7/15 |
-| Host Name | makdak1111 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:25:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206360233526 |
-| Players | 4/8 |
-| Host Name | Дима Жмыходавов |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:39:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206361262673 |
-| Players | 2/15 |
-| Host Name | Elya |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 18:39:59 |
+| Lobby Creation Time | Monday, November 6, 2023 18:40:12 |
 
 
 |  | epic_boss_fight_nightmare |
