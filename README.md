@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206013865020 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | T - アイドル |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 11:42:34 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206015689271 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | WilifWilofWilai |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:45:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206016655215 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | bastard0 |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:47:23 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206016751102 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 11:47:33 |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Halimaw mag dota |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 11:42:49 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206017207062 |
+| Players | 1/10 |
+| Host Name | How Do I Play? |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 6, 2023 11:48:20 |
 
 
