@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206205793727 |
-| Players | 14/15 |
-| Host Name | Альё |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:18:15 |
+| Lobby ID | 28505206207982486 |
+| Players | 1/8 |
+| Host Name | 123 |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 16:20:46 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206205719494 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 16:18:10 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206207613145 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | xxxx |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 16:20:21 |
@@ -103,11 +103,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206207634949 |
+| Lobby ID | 28505206207899010 |
 | Players | 1/8 |
-| Host Name | Tohinskii |
+| Host Name | Лупа |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 16:20:22 |
+| Lobby Creation Time | Monday, November 6, 2023 16:20:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206205633831 |
+| Players | 14/15 |
+| Host Name | slipknotik |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 6, 2023 16:18:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206207961193 |
+| Players | 3/8 |
+| Host Name | egoist. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 16:20:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206208111259 |
+| Players | 1/8 |
+| Host Name | krakoonity |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 16:20:55 |
 
 
 |  | epic_boss_fight_normal |
