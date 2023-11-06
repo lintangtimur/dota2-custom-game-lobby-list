@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206138526597 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | FILETE EL MOCHA |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 14:57:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206137166292 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | aF |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 14:56:05 |
@@ -77,19 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206138266255 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | ZQPS |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 6, 2023 14:57:33 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505206138984363 |
+| Players | 1/24 |
+| Host Name | Kwee "KAYPANG" Ceng |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 14:58:30 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206138901403 |
-| Players | 2/8 |
-| Host Name | БИБ ХУЙС |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 6, 2023 14:58:24 |
+| Lobby ID | 28505206139007232 |
+| Players | 1/8 |
+| Host Name | поллюцифер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 14:58:32 |
 
 
 |  | epic_boss_fight_nightmare |
