@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206048206608 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | A Dog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 12:40:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206052563947 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | George |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 12:47:36 |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 12:48:23 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206053153378 |
-| Players | 1/10 |
-| Host Name | tiago |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 12:48:35 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206047919135 |
@@ -77,9 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206052788744 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | MYB11RU |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:47:58 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206053173254 |
+| Players | 2/5 |
+| Host Name | ►bot.atkr |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 12:48:37 |
 
 
