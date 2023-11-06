@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206124940432 |
-| Players | 5/24 |
+| Players | 3/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 14:39:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206136682850 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Rodi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:55:26 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:56:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206135505014 |
-| Players | 1/8 |
-| Host Name | Gromm |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 14:53:51 |
+| Lobby ID | 28505206137830406 |
+| Players | 3/10 |
+| Host Name | Limbo |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 6, 2023 14:56:58 |
 
 
 |  | ot3_desert_octet |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | < blank > |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:55:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206137043628 |
-| Players | 5/10 |
-| Host Name | Fakkula |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 14:55:55 |
 
 
 |  | epic_boss_fight_nightmare |
