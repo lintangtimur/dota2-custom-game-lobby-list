@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205979515683 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | In L♥ve With a Fat Pikachu =3 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 10:39:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505205981263890 |
-| Players | 8/15 |
-| Host Name | MMR DONATOR |
-| Region | USWEST |
-| Lobby Creation Time | Monday, November 6, 2023 10:42:39 |
+| Lobby ID | 28505205981675470 |
+| Players | 1/10 |
+| Host Name | Chechi boy smurf |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 10:43:25 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205981060499 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | kek |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:42:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205981032588 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Jesus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 10:42:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205979529107 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Zu? |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:39:22 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | COVID - 19 |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 10:41:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505205980093637 |
-| Players | 7/10 |
-| Host Name | себастиан |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 10:40:26 |
 
 
 |  | ot3_gardens_duo |
