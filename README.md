@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206175893473 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | KALOG |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206241480141 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | T 1000 Bot |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:57:25 |
@@ -94,20 +94,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206330133119 |
-| Players | 2/8 |
-| Host Name | Dominion |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 18:17:44 |
+| Lobby ID | 28505206330180428 |
+| Players | 5/8 |
+| Host Name | Ха-ха-ха I♡ANAL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 18:17:46 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206323799851 |
-| Players | 2/5 |
-| Host Name | king jagvar |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 6, 2023 18:12:54 |
+| Lobby ID | 28505206326812031 |
+| Players | 14/15 |
+| Host Name | f}Khorn |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 18:15:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206330433118 |
+| Players | 3/8 |
+| Host Name | Шахтёр Донбасса |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 18:17:57 |
 
 
 |  | epic_boss_fight_nightmare |
