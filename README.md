@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206002438552 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | Eliza.B |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 11:22:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206002807207 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Marcos3tres |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 11:23:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206003864835 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | talent?hardwork? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:25:16 |
@@ -92,6 +92,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 11:26:06 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206004492639 |
+| Players | 1/8 |
+| Host Name | Covid Bryant |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 11:26:23 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206002534441 |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206002765840 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Славный Котик Иут |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:23:17 |
