@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 10:12:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505205965162321 |
-| Players | 8/10 |
-| Host Name | Moises |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 10:12:51 |
+| Lobby ID | 28505205965667926 |
+| Players | 7/15 |
+| Host Name | пycть лyнa сияeт яpкo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 10:13:44 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205962395688 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | FB 🎸🦃 |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 10:07:44 |
@@ -50,46 +50,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205965055882 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Toñizonte |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:12:39 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505205965667926 |
-| Players | 5/15 |
-| Host Name | пycть лyнa сияeт яpкo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 10:13:44 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505205961995960 |
-| Players | 23/24 |
-| Host Name | xJw |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 10:07:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505205965777045 |
-| Players | 1/15 |
-| Host Name | TUKI TUKI |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 10:13:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505205965795095 |
-| Players | 1/15 |
+| Lobby ID | 28505205965834476 |
+| Players | 1/24 |
 | Host Name | hamleys |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 10:13:58 |
+| Lobby Creation Time | Monday, November 6, 2023 10:14:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505205965840257 |
+| Players | 2/10 |
+| Host Name | Bank of Braavos |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 10:14:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505205965850864 |
+| Players | 1/10 |
+| Host Name | Mcry |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 10:14:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505205965881186 |
+| Players | 3/15 |
+| Host Name | Robther |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 10:14:08 |
 
 
 |  | epic_boss_fight_nightmare |
