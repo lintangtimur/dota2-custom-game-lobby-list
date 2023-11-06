@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206529613627 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | Heaven & Earth |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 20:19:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206511305125 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | CameraMan |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 20:09:38 |
@@ -140,8 +140,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206518939943 |
-| Players | 6/15 |
-| Host Name | kudzo |
+| Players | 8/15 |
+| Host Name | JAMES |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 20:13:43 |
 
@@ -185,17 +185,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206530663216 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Vlom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 20:19:57 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206472425026 |
+| Players | 4/15 |
+| Host Name | nikezar2005 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 19:48:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206531682029 |
+| Players | 2/8 |
+| Host Name | ༒ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 20:20:30 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206519975353 |
-| Players | 7/10 |
-| Host Name | Daimon |
+| Players | 6/10 |
+| Host Name | neikus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 20:14:16 |
 
@@ -203,18 +221,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206531113563 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | undefeatable opponent |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 20:20:12 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28505206531364715 |
-| Players | 1/7 |
-| Host Name | "DemoN" |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 20:20:20 |
 
 
