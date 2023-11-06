@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206036220680 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 12:20:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206034603638 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | MERLYN |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:17:26 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Bloodscourge |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:21:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206036993250 |
-| Players | 1/15 |
-| Host Name | seecond |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 6, 2023 12:21:23 |
 
 
 |  | epic_boss_fight_nightmare |
