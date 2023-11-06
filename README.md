@@ -38,6 +38,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 12:21:40 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206037566671 |
+| Players | 1/8 |
+| Host Name | GENIUS (at 4k mmr) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 12:22:21 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206035594626 |
