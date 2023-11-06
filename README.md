@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206212693839 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 16:26:05 |
@@ -113,19 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206212947294 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:26:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206212952337 |
-| Players | 13/15 |
-| Host Name | Кухонный Spirit |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:26:23 |
+| Lobby ID | 28505206213462227 |
+| Players | 3/8 |
+| Host Name | hypocrisy |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 16:26:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -144,14 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Uchiha Madara |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 16:09:27 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505206213425120 |
-| Players | 1/5 |
-| Host Name | y8 |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 16:26:55 |
 
 
