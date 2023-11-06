@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205992070950 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | бизнес крип |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:03:20 |
@@ -72,5 +72,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Señora A su hijo lestan pegando |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:03:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505205993228392 |
+| Players | 5/8 |
+| Host Name | ++ |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 11:05:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505205993284219 |
+| Players | 1/8 |
+| Host Name | Covid Bryant |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 11:05:41 |
 
 
