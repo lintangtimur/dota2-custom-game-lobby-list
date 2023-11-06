@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206420842873 |
-| Players | 8/10 |
-| Host Name | Sir Mahmud |
+| Lobby ID | 28505206421397252 |
+| Players | 1/10 |
+| Host Name | CANCELUL |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 19:18:48 |
+| Lobby Creation Time | Monday, November 6, 2023 19:19:08 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206420902610 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | S |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:18:50 |
@@ -86,19 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206417793966 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | leather |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 19:16:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206421124841 |
-| Players | 4/8 |
-| Host Name | пивной мастер |
+| Lobby ID | 28505206421354319 |
+| Players | 2/10 |
+| Host Name | ПЕРЕДНЯЯ ГАЛОША |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 19:19:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206421379998 |
+| Players | 1/15 |
+| Host Name | MOSYA |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 19:18:59 |
+| Lobby Creation Time | Monday, November 6, 2023 19:19:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | boiled water |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 19:14:49 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28505206421450635 |
+| Players | 4/7 |
+| Host Name | kLp |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 19:19:10 |
 
 
