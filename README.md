@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206124940432 |
-| Players | 10/24 |
+| Players | 8/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 14:39:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206149423540 |
-| Players | 1/8 |
-| Host Name | скыу |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 6, 2023 15:11:53 |
+| Lobby ID | 28505206151402107 |
+| Players | 5/10 |
+| Host Name | Упал, отжался! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 15:14:21 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206141893987 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 15:02:28 |
@@ -56,66 +56,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:21:40 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206150697929 |
-| Players | 3/8 |
-| Host Name | 7 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 6, 2023 15:13:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206149970693 |
-| Players | 13/15 |
-| Host Name | Shadow |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 15:12:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206150011326 |
-| Players | 1/15 |
-| Host Name | Teddy |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 15:12:38 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206149980237 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | Arthas Menethil |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 15:12:35 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206150011326 |
+| Players | 2/15 |
+| Host Name | Teddy |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 15:12:38 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206151287849 |
-| Players | 1/8 |
-| Host Name | КоdeиN |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 6, 2023 15:14:13 |
+| Lobby ID | 28505206151799076 |
+| Players | 4/8 |
+| Host Name | поебать |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, November 6, 2023 15:14:51 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206148178493 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Mr.Freedom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:10:20 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206149074119 |
-| Players | 1/10 |
-| Host Name | Han Jee-han  한 지한 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 6, 2023 15:11:27 |
 
 
