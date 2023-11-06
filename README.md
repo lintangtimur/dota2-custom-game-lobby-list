@@ -85,29 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206179323179 |
-| Players | 14/15 |
-| Host Name | P.S.I.X |
+| Lobby ID | 28505206178775394 |
+| Players | 10/15 |
+| Host Name | makdak1111 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:48:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206180097451 |
-| Players | 5/8 |
-| Host Name | Cuoress |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:49:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206178249502 |
-| Players | 5/24 |
-| Host Name | Trungdaica |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 15:46:57 |
+| Lobby Creation Time | Monday, November 6, 2023 15:47:34 |
 
 
 |  | ot3_necropolis_ffa |
@@ -119,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:48:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206178775394 |
-| Players | 11/15 |
-| Host Name | makdak1111 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:47:34 |
+| Lobby ID | 28505206180543134 |
+| Players | 1/8 |
+| Host Name | 20dozmefedrona |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 6, 2023 15:49:38 |
 
 
 |  | epic_boss_fight_normal |
