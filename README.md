@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 11:55:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206026348972 |
-| Players | 1/8 |
-| Host Name | 【﻿DESpAIR】 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 12:04:01 |
+| Lobby ID | 28505206016807966 |
+| Players | 23/24 |
+| Host Name | Superman Pans |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 6, 2023 11:47:38 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206016943834 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 11:47:53 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206026092637 |
-| Players | 14/15 |
-| Host Name | no voice |
+| Lobby ID | 28505206026956152 |
+| Players | 2/15 |
+| Host Name | 6☦god |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 12:03:36 |
+| Lobby Creation Time | Monday, November 6, 2023 12:04:59 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206025869869 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Kärss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:03:14 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206025389937 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | cueck |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:02:25 |
@@ -101,28 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 12:04:38 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206026956152 |
-| Players | 2/15 |
-| Host Name | 6☦god |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 12:04:59 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206027144604 |
+| Lobby ID | 28505206025647854 |
 | Players | 1/8 |
-| Host Name | Per aspera ad astra |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 12:05:17 |
+| Host Name | Venom2.0 |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 12:02:51 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206018334430 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | XhOoPe |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 11:50:17 |
