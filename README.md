@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206322854725 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Logen |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 18:12:10 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206321299751 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Genie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 18:10:57 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206321901118 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | BMW клитор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:11:25 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206319119722 |
+| Lobby ID | 28505206313388993 |
 | Players | 4/8 |
-| Host Name | GOD OF WAR |
+| Host Name | Sad スDying as a lifestyleス |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:09:13 |
+| Lobby Creation Time | Monday, November 6, 2023 18:04:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 18:12:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206323015167 |
-| Players | 1/8 |
-| Host Name | xxxx |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 18:12:17 |
+| Lobby ID | 28505206295500305 |
+| Players | 3/10 |
+| Host Name | V |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 17:49:38 |
 
 
 |  | ot3_necropolis_ffa |
