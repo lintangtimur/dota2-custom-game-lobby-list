@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206509291203 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | Logen |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 6, 2023 20:08:33 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206509086264 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | zDz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 20:08:27 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206510137410 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ̷D̷ϋ❦ |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 20:09:01 |
@@ -128,13 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 20:09:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206510561997 |
-| Players | 3/15 |
-| Host Name | worldwide baby |
+| Lobby ID | 28505206510710559 |
+| Players | 2/8 |
+| Host Name | я пиздец |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 20:09:14 |
+| Lobby Creation Time | Monday, November 6, 2023 20:09:19 |
 
 
 |  | ot3_jungle_quintet |
@@ -149,36 +149,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206510592124 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | наташа анти-маг |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 20:09:15 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206510868507 |
+| Players | 1/15 |
+| Host Name | Рапунцель |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 20:09:24 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206460120785 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | ¸¸♬·¯·♩¸¸♪·¯·♫ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 19:41:33 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28505206509719985 |
-| Players | 1/7 |
-| Host Name | 我有自闭症 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Monday, November 6, 2023 20:08:47 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206510385233 |
-| Players | 1/10 |
-| Host Name | Diclonius |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 20:09:09 |
 
 
