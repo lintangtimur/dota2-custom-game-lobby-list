@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206111699840 |
-| Players | 13/15 |
-| Host Name | TIO JUANCHI |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 14:21:15 |
+| Lobby ID | 28505206116094423 |
+| Players | 4/15 |
+| Host Name | Supermeta |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 14:27:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,36 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206114472387 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | BlastBeats |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:25:09 |
 
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505206114826928 |
-| Players | 9/10 |
-| Host Name | kindamental |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 6, 2023 14:25:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206116094423 |
-| Players | 3/15 |
-| Host Name | Supermeta |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 14:27:26 |
+| Lobby ID | 28505206115351923 |
+| Players | 8/10 |
+| Host Name | 黑人黑人 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 14:26:23 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505206115351923 |
-| Players | 7/10 |
-| Host Name | 黑人黑人 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 14:26:23 |
+| Lobby ID | 28505206116363011 |
+| Players | 1/10 |
+| Host Name | SOOBRIDT |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 14:27:48 |
 
 
