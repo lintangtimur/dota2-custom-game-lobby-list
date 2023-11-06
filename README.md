@@ -104,10 +104,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206139666574 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | maybe good team |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:59:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206138526597 |
+| Players | 14/15 |
+| Host Name | FILETE EL MOCHA |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 14:57:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206139944246 |
+| Players | 1/8 |
+| Host Name | Gromm |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 14:59:47 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Adel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:55:21 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206139981444 |
+| Players | 1/5 |
+| Host Name | РАПИРА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 14:59:50 |
 
 
