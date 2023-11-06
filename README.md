@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206163019870 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Arthas Menethil |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 15:28:50 |
@@ -92,12 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:23:50 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206164050915 |
+| Players | 1/10 |
+| Host Name | Barakuda |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 15:30:05 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505206161538240 |
+| Lobby ID | 28505206164119403 |
 | Players | 1/5 |
-| Host Name | Nidoking |
+| Host Name | TimBo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:27:02 |
+| Lobby Creation Time | Monday, November 6, 2023 15:30:10 |
 
 
