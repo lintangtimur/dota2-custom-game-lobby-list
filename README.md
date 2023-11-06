@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206058639172 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Gaaaaa |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:58:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206058319413 |
-| Players | 1/15 |
-| Host Name | HumbleGod |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 6, 2023 12:57:28 |
+| Lobby ID | 28505206058378441 |
+| Players | 16/24 |
+| Host Name | 大鲶鱼 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 12:57:34 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206059131312 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Джи Оу Ди |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:58:52 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 12:56:24 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206058378441 |
-| Players | 15/24 |
-| Host Name | 大鲶鱼 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 12:57:34 |
+| Lobby ID | 28505206059481926 |
+| Players | 1/15 |
+| Host Name | ^^bongafonx` |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 12:59:28 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206058450877 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Duck My Sick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 12:57:42 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206058461976 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Da |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:57:43 |
