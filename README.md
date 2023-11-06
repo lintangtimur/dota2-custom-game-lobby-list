@@ -94,20 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206266196030 |
-| Players | 1/15 |
-| Host Name | EXIT |
+| Lobby ID | 28505206266335442 |
+| Players | 5/15 |
+| Host Name | Nex |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:22:51 |
+| Lobby Creation Time | Monday, November 6, 2023 17:23:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206252853791 |
-| Players | 14/15 |
-| Host Name | UncleWateri |
+| Lobby ID | 28505206266832180 |
+| Players | 1/8 |
+| Host Name | Yuqi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:09:31 |
+| Lobby Creation Time | Monday, November 6, 2023 17:23:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -117,23 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | lets_fight |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:23:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206266335442 |
-| Players | 5/15 |
-| Host Name | Nex |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:23:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206262782962 |
-| Players | 9/15 |
-| Host Name | lil |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:19:30 |
 
 
