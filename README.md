@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205955296191 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | asdasd ☻ |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 09:54:47 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205956851704 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | i n sanity |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 09:57:39 |
@@ -86,16 +86,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205956740618 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | In L♥ve With a Fat Pikachu =3 |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 09:57:27 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505205957087296 |
+| Players | 1/15 |
+| Host Name | thereisnocowlevel |
+| Region | USWEST |
+| Lobby Creation Time | Monday, November 6, 2023 09:58:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505205957126042 |
+| Players | 5/10 |
+| Host Name | CriTzuz |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 09:58:09 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505205954497034 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Cpt. Douchebag |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 09:53:19 |
