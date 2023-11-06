@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205991502332 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | #Laprendoencasa |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:02:12 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205992385643 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Señora A su hijo lestan pegando |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:03:57 |
@@ -90,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | jie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 10:50:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505205992665293 |
+| Players | 6/8 |
+| Host Name | Miniguy |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 11:04:30 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505205992690457 |
+| Players | 1/24 |
+| Host Name | ♪KEMPER♪ |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 11:04:33 |
 
 
