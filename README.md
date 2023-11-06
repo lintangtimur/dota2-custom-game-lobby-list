@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206209612602 |
-| Players | 22/24 |
-| Host Name | takodachi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 16:22:37 |
+| Lobby ID | 28505206212545739 |
+| Players | 4/10 |
+| Host Name | EL TORITO Y LA LUNA |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 16:25:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206154515216 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | swap commends |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 15:18:17 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206211715179 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | heisenberg flow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:25:00 |
