@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206119550107 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Delusional Players Rank Divine |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 14:32:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206122033407 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | BlastBeats |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:35:39 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:21:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206128150617 |
-| Players | 5/8 |
-| Host Name | Spit in my face |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 6, 2023 14:43:59 |
+| Lobby ID | 28505206128252866 |
+| Players | 4/10 |
+| Host Name | TK.УЛЬТРА СОЛЕВОЙ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 14:44:07 |
 
 
 |  | ot3_desert_octet |
@@ -86,36 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206126407917 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | 风显 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:41:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206124352395 |
-| Players | 1/8 |
-| Host Name | hahahehehoho |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 14:38:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206127656908 |
-| Players | 2/8 |
-| Host Name | AJIN |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 6, 2023 14:43:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206128252866 |
-| Players | 3/10 |
-| Host Name | TK.УЛЬТРА СОЛЕВОЙ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 14:44:07 |
 
 
