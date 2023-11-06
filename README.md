@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206394932095 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 19:02:26 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206392414168 |
-| Players | 2/15 |
-| Host Name | кот (или пёс) |
+| Players | 1/15 |
+| Host Name | Greta Thunberg |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 19:00:45 |
 
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 19:01:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206395977473 |
-| Players | 10/15 |
-| Host Name | Logen |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 6, 2023 19:03:07 |
+| Lobby ID | 28505206397315390 |
+| Players | 2/10 |
+| Host Name | шаманчик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 19:03:59 |
 
 
 |  | ot3_gardens_duo |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206376163606 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | arn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:50:02 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206396817729 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | я признаюсь это я шрэк |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:03:40 |
@@ -131,10 +131,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206396996528 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Missing you happiness |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:03:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206387201554 |
+| Players | 7/10 |
+| Host Name | THE SENATE |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 6, 2023 18:57:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206397273813 |
+| Players | 1/15 |
+| Host Name | scotland |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 19:03:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206397406505 |
+| Players | 5/8 |
+| Host Name | yours |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 19:04:03 |
 
 
 |  | epic_boss_fight_nightmare |
