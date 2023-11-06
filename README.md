@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:39:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206293488947 |
-| Players | 1/8 |
-| Host Name | cyberбуллер |
+| Lobby ID | 28505206242438811 |
+| Players | 2/24 |
+| Host Name | Corazon |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:47:53 |
+| Lobby Creation Time | Monday, November 6, 2023 16:58:25 |
 
 
 |  | ot3_jungle_quintet |
@@ -85,27 +85,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206291142163 |
-| Players | 1/15 |
-| Host Name | ASPE_RIN |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 6, 2023 17:45:50 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206242438811 |
-| Players | 2/24 |
-| Host Name | Corazon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:58:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28505206293435974 |
-| Players | 1/15 |
-| Host Name | лд |
+| Players | 11/15 |
+| Host Name | Ездок кукухой |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:47:50 |
 
@@ -126,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GG |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:35:02 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505206292896718 |
-| Players | 1/5 |
-| Host Name | king jagvar |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 17:47:22 |
 
 
