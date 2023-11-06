@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206305379389 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Mike Robe Eenis |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, November 6, 2023 17:58:03 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 17:55:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206292190246 |
-| Players | 5/8 |
-| Host Name | itomory |
+| Lobby ID | 28505206303462759 |
+| Players | 1/15 |
+| Host Name | ЧВК Редан|Василий |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:46:45 |
+| Lobby Creation Time | Monday, November 6, 2023 17:56:26 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206293435974 |
-| Players | 1/15 |
+| Players | 8/15 |
 | Host Name | Sheeeeeeeeeeeeeeeez |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:47:50 |
@@ -92,33 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 17:57:34 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206293888048 |
-| Players | 5/10 |
-| Host Name | Bald |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:48:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206303462759 |
-| Players | 1/15 |
-| Host Name | ЧВК Редан|Василий |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:56:26 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206302598659 |
-| Players | 8/10 |
-| Host Name | Harvester of death |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:55:42 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28505206278979739 |
@@ -140,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206304989406 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Diclonius |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 17:57:43 |
