@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205978942854 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Разрушитель |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:38:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205983053253 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | Staff |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 10:46:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205981032588 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Jesus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 10:42:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205983268198 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Osaed |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:46:25 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205982402185 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Jasmine |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 10:44:48 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205983494512 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | jIMENEZ |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:46:51 |
@@ -110,20 +110,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 10:46:55 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505205983601204 |
-| Players | 1/10 |
-| Host Name | Ищу девушку |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 10:47:03 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505205982457491 |
 | Players | 3/10 |
-| Host Name | Asura™ |
+| Host Name | hades_h153 |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 10:44:54 |
 
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505205982425777 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Next |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 10:44:50 |
