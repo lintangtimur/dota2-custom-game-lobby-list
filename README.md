@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205960984770 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | sexo anal y besos humedos |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:05:09 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205961530302 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ShaV |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 10:06:09 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505205961592550 |
-| Players | 4/8 |
-| Host Name | - |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:06:16 |
+| Lobby ID | 28505205962070968 |
+| Players | 1/8 |
+| Host Name | TIDEHUNTER |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 10:07:08 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505205961893378 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | ไม่บัคแต่ไม่บอก |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 10:06:49 |
