@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206119550107 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | LAST PICK OR FEED |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 14:32:13 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206128654622 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | mr. Pier Dunn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:44:40 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206129007425 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | NVV |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:45:09 |
@@ -117,6 +117,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | El gatoo |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 14:45:35 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206129434830 |
+| Players | 2/10 |
+| Host Name | Poni straponi ♡ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 6, 2023 14:45:43 |
 
 
 |  | epic_boss_fight_normal |
