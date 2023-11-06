@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205992162313 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | S U M M E R ♥ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 11:03:31 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205991052924 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Grey Light |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 11:01:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505205991165442 |
-| Players | 13/15 |
-| Host Name | аРБУЗ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 11:01:32 |
+| Lobby ID | 28505205992690457 |
+| Players | 1/24 |
+| Host Name | ♪KEMPER♪ |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 11:04:33 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205992070950 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | бизнес крип |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:03:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205991502332 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | #Laprendoencasa |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:02:12 |
@@ -81,32 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Señora A su hijo lestan pegando |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:03:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505205985614570 |
-| Players | 23/24 |
-| Host Name | jie |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 10:50:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505205992665293 |
-| Players | 6/8 |
-| Host Name | Miniguy |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 11:04:30 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505205992690457 |
-| Players | 1/24 |
-| Host Name | ♪KEMPER♪ |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 11:04:33 |
 
 
