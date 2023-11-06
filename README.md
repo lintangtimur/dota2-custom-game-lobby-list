@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206112994046 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | WSWSWSWSWSWSWS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:23:04 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206111699840 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | TIO JUANCHI |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 14:21:15 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206115244784 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | montannarus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:26:14 |
@@ -135,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | dyrachoy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:26:43 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28505206115831372 |
+| Players | 1/7 |
+| Host Name | Wani苦难ן天 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 6, 2023 14:27:04 |
 
 
