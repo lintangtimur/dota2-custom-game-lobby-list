@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206128654622 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:44:40 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206129434830 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Poni straponi ♡ |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, November 6, 2023 14:45:43 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206129333455 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | El gatoo |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 14:45:35 |
