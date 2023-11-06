@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206144106493 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Kermit Da Frog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 15:05:20 |
@@ -83,31 +83,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:08:37 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206146996849 |
-| Players | 9/10 |
-| Host Name | свечу с базы |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 15:08:53 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206147653393 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | спектрофотометр |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 15:09:41 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206142007589 |
-| Players | 9/10 |
-| Host Name | YTPO |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 15:02:37 |
+| Lobby ID | 28505206147904754 |
+| Players | 1/8 |
+| Host Name | plvybvckerror |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 15:10:00 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206147387493 |
+| Players | 1/5 |
+| Host Name | LEID |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 15:09:22 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | "The Valya" |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:09:19 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505206147387493 |
-| Players | 1/5 |
-| Host Name | LEID |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:09:22 |
 
 
