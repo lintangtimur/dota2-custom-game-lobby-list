@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206126407917 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | 风显 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:41:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206130851698 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | ГРУСТНЫЙ ЭМОБОЙЧИК;( |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:47:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206122033407 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | BlastBeats |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:35:39 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206130622187 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Greta Thunberg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:47:21 |
@@ -101,6 +101,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:46:43 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206131238560 |
+| Players | 2/10 |
+| Host Name | Moises |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 14:48:10 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206130705526 |
@@ -110,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:47:27 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505206131130115 |
-| Players | 1/7 |
-| Host Name | DERFÜHRER1945 |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 14:48:01 |
+| Lobby ID | 28505206131213248 |
+| Players | 1/5 |
+| Host Name | Косипоша |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 14:48:08 |
 
 
