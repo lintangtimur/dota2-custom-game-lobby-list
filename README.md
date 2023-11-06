@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:39:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206140229866 |
-| Players | 9/10 |
-| Host Name | Gromm |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 15:00:10 |
+| Lobby ID | 28505206145974568 |
+| Players | 1/15 |
+| Host Name | 4everLowPriority :: space_bear74 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 6, 2023 15:07:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206144106493 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Kermit Da Frog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 15:05:20 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206145378320 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | bon voyage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:06:55 |
@@ -112,20 +112,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206145909621 |
+| Lobby ID | 28505206146106558 |
 | Players | 2/8 |
 | Host Name | ๋ |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 15:07:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206145974568 |
-| Players | 1/15 |
-| Host Name | 4everLowPriority :: space_bear74 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 6, 2023 15:07:38 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 15:07:48 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ✓☋☈ρ |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 6, 2023 15:03:42 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206146112896 |
+| Players | 1/5 |
+| Host Name | LEID |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 15:07:48 |
 
 
