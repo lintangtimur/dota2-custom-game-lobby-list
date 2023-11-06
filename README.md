@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206211607763 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Niko |
 | Region | PWTELECOMSHANGHAI |
 | Lobby Creation Time | Monday, November 6, 2023 16:24:52 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206212985714 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Died of cringe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:26:25 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 16:26:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206212947294 |
-| Players | 8/10 |
-| Host Name | ITS_SHOWTIME |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:26:23 |
+| Lobby ID | 28505206213927029 |
+| Players | 2/8 |
+| Host Name | pinelopa |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 16:27:28 |
 
 
 |  | ot3_necropolis_ffa |
@@ -126,24 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | hypocrisy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 16:26:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206213330982 |
-| Players | 1/8 |
-| Host Name | TwentyOneInch |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 6, 2023 16:26:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206213927029 |
-| Players | 1/8 |
-| Host Name | FRSTCMFRSTSRVD |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 16:27:28 |
 
 
 |  | epic_boss_fight_normal |
