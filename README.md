@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205992162313 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | S U M M E R ♥ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 11:03:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205991052924 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Grey Light |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 11:01:19 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205992070950 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | бизнес крип |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:03:20 |
@@ -83,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 11:05:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505205993284219 |
-| Players | 1/8 |
-| Host Name | Covid Bryant |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 11:05:41 |
+| Lobby ID | 28505205993348104 |
+| Players | 2/10 |
+| Host Name | GHINZU |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 11:05:48 |
 
 
