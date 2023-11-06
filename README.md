@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205968635216 |
-| Players | 8/10 |
-| Host Name | A little noob |
+| Players | 6/10 |
+| Host Name | "Butters" |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:19:11 |
 
@@ -104,19 +104,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205971969112 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Lord Valdomero |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:25:21 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505205972259414 |
-| Players | 1/5 |
-| Host Name | Arhyel A |
+| Lobby ID | 28505205972307720 |
+| Players | 3/15 |
+| Host Name | sharaut |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 10:25:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505205972336079 |
+| Players | 6/8 |
+| Host Name | LongoPatan |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:25:54 |
+| Lobby Creation Time | Monday, November 6, 2023 10:26:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505205972384556 |
+| Players | 2/8 |
+| Host Name | RoberCu |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 10:26:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505205972387673 |
+| Players | 1/15 |
+| Host Name | The Ruffis 0nE |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 10:26:08 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505205970951211 |
+| Players | 3/10 |
+| Host Name | GHINZU |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 10:23:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -128,12 +164,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 10:23:06 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28505205970951211 |
-| Players | 2/10 |
-| Host Name | GHINZU |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:23:27 |
+| Lobby ID | 28505205972386662 |
+| Players | 1/7 |
+| Host Name | EMPERATOOR_No1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 10:26:08 |
 
 
