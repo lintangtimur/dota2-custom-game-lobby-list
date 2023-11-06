@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206321131811 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | WF.Proeba Je |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:10:49 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206344968118 |
-| Players | 9/10 |
-| Host Name | mmm |
+| Lobby ID | 28505206351027963 |
+| Players | 4/8 |
+| Host Name | WebMage |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:28:37 |
+| Lobby Creation Time | Monday, November 6, 2023 18:32:54 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206348946289 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | toflex |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 18:31:27 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206298671076 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | DukeNukem |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:52:22 |
@@ -119,21 +119,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 18:32:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206351027963 |
-| Players | 3/8 |
-| Host Name | WebMage |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:32:54 |
+| Lobby ID | 28505206351265247 |
+| Players | 1/15 |
+| Host Name | Greta Thunberg |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, November 6, 2023 18:33:04 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206351097447 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Sea Server Cancer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 18:32:57 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206351129186 |
+| Players | 1/5 |
+| Host Name | keoken |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 18:32:59 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206351177827 |
+| Players | 1/10 |
+| Host Name | ꧁⎛⎝kоt125|Hell5cream⎠⎞꧂ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 18:33:01 |
 
 
