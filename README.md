@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206223815938 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Влад Темерев prime |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 16:38:32 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206220233942 |
-| Players | 10/10 |
-| Host Name | ♛Саян♛ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:34:34 |
+| Lobby ID | 28505206224615142 |
+| Players | 2/10 |
+| Host Name | K1ZA |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 16:39:25 |
 
 
 |  | ot3_jungle_quintet |
@@ -121,20 +121,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206224528649 |
+| Lobby ID | 28505206224652901 |
 | Players | 2/10 |
-| Host Name | K1ZA |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 16:39:19 |
+| Host Name | voy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 16:39:27 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505206197893032 |
+| Lobby ID | 28505206223550646 |
 | Players | 1/5 |
-| Host Name | Uchiha Madara |
-| Region | USWEST |
-| Lobby Creation Time | Monday, November 6, 2023 16:09:27 |
+| Host Name | KiMbO80 |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 16:38:14 |
 
 
 |  | epic_boss_fight_normal |
@@ -153,14 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Славный Котик Иут |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:36:45 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505206223550646 |
-| Players | 1/5 |
-| Host Name | KiMbO80 |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 16:38:14 |
 
 
