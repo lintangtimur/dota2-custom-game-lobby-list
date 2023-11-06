@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 11:21:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206002363671 |
-| Players | 7/8 |
-| Host Name | El gato con botas |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 11:22:34 |
+| Lobby ID | 28505206003065866 |
+| Players | 8/10 |
+| Host Name | not quite my tempo |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 11:23:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206002807207 |
-| Players | 8/24 |
+| Players | 3/24 |
 | Host Name | Marcos3tres |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 11:23:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206000837967 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:19:47 |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206002212439 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | wanderer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 11:22:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206001520160 |
-| Players | 8/10 |
-| Host Name | ЯДаунил |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 11:21:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206002999829 |
-| Players | 3/15 |
-| Host Name | J.Grimm |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 11:23:43 |
 
 
 |  | ot3_gardens_duo |
@@ -101,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 11:23:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206003065866 |
-| Players | 7/10 |
-| Host Name | not quite my tempo |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 11:23:50 |
+| Lobby ID | 28505206002999829 |
+| Players | 4/15 |
+| Host Name | J.Grimm |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 11:23:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206003488014 |
+| Players | 1/8 |
+| Host Name | エゴイスト |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 11:24:36 |
 
 
 |  | epic_boss_fight_nightmare |
