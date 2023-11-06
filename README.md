@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206176339204 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Kwee "KAYPANG" Ceng |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 15:44:43 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206177516659 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | OverNight |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:46:05 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206177530211 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | 5 pos otkril rot = lose |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:46:06 |
@@ -101,24 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:46:26 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206178171275 |
-| Players | 1/15 |
-| Host Name | P.S.I.X |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 15:46:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206178224549 |
-| Players | 1/15 |
-| Host Name | Billy Gibbons |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 15:46:55 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206178249502 |
@@ -130,11 +112,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206178271944 |
+| Lobby ID | 28505206178224549 |
+| Players | 1/15 |
+| Host Name | Billy Gibbons |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 15:46:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206178521808 |
 | Players | 1/15 |
 | Host Name | Soldier.99 |
 | Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 15:46:58 |
+| Lobby Creation Time | Monday, November 6, 2023 15:47:16 |
 
 
 |  | epic_boss_fight_normal |
@@ -158,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505206178379400 |
-| Players | 1/5 |
+| Players | 3/5 |
 | Host Name | VanyshaXANAX |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 15:47:06 |
