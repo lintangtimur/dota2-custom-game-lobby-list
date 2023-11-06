@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206109646001 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Chungha |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:18:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206109884800 |
-| Players | 8/10 |
-| Host Name | Murder♣ |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 6, 2023 14:18:40 |
+| Lobby ID | 28505206111273623 |
+| Players | 1/8 |
+| Host Name | da jaus is very bic |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 14:20:39 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206109696411 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Deyniol |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 14:18:25 |
