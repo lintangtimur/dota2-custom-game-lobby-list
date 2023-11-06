@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205938228011 |
-| Players | 5/15 |
+| Players | 3/15 |
 | Host Name | Kie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 09:22:59 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205955330023 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | ♡ |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 09:54:51 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 09:54:47 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505205953908711 |
-| Players | 20/24 |
-| Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
+| Lobby ID | 28505205955851590 |
+| Players | 3/8 |
+| Host Name | KOMPAYASO |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 09:52:14 |
+| Lobby Creation Time | Monday, November 6, 2023 09:55:48 |
 
 
 |  | ot3_desert_octet |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 09:51:48 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505205954832932 |
-| Players | 4/10 |
-| Host Name | CriTzuz |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 09:53:56 |
+| Lobby ID | 28505205955502363 |
+| Players | 13/15 |
+| Host Name | OSITO SANGRIENTO |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 09:55:10 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205955138310 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Hecker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 09:54:30 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205955427984 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Zellious |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 09:55:02 |
@@ -117,33 +117,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | zai^^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 09:55:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505205955477336 |
-| Players | 1/10 |
-| Host Name | Yondaime |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 09:55:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505205955502363 |
-| Players | 3/15 |
-| Host Name | OSITO SANGRIENTO |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 09:55:10 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505205954411596 |
-| Players | 9/10 |
-| Host Name | Catador de Conchas |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 09:53:10 |
 
 
 |  | epic_boss_fight_nightmare |
