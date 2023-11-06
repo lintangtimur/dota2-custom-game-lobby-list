@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206119550107 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Gromm |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 14:32:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206121235189 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | GUCKi Gi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:34:34 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206119197107 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Mafiato |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 14:31:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206119449493 |
-| Players | 3/8 |
-| Host Name | skorpziro |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 14:32:05 |
+| Lobby ID | 28505206121661828 |
+| Players | 1/15 |
+| Host Name | zet-.-BEASTMODE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 14:35:09 |
 
 
 |  | ot3_gardens_duo |
@@ -95,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206121192957 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ( °Д°) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:34:30 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206121199385 |
-| Players | 1/10 |
-| Host Name | Fatal |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 6, 2023 14:34:31 |
 
 
