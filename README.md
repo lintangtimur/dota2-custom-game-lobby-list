@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206011530849 |
-| Players | 16/24 |
+| Players | 23/24 |
 | Host Name | Matt Murdock  🆅🅰🅻🆅 |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:38:33 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206012876822 |
-| Players | 2/10 |
-| Host Name | |→Tyrone de los backyardigans |
+| Lobby ID | 28505206012910841 |
+| Players | 5/10 |
+| Host Name | Licht |
 | Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 11:40:51 |
+| Lobby Creation Time | Monday, November 6, 2023 11:40:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28505206012303242 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | Славный Котик Иут |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:39:52 |
