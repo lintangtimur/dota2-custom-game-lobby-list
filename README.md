@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206324446780 |
-| Players | 6/10 |
+| Players | 3/10 |
 | Host Name | TopolM2077 |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 6, 2023 18:13:24 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206324633700 |
-| Players | 1/8 |
-| Host Name | tst |
+| Lobby ID | 28505206324924949 |
+| Players | 2/8 |
+| Host Name | Ｊａｓｕｓ ｎａｍｅ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:13:32 |
+| Lobby Creation Time | Monday, November 6, 2023 18:13:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,16 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206323039751 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | SUPER SSSANIN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:12:18 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206309075587 |
+| Players | 4/10 |
+| Host Name | 罪と罰 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 18:01:09 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505206323799851 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | king jagvar |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 18:12:54 |
@@ -95,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206324446466 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | +left |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:13:24 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206325080317 |
+| Players | 1/5 |
+| Host Name |  |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 18:13:53 |
 
 
