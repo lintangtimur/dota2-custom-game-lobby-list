@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206078076323 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | WTF&!о_О |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 13:30:22 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206076921111 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | vincent black shadow |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 13:28:32 |
@@ -122,9 +122,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206078140570 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | chloe |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 6, 2023 13:30:28 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206079322829 |
+| Players | 1/10 |
+| Host Name | WhyBaby? |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 13:32:22 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206079379392 |
+| Players | 2/10 |
+| Host Name | YA odna |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 13:32:27 |
 
 
