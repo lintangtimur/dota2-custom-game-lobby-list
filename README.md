@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206275055823 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | waiting for death |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 17:31:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206278997265 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 17:35:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206278185095 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Enrage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:34:18 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 17:31:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206277887292 |
-| Players | 9/10 |
-| Host Name | ПРАВАЯ ГОЛОВА ОГР |
+| Lobby ID | 28505206280969718 |
+| Players | 2/8 |
+| Host Name | БОНДИД-Джамшут |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:34:02 |
+| Lobby Creation Time | Monday, November 6, 2023 17:36:51 |
 
 
 |  | ot3_desert_octet |
@@ -146,22 +146,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 17:34:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206280969718 |
-| Players | 2/8 |
-| Host Name | БОНДИД-Джамшут |
+| Lobby ID | 28505206274782994 |
+| Players | 10/15 |
+| Host Name | Breivik |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:36:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206281172166 |
-| Players | 1/8 |
-| Host Name | Kazzola |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:37:02 |
+| Lobby Creation Time | Monday, November 6, 2023 17:31:09 |
 
 
 |  | epic_boss_fight_challenger |
