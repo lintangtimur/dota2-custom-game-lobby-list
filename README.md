@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205950154612 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Weganerd |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 09:45:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205950353462 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | dpersikov |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 09:45:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205949884574 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 09:44:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205944741417 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | Impress the Kid |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 09:35:24 |
@@ -104,19 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205951064405 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | TV Man |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 09:47:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505205951092745 |
-| Players | 1/15 |
-| Host Name | TitanPudge |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 09:47:04 |
+| Lobby ID | 28505205951171268 |
+| Players | 2/8 |
+| Host Name | nissinwafer |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 6, 2023 09:47:12 |
 
 
 |  | epic_boss_fight_nightmare |
