@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205992162313 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | S U M M E R ♥ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 11:03:31 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505205994917310 |
-| Players | 6/15 |
-| Host Name | 2 minutos pa cerrar¡¡.... |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 11:08:46 |
+| Lobby ID | 28505205994843096 |
+| Players | 1/15 |
+| Host Name | 她比塔难守 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 6, 2023 11:08:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205994373062 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | [EvanS]ThariuX |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:07:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205994578039 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | dllm |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 11:08:08 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205994389933 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | I.M.Sin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:07:47 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205994502741 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Punisher |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:07:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505205994843096 |
-| Players | 1/15 |
-| Host Name | 她比塔难守 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 6, 2023 11:08:38 |
 
 
 |  | epic_boss_fight_nightmare |
