@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206048206608 |
-| Players | 20/24 |
+| Players | 18/24 |
 | Host Name | A Dog |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 12:40:19 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206054728192 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Drago |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:51:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206052563947 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | George |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 12:47:36 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 12:49:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206053659449 |
-| Players | 7/8 |
-| Host Name | Natiraff |
+| Lobby ID | 28505206054914833 |
+| Players | 1/24 |
+| Host Name | ke |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 12:49:27 |
+| Lobby Creation Time | Monday, November 6, 2023 12:51:36 |
 
 
 |  | ot3_desert_octet |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Knife in the Dark |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:51:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206053811841 |
+| Players | 13/15 |
+| Host Name | Shroomba |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 12:49:43 |
 
 
 |  | epic_boss_fight_nightmare |
