@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206154849227 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Parkur TV |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:18:43 |
@@ -92,22 +92,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:18:43 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206155149612 |
+| Players | 1/8 |
+| Host Name | только мне можно руинить |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 15:19:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206155111246 |
+| Players | 1/15 |
+| Host Name | 泰拉瑞亚（养老ing） |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Monday, November 6, 2023 15:19:03 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206155018075 |
-| Players | 2/10 |
+| Lobby ID | 28505206155153333 |
+| Players | 3/10 |
 | Host Name | Горячая мамочка |
 | Region | DUBAI |
-| Lobby Creation Time | Monday, November 6, 2023 15:18:55 |
+| Lobby Creation Time | Monday, November 6, 2023 15:19:06 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206155049603 |
+| Lobby ID | 28505206155166841 |
+| Players | 2/10 |
+| Host Name | zxc |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 15:19:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206155191533 |
 | Players | 1/10 |
-| Host Name | Blackdad54 |
+| Host Name | Mandraf |
 | Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 15:18:58 |
+| Lobby Creation Time | Monday, November 6, 2023 15:19:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,14 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Han Jee-han  한 지한 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 15:16:04 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28505206154962011 |
-| Players | 1/7 |
-| Host Name | LightlySalted |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 15:18:51 |
 
 
