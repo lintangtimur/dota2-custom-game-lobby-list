@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206062552699 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | depko13 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:04:52 |
@@ -47,24 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:04:09 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206060117041 |
-| Players | 7/8 |
-| Host Name | Lil P2 |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 13:00:38 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206063177256 |
-| Players | 13/15 |
-| Host Name | kiLLEr |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 13:05:57 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206063510158 |
@@ -72,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:06:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206063129304 |
-| Players | 1/8 |
-| Host Name | LISA ♥♥♥♥ |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 13:05:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206063830729 |
-| Players | 6/10 |
-| Host Name | CEO ⌐◨-◨ |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 13:07:04 |
 
 
 |  | epic_boss_fight_nightmare |
