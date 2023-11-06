@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 19:27:05 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206515942047 |
-| Players | 1/24 |
-| Host Name | ▼▲ZÆX▲▼ |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 20:12:07 |
+| Lobby ID | 28505206514755348 |
+| Players | 7/8 |
+| Host Name | Sandis uchiha |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 20:11:29 |
 
 
 |  | ot3_desert_octet |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 20:11:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206509661118 |
-| Players | 1/15 |
-| Host Name | Замкадыш |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 20:08:45 |
+| Lobby ID | 28505206517477443 |
+| Players | 2/8 |
+| Host Name | thoughtless |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 20:12:56 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206515115125 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | CHELOVETKIN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 20:11:41 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206403848076 |
-| Players | 7/24 |
+| Players | 14/24 |
 | Host Name | ✪ [W]_love ✪ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 19:08:12 |
@@ -131,19 +131,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206512454730 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | Wake up to reality |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 20:10:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206462798916 |
-| Players | 1/8 |
-| Host Name | Райан Гослинг |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 19:43:02 |
+| Lobby ID | 28505206517798792 |
+| Players | 1/10 |
+| Host Name | TOP G |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 20:13:07 |
 
 
 |  | ot3_gardens_duo |
@@ -173,24 +173,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 20:12:49 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206517291078 |
-| Players | 6/10 |
-| Host Name | 777 |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 20:12:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206517477443 |
-| Players | 1/8 |
-| Host Name | thoughtless |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 20:12:56 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206515961444 |
@@ -203,7 +185,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206515359140 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | МАМКИН ШНЫРЬ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 20:11:49 |
@@ -212,8 +194,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206515434075 |
-| Players | 6/10 |
-| Host Name | 一般 |
+| Players | 8/10 |
+| Host Name | Daimon |
 | Region | PWTELECOMSHANGHAI |
 | Lobby Creation Time | Monday, November 6, 2023 20:11:51 |
 
@@ -236,12 +218,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 20:05:34 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505206517496324 |
-| Players | 2/5 |
-| Host Name | 龍宮寺 堅 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 20:12:57 |
+| Lobby ID | 28505206506251304 |
+| Players | 2/10 |
+| Host Name | PapaJohari |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 20:06:55 |
 
 
