@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205971423535 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | 青虫叮咚 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 10:24:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505205972336079 |
-| Players | 1/8 |
-| Host Name | soy rata |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:26:03 |
+| Lobby ID | 28505205973139738 |
+| Players | 6/15 |
+| Host Name | id spz gil |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 10:27:32 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205972571085 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Ratatouille jr |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:26:29 |
@@ -83,19 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 10:26:08 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505205973139738 |
-| Players | 5/15 |
-| Host Name | id spz gil |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 10:27:32 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505205970951211 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | GHINZU |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:23:27 |
@@ -113,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28505205972386662 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | EMPERATOOR_No1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:26:08 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505205973299640 |
+| Players | 1/10 |
+| Host Name | Vivi |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 10:27:50 |
 
 
