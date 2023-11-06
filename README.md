@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206120911897 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | takodachi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:34:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206121235189 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | GUCKi Gi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:34:34 |
@@ -95,18 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206121192957 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ( °Д°) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:34:30 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505206121731404 |
-| Players | 1/7 |
-| Host Name | momo |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 14:35:15 |
+| Lobby ID | 28505206121977552 |
+| Players | 1/5 |
+| Host Name | ДОРА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 14:35:35 |
 
 
