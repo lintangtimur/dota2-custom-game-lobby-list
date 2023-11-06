@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205988038149 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Sengoku: El Buda del Sexo |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:55:24 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505205988317541 |
-| Players | 23/24 |
-| Host Name | El Rey Brujo de Angmar |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:55:56 |
+| Lobby ID | 28505205989331947 |
+| Players | 2/8 |
+| Host Name | Я песюн. Вопросы 2? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 10:57:51 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205985614570 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | jie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 10:50:50 |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ВЫЕБАЛ ЧЛЕН ЖОПОЙ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:57:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505205989244663 |
-| Players | 3/8 |
-| Host Name | M142 HIMARS |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 10:57:41 |
 
 
 |  | epic_boss_fight_nightmare |
