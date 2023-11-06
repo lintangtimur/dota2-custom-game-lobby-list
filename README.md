@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205955264893 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | appreciate life |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 09:54:44 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205959890492 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | benitocamitroncote |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 10:03:10 |
@@ -47,33 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 10:02:57 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505205959860179 |
-| Players | 11/15 |
-| Host Name | jimmy butler haircut of dota |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 10:03:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505205957991855 |
-| Players | 7/10 |
-| Host Name | katsuyya |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 09:59:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505205959733528 |
-| Players | 4/15 |
-| Host Name | ТРО ЧІКАГО |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 10:02:53 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205958277538 |
@@ -83,12 +56,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 10:00:15 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505205957991855 |
+| Players | 9/10 |
+| Host Name | katsuyya |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 09:59:44 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505205957163718 |
-| Players | 13/15 |
-| Host Name | DN |
+| Lobby ID | 28505205959733528 |
+| Players | 3/15 |
+| Host Name | ТРО ЧІКАГО |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 09:58:13 |
+| Lobby Creation Time | Monday, November 6, 2023 10:02:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505205960303819 |
+| Players | 1/10 |
+| Host Name | N.XHostk |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 10:03:55 |
 
 
