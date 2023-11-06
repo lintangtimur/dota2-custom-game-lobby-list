@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:11:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206521330852 |
-| Players | 6/10 |
-| Host Name | Sferov |
+| Lobby ID | 28505206521827992 |
+| Players | 4/8 |
+| Host Name | хруст атланта |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 20:14:59 |
+| Lobby Creation Time | Monday, November 6, 2023 20:15:15 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206470684390 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Edit Profile |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 19:47:25 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 19:27:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206426160902 |
-| Players | 1/15 |
-| Host Name | EssKei |
+| Lobby ID | 28505206522363698 |
+| Players | 3/24 |
+| Host Name | STRATEGIC ИНВЕСТИЦИЯ В ТЕРПЕНИЕ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 19:22:00 |
+| Lobby Creation Time | Monday, November 6, 2023 20:15:32 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206471440085 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | PickPocketPickeduPPackPackage |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 19:47:50 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206518939943 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | bokoff2020 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 20:13:43 |
@@ -146,33 +146,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 20:14:00 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206519084176 |
-| Players | 5/8 |
-| Host Name | Blue-Stahli 2.0 |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 20:13:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206519675688 |
-| Players | 3/10 |
-| Host Name | 1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 20:14:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206521827992 |
-| Players | 4/8 |
-| Host Name | хруст атланта |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 20:15:15 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206472425026 |
@@ -180,24 +153,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nikezar2005 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 19:48:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206522346041 |
-| Players | 5/8 |
-| Host Name | ДоброХукПуджоВич |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 20:15:31 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206522363698 |
-| Players | 3/24 |
-| Host Name | STRATEGIC ИНВЕСТИЦИЯ В ТЕРПЕНИЕ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 20:15:32 |
 
 
 |  | epic_boss_fight_nightmare |
