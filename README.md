@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:39:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206172278286 |
-| Players | 14/15 |
-| Host Name | Кухонный Spirit |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:39:57 |
+| Lobby ID | 28505206173665766 |
+| Players | 1/8 |
+| Host Name | waiting for death |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, November 6, 2023 15:41:35 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206171770876 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Упал, отжался! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:39:21 |
@@ -86,10 +86,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206173614901 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | [ZIG]Arthas |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 15:41:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206173709931 |
+| Players | 2/8 |
+| Host Name | Я ЕСТЬ ГРУТ |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 15:41:38 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206173707121 |
+| Players | 1/15 |
+| Host Name | king of fools |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 15:41:38 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505206173737705 |
+| Players | 1/24 |
+| Host Name | LoŸal |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 15:41:40 |
 
 
 |  | epic_boss_fight_challenger |
