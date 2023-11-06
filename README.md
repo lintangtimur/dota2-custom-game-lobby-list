@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206004336059 |
-| Players | 6/8 |
-| Host Name | Laucs |
+| Players | 4/8 |
+| Host Name | MiaNoona |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 11:26:06 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206008828223 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | EL VENECO |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:33:57 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206006992921 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | Tornado Thanh |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 11:30:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206008930388 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | I only think about sex |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:34:08 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206007693746 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Xavidra |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 11:31:58 |
@@ -90,23 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SUPER_Krut228_1337 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:34:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206009034650 |
-| Players | 1/10 |
-| Host Name | ժӠɾվվ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 11:34:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206006493349 |
-| Players | 9/10 |
-| Host Name | kvch |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 11:29:53 |
 
 
