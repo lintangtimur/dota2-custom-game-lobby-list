@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206069197209 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | 45¿shadow pool¿ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 13:15:59 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206064741699 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | PRISIONERO LINDO LINDO |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 13:08:37 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206069415410 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | .... |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 13:16:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206070060182 |
+| Players | 3/8 |
+| Host Name | Куратор Кракен |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 13:17:24 |
 
 
 |  | epic_boss_fight_nightmare |
