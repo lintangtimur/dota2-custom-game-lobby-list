@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206120911897 |
-| Players | 14/24 |
+| Players | 20/24 |
 | Host Name | takodachi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:34:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206120411812 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | 110 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 14:33:26 |
@@ -68,27 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206123556290 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | VolodyaVanguard |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:37:44 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206123660914 |
+| Players | 1/8 |
+| Host Name | DaveyJones |
+| Region | USWEST |
+| Lobby Creation Time | Monday, November 6, 2023 14:37:53 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206123639072 |
-| Players | 2/15 |
-| Host Name | maybe good team |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 14:37:51 |
+| Lobby ID | 28505206123681431 |
+| Players | 1/15 |
+| Host Name | це база |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 14:37:55 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206123620741 |
-| Players | 2/5 |
-| Host Name | Sly Marbo |
+| Lobby ID | 28505206123761450 |
+| Players | 1/8 |
+| Host Name | 190mph |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 14:37:50 |
+| Lobby Creation Time | Monday, November 6, 2023 14:38:01 |
 
 
