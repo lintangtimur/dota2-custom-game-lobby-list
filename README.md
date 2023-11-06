@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205989165818 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | ВЫЕБАЛ ЧЛЕН ЖОПОЙ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:57:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205989413808 |
-| Players | 6/24 |
+| Players | 17/24 |
 | Host Name | METRALLETA JHON |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:58:00 |
@@ -49,11 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505205989663888 |
-| Players | 2/10 |
-| Host Name | kyarisama |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 10:58:29 |
+| Lobby ID | 28505205990358152 |
+| Players | 1/10 |
+| Host Name | Hani |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 10:59:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505205990367892 |
+| Players | 1/15 |
+| Host Name | ASSASSINS CREEP |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 10:59:50 |
 
 
 |  | epic_boss_fight_nightmare |
