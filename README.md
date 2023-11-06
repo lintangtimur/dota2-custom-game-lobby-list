@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205955264893 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | appreciate life |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 09:54:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505205954622844 |
-| Players | 6/8 |
-| Host Name | ♂ |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 09:53:33 |
+| Lobby ID | 28505205955427984 |
+| Players | 7/15 |
+| Host Name | Zellious |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 09:55:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 09:22:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505205955138310 |
-| Players | 7/10 |
-| Host Name | Бархатные тяги |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 09:54:30 |
+| Lobby ID | 28505205953677178 |
+| Players | 8/24 |
+| Host Name | -♣ |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 09:51:48 |
 
 
 |  | ot3_gardens_duo |
@@ -65,22 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 09:55:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505205953677178 |
-| Players | 6/24 |
-| Host Name | -♣ |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 09:51:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505205955427984 |
-| Players | 7/15 |
-| Host Name | Zellious |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 09:55:02 |
+| Lobby ID | 28505205955930162 |
+| Players | 6/10 |
+| Host Name | CriTzuz |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 09:55:57 |
 
 
 |  | epic_boss_fight_nightmare |
