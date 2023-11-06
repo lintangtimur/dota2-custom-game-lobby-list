@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206036220680 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 12:20:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206037156080 |
-| Players | 14/15 |
-| Host Name | plzhv |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 12:21:40 |
+| Lobby ID | 28505206038321266 |
+| Players | 5/24 |
+| Host Name | Stayler |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 12:23:37 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206037566671 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | GENIUS (at 4k mmr) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:22:21 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206037971684 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Burdagoal baby |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 12:23:02 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206038321266 |
-| Players | 1/24 |
-| Host Name | Stayler |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 12:23:37 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206038103255 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | alauvient |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 12:23:15 |
