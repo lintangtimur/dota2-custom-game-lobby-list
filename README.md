@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206065315515 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Сигма |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:09:34 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:08:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206065440022 |
-| Players | 13/15 |
-| Host Name | Mo' Cake |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 13:09:46 |
+| Lobby ID | 28505206066592497 |
+| Players | 1/24 |
+| Host Name | bdy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 13:11:42 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,19 +110,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:10:10 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206066592497 |
-| Players | 1/24 |
-| Host Name | bdy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 13:11:42 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206066002741 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Halimaw mag dota |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 13:10:43 |
