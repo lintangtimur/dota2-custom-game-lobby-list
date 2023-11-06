@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205976258881 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Professor |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 10:33:20 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505205977938963 |
-| Players | 1/24 |
-| Host Name | Sadlife |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 10:36:25 |
+| Lobby ID | 28505205977361679 |
+| Players | 11/15 |
+| Host Name | ♁＊＊ SIA ＊＊ |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 10:35:21 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205977692396 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | penny lover |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 10:35:58 |
@@ -50,27 +50,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205977900430 |
-| Players | 3/24 |
+| Players | 8/24 |
 | Host Name | KhrL |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:36:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505205977361679 |
-| Players | 9/15 |
-| Host Name | ♁＊＊ SIA ＊＊ |
+| Lobby ID | 28505205978043170 |
+| Players | 6/8 |
+| Host Name | Matador de Cholos profesional |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 10:36:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505205978060047 |
+| Players | 1/8 |
+| Host Name | ARMANDO_JC |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:35:21 |
+| Lobby Creation Time | Monday, November 6, 2023 10:36:38 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505205977988525 |
-| Players | 1/10 |
-| Host Name | Zzz |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:36:31 |
+| Lobby ID | 28505205978075119 |
+| Players | 2/10 |
+| Host Name | // |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 10:36:40 |
 
 
