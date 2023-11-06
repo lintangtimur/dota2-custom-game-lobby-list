@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206205633831 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | slipknotik |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, November 6, 2023 16:18:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206175893473 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | KALOG |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206205860556 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | waiting for death |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 16:18:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206204999298 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Subwoofer Lullaby |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:17:21 |
@@ -92,6 +92,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 16:18:15 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206206792528 |
+| Players | 4/10 |
+| Host Name | [ZIG] popochka |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 16:19:24 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505206197893032 |
@@ -104,19 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206203532175 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | eƿisc૦ƿ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 16:15:41 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206204819358 |
-| Players | 9/10 |
-| Host Name | Kenjaku |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 6, 2023 16:17:09 |
 
 
 |  | epic_boss_fight_hard |
