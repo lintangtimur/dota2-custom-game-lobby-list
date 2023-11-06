@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206040162362 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | El Rey Brujo de Angmar |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:26:42 |
@@ -49,20 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206037652409 |
-| Players | 9/10 |
-| Host Name | kuol |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 12:22:29 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28505206037918897 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 12:22:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206040419971 |
+| Players | 1/8 |
+| Host Name | Blind David Pew |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 12:27:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | alauvient |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 12:23:15 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505206040313081 |
-| Players | 1/5 |
-| Host Name | NothingUsseful |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 12:26:57 |
 
 
