@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206255202970 |
-| Players | 6/8 |
+| Players | 4/8 |
 | Host Name | баба гетто |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:11:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206236241002 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | TwentyOneInch |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 16:51:49 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206254490903 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Доктор Курлык |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:11:11 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206250603516 |
-| Players | 9/15 |
-| Host Name | Rσσ§†êr |
+| Lobby ID | 28505206241480141 |
+| Players | 8/15 |
+| Host Name | TSpirit.Yatoro雨 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:07:11 |
+| Lobby Creation Time | Monday, November 6, 2023 16:57:25 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | wp |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:13:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206256298574 |
+| Players | 1/8 |
+| Host Name | marci enjoyer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 17:13:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206256476054 |
+| Players | 3/10 |
+| Host Name | DeNzA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 17:13:11 |
 
 
 |  | epic_boss_fight_nightmare |
