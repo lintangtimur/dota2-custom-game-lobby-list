@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206331208707 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Kid |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:18:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206332056366 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | Чернушка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:19:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206330932354 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | UnclePecos |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 18:18:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206330844087 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | TeriTeri |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 18:18:16 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206331440611 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | АРТЕМ СТРУБЦИНА |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 18:18:43 |
@@ -119,10 +119,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 18:19:09 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206332409692 |
+| Players | 2/8 |
+| Host Name | Ieofdw |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 18:19:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206298671076 |
+| Players | 5/15 |
+| Host Name | FeeZy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 17:52:22 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206331840703 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Cancer192 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:19:01 |
