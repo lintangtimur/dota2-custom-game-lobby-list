@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206612206365 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | no idea |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 21:02:23 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:39:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206613737217 |
-| Players | 7/8 |
-| Host Name | Cant win |
+| Lobby ID | 28505206614065066 |
+| Players | 5/15 |
+| Host Name | マミヤKejOY |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 21:03:11 |
+| Lobby Creation Time | Monday, November 6, 2023 21:03:21 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206614335310 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | god complex |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 21:03:30 |
@@ -121,11 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206614289609 |
+| Lobby ID | 28505206615585326 |
 | Players | 5/10 |
-| Host Name | ckomo6oйня |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 21:03:29 |
+| Host Name | NURAYA |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 21:04:09 |
 
 
 |  | ot3_desert_octet |
@@ -155,13 +155,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 21:02:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206614065066 |
-| Players | 4/15 |
-| Host Name | マミヤKejOY |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 21:03:21 |
+| Lobby ID | 28505206615953470 |
+| Players | 1/8 |
+| Host Name | Cappuccino Lover |
+| Region | AUSTRIA |
+| Lobby Creation Time | Monday, November 6, 2023 21:04:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -173,12 +173,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 21:03:18 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505206615507068 |
-| Players | 1/5 |
-| Host Name | `QweX |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 6, 2023 21:04:07 |
+| Lobby ID | 28505206569147376 |
+| Players | 2/10 |
+| Host Name | Bankai |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 6, 2023 20:40:06 |
 
 
