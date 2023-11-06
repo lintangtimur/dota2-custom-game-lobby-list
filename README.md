@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205963674019 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Bonitos y gorditos hijos de puta |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:10:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205963028043 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Error.On.Fire.xD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:08:55 |
@@ -56,13 +56,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 10:07:00 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505205964157500 |
+| Players | 1/15 |
+| Host Name | lebanon don |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 10:10:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505205964193341 |
+| Players | 3/10 |
+| Host Name | Faraon Love Shady |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 10:11:03 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205964137598 |
-| Players | 5/8 |
-| Host Name | Mata Campesinos |
+| Players | 1/8 |
+| Host Name | wtt2k |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:10:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505205964258856 |
+| Players | 3/8 |
+| Host Name | сергей маляр |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 10:11:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505205963721803 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | sleep |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 10:10:11 |
