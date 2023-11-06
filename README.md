@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205978942854 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Разрушитель |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:38:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205981675470 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Chechi boy smurf |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:43:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205982720284 |
-| Players | 12/24 |
+| Players | 19/24 |
 | Host Name | Colsexo |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:45:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205981032588 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Jesus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 10:42:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205982428127 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Purple Star |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:44:50 |
@@ -67,55 +67,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505205982030432 |
-| Players | 2/15 |
-| Host Name | Ibo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 10:44:05 |
+| Lobby ID | 28505205982912355 |
+| Players | 4/15 |
+| Host Name | Giu |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 10:45:45 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205982402185 |
-| Players | 4/24 |
+| Players | 14/24 |
 | Host Name | Jasmine |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 10:44:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505205982837301 |
-| Players | 1/15 |
-| Host Name | ... |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:45:37 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505205982393613 |
-| Players | 1/5 |
-| Host Name | 3 |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:44:47 |
+| Lobby ID | 28505205982457491 |
+| Players | 2/10 |
+| Host Name | Asura™ |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 10:44:54 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505205982425777 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Next |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 10:44:50 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505205982457491 |
-| Players | 1/10 |
-| Host Name | Asura™ |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 10:44:54 |
 
 
