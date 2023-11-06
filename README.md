@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205976158635 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | DN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:33:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205973601872 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | чел |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:28:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205975593923 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Sr-BecKMaN Godota2.com |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:32:07 |
@@ -119,21 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 10:33:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505205976590304 |
-| Players | 3/8 |
-| Host Name | U&me_godota2.com |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 10:33:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505205976607994 |
-| Players | 1/15 |
-| Host Name | DaveyJones |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 10:33:58 |
+| Lobby ID | 28505205976685910 |
+| Players | 2/10 |
+| Host Name | 0 шансов(слабый) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 10:34:07 |
 
 
