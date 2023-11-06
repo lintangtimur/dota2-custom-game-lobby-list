@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206213462227 |
-| Players | 5/8 |
-| Host Name | hypocrisy |
+| Players | 2/8 |
+| Host Name | ✪Tekken✪ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 16:26:57 |
 
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206213927029 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | pinelopa |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 16:27:28 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206214298663 |
-| Players | 1/8 |
-| Host Name | сдуревший |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 16:27:54 |
+| Lobby ID | 28505206214396862 |
+| Players | 4/10 |
+| Host Name | FRSTCMFRSTSRVD |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 16:28:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -110,39 +110,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 16:26:04 |
 
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505206214355548 |
-| Players | 1/10 |
-| Host Name | shalalei |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 16:27:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206214412118 |
-| Players | 3/24 |
-| Host Name | Raziel |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 6, 2023 16:28:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206214396862 |
-| Players | 1/10 |
-| Host Name | FRSTCMFRSTSRVD |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 16:28:00 |
+| Lobby ID | 28505206197893032 |
+| Players | 2/5 |
+| Host Name | Uchiha Madara |
+| Region | USWEST |
+| Lobby Creation Time | Monday, November 6, 2023 16:09:27 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505206197893032 |
-| Players | 3/5 |
-| Host Name | Uchiha Madara |
-| Region | USWEST |
-| Lobby Creation Time | Monday, November 6, 2023 16:09:27 |
+| Lobby ID | 28505206214481856 |
+| Players | 1/5 |
+| Host Name | BMW клитор |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 16:28:06 |
 
 
