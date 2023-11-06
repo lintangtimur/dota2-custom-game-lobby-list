@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:39:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206202839915 |
-| Players | 6/15 |
-| Host Name | slipknotik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:14:55 |
+| Lobby ID | 28505206204033881 |
+| Players | 1/8 |
+| Host Name | waiting for death |
+| Region | AUSTRIA |
+| Lobby Creation Time | Monday, November 6, 2023 16:16:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206175893473 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | KALOG |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206203398732 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | P.S.I.X |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:15:32 |
@@ -110,6 +110,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 16:15:21 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206202066886 |
+| Players | 7/8 |
+| Host Name | Trooman |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 16:14:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206201699769 |
+| Players | 10/15 |
+| Host Name | Влад Темерев prime |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 16:13:39 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505206197893032 |
@@ -140,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206203532175 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | eƿisc૦ƿ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 16:15:41 |
