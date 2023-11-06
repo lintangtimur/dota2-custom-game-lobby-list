@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206209253237 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | TwentyOneInch |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 16:22:13 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206212626591 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | ЧЁРНЫЙ рекрут |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 16:26:01 |
@@ -108,6 +108,51 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 16:26:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206212947294 |
+| Players | 5/10 |
+| Host Name | ITS_SHOWTIME |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 16:26:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206212952337 |
+| Players | 2/15 |
+| Host Name | Кухонный Spirit |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 16:26:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206212995238 |
+| Players | 2/8 |
+| Host Name | hypocrisy |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 16:26:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206212985714 |
+| Players | 1/15 |
+| Host Name | Died of cringe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 16:26:25 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206213017059 |
+| Players | 1/10 |
+| Host Name | Sanyo |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 16:26:28 |
 
 
 |  | epic_boss_fight_normal |
