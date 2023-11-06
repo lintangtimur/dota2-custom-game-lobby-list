@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206142497628 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | GaTti |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 15:03:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206142576611 |
-| Players | 12/15 |
-| Host Name | еБЕНЬ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:03:21 |
+| Lobby ID | 28505206143205605 |
+| Players | 1/24 |
+| Host Name | Mr.Banana |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 15:04:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,13 +101,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:03:41 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206143178028 |
+| Players | 1/10 |
+| Host Name | Deyniol |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 15:04:09 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206142938676 |
-| Players | 3/8 |
-| Host Name | kenchik |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 15:03:49 |
+| Lobby ID | 28505206143278034 |
+| Players | 1/8 |
+| Host Name | 190mph |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 15:04:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206143266569 |
+| Players | 1/10 |
+| Host Name | 7475473543454645374573 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Monday, November 6, 2023 15:04:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206142843726 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Kiyotaka Ayanokoji |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 6, 2023 15:03:42 |
