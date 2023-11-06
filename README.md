@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206086795536 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | Viper Venom |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 13:44:04 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206111273623 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | da jaus is very bic |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 14:20:39 |
