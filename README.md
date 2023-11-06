@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205996807099 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | 丫卂 乃口工 丂山乇乇丅 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 11:12:19 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505205997420902 |
+| Lobby ID | 28505205997491530 |
 | Players | 2/10 |
 | Host Name | Мiсячне Сяйво |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 11:13:29 |
+| Lobby Creation Time | Monday, November 6, 2023 11:13:35 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205995917733 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | WSWSWSWSWSWSWS |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 11:10:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205996424243 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | zalamanza |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:11:36 |
@@ -92,28 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 11:12:03 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505205997369030 |
-| Players | 1/15 |
-| Host Name | 她比塔难守 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 6, 2023 11:13:23 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505205997349636 |
-| Players | 1/15 |
-| Host Name | S. Joe Grace |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 11:13:20 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505205993589604 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | 李老丝丶 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 6, 2023 11:06:16 |
