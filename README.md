@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206154313766 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | How u doin? |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 15:18:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206141893987 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Chris |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 15:02:28 |
@@ -67,20 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206154471660 |
+| Lobby ID | 28505206154515216 |
 | Players | 1/24 |
-| Host Name | dongu |
-| Region | USWEST |
-| Lobby Creation Time | Monday, November 6, 2023 15:18:14 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206154457575 |
-| Players | 1/24 |
-| Host Name | Tobias EAton |
+| Host Name | wikiped |
 | Region | DUBAI |
-| Lobby Creation Time | Monday, November 6, 2023 15:18:13 |
+| Lobby Creation Time | Monday, November 6, 2023 15:18:17 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206154540258 |
+| Players | 2/10 |
+| Host Name | Горячая мамочка |
+| Region | USWEST |
+| Lobby Creation Time | Monday, November 6, 2023 15:18:19 |
 
 
 |  | epic_boss_fight_nightmare |
