@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206129434830 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | L ø v e 系 |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, November 6, 2023 14:45:43 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206122033407 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | BlastBeats |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:35:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206128677088 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | WTF&!о_О |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 14:44:42 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:39:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206130165091 |
-| Players | 1/8 |
-| Host Name | Tryhard |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 14:46:43 |
+| Lobby ID | 28505206130382936 |
+| Players | 3/15 |
+| Host Name | wp |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 6, 2023 14:47:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206130166203 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | КОРЕЙКА ДАША |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:46:43 |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 世界是残酷的 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:44:25 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206130316533 |
+| Players | 1/10 |
+| Host Name | ジェース |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 6, 2023 14:46:56 |
 
 
