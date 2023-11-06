@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206208704641 |
-| Players | 1/10 |
-| Host Name | Дароу Ромыч |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:21:35 |
+| Lobby ID | 28505206209612602 |
+| Players | 1/24 |
+| Host Name | takodachi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 16:22:37 |
 
 
 |  | ot3_desert_octet |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:18:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206208111259 |
-| Players | 7/8 |
-| Host Name | krakoonity |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 16:20:55 |
+| Lobby ID | 28505206206792528 |
+| Players | 5/10 |
+| Host Name | [ZIG] popochka |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 16:19:24 |
 
 
 |  | ot3_gardens_duo |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206204999298 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Subwoofer Lullaby |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:17:21 |
@@ -128,6 +128,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 16:21:32 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505206205719494 |
+| Players | 23/24 |
+| Host Name | Violet Evergarden |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 16:18:10 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505206197893032 |
@@ -140,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206206884534 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ► Good gay, noob played |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 16:19:31 |
