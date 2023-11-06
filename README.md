@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206086795536 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | LunaticEyes (Kuroushi) |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 13:44:04 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:39:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206159459873 |
-| Players | 19/24 |
-| Host Name | Johnny Rambo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 15:24:29 |
+| Lobby ID | 28505206162658854 |
+| Players | 3/15 |
+| Host Name | Mouches Volantes |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 15:28:24 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206162731172 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | bon voyage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:28:29 |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206162478221 |
-| Players | 8/15 |
+| Players | 6/15 |
 | Host Name | FairyCocaine Æ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 15:28:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206162221052 |
-| Players | 1/15 |
-| Host Name | SexControl |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 15:27:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206161055941 |
-| Players | 8/10 |
-| Host Name | свечу с базы |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:26:27 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,28 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:27:53 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206162658854 |
-| Players | 6/15 |
-| Host Name | Mouches Volantes |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:28:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206161276834 |
-| Players | 13/15 |
-| Host Name | dv3xxx |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:26:43 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505206161538240 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | TimBo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:27:02 |
