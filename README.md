@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206032005015 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | penny lover |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 12:13:07 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 12:15:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206034946428 |
-| Players | 1/15 |
-| Host Name | чпок |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 12:18:01 |
+| Lobby ID | 28505206034603638 |
+| Players | 4/24 |
+| Host Name | MERLYN |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 12:17:26 |
 
 
 |  | ot3_gardens_duo |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | mimilya |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:15:53 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206034603638 |
-| Players | 4/24 |
-| Host Name | MERLYN |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 12:17:26 |
 
 
 |  | epic_boss_fight_nightmare |
