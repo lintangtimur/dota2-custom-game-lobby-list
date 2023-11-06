@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206068352709 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Mixway |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:14:36 |
@@ -45,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PRISIONERO LINDO LINDO |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 13:08:37 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206068946916 |
+| Players | 3/10 |
+| Host Name | IFW |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 13:15:34 |
 
 
 |  | epic_boss_fight_nightmare |
