@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:11:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206012363208 |
-| Players | 1/15 |
-| Host Name | vincent black shadow |
+| Lobby ID | 28505206011530849 |
+| Players | 8/24 |
+| Host Name | Matt Murdock  🆅🅰🅻🆅 |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 11:39:58 |
+| Lobby Creation Time | Monday, November 6, 2023 11:38:33 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206012407363 |
-| Players | 8/10 |
-| Host Name | Blutch |
+| Players | 5/10 |
+| Host Name | PuchunGOZU |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 11:40:03 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206008587895 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | TwentyOneInch |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 11:33:32 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206012360246 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | asd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:39:58 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206011846904 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Say |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:39:05 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206011530849 |
-| Players | 7/24 |
-| Host Name | Matt Murdock  🆅🅰🅻🆅 |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 11:38:33 |
+| Lobby ID | 28505206012562539 |
+| Players | 3/8 |
+| Host Name | Miposhka 死 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 11:40:19 |
 
 
 |  | epic_boss_fight_nightmare |
