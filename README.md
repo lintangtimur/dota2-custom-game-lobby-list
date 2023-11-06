@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206059555840 |
-| Players | 3/24 |
-| Host Name | RiftBreaker |
+| Players | 2/24 |
+| Host Name | AKwasp |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 12:59:36 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206062133215 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Punisher PMA |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 13:04:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206064596176 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | B|O|O|M |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:08:22 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206064304549 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | когда я голоден я |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:07:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206064711124 |
-| Players | 1/15 |
-| Host Name | EMISARIO NORN |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 13:08:33 |
+| Lobby ID | 28505206064963380 |
+| Players | 1/10 |
+| Host Name | Br0ker |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 13:08:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206064747003 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Natsumi®◘ |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 13:08:37 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Atlas Troll |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 13:08:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206064963380 |
-| Players | 1/10 |
-| Host Name | Br0ker |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 13:08:59 |
 
 
 |  | epic_boss_fight_nightmare |
