@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205955264893 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | appreciate life |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 09:54:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205959733528 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | ТРО ЧІКАГО |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:02:53 |
@@ -56,12 +56,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 10:00:15 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505205959860179 |
+| Players | 11/15 |
+| Host Name | ★彡iＫⓐＲㄖş 彡★ |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 10:03:07 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505205960617691 |
+| Lobby ID | 28505205960719596 |
 | Players | 1/8 |
-| Host Name | АндудВанЛав |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 10:04:29 |
+| Host Name | GNOMO giordota.com |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 10:04:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505205960724067 |
+| Players | 1/15 |
+| Host Name | Kie |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 10:04:41 |
 
 
