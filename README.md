@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206307639743 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Sashok |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:59:57 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206327635935 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | BMW клитор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:15:50 |
@@ -110,24 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 18:15:48 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206274782994 |
-| Players | 1/15 |
-| Host Name | Xeron |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:31:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206324685115 |
-| Players | 7/8 |
-| Host Name | zeiks |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:13:34 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505206323799851 |
@@ -140,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206325065504 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | d1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:13:52 |
@@ -166,10 +148,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28505206326191149 |
+| Lobby ID | 28505206328203127 |
 | Players | 1/5 |
-| Host Name | Lenarr |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 6, 2023 18:14:44 |
+| Host Name | Monkey96 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 18:16:16 |
 
 
