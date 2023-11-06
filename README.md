@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205979515683 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | In L♥ve With a Fat Pikachu =3 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 10:39:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205979452433 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:39:14 |
@@ -95,10 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205980796894 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | Mr.Bingus |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:41:46 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505205980964211 |
+| Players | 1/24 |
+| Host Name | and^R |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 10:42:05 |
 
 
 |  | epic_boss_fight_nightmare |
