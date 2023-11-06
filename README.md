@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206011369941 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | K292 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 11:38:16 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206010800390 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Joshe ▼♥ ♥☻giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:37:18 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206011319301 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Мiсячне Сяйво |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:38:11 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206011530849 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | Matt Murdock  🆅🅰🅻🆅 |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:38:33 |
@@ -95,10 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206011846904 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Say |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:39:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206012319249 |
+| Players | 1/8 |
+| Host Name | wtt2k |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 11:39:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | khe-Veva-Kozkho |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 11:39:35 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28505206012303242 |
+| Players | 1/7 |
+| Host Name | Славный Котик Иут |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 11:39:52 |
 
 
