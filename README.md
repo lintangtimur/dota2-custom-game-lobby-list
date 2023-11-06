@@ -51,7 +51,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28505206176339204 |
 | Players | 17/24 |
-| Host Name | Kwee "KAYPANG" Ceng |
+| Host Name | Felip |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 15:44:43 |
 
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206178775394 |
-| Players | 14/15 |
-| Host Name | Mel- |
+| Lobby ID | 28505206179323179 |
+| Players | 5/15 |
+| Host Name | P.S.I.X |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:47:34 |
+| Lobby Creation Time | Monday, November 6, 2023 15:48:12 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206177807802 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | waiting for death |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 15:46:26 |
@@ -110,29 +110,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:46:57 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206178521808 |
-| Players | 1/15 |
-| Host Name | Soldier.99 |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 15:47:16 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206179321781 |
 | Players | 2/8 |
 | Host Name | кракозябра |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:48:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206179323179 |
-| Players | 1/15 |
-| Host Name | P.S.I.X |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:48:12 |
 
@@ -158,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206179326625 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | [*BaSkeTka*] |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 15:48:13 |
