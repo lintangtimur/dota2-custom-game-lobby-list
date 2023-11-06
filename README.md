@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206278838468 |
-| Players | 4/8 |
-| Host Name | ㅿ |
+| Lobby ID | 28505206284567413 |
+| Players | 1/8 |
+| Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:34:55 |
+| Lobby Creation Time | Monday, November 6, 2023 17:40:05 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206282245276 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | ℍ𝕒𝕡𝕡𝕪 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 17:38:00 |
@@ -112,17 +112,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206284280795 |
-| Players | 3/8 |
-| Host Name | MERCENARY |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:39:50 |
+| Lobby ID | 28505206284511180 |
+| Players | 1/8 |
+| Host Name | Dildo shwaggins |
+| Region | AUSTRIA |
+| Lobby Creation Time | Monday, November 6, 2023 17:40:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206284313450 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | Олег Стамина |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 17:39:52 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206284334043 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | эминем |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 17:39:53 |
@@ -140,9 +140,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206284447829 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | stoney tangawizi |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 17:39:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206284677105 |
+| Players | 1/8 |
+| Host Name | dont lose for ark |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 17:40:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206284658933 |
+| Players | 1/10 |
+| Host Name | Геральд из Сирии |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 17:40:10 |
 
 
