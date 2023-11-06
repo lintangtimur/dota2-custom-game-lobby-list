@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206063510158 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:06:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206061441104 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | WEED |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 13:02:58 |
@@ -65,10 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:07:52 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206064382305 |
+| Players | 5/10 |
+| Host Name | 🌩️🌩️🌩️🌩 |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 13:08:00 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206062483440 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | DeadSou1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:04:45 |
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ryujiin.GG [ Buunja ] |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 13:07:42 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206064384497 |
+| Players | 2/5 |
+| Host Name | tokyo4u |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 13:08:00 |
 
 
