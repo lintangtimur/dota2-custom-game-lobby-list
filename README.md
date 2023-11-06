@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:39:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206222803166 |
-| Players | 6/8 |
-| Host Name | reresxl |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 16:37:24 |
+| Lobby ID | 28505206223815938 |
+| Players | 4/15 |
+| Host Name | Влад Темерев prime |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 16:38:32 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206175893473 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | KALOG |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206219717288 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | 😇Динозаврик😇 |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 16:33:59 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206223260170 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | NeeL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:37:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206223815938 |
-| Players | 2/15 |
-| Host Name | Влад Темерев prime |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 16:38:32 |
 
 
 |  | epic_boss_fight_normal |
