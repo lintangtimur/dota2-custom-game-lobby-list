@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Saturday, November 4, 2023 03:11:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505205963451196 |
-| Players | 1/15 |
-| Host Name | Петушиный Алан Де |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 10:09:41 |
+| Lobby ID | 28505205961530302 |
+| Players | 9/10 |
+| Host Name | ShaV |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 10:06:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205961985152 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | ♁＊＊ SIA ＊＊ |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:06:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505205961530302 |
-| Players | 8/10 |
-| Host Name | ShaV |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 10:06:09 |
 
 
 |  | epic_boss_fight_nightmare |
