@@ -56,33 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:21:40 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206133160084 |
-| Players | 14/15 |
-| Host Name | EL HOMBRE SIDA !! |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 14:50:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206133852855 |
-| Players | 3/8 |
-| Host Name | сергей маляр |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 14:51:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206134732053 |
-| Players | 5/8 |
-| Host Name | next one #FreedomforPalestine |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 14:52:50 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206131238560 |
@@ -92,10 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:48:10 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206134732053 |
+| Players | 7/8 |
+| Host Name | next one #FreedomforPalestine |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 14:52:50 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206132396997 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Fortuna |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:49:43 |
