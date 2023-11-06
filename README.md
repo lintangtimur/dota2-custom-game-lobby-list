@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206013865020 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | T - アイドル |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 11:42:34 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206015689271 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | WilifWilofWilai |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:45:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206015903489 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | 63 y.o. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:46:05 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | pox na game |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:44:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206016751102 |
+| Players | 1/10 |
+| Host Name | Too Good To Win? |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 11:47:33 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505206016807966 |
+| Players | 1/24 |
+| Host Name | Superman Pans |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 6, 2023 11:47:38 |
 
 
 |  | epic_boss_fight_nightmare |
