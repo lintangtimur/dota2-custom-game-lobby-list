@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206080208818 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | 大鲶鱼 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 13:33:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206076113662 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | ab1cd |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 13:27:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206081420298 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Wolfstrong97 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 13:35:42 |
@@ -67,20 +67,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206081424585 |
-| Players | 1/8 |
-| Host Name | Kent |
-| Region | USWEST |
-| Lobby Creation Time | Monday, November 6, 2023 13:35:43 |
+| Lobby ID | 28505206081623743 |
+| Players | 4/8 |
+| Host Name | джони сильверболc |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 13:36:02 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206080423640 |
-| Players | 1/8 |
-| Host Name | Ghan |
+| Lobby ID | 28505206079289437 |
+| Players | 7/8 |
+| Host Name | [D]iomegod |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 13:34:07 |
+| Lobby Creation Time | Monday, November 6, 2023 13:32:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206081721513 |
+| Players | 1/10 |
+| Host Name | F! |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 13:36:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206081731421 |
+| Players | 1/15 |
+| Host Name | Subaru.FOB IS BACK!! |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 13:36:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WhyBaby? |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 13:32:22 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206081728736 |
+| Players | 1/10 |
+| Host Name | not more |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 13:36:11 |
 
 
