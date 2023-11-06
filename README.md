@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206256545598 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | chokeza555+ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 17:13:16 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206124940432 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | PTB |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 14:39:37 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206259583364 |
-| Players | 2/15 |
-| Host Name | Ðï©K |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 17:16:18 |
+| Lobby ID | 28505206252853791 |
+| Players | 10/15 |
+| Host Name | Song Bird |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 17:09:31 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206257003952 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Urahara |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:13:42 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206255202970 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | баба гетто |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:11:54 |
@@ -126,6 +126,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | чугун |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:15:59 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206259719015 |
+| Players | 1/15 |
+| Host Name | Azimov. |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 6, 2023 17:16:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206259695048 |
+| Players | 1/8 |
+| Host Name | quasarus |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 17:16:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206259831410 |
+| Players | 2/8 |
+| Host Name | dont lose for ark |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 17:16:33 |
 
 
 |  | epic_boss_fight_nightmare |
