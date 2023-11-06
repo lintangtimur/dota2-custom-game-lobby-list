@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206235567639 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | heisenburger |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:51:06 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206235722137 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | life imitates life |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:51:16 |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Han Jee-han  한 지한 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 16:44:19 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206235869599 |
+| Players | 1/5 |
+| Host Name | ¯\_(ツ)_/¯ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 16:51:26 |
 
 
