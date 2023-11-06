@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:57:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206099442139 |
-| Players | 14/15 |
-| Host Name | Kent |
-| Region | USWEST |
-| Lobby Creation Time | Monday, November 6, 2023 14:03:27 |
+| Lobby ID | 28505206100039422 |
+| Players | 2/24 |
+| Host Name | アイシテル |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 14:04:21 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206089187330 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Chris |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 13:47:47 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206098318638 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 123123123123123123 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:01:46 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206099855943 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Yomki |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:04:05 |
@@ -122,36 +122,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206100014135 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | TIMMY |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 6, 2023 14:04:19 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206100039422 |
-| Players | 2/24 |
-| Host Name | アイシテル |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 14:04:21 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206086795536 |
-| Players | 23/24 |
-| Host Name | Viper Venom |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 13:44:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206100093991 |
-| Players | 1/10 |
-| Host Name | Scorcher//CHEP |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 6, 2023 14:04:26 |
 
 
