@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206163818736 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | Làm bố người ta à??? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 15:29:49 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206163019870 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Arthas Menethil |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 15:28:50 |
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:32:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206166610792 |
-| Players | 2/10 |
-| Host Name | Сбежавший |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 15:33:11 |
+| Lobby ID | 28505206166910215 |
+| Players | 2/8 |
+| Host Name | Lasvoss |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 15:33:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206164565440 |
+| Players | 13/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 15:30:43 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Arcane~ |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 15:32:24 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28505206166916447 |
-| Players | 2/7 |
-| Host Name | 忠厚老实的晨曦 |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 6, 2023 15:33:33 |
 
 
