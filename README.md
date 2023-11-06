@@ -31,69 +31,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206214965999 |
-| Players | 6/8 |
-| Host Name | JuicyArbyzik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:28:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206175893473 |
-| Players | 2/15 |
-| Host Name | KALOG |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206212693839 |
-| Players | 22/24 |
-| Host Name | Gaben Naam Ka Kutta Paalu |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 16:26:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206216112556 |
-| Players | 14/15 |
-| Host Name | Десантный кораблb |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:29:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206216231830 |
-| Players | 8/10 |
-| Host Name | Упал, отжался! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:30:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206208161821 |
-| Players | 2/24 |
-| Host Name | Makson! sw3g. |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 16:20:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206212669256 |
-| Players | 10/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 16:26:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28505206217163852 |
 | Players | 6/8 |
 | Host Name | Colours |
@@ -103,11 +40,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206217123091 |
+| Lobby ID | 28505206175893473 |
 | Players | 3/15 |
+| Host Name | KALOG |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505206208161821 |
+| Players | 4/24 |
+| Host Name | Makson! sw3g. |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 16:20:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206217123091 |
+| Players | 5/15 |
 | Host Name | няшная няшка ^-^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:31:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206212669256 |
+| Players | 10/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 16:26:04 |
 
 
 |  | epic_boss_fight_normal |
