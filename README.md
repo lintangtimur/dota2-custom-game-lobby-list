@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206308021137 |
-| Players | 7/8 |
-| Host Name | waiting for death |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 6, 2023 18:00:16 |
+| Lobby ID | 28505206315080244 |
+| Players | 4/8 |
+| Host Name | kvch |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 18:06:00 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206313522410 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Sheeeeeeeeeeeeeeeez |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:04:45 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206309075587 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | qwerty |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:01:09 |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 17:31:09 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206298671076 |
-| Players | 9/15 |
-| Host Name | FeeZy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:52:22 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206314575508 |
@@ -108,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Thawne |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 6, 2023 18:05:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206315080244 |
-| Players | 3/8 |
-| Host Name | kvch |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:06:00 |
 
 
 |  | epic_boss_fight_challenger |
@@ -131,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206304989406 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Diclonius |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 17:57:43 |
