@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206314397269 |
-| Players | 3/10 |
-| Host Name | БОНДИД-Джамшут |
+| Lobby ID | 28505206314240473 |
+| Players | 1/10 |
+| Host Name | Pyrtoper |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:05:27 |
+| Lobby Creation Time | Monday, November 6, 2023 18:05:19 |
 
 
 |  | ot3_desert_octet |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 17:49:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206307904323 |
-| Players | 13/15 |
-| Host Name | одноглазый чмо |
+| Lobby ID | 28505206309075587 |
+| Players | 6/10 |
+| Host Name | qwerty |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:00:10 |
+| Lobby Creation Time | Monday, November 6, 2023 18:01:09 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,37 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206298671076 |
-| Players | 2/15 |
+| Players | 9/15 |
 | Host Name | FeeZy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:52:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206314965677 |
-| Players | 5/8 |
-| Host Name | dezex |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:05:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206314854293 |
-| Players | 2/8 |
-| Host Name | СЕРАГА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:05:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206314240473 |
-| Players | 1/10 |
-| Host Name | Pyrtoper |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:05:19 |
 
 
 |  | ot3_gardens_duo |
@@ -137,19 +110,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 18:05:36 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206309075587 |
-| Players | 4/10 |
-| Host Name | qwerty |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 18:01:09 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206315080244 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | kvch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 18:06:00 |
