@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206120911897 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | takodachi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:34:07 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206121661828 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | zet-.-BEASTMODE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:35:09 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206120411812 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 110 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 14:33:26 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | hell walker |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 14:36:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206122546855 |
+| Players | 2/15 |
+| Host Name | Rodi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 14:36:22 |
 
 
 |  | epic_boss_fight_nightmare |
