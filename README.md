@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206039114732 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Stronger |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:24:55 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206037971684 |
-| Players | 7/8 |
-| Host Name | Burdagoal baby |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 6, 2023 12:23:02 |
+| Lobby ID | 28505206039788567 |
+| Players | 2/8 |
+| Host Name | Starboy |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 12:26:04 |
 
 
 |  | ot3_desert_octet |
@@ -68,28 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206039384903 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | alenose |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 12:25:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206039788567 |
-| Players | 1/8 |
-| Host Name | Starboy |
+| Lobby ID | 28505206040085622 |
+| Players | 5/10 |
+| Host Name | Señor de la noche |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 12:26:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206033685014 |
-| Players | 5/8 |
-| Host Name | AL QAEDA |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 12:15:54 |
+| Lobby Creation Time | Monday, November 6, 2023 12:26:34 |
 
 
 |  | epic_boss_fight_nightmare |
