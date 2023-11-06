@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206110001780 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Most positive player!! |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 14:18:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206111273623 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | da jaus is very bic |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 14:20:39 |
@@ -86,10 +86,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206110930724 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Пацифисто |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:20:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206111672874 |
+| Players | 1/15 |
+| Host Name | McDi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 14:21:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206111699840 |
+| Players | 1/15 |
+| Host Name | mr bigglesworth |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 14:21:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206109884800 |
+| Players | 9/10 |
+| Host Name | Murder♣ |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 6, 2023 14:18:40 |
 
 
 |  | epic_boss_fight_nightmare |
