@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206471440085 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | PickPocketPickeduPPackPackage |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 19:47:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206470684390 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Ҝ丨几丂卄丨 |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 19:47:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206511305125 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | r3d |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 20:09:38 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206536071136 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | taehafrazrxt* |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 20:22:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206536105386 |
-| Players | 1/8 |
-| Host Name | Чеченский атом |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 20:22:50 |
+| Lobby ID | 28505206537512240 |
+| Players | 6/10 |
+| Host Name | CANCELUL |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 20:23:35 |
 
 
 |  | ot3_jungle_quintet |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206534751207 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | :) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 20:22:08 |
@@ -182,31 +182,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 20:22:36 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206535663143 |
-| Players | 7/8 |
-| Host Name | Чак-Чак Норрис |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 20:22:36 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206535801515 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | КОНТЕНТ ПОДЪЕХАЛ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 20:22:41 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206537244526 |
-| Players | 2/8 |
-| Host Name | Ellie- |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 6, 2023 20:23:26 |
 
 
 |  | epic_boss_fight_nightmare |
