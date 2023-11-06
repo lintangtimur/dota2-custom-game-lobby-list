@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206257003952 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Алёна сучка шмара |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:13:42 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206276189114 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | QPAD. RED PANDA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:32:29 |
@@ -126,6 +126,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | swap cm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:33:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206277137920 |
+| Players | 2/8 |
+| Host Name | necrophilia |
+| Region | AUSTRIA |
+| Lobby Creation Time | Monday, November 6, 2023 17:33:20 |
 
 
 |  | epic_boss_fight_nightmare |
