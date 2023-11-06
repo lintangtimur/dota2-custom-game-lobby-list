@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206040162362 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | El Rey Brujo de Angmar |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:26:42 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 12:26:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206041116433 |
-| Players | 1/24 |
-| Host Name | Yappy |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 12:28:19 |
+| Lobby ID | 28505206033685014 |
+| Players | 8/8 |
+| Host Name | AL QAEDA |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 12:15:54 |
 
 
 |  | ot3_desert_octet |
