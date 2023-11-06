@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205967408978 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | , |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:16:55 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205966028910 |
-| Players | 8/24 |
+| Players | 13/24 |
 | Host Name | StH |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 10:14:24 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205962395688 |
-| Players | 14/24 |
+| Players | 21/24 |
 | Host Name | FB 🎸🦃 |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 10:07:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505205967541925 |
-| Players | 8/10 |
-| Host Name | Tonika- |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 10:17:10 |
+| Lobby ID | 28505205968410812 |
+| Players | 2/8 |
+| Host Name | Don Zancudo |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 10:18:46 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205967801292 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | MAPACHE_$INC0LA |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:17:39 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205966462284 |
-| Players | 8/24 |
-| Host Name | ShaDow |
+| Players | 10/24 |
+| Host Name | WSWSWSWSWSWSWS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 10:15:11 |
 
