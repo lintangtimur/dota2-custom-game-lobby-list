@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206209612602 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | takodachi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 16:22:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206206792528 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | [ZIG] popochka |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 16:19:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206208968420 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | heisenburger |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:21:53 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 16:22:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206204999298 |
-| Players | 9/10 |
-| Host Name | Subwoofer Lullaby |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:17:21 |
+| Lobby ID | 28505206208273720 |
+| Players | 5/8 |
+| Host Name | Revenge |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 16:21:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -119,24 +119,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 16:20:58 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206208651216 |
-| Players | 12/15 |
-| Host Name | MetaMask |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:21:32 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206205719494 |
-| Players | 23/24 |
-| Host Name | Violet Evergarden |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 16:18:10 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505206197893032 |
@@ -144,15 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Uchiha Madara |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 16:09:27 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28505206206884534 |
-| Players | 9/10 |
-| Host Name | ► Good gay, noob played |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 16:19:31 |
 
 
 |  | epic_boss_fight_nightmare |
