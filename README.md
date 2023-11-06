@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206275934596 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Sosed |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 17:32:14 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206275139773 |
-| Players | 11/15 |
-| Host Name | SUPER SSSANIN |
+| Lobby ID | 28505206276189114 |
+| Players | 1/15 |
+| Host Name | QPAD. RED PANDA |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:31:29 |
+| Lobby Creation Time | Monday, November 6, 2023 17:32:29 |
 
 
 |  | ot3_gardens_duo |
@@ -122,36 +122,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206275490005 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | черноспермий |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:31:49 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206271612448 |
-| Players | 9/10 |
-| Host Name | ♥[V] |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 17:28:08 |
+| Lobby ID | 28505206257003952 |
+| Players | 3/10 |
+| Host Name | Алёна сучка шмара |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 17:13:42 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206272938066 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Çħίℓℓ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:29:25 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505206276152158 |
-| Players | 1/5 |
-| Host Name | Qiraji |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 17:32:26 |
 
 
