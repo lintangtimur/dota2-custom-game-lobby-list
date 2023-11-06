@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206224793197 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | drntmanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 16:39:37 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206227868419 |
-| Players | 10/15 |
-| Host Name | geromaruu |
+| Players | 11/15 |
+| Host Name | плотная какулька |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 6, 2023 16:42:57 |
 
@@ -74,6 +74,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 16:43:33 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206228545572 |
+| Players | 4/8 |
+| Host Name | Лютый Холод |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 6, 2023 16:43:41 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505206228563308 |
+| Players | 1/24 |
+| Host Name | Donatello Trump |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 16:43:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206228636634 |
+| Players | 3/8 |
+| Host Name | Злая рыбаz |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 16:43:47 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505206223550646 |
@@ -94,10 +121,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505206228417642 |
+| Lobby ID | 28505206228618619 |
 | Players | 1/10 |
-| Host Name | Don El Pedro |
+| Host Name | ꀤꋊꌚꍏꋊꍟ |
 | Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 16:43:33 |
+| Lobby Creation Time | Monday, November 6, 2023 16:43:46 |
 
 
