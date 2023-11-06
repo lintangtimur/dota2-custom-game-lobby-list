@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206061441104 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | WEED |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 13:02:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206061827278 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | SALAMANDER_KING |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 13:03:38 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206061994695 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Lada niva 4 life! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:03:55 |
@@ -119,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:05:08 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505206062810414 |
-| Players | 1/5 |
-| Host Name | Дядя Смурф |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 13:05:19 |
+| Lobby ID | 28505206062905511 |
+| Players | 1/10 |
+| Host Name | WEEABOO |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 13:05:29 |
 
 
