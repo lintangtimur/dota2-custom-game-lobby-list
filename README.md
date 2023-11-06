@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205953536074 |
-| Players | 18/24 |
+| Players | 23/24 |
 | Host Name | Yonwalther |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 09:51:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205949272953 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | oOo-ÉGOÏSTE-oOo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 09:43:43 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205952934114 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | PERUANOS HIJOS DEL PICO |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 09:50:27 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | pacharro llegando a incient |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 09:53:25 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505205954622844 |
+| Players | 1/8 |
+| Host Name | i am herald btw |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 09:53:33 |
 
 
 |  | epic_boss_fight_nightmare |
