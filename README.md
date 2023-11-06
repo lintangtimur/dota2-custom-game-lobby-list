@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206242438811 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | я масик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:58:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206272092819 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | pixel_down |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:28:36 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206278644143 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Missing |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 17:34:44 |
@@ -104,8 +104,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206241480141 |
-| Players | 9/15 |
-| Host Name | ✝ |
+| Players | 12/15 |
+| Host Name | SS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:57:25 |
 
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206278838468 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | заглотыш |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:34:55 |
@@ -131,19 +131,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206278997265 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 17:35:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206257003952 |
-| Players | 6/10 |
-| Host Name | Алёна сучка шмара |
+| Lobby ID | 28505206279321885 |
+| Players | 4/8 |
+| Host Name | tSnp∼ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:13:42 |
+| Lobby Creation Time | Monday, November 6, 2023 17:35:21 |
 
 
 |  | ot3_necropolis_ffa |
