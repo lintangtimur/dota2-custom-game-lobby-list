@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206630090176 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 21:11:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206645298393 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | evol tnac uoy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 21:19:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206646881368 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Пидарок |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 21:20:31 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206645515292 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Narkolog |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 21:19:49 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206641335138 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | STRATEGIC ИНВЕСТИЦИЯ В ТЕРПЕНИЕ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 21:17:38 |
@@ -135,15 +135,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Snolled |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 21:04:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206644898726 |
-| Players | 8/10 |
-| Host Name | TwXsTR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 21:19:29 |
 
 
 |  | epic_boss_fight_nightmare |
