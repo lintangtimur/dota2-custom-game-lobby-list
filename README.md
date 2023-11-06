@@ -74,28 +74,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 19:27:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206524841082 |
-| Players | 1/10 |
-| Host Name | ПРЯНЯ |
+| Lobby ID | 28505206525287599 |
+| Players | 2/15 |
+| Host Name | MrSuperman|002| |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 20:16:51 |
+| Lobby Creation Time | Monday, November 6, 2023 20:17:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206525331911 |
-| Players | 9/10 |
-| Host Name | Кудесник |
+| Lobby ID | 28505206528894168 |
+| Players | 3/8 |
+| Host Name | Неуязвимый |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 20:17:07 |
+| Lobby Creation Time | Monday, November 6, 2023 20:19:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206526578994 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | d1 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 20:17:47 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206527590885 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | гавноед |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 20:18:19 |
@@ -131,19 +131,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206528390164 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | ☦☦† |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 20:18:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206525287599 |
-| Players | 1/15 |
-| Host Name | MrSuperman|002| |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 20:17:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -162,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RAY OF HOPE |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 20:16:43 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206528973195 |
+| Players | 1/5 |
+| Host Name | 炭烤椒盐海豹 |
+| Region | USWEST |
+| Lobby Creation Time | Monday, November 6, 2023 20:19:03 |
 
 
