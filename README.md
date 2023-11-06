@@ -14,55 +14,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205984302586 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Purple Star |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 10:48:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505205983156948 |
-| Players | 7/8 |
-| Host Name | юпитер (lft2) |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 10:46:13 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505205986032942 |
-| Players | 4/15 |
-| Host Name | Gayge |
-| Region | USWEST |
-| Lobby Creation Time | Monday, November 6, 2023 10:51:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505205984451334 |
-| Players | 5/10 |
-| Host Name | Too Good To Win? |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 10:48:38 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505205985439031 |
-| Players | 7/15 |
-| Host Name | NoMercy |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:50:31 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505205985614570 |
-| Players | 4/24 |
-| Host Name | jie |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 6, 2023 10:50:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -72,6 +27,60 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 3L 1L3G4L |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 10:51:44 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505205986032942 |
+| Players | 5/15 |
+| Host Name | Gayge |
+| Region | USWEST |
+| Lobby Creation Time | Monday, November 6, 2023 10:51:38 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505205984451334 |
+| Players | 4/10 |
+| Host Name | Too Good To Win? |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 10:48:38 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505205985439031 |
+| Players | 9/15 |
+| Host Name | NoMercy |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 10:50:31 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505205985614570 |
+| Players | 3/24 |
+| Host Name | jie |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 10:50:50 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505205986355761 |
+| Players | 1/24 |
+| Host Name | DgJ |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 10:52:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505205986358560 |
+| Players | 2/8 |
+| Host Name | BigBlackCock |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 10:52:14 |
 
 
 |  | epic_boss_fight_nightmare |
