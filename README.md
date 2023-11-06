@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206124940432 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 14:39:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206142652524 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | Good Vibes |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 15:03:27 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:03:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206143178028 |
-| Players | 1/10 |
-| Host Name | Deyniol |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 15:04:09 |
+| Lobby ID | 28505206143533854 |
+| Players | 1/24 |
+| Host Name | Kermit Da Frog |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 15:04:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -121,38 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505206143323665 |
+| Lobby ID | 28505206143707682 |
 | Players | 1/24 |
 | Host Name | Greggy Liwanag |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 15:04:20 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206143533854 |
-| Players | 1/24 |
-| Host Name | Kermit Da Frog |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 15:04:36 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505206143540271 |
-| Players | 1/24 |
-| Host Name | QQQ |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 6, 2023 15:04:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206143568607 |
-| Players | 2/8 |
-| Host Name | El gatoo |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 15:04:39 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 15:04:49 |
 
 
 |  | epic_boss_fight_nightmare |
