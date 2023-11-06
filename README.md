@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205954622844 |
-| Players | 2/8 |
-| Host Name | i am herald btw |
+| Players | 3/8 |
+| Host Name | ♂ |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 09:53:33 |
 
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505205954198320 |
-| Players | 14/15 |
-| Host Name | Lizerz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 09:52:46 |
+| Lobby ID | 28505205955330023 |
+| Players | 1/15 |
+| Host Name | ♡ |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 09:54:51 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205953023204 |
-| Players | 7/8 |
+| Players | 8/8 |
 | Host Name | hahaha omg lol xd lmfao hehehe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 09:50:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205953908711 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 09:52:14 |
@@ -101,10 +101,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 09:54:30 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505205955296191 |
+| Players | 2/10 |
+| Host Name | Chiquitin Medalles |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 09:54:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505205955399030 |
+| Players | 1/15 |
+| Host Name | SCZ   J FLEX |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 09:54:58 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505205954411596 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Catador de Conchas |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 09:53:10 |
