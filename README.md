@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 10:28:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505205974403922 |
-| Players | 13/15 |
-| Host Name | BUMBAYASH. |
+| Lobby ID | 28505205975807795 |
+| Players | 7/8 |
+| Host Name | LongoPatan |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:29:55 |
+| Lobby Creation Time | Monday, November 6, 2023 10:32:31 |
 
 
 |  | ot3_gardens_duo |
@@ -92,30 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 10:31:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505205975807795 |
-| Players | 7/8 |
-| Host Name | LongoPatan |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:32:31 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505205975881766 |
-| Players | 5/10 |
-| Host Name | - |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:32:38 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28505205975723544 |
-| Players | 2/7 |
-| Host Name | Kerry Copito |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:32:21 |
+| Lobby ID | 28505205975996122 |
+| Players | 1/24 |
+| Host Name | Ignis |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 10:32:51 |
 
 
