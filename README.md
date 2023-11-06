@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206214965999 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | JuicyArbyzik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:28:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206175893473 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | KALOG |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206212693839 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 16:26:05 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206216231830 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Упал, отжался! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:30:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206208161821 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Makson! sw3g. |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 16:20:58 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 16:26:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206217163852 |
+| Players | 6/8 |
+| Host Name | Colours |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 6, 2023 16:31:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206217123091 |
+| Players | 3/15 |
+| Host Name | няшная няшка ^-^ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 16:31:06 |
 
 
 |  | epic_boss_fight_normal |
