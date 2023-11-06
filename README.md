@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206102098390 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | 风显 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:07:24 |
@@ -121,10 +121,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28505206106741683 |
+| Lobby ID | 28505206106920490 |
+| Players | 2/10 |
+| Host Name | katharsis |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 14:14:26 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206106945209 |
 | Players | 1/10 |
-| Host Name | Just subscribe for Linda H |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 14:14:11 |
+| Host Name | 9527 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 14:14:28 |
 
 
