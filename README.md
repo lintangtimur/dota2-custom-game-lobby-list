@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206049355038 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 12:42:14 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206051355438 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Сигма |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:45:33 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206048660830 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Loading |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 12:41:04 |
