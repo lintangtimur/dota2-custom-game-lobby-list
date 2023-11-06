@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 12:57:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206055958215 |
-| Players | 13/15 |
-| Host Name | Goodbye Bystander |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 12:53:24 |
+| Lobby ID | 28505206059131312 |
+| Players | 2/8 |
+| Host Name | Джи Оу Ди |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 12:58:52 |
 
 
 |  | ot3_gardens_duo |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 12:57:34 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206059131312 |
-| Players | 2/8 |
-| Host Name | Джи Оу Ди |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 12:58:52 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505206057237366 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206058450877 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Duck My Sick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 12:57:42 |
