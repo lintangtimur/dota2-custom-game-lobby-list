@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205953536074 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | Yonwalther |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 09:51:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205949272953 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | oOo-ÉGOÏSTE-oOo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 09:43:43 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205938228011 |
-| Players | 10/15 |
+| Players | 7/15 |
 | Host Name | Kie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 09:22:59 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505205953351785 |
-| Players | 7/8 |
-| Host Name | ARCHER |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 09:51:12 |
+| Lobby ID | 28505205954480762 |
+| Players | 5/8 |
+| Host Name | ..? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 09:53:18 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205954198320 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Lizerz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 09:52:46 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ЛАЙК ПЛЗ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 09:52:56 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505205954411596 |
+| Players | 2/10 |
+| Host Name | Catador de Conchas |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 09:53:10 |
 
 
