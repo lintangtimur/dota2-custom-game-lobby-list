@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206186328933 |
-| Players | 10/15 |
-| Host Name | Good Vibes |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 6, 2023 15:56:22 |
+| Lobby ID | 28505206187338350 |
+| Players | 1/15 |
+| Host Name | I7 |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 15:57:32 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,15 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:56:45 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206187338350 |
-| Players | 1/15 |
-| Host Name | I7 |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 15:57:32 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206185603751 |
@@ -126,23 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | r |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:56:30 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28505206186019577 |
-| Players | 1/7 |
-| Host Name | Славный Котик Иут |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 15:56:01 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505206187500153 |
-| Players | 1/5 |
-| Host Name | Blood Greeting |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 6, 2023 15:57:43 |
 
 
