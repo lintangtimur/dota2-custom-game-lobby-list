@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206057043129 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | TELHIN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:55:17 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GENIUS (at 4k mmr) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 12:56:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206057844196 |
-| Players | 1/8 |
-| Host Name | Yuqi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 12:56:39 |
 
 
 |  | epic_boss_fight_normal |
