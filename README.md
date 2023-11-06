@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205955264893 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | appreciate life |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 09:54:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205957163718 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | КОЛЛЕКТОР! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 09:58:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205956774887 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Berracoso |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 09:57:30 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505205956619769 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Jakou, Buster Blader |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 09:57:13 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205956851704 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | i n sanity |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 09:57:39 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205956740618 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | In L♥ve With a Fat Pikachu =3 |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 09:57:27 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 09:58:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505205957213493 |
-| Players | 1/10 |
-| Host Name | AnYeloUruri |
+| Lobby ID | 28505205957397056 |
+| Players | 1/15 |
+| Host Name | JrY |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 09:58:18 |
+| Lobby Creation Time | Monday, November 6, 2023 09:58:39 |
 
 
 |  | epic_boss_fight_nightmare |
