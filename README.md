@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206084298556 |
-| Players | 5/15 |
+| Players | 10/15 |
 | Host Name | КаллДун |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 13:40:11 |
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 13:40:10 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206084176857 |
-| Players | 1/8 |
-| Host Name | матёрая путана |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 13:39:59 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206084189603 |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WhyBaby? |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 13:32:22 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206084443582 |
+| Players | 1/5 |
+| Host Name | 年轻人不气盛叫年轻人吗 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 13:40:24 |
 
 
