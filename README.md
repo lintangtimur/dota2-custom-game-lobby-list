@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206017911617 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 11:49:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206016807966 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Superman Pans |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 11:47:38 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206016751102 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 11:47:33 |
@@ -110,15 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 11:49:54 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206018325288 |
-| Players | 1/8 |
-| Host Name | Covid Bryant |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 11:50:16 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206015689271 |
@@ -126,6 +117,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WilifWilofWilai |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 11:45:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206018540947 |
+| Players | 2/8 |
+| Host Name | Pickle Carry |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 11:50:38 |
 
 
 |  | epic_boss_fight_nightmare |
