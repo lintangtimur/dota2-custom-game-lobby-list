@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206239634261 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | 2rik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:55:27 |
@@ -135,15 +135,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | bijou? |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 16:55:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206240682936 |
-| Players | 1/8 |
-| Host Name | Kannonbiraki Benihime Aratame |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 6, 2023 16:56:34 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -164,12 +155,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 16:55:52 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28505206240693996 |
+| Lobby ID | 28505206240720842 |
 | Players | 1/7 |
-| Host Name | Julik |
+| Host Name | Взгляни в бездну |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:56:35 |
+| Lobby Creation Time | Monday, November 6, 2023 16:56:36 |
 
 
