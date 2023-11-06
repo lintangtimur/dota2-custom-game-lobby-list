@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206107821130 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | 云海 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:15:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206108271959 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | maybe good team |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 6, 2023 14:16:23 |
@@ -67,29 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206108174456 |
-| Players | 7/8 |
-| Host Name | xXx_V/a/l/e/r/a_xXx |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 14:16:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206105570131 |
-| Players | 4/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 14:12:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28505206106649991 |
 | Players | 2/8 |
 | Host Name | анальная чехорда |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, November 6, 2023 14:14:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206105570131 |
+| Players | 3/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 14:12:29 |
 
 
 |  | epic_boss_fight_nightmare |
