@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 10:26:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28505205972490056 |
-| Players | 8/10 |
-| Host Name | Hecker |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 10:26:20 |
+| Lobby ID | 28505205972571085 |
+| Players | 10/24 |
+| Host Name | Ratatouille jr |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 10:26:29 |
 
 
 |  | ot3_jungle_quintet |
@@ -49,29 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505205973139738 |
-| Players | 14/15 |
-| Host Name | id spz gil |
+| Lobby ID | 28505205973547983 |
+| Players | 2/15 |
+| Host Name | Виктор Лесоруб |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 10:27:32 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28505205972571085 |
-| Players | 8/24 |
-| Host Name | Ratatouille jr |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:26:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505205973502065 |
-| Players | 6/8 |
-| Host Name | Solo Leveling |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 10:28:13 |
+| Lobby Creation Time | Monday, November 6, 2023 10:28:18 |
 
 
 |  | epic_boss_fight_challenger |
