@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206199838419 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Moon |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 16:11:36 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206175893473 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | KALOG |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
@@ -85,20 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206200563384 |
-| Players | 13/15 |
-| Host Name | Archyes |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 6, 2023 16:12:24 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206201357818 |
-| Players | 1/10 |
-| Host Name | Kosmos |
+| Lobby ID | 28505206201513137 |
+| Players | 1/15 |
+| Host Name | dise |
 | Region | DUBAI |
-| Lobby Creation Time | Monday, November 6, 2023 16:13:17 |
+| Lobby Creation Time | Monday, November 6, 2023 16:13:28 |
 
 
 |  | epic_boss_fight_normal |
