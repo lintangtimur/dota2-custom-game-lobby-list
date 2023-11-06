@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206117245022 |
-| Players | 1/10 |
-| Host Name | Сгущенное молоко |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 14:29:01 |
+| Lobby ID | 28505206116559927 |
+| Players | 2/10 |
+| Host Name | Diss |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 6, 2023 14:28:05 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206114589253 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 123123123123123123 |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, November 6, 2023 14:25:19 |
@@ -81,24 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BlastBeats |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:25:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206116559927 |
-| Players | 3/10 |
-| Host Name | Diss |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 6, 2023 14:28:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206117695134 |
-| Players | 6/8 |
-| Host Name | Kent |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 14:29:39 |
 
 
 |  | epic_boss_fight_nightmare |
