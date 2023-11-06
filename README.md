@@ -110,6 +110,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:54:31 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206185474344 |
+| Players | 1/8 |
+| Host Name | wh1tn3s_OPIUM |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 15:55:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206185482261 |
+| Players | 2/10 |
+| Host Name | い Aure - LBy <3 |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 15:55:24 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206184168877 |
@@ -117,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ryujiin.GG [ Buunja ] |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 15:53:52 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206185369158 |
+| Players | 4/5 |
+| Host Name | Kpa6 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 15:55:16 |
 
 
