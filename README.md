@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 12:11:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206031139151 |
-| Players | 1/8 |
-| Host Name | 0% hit rate sniper |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 6, 2023 12:11:40 |
+| Lobby ID | 28505206030272973 |
+| Players | 9/10 |
+| Host Name | Dog.animal.cat |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 12:10:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,10 +101,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 12:10:34 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206031791968 |
+| Players | 2/15 |
+| Host Name | Влад Темерев prime |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 12:12:46 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206031817072 |
+| Players | 1/10 |
+| Host Name | COVID - 19 |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 6, 2023 12:12:48 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505206030847482 |
-| Players | 3/5 |
+| Players | 4/5 |
 | Host Name | MCKY |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 12:11:11 |
@@ -117,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | La Rata Mayor |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 12:12:08 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206031812093 |
+| Players | 1/5 |
+| Host Name | Laucs |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, November 6, 2023 12:12:48 |
 
 
