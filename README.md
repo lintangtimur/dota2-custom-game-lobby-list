@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206158936288 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | CHULETA FUAKATÁ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 15:23:50 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206154515216 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | wikiped |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 15:18:17 |
@@ -103,28 +103,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206162321479 |
+| Lobby ID | 28505206162457290 |
 | Players | 2/8 |
-| Host Name | McZaur BP2022.cc |
+| Host Name | ГЛАЗ ПОПА |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 15:28:00 |
+| Lobby Creation Time | Monday, November 6, 2023 15:28:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206162472372 |
+| Players | 1/15 |
+| Host Name | Максимка фидит |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 15:28:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206162470278 |
+| Players | 1/15 |
+| Host Name | pinelopa |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 15:28:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206162461046 |
+| Players | 2/15 |
+| Host Name | ЛДД |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 15:28:10 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28505206161538240 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | TimBo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:27:02 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28505206162311082 |
-| Players | 2/7 |
-| Host Name | John Shooter |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 15:27:59 |
 
 
