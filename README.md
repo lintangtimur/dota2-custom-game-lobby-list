@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206242438811 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | я масик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:58:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206277934635 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Good Vibes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:34:04 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206279923466 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | я стреляю себе в висок |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:35:54 |
@@ -131,18 +131,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206279807987 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Доктор Курлык |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 6, 2023 17:35:48 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206280115954 |
+| Players | 1/8 |
+| Host Name | физ/мат |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 17:36:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206280136512 |
+| Players | 1/10 |
+| Host Name | ДИКИЙ БАНАН В ПОПКЕ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 17:36:06 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28505206278979739 |
-| Players | 3/7 |
+| Players | 2/7 |
 | Host Name | Äs Nödt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:35:02 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28505206277212194 |
+| Players | 4/5 |
+| Host Name | Harmi         AfK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 17:33:25 |
 
 
