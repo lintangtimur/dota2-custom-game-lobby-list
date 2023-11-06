@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206268997458 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Uglyродыч |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 17:25:35 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206268875905 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | painis in da azz |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 6, 2023 17:25:28 |
@@ -83,30 +83,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 17:24:26 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206269374597 |
+| Players | 2/8 |
+| Host Name | wendy syndrome |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 17:25:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206264918215 |
+| Players | 4/8 |
+| Host Name | LASQUTI |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 17:21:37 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206269316190 |
-| Players | 1/15 |
-| Host Name | Natus Vinci |
+| Lobby ID | 28505206241480141 |
+| Players | 12/15 |
+| Host Name | BrölBröl |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:25:54 |
+| Lobby Creation Time | Monday, November 6, 2023 16:57:25 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206267978148 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | wdym |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 17:24:36 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505206269272581 |
-| Players | 1/5 |
-| Host Name | Хельмрак |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:25:52 |
 
 
