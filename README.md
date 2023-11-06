@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206228423205 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Carey Mahoney |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 16:43:33 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206223815938 |
-| Players | 7/15 |
-| Host Name | Prodigy |
+| Players | 5/15 |
+| Host Name | Perrochino |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 16:38:32 |
 
@@ -104,9 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206228865420 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Страдаю в готане на хардкоре |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 16:44:02 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28505206229136120 |
+| Players | 1/10 |
+| Host Name | Mental Breakdown |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 6, 2023 16:44:19 |
 
 
