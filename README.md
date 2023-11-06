@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206175893473 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | KALOG |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 15:44:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206212693839 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 16:26:05 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206216023168 |
-| Players | 7/10 |
-| Host Name | Delirium |
+| Lobby ID | 28505206216231830 |
+| Players | 5/10 |
+| Host Name | Упал, отжался! |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:29:52 |
+| Lobby Creation Time | Monday, November 6, 2023 16:30:06 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206212669256 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 16:26:04 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206214965999 |
-| Players | 5/8 |
-| Host Name | 死 |
+| Players | 4/8 |
+| Host Name | JuicyArbyzik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:28:39 |
 
@@ -104,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206216112556 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Десантный кораблb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 16:29:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206216231830 |
-| Players | 5/10 |
-| Host Name | Упал, отжался! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 16:30:06 |
 
 
 |  | epic_boss_fight_normal |
