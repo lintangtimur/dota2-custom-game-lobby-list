@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505205996342048 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Йаcobs monarch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:11:27 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505205996107330 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Чернейшая из Душ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:11:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505205996309194 |
-| Players | 1/15 |
-| Host Name | Quagmire |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 11:11:24 |
+| Lobby ID | 28505205996410043 |
+| Players | 3/10 |
+| Host Name | Pickle Carry |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 11:11:35 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505205995917733 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | The Indomitable Human Spirit |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 6, 2023 11:10:39 |
@@ -49,11 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505205996169306 |
-| Players | 1/15 |
+| Lobby ID | 28505205996381710 |
+| Players | 2/15 |
 | Host Name | NoMercy |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 11:11:08 |
+| Lobby Creation Time | Monday, November 6, 2023 11:11:32 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28505205996424243 |
+| Players | 1/24 |
+| Host Name | γηΩσ/בר-אבא |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 11:11:36 |
 
 
 |  | epic_boss_fight_nightmare |
