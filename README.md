@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206124158143 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | i need passion for everything |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:38:34 |
@@ -119,42 +119,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 14:39:45 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206125578173 |
-| Players | 1/10 |
-| Host Name | Smokey_Samurai |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 14:40:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206125758643 |
-| Players | 6/10 |
-| Host Name | ГРУСТНЫЙ ЭМОБОЙЧИК;( |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 14:40:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206125895485 |
-| Players | 2/8 |
-| Host Name | Негрошай |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 6, 2023 14:40:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28505206124723380 |
-| Players | 14/15 |
-| Host Name | Parkur TV |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 14:39:19 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206125964020 |
@@ -162,6 +126,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | мефедрончик228 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:40:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28505206125758643 |
+| Players | 8/10 |
+| Host Name | ГРУСТНЫЙ ЭМОБОЙЧИК;( |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 6, 2023 14:40:43 |
 
 
 |  | epic_boss_fight_nightmare |
