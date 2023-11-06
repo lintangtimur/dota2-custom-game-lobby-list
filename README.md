@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28505206761100353 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | FoXy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 22:22:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206746515569 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Remiferia |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 22:13:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206753259745 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | paranoid |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 22:17:42 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 21:33:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206759179224 |
-| Players | 6/8 |
-| Host Name | D4C |
+| Lobby ID | 28505206761165930 |
+| Players | 5/10 |
+| Host Name | GANIBALL |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 22:21:03 |
+| Lobby Creation Time | Monday, November 6, 2023 22:22:11 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206746223943 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | qwer123 |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 6, 2023 22:13:43 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206752966966 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | real human bean |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 22:17:32 |
@@ -128,13 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 22:17:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206761057309 |
-| Players | 2/8 |
-| Host Name | BoNeS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 22:22:08 |
+| Lobby ID | 28505206761179563 |
+| Players | 1/10 |
+| Host Name | SHAKAツ |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 6, 2023 22:22:12 |
 
 
 |  | ot3_jungle_quintet |
@@ -155,13 +155,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 22:17:38 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28505206761363487 |
+| Players | 3/15 |
+| Host Name | ГромоГусь |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 22:22:18 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28505206761165930 |
-| Players | 1/10 |
-| Host Name | GANIBALL |
+| Lobby ID | 28505206761334896 |
+| Players | 2/10 |
+| Host Name | uselessuselessuselessuseless |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 22:22:11 |
+| Lobby Creation Time | Monday, November 6, 2023 22:22:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206761474209 |
+| Players | 1/8 |
+| Host Name | skkkkkkr |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 22:22:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28505206758487761 |
+| Players | 6/8 |
+| Host Name | Bokeh |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 6, 2023 22:20:40 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -189,14 +216,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | i lost |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 22:22:08 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28505206761139357 |
-| Players | 1/5 |
-| Host Name | < blank > |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 22:22:11 |
 
 
