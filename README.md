@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206124077604 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Good Vibes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:38:27 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206124158143 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | i need passion for everything |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 14:38:34 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206124197411 |
-| Players | 5/8 |
-| Host Name | ★MMXVII |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 14:38:37 |
+| Lobby ID | 28505206124508224 |
+| Players | 4/8 |
+| Host Name | 123123123123123123 |
+| Region | AUSTRIA |
+| Lobby Creation Time | Monday, November 6, 2023 14:39:02 |
 
 
 |  | ot3_necropolis_ffa |
