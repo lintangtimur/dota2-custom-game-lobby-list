@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206148068115 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Qusiks |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 6, 2023 15:10:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206144761000 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 15:06:09 |
@@ -74,40 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 15:05:20 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206146771354 |
-| Players | 1/8 |
-| Host Name | доDick |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 6, 2023 15:08:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28505206147653393 |
-| Players | 4/8 |
-| Host Name | спектрофотометр |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 15:09:41 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206148318251 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Сигма |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:10:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28505206148360144 |
-| Players | 1/15 |
-| Host Name | 4everLowPriority :: space_bear74 |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 6, 2023 15:10:33 |
+| Lobby ID | 28505206147653393 |
+| Players | 6/8 |
+| Host Name | спектрофотометр |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 6, 2023 15:09:41 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206148178493 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | KNИggA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 15:10:20 |
