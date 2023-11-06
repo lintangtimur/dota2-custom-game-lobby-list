@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206104901735 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Grift |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 14:11:30 |
@@ -104,8 +104,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206106142111 |
-| Players | 2/10 |
-| Host Name | Ἑκατόγχειρες |
+| Players | 1/10 |
+| Host Name | Just subscribe for Linda H |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 6, 2023 14:13:20 |
 
