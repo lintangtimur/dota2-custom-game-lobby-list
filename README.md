@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206001665169 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | DN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 11:21:19 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206003087167 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Jakou, Buster Blader |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 6, 2023 11:23:52 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206001955194 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Fadealy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 6, 2023 11:21:50 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206002212439 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | wanderer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 11:22:18 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28505206002534441 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Duck My Sick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 6, 2023 11:22:53 |
