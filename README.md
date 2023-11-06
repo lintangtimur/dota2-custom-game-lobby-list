@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28505206297619927 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Mr. Чел |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:51:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28505206305907018 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | (ノ_<、) |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, November 6, 2023 17:58:30 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28505206304166200 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | Doctor Billy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 6, 2023 17:57:02 |
@@ -92,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 6, 2023 17:58:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28505206306056631 |
-| Players | 6/8 |
-| Host Name | Almaz_241系フpainフ系 |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 6, 2023 17:58:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28505206302365210 |
-| Players | 8/10 |
-| Host Name | Данарка енджоер |
+| Lobby ID | 28505206274782994 |
+| Players | 5/15 |
+| Host Name | Mademoiselle |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 6, 2023 17:55:30 |
+| Lobby Creation Time | Monday, November 6, 2023 17:31:09 |
 
 
 |  | epic_boss_fight_challenger |
