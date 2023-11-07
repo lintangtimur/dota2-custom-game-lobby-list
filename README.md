@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509607394747714 |
-| Players | 6/15 |
-| Host Name | 暁 | <3 leler |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 00:11:56 |
+| Lobby ID | 28509607395037312 |
+| Players | 2/10 |
+| Host Name | I coulda glowed |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 8, 2023 00:12:11 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607394037112 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 00:11:18 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 00:11:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509607394665740 |
-| Players | 2/10 |
-| Host Name | oligofriend[GR] |
+| Lobby ID | 28509607395083046 |
+| Players | 1/8 |
+| Host Name | ToughSpirit |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 00:11:51 |
+| Lobby Creation Time | Wednesday, November 8, 2023 00:12:13 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509607394914001 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | землекоп антон |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 00:12:04 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509607394221378 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | MAPACHE_$INC0LA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 00:11:28 |
@@ -135,6 +135,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RON |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 00:05:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509607394972908 |
+| Players | 2/10 |
+| Host Name | UnclePecos |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 00:12:07 |
 
 
 |  | epic_boss_fight_normal |
