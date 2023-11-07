@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606773268926 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | FaiNt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:14:47 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606773192856 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | polygamyenjoyer69 |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:14:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606770488609 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:10:52 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 16:14:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606773444134 |
-| Players | 1/8 |
-| Host Name | Ни дня без дрочки |
+| Lobby ID | 28509606771743828 |
+| Players | 7/10 |
+| Host Name | Deadline |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:15:02 |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:12:39 |
 
 
 |  | ot3_jungle_quintet |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Wellar^^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:15:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606773481879 |
-| Players | 2/8 |
-| Host Name | morphine. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:15:05 |
 
 
 |  | ot3_gardens_duo |
