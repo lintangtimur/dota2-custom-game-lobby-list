@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606876353372 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Shamplo_o |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 7, 2023 18:17:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606874944439 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | DOODLES |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 18:16:30 |
@@ -58,38 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606875591020 |
-| Players | 4/8 |
-| Host Name | UwU |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 18:17:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606876094575 |
-| Players | 5/15 |
-| Host Name | ☯ Quiche™ |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 18:17:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606876342190 |
+| Lobby ID | 28509606877191887 |
 | Players | 1/8 |
-| Host Name | BiryuleVsKy_KoT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 18:17:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606876915589 |
-| Players | 2/10 |
-| Host Name | 1ava |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 7, 2023 18:18:21 |
+| Host Name | Legend[S.L.L] |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:18:36 |
 
 
 |  | ot3_gardens_duo |
@@ -99,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ухахабл трахнбл |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 18:18:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606877212157 |
+| Players | 2/8 |
+| Host Name | BiryuleVsKy_KoT |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:18:37 |
 
 
 |  | epic_boss_fight_nightmare |
