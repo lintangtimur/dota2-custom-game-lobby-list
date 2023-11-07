@@ -22,38 +22,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606731173879 |
-| Players | 14/15 |
-| Host Name | начальница карты |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:14:26 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606731852427 |
-| Players | 2/24 |
-| Host Name | I'm Eating Pusxy Like it's oreos |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:15:25 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606731923361 |
-| Players | 7/8 |
-| Host Name | Absolute |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:15:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28509606732127676 |
 | Players | 4/15 |
 | Host Name | volodyaツ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:15:49 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606731852427 |
+| Players | 4/24 |
+| Host Name | I'm Eating Pusxy Like it's oreos |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:15:25 |
 
 
 |  | ot3_jungle_quintet |
@@ -63,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | JustStop |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:16:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606732670983 |
+| Players | 1/8 |
+| Host Name | Memorize |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:16:36 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606731910196 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Next |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:15:30 |
