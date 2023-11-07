@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606734934921 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Sangu Alus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:19:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606734756127 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Review旧人 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:19:38 |
@@ -119,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 15:22:53 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28509606737233664 |
-| Players | 1/5 |
-| Host Name | КМС ПО МАМКАМ |
-| Region | AUSTRIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:23:16 |
+| Lobby ID | 28509606737488949 |
+| Players | 1/7 |
+| Host Name | Ai Hoshino |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:23:38 |
 
 
