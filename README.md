@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606706750555 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Thug Life |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:37:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606709562919 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Odinn |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:41:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606706755696 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Jane.A7x |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:37:35 |
@@ -83,10 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 14:42:17 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606704372969 |
+| Players | 8/15 |
+| Host Name | prefiero perder cagandola yo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:33:54 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606705684588 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Белый |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:35:55 |
