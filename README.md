@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606745870890 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | SPLINTER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:35:52 |
@@ -23,19 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606746310731 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Mouches Volantes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:36:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606746260018 |
-| Players | 7/8 |
-| Host Name | 雨 |
-| Region | AUSTRIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:36:26 |
 
 
 |  | ot3_jungle_quintet |
