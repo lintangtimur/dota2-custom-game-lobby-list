@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606884695475 |
-| Players | 7/10 |
+| Players | 4/10 |
 | Host Name | я в аду |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 18:25:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606884000392 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | ALOE (LFT) |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 18:24:48 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606883710564 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ТИММЕЙТ МЕЧТЫ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 18:24:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509606885941638 |
+| Players | 2/10 |
+| Host Name | ♏ リアス・グレモリー |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:26:31 |
 
 
 |  | epic_boss_fight_challenger |
