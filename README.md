@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177003177882 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | BISCUIT OLIVA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:19:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511177007549480 |
-| Players | 14/15 |
-| Host Name | 匚尺ム乙ㄚ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:29:03 |
+| Lobby ID | 28511177008522888 |
+| Players | 3/24 |
+| Host Name | DrDisconnect |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:31:20 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177007794209 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | El Diferente |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:29:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177007898106 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Regeneration Rune |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:29:52 |
@@ -74,21 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 06:30:30 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511177008522888 |
-| Players | 3/24 |
-| Host Name | DrDisconnect |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:31:20 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511177004159293 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Rho ;3 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:21:24 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28511177008768528 |
+| Players | 1/7 |
+| Host Name | -GeOz- |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:31:55 |
 
 
