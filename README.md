@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606988453491 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | ZДРАVСТVУЙ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:43:52 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606985826315 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | romchyg |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:42:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606986857041 |
-| Players | 12/15 |
-| Host Name | Anti |
+| Lobby ID | 28509606989024030 |
+| Players | 2/10 |
+| Host Name | Beetlejuice |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:42:50 |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:44:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 19:43:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606988220272 |
-| Players | 8/10 |
-| Host Name | Режу вены |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:43:43 |
+| Lobby ID | 28509606977245201 |
+| Players | 12/24 |
+| Host Name | 半夜蹲墙角 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:36:30 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,19 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606988393322 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | SweetheartYuki |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:43:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606988511815 |
-| Players | 1/10 |
-| Host Name | IIIIIIIIIIIIIIIIII |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:43:55 |
+| Lobby ID | 28509606983156119 |
+| Players | 3/15 |
+| Host Name | Буйство! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:40:26 |
 
 
 |  | ot3_desert_octet |
@@ -137,40 +137,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 19:44:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606988893007 |
-| Players | 2/8 |
-| Host Name | dampir |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:44:09 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28509606987556644 |
-| Players | 1/5 |
-| Host Name | WHAT NOT TO DO IN DOTA2 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:43:17 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28509606962448203 |
-| Players | 6/7 |
-| Host Name | . |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:26:21 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28509606987502755 |
-| Players | 3/7 |
-| Host Name | EMPERATOOR_No1 |
+| Lobby ID | 28509606967598911 |
+| Players | 4/15 |
+| Host Name | vsmpzd |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:43:15 |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:29:55 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -191,12 +164,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 19:42:00 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28509606985115611 |
-| Players | 9/10 |
-| Host Name | heheehe |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:41:42 |
+| Lobby ID | 28509606987502755 |
+| Players | 4/7 |
+| Host Name | EMPERATOOR_No1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:43:15 |
 
 
