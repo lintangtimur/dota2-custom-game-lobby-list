@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606672893222 |
-| Players | 20/24 |
+| Players | 18/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:41:48 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606685389761 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Atlas_Atlantis |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:03:22 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606681044927 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | hi |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:56:01 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 14:04:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606685785479 |
-| Players | 7/8 |
-| Host Name | Жүгірмек |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:04:02 |
+| Lobby ID | 28509606685895464 |
+| Players | 1/15 |
+| Host Name | 100 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:04:13 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,22 +83,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 14:03:46 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606686771320 |
+| Players | 1/24 |
+| Host Name | wikiped |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:05:40 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606685895464 |
-| Players | 1/15 |
-| Host Name | 100 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:04:13 |
+| Lobby ID | 28509606684393960 |
+| Players | 12/15 |
+| Host Name | Reddy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:01:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606686055942 |
-| Players | 1/8 |
-| Host Name | T-BONE |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:04:29 |
+| Lobby ID | 28509606686793482 |
+| Players | 1/24 |
+| Host Name | Chloe Grace Moretz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:05:43 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606686807335 |
+| Players | 1/24 |
+| Host Name | ICaNsEEu ? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:05:44 |
 
 
 |  | epic_boss_fight_nightmare |
