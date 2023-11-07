@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606544546507 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | NENEK PEYOT PDIP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:38:34 |
@@ -101,13 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 09:53:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606552406977 |
-| Players | 2/10 |
-| Host Name | aaa |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:53:21 |
+| Lobby ID | 28509606552479566 |
+| Players | 1/24 |
+| Host Name | MTH |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:53:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606552494109 |
+| Players | 1/8 |
+| Host Name | Alevanoff |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:53:31 |
 
 
 |  | epic_boss_fight_nightmare |
