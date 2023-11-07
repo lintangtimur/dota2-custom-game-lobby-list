@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606671746223 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Algo como un día libre |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:39:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606672893222 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:41:48 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606672141601 |
-| Players | 23/24 |
-| Host Name | EN MATEMÁTICA , YO PARO CEREBRO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:40:27 |
+| Lobby ID | 28509606673947853 |
+| Players | 15/24 |
+| Host Name | Chloe Grace Moretz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:43:41 |
 
 
 |  | ot3_jungle_quintet |
@@ -69,27 +69,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28509606673488598 |
 | Players | 6/8 |
-| Host Name | 年輕的惡魔 |
+| Host Name | //////// |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:42:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606673854177 |
-| Players | 1/24 |
-| Host Name | Black Raven |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:43:31 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606673947853 |
-| Players | 12/24 |
-| Host Name | Chloe Grace Moretz |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:43:41 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 13:43:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606672171321 |
-| Players | 14/15 |
-| Host Name | UNИAMED |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:40:30 |
+| Lobby ID | 28509606674600699 |
+| Players | 1/8 |
+| Host Name | 123 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:44:50 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606671011944 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | ► Good gay, noob played |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:38:25 |
