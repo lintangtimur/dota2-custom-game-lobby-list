@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509607147600911 |
-| Players | 5/10 |
-| Host Name | wgTSDF |
+| Lobby ID | 28509607150046753 |
+| Players | 1/10 |
+| Host Name | Krxst |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 21:19:32 |
+| Lobby Creation Time | Tuesday, November 7, 2023 21:20:57 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606963500384 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | q rico aprieta tu germa mano |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:27:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509607147255938 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Мэри Джейн |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 21:19:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509607148675021 |
-| Players | 1/8 |
+| Players | 7/8 |
 | Host Name | Tokyo Esperion |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 21:20:10 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607144349519 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | RUSSIAN POWER Z |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 21:17:40 |
@@ -131,10 +131,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607123205610 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | SaSSanja |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 21:05:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509607149972963 |
+| Players | 1/15 |
+| Host Name | Майор_Пейн |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, November 7, 2023 21:20:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509607150027546 |
+| Players | 5/8 |
+| Host Name | Аня (Фотограф) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 21:20:56 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509607142895480 |
+| Players | 22/24 |
+| Host Name | Kermit Da Frog |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 7, 2023 21:16:49 |
 
 
 |  | epic_boss_fight_normal |
