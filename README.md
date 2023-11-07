@@ -11,22 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 10:42:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606579136480 |
-| Players | 13/15 |
-| Host Name | JamesPepper |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:43:32 |
+| Lobby ID | 28509606580489726 |
+| Players | 2/24 |
+| Host Name | Lose |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:46:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606580366094 |
-| Players | 7/8 |
-| Host Name | JUANITO ALIMAÑA |
+| Lobby ID | 28509606580529723 |
+| Players | 1/24 |
+| Host Name | Varian Wrynn |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:45:54 |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:46:13 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,15 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 10:46:02 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606580489726 |
-| Players | 2/24 |
-| Host Name | Lose |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:46:08 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606578414128 |
@@ -63,14 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nirvana |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:42:10 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28509606580110936 |
-| Players | 1/5 |
-| Host Name | BUCKINGHAM |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:45:25 |
 
 
