@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606915807634 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Vujketa |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 18:51:25 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606916605396 |
-| Players | 3/24 |
-| Host Name | whole lotta motion |
+| Players | 1/24 |
+| Host Name | NENEK PEYOT PDIP |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 7, 2023 18:52:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606916360522 |
-| Players | 14/15 |
-| Host Name | Dr. Strange where rampage |
+| Lobby ID | 28509606917671893 |
+| Players | 8/10 |
+| Host Name | Marshal1 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 18:51:51 |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:52:52 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606909115902 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | 13-137 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 18:46:04 |
@@ -101,13 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 18:52:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606917671893 |
-| Players | 2/10 |
-| Host Name | Marshal1 |
+| Lobby ID | 28509606904019193 |
+| Players | 8/15 |
+| Host Name | шконка карка и па |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 18:52:52 |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:41:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606917986829 |
+| Players | 5/8 |
+| Host Name | mt_bcs_txc |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:53:06 |
 
 
 |  | epic_boss_fight_nightmare |
