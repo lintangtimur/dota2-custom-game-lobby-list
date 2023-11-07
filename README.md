@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606722823015 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | not quite my tempo |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:02:01 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606723966426 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Addictife |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:03:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606711103343 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | MAGA |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:44:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606718508225 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:55:21 |
@@ -67,17 +67,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606725286728 |
-| Players | 1/15 |
-| Host Name | iTzpaCk1; |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:05:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28509606725668000 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Waste |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:06:16 |
@@ -85,20 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606725704025 |
-| Players | 4/8 |
-| Host Name | 死 |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:06:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606725716228 |
+| Lobby ID | 28509606725813800 |
 | Players | 1/8 |
-| Host Name | OK I PULL UP |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:06:21 |
+| Host Name | клюква |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:06:29 |
 
 
 |  | epic_boss_fight_nightmare |
