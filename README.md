@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606585550283 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Netske |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:56:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606584829909 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | if you can? |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:54:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606585333096 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Paul Thomas Anderson |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:55:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606585022954 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Qin Shi Huang |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:55:00 |
@@ -77,9 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606585441834 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | lupanamaingatrasa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:55:51 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28509606585668348 |
+| Players | 1/5 |
+| Host Name | KIRITO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:56:17 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28509606585713307 |
+| Players | 2/7 |
+| Host Name | Maniaco das armas no chão |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:56:22 |
 
 
