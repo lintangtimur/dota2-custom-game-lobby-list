@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 11:25:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606600076356 |
-| Players | 1/8 |
-| Host Name | kekkon dekinai otoko |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:24:24 |
+| Lobby ID | 28509606604181470 |
+| Players | 6/10 |
+| Host Name | TaKiT0 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:32:18 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606601028614 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Catbug |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:26:12 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606601452418 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:27:01 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606603599234 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | LESKA 14 |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:31:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606604181470 |
-| Players | 6/10 |
-| Host Name | TaKiT0 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:32:18 |
+| Lobby ID | 28509606604505875 |
+| Players | 3/24 |
+| Host Name | Little |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:32:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -105,7 +105,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28509606599632098 |
 | Players | 4/10 |
-| Host Name | Lexxiz |
+| Host Name | senzashima |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:23:34 |
 
