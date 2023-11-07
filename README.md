@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606587489299 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | DragonBack |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:59:54 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 11:00:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606587982903 |
-| Players | 13/15 |
-| Host Name | duknoken |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:01:00 |
+| Lobby ID | 28509606586960300 |
+| Players | 2/24 |
+| Host Name | Capitulum Mitella |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:58:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606588880214 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Stunning Garry |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:02:49 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606586960300 |
-| Players | 2/24 |
-| Host Name | Capitulum Mitella |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:58:51 |
 
 
 |  | epic_boss_fight_nightmare |
