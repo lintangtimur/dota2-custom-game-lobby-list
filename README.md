@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606713963122 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | eleskovic^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:48:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606705807030 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:36:07 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606710993138 |
-| Players | 8/15 |
-| Host Name | OverFlown |
+| Players | 1/15 |
+| Host Name | GiacobE |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:44:03 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606714179705 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | METADON USER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:48:50 |
@@ -74,31 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 14:47:35 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606711995337 |
-| Players | 16/24 |
-| Host Name | Chloe Grace Moretz |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:45:33 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606714076342 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | _-_ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:48:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606711688325 |
-| Players | 14/15 |
-| Host Name | EL STEFANO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:45:06 |
+| Lobby ID | 28509606714895339 |
+| Players | 1/24 |
+| Host Name | Castoria |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:49:55 |
 
 
 |  | epic_boss_fight_nightmare |
