@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606714340430 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Писятдва |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:49:05 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606714179705 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | METADON USER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:48:50 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | hate everyone who look at me |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:50:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606715262890 |
+| Players | 2/8 |
+| Host Name | satoru gojo |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:50:29 |
 
 
 |  | epic_boss_fight_nightmare |
