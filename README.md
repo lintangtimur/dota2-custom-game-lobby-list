@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606573948613 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Jarod Tu Terrror :v |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:33:40 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606574821757 |
-| Players | 3/10 |
-| Host Name | Salchipapa♥♥♥ |
+| Players | 4/10 |
+| Host Name | XCLARAX |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:35:18 |
 
@@ -54,14 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | :) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:35:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606576822369 |
-| Players | 1/8 |
-| Host Name | LALATROLA giordota.com |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:39:06 |
 
 
