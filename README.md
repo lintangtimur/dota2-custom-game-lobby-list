@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607581024519 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Себа сина псина |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 8, 2023 03:33:21 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607651779059 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | ¥₹ DeMoNiC ◢ ◤ ﷼§ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 05:28:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509607652110291 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 05:29:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607651110143 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | Ｍｒ． Ｒｏｂｏｔ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 05:27:39 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509607651664832 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | DeepThroat the Boot! SNACkGod |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 05:28:44 |
@@ -94,11 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509607651298596 |
-| Players | 8/10 |
-| Host Name | Ryszard Kowalski |
+| Lobby ID | 28509607652459053 |
+| Players | 6/10 |
+| Host Name | Жаби Жаби |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 05:28:01 |
+| Lobby Creation Time | Wednesday, November 8, 2023 05:30:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509607652491228 |
+| Players | 1/15 |
+| Host Name | Papaschlumpfffff |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 8, 2023 05:30:20 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509607649800256 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | k. Danger-Zone |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 05:25:07 |
