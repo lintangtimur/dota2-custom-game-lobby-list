@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606733856001 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Patrick_oO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:18:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606731852427 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | I'm Eating Pusxy Like it's oreos |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:15:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606731173879 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | Druvee |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:14:26 |
@@ -67,15 +67,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606734180449 |
-| Players | 1/8 |
-| Host Name | pray for daxak |
-| Region | AUSTRIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:18:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28509606734175272 |
 | Players | 3/8 |
 | Host Name | …noname… |
@@ -83,19 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 15:18:47 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606734190266 |
-| Players | 1/8 |
-| Host Name | Tryhard |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:18:48 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606733236270 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | biubiubiup |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:17:26 |
