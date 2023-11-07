@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606767134320 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | sonic |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:06:08 |
@@ -20,30 +20,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 16:03:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606765459608 |
-| Players | 3/8 |
-| Host Name | Плита) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:03:46 |
+| Lobby ID | 28509606767192416 |
+| Players | 1/10 |
+| Host Name | trollface |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:06:13 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606767112789 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | madmanmoon |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:06:06 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28509606762722359 |
-| Players | 8/10 |
-| Host Name | cant talk with animals |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:59:49 |
 
 
