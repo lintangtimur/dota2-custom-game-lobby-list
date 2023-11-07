@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606618809977 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Ba bo baba |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:00:09 |
@@ -38,24 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 12:02:28 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606618147737 |
-| Players | 14/15 |
-| Host Name | Discipline |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:58:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606619688740 |
-| Players | 5/8 |
-| Host Name | BomBiTa |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:01:50 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606619042705 |
@@ -65,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 12:00:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606620229437 |
-| Players | 1/15 |
-| Host Name | drowrang3r |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:02:51 |
+| Lobby ID | 28509606619688740 |
+| Players | 6/8 |
+| Host Name | BomBiTa |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 12:01:50 |
 
 
 |  | epic_boss_fight_nightmare |
