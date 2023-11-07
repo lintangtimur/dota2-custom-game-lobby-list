@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606592395567 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Arcade Gannon |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:09:48 |
@@ -59,25 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606593022361 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | RedRodry |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:11:01 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606592552536 |
-| Players | 2/10 |
-| Host Name | Ndrezy |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:10:06 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606593335772 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | juliale |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:11:37 |
@@ -90,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ► Good gay, noob played |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:10:15 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28509606593424122 |
-| Players | 1/5 |
-| Host Name | 左炎 |
-| Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:11:47 |
 
 
