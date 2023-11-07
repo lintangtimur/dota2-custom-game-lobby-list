@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606720365177 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Ligma |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:58:10 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606718508225 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:55:21 |
@@ -58,20 +58,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606720632168 |
-| Players | 1/10 |
-| Host Name | Ломаю Лица |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:58:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28509606720696268 |
 | Players | 1/10 |
 | Host Name | hellopupsik |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:58:40 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509606720904424 |
+| Players | 1/10 |
+| Host Name | Ломаю Лица |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:58:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509606720947453 |
+| Players | 2/10 |
+| Host Name | Never mind |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:59:03 |
 
 
 |  | epic_boss_fight_nightmare |
