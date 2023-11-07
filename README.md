@@ -50,16 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606766446992 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Фастум гей |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:05:10 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606766904982 |
+| Players | 2/15 |
+| Host Name | GG.--GuStaV-- |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:05:49 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606762722359 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | cant talk with animals |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:59:49 |
@@ -67,19 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28509606766796751 |
+| Lobby ID | 28509606766945809 |
 | Players | 1/5 |
 | Host Name | Hash!moTo |
 | Region | AUSTRIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:05:40 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28509606766809756 |
-| Players | 1/7 |
-| Host Name | losituta |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:05:41 |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:05:52 |
 
 
