@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606774075652 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Damaroo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:15:55 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606773303396 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | MilF-HanteR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:14:50 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606773499362 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | mode:Demon1 |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:15:06 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606774945139 |
+| Lobby ID | 28509606775081257 |
 | Players | 1/24 |
-| Host Name | Dr Tazerenix |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:17:08 |
+| Host Name | PIMBA |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:17:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SunnY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:15:03 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28509606775071704 |
+| Players | 1/10 |
+| Host Name | Zelest |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:17:19 |
 
 
