@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606567446345 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Help me carry these animals! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:21:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606575046124 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Oledzhinal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:35:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606575170692 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | :) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:35:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606575989923 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | - |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:37:31 |
@@ -83,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 10:37:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606576042305 |
-| Players | 1/15 |
-| Host Name | CLY |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:37:37 |
+| Lobby ID | 28509606576134212 |
+| Players | 1/10 |
+| Host Name | Tu Terror |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:37:48 |
 
 
