@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606805919707 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Pandora's Actor™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:59:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606807159632 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 【﻿DESpAIR】 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:00:49 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606801819787 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | FeeZy |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:53:42 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606806145917 |
-| Players | 1/8 |
-| Host Name | Папучи Винициано |
+| Lobby ID | 28509606804845957 |
+| Players | 8/8 |
+| Host Name | lasthit practitioner |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:59:26 |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:57:43 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606806782263 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Pelo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:00:18 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606796429412 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | airMAXIS |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:46:28 |
@@ -94,11 +94,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606804845957 |
-| Players | 8/8 |
-| Host Name | lasthit practitioner |
+| Lobby ID | 28509606807915457 |
+| Players | 3/8 |
+| Host Name | chansito |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:01:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606808297415 |
+| Players | 2/15 |
+| Host Name | IvanZolo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:57:43 |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:02:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606808305490 |
+| Players | 1/8 |
+| Host Name | Jane.A7x |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:02:21 |
 
 
 |  | epic_boss_fight_nightmare |
