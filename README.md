@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607321977109 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Red |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 23:11:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607321441663 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Chupete |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 23:10:54 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607317404293 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | X-ART |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 7, 2023 23:07:48 |
@@ -121,11 +121,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509607323554348 |
+| Lobby ID | 28509607323641361 |
 | Players | 1/8 |
-| Host Name | zahar03092015 |
-| Region | AUSTRIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 23:12:33 |
+| Host Name | я конченый джигит |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 23:12:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509607323670136 |
+| Players | 1/8 |
+| Host Name | 伸筋 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 7, 2023 23:12:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509607323810066 |
+| Players | 1/15 |
+| Host Name | Ｍｉｌｌｙ ★ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 23:12:46 |
 
 
 |  | epic_boss_fight_normal |
@@ -158,7 +176,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509607323453677 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | свиня джакузі |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 23:12:29 |
