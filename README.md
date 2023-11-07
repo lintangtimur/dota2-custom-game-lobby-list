@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606552479566 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | MTH |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:53:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606552304712 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | busco el ban para dejar el dota |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:53:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606554690042 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | execute all smurfs |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:57:32 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 09:53:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606554762427 |
-| Players | 6/15 |
-| Host Name | Jordy Cage |
+| Lobby ID | 28509606554925796 |
+| Players | 5/8 |
+| Host Name | D8FTW! CryMua |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:57:40 |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:57:58 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606554556083 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | GraF044 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:57:17 |
@@ -101,19 +101,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 09:57:38 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606554925796 |
-| Players | 2/8 |
-| Host Name | D8FTW! CryMua |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:57:58 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606554781447 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ikun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:57:42 |
