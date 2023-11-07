@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606922158624 |
-| Players | 14/15 |
-| Host Name | Grot |
+| Lobby ID | 28509606939562468 |
+| Players | 2/15 |
+| Host Name | Anti |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 18:56:20 |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:09:48 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,19 +68,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606939561045 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | порядочный |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:09:47 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509606936510199 |
+| Players | 6/10 |
+| Host Name | 艀裲艇艀裲艇艀裲艇艀 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:07:29 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606939562468 |
-| Players | 2/15 |
-| Host Name | Anti |
+| Lobby ID | 28509606932527261 |
+| Players | 13/15 |
+| Host Name | Kot Kommunist |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:09:48 |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:04:24 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606930492038 |
+| Players | 11/15 |
+| Host Name | 1ava |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:02:49 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 随机牛 |
 | Region | PWTELECOMGUANGZHOU |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:09:45 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28509606939773753 |
-| Players | 2/7 |
-| Host Name | WOL_STV |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:09:57 |
 
 
