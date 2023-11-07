@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606535727930 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Bajador de Pepa Profesional |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:21:21 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606535573082 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Fisumbr |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:21:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606534935981 |
-| Players | 7/8 |
-| Host Name | pothead |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:19:45 |
+| Lobby ID | 28509606536319310 |
+| Players | 6/15 |
+| Host Name | 𝖜𝖆𝖋𝖋𝖑𝖊𝖘 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:22:33 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606536003847 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ashiro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:21:55 |
@@ -113,19 +113,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606536090704 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | tired |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:22:05 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606533621365 |
-| Players | 9/10 |
-| Host Name | ..............,,,,,,,,, |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:17:04 |
+| Lobby ID | 28509606536357672 |
+| Players | 3/10 |
+| Host Name | DPS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:22:37 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606536363586 |
+| Players | 2/15 |
+| Host Name | Eldarion |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:22:38 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606536363397 |
+| Players | 2/15 |
+| Host Name | Mardin |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:22:38 |
 
 
 |  | epic_boss_fight_normal |
