@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606552479566 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | MTH |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:53:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606554690042 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | execute all smurfs |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:57:32 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606544546507 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | NENEK PEYOT PDIP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:38:34 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606555319678 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | DragonBack |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:58:42 |
@@ -103,35 +103,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606555467823 |
-| Players | 4/8 |
-| Host Name | nissinwafer |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:58:59 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606550872304 |
-| Players | 23/24 |
-| Host Name | FG k3 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:50:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606555535855 |
-| Players | 5/15 |
-| Host Name | Habits |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:59:06 |
+| Lobby ID | 28509606555642025 |
+| Players | 2/8 |
+| Host Name | 爱 |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:59:18 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606554781447 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | ikun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:57:42 |
