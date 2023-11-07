@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606985143268 |
-| Players | 11/24 |
-| Host Name | Darkberry |
+| Players | 10/24 |
+| Host Name | datu_MAHABARATBU |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:41:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606992631480 |
-| Players | 13/15 |
-| Host Name | persikoviyles |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:46:35 |
+| Lobby ID | 28509606989896954 |
+| Players | 4/24 |
+| Host Name | Chloe Grace Moretz |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:44:49 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606989024030 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | panço |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:44:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606992540036 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | xeltul |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:46:31 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606977245201 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | 半夜蹲墙角 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:36:30 |
@@ -95,37 +95,64 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606967598911 |
-| Players | 2/15 |
+| Players | 9/15 |
 | Host Name | vsmpzd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:29:55 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606989896954 |
-| Players | 4/24 |
-| Host Name | Chloe Grace Moretz |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:44:49 |
+| Lobby ID | 28509606993585635 |
+| Players | 1/15 |
+| Host Name | Твоя мама |
+| Region | AUSTRIA |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:47:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509606993686061 |
+| Players | 1/10 |
+| Host Name | "DIEGUIXZN//IS BACK" |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:47:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606992631480 |
+| Players | 14/15 |
+| Host Name | persikoviyles |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:46:35 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509606993751645 |
+| Players | 2/10 |
+| Host Name | Балдежный Пердеж |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:47:19 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606993443617 |
-| Players | 4/8 |
-| Host Name | Jlom6op7uHu |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:47:06 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28509606983813925 |
-| Players | 9/10 |
-| Host Name | OID |
+| Lobby ID | 28509606993749214 |
+| Players | 1/8 |
+| Host Name | Dr.Evil |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:40:51 |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:47:18 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28509606962448203 |
+| Players | 1/7 |
+| Host Name | wasd |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:26:21 |
 
 
 |  | epic_boss_fight_normal |
@@ -153,23 +180,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Wez |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:40:44 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28509606962448203 |
-| Players | 1/7 |
-| Host Name | wasd |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:26:21 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28509606993268378 |
-| Players | 3/10 |
-| Host Name | batman |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:47:00 |
 
 
