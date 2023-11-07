@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606675500769 |
-| Players | 1/15 |
-| Host Name | блядота |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:46:25 |
+| Lobby ID | 28509606675710775 |
+| Players | 2/15 |
+| Host Name | fated |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:46:47 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606675370757 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | [C]all_Me_[P].o.r |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:46:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606672893222 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:41:48 |
@@ -41,46 +41,82 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606669621150 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | Vergilx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:35:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606673939731 |
-| Players | 1/8 |
-| Host Name | IA |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:43:40 |
+| Lobby ID | 28509606675583124 |
+| Players | 1/15 |
+| Host Name | skeeteronthemic |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:46:34 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606675463110 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:46:21 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509606671746223 |
+| Players | 9/10 |
+| Host Name | Algo como un día libre |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:39:44 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606675561720 |
+| Lobby ID | 28509606675696402 |
 | Players | 1/15 |
-| Host Name | skeeteronthemic |
+| Host Name | Скрайп |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:46:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606675735240 |
+| Players | 1/15 |
+| Host Name | HighOne |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:46:50 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606675740345 |
+| Players | 1/24 |
+| Host Name | Black Raven |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:46:51 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606675750376 |
+| Players | 1/15 |
+| Host Name | ☛★BUZZ★ |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:46:32 |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:46:52 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28509606674915784 |
+| Lobby ID | 28509606675762053 |
 | Players | 1/10 |
 | Host Name | ПНК |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:45:23 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:46:53 |
 
 
 |  | epic_boss_fight_normal |
@@ -92,12 +128,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 13:45:59 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28509606675552717 |
-| Players | 1/5 |
-| Host Name | .... |
+| Lobby ID | 28509606675646137 |
+| Players | 1/10 |
+| Host Name | Kiddo |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:46:31 |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:46:41 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28509606675644294 |
+| Players | 1/10 |
+| Host Name | Raging.Hope |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:46:40 |
 
 
