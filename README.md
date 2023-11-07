@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606725383420 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Optimal |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:05:51 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606723966426 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Addictife |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:03:44 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | La Concha De Tu Madre |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:07:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606726538396 |
+| Players | 1/8 |
+| Host Name | Фридоом(хочу татарочку) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:07:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606726582373 |
+| Players | 2/8 |
+| Host Name | MilF-HanteR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:07:38 |
 
 
 |  | epic_boss_fight_nightmare |
