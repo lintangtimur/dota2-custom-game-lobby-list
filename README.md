@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606672893222 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:41:48 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606681044927 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | hi |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:56:01 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606684244675 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | сада маза |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:01:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606686342143 |
-| Players | 9/10 |
-| Host Name | Waste |
+| Lobby ID | 28509606686771320 |
+| Players | 1/24 |
+| Host Name | wikiped |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:04:58 |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:05:40 |
 
 
 |  | ot3_jungle_quintet |
@@ -76,38 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606685635204 |
+| Lobby ID | 28509606687120061 |
 | Players | 1/10 |
-| Host Name | MR.DEAD |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:03:46 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606686771320 |
-| Players | 1/24 |
-| Host Name | wikiped |
+| Host Name | Optimal |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:05:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606686958334 |
-| Players | 4/10 |
-| Host Name | ну шо вы? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:05:59 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606687018795 |
-| Players | 1/24 |
-| Host Name | Chloe Grace Moretz |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:06:05 |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:06:15 |
 
 
 |  | epic_boss_fight_nightmare |
