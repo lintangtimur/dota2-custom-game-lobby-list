@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607013845463 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Ювелир |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:00:13 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 19:27:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606989024030 |
-| Players | 9/10 |
-| Host Name | Vatth |
+| Lobby ID | 28509607018714922 |
+| Players | 4/8 |
+| Host Name | Ivan Zolo (prime) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:44:15 |
+| Lobby Creation Time | Tuesday, November 7, 2023 20:03:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 19:49:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509607010886054 |
-| Players | 6/10 |
-| Host Name | .twitch.tv/shatunchick |
+| Lobby ID | 28509607017676304 |
+| Players | 5/15 |
+| Host Name | cursed |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:58:20 |
+| Lobby Creation Time | Tuesday, November 7, 2023 20:02:40 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509607017123545 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Marshal1 |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:02:19 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509607011327109 |
+| Lobby ID | 28509607018177459 |
 | Players | 1/8 |
-| Host Name | Mike Wardovsky |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:58:37 |
+| Host Name | Miker The One |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 20:02:59 |
 
 
 |  | ot3_jungle_quintet |
@@ -128,13 +128,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 19:56:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606989913409 |
-| Players | 1/15 |
-| Host Name | arhikent |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:44:49 |
+| Lobby ID | 28509606973235072 |
+| Players | 6/24 |
+| Host Name | ~BlastZ~ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:33:47 |
 
 
 |  | ot3_gardens_duo |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607001844908 |
-| Players | 2/24 |
+| Players | 8/24 |
 | Host Name | main character vibes |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:52:31 |
@@ -158,28 +158,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607017692745 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | SweetheartYuki |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:02:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509607017676304 |
-| Players | 4/15 |
-| Host Name | cursed |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 20:02:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509607018177459 |
-| Players | 1/8 |
-| Host Name | Miker The One |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 20:02:59 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -189,14 +171,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | How Do I Play? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:02:23 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28509607017285431 |
-| Players | 1/5 |
-| Host Name | СИЛЬФИЗАВИСИМЫЙ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 20:02:25 |
 
 
