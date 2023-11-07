@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606745870890 |
-| Players | 7/8 |
-| Host Name | SPLINTER |
+| Lobby ID | 28509606746662931 |
+| Players | 6/8 |
+| Host Name | 雨 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:35:52 |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:37:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28509606741898860 |
-| Players | 5/7 |
+| Players | 6/7 |
 | Host Name | bLdymsscR 𓅁 |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:30:07 |
