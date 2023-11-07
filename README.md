@@ -14,28 +14,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606731915787 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Sir Mahmud |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:15:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606732127676 |
-| Players | 12/15 |
-| Host Name | volodyaツ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:15:49 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606731852427 |
-| Players | 12/24 |
-| Host Name | I'm Eating Pusxy Like it's oreos |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:15:25 |
 
 
 |  | ot3_gardens_duo |
@@ -47,31 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 15:10:08 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606731852427 |
+| Players | 13/24 |
+| Host Name | I'm Eating Pusxy Like it's oreos |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:15:25 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606731173879 |
-| Players | 14/15 |
-| Host Name | Druvee |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:14:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606733561271 |
-| Players | 1/8 |
-| Host Name | pray for daxak |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:17:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606733579167 |
-| Players | 1/8 |
-| Host Name | eve |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:17:55 |
+| Lobby ID | 28509606733666551 |
+| Players | 1/15 |
+| Host Name | Яхва |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:18:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | biubiubiup |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:17:26 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28509606733603052 |
+| Players | 1/5 |
+| Host Name | Sukeru-san |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:17:57 |
 
 
