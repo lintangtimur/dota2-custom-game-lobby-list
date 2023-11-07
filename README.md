@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606543495899 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | 123 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:36:34 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606542803681 |
-| Players | 21/24 |
-| Host Name | drowrang3r |
+| Players | 15/24 |
+| Host Name | Xebec |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:35:14 |
 
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 09:36:19 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606541075682 |
-| Players | 1/24 |
-| Host Name | NENEK PEYOT PDIP |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:31:56 |
+| Lobby ID | 28509606543489367 |
+| Players | 1/10 |
+| Host Name | trash teammate |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:36:33 |
 
 
 |  | ot3_gardens_duo |
@@ -65,13 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 09:36:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606543489367 |
-| Players | 2/10 |
-| Host Name | trash teammate |
+| Lobby ID | 28509606544546507 |
+| Players | 2/24 |
+| Host Name | NENEK PEYOT PDIP |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:36:33 |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:38:34 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606544613762 |
+| Players | 1/8 |
+| Host Name | $%&@dota&%"! |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:38:42 |
 
 
 |  | epic_boss_fight_nightmare |
