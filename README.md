@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606600887695 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | hiro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:25:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606602084048 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | SabrosonxD322 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:28:14 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606601452418 |
-| Players | 14/24 |
+| Players | 12/24 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:27:01 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606600375636 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | LION EL MESI |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:24:58 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28509606598680884 |
-| Players | 9/10 |
-| Host Name | Raz |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:21:47 |
+| Lobby ID | 28509606603110455 |
+| Players | 6/10 |
+| Host Name | Gabimaru |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:30:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -121,10 +121,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28509606603110455 |
-| Players | 6/10 |
-| Host Name | Gabimaru |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:30:14 |
+| Lobby ID | 28509606598680884 |
+| Players | 9/10 |
+| Host Name | Raz |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:21:47 |
 
 
