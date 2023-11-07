@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606544546507 |
-| Players | 23/24 |
-| Host Name | NENEK PEYOT PDIP |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:38:34 |
+| Lobby ID | 28509606560830400 |
+| Players | 4/8 |
+| Host Name | Jivchik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:09:00 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606561997835 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | modo chill: !!ON¡¡ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:11:12 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606560841515 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Ajr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:09:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606560830400 |
-| Players | 3/8 |
-| Host Name | Jivchik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:09:00 |
+| Lobby ID | 28509606560898929 |
+| Players | 9/10 |
+| Host Name | EDW_XS |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:09:08 |
 
 
 |  | epic_boss_fight_nightmare |
