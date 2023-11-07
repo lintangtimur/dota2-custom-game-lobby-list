@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606814576926 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | strangby |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:10:28 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606814792730 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Sake |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:10:44 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Дима Жмыходавов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:11:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606813864194 |
+| Players | 12/15 |
+| Host Name | крутой |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:09:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606815903801 |
+| Players | 1/8 |
+| Host Name | angexiety |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:12:09 |
 
 
 |  | epic_boss_fight_normal |
