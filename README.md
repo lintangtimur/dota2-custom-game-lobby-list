@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606875159529 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | Mike Robe Eenis |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 18:16:42 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606884695475 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | я в аду |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 18:25:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606884878537 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | RUSSIAN POWER Z |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 18:25:34 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28509606879347937 |
-| Players | 9/10 |
-| Host Name | Турист |
+| Lobby ID | 28509606885198369 |
+| Players | 2/10 |
+| Host Name | Qb |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 18:20:35 |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:25:51 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -101,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 18:25:20 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28509606885198369 |
-| Players | 2/10 |
-| Host Name | Qb |
+| Lobby ID | 28509606885409786 |
+| Players | 1/5 |
+| Host Name | TwentyFive |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 18:25:51 |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:26:03 |
 
 
