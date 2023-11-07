@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606600887695 |
-| Players | 4/15 |
+| Players | 11/15 |
 | Host Name | hiro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:25:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606600540043 |
-| Players | 10/15 |
+| Players | 6/15 |
 | Host Name | Connor McGee Thor |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:25:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606599424754 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | duramen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:23:10 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LION EL MESI |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:24:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606601452418 |
+| Players | 5/24 |
+| Host Name | ITS_SHOWTIME |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:27:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606601526265 |
+| Players | 3/15 |
+| Host Name | Jajoby |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:27:09 |
 
 
 |  | epic_boss_fight_nightmare |
