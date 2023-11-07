@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606587254896 |
-| Players | 23/24 |
-| Host Name | Catbug |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:59:26 |
+| Lobby ID | 28509606591635651 |
+| Players | 6/24 |
+| Host Name | 乱战先锋专用帐号 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:08:18 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606590868339 |
-| Players | 14/15 |
+| Players | 15/15 |
 | Host Name | Ulrich |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:06:46 |
@@ -47,33 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 11:07:53 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606591449160 |
-| Players | 1/8 |
-| Host Name | low feeder |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:07:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606591475120 |
-| Players | 6/8 |
-| Host Name | Mandrake |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:07:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606591570217 |
-| Players | 2/15 |
-| Host Name | me van a matar.. pi pi piii... |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:08:10 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606591590155 |
@@ -81,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:08:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606591475120 |
+| Players | 7/8 |
+| Host Name | Mandrake |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:07:59 |
 
 
 |  | epic_boss_fight_nightmare |
