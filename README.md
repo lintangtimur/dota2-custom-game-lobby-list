@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607664945905 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Shadow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 05:55:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509607664771881 |
-| Players | 14/15 |
-| Host Name | imba s |
+| Lobby ID | 28509607665286489 |
+| Players | 2/10 |
+| Host Name | ВСТАВАЙ DUMB ASS |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 05:55:16 |
+| Lobby Creation Time | Wednesday, November 8, 2023 05:56:22 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509607664460105 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | merenge |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 05:54:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509607664646839 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | kagura bachi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 05:55:01 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | EL INGENIERO DE LAS GANKEADAS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 05:55:29 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509607665286489 |
-| Players | 2/10 |
-| Host Name | ВСТАВАЙ DUMB ASS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 05:56:22 |
 
 
 |  | epic_boss_fight_nightmare |
