@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509607669691853 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | LooPer |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:05:48 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607670155843 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | SKY DOCK v,, colin firth :3 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:06:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509607670326626 |
-| Players | 1/15 |
-| Host Name | Anonyposka |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:07:10 |
+| Lobby ID | 28509607670242575 |
+| Players | 2/10 |
+| Host Name | Thawne |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:06:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 06:06:51 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509607670100290 |
-| Players | 14/15 |
-| Host Name | ITS_SHOWTIME |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:06:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509607670242575 |
-| Players | 2/10 |
-| Host Name | Thawne |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:06:59 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607670361597 |
@@ -90,6 +72,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Shulton 2.0 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:07:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509607664187965 |
+| Players | 21/24 |
+| Host Name | All Marmight |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 05:54:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509607670414569 |
+| Players | 2/10 |
+| Host Name | BanBan |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:07:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509607670448503 |
+| Players | 1/8 |
+| Host Name | Desperado |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:07:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509607670449624 |
+| Players | 3/15 |
+| Host Name | AMOK ¯\_(ツ)_/¯ |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:07:25 |
 
 
 |  | epic_boss_fight_nightmare |
