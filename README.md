@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606846250717 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | no more enemies#MR |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:47:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606845416935 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | PRIME TAKERS MVP |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:46:53 |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606847810009 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | АЛКОГОЛЬ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:49:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606848164784 |
+| Players | 2/15 |
+| Host Name | ♛ Azhik#p4p ♛ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:49:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606848267584 |
+| Players | 2/8 |
+| Host Name | День гадов |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:49:58 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | clglOgck |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:33:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28509606848165080 |
+| Players | 1/5 |
+| Host Name | Don El Pedro |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:49:51 |
 
 
