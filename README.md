@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606651792279 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:02:50 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606654382665 |
-| Players | 1/8 |
-| Host Name | ~.~ |
+| Lobby ID | 28509606655123399 |
+| Players | 4/8 |
+| Host Name | Norton |
 | Region | USWEST |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:07:54 |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:09:21 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606654200264 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Mydna [Hold the Door] |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:07:33 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606653651401 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | MAGA |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:06:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606653867138 |
-| Players | 8/10 |
-| Host Name | panço |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:06:54 |
+| Lobby ID | 28509606655101490 |
+| Players | 1/24 |
+| Host Name | Peter Bot |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:09:19 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,22 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 13:08:58 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606655009414 |
-| Players | 3/8 |
-| Host Name | /b/itard264 |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:09:08 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606655062073 |
+| Lobby ID | 28509606655167000 |
 | Players | 1/15 |
-| Host Name | Huvu |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:09:14 |
+| Host Name | bussygrip |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:09:27 |
 
 
 |  | epic_boss_fight_hard |
