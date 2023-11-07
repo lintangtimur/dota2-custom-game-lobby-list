@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606711627865 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Waste |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:45:00 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606710777472 |
-| Players | 9/24 |
+| Players | 5/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:43:44 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606710993138 |
-| Players | 13/15 |
+| Players | 11/15 |
 | Host Name | OverFlown |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:44:03 |
@@ -112,19 +112,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28509606710375259 |
-| Players | 8/10 |
-| Host Name | XDD |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:43:07 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28509606711388118 |
 | Players | 1/10 |
 | Host Name | animal mother |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:44:38 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28509606712428280 |
+| Players | 1/10 |
+| Host Name | エッラ |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:46:12 |
 
 
