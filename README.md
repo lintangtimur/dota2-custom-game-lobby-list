@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606564721570 |
-| Players | 2/10 |
-| Host Name | CAMILA :3 |
+| Players | 1/10 |
+| Host Name | Potato |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:16:12 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606562650940 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Mouches Volantes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:12:25 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606564764324 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | RuBeN |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:16:17 |
@@ -95,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606564771195 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Emonika |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:16:18 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28509606565080300 |
+| Players | 1/10 |
+| Host Name | Белый |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:16:52 |
 
 
