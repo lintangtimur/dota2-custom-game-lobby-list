@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509607000487802 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | god complex |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:51:39 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509607000541127 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | xeltul |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:51:41 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509607000779353 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | fresh meat |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:51:50 |
@@ -113,19 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606934690307 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | Detelinara{RUBIN} |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:06:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509607001639620 |
-| Players | 1/24 |
-| Host Name | LIL BABY TAPE ZXC |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:52:23 |
+| Lobby ID | 28509607002193272 |
+| Players | 2/10 |
+| Host Name | Remiferia |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:52:45 |
 
 
 |  | ot3_jungle_quintet |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607001844908 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | 半夜蹲墙角 |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:52:31 |
@@ -171,6 +171,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:49:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509607002283241 |
+| Players | 6/10 |
+| Host Name | AKashi~ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:52:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509606989024030 |
+| Players | 8/10 |
+| Host Name | IFW |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:44:15 |
 
 
 |  | epic_boss_fight_normal |
