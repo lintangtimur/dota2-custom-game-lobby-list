@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606711103343 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | *улюлюканье* |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:44:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606734756127 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Review旧人 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:19:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606736244675 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | я ведьмак |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:21:49 |
@@ -89,6 +89,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Players | 1/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:21:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606736368028 |
+| Players | 1/8 |
+| Host Name | Неуязвимый |
+| Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:21:59 |
 
 
