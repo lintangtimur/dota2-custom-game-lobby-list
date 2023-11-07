@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509607102247919 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Clark Kent |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:53:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509607075715128 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Remiferia |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:38:01 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607092280113 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Sauron |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:47:26 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607066233388 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Bamboo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:32:37 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509607101285343 |
-| Players | 2/8 |
-| Host Name | nomannekto |
+| Players | 7/8 |
+| Host Name | Ящерка Билль |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:52:38 |
 
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607102460980 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Сын Мияги |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:53:19 |
@@ -135,6 +135,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | zero sugar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:53:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509607102864303 |
+| Players | 5/15 |
+| Host Name | Elano Diablo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 20:53:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509607102897892 |
+| Players | 1/10 |
+| Host Name | jessika |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 20:53:34 |
 
 
 |  | epic_boss_fight_normal |
