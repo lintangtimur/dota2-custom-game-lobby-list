@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606701878562 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ¿ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:29:58 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606672893222 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Gin_Chan |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:41:48 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606701328285 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Anti |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:29:06 |
@@ -47,13 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 14:28:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606701923648 |
-| Players | 1/15 |
-| Host Name | Lightning Padol |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:30:02 |
+| Lobby ID | 28509606701943952 |
+| Players | 1/24 |
+| Host Name | MD. |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:30:04 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606702018204 |
+| Players | 1/24 |
+| Host Name | ryan |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:30:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -94,10 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28509606701888840 |
-| Players | 1/10 |
-| Host Name | EJL |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:29:59 |
+| Lobby ID | 28509606702014299 |
+| Players | 3/10 |
+| Host Name | Kiddo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:30:11 |
 
 
