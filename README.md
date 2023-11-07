@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606569307314 |
-| Players | 6/8 |
-| Host Name | 'Cry 雨' |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:24:53 |
+| Lobby ID | 28509606568613907 |
+| Players | 13/15 |
+| Host Name | Skinnydude |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:23:35 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606569232529 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | Dreamer |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:24:45 |
