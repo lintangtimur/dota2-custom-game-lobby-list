@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607670155843 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | SKY DOCK v,, colin firth :3 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:06:48 |
@@ -29,12 +29,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 06:07:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511176997161232 |
-| Players | 1/15 |
-| Host Name | papadoni |
-| Region | AUSTRIA |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:11:07 |
+| Lobby ID | 28511176997489130 |
+| Players | 1/24 |
+| Host Name | Stakep |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:11:19 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28509607669353777 |
+| Players | 2/10 |
+| Host Name | Max |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:05:04 |
 
 
