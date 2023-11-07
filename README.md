@@ -11,22 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 12:42:46 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606643375930 |
-| Players | 7/8 |
-| Host Name | JorgitoTuTerror |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:46:31 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606642162387 |
-| Players | 7/10 |
-| Host Name | BLESS THIS MESS |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:44:12 |
+| Lobby ID | 28509606642806013 |
+| Players | 9/10 |
+| Host Name | Niserzh |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 12:45:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606644048719 |
+| Players | 3/15 |
+| Host Name | Fanya |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 12:47:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606640944688 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Lê Duẩn |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:41:53 |
@@ -74,24 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 12:48:00 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606644048719 |
-| Players | 3/15 |
-| Host Name | Fanya |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:47:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606642806013 |
-| Players | 9/10 |
-| Host Name | Niserzh |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:45:26 |
-
-
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28509606633969728 |
@@ -103,19 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28509606643934762 |
+| Lobby ID | 28509606644328421 |
 | Players | 1/10 |
 | Host Name | A3 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:47:34 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28509606644276129 |
-| Players | 1/5 |
-| Host Name | hito |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:48:14 |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 7, 2023 12:48:20 |
 
 
