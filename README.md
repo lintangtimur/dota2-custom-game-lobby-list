@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606687277739 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Padoru |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:06:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606689690502 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Бавтика |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:10:30 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606689376115 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | АБЫХЧБА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:09:59 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606689802803 |
-| Players | 1/24 |
-| Host Name | Deva path |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:10:41 |
+| Lobby ID | 28509606689830810 |
+| Players | 1/10 |
+| Host Name | Qusiks |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:10:44 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606689166424 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Tiimii ~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:09:39 |
