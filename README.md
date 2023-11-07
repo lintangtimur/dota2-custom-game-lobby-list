@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607395986587 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | le_Chapun |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 8, 2023 00:13:00 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607392870538 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | 青衣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 00:10:18 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607394747714 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | Horekki |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 00:11:56 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607398930075 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Hakka No Togame |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 00:15:33 |
@@ -113,8 +113,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607384494965 |
-| Players | 6/15 |
-| Host Name | Tax Fraud Professional |
+| Players | 5/15 |
+| Host Name | alpaca de los andes |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 00:03:01 |
 
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509607399491142 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | №2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 00:16:02 |
@@ -137,13 +137,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 00:16:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509607398518250 |
-| Players | 8/10 |
-| Host Name | Dr. Strange where rampage |
+| Lobby ID | 28509607399984902 |
+| Players | 2/15 |
+| Host Name | Пивная поддержка |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 00:15:11 |
+| Lobby Creation Time | Wednesday, November 8, 2023 00:16:28 |
 
 
 |  | ot3_gardens_duo |
@@ -162,6 +162,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 00:11:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509607369462033 |
+| Players | 2/8 |
+| Host Name | Jack Forest |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 23:50:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509607399933483 |
+| Players | 2/10 |
+| Host Name | peredozzz? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 00:16:25 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509607372780928 |
+| Players | 5/15 |
+| Host Name | LightLord |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 23:53:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509607398524039 |
+| Players | 9/10 |
+| Host Name | HMM |
+| Region | AUSTRIA |
+| Lobby Creation Time | Wednesday, November 8, 2023 00:15:11 |
 
 
 |  | epic_boss_fight_normal |
@@ -185,7 +221,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509607397781544 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | it will be fun |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 8, 2023 00:14:33 |
@@ -202,10 +238,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28509607399811902 |
-| Players | 1/5 |
-| Host Name | legionlegTTV |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 8, 2023 00:16:19 |
+| Lobby ID | 28509607399860986 |
+| Players | 2/5 |
+| Host Name | ZOHAN |
+| Region | AUSTRIA |
+| Lobby Creation Time | Wednesday, November 8, 2023 00:16:21 |
 
 
