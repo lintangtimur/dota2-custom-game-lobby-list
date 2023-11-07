@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177016083392 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | BigKing Assault Mode |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:49:42 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177017733238 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | MOOD |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:53:47 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | merenge |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:55:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511177018401755 |
+| Players | 2/15 |
+| Host Name | Пухнастий |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:55:28 |
 
 
 |  | epic_boss_fight_nightmare |
