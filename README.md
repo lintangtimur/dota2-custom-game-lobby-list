@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606616757377 |
-| Players | 23/24 |
-| Host Name | RyQゆた |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:56:09 |
+| Lobby ID | 28509606618676533 |
+| Players | 1/24 |
+| Host Name | Бураз Yo$hi |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:59:53 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606616165898 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Dom |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:55:01 |
@@ -74,31 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 11:59:09 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606618676533 |
-| Players | 1/24 |
-| Host Name | Бураз Yo$hi |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:59:53 |
+| Lobby ID | 28509606618789114 |
+| Players | 3/8 |
+| Host Name | /b/itard264 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 12:00:06 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606617994968 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | ПНК |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:58:34 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28509606618276895 |
-| Players | 1/5 |
-| Host Name | 迪马 ماسلينيكوف |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:59:07 |
 
 
 |  | epic_boss_fight_nightmare |
