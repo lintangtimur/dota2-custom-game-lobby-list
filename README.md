@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177003177882 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | BISCUIT OLIVA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:19:25 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177008522888 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | DrDisconnect |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:31:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177008068816 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | MindBlowX |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:30:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177007794209 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | El Diferente |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:29:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177008242816 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Entropy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:30:41 |
@@ -68,27 +68,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177008162712 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | BigKing Assault Mode |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:30:30 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511177008801468 |
+| Players | 6/8 |
+| Host Name | A Tribe Called Bålly |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:32:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511177008801764 |
+| Players | 4/8 |
+| Host Name | †BlayZERG† |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:32:00 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511177004159293 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Rho ;3 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:21:24 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511177008768528 |
-| Players | 1/7 |
-| Host Name | -GeOz- |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:31:55 |
+| Lobby ID | 28511177008848451 |
+| Players | 1/10 |
+| Host Name | Nineinchcow |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:32:07 |
 
 
