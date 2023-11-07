@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606615067080 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | execute all smurfs |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:52:54 |
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28509606613838484 |
 | Players | 2/15 |
-| Host Name | botame tu gaa |
+| Host Name | Hayashi |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:50:33 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606615615876 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | スモークベア |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:53:57 |
