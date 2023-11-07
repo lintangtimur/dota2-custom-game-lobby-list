@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606569232529 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Dreamer |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:24:45 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 10:21:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606569548741 |
-| Players | 12/15 |
-| Host Name | Cptn.Canuck |
+| Lobby ID | 28509606570370448 |
+| Players | 6/24 |
+| Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:25:21 |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:26:54 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606569208875 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Jivchik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:24:42 |
@@ -68,34 +68,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606570305936 |
-| Players | 7/8 |
+| Players | 4/8 |
 | Host Name | buti sito - lindo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:26:47 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606570337776 |
-| Players | 1/8 |
-| Host Name | Camila Cabello |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:26:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606570370448 |
-| Players | 6/24 |
-| Host Name | 乱战先锋专用帐号 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:26:54 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606569905526 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 起个名真纠结 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:26:01 |
