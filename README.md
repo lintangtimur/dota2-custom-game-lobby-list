@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606557869097 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | after |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:03:29 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606555319678 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Joann |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:58:42 |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606557602588 |
-| Players | 3/8 |
-| Host Name | LASQUTI |
+| Players | 5/8 |
+| Host Name | судорога в икрах |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:03:00 |
 
@@ -108,6 +108,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:02:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606558341160 |
+| Players | 2/8 |
+| Host Name | YonArias |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:04:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509606558346002 |
+| Players | 1/10 |
+| Host Name | Might Wanna Try Fortnite |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:04:23 |
 
 
 |  | epic_boss_fight_nightmare |
