@@ -32,17 +32,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606755996230 |
-| Players | 3/10 |
-| Host Name | Br0ker |
+| Players | 1/10 |
+| Host Name | trollface |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:50:18 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606763174349 |
-| Players | 14/15 |
-| Host Name | Педаль Раджахов |
+| Lobby ID | 28509606763170723 |
+| Players | 2/15 |
+| Host Name | 0001 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:00:28 |
 
@@ -56,37 +56,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 16:02:00 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606763170723 |
-| Players | 1/15 |
-| Host Name | 0001 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:00:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606763329441 |
-| Players | 6/8 |
-| Host Name | lekkki |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:00:42 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28509606759191530 |
-| Players | 8/10 |
-| Host Name | GLUK |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:54:50 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606762722359 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | cant talk with animals |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:59:49 |
