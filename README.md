@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606619169786 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Weganerd |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:00:50 |
@@ -41,34 +41,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606619042705 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | llu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:00:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606620692363 |
-| Players | 3/15 |
-| Host Name | NeonRicer |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:03:43 |
+| Lobby ID | 28509606620913825 |
+| Players | 3/24 |
+| Host Name | _____________ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 12:04:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606620527075 |
-| Players | 12/15 |
-| Host Name | drowrang3r |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:03:25 |
+| Lobby ID | 28509606620950684 |
+| Players | 1/24 |
+| Host Name | "Pumopolis" |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 12:04:12 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606620792775 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | LordFaky |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:03:54 |
@@ -94,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606620913825 |
-| Players | 1/24 |
-| Host Name | _____________ |
+| Lobby ID | 28509606617252672 |
+| Players | 23/24 |
+| Host Name | TheBlueJTattoo |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:04:08 |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:57:07 |
 
 
