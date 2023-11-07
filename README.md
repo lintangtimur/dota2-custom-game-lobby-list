@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606804658357 |
-| Players | 2/24 |
-| Host Name | Carwyn |
+| Players | 6/24 |
+| Host Name | Sign the Contract Big Boy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:57:29 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606804416685 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Missing you happiness |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:57:09 |
@@ -58,35 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606804160446 |
-| Players | 7/8 |
-| Host Name | RockSpirit |
+| Lobby ID | 28509606804845957 |
+| Players | 3/8 |
+| Host Name | lasthit practitioner |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:56:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606803752083 |
-| Players | 1/8 |
-| Host Name | Muted all |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:56:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606804673708 |
-| Players | 4/8 |
-| Host Name | keef |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:57:30 |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:57:43 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606804489175 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | English Breakfast Tea |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:57:15 |
@@ -94,10 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28509606804520309 |
+| Lobby ID | 28509606804996275 |
 | Players | 1/10 |
-| Host Name | PapaJohari |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:57:17 |
+| Host Name | มักสาวฟังล |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:57:55 |
 
 
