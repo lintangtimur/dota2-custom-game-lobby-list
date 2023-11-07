@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606689830810 |
-| Players | 9/10 |
-| Host Name | Бугименчик |
+| Lobby ID | 28509606695481596 |
+| Players | 3/15 |
+| Host Name | Sferov |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:10:44 |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:19:51 |
 
 
 |  | ot3_desert_octet |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606693310075 |
-| Players | 5/8 |
-| Host Name | Дима Жмыходавов |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:16:20 |
+| Lobby ID | 28509606695680989 |
+| Players | 1/8 |
+| Host Name | 346515 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:20:10 |
 
 
 |  | ot3_gardens_duo |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:19:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606695481596 |
-| Players | 3/15 |
-| Host Name | Sferov |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:19:51 |
 
 
 |  | epic_boss_fight_nightmare |
