@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606822762010 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | waiting for death |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:20:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606823564420 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | La Morte Del Paradiso |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:21:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606821021426 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Андрюха бурый |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:18:27 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606823859093 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | 【﻿DESpAIR】 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:22:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606823992640 |
-| Players | 1/24 |
-| Host Name | Capt Moo |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:22:10 |
+| Lobby ID | 28509606824207230 |
+| Players | 1/10 |
+| Host Name | jb |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:22:26 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,23 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | zen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:20:23 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28509606824095874 |
-| Players | 1/5 |
-| Host Name | Scromen |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:22:18 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28509606824102245 |
-| Players | 1/5 |
-| Host Name | пуленепробиваемы |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:22:18 |
 
 
