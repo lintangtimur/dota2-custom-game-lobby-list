@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606793604113 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | чемпик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:42:39 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606789418298 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | xx1234 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:36:59 |
@@ -56,12 +56,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 16:42:24 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606794174884 |
+| Players | 4/8 |
+| Host Name | encaidaR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:43:25 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28509606794111244 |
+| Lobby ID | 28509606794261306 |
 | Players | 1/10 |
-| Host Name | Dysfun |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:43:19 |
+| Host Name | AngelFLo « |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:43:31 |
 
 
