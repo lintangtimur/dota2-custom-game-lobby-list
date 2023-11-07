@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606538222771 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | YongChunLuKan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:26:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606536853419 |
-| Players | 5/10 |
+| Players | 1/10 |
 | Host Name | ÑORO |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:23:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606538048973 |
-| Players | 3/24 |
+| Players | 8/24 |
 | Host Name | 21Savage |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:25:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606538986897 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | YO LA AMABA MAN |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:27:49 |
