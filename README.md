@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606824497267 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Sofia is Numba 1 gurl for me |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:22:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606823747064 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Missing you happiness |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:21:51 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606824207230 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Король бубн |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:22:26 |
@@ -108,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Лузстрик )0)))0)))0)0 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:22:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606824766485 |
+| Players | 1/8 |
+| Host Name | jb |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:23:08 |
 
 
 |  | epic_boss_fight_nightmare |
