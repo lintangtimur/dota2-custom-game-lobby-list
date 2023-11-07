@@ -32,28 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606731852427 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | I'm Eating Pusxy Like it's oreos |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:15:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606732339617 |
-| Players | 1/15 |
-| Host Name | JustStop |
+| Lobby ID | 28509606732776400 |
+| Players | 3/10 |
+| Host Name | Ебашу За Кашу |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:16:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606732670983 |
-| Players | 1/8 |
-| Host Name | Memorize |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:16:36 |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:16:45 |
 
 
 |  | epic_boss_fight_nightmare |
