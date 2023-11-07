@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177001252639 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | ❣♏argo❣ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:15:41 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607669615738 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:05:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177001098866 |
-| Players | 1/8 |
-| Host Name | ПИВНАЯ 3D ТЯНКА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:15:27 |
+| Lobby ID | 28511177001704336 |
+| Players | 1/15 |
+| Host Name | Gh |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:16:31 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177001667692 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | alison3 |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:16:27 |
@@ -85,35 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509607670517049 |
-| Players | 6/8 |
-| Host Name | mute all russian |
+| Lobby ID | 28511177001769866 |
+| Players | 5/8 |
+| Host Name | Gream_rip |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:07:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511177001704336 |
-| Players | 1/15 |
-| Host Name | Gh |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:16:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177001703897 |
-| Players | 6/8 |
-| Host Name | are you sure? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:16:31 |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:16:39 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509607669115930 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Apo ni Ato...!!! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:04:34 |
