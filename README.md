@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606701878562 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ¿ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:29:58 |
@@ -65,6 +65,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 14:30:11 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606697671490 |
+| Players | 10/15 |
+| Host Name | SpiritMoon |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:23:20 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606685458596 |
@@ -90,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mr. Zoidberg |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:26:15 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28509606701707752 |
-| Players | 2/7 |
-| Host Name | Ai Hoshino |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:29:42 |
 
 
 |  | epic_boss_fight_nightmare |
