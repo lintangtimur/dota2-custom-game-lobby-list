@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606678826283 |
-| Players | 5/24 |
-| Host Name | execute all smurfs |
+| Players | 2/24 |
+| Host Name | MAGA |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:52:13 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606672893222 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:41:48 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606680451882 |
-| Players | 2/15 |
-| Host Name | yuchisan |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:55:01 |
+| Lobby ID | 28509606680641942 |
+| Players | 3/15 |
+| Host Name | ^^bongafonx` |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:55:21 |
 
 
 |  | ot3_jungle_quintet |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606680641942 |
+| Lobby ID | 28509606680730275 |
 | Players | 1/15 |
-| Host Name | ^^bongafonx` |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:55:21 |
+| Host Name | Injoker.Death |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:55:30 |
 
 
 |  | epic_boss_fight_nightmare |
