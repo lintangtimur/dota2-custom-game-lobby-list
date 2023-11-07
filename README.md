@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606978068062 |
-| Players | 1/15 |
-| Host Name | Superman |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:37:03 |
+| Lobby ID | 28509607002733923 |
+| Players | 2/24 |
+| Host Name | pawidpao |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:53:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 19:49:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606996891608 |
-| Players | 12/15 |
-| Host Name | Sm |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:49:20 |
+| Lobby ID | 28509607002840706 |
+| Players | 2/8 |
+| Host Name | DMITRÓ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:53:10 |
 
 
 |  | ot3_gardens_duo |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509607000541127 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | xeltul |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:51:41 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606967598911 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Granddaddy pipe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:29:55 |
@@ -149,27 +149,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607001844908 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | 半夜蹲墙角 |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:52:31 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509607002638319 |
-| Players | 1/5 |
-| Host Name | Костянтин |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:53:02 |
+| Lobby ID | 28509607002938960 |
+| Players | 1/8 |
+| Host Name | £ |
+| Region | AUSTRIA |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:53:13 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509607002644288 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | WHAT NOT TO DO IN DOTA2 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:53:02 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28509607002719434 |
+| Players | 1/10 |
+| Host Name | FAKE Claude C Kenny |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:53:05 |
 
 
