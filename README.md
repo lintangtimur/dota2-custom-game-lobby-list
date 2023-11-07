@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177004080938 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Pure absolute POWER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:21:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607669615738 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:05:38 |
@@ -59,34 +59,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177004642758 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | KOUSSSAAAA |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:22:27 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511177004061220 |
-| Players | 14/15 |
-| Host Name | DAY 1.0 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:21:13 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177004759651 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | KiW3^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:22:42 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511177004895292 |
+| Players | 1/8 |
+| Host Name | www.twitch.tv/eltiosilencer |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:23:00 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511177003807012 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | zxcdown |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:20:41 |
