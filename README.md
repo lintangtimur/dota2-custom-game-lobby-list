@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607044013968 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | ZZZZZZZZZZZZ!!!!! |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:19:07 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606977245201 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | 初音真爱粉 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:36:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509607069270867 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Vincenzooo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:34:23 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607065312500 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | cross and inshallah |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:32:04 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 20:33:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509607068992756 |
-| Players | 7/8 |
-| Host Name | Pipok |
+| Lobby ID | 28509607050998761 |
+| Players | 10/15 |
+| Host Name | Lin4s2 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 20:34:13 |
+| Lobby Creation Time | Tuesday, November 7, 2023 20:23:24 |
 
 
 |  | ot3_necropolis_ffa |
@@ -139,11 +139,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509607050998761 |
-| Players | 5/15 |
-| Host Name | Lin4s2 |
+| Lobby ID | 28509607070503243 |
+| Players | 1/15 |
+| Host Name | ꃥꈤꊐ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 20:23:24 |
+| Lobby Creation Time | Tuesday, November 7, 2023 20:35:05 |
 
 
 |  | epic_boss_fight_normal |
