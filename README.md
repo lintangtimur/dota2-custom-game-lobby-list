@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606811788349 |
-| Players | 1/15 |
-| Host Name | Сын Чечни |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:06:52 |
+| Lobby ID | 28509606811908788 |
+| Players | 5/15 |
+| Host Name | fli4er |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:07:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606810975744 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | HashiRama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:05:49 |
