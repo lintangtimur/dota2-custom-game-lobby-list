@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509607169075231 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | TwentyOneInch |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 21:31:52 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 19:27:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509607177991273 |
-| Players | 1/15 |
-| Host Name | ForaMon |
+| Lobby ID | 28509607177700571 |
+| Players | 8/10 |
+| Host Name | ot neba do zemli |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 21:36:59 |
+| Lobby Creation Time | Tuesday, November 7, 2023 21:36:48 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509607172615170 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | JAMALI |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 7, 2023 21:33:54 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607175311741 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Z E R O |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 7, 2023 21:35:26 |
@@ -112,17 +112,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509607175877447 |
-| Players | 19/24 |
-| Host Name | RAT LEGENDS SEASON 18 |
+| Lobby ID | 28509607154324008 |
+| Players | 9/24 |
+| Host Name | invisible string |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 21:35:46 |
+| Lobby Creation Time | Tuesday, November 7, 2023 21:23:24 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509607176272590 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Igromen2287 |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 21:35:59 |
@@ -137,13 +137,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 21:28:41 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509607177772480 |
-| Players | 1/24 |
-| Host Name | Tracer |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 7, 2023 21:36:51 |
+| Lobby ID | 28509607178133109 |
+| Players | 4/15 |
+| Host Name | plysha7 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 7, 2023 21:37:03 |
 
 
 |  | ot3_desert_octet |
@@ -153,24 +153,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Cubs |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 7, 2023 21:36:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509607154324008 |
-| Players | 9/24 |
-| Host Name | PGTR |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 21:23:24 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509607177700571 |
-| Players | 6/10 |
-| Host Name | ot neba do zemli |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 21:36:48 |
 
 
 |  | epic_boss_fight_normal |
@@ -202,11 +184,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28509607177964555 |
+| Lobby ID | 28509607110089155 |
 | Players | 1/10 |
-| Host Name | How to AWP? |
+| Host Name | 世界是残酷的 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 21:36:58 |
+| Lobby Creation Time | Tuesday, November 7, 2023 20:57:43 |
 
 
 |  | epic_boss_fight_normal |
@@ -220,10 +202,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28509607110089155 |
-| Players | 5/10 |
-| Host Name | 世界是残酷的 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 20:57:43 |
+| Lobby ID | 28509607178235624 |
+| Players | 1/10 |
+| Host Name | -Panico |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 21:37:07 |
 
 
