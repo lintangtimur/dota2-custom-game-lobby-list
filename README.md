@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606671746223 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Algo como un día libre |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:39:44 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606673027379 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | nvmnd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:42:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606672141601 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | EN MATEMÁTICA , YO PARO CEREBRO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:40:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606673478083 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | John Aldridge |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:42:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606673488598 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | 年輕的惡魔 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:42:52 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ♥♦♣♠ |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:43:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606672171321 |
+| Players | 14/15 |
+| Host Name | UNИAMED |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:40:30 |
 
 
 |  | epic_boss_fight_nightmare |
