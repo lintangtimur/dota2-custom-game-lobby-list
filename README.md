@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606594047732 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | насвай энджоер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:12:58 |
@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606592339357 |
-| Players | 9/10 |
-| Host Name | catharsis |
+| Lobby ID | 28509606595793664 |
+| Players | 2/10 |
+| Host Name | Идеалыч |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:09:41 |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:16:16 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606594680883 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Superman Pans |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:14:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606593825392 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ЯБИК АНУБОВ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:12:33 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606595311289 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | loda |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:15:20 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606595506079 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Pakazs de dia pajas de noche |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:15:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606595566621 |
-| Players | 2/8 |
-| Host Name | ella te dejo por mi |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:15:50 |
 
 
 |  | epic_boss_fight_nightmare |
