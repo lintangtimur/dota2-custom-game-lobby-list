@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 17:42:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606842007368 |
-| Players | 2/10 |
-| Host Name | GO(D) USOPP |
+| Lobby ID | 28509606843734979 |
+| Players | 3/15 |
+| Host Name | 4D_BOGRACH |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:43:10 |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:45:03 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606843265857 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | радик можно разоб |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:44:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606840428034 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | quacc |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:41:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606843129394 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | 範馬刃牙 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:44:24 |
@@ -67,11 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606843734979 |
-| Players | 4/15 |
-| Host Name | 4D_BOGRACH |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:45:03 |
+| Lobby ID | 28509606843935024 |
+| Players | 1/15 |
+| Host Name | strangby |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:45:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606843958009 |
+| Players | 1/15 |
+| Host Name | intothebottle |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:45:18 |
 
 
 |  | epic_boss_fight_normal |
