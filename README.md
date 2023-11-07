@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606560442851 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Bajando locura |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:08:17 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606560825286 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | juan hit juander™ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:09:00 |
@@ -104,10 +104,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606560947014 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Flawless |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:09:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606561170878 |
+| Players | 1/15 |
+| Host Name | 寂寞旁白 |
+| Region | Unknown |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:09:39 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606561197817 |
+| Players | 1/24 |
+| Host Name | David |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:09:42 |
 
 
 |  | epic_boss_fight_nightmare |
