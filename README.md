@@ -40,19 +40,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606760991113 |
-| Players | 1/15 |
-| Host Name | سندليف |
-| Region | DUBAI |
+| Lobby ID | 28509606760992195 |
+| Players | 4/15 |
+| Host Name | cross and inshallah |
+| Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:57:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606761009106 |
+| Players | 1/8 |
+| Host Name | Dudepls |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:57:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509606761037095 |
+| Players | 6/10 |
+| Host Name | 11:11 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:57:25 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606759191530 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | GLUK |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:54:50 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28509606761101082 |
+| Players | 1/5 |
+| Host Name | zennyrt |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:57:30 |
 
 
