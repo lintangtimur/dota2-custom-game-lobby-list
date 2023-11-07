@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606741277831 |
-| Players | 6/15 |
+| Players | 3/15 |
 | Host Name | Доктор Курлык |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:29:13 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606739982187 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Страшнеслав |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:27:17 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 15:26:51 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606742431192 |
-| Players | 1/5 |
-| Host Name | Цибуля |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:30:54 |
+| Lobby ID | 28509606742704371 |
+| Players | 2/8 |
+| Host Name | baila macaco |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:31:18 |
 
 
 |  | epic_boss_fight_challenger |
