@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511177010164060 |
-| Players | 13/15 |
-| Host Name | Николай Дроздов |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:35:15 |
+| Lobby ID | 28511177010973512 |
+| Players | 1/10 |
+| Host Name | "Butters" |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:37:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177010269267 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | BANDO BOYZ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:35:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177009515321 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Bernoulli |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:33:41 |
@@ -86,10 +86,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177010516428 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | X4nD3riiXx |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:36:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511177010962176 |
+| Players | 2/10 |
+| Host Name | Борька Дайдалус |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:37:12 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511177010988237 |
+| Players | 1/24 |
+| Host Name | Luci |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:37:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511177011022106 |
+| Players | 1/10 |
+| Host Name | I'm DrillEngine |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:37:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511177011029310 |
+| Players | 1/15 |
+| Host Name | Фэшн Демон |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:37:22 |
 
 
 |  | epic_boss_fight_nightmare |
