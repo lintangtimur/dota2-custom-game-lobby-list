@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606638253750 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | yep |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:36:46 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ryuzaken |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:35:44 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28509606638375851 |
+| Players | 2/10 |
+| Host Name | ◄*‰♥¼♦½♣¾♠*► |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 12:37:00 |
 
 
