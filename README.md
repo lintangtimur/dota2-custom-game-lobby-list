@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607415038477 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Jagindas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 00:29:54 |
@@ -50,34 +50,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509607416717061 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | //gg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 00:31:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509607417288628 |
-| Players | 2/10 |
-| Host Name | Эрдоgun |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 00:31:57 |
+| Lobby ID | 28509607417535301 |
+| Players | 1/8 |
+| Host Name | rthugo |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 8, 2023 00:32:11 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509607416336135 |
-| Players | 4/8 |
-| Host Name | SUBO 1XBET |
+| Lobby ID | 28509607417367894 |
+| Players | 1/8 |
+| Host Name | сын Collapse |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 00:31:05 |
+| Lobby Creation Time | Wednesday, November 8, 2023 00:32:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607411129326 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | CINDERNAX |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 00:26:22 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 00:31:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509607411879993 |
-| Players | 7/8 |
-| Host Name | лучший друг |
+| Lobby ID | 28509607417130964 |
+| Players | 15/15 |
+| Host Name | КМС по водному |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 00:27:03 |
+| Lobby Creation Time | Wednesday, November 8, 2023 00:31:49 |
 
 
 |  | ot3_desert_octet |
@@ -110,13 +110,58 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 00:30:01 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509607417487050 |
+| Players | 3/8 |
+| Host Name | Alina_bez-aganima |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 8, 2023 00:32:08 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509607417130964 |
-| Players | 5/15 |
-| Host Name | КМС по водному |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 00:31:49 |
+| Lobby ID | 28509607417471719 |
+| Players | 1/15 |
+| Host Name | Kolotuwka |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 8, 2023 00:32:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509607417508605 |
+| Players | 1/8 |
+| Host Name | /*BoDYa_DiLDER*/ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 8, 2023 00:32:09 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509607417520728 |
+| Players | 3/24 |
+| Host Name | 黒死牟 愛姫 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 8, 2023 00:32:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509607417551726 |
+| Players | 1/8 |
+| Host Name |  |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 8, 2023 00:32:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509607417552592 |
+| Players | 4/8 |
+| Host Name | kloto24 |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 8, 2023 00:32:12 |
 
 
 |  | epic_boss_fight_normal |
@@ -140,7 +185,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509607416974927 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Only |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 00:31:40 |
