@@ -50,16 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606808715022 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Jane.A7x |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:02:53 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606809708913 |
+| Players | 1/8 |
+| Host Name | 厄運 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:04:11 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606804489175 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | FRIENDLY THUG 52 NGG |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:57:15 |
