@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606782224397 |
-| Players | 9/15 |
+| Players | 7/15 |
 | Host Name | Жак Оакфиелд |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:27:09 |
@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606783844264 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | FuxiDragon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:29:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606783530968 |
-| Players | 9/10 |
-| Host Name | Crackpot Cucumber |
+| Lobby ID | 28509606784973180 |
+| Players | 5/8 |
+| Host Name | tusak |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:28:58 |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:30:57 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606785076211 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | DOODLES |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:31:05 |
@@ -40,37 +40,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606784603512 |
-| Players | 5/10 |
-| Host Name | 𝓜𝓸𝓷𝓼𝓽𝓮𝓻 |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:30:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606784905902 |
-| Players | 9/15 |
-| Host Name | . |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:30:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606784973180 |
-| Players | 4/8 |
-| Host Name | tusak |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:30:57 |
+| Lobby ID | 28509606785703554 |
+| Players | 1/10 |
+| Host Name | S@MY_BOY |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:31:56 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28509606784611326 |
-| Players | 7/10 |
-| Host Name | มักสาวฟังล |
+| Lobby ID | 28509606785549477 |
+| Players | 2/10 |
+| Host Name | CAM |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:30:27 |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:31:44 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28509606785660720 |
+| Players | 2/7 |
+| Host Name | swap reports |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:31:53 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28509606785709509 |
+| Players | 1/5 |
+| Host Name | Kiska |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:31:57 |
 
 
