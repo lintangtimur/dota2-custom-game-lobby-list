@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606594047732 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | насвай энджоер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:12:58 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606591475120 |
-| Players | 7/8 |
+| Lobby ID | 28509606595029609 |
+| Players | 6/8 |
 | Host Name | Mandrake |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:07:59 |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:14:48 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606593335772 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | juliale |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:11:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606593825392 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | ЯБИК АНУБОВ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:12:33 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606594642315 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | TT |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:14:04 |
@@ -77,27 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606594680883 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Envy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:14:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606594698610 |
-| Players | 1/15 |
-| Host Name | 12 vs 12 = Ching Chong dota |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:14:10 |
+| Lobby ID | 28509606594910085 |
+| Players | 1/24 |
+| Host Name | MERLYN |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:14:35 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606592633924 |
-| Players | 7/10 |
-| Host Name | ► Good gay, noob played |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:10:15 |
+| Lobby ID | 28509606595095950 |
+| Players | 5/8 |
+| Host Name | Ching Fu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:14:56 |
 
 
