@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 19:49:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606999385559 |
-| Players | 7/8 |
-| Host Name | Папа Армен |
+| Lobby ID | 28509607001378422 |
+| Players | 1/10 |
+| Host Name | Light- |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:50:56 |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:52:13 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606998640733 |
-| Players | 8/10 |
+| Players | 6/10 |
 | Host Name | Замкадыш |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:50:27 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606977245201 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | アニモンストラ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:36:30 |
@@ -122,10 +122,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606932527261 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Pulsar |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:04:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509607001467576 |
+| Players | 4/8 |
+| Host Name | Сyпepгнома нa сepвepe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:52:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509607001481469 |
+| Players | 1/15 |
+| Host Name | 神de愤怒 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:52:17 |
 
 
 |  | epic_boss_fight_normal |
@@ -135,14 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | STEPASHKA))) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:42:00 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28509607001215824 |
-| Players | 1/10 |
-| Host Name | ChangeBellWeMeanStay |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:52:07 |
 
 
