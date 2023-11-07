@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509607667746073 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Doki |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:01:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607668717039 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | TEEHEE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:03:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607668433726 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | [RV] ¨¨¨¨¨¨¨¨¨¨¨¨¨ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:03:05 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 06:03:28 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509607664187965 |
-| Players | 23/24 |
-| Host Name | All Marmight |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 05:54:03 |
+| Lobby ID | 28509607668943587 |
+| Players | 3/10 |
+| Host Name | ssy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:04:11 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509607668899691 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | middle aged woman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:04:05 |
