@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606598499070 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Cptn.Canuck |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:21:26 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606598313279 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | Danielle fanboy |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:21:04 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606597218100 |
-| Players | 8/24 |
+| Players | 13/24 |
 | Host Name | DarkFlameMaster |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:18:57 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 11:20:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606598028585 |
-| Players | 7/8 |
-| Host Name | Rarity |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:20:31 |
+| Lobby ID | 28509606599424754 |
+| Players | 3/24 |
+| Host Name | duramen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:23:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,21 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 11:23:03 |
 
 
-|  | ot3_desert_octet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28509606599424754 |
-| Players | 3/24 |
-| Host Name | duramen |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:23:10 |
+| Lobby ID | 28509606598680884 |
+| Players | 2/10 |
+| Host Name | Buzzlaytyir |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:21:47 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28509606598680884 |
+| Lobby ID | 28509606599632098 |
 | Players | 1/10 |
-| Host Name | Buzzlaytyir |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:21:47 |
+| Host Name | MEUMACHO |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:23:34 |
 
 
