@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606685389761 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Atlas_Atlantis |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:03:22 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606689932869 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | nigero GEOP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:10:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606691097149 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:12:48 |
@@ -103,19 +103,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28509606691554030 |
+| Lobby ID | 28509606691792724 |
 | Players | 1/5 |
 | Host Name | venlestofel |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:13:31 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:13:53 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28509606691751981 |
+| Lobby ID | 28509606691878867 |
 | Players | 1/10 |
 | Host Name | Just subscribe for Linda H |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:13:49 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:14:01 |
 
 
