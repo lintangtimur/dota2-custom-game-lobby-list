@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606811343536 |
-| Players | 1/8 |
-| Host Name | saka |
+| Lobby ID | 28509606812765689 |
+| Players | 4/8 |
+| Host Name | ★ ραяα∂σχ |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:06:18 |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:08:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606810975744 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | HashiRama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:05:49 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 52! |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:08:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606812765689 |
-| Players | 4/8 |
-| Host Name | ★ ραяα∂σχ |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:08:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606812079353 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Devel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:07:14 |
