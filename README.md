@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606691097149 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:12:48 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606691052641 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | fated |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:12:43 |
@@ -99,23 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mr. Zoidberg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:11:01 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28509606691792724 |
-| Players | 1/5 |
-| Host Name | venlestofel |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:13:53 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28509606691878867 |
-| Players | 1/10 |
-| Host Name | Just subscribe for Linda H |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:14:01 |
 
 
