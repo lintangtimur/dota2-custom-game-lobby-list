@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606557869097 |
-| Players | 8/10 |
-| Host Name | after |
+| Lobby ID | 28509606559480723 |
+| Players | 2/15 |
+| Host Name | Ninja Pirate |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:03:29 |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:06:30 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606558208760 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | 100 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:04:07 |
@@ -83,31 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 10:01:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606555319678 |
-| Players | 21/24 |
-| Host Name | Rho AIas외로운 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:58:42 |
+| Lobby ID | 28509606559847822 |
+| Players | 1/8 |
+| Host Name | Jivchik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:07:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606559480723 |
-| Players | 2/15 |
-| Host Name | Ninja Pirate |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:06:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606559805978 |
-| Players | 3/8 |
-| Host Name | Spanner |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:07:06 |
+| Lobby ID | 28509606559925916 |
+| Players | 4/15 |
+| Host Name | ITS_SHOWTIME |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:07:19 |
 
 
 |  | epic_boss_fight_nightmare |
