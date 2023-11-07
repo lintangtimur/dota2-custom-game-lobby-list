@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177012879417 |
-| Players | 13/15 |
-| Host Name | Cukka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:41:49 |
+| Lobby ID | 28511177013394967 |
+| Players | 1/8 |
+| Host Name | PENE  NEGRO |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:43:02 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177013031500 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Andresx1x |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:42:11 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 06:42:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177012828780 |
-| Players | 9/10 |
-| Host Name | BryanGT |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:41:42 |
+| Lobby ID | 28511177013351600 |
+| Players | 1/8 |
+| Host Name | youtube.com/@fastballlove |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:42:56 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177012915434 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | KiW3^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:41:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177012684752 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 93 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:41:22 |
@@ -77,19 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177012998199 |
-| Players | 6/15 |
-| Host Name | Capitanazo |
+| Players | 9/15 |
+| Host Name | Born of a Star |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:42:06 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511177013395742 |
+| Players | 1/10 |
+| Host Name | Stole Your Life |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:43:02 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177013351600 |
-| Players | 1/8 |
-| Host Name | youtube.com/@fastballlove |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:42:56 |
+| Lobby ID | 28511177013403571 |
+| Players | 3/8 |
+| Host Name | DesVirGinadoR de PaNoChAS |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:43:04 |
 
 
 |  | epic_boss_fight_nightmare |
