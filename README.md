@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606594680883 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | Superman Pans |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:14:08 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606596498524 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | BYSTHOR |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:17:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606594910085 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | MERLYN |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:14:35 |
@@ -76,20 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606596953413 |
-| Players | 3/8 |
-| Host Name | uglyfacekid |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:18:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606596958020 |
+| Lobby ID | 28509606597141373 |
 | Players | 1/8 |
 | Host Name | 12 грамм Skitter scatter |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:18:29 |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:18:49 |
 
 
 |  | epic_boss_fight_nightmare |
