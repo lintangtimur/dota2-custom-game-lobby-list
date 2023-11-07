@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606822762010 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | waiting for death |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:20:38 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606823564420 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | La Morte Del Paradiso |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:21:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606822193283 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Buu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:19:55 |
@@ -54,6 +54,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Лузстрик )0)))0)))0)0 |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:18:30 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606823747064 |
+| Players | 1/8 |
+| Host Name | Missing you happiness |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:21:51 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606823757124 |
+| Players | 1/24 |
+| Host Name | NARBERAL GAMA |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:21:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606823822857 |
+| Players | 4/8 |
+| Host Name | Colours |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:21:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606823802111 |
+| Players | 1/24 |
+| Host Name | QuizKnow |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:21:55 |
 
 
 |  | epic_boss_fight_nightmare |
