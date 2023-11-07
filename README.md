@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606819006377 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Prime говядина" |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:15:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606833184518 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | ckomo6oйня |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:33:14 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606834124472 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Azazanext |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:34:20 |
@@ -45,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Мені похуй |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:34:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606832707840 |
+| Players | 5/8 |
+| Host Name | руский?В ПАКЕТ! |
+| Region | AUSTRIA |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:32:41 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28509606833645822 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Condoriano |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:33:47 |
