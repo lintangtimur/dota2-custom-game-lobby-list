@@ -11,40 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 09:28:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606540299236 |
-| Players | 13/15 |
-| Host Name | Steady hand Schlesh |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:30:24 |
+| Lobby ID | 28509606540325116 |
+| Players | 2/10 |
+| Host Name | Старая_Огр |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:30:27 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606538342674 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Niserzh |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:26:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606538986897 |
-| Players | 8/10 |
-| Host Name | 健一白浜 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:27:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606536853419 |
-| Players | 1/10 |
-| Host Name | ÑORO |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:23:36 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,28 +38,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 09:29:26 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606539956519 |
-| Players | 22/24 |
-| Host Name | TT |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:29:43 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606540325116 |
-| Players | 2/10 |
-| Host Name | Старая_Огр |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:30:27 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606540593683 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Sr Timba |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:30:59 |
