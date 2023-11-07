@@ -11,31 +11,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 15:35:24 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606747972009 |
-| Players | 1/8 |
-| Host Name | Глеб Романович |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:38:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606747811040 |
-| Players | 6/8 |
-| Host Name | Mr. Kartoplya |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:38:40 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606748459919 |
-| Players | 3/10 |
-| Host Name | Alik, otvodi rebyat |
+| Lobby ID | 28509606748875216 |
+| Players | 1/10 |
+| Host Name | Кодеiнослав |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:40:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606748862848 |
+| Players | 1/15 |
+| Host Name | IvanZolo prime |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:39:36 |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:40:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606748614236 |
+| Players | 3/8 |
+| Host Name | PapArias_P |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:39:49 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 15:38:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606748614236 |
-| Players | 3/8 |
-| Host Name | PapArias_P |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:39:49 |
+| Lobby ID | 28509606748911802 |
+| Players | 1/10 |
+| Host Name | Natso - |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:40:14 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606746156589 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 제이크 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:36:17 |
