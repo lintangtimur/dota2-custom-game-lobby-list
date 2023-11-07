@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607163562421 |
-| Players | 6/24 |
-| Host Name | 617 agi |
+| Players | 3/24 |
+| Host Name | Coane KnneS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 21:28:41 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607164084420 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Shan'do |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 21:28:59 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509607204280123 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Juuzou |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 21:52:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509607207347967 |
-| Players | 4/8 |
-| Host Name | Judeau |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 21:54:17 |
+| Lobby ID | 28509607207509505 |
+| Players | 1/15 |
+| Host Name | LOVE_yandere |
+| Region | AUSTRIA |
+| Lobby Creation Time | Tuesday, November 7, 2023 21:54:23 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607148517708 |
-| Players | 5/24 |
+| Players | 3/24 |
 | Host Name | FOREVER YOUNG |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 21:20:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607190252704 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | 全年无休游廊 |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 7, 2023 21:44:07 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607184284937 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | la cabecita cabezona |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 21:40:38 |
@@ -103,17 +103,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509607206756643 |
-| Players | 13/15 |
-| Host Name | saynomore |
+| Lobby ID | 28509607207349089 |
+| Players | 1/15 |
+| Host Name | callebo サソリとカエル |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 21:53:56 |
+| Lobby Creation Time | Tuesday, November 7, 2023 21:54:17 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607206887257 |
-| Players | 3/15 |
+| Players | 12/15 |
 | Host Name | persikoviyles |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 21:54:01 |
@@ -140,19 +140,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509607207106526 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | I FEEL LIKE GOD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 21:54:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509607207349089 |
-| Players | 1/15 |
-| Host Name | callebo サソリとカエル |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 21:54:17 |
 
 
 |  | epic_boss_fight_normal |
@@ -171,23 +162,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sea Server Cancer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:57:43 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28509607202628416 |
-| Players | 8/10 |
-| Host Name | heheehe |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 21:51:29 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28509607207498275 |
-| Players | 1/5 |
-| Host Name | Muh Rown Payb |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 21:54:23 |
 
 
