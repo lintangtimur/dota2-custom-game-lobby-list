@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606663104835 |
-| Players | 7/8 |
-| Host Name | Igori |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:24:36 |
+| Lobby ID | 28509606663266067 |
+| Players | 1/10 |
+| Host Name | :3 |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:24:53 |
 
 
 |  | ot3_jungle_quintet |
@@ -45,5 +45,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Projeju |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:21:52 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28509606663315688 |
+| Players | 2/10 |
+| Host Name | lupanamaingatrasa |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:24:59 |
 
 
