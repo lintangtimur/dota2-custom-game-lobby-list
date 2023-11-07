@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509607664945905 |
-| Players | 10/15 |
-| Host Name | Shadow |
+| Lobby ID | 28509607665587482 |
+| Players | 3/15 |
+| Host Name | АХУЙ ПОВНИЙ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 05:55:39 |
+| Lobby Creation Time | Wednesday, November 8, 2023 05:57:01 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607664867535 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | EL INGENIERO DE LAS GANKEADAS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 05:55:29 |
@@ -74,13 +74,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 05:56:56 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509607665659256 |
+| Players | 2/8 |
+| Host Name | [GYG] Proniknovenie #_# |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 05:57:10 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509607665587482 |
-| Players | 2/15 |
-| Host Name | АХУЙ ПОВНИЙ |
+| Lobby ID | 28509607662276446 |
+| Players | 7/15 |
+| Host Name | 上海的补给大多数让狗 |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 05:50:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509607664646839 |
+| Players | 7/8 |
+| Host Name | kagura bachi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 05:57:01 |
+| Lobby Creation Time | Wednesday, November 8, 2023 05:55:01 |
 
 
 |  | epic_boss_fight_nightmare |
