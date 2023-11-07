@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606782224397 |
-| Players | 1/15 |
-| Host Name | FeeZy |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:27:09 |
+| Lobby ID | 28509606787485505 |
+| Players | 5/8 |
+| Host Name | lasthit practitioner |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:34:21 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606787394637 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | pressure |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:34:14 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606785076211 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | DOODLES |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:31:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606787320909 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Takanashi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:34:08 |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 16:33:42 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606787582620 |
-| Players | 1/24 |
-| Host Name | Chae's |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:34:29 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606787352775 |
@@ -92,21 +83,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 16:34:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28509606787485505 |
-| Players | 6/8 |
-| Host Name | lasthit practitioner |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:34:21 |
+| Lobby ID | 28509606786842609 |
+| Players | 5/10 |
+| Host Name | cant talk with animals |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:33:28 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28509606786842609 |
-| Players | 4/10 |
-| Host Name | cant talk with animals |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:33:28 |
+| Lobby ID | 28509606787729745 |
+| Players | 3/10 |
+| Host Name | Белый |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:34:41 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28509606787816376 |
+| Players | 1/5 |
+| Host Name | Lookas |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:34:48 |
 
 
