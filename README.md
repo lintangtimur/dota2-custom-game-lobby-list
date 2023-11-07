@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606845719142 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | MAGA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:47:13 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606848854398 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:50:36 |
@@ -38,15 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 17:48:17 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606851413530 |
-| Players | 2/10 |
-| Host Name | я не сдамся |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:53:18 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606851640360 |
@@ -54,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | waiting for death |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:53:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509606851902074 |
+| Players | 1/10 |
+| Host Name | Pesce con birra |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:53:49 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | reflection. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:50:09 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28509606851915968 |
+| Players | 1/5 |
+| Host Name | 9th and 6th floor prod. |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:53:50 |
 
 
