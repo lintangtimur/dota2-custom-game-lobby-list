@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 10:21:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606572229332 |
-| Players | 6/10 |
-| Host Name | Monica |
+| Lobby ID | 28509606572720915 |
+| Players | 1/15 |
+| Host Name | банан |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:30:27 |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:31:22 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606572568511 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Inkacola >>> cocacola |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:31:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606572586693 |
-| Players | 3/8 |
-| Host Name | Spanner |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:31:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606572618243 |
-| Players | 1/10 |
-| Host Name | Сломанный |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:31:10 |
 
 
 |  | epic_boss_fight_nightmare |
