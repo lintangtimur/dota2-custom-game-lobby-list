@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509607021150570 |
-| Players | 5/8 |
-| Host Name | няфка |
+| Lobby ID | 28509606989024030 |
+| Players | 4/10 |
+| Host Name | Vatth |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 20:04:52 |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:44:15 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509607011560331 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | samurai |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:58:46 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607007841316 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | X-ART |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:56:22 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509607021066172 |
-| Players | 5/10 |
-| Host Name | ⓞⓡⓑⓞⓡ |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 7, 2023 20:04:49 |
+| Lobby ID | 28509607010886054 |
+| Players | 4/10 |
+| Host Name | Кто ты воин ? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:58:20 |
 
 
 |  | ot3_jungle_quintet |
@@ -128,10 +128,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 20:04:50 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509607021735573 |
+| Players | 2/15 |
+| Host Name | I was made in heaven |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 20:05:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509607021961573 |
+| Players | 1/8 |
+| Host Name |  |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 20:05:23 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509607017228096 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | How Do I Play? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:02:23 |
