@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607044013968 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | ZZZZZZZZZZZZ!!!!! |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:19:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607037445035 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | ✪ SOY ALTO, PERO ME DICEN BAJO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:15:02 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607013152536 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | Shooting Star |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:59:47 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509607013845463 |
-| Players | 12/15 |
-| Host Name | 732 |
+| Lobby ID | 28509607065525230 |
+| Players | 7/15 |
+| Host Name | GoodMan |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 20:00:13 |
+| Lobby Creation Time | Tuesday, November 7, 2023 20:32:12 |
 
 
 |  | ot3_necropolis_ffa |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509607068923074 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | дэд инсульт |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:34:11 |
@@ -146,31 +146,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 20:35:05 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509607068992756 |
-| Players | 7/8 |
-| Host Name | bananaana |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 20:34:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509607071911295 |
-| Players | 3/10 |
-| Host Name | alone in this damn world |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 7, 2023 20:35:53 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509607065525230 |
-| Players | 2/15 |
-| Host Name | GoodMan |
+| Lobby ID | 28509607072370632 |
+| Players | 1/15 |
+| Host Name | писька228 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 20:32:12 |
+| Lobby Creation Time | Tuesday, November 7, 2023 20:36:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509607072327110 |
+| Players | 2/8 |
+| Host Name | GOLUBOGLAZIY ARIEC |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 20:36:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509607072459675 |
+| Players | 4/8 |
+| Host Name | Own your ass |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 20:36:11 |
 
 
 |  | epic_boss_fight_normal |
