@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511177004642758 |
-| Players | 13/15 |
-| Host Name | KOUSSSAAAA |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:22:27 |
+| Lobby ID | 28511177005485328 |
+| Players | 4/10 |
+| Host Name | Fox-Arena |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:24:19 |
 
 
 |  | ot3_desert_octet |
@@ -20,24 +20,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 06:22:04 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177004960098 |
-| Players | 5/8 |
-| Host Name | 20th Century |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:23:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177004961161 |
-| Players | 1/8 |
-| Host Name | SHARK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:23:09 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607669615738 |
@@ -47,22 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 06:05:38 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511177003367571 |
-| Players | 23/24 |
-| Host Name | ElGO TITO |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:19:47 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177005458825 |
-| Players | 1/8 |
-| Host Name | Tu PapiRikimaru |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:24:15 |
+| Lobby ID | 28511177004961161 |
+| Players | 4/8 |
+| Host Name | SHARK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:23:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Rho ;3 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:21:24 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511177005470132 |
+| Players | 1/10 |
+| Host Name | breakdown |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:24:17 |
 
 
