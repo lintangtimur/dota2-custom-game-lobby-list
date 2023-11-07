@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606769249805 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Shadow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:09:07 |
@@ -32,9 +32,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606770488609 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:10:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606770616335 |
+| Players | 1/8 |
+| Host Name | Natso - |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:11:04 |
 
 
