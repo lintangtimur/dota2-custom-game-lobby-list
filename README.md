@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606640944688 |
-| Players | 23/24 |
+| Players | 20/24 |
 | Host Name | Lê Duẩn |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:41:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606644048719 |
-| Players | 13/15 |
-| Host Name | Fanya |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:47:47 |
+| Lobby ID | 28509606644921055 |
+| Players | 1/8 |
+| Host Name | ♥♦♣♠ |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 7, 2023 12:49:28 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606639783646 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:39:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606642345638 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | RyQゆた |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:44:33 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606644921055 |
-| Players | 5/8 |
-| Host Name | leonardocllc64 |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:49:28 |
+| Lobby ID | 28509606645015121 |
+| Players | 1/8 |
+| Host Name | Я предал Христа |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 12:49:39 |
 
 
 |  | epic_boss_fight_hard |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606644816295 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ПНК |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:49:16 |
