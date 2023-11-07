@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606544546507 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | NENEK PEYOT PDIP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:38:34 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606560442851 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Bajando locura |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:08:17 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606560825286 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | juan hit juander™ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:09:00 |
