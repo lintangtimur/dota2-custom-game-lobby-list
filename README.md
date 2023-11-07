@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606838995839 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Crutch™ |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:39:52 |
@@ -65,6 +65,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 17:39:28 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606837371928 |
+| Players | 14/15 |
+| Host Name | MilF-HanteR |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:38:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606837664991 |
+| Players | 10/15 |
+| Host Name | FeeZy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:38:22 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28509606833038653 |
@@ -90,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dysfun |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:39:58 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28509606839560372 |
-| Players | 1/5 |
-| Host Name | RUACON7777 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:40:30 |
 
 
