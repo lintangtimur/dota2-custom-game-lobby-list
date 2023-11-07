@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607326994069 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | SStiil |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 23:15:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607341771918 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ✪ SOY ALTO, PERO ME DICEN BAJO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 23:27:09 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 23:27:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509607341697570 |
-| Players | 3/10 |
-| Host Name | Унитазный ЧЕМПИК |
+| Lobby ID | 28509607342486321 |
+| Players | 3/8 |
+| Host Name | харизматичный мужчина |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 23:27:05 |
+| Lobby Creation Time | Tuesday, November 7, 2023 23:27:43 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509607342190708 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | ITS_SHOWTIME |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 23:27:29 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607342425592 |
-| Players | 3/15 |
+| Players | 11/15 |
 | Host Name | Gun Done |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 23:27:41 |
@@ -113,19 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607342409065 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | sE_LeO |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 7, 2023 23:27:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509607342486321 |
-| Players | 3/8 |
-| Host Name | харизматичный мужчина |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 23:27:43 |
 
 
 |  | epic_boss_fight_normal |
