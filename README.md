@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606617197197 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | #Laprendoencasa |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:57:00 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 11:59:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606618789114 |
-| Players | 3/8 |
-| Host Name | /b/itard264 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:00:06 |
+| Lobby ID | 28509606618809977 |
+| Players | 7/24 |
+| Host Name | Ba bo baba |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 12:00:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606618566095 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | These Hands |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:59:40 |
