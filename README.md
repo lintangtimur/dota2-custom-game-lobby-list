@@ -23,46 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606900739435 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | lebanon don |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 18:39:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606906466888 |
-| Players | 8/10 |
-| Host Name | порядочный |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 18:43:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606907442715 |
-| Players | 11/15 |
-| Host Name | Мразь[UA] |
-| Region | AUSTRIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 18:44:42 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606909115902 |
-| Players | 2/24 |
-| Host Name | 13-137 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 18:46:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606889717938 |
-| Players | 2/10 |
-| Host Name | no mercy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 18:29:51 |
 
 
 |  | ot3_gardens_duo |
@@ -81,6 +45,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BRAMBRAGE |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 18:47:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606909115902 |
+| Players | 2/24 |
+| Host Name | 13-137 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:46:04 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509606889717938 |
+| Players | 2/10 |
+| Host Name | no mercy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:29:51 |
 
 
 |  | epic_boss_fight_nightmare |
