@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606629625217 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Feelingpeace’s |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:20:25 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 12:21:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606631557493 |
-| Players | 5/8 |
-| Host Name | Stich |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:24:06 |
+| Lobby ID | 28509606631788703 |
+| Players | 1/24 |
+| Host Name | u uuu u uuu u |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 12:24:32 |
 
 
 |  | ot3_gardens_duo |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ser sinverguenza es mi pasion |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:24:27 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606631788703 |
-| Players | 1/24 |
-| Host Name | u uuu u uuu u |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:24:32 |
 
 
 |  | epic_boss_fight_nightmare |
