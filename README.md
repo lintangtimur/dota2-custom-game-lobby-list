@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 10:04:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606562418013 |
-| Players | 2/10 |
-| Host Name | Never |
+| Lobby ID | 28509606563750566 |
+| Players | 1/8 |
+| Host Name | 𓆰𓆪 Othar 𓆰𓆪 |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:11:59 |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:14:25 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606562650940 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Mouches Volantes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:12:25 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606561997835 |
-| Players | 7/8 |
-| Host Name | modo chill: !!ON¡¡ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:11:12 |
+| Lobby ID | 28509606563346365 |
+| Players | 1/8 |
+| Host Name | Кабан Пятно |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:13:40 |
 
 
 |  | ot3_gardens_duo |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sapa Inca |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:13:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606563346365 |
-| Players | 1/8 |
-| Host Name | Кабан Пятно |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:13:40 |
 
 
