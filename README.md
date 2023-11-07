@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606588880214 |
-| Players | 13/15 |
-| Host Name | Stunning Garry |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:02:49 |
+| Lobby ID | 28509606590044464 |
+| Players | 4/8 |
+| Host Name | Damaroo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:05:08 |
 
 
 |  | ot3_desert_octet |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606590069049 |
-| Players | 2/24 |
-| Host Name | DuxDucis |
+| Players | 1/24 |
+| Host Name | Moon Baboon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:05:11 |
 
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 11:03:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606590044464 |
-| Players | 4/8 |
-| Host Name | Damaroo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:05:08 |
+| Lobby ID | 28509606590368946 |
+| Players | 1/10 |
+| Host Name | MORDO⌂ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:05:47 |
 
 
 |  | epic_boss_fight_nightmare |
