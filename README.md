@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606630036768 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | Fredikum |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:21:12 |
@@ -74,6 +74,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 12:20:58 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509606630508042 |
+| Players | 2/10 |
+| Host Name | The Perfect Girl |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 12:22:06 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606628106440 |
@@ -86,25 +95,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606629396013 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | 劍風金 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:19:58 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28509606630404734 |
-| Players | 1/5 |
-| Host Name | DMIEL |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:21:54 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606630438528 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | 起个名真纠结 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:21:58 |
