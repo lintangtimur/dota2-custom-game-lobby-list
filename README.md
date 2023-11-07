@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606653826929 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | EN MATEMÁTICA , YO PARO CEREBRO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:06:49 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 13:07:10 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606654405193 |
-| Players | 1/24 |
-| Host Name | RainRainGoAwayComeBackAnotherDay |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:07:56 |
+| Lobby ID | 28509606654382665 |
+| Players | 2/8 |
+| Host Name | Blank390 |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:07:54 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606654200264 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Mydna [Hold the Door] |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:07:33 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606653867138 |
-| Players | 7/10 |
+| Players | 3/10 |
 | Host Name | panço |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:06:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606654382665 |
-| Players | 1/8 |
-| Host Name | Blank390 |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:07:54 |
 
 
 |  | epic_boss_fight_hard |
