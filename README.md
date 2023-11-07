@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606606635560 |
-| Players | 1/24 |
-| Host Name | Shulton 2.0 |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:36:58 |
+| Lobby ID | 28509606607996637 |
+| Players | 2/8 |
+| Host Name | F1est |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:39:32 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606606676957 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | KpuBa9l py4Ka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:37:03 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606605014090 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | antigamer |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:33:51 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606606832555 |
-| Players | 10/24 |
-| Host Name | "Pumopolis" |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:37:21 |
+| Lobby ID | 28509606607867288 |
+| Players | 6/15 |
+| Host Name | drowrang3r |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:39:17 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606606975894 |
-| Players | 8/24 |
+| Players | 14/24 |
 | Host Name | MD. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:37:37 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ZEO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:37:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606607867288 |
-| Players | 5/15 |
-| Host Name | drowrang3r |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:39:17 |
 
 
 |  | epic_boss_fight_nightmare |
