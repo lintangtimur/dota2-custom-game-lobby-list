@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607176597833 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Shooting Star |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 21:36:10 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 19:27:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509607185237986 |
-| Players | 13/15 |
-| Host Name | Ｍｉｌｌｙ ★ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 21:41:11 |
+| Lobby ID | 28509607182771813 |
+| Players | 5/8 |
+| Host Name | JAMALI |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 7, 2023 21:39:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607183750335 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | Gendut Berlemak |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 21:40:19 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509607173149593 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Ling_Kazuha |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 21:34:12 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509607180432625 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | толк от 12к поряды? |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 21:38:24 |
@@ -140,10 +140,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607148517708 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Зеленый Крокодил |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 21:20:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509607187288949 |
+| Players | 1/8 |
+| Host Name | откуда шмаль? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 21:42:23 |
 
 
 |  | epic_boss_fight_normal |
