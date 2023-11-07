@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606696531589 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Odinn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:21:33 |
@@ -47,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 14:22:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606697339319 |
-| Players | 1/15 |
-| Host Name | SpiritMoon |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:22:49 |
+| Lobby ID | 28509606697366930 |
+| Players | 4/8 |
+| Host Name | Fulgencio Batista |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:22:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606697346133 |
-| Players | 1/15 |
-| Host Name | Giorgio 956 111 118 |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:22:50 |
+| Lobby ID | 28509606697437150 |
+| Players | 1/24 |
+| Host Name | ThiNk Pe ChaTo |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:22:58 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28509606694697730 |
-| Players | 2/7 |
+| Players | 1/7 |
 | Host Name | happy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:18:35 |
@@ -95,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606696933781 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | nurgazhai88 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:22:11 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28509606697275775 |
-| Players | 1/5 |
-| Host Name | Makkswell |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:22:43 |
 
 
