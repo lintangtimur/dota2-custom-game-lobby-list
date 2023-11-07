@@ -38,31 +38,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 17:48:17 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606849855235 |
-| Players | 6/8 |
-| Host Name | bünyamin button |
-| Region | AUSTRIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:51:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606851197803 |
-| Players | 2/10 |
-| Host Name | El`Papá`Bae |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:53:05 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606850994887 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Ar4i |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:52:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606851245297 |
+| Players | 3/8 |
+| Host Name | skorpziro |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:53:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606849855235 |
+| Players | 7/8 |
+| Host Name | bünyamin button |
+| Region | AUSTRIA |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:51:40 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606850855579 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | i lost |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:52:43 |
