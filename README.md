@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177013987249 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | MinD |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:44:28 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177015191366 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | FEEL ME? |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:47:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177015612580 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | cum |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:48:31 |
@@ -56,19 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 06:48:55 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177015560004 |
-| Players | 1/10 |
-| Host Name | Next |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:48:23 |
+| Lobby ID | 28511177015887549 |
+| Players | 1/8 |
+| Host Name | Desperado |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:49:12 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511177014649945 |
+| Players | 1/5 |
+| Host Name | forever |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:46:07 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511177015315980 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | zxcdown |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:47:47 |
@@ -79,15 +88,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby ID | 28511177014647526 |
 | Players | 2/7 |
 | Host Name | Gamer 12 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:46:07 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511177014649945 |
-| Players | 1/5 |
-| Host Name | forever |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:46:07 |
 
