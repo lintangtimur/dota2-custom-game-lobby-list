@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606564112920 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Kärss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:15:05 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606564721570 |
-| Players | 1/10 |
-| Host Name | Potato |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:16:12 |
+| Lobby ID | 28509606564771195 |
+| Players | 3/10 |
+| Host Name | Emonika |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:16:18 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606562650940 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Mouches Volantes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:12:25 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 10:15:40 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606564313648 |
-| Players | 18/24 |
-| Host Name | El cachero loco |
+| Lobby ID | 28509606564764324 |
+| Players | 3/15 |
+| Host Name | RuBeN |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:15:27 |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:16:17 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606544546507 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Mrs Poopoo Lu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:38:34 |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606564431434 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Odinn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:15:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606564764324 |
-| Players | 3/15 |
-| Host Name | RuBeN |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:16:17 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606564771195 |
-| Players | 3/10 |
-| Host Name | Emonika |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:16:18 |
 
 
 |  | epic_boss_fight_nightmare |
