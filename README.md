@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606551096478 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | moddd |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:50:56 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606552687192 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | YAUJA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:53:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606552304573 |
-| Players | 9/24 |
+| Players | 7/24 |
 | Host Name | Krammnik |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:53:10 |
@@ -49,18 +49,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606552187021 |
-| Players | 1/8 |
-| Host Name | Aux |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:52:58 |
+| Lobby ID | 28509606552494109 |
+| Players | 3/8 |
+| Host Name | Alevanoff |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:53:31 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606551563880 |
-| Players | 6/8 |
-| Host Name | Maliketh La Hoja Negra |
+| Players | 1/8 |
+| Host Name | Mummey |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:51:49 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606551633079 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | papkakok |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:51:56 |
@@ -110,13 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 09:53:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606552494109 |
-| Players | 1/8 |
-| Host Name | Alevanoff |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:53:31 |
+| Lobby ID | 28509606550872304 |
+| Players | 17/24 |
+| Host Name | FG k3 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:50:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606551779806 |
+| Players | 9/15 |
+| Host Name | £雨٭:̶͟͞͞☆ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:52:13 |
 
 
 |  | epic_boss_fight_nightmare |
