@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606541372851 |
-| Players | 4/8 |
+| Players | 1/8 |
 | Host Name | Victor |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:32:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606542694149 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | DMOX |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:35:02 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606541739590 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Casimiro Supo Tito |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:33:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606543222318 |
-| Players | 3/15 |
-| Host Name | мистер дрист |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:36:02 |
+| Lobby ID | 28509606543285119 |
+| Players | 3/8 |
+| Host Name | ARMANDO_JC |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:36:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606542534391 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | NECROSIS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:34:43 |
@@ -90,24 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Odinn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:36:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606543259694 |
-| Players | 4/8 |
-| Host Name | KOMPAYASO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:36:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606543252150 |
-| Players | 2/15 |
-| Host Name | BossaNova |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:36:05 |
 
 
 |  | epic_boss_fight_nightmare |
