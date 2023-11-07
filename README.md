@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606537238463 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ella te dejo por mi |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:24:22 |
@@ -47,24 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 09:23:36 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606538048973 |
-| Players | 20/24 |
-| Host Name | 21Savage |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:25:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606538859509 |
-| Players | 7/10 |
-| Host Name | Requiem Aranea |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:27:34 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606539614796 |
@@ -72,6 +54,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 𝖜𝖆𝖋𝖋𝖑𝖊𝖘 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:29:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509606538859509 |
+| Players | 8/10 |
+| Host Name | Requiem Aranea |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:27:34 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606537999592 |
+| Players | 23/24 |
+| Host Name | Alibaba Saluja |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:25:52 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606538709362 |
+| Players | 14/15 |
+| Host Name | ez mid |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:27:16 |
 
 
 |  | epic_boss_fight_normal |
