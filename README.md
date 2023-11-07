@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606695481596 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Sferov |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:19:51 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 13:41:48 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606694103183 |
-| Players | 1/24 |
-| Host Name | If you're a crrano I'll ban you |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:17:37 |
+| Lobby ID | 28509606695354184 |
+| Players | 9/10 |
+| Host Name | Moises |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:19:39 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606695680989 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 346515 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:20:10 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606695354184 |
-| Players | 9/10 |
-| Host Name | Moises |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:19:39 |
+| Lobby ID | 28509606695826605 |
+| Players | 2/10 |
+| Host Name | broskiii |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:20:24 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -85,10 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28509606695048603 |
-| Players | 7/10 |
-| Host Name | мя. кing |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:19:09 |
+| Lobby ID | 28509606695759989 |
+| Players | 1/10 |
+| Host Name | nurgazhai88 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:20:18 |
 
 
