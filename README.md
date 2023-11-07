@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606598912479 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Tomawa |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:22:14 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606601033617 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name |  ⁔ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:26:13 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606600887695 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | hiro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:25:56 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 11:24:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606600540043 |
-| Players | 14/15 |
-| Host Name | Connor McGee Thor |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:25:16 |
+| Lobby ID | 28509606601762378 |
+| Players | 3/10 |
+| Host Name | MACA DRAKULINI |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:27:36 |
 
 
 |  | ot3_desert_octet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606601635860 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | helios fort |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:27:22 |
@@ -113,19 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606601646197 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Упал, отжался! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:27:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606601762378 |
-| Players | 3/10 |
-| Host Name | MACA DRAKULINI |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:27:36 |
+| Lobby ID | 28509606601987288 |
+| Players | 1/8 |
+| Host Name | So, meow? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:28:03 |
 
 
 |  | epic_boss_fight_nightmare |
