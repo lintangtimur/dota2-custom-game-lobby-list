@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606791678870 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | PapArias_P |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:40:03 |
@@ -38,22 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 16:36:59 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606788990286 |
-| Players | 7/8 |
-| Host Name | waiting for death |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:36:24 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606791571141 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:39:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509606792430558 |
+| Players | 2/10 |
+| Host Name | 13th プライム |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:41:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Danh hài Vân Sơn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:37:20 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28509606792484112 |
+| Players | 1/5 |
+| Host Name | ZXC_Roblox |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:41:08 |
 
 
