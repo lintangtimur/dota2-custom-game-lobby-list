@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606705807030 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:36:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606708136276 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Пила Струна |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:39:42 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606704372969 |
-| Players | 13/15 |
-| Host Name | DanTe |
+| Players | 12/15 |
+| Host Name | prefiero perder cagandola yo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:33:54 |
 
