@@ -49,17 +49,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606751834093 |
-| Players | 14/15 |
-| Host Name | Billy Gibbons |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:44:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28509606752150963 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | HalfMoon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:44:50 |
@@ -67,11 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606752340512 |
-| Players | 1/10 |
+| Lobby ID | 28509606752423928 |
+| Players | 2/10 |
 | Host Name | Mandraf |
 | Region | AUSTRIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:45:06 |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:45:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606752469503 |
+| Players | 1/15 |
+| Host Name | Говённый голем |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:45:17 |
 
 
 |  | epic_boss_fight_nightmare |
