@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606841070512 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | я проклят FruKt1k |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:42:09 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606841074115 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | UNDEAD EVIL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:42:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606843129394 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 範馬刃牙 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:44:24 |
@@ -94,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28509606843500421 |
-| Players | 1/10 |
-| Host Name | Heuy Heuy |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:44:48 |
+| Lobby ID | 28509606844552928 |
+| Players | 3/10 |
+| Host Name | Qb |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:45:57 |
 
 
