@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509607652644206 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | pma))) |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 8, 2023 05:30:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509607653423204 |
-| Players | 8/10 |
-| Host Name | Sadman |
+| Lobby ID | 28509607653149474 |
+| Players | 3/8 |
+| Host Name | kagura bachi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 05:32:08 |
+| Lobby Creation Time | Wednesday, November 8, 2023 05:31:36 |
 
 
 |  | ot3_desert_octet |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 05:28:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509607652294110 |
-| Players | 8/10 |
-| Host Name | Саня Цикруль |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 05:29:57 |
+| Lobby ID | 28509607653181057 |
+| Players | 1/24 |
+| Host Name | Agua |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 05:31:40 |
 
 
 |  | ot3_desert_octet |
@@ -81,24 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | EmiSaRio- |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 05:32:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509607653149474 |
-| Players | 3/8 |
-| Host Name | kagura bachi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 05:31:36 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509607653181057 |
-| Players | 1/24 |
-| Host Name | Agua |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 05:31:40 |
 
 
 |  | epic_boss_fight_nightmare |
