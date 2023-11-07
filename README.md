@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606596532206 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Feelingpeace’s |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:17:41 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606594680883 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Superman Pans |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:14:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606594910085 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | MERLYN |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:14:35 |
@@ -68,19 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606596950278 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | JeOS |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:18:28 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606597218100 |
+| Players | 2/24 |
+| Host Name | Flyfriend28 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:18:57 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606597141373 |
-| Players | 1/8 |
-| Host Name | 12 грамм Skitter scatter |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:18:49 |
+| Lobby ID | 28509606597195034 |
+| Players | 3/8 |
+| Host Name | iseedeadp3ople |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:18:54 |
 
 
 |  | epic_boss_fight_nightmare |
