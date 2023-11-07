@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606681044927 |
-| Players | 6/15 |
+| Players | 4/15 |
 | Host Name | hi |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:56:01 |
@@ -74,21 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 13:58:15 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28509606682379095 |
-| Players | 1/5 |
-| Host Name | Klebsiellasp |
-| Region | SINGAPORE |
+| Lobby ID | 28509606682377455 |
+| Players | 1/10 |
+| Host Name | Markyjay |
+| Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:58:17 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28509606682385319 |
-| Players | 1/10 |
-| Host Name | Tony Slark |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:58:18 |
+| Lobby ID | 28509606682478772 |
+| Players | 1/5 |
+| Host Name | Klebsiellasp |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:58:27 |
 
 
