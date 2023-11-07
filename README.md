@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606676033471 |
-| Players | 13/15 |
-| Host Name | fated |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:47:21 |
+| Lobby ID | 28509606677779999 |
+| Players | 1/8 |
+| Host Name | Shizukano |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:50:25 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 13:48:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606677754007 |
-| Players | 2/8 |
-| Host Name | dyrachyo :) |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:50:22 |
+| Lobby ID | 28509606677846920 |
+| Players | 3/10 |
+| Host Name | ...THISSROCK... |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:50:32 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606677852804 |
+| Players | 1/24 |
+| Host Name | Punisher PMA |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:50:32 |
 
 
 |  | epic_boss_fight_nightmare |
