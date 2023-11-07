@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606874464217 |
-| Players | 6/8 |
-| Host Name | Zafatenko |
+| Lobby ID | 28509606876353372 |
+| Players | 1/15 |
+| Host Name | Shamplo_o |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 7, 2023 18:16:03 |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:17:50 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606876094575 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Legend[S.L.L] |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 18:17:35 |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606874173576 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | ckomo6oйня |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 18:15:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509606876220168 |
+| Players | 2/10 |
+| Host Name | реквием по кастрю |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:17:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606876342190 |
+| Players | 1/8 |
+| Host Name | BiryuleVsKy_KoT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:17:49 |
 
 
 |  | epic_boss_fight_nightmare |
