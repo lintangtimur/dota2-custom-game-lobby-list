@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606554690042 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | execute all smurfs |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:57:32 |
@@ -108,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 爱 |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:59:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606555770103 |
+| Players | 2/15 |
+| Host Name | Lich Stroch |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:59:33 |
 
 
 |  | epic_boss_fight_nightmare |
