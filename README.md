@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606672171321 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | UNИAMED |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:40:30 |
@@ -74,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 13:40:27 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606672080555 |
-| Players | 1/10 |
-| Host Name | Kiddo |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:40:20 |
+| Lobby ID | 28509606672514838 |
+| Players | 2/10 |
+| Host Name | /b/itard264 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:41:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606672521308 |
+| Players | 1/8 |
+| Host Name | 123 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:41:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ► Good gay, noob played |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:38:25 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28509606672491388 |
+| Players | 1/10 |
+| Host Name | Kiddo |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:41:05 |
 
 
