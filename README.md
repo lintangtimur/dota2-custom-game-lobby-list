@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177005725557 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Doovad |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:24:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177006071088 |
-| Players | 7/10 |
-| Host Name | Anth' |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:25:37 |
+| Lobby ID | 28511177006302425 |
+| Players | 3/15 |
+| Host Name | eboshing |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:26:08 |
 
 
 |  | ot3_gardens_duo |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 06:26:05 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177006288320 |
-| Players | 3/8 |
-| Host Name | 4 БРАТУХА |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:26:06 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511177004159293 |
@@ -108,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Death Is My Bitch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:21:21 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511177006360155 |
+| Players | 1/5 |
+| Host Name | Aldrich |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:26:16 |
 
 
