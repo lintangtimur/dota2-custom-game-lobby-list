@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606845719142 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | MAGA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:47:13 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606853966250 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | я анскилл |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:55:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606853040255 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Beleriand` |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:55:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606853589029 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Zafatenko |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:55:35 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606849781850 |
-| Players | 8/10 |
-| Host Name | ingmundur |
+| Players | 7/10 |
+| Host Name | samaqaq |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:51:35 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606852247275 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | OID |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:54:11 |
@@ -95,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606853218034 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Capoo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:55:12 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28509606854222903 |
-| Players | 1/5 |
-| Host Name | 1mpact |
-| Region | AUSTRIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:56:14 |
 
 
