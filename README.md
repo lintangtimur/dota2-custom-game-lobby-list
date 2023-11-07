@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606547664210 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Miku |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:44:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606547462894 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | David |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:44:08 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606548089603 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | MidoriNoTori |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:45:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606544546507 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | NENEK PEYOT PDIP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:38:34 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606548537998 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Scrayl |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:46:10 |
@@ -95,18 +95,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606548586176 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Sapa Inca |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:46:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606547651310 |
-| Players | 14/15 |
-| Host Name | Pero eres o no eres? |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:44:30 |
 
 
