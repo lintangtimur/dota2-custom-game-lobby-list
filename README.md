@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606745535503 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:35:24 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606749360823 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | РАБОТАЙТЕ БРАТЬЯ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:40:52 |
@@ -45,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | سندليف |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:38:04 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606749604480 |
+| Players | 1/24 |
+| Host Name | Cherrionella |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:41:13 |
 
 
 |  | epic_boss_fight_nightmare |
