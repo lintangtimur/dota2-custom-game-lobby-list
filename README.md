@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606593022361 |
-| Players | 9/10 |
-| Host Name | RedRodry |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:11:01 |
+| Lobby ID | 28509606594047732 |
+| Players | 3/15 |
+| Host Name | saynomore |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:12:58 |
 
 
 |  | ot3_gardens_duo |
@@ -47,31 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 11:11:37 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606592395567 |
-| Players | 20/24 |
-| Host Name | Arcade Gannon |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:09:48 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606593825392 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ЯБИК АНУБОВ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:12:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606594047732 |
-| Players | 3/15 |
-| Host Name | saynomore |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:12:58 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ► Good gay, noob played |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:10:15 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28509606594196156 |
+| Players | 1/5 |
+| Host Name | 鲁子敬 |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:13:15 |
 
 
