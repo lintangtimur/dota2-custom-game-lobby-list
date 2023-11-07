@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606672141601 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | EN MATEMÁTICA , YO PARO CEREBRO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:40:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606673478083 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | John Aldridge |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:42:51 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606673947853 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Chloe Grace Moretz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:43:41 |
