@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606671746223 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Algo como un día libre |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:39:44 |
@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28509606673027379 |
 | Players | 7/10 |
-| Host Name | nvmnd |
+| Host Name | fuckinщит |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:42:02 |
 
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606669621150 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Vergilx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:35:56 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606673947853 |
-| Players | 21/24 |
-| Host Name | Chloe Grace Moretz |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:43:41 |
+| Lobby ID | 28509606673939731 |
+| Players | 3/8 |
+| Host Name | ♥♦♣♠ |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:43:40 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 13:44:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606673939731 |
-| Players | 3/8 |
-| Host Name | ♥♦♣♠ |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:43:40 |
+| Lobby ID | 28509606675362878 |
+| Players | 1/24 |
+| Host Name |  |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:46:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ПНК |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:45:23 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28509606675261376 |
+| Players | 1/5 |
+| Host Name | Brolykillzone2988 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:45:59 |
 
 
