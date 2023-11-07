@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606701878562 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | ¿ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:29:58 |
@@ -29,40 +29,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 14:13:13 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606703663442 |
+| Players | 1/24 |
+| Host Name | mimilya |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:32:47 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606702990476 |
+| Lobby ID | 28509606697671490 |
+| Players | 9/15 |
+| Host Name | SpiritMoon |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:23:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606703391623 |
+| Players | 6/15 |
+| Host Name | Масик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:32:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606703617938 |
 | Players | 1/15 |
-| Host Name | BULLEDZ :DDD |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:31:44 |
+| Host Name | Cap. Kotletka |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:32:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606703177525 |
-| Players | 2/10 |
-| Host Name | Кенгуру |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:32:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606703259306 |
-| Players | 1/10 |
-| Host Name | Артём |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:32:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606703282759 |
-| Players | 1/10 |
-| Host Name | Грамм золота |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:32:11 |
+| Lobby ID | 28509606703763223 |
+| Players | 1/8 |
+| Host Name | xxxx |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:32:56 |
 
 
 |  | epic_boss_fight_nightmare |
