@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 17:54:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606851933263 |
-| Players | 14/15 |
-| Host Name | GwinPin |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:53:51 |
+| Lobby ID | 28509606852749177 |
+| Players | 3/8 |
+| Host Name | supern(o)va |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:54:42 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606846696702 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ZZZZZZZZZZZZ!!!!! |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:48:17 |
@@ -49,20 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606852749177 |
-| Players | 1/8 |
-| Host Name | supern(o)va |
+| Lobby ID | 28509606852951881 |
+| Players | 3/8 |
+| Host Name | twitch.tv/HYPETAME |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:54:42 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28509606848445890 |
-| Players | 1/5 |
-| Host Name | reflection. |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:50:09 |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:54:55 |
 
 
 |  | epic_boss_fight_nightmare |
