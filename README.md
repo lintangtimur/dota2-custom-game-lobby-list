@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606805206039 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Kapitan Kisik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:58:12 |
@@ -56,10 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 16:53:42 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606805847501 |
+| Players | 1/24 |
+| Host Name | ☻☺♥♦♠♣☺☻ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:59:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606805919707 |
+| Players | 2/24 |
+| Host Name | Pandora's Actor™ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:59:09 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606804489175 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | English Breakfast Tea |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:57:15 |
