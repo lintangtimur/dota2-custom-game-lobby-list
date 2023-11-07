@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 14:34:52 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606706772377 |
-| Players | 1/24 |
-| Host Name | จับฉ๋าย |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:37:36 |
+| Lobby ID | 28509606706755696 |
+| Players | 2/10 |
+| Host Name | Jane.A7x |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:37:35 |
 
 
 |  | ot3_gardens_duo |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Thug Life |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:37:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606706755696 |
-| Players | 2/10 |
-| Host Name | Jane.A7x |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:37:35 |
 
 
 |  | epic_boss_fight_nightmare |
