@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606607139170 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ZEO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:37:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606608664126 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Amaraki |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:40:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606608620700 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Feelingpeace’s |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:40:42 |
@@ -74,24 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 11:42:04 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606609834227 |
-| Players | 1/24 |
-| Host Name | Moe Lester |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:42:58 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606609881687 |
-| Players | 1/24 |
-| Host Name | α.Sαßer♥ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:43:03 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606609878104 |
@@ -99,6 +81,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | El Zar |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:43:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606609925957 |
+| Players | 1/8 |
+| Host Name | iseedeadp3ople |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:43:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606609988563 |
+| Players | 1/8 |
+| Host Name | /b/itard264 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:43:15 |
 
 
 |  | epic_boss_fight_nightmare |
