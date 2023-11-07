@@ -23,19 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606746310731 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Mouches Volantes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:36:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606746804961 |
-| Players | 6/8 |
-| Host Name | большое RaZoChaRovaNiE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:37:13 |
 
 
 |  | ot3_desert_octet |
@@ -47,13 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 15:37:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606747091348 |
-| Players | 1/15 |
-| Host Name | SERRANACLE |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:37:38 |
+| Lobby ID | 28509606747125070 |
+| Players | 6/10 |
+| Host Name | 11:11 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:37:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509606747167586 |
+| Players | 2/10 |
+| Host Name | plushka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:37:45 |
 
 
 |  | epic_boss_fight_challenger |
