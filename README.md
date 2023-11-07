@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177003177882 |
-| Players | 9/24 |
+| Players | 14/24 |
 | Host Name | _____________ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:19:25 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177003453744 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Sanjiro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:19:58 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607669615738 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:05:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177003998296 |
-| Players | 1/8 |
-| Host Name | bladerunner |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:21:06 |
+| Lobby ID | 28511177004061220 |
+| Players | 4/15 |
+| Host Name | DAY 1.0 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:21:13 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 06:19:47 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177004009132 |
-| Players | 5/8 |
-| Host Name | Jamal hater |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:21:07 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177004006858 |
+| Lobby ID | 28511177004080938 |
 | Players | 1/15 |
-| Host Name | Ahappypuppy |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:21:07 |
+| Host Name | Pure absolute POWER |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:21:15 |
+
+
+|  | ot3_demo |
+| ------ | ------ |
+| Lobby ID | 28511177004115238 |
+| Players | 1/1 |
+| Host Name | PMA XDD |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:21:19 |
 
 
 |  | epic_boss_fight_nightmare |
