@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606555927935 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Lich Stroch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:59:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606552304573 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Dreamer |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:53:10 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606555319678 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Joann |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:58:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606556164721 |
-| Players | 13/15 |
-| Host Name | 100 |
+| Lobby ID | 28509606557602588 |
+| Players | 2/8 |
+| Host Name | richard |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:00:18 |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:03:00 |
 
 
 |  | ot3_desert_octet |
@@ -110,24 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 10:02:37 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606557602588 |
-| Players | 1/8 |
-| Host Name | richard |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:03:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606557630482 |
-| Players | 1/8 |
-| Host Name | [  Blnk  ] |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:03:03 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606554781447 |
@@ -135,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ikun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:57:42 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28509606557746502 |
+| Players | 1/5 |
+| Host Name | Odracir*MS |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:03:16 |
 
 
