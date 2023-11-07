@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 13:02:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606650460805 |
-| Players | 14/15 |
-| Host Name | La parquita |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:00:11 |
+| Lobby ID | 28509606653420691 |
+| Players | 2/10 |
+| Host Name | Algo como un día libre |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:06:01 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606650739349 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | [D]iomegod |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:00:45 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606653378224 |
-| Players | 1/15 |
-| Host Name | Скрайп |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:05:56 |
+| Lobby ID | 28509606653013415 |
+| Players | 6/15 |
+| Host Name | El Peluca |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:05:14 |
 
 
 |  | ot3_desert_octet |
@@ -76,35 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606653013415 |
-| Players | 6/15 |
-| Host Name | El Peluca |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:05:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606653323909 |
-| Players | 7/8 |
-| Host Name | Colours |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:05:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606653384261 |
-| Players | 1/8 |
-| Host Name | Estoy cansado jefe |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:05:57 |
+| Lobby ID | 28509606653404266 |
+| Players | 4/15 |
+| Host Name | + |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:06:00 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28509606633969728 |
-| Players | 3/7 |
+| Players | 2/7 |
 | Host Name | Kok$.[NSK].54 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:28:40 |
