@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606781454110 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Solo Leveling |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:26:05 |
@@ -56,10 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 16:26:35 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606781930583 |
+| Players | 1/8 |
+| Host Name | Дима Жмыходавов |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:26:44 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28509606781670628 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | Иисус |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:26:22 |
