@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606763174349 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Педаль Раджахов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:00:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606763100457 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | pox na game |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:00:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606763329441 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | lekkki |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:00:42 |
