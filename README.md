@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606770488609 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Truck-kun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:10:52 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606780731716 |
-| Players | 12/15 |
-| Host Name | Mistiness |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:25:05 |
+| Lobby ID | 28509606781454110 |
+| Players | 1/15 |
+| Host Name | Solo Leveling |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:26:05 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606779036523 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | La-Z Rider |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:22:46 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606776188303 |
-| Players | 11/15 |
-| Host Name | Papiroska |
+| Players | 13/15 |
+| Host Name | Hey Man |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:18:51 |
 
@@ -65,30 +65,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 16:26:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606781454110 |
-| Players | 1/15 |
-| Host Name | Solo Leveling |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:26:05 |
+| Lobby ID | 28509606781549086 |
+| Players | 1/8 |
+| Host Name | 离手鸳鸯刀 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:26:12 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28509606781467446 |
-| Players | 1/5 |
-| Host Name | Иисус |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:26:06 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28509606781477306 |
+| Lobby ID | 28509606781627793 |
 | Players | 1/5 |
 | Host Name | big mac |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:26:06 |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:26:19 |
 
 
