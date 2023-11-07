@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606577770978 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Retardopiteck |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:40:56 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606577404052 |
-| Players | 8/24 |
+| Players | 6/24 |
 | Host Name | jie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:40:14 |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606577744156 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | benitocamitroncote |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:40:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606578325211 |
-| Players | 1/15 |
-| Host Name | El del Rimac :v |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:42:00 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,5 +54,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Nyleae |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:41:17 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28509606578414128 |
+| Players | 1/10 |
+| Host Name | nirvana |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:42:10 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28509606578454990 |
+| Players | 1/5 |
+| Host Name | 携四儿战五狗 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:42:14 |
 
 
