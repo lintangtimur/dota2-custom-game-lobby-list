@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606840539430 |
-| Players | 5/15 |
+| Players | 14/15 |
 | Host Name | alina |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:41:34 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606840494774 |
-| Players | 5/8 |
-| Host Name | ? |
+| Lobby ID | 28509606840933336 |
+| Players | 1/8 |
+| Host Name | Prime говядина" |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:41:31 |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:42:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606840428034 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | quacc |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:41:27 |
@@ -59,10 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606840530593 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | —月亮彩虹 ！ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:41:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606840797450 |
+| Players | 1/15 |
+| Host Name | strangby |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:41:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606841070512 |
+| Players | 1/8 |
+| Host Name | я проклят FruKt1k |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:42:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606841074115 |
+| Players | 3/8 |
+| Host Name | UNDEAD EVIL |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:42:09 |
 
 
 |  | epic_boss_fight_normal |
