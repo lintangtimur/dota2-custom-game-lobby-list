@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 10:54:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606580801870 |
-| Players | 22/24 |
-| Host Name | xJw |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:46:44 |
+| Lobby ID | 28509606585189770 |
+| Players | 6/10 |
+| Host Name | ♿🧠 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:55:21 |
 
 
 |  | ot3_desert_octet |
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Paul Thomas Anderson |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:55:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606585254197 |
+| Players | 1/15 |
+| Host Name | kötsibëu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:55:29 |
 
 
 |  | epic_boss_fight_nightmare |
