@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606616757377 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | RyQゆた |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:56:09 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606616365307 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Samol |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:55:24 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606617089915 |
+| Lobby ID | 28509606617175305 |
 | Players | 2/10 |
 | Host Name | Тайлер Дырдырчик |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:56:48 |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:56:58 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | JMC |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:54:32 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28509606617007351 |
-| Players | 1/5 |
-| Host Name | 迪马 ماسلينيكوف |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:56:38 |
 
 
 |  | epic_boss_fight_normal |
