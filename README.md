@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606766304283 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | [UA]-Trane |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:04:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606766446992 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Фастум гей |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:05:10 |
@@ -63,5 +63,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | cant talk with animals |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:59:49 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28509606766796751 |
+| Players | 1/5 |
+| Host Name | Hash!moTo |
+| Region | AUSTRIA |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:05:40 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28509606766809756 |
+| Players | 1/7 |
+| Host Name | losituta |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:05:41 |
 
 
