@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606683334072 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | TianMing |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:59:55 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:58:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606682951310 |
-| Players | 14/15 |
-| Host Name | "GoPositive.bet" ARS - Bets4.fun |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:59:16 |
 
 
 |  | epic_boss_fight_nightmare |
