@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 16:34:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606787394637 |
-| Players | 11/15 |
-| Host Name | pressure |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:34:14 |
+| Lobby ID | 28509606783844264 |
+| Players | 23/24 |
+| Host Name | FuxiDragon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:29:24 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606785076211 |
-| Players | 2/15 |
+| Players | 7/15 |
 | Host Name | DOODLES |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:31:05 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606787001831 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | She looks like starry sky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:33:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606787320909 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Takanashi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:34:08 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606786990947 |
-| Players | 2/10 |
-| Host Name | dead blonde |
+| Players | 1/10 |
+| Host Name | ? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:33:41 |
 
@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 16:34:58 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606788083307 |
-| Players | 1/24 |
-| Host Name | пукнул в попку |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:35:10 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606788229854 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Jim |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:35:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509606788613613 |
+| Players | 1/10 |
+| Host Name | dead blonde |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:35:53 |
 
 
 |  | epic_boss_fight_nightmare |
