@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606586529727 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | nicki nicole fan |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:58:00 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606586352089 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Camu Camu |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:57:39 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606586271708 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | una chiki no ma... |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:57:29 |
@@ -50,16 +50,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606585868031 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | kötsibëu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:56:41 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606586709272 |
+| Players | 1/8 |
+| Host Name | 离手鸳鸯刀 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:58:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606586755970 |
+| Players | 1/8 |
+| Host Name | пот |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:58:27 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606585441834 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | lupanamaingatrasa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:55:51 |
