@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177013987249 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | MinD |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:44:28 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177015191366 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | FEEL ME? |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:47:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177015773882 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | PIERDE MRD |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:48:55 |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177016047312 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Murphy's Law |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:49:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511177016083392 |
+| Players | 1/8 |
+| Host Name | BigKing Assault Mode |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:49:42 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511177016082976 |
+| Players | 3/15 |
+| Host Name | Костя |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:49:42 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28511177014647526 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | Gamer 12 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:46:07 |
