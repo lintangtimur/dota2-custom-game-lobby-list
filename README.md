@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606611585290 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | STINKY BUTTHOLE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:46:16 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606611455453 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | ☆-_"KlausS"_-☆ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:46:01 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606611015903 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | ScorpioN |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:45:11 |
@@ -45,6 +45,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Guadianeitor.giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:45:59 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606611674723 |
+| Players | 4/24 |
+| Host Name | Varian Wrynn |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:46:26 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606611693674 |
+| Players | 1/24 |
+| Host Name | Con trai của Chén Thánh |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:46:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606611730507 |
+| Players | 1/8 |
+| Host Name | пеписька |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:46:33 |
 
 
 |  | epic_boss_fight_nightmare |
