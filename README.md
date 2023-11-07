@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606560442851 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Bajando locura |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:08:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606560797592 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | g6 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:08:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606560729416 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | MATA CABROS |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:08:49 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606560825286 |
-| Players | 4/24 |
+| Players | 10/24 |
 | Host Name | juan hit juander™ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:09:00 |
@@ -110,24 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 10:09:14 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606561170878 |
-| Players | 1/15 |
-| Host Name | 寂寞旁白 |
-| Region | Unknown |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:09:39 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606561197817 |
-| Players | 1/24 |
-| Host Name | David |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:09:42 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606557913870 |
@@ -140,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606559344182 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Booberries |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:06:15 |
