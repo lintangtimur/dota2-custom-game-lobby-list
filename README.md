@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606763170723 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Тапок |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:00:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606765365889 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Huylo |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:03:38 |
@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28509606765459608 |
 | Players | 1/8 |
-| Host Name | coжpaл пoл блиcтepa peмaнтaдинa |
+| Host Name | Плита) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:03:46 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606762722359 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | cant talk with animals |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:59:49 |
