@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177004199054 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Meow‘’ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:21:30 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177004080938 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Pure absolute POWER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:21:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607669615738 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:05:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177003367571 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | ElGO TITO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:19:47 |
@@ -76,11 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177004895292 |
+| Lobby ID | 28511177004960098 |
 | Players | 1/8 |
-| Host Name | www.twitch.tv/eltiosilencer |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:23:00 |
+| Host Name | 20th Century |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:23:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511177004961161 |
+| Players | 1/8 |
+| Host Name | SHARK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:23:09 |
 
 
 |  | epic_boss_fight_nightmare |
