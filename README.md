@@ -38,42 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 06:42:13 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511177013395742 |
-| Players | 1/10 |
-| Host Name | Stole Your Life |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:43:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511177012915434 |
-| Players | 3/10 |
-| Host Name | KiW3^ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:41:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511177013653933 |
-| Players | 1/15 |
-| Host Name | .iso |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:43:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511177013329308 |
-| Players | 5/15 |
-| Host Name | . |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:42:53 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177013781740 |
@@ -83,10 +47,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 06:43:58 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511177012915434 |
+| Players | 5/10 |
+| Host Name | KiW3^ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:41:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511177013653933 |
+| Players | 2/15 |
+| Host Name | .iso |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:43:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511177013329308 |
+| Players | 9/15 |
+| Host Name | . |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:42:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511177013895068 |
+| Players | 6/10 |
+| Host Name | are you sure? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:44:14 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511177004159293 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | pluh |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:21:24 |
