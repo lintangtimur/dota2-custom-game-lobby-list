@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606630036768 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Fredikum |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:21:12 |
@@ -38,22 +38,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 12:20:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606630508042 |
-| Players | 6/10 |
-| Host Name | The Perfect Girl |
+| Lobby ID | 28509606631574093 |
+| Players | 1/24 |
+| Host Name | JAustin |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:22:06 |
+| Lobby Creation Time | Tuesday, November 7, 2023 12:24:08 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606631000372 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | weeks ago |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:23:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606631557493 |
+| Players | 5/8 |
+| Host Name | Stich |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 7, 2023 12:24:06 |
 
 
 |  | epic_boss_fight_nightmare |
