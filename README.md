@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606665954634 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | ARi |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:29:32 |
@@ -41,28 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606669948603 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Кривые Руки 228 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:36:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606667057970 |
-| Players | 7/8 |
-| Host Name | xdxdxd |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:31:27 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606669621150 |
-| Players | 2/24 |
-| Host Name | Vergilx |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:35:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -72,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Pussy Destroyer 2010 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:36:56 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606669621150 |
+| Players | 2/24 |
+| Host Name | Vergilx |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:35:56 |
 
 
 |  | epic_boss_fight_nightmare |
