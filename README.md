@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607013845463 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | Ювелир |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:00:13 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509607018714922 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Ivan Zolo (prime) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:03:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606997827513 |
-| Players | 1/8 |
-| Host Name | Lorenzo el Gallo (Cuti) |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:49:56 |
+| Lobby ID | 28509607001844908 |
+| Players | 5/24 |
+| Host Name | Kermit Da Frog |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:52:31 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607017676304 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | cursed |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:02:40 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509607018177459 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Miker The One |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:02:59 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607016691791 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | I can do it |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:02:02 |
@@ -122,8 +122,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509607008606716 |
-| Players | 6/8 |
-| Host Name | Сын Венгерской Бляди |
+| Players | 3/8 |
+| Host Name | THC Spirit |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:56:51 |
 
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606973235072 |
-| Players | 6/24 |
+| Players | 17/24 |
 | Host Name | ~BlastZ~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:33:47 |
@@ -146,28 +146,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 20:01:55 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509607001844908 |
-| Players | 8/24 |
-| Host Name | main character vibes |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:52:31 |
+| Lobby ID | 28509607002193272 |
+| Players | 2/10 |
+| Host Name | Remiferia |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:52:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509607017692745 |
-| Players | 12/15 |
-| Host Name | SweetheartYuki |
+| Lobby ID | 28509607019601229 |
+| Players | 3/8 |
+| Host Name | Immortal Zodd |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 20:02:41 |
+| Lobby Creation Time | Tuesday, November 7, 2023 20:03:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509607019628735 |
+| Players | 2/8 |
+| Host Name | Dimas3k_spidoznыi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 20:03:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509607010833638 |
+| Players | 2/8 |
+| Host Name | russkaсhurka2006 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:58:17 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509607017228096 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | How Do I Play? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:02:23 |
