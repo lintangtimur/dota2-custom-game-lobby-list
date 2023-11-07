@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606771347730 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | fated |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:12:06 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606772029072 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Йаcobs monarch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:13:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606772015483 |
-| Players | 1/8 |
-| Host Name | GOLUBOGLAZIY ARIEC |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:13:02 |
 
 
 |  | epic_boss_fight_nightmare |
