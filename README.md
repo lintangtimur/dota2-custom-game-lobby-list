@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 19:27:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606932527261 |
-| Players | 12/15 |
-| Host Name | Pulsar |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:04:24 |
+| Lobby ID | 28509606973235072 |
+| Players | 15/24 |
+| Host Name | VARIO 160 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:33:47 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606997049878 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Dr.Evil |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:49:26 |
@@ -86,43 +86,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606996848931 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Девид Тренч |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:49:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606992963453 |
-| Players | 2/10 |
-| Host Name | vanderreigh |
+| Lobby ID | 28509606967598911 |
+| Players | 5/15 |
+| Host Name | vsmpzd |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:46:47 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606997113910 |
-| Players | 1/24 |
-| Host Name | Galearcher |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:49:28 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606973235072 |
-| Players | 14/24 |
-| Host Name | VARIO 160 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:33:47 |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:29:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606983618004 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Wez |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:40:44 |
@@ -164,12 +146,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 19:33:33 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28509606997529939 |
-| Players | 1/5 |
-| Host Name | Mork |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:49:44 |
+| Lobby ID | 28509606984527563 |
+| Players | 1/10 |
+| Host Name | WHAT NOT TO DO IN DOTA2 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:41:19 |
 
 
