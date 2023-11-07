@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606798014319 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Prime говядина" |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:48:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606797706387 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | NSshliapa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:48:12 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28509606797478071 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | jusplayin |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:47:53 |
