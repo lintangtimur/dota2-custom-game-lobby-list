@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606787394637 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | pressure |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:34:14 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606786638258 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | waiting for death |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:33:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606787320909 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Takanashi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:34:08 |
@@ -83,10 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 16:35:10 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606788229854 |
+| Players | 1/8 |
+| Host Name | Jim |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:35:21 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606786842609 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | cant talk with animals |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:33:28 |
