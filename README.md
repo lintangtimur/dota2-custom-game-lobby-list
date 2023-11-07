@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606536363586 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | MEFISTOFELES |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:22:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606537033049 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Jet |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:23:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606537238463 |
-| Players | 6/8 |
+| Players | 3/8 |
 | Host Name | ella te dejo por mi |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:24:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606537250787 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Invincible under the Heavens |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:24:23 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606536090704 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Eddie Meduza |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:22:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606536870777 |
-| Players | 7/8 |
-| Host Name | Tu Terror |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:23:38 |
 
 
 |  | ot3_necropolis_ffa |
