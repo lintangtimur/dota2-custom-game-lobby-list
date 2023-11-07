@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606729373032 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Komaru |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:11:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606729337690 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | theOne |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:11:45 |
@@ -50,46 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606728255515 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Br0ker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:10:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606728721437 |
-| Players | 7/8 |
-| Host Name | $ t ₳ $ $ Όη4iᶄ⓺⓺⓺ |
+| Lobby ID | 28509606729747804 |
+| Players | 4/15 |
+| Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:10:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606728786725 |
-| Players | 1/8 |
-| Host Name | xxxx |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:10:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606729628388 |
-| Players | 1/8 |
-| Host Name | Odinn |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:12:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606729670388 |
-| Players | 6/10 |
-| Host Name | 11:11 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:12:15 |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:12:22 |
 
 
 |  | ot3_jungle_quintet |
@@ -103,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606729723058 |
+| Lobby ID | 28509606729628388 |
 | Players | 1/8 |
-| Host Name | Жак Оакфиелд |
+| Host Name | Odinn |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:12:20 |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:12:11 |
 
 
 |  | epic_boss_fight_nightmare |
