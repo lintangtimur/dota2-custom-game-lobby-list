@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606816360741 |
-| Players | 6/8 |
-| Host Name | Legend[S.L.L] |
+| Players | 5/8 |
+| Host Name | ☯ Quiche™ |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:12:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606816684286 |
-| Players | 1/10 |
-| Host Name | ⓭ |
+| Lobby ID | 28509606816852107 |
+| Players | 9/15 |
+| Host Name | Jag |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:13:07 |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:13:19 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 17:10:43 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606816778423 |
-| Players | 3/24 |
-| Host Name | fam0us |
+| Lobby ID | 28509606816880349 |
+| Players | 1/10 |
+| Host Name | Kid diddler |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:13:14 |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:13:22 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606816414269 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | How Do I Play? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:12:47 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606816479018 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Booberries |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:12:52 |
