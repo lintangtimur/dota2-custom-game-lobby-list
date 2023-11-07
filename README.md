@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606701878562 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | ¿ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:29:58 |
@@ -29,24 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 14:13:13 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606697671490 |
-| Players | 14/15 |
-| Host Name | SpiritMoon |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:23:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606702356507 |
-| Players | 3/8 |
-| Host Name | Killua[RU] |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:30:43 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606685458596 |
@@ -59,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606700438988 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Alessia Cara |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:27:41 |
