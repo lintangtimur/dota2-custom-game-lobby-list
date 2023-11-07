@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606845719067 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Legend[S.L.L] |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:47:13 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606843129394 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | 範馬刃牙 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:44:24 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606843734979 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | не надо дядя |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:45:03 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 17:47:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606846191887 |
-| Players | 1/15 |
-| Host Name | ✪Pinch |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:47:44 |
+| Lobby ID | 28509606846250717 |
+| Players | 1/8 |
+| Host Name | no more enemies#MR |
+| Region | AUSTRIA |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:47:48 |
 
 
 |  | epic_boss_fight_normal |
@@ -119,12 +119,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 17:33:04 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28509606846242768 |
+| Players | 1/5 |
+| Host Name | THE G |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:47:47 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28509606839135467 |
-| Players | 8/10 |
-| Host Name | Raging.Hope |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:40:01 |
+| Lobby ID | 28509606846357300 |
+| Players | 1/10 |
+| Host Name | Oderjimyi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:47:55 |
 
 
