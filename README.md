@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177004199054 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Meow‘’ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:21:30 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177004080938 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Pure absolute POWER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:21:15 |
@@ -59,10 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177004642758 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | KOUSSSAAAA |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:22:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511177004661316 |
+| Players | 1/10 |
+| Host Name | Kiyopon |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:22:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511177004061220 |
+| Players | 13/15 |
+| Host Name | DAY 1.0 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:21:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511177004168840 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Next |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:21:26 |
