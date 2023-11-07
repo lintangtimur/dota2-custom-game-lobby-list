@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606595029609 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Mandrake |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:14:48 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 11:11:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606593335772 |
-| Players | 14/15 |
-| Host Name | juliale |
+| Lobby ID | 28509606594910085 |
+| Players | 1/24 |
+| Host Name | MERLYN |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:11:37 |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:14:35 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606594642315 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | TT |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:14:04 |
@@ -81,23 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Envy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:14:08 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606594910085 |
-| Players | 1/24 |
-| Host Name | MERLYN |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:14:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606595095950 |
-| Players | 5/8 |
-| Host Name | Ching Fu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:14:56 |
 
 
