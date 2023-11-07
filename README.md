@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509607299414513 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | Furkan |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 22:54:15 |
@@ -76,65 +76,47 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509607299026506 |
-| Players | 11/15 |
-| Host Name | SQUIDWARD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 22:53:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509607296932250 |
-| Players | 9/10 |
-| Host Name | киберскуф |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 22:52:25 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509607294131033 |
-| Players | 13/24 |
-| Host Name | MoonWalker |
+| Lobby ID | 28509607299152105 |
+| Players | 2/15 |
+| Host Name | coronel Leoncio Prado Gutiérrez |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 22:50:22 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509607295874094 |
-| Players | 9/10 |
-| Host Name | Crisss |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 22:51:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509607298382293 |
-| Players | 4/8 |
-| Host Name | Streptococcus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 22:53:29 |
+| Lobby Creation Time | Tuesday, November 7, 2023 22:54:03 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607299038105 |
-| Players | 2/15 |
+| Players | 9/15 |
 | Host Name | Elya |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 22:53:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509607299152105 |
-| Players | 1/15 |
-| Host Name | coronel Leoncio Prado Gutiérrez |
+| Lobby ID | 28509607294131033 |
+| Players | 15/24 |
+| Host Name | MoonWalker |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 22:54:03 |
+| Lobby Creation Time | Tuesday, November 7, 2023 22:50:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509607298382293 |
+| Players | 5/8 |
+| Host Name | Streptococcus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 22:53:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509607299609002 |
+| Players | 3/8 |
+| Host Name | Луз-Режусь |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 7, 2023 22:54:23 |
 
 
 |  | epic_boss_fight_normal |
