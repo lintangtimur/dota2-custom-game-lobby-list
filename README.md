@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607044013968 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | ME and 4 trashness®³ |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:19:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607260624817 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | For What?? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 22:27:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607289771819 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Hari Seldon |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 22:47:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607210284118 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Потише |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 21:56:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607288230675 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Dmitry Moretz |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 22:46:09 |
@@ -158,8 +158,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509607290676916 |
-| Players | 6/8 |
-| Host Name | я не сдамся |
+| Players | 5/8 |
+| Host Name | попа |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 22:47:53 |
 
@@ -184,11 +184,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509607293082924 |
-| Players | 3/10 |
-| Host Name | Коля Железяка |
-| Region | EUROPE |
+| Lobby ID | 28509607293118360 |
+| Players | 5/10 |
+| Host Name | 9IKOPb(изпенопласта) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 22:49:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509607293084050 |
+| Players | 1/10 |
+| Host Name | sojupapi |
+| Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 22:49:37 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509607257383170 |
+| Players | 2/10 |
+| Host Name | triz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 22:25:13 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509607293325354 |
+| Players | 1/24 |
+| Host Name | EmiSaRio- |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 22:49:47 |
 
 
 |  | epic_boss_fight_normal |
