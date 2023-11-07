@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606551717090 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Zhico |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:52:06 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606552479566 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | MTH |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:53:29 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606551096478 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | moddd |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:50:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606552687192 |
-| Players | 9/10 |
-| Host Name | YAUJA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:53:52 |
+| Lobby ID | 28509606554082723 |
+| Players | 1/15 |
+| Host Name | Neutral |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:56:25 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606552304712 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | busco el ban para dejar el dota |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:53:10 |
@@ -104,25 +104,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606551779806 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | £雨٭:̶͟͞͞☆ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:52:13 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509606554127686 |
+| Players | 3/10 |
+| Host Name | nacko LoaL |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:56:30 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606554082723 |
-| Players | 1/15 |
-| Host Name | Neutral |
+| Lobby ID | 28509606552818163 |
+| Players | 14/15 |
+| Host Name | ЛДД |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:56:25 |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:54:06 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606549191547 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | timy porky |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:47:23 |
