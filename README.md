@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606636311877 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | 不和小人一般见识 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:33:08 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 12:32:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606636919441 |
-| Players | 3/15 |
-| Host Name | execute all smurfs |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:34:16 |
+| Lobby ID | 28509606637114721 |
+| Players | 5/8 |
+| Host Name | Chim-chopa |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 12:34:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606634985429 |
-| Players | 1/15 |
-| Host Name | gdog |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:30:37 |
+| Lobby ID | 28509606637096241 |
+| Players | 5/15 |
+| Host Name | El gatito erotico |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 12:34:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606637325979 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | DarkMoon |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:35:01 |
@@ -90,24 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | EN MATEMÁTICA , YO PARO CEREBRO |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:34:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606637096241 |
-| Players | 2/15 |
-| Host Name | El gatito erotico |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:34:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606637114721 |
-| Players | 1/8 |
-| Host Name | Chim-chopa |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:34:38 |
 
 
 |  | epic_boss_fight_hard |
