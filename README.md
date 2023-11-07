@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 06:52:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511177016747102 |
-| Players | 7/8 |
-| Host Name | Punisher PMA |
+| Lobby ID | 28511177016618738 |
+| Players | 9/10 |
+| Host Name | El Diferente |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:51:20 |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:51:01 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177015989138 |
-| Players | 3/24 |
+| Players | 8/24 |
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:49:28 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177016974160 |
-| Players | 12/15 |
-| Host Name | Mickey |
+| Lobby ID | 28511177016411514 |
+| Players | 14/15 |
+| Host Name | 4048 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:51:53 |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:50:31 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177016856045 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | D ~ He♥ly |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:51:36 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177016083392 |
-| Players | 5/8 |
+| Players | 2/8 |
 | Host Name | BigKing Assault Mode |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:49:42 |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 06:53:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511177016411514 |
-| Players | 14/15 |
-| Host Name | 4048 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:50:31 |
+| Lobby ID | 28511177013987249 |
+| Players | 22/24 |
+| Host Name | MinD |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:44:28 |
 
 
 |  | epic_boss_fight_nightmare |
