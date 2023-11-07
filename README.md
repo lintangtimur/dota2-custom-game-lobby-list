@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606655101490 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Peter Bot |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:09:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606658673925 |
-| Players | 7/8 |
-| Host Name | MODO GUERRA |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:16:11 |
+| Lobby ID | 28509606658529801 |
+| Players | 17/24 |
+| Host Name | Help me carry these animals! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:15:54 |
 
 
 |  | ot3_gardens_duo |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | markb0y |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:15:19 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606658529801 |
-| Players | 16/24 |
-| Host Name | Help me carry these animals! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:15:54 |
 
 
 |  | epic_boss_fight_nightmare |
