@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177003177882 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | BISCUIT OLIVA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:19:25 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177009041995 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Vengeance |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:32:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177009253276 |
-| Players | 1/8 |
-| Host Name | ваша мать съедена |
+| Lobby ID | 28511177009356149 |
+| Players | 6/15 |
+| Host Name | SadDuck39 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:33:04 |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:33:19 |
 
 
 |  | ot3_gardens_duo |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177009297959 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | икарусдайв |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:33:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177009356149 |
-| Players | 4/15 |
-| Host Name | SadDuck39 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:33:19 |
+| Lobby ID | 28511177009484685 |
+| Players | 1/8 |
+| Host Name | Rousseau |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:33:37 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -103,10 +103,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28511177008880290 |
-| Players | 1/5 |
+| Lobby ID | 28511177009478047 |
+| Players | 2/5 |
+| Host Name | Sex Mashina csgorun |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:33:36 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511177009501478 |
+| Players | 1/10 |
 | Host Name | Nineinchcow |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:32:11 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:33:39 |
 
 
