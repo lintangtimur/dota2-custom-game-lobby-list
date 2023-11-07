@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606595566621 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | ella te dejo por mi |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:15:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606595419826 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:15:33 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606595506079 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Pakazs de dia pajas de noche |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:15:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606595311289 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | loda |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:15:20 |
