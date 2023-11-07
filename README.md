@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606715008362 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | S |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:50:06 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 14:36:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606710993138 |
-| Players | 1/15 |
-| Host Name | GiacobE |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:44:03 |
+| Lobby ID | 28509606715113489 |
+| Players | 1/10 |
+| Host Name | hate everyone who look at me |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:50:15 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606714179705 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | METADON USER |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:48:50 |
@@ -76,20 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606715113489 |
+| Lobby ID | 28509606715392259 |
 | Players | 1/10 |
-| Host Name | hate everyone who look at me |
+| Host Name | ОЛЕЧКА БУЗОВА |
 | Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:50:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606715262890 |
-| Players | 2/8 |
-| Host Name | satoru gojo |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:50:29 |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:50:40 |
 
 
 |  | epic_boss_fight_nightmare |
