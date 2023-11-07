@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606957987706 |
-| Players | 2/10 |
-| Host Name | чайный гриб |
+| Lobby ID | 28509606950043328 |
+| Players | 2/8 |
+| Host Name | ???% |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:23:12 |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:17:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606938188612 |
-| Players | 8/10 |
-| Host Name | kokoko |
+| Lobby ID | 28509606959132331 |
+| Players | 2/24 |
+| Host Name | SUBO 1XBET |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:08:45 |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:24:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606956899224 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Твоя мама |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:22:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606950930624 |
-| Players | 4/15 |
+| Players | 2/15 |
 | Host Name | Superman |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:18:09 |
@@ -95,28 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606930492038 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | Teqilka# [V] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:02:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606956665643 |
-| Players | 7/8 |
-| Host Name | mtvsktn dababy110011111111 |
+| Lobby ID | 28509606958659111 |
+| Players | 5/10 |
+| Host Name | ckomo6oйня |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:22:15 |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:23:40 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606932527261 |
-| Players | 12/15 |
-| Host Name | Grot |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:04:24 |
+| Lobby ID | 28509606960142118 |
+| Players | 1/15 |
+| Host Name | DEATHCURE |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:24:43 |
 
 
 |  | ot3_desert_octet |
@@ -139,35 +139,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606950043328 |
-| Players | 2/8 |
-| Host Name | ???% |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:17:31 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606958659111 |
-| Players | 2/10 |
-| Host Name | ckomo6oйня |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:23:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606959132331 |
-| Players | 2/24 |
-| Host Name | SUBO 1XBET |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:24:01 |
+| Lobby ID | 28509606960353212 |
+| Players | 4/8 |
+| Host Name | tr3k |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:24:52 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606959426493 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | БАТЯ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:24:13 |
@@ -177,8 +159,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28509606950794915 |
 | Players | 1/10 |
-| Host Name | Guess who's who |
+| Host Name | PapaJohari |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:18:03 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28509606960422300 |
+| Players | 1/7 |
+| Host Name | KAIBAI1 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:24:55 |
 
 
