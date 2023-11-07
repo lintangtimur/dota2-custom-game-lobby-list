@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606559480723 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Ninja Pirate |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:06:30 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606557399079 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Ligis |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:02:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606544546507 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | NENEK PEYOT PDIP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:38:34 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606560265138 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | MADARA666 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:07:57 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606558613141 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Dango Daikazoku |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:04:53 |
