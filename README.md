@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606654002937 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 346515 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:07:10 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606654382665 |
-| Players | 2/8 |
-| Host Name | Blank390 |
+| Players | 1/8 |
+| Host Name | ~.~ |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:07:54 |
 
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | panço |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:06:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606654594017 |
+| Players | 3/8 |
+| Host Name | /b/itard264 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:08:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606654592856 |
+| Players | 1/24 |
+| Host Name | Ohayo! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:08:19 |
 
 
 |  | epic_boss_fight_hard |
