@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606564431434 |
-| Players | 7/8 |
-| Host Name | Odinn |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:15:40 |
+| Lobby ID | 28509606567155732 |
+| Players | 4/8 |
+| Host Name | Maliketh La Hoja Negra |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:20:48 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606566062518 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | DΛЯK SIDΣ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:18:44 |
