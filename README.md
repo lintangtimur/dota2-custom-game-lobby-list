@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606755715135 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | kto takoi ment>? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:49:55 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606757313080 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Grim |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:52:10 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606757822972 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | pray for daxak |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:52:53 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kukuri |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:50:12 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28509606757970158 |
+| Players | 1/10 |
+| Host Name | GLUK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:53:06 |
 
 
