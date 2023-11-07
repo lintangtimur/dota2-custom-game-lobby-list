@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606973235072 |
-| Players | 15/24 |
-| Host Name | VARIO 160 |
+| Players | 12/24 |
+| Host Name | 全年无休游廊 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:33:47 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606993751645 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Хьюстон я проблем |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:47:19 |
@@ -95,10 +95,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606967598911 |
-| Players | 5/15 |
+| Players | 14/15 |
 | Host Name | vsmpzd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:29:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606997827513 |
+| Players | 1/8 |
+| Host Name | Lorenzo el Gallo (Cuti) |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:49:56 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606985143268 |
+| Players | 21/24 |
+| Host Name | beebee |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:41:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606998081216 |
+| Players | 1/8 |
+| Host Name | bananaana |
+| Region | AUSTRIA |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:50:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606995725767 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Tiimii ~ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:48:35 |
@@ -140,8 +167,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606972867946 |
-| Players | 5/10 |
-| Host Name | Soos |
+| Players | 1/10 |
+| Host Name | ♦_♦ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:33:33 |
 
