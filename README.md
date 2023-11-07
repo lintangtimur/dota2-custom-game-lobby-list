@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606804845957 |
-| Players | 8/8 |
+| Players | 5/8 |
 | Host Name | lasthit practitioner |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:57:43 |
@@ -41,34 +41,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606800335830 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:51:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606808601837 |
-| Players | 1/10 |
-| Host Name | [ZIG]Arthas |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:02:44 |
+| Lobby ID | 28509606808715022 |
+| Players | 4/8 |
+| Host Name | Jane.A7x |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:02:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606808605917 |
-| Players | 1/10 |
-| Host Name | [ZIG] popochka |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:02:44 |
+| Lobby ID | 28509606808677660 |
+| Players | 1/15 |
+| Host Name | yvi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:02:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606808746360 |
+| Players | 3/8 |
+| Host Name | LosersQ is real |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:02:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606804489175 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | FRIENDLY THUG 52 NGG |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:57:15 |
