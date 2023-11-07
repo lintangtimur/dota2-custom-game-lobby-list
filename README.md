@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606772029072 |
-| Players | 7/8 |
-| Host Name | Йаcobs monarch |
+| Lobby ID | 28509606771347730 |
+| Players | 11/15 |
+| Host Name | fated |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:13:03 |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:12:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606765395063 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Smurfosaurus-Rekt |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:03:40 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606767612529 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Kukurikapu |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:06:49 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606770488609 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:10:52 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606771223656 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | BlastBeats |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:11:55 |
@@ -54,24 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Deadline |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:12:39 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606771347730 |
-| Players | 10/15 |
-| Host Name | fated |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:12:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606768383035 |
-| Players | 14/15 |
-| Host Name | Ни дня без дрочки |
-| Region | AUSTRIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:07:54 |
 
 
 |  | epic_boss_fight_nightmare |
