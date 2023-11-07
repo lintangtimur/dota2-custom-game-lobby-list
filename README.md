@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177016083392 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | BigKing Assault Mode |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:49:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177016618738 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | El Diferente |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:51:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177016411514 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Predrag Krtolica |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:50:31 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | kaiser^^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:50:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511177016718383 |
+| Players | 3/10 |
+| Host Name | Ferdshooky |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:51:16 |
 
 
 |  | epic_boss_fight_normal |
