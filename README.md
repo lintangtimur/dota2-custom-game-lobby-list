@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606810033142 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | 厄運 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:04:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606800335830 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:51:44 |
@@ -65,6 +65,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 17:05:49 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606811343536 |
+| Players | 4/8 |
+| Host Name | ★ ραяα∂σχ |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:06:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606811359672 |
+| Players | 5/15 |
+| Host Name | twitch.tv/HYPETAME |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:06:19 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606810536019 |
@@ -81,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Славный Котик Иут |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:58:32 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28509606811383298 |
+| Players | 1/5 |
+| Host Name | СИНИЦА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:06:21 |
 
 
