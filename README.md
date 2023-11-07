@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606705275513 |
-| Players | 12/15 |
-| Host Name | fated |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:35:17 |
+| Lobby ID | 28509606706750555 |
+| Players | 3/15 |
+| Host Name | Thug Life |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:37:34 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606706940068 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:37:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606704999141 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | not quite my tempo |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:34:52 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606706417974 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | BMW-MOSCOW |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:37:03 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606706750555 |
-| Players | 3/15 |
-| Host Name | Thug Life |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:37:34 |
+| Lobby ID | 28509606704372969 |
+| Players | 13/15 |
+| Host Name | DanTe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:33:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -83,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 14:35:55 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28509606707011591 |
-| Players | 2/7 |
+| Lobby ID | 28509606707444390 |
+| Players | 2/5 |
 | Host Name | Рыхлый Бугорок |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:37:58 |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:38:38 |
 
 
