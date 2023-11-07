@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606631574093 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | JAustin |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:24:08 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 12:26:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606632603297 |
-| Players | 14/15 |
-| Host Name | fated |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:26:03 |
+| Lobby ID | 28509606633846833 |
+| Players | 2/24 |
+| Host Name | [JnM]Nickname |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 12:28:26 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606632790093 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Collapse |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:26:24 |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 12:28:03 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606633662556 |
-| Players | 1/8 |
-| Host Name | шрек 2 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:28:05 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606633846833 |
-| Players | 1/24 |
-| Host Name | [JnM]Nickname |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:28:26 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606628106440 |
@@ -95,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606632196195 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | lupanamaingatrasa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:25:17 |
