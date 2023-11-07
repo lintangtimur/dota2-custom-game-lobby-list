@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606563494470 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Grimcharm |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:13:57 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606562650940 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | Mouches Volantes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:12:25 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606560830400 |
-| Players | 4/8 |
-| Host Name | Jivchik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:09:00 |
+| Lobby ID | 28509606564030188 |
+| Players | 6/8 |
+| Host Name | LALATROLA giordota.com |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:14:56 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606563346365 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Кабан Пятно |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:13:40 |
@@ -74,21 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 09:38:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606563262627 |
-| Players | 14/15 |
-| Host Name | Sapa Inca |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:13:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606563994535 |
-| Players | 2/10 |
-| Host Name | Emonika |
+| Lobby ID | 28509606560830400 |
+| Players | 4/8 |
+| Host Name | Jivchik |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:14:52 |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:09:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606564112920 |
+| Players | 1/8 |
+| Host Name | Kärss |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:15:05 |
 
 
