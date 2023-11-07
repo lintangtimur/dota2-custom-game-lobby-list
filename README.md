@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606598912479 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Tomawa |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:22:14 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606600887695 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | hiro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:25:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606600540043 |
-| Players | 11/15 |
+| Players | 7/15 |
 | Host Name | Connor McGee Thor |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:25:16 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606600375636 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | LION EL MESI |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:24:58 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606601635860 |
-| Players | 6/10 |
+| Players | 1/10 |
 | Host Name | helios fort |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:27:22 |
@@ -119,10 +119,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 11:27:23 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509606601762378 |
+| Players | 3/10 |
+| Host Name | MACA DRAKULINI |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:27:36 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606601770706 |
+| Players | 1/15 |
+| Host Name | Pro_E_Boss |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:27:37 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606598680884 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Buzzlaytyir |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:21:47 |
