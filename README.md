@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606613955054 |
-| Players | 5/10 |
-| Host Name | Sr Timba |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:50:47 |
+| Lobby ID | 28509606615067080 |
+| Players | 3/15 |
+| Host Name | execute all smurfs |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:52:54 |
 
 
 |  | ot3_gardens_duo |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Feelingpeace’s |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:52:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606615146228 |
+| Players | 6/15 |
+| Host Name | WOSORU |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:53:03 |
 
 
