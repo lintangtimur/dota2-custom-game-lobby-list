@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606606975894 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | MD. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:37:37 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 11:39:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606605014090 |
-| Players | 14/15 |
-| Host Name | antigamer |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:33:51 |
+| Lobby ID | 28509606608668113 |
+| Players | 1/24 |
+| Host Name | [R][O][A][M] |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:40:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,17 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606608664126 |
-| Players | 2/24 |
+| Players | 8/24 |
 | Host Name | Amaraki |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:40:47 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606608668113 |
-| Players | 1/24 |
-| Host Name | [R][O][A][M] |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:40:47 |
 
