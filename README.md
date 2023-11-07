@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606754544958 |
+| Lobby ID | 28509606754687626 |
 | Players | 2/15 |
 | Host Name | How u doin? |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:48:14 |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:48:27 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606743107617 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | F R 1 S S🐱‍👤🐱‍👤 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:31:53 |
@@ -63,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SnowFire |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:45:44 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28509606754559963 |
-| Players | 1/5 |
-| Host Name | [*BaSkeTka*] |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:48:16 |
 
 
