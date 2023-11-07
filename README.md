@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606566468250 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Кабан Пятно |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:19:30 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606567489316 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | O'Scully |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:21:26 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606567446345 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Madafvcka |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:21:22 |
@@ -108,6 +108,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ꧁【✰VanSerio✰】꧂ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:21:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606567693276 |
+| Players | 1/24 |
+| Host Name | Rawone |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:21:50 |
 
 
 |  | epic_boss_fight_nightmare |
