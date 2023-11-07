@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606551717090 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Zhico |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:52:06 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606552479566 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | MTH |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:53:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606555927935 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | 299 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:59:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606552304573 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Dreamer |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:53:10 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606544546507 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | NENEK PEYOT PDIP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:38:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606553411816 |
-| Players | 7/8 |
-| Host Name | legacy52 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:55:10 |
+| Lobby ID | 28509606556001599 |
+| Players | 3/15 |
+| Host Name | 耶稣 ✪ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:59:59 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606555435178 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Glump |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:58:55 |
