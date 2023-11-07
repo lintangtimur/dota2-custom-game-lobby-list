@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509607163622509 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | Light- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 21:28:43 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509607113399416 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | Gilderoy Fickthart |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:59:38 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607148517708 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | equilibrium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 21:20:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509607154985033 |
-| Players | 7/8 |
-| Host Name | ТРЁХНОГИЙ ДЖО |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 21:23:47 |
+| Lobby ID | 28509607166542613 |
+| Players | 5/15 |
+| Host Name | Z E R O |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 7, 2023 21:30:24 |
 
 
 |  | ot3_gardens_duo |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607166027924 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Твоя мама |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 21:30:06 |
@@ -167,19 +167,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607154324008 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | 無定向喪心病狂 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 21:23:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509607166468619 |
-| Players | 2/10 |
-| Host Name | БУЛЬБА FFF РАНГА |
+| Lobby ID | 28509607159501568 |
+| Players | 3/15 |
+| Host Name | Kenshi%% |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 21:30:21 |
+| Lobby Creation Time | Tuesday, November 7, 2023 21:26:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509607163574108 |
+| Players | 13/15 |
+| Host Name | persikoviyles |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 21:28:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509607166730816 |
+| Players | 4/8 |
+| Host Name | yes |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 21:30:31 |
 
 
 |  | epic_boss_fight_normal |
