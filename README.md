@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509607660740832 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | икарусдайв |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 05:46:52 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509607660358439 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Agho<...> |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 05:46:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607660500994 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | Σcαm4ndεr |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 05:46:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607660603192 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | hydraoxygen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 05:46:35 |
@@ -83,37 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 05:46:51 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509607660681926 |
-| Players | 2/10 |
-| Host Name | Boom-Shack-A-Lack |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 05:46:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509607660739754 |
-| Players | 2/15 |
-| Host Name | KOUSSSAAAA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 05:46:51 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607657225880 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | El Grande Padre (Feliz Navidado) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 05:39:42 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509607660860613 |
+| Players | 2/10 |
+| Host Name | Режу вены |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 05:47:06 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509607659627097 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Booberries |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 05:44:34 |
