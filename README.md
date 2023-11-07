@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606697671490 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | SpiritMoon |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:23:20 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606703391623 |
-| Players | 13/15 |
-| Host Name | Масик |
+| Lobby ID | 28509606704372969 |
+| Players | 1/15 |
+| Host Name | DanTe |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:32:22 |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:33:54 |
 
 
 |  | ot3_desert_octet |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:33:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606704372969 |
-| Players | 2/15 |
-| Host Name | DanTe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:33:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606702014299 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | z |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:30:11 |
