@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606741277831 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Канибал |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:29:13 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606744154841 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | waiting for death |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:33:25 |
@@ -45,6 +45,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 33 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:33:43 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606745449812 |
+| Players | 6/8 |
+| Host Name | 雨 |
+| Region | AUSTRIA |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:35:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606745535503 |
+| Players | 1/24 |
+| Host Name | NARBERAL GAMA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:35:24 |
 
 
 |  | epic_boss_fight_challenger |
