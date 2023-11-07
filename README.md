@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606644160004 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Mydna [Hold the Door] |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:48:00 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606647577205 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | ルPanacea灯 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:54:33 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606645150646 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Akame |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:49:55 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606648061741 |
+| Players | 3/24 |
+| Host Name | Little |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 12:55:30 |
 
 
 |  | epic_boss_fight_hard |
@@ -68,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606647491655 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | These Hands |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:54:23 |
