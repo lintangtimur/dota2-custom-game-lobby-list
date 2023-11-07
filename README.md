@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606550872304 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | MODO ELDEN LORD |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:50:31 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 09:50:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606549687920 |
-| Players | 7/10 |
-| Host Name | Might Wanna Try Fortnite |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:48:19 |
+| Lobby ID | 28509606547560119 |
+| Players | 22/24 |
+| Host Name | ieagtonrns |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:44:19 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 09:48:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606547056966 |
-| Players | 8/10 |
-| Host Name | Haczxc |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:43:22 |
+| Lobby ID | 28509606551563880 |
+| Players | 4/8 |
+| Host Name | Maliketh La Hoja Negra |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:51:49 |
 
 
 |  | ot3_desert_octet |
@@ -74,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 09:38:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606547560119 |
-| Players | 23/24 |
-| Host Name | ieagtonrns |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:44:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606551563880 |
-| Players | 2/8 |
-| Host Name | Maliketh La Hoja Negra |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:51:49 |
+| Lobby ID | 28509606551633079 |
+| Players | 2/10 |
+| Host Name | papkakok |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:51:56 |
 
 
 |  | epic_boss_fight_nightmare |
