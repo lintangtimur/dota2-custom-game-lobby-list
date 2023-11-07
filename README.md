@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606551717090 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Zhico |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:52:06 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606555927935 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Lich Stroch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:59:51 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606556164721 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | 100 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:00:18 |
@@ -117,6 +117,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DragonBack |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:01:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606557132970 |
+| Players | 1/24 |
+| Host Name | Weganerd |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:02:07 |
 
 
 |  | epic_boss_fight_nightmare |
