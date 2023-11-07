@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606800362291 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Why So Ez? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:51:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606799035008 |
-| Players | 14/15 |
-| Host Name | Jag |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:49:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -72,6 +63,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Jim |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:50:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606801365197 |
+| Players | 1/15 |
+| Host Name | gustave_flaubert |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:53:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606801353914 |
+| Players | 1/15 |
+| Host Name | Windows 10 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:53:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606801365737 |
+| Players | 1/15 |
+| Host Name | loreaan |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:53:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606800147882 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | EJL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:51:29 |
