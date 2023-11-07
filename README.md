@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 10:57:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606586126210 |
-| Players | 1/15 |
-| Host Name | Devuelvo comend, GG a tu casaaaa |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:57:12 |
+| Lobby ID | 28509606586489107 |
+| Players | 5/24 |
+| Host Name | :) |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:57:55 |
 
 
 |  | ot3_desert_octet |
@@ -38,40 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 10:58:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606584829909 |
-| Players | 21/24 |
-| Host Name | if you can? |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:54:38 |
+| Lobby ID | 28509606586271708 |
+| Players | 5/15 |
+| Host Name | una chiki no ma... |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:57:29 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606585868031 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | kötsibëu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:56:41 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606586489107 |
-| Players | 1/24 |
-| Host Name | :) |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:57:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606586271708 |
-| Players | 2/15 |
-| Host Name | una chiki no ma... |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:57:29 |
 
 
 |  | epic_boss_fight_nightmare |
