@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606550644415 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Feed Control |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:50:06 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606551096478 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Croockshanks - Benjibur 雨用 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:50:56 |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 09:38:34 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606550718649 |
-| Players | 14/15 |
-| Host Name | jake69 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:50:14 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606550872304 |
@@ -90,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MODO ELDEN LORD |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:50:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606551296701 |
+| Players | 1/15 |
+| Host Name | L£Ø |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:51:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | EGEON ELECATONQUIRO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:47:38 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28509606551166618 |
-| Players | 1/10 |
-| Host Name | -30 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:51:04 |
 
 
