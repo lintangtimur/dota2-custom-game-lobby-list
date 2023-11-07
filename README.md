@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606722477968 |
-| Players | 11/15 |
-| Host Name | хламидия лидии |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:01:29 |
+| Lobby ID | 28509606723023694 |
+| Players | 1/15 |
+| Host Name | 要打派派吗 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:02:19 |
 
 
 |  | epic_boss_fight_nightmare |
