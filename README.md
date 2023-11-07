@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 10:46:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606581286571 |
-| Players | 1/15 |
-| Host Name | Old Dirty |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:47:41 |
+| Lobby ID | 28509606581407095 |
+| Players | 6/24 |
+| Host Name | 乱战先锋专用帐号 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:47:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606580529723 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Varian Wrynn |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:46:13 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606580807256 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | GraF044 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:46:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606580801870 |
-| Players | 5/24 |
+| Players | 2/24 |
 | Host Name | xJw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:46:44 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606581234404 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Yanwe Quest |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:47:35 |
