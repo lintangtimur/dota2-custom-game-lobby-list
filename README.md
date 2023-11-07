@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606655934761 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | ₳ⱠɆӾ₳₳₦ĐɆⱤ ☦ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:10:56 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606653651401 |
-| Players | 6/24 |
+| Players | 14/24 |
 | Host Name | MAGA |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:06:28 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606652882157 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | BABY-ROSH (AL) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:04:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606653826929 |
-| Players | 14/15 |
-| Host Name | Mundialista |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:06:49 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BadMove |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:11:11 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28509606656888453 |
+| Players | 1/5 |
+| Host Name | skyisblue270 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:12:46 |
 
 
