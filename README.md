@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606731852427 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | I'm Eating Pusxy Like it's oreos |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:15:25 |
@@ -47,13 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 15:18:03 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606731910196 |
-| Players | 9/10 |
-| Host Name | Next |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:15:30 |
+| Lobby ID | 28509606733828185 |
+| Players | 1/15 |
+| Host Name | Тапок |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:18:17 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28509606733603052 |
+| Players | 1/5 |
+| Host Name | Sukeru-san |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:17:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -67,10 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28509606733603052 |
+| Lobby ID | 28509606733822737 |
 | Players | 1/5 |
-| Host Name | Sukeru-san |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:17:57 |
+| Host Name | ValeVat |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:18:16 |
 
 
