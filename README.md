@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 13:02:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606653420691 |
-| Players | 9/10 |
-| Host Name | Algo como un día libre |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:06:01 |
+| Lobby ID | 28509606654100078 |
+| Players | 1/8 |
+| Host Name | Blank390 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:07:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606654002937 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | 346515 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:07:10 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606651313254 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Dell Pentium 4 quad core duo 2.0 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:01:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606653013415 |
-| Players | 7/15 |
-| Host Name | El Peluca |
+| Lobby ID | 28509606654200264 |
+| Players | 2/10 |
+| Host Name | Mydna [Hold the Door] |
 | Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:05:14 |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:07:33 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606653867138 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | panço |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:06:54 |
@@ -95,28 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606653826929 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | EN MATEMÁTICA , YO PARO CEREBRO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:06:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606653987103 |
-| Players | 1/8 |
-| Host Name | xxxx |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:07:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606654100078 |
-| Players | 1/8 |
-| Host Name | Blank390 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:07:21 |
 
 
 |  | epic_boss_fight_hard |
