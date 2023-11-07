@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606653826929 |
-| Players | 14/15 |
-| Host Name | EN MATEMÁTICA , YO PARO CEREBRO |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:06:49 |
+| Lobby ID | 28509606655205216 |
+| Players | 6/15 |
+| Host Name | ickishido |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:09:31 |
 
 
 |  | ot3_necropolis_ffa |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606654612556 |
-| Players | 6/8 |
-| Host Name | Упал, отжался! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:08:21 |
+| Lobby ID | 28509606655236501 |
+| Players | 3/8 |
+| Host Name | /b/itard264 |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:09:35 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606655123399 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Norton |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:09:21 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606653651401 |
-| Players | 4/24 |
+| Players | 1/24 |
 | Host Name | MAGA |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:06:28 |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Help me carry these animals! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:08:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606655167000 |
-| Players | 1/15 |
-| Host Name | bussygrip |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:09:27 |
 
 
 |  | epic_boss_fight_hard |
