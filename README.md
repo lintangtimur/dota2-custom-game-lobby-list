@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606722823015 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | not quite my tempo |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:02:01 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606725383420 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Optimal |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:05:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606711103343 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | MAGA |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:44:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606725939107 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Jane.A7x |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:06:40 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 15:05:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606725668000 |
-| Players | 13/15 |
-| Host Name | Waste |
+| Lobby ID | 28509606726147265 |
+| Players | 1/8 |
+| Host Name | Писятдва |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:06:16 |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:06:58 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | клюква |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:06:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606726147265 |
-| Players | 1/8 |
-| Host Name | Писятдва |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:06:58 |
 
 
 |  | epic_boss_fight_nightmare |
