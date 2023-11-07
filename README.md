@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 13:56:01 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606672893222 |
-| Players | 23/24 |
-| Host Name | RiftBreaker |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:41:48 |
+| Lobby ID | 28509606682951310 |
+| Players | 14/15 |
+| Host Name | "GoPositive.bet" ARS - Bets4.fun |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:59:16 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606683334072 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | TianMing |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:59:55 |
@@ -65,12 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 13:58:44 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606683385948 |
-| Players | 1/10 |
-| Host Name | Mr. Zoidberg |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:00:00 |
+| Lobby ID | 28509606684202968 |
+| Players | 1/24 |
+| Host Name | Se7en |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:01:23 |
 
 
