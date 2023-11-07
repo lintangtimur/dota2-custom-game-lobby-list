@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606587956816 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | XCLARAX |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:00:56 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 10:59:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606587865303 |
-| Players | 5/8 |
-| Host Name | Niserzh |
+| Lobby ID | 28509606588521872 |
+| Players | 1/10 |
+| Host Name | takerusan |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:00:44 |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:02:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606587254896 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Catbug |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:59:26 |
@@ -74,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 11:01:00 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606588521872 |
-| Players | 2/10 |
-| Host Name | Nextlevel_tuuk |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:02:07 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606588679317 |
+| Lobby ID | 28509606588813839 |
 | Players | 1/8 |
-| Host Name | Luian Camix |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:02:26 |
+| Host Name | фить фить |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:02:41 |
 
 
 |  | epic_boss_fight_hard |
