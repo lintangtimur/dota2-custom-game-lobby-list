@@ -59,27 +59,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606648846704 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Odinn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:57:02 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606650912084 |
+| Players | 1/15 |
+| Host Name | GhOUL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:01:06 |
+
+
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28509606633969728 |
-| Players | 4/7 |
+| Players | 3/7 |
 | Host Name | Kok$.[NSK].54 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:28:40 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28509606649743041 |
-| Players | 10/10 |
-| Host Name | 9527 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:58:46 |
 
 
