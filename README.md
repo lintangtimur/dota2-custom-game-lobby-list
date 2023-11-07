@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606649733250 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Dragos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:58:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606651117724 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Ryu |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:01:31 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606651676058 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Aoi Rebecca 22 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:02:37 |
