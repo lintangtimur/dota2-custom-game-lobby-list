@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606889832928 |
-| Players | 1/24 |
-| Host Name | Diamond Fish sauce |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 18:29:57 |
+| Lobby ID | 28509606889717938 |
+| Players | 5/10 |
+| Host Name | Трубоеб со стажем |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:29:51 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606889903429 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | noob team |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 18:30:00 |
@@ -65,22 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 18:31:56 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606889717938 |
-| Players | 5/10 |
-| Host Name | Трубоеб со стажем |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 18:29:51 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606892506090 |
-| Players | 1/15 |
-| Host Name | МокрыйВилли |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 18:32:16 |
+| Lobby ID | 28509606892774616 |
+| Players | 2/15 |
+| Host Name | AMAZO |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:32:30 |
 
 
 |  | epic_boss_fight_nightmare |
