@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606552304573 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Krammnik |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:53:10 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606550872304 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | FG k3 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:50:31 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 09:38:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606551779806 |
-| Players | 12/15 |
-| Host Name | £雨٭:̶͟͞͞☆ |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:52:13 |
+| Lobby ID | 28509606553411816 |
+| Players | 1/8 |
+| Host Name | legacy52 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:55:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606552818163 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | flox |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:54:06 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606552304712 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | busco el ban para dejar el dota |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:53:10 |
