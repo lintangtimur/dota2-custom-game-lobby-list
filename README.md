@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606750556359 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | ht |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:42:33 |
@@ -49,20 +49,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606751165858 |
+| Lobby ID | 28509606751230331 |
 | Players | 1/15 |
-| Host Name | Billy Gibbons |
+| Host Name | Byratino |
 | Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:43:25 |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:43:30 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606751179911 |
+| Lobby ID | 28509606751230543 |
 | Players | 1/15 |
-| Host Name | Byratino |
+| Host Name | Billy Gibbons |
 | Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:43:26 |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:43:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606751308602 |
+| Players | 1/15 |
+| Host Name | Sanguinius |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:43:37 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | F R 1 S S🐱‍👤🐱‍👤 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:31:53 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28509606751125908 |
-| Players | 1/7 |
-| Host Name | SnowFire |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:43:22 |
 
 
