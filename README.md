@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606810975744 |
-| Players | 18/24 |
+| Players | 23/24 |
 | Host Name | HashiRama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:05:49 |
@@ -58,28 +58,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606814488422 |
-| Players | 1/10 |
-| Host Name | СЫН ПАНГОЛЬЕРА |
+| Lobby ID | 28509606814545938 |
+| Players | 2/10 |
+| Host Name | Дима Жмыходавов |
 | Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:10:21 |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:10:25 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606812079353 |
-| Players | 8/10 |
-| Host Name | Devel |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:07:14 |
+| Lobby ID | 28509606814576926 |
+| Players | 1/15 |
+| Host Name | strangby |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:10:28 |
 
 
-|  | epic_boss_fight_challenger |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606805452236 |
-| Players | 1/7 |
-| Host Name | Славный Котик Иут |
+| Lobby ID | 28509606814614811 |
+| Players | 1/10 |
+| Host Name | She looks like starry sky |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:58:32 |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:10:30 |
 
 
