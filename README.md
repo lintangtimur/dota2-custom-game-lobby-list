@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606812405816 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | YertleTheTurtle |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:07:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606812915668 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | большое RaZoChaRovaNiE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:08:19 |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 17:05:49 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606813632605 |
-| Players | 1/15 |
-| Host Name | PerpleXity_ |
-| Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:09:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606813263451 |
-| Players | 7/10 |
-| Host Name | Кровавый понос |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:08:46 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606813365838 |
@@ -92,19 +74,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 17:08:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606813629573 |
-| Players | 4/8 |
-| Host Name | I/Icyc_GospoD |
+| Lobby ID | 28509606813263451 |
+| Players | 8/10 |
+| Host Name | Кровавый понос |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:09:14 |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:08:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606813769791 |
+| Players | 1/15 |
+| Host Name | PerpleXity_ |
+| Region | PWTELECOMGUANGZHOU |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:09:25 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606810536019 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Joukahainen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:05:16 |
