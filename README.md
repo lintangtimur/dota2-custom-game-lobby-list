@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606549499768 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Elrich |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:47:58 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606547462894 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | David |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:44:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606548089603 |
-| Players | 14/15 |
-| Host Name | MidoriNoTori |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:45:20 |
+| Lobby ID | 28509606549837885 |
+| Players | 2/10 |
+| Host Name | Mr.Seal |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:48:36 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606547056966 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Haczxc |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:43:22 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606547560119 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | LowLife *w* |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:44:19 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606549414319 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ella te dejo por mi |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:47:48 |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Might Wanna Try Fortnite |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:48:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606549837885 |
-| Players | 2/10 |
-| Host Name | Mr.Seal |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:48:36 |
 
 
 |  | epic_boss_fight_nightmare |
