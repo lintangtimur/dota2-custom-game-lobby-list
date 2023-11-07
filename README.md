@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606875591020 |
-| Players | 7/8 |
-| Host Name | poloumnyi |
+| Lobby ID | 28509606878215452 |
+| Players | 1/10 |
+| Host Name | Optimal |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 18:17:07 |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:19:32 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606875159529 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Mike Robe Eenis |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 18:16:42 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606877291214 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | халапеньо |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 18:18:41 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606878163018 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Dr. Strange where rampage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 18:19:30 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606878215452 |
-| Players | 1/10 |
-| Host Name | Optimal |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 18:19:32 |
+| Lobby ID | 28509606876657900 |
+| Players | 2/8 |
+| Host Name | Коля железяка |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:18:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | AngelFLo « |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 18:13:12 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28509606878398488 |
+| Players | 1/7 |
+| Host Name | Славный Котик Иут |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:19:42 |
 
 
