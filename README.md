@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606843129394 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 範馬刃牙 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:44:24 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606844845965 |
-| Players | 5/15 |
-| Host Name | Legend[S.L.L] |
+| Players | 4/15 |
+| Host Name | ☯ Quiche™ |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:46:16 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606840797450 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Sanguinius |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:41:51 |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 17:42:09 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606845149869 |
-| Players | 5/8 |
-| Host Name | квас секс эскорт |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:46:36 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28509606833038653 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606839135467 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Raging.Hope |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:40:01 |
@@ -92,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 17:45:57 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28509606845152587 |
-| Players | 1/10 |
-| Host Name | KillerBee |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:46:36 |
+| Lobby ID | 28509606843923739 |
+| Players | 1/5 |
+| Host Name | Тайлер Пердан |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:45:16 |
 
 
