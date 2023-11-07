@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606710993138 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | OverFlown |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:44:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606711135401 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | гоможаба |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:44:15 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606711103343 |
-| Players | 5/24 |
+| Players | 1/24 |
 | Host Name | MAGA |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:44:13 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606704372969 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | prefiero perder cagandola yo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:33:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606711627865 |
+| Players | 5/15 |
+| Host Name | Waste |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:45:00 |
 
 
 |  | epic_boss_fight_nightmare |
