@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606628060223 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | RyQゆた |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:17:27 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606626864955 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Pro_E_Boss |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:15:12 |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 12:19:21 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606625490334 |
-| Players | 7/8 |
-| Host Name | TOMA CHUPETE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:12:41 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606628106440 |
@@ -92,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 12:17:32 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28509606629316417 |
-| Players | 1/10 |
-| Host Name | BustaZzZz_xD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:19:49 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28509606629367473 |
@@ -108,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GUSANITO(◕ᴥ◕ʋ) |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:19:55 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28509606629396013 |
+| Players | 2/10 |
+| Host Name | 劍風金 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 12:19:58 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28509606629447095 |
+| Players | 1/10 |
+| Host Name | .... |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 12:20:04 |
 
 
