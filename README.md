@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606824497267 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Sofia is Numba 1 gurl for me |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:22:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606820299657 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:17:33 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 17:21:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606824472035 |
-| Players | 1/8 |
-| Host Name | 水星 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:22:46 |
+| Lobby ID | 28509606825075915 |
+| Players | 2/10 |
+| Host Name | tears |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:23:31 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606824207230 |
-| Players | 8/10 |
-| Host Name | Король бубн |
+| Players | 7/10 |
+| Host Name | n1^mySelf.nO.Skill? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:22:26 |
 
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606816479018 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Booberries |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:12:52 |
