@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607029003105 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | juicy zeussy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:09:48 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 19:27:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509607033878826 |
-| Players | 7/8 |
-| Host Name | Deadline |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 20:12:49 |
+| Lobby ID | 28509607001844908 |
+| Players | 2/24 |
+| Host Name | zeus2014 |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:52:31 |
 
 
 |  | ot3_jungle_quintet |
@@ -119,22 +119,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 20:15:50 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509607038761858 |
-| Players | 11/15 |
-| Host Name | / |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 20:15:52 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509607040015125 |
+| Lobby ID | 28509607040277390 |
 | Players | 1/8 |
 | Host Name | Kaiser |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 20:16:39 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 20:16:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509607040333737 |
+| Players | 1/15 |
+| Host Name | 千本桜かげよし |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 20:16:51 |
 
 
 |  | epic_boss_fight_normal |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509607038561157 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | 600 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:15:44 |
