@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606543495899 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | 123 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:36:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606543489367 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | trash teammate |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:36:33 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606544613762 |
-| Players | 1/8 |
-| Host Name | $%&@dota&%"! |
+| Players | 2/8 |
+| Host Name | Rainz |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:38:42 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606543582491 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Artorias |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:36:44 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606544546507 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | NENEK PEYOT PDIP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:38:34 |
