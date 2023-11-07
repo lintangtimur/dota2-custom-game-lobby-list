@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606913230569 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Jag |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 18:49:22 |
@@ -20,31 +20,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 18:50:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606914776978 |
-| Players | 9/10 |
-| Host Name | ≧◠ᴥ◠≦ |
+| Lobby ID | 28509606916077053 |
+| Players | 2/24 |
+| Host Name | whole lotta motion |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:51:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606916264504 |
+| Players | 3/8 |
+| Host Name | BiryuleVsKy_KoT |
 | Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 7, 2023 18:50:36 |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:51:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606904019193 |
-| Players | 10/15 |
-| Host Name | 󠁳⁧⁧ limit |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 18:41:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606914430369 |
-| Players | 8/10 |
-| Host Name | 9MUTEDONTBROTHER |
-| Region | AUSTRIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 18:50:20 |
+| Lobby ID | 28509606916072236 |
+| Players | 1/8 |
+| Host Name | Sant1s |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:51:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 18:51:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606916072236 |
-| Players | 1/8 |
-| Host Name | Sant1s |
+| Lobby ID | 28509606916211672 |
+| Players | 2/15 |
+| Host Name | Sauron |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:51:44 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606908755436 |
+| Players | 19/24 |
+| Host Name | Mr. Porkchop |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 18:51:37 |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:45:46 |
 
 
 |  | epic_boss_fight_normal |
