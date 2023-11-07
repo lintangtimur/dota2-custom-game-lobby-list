@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606559480723 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Ninja Pirate |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:06:30 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 10:02:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606558208760 |
-| Players | 13/15 |
-| Host Name | 100 |
+| Lobby ID | 28509606559943858 |
+| Players | 5/10 |
+| Host Name | wIzard |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:04:07 |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:07:21 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606559106664 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | DPGaming |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:05:48 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606559847822 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Jivchik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:07:11 |
