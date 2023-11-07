@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606791678870 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 4.П.о.К.е.Р |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:40:03 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606793229162 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:42:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606793604113 |
-| Players | 7/8 |
-| Host Name | чемпик |
+| Lobby ID | 28509606794897271 |
+| Players | 1/15 |
+| Host Name | aqfdsdafsaqasskjsadjf |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:42:39 |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:44:24 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606792430558 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | h.m.g |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:41:04 |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 16:44:02 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606794897271 |
-| Players | 1/15 |
-| Host Name | aqfdsdafsaqasskjsadjf |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:44:24 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606794261306 |
@@ -76,10 +67,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28509606794904967 |
+| Lobby ID | 28509606795016322 |
 | Players | 1/10 |
-| Host Name | nurgazhai88 |
+| Host Name | планы на вечер |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:44:24 |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:44:33 |
 
 
