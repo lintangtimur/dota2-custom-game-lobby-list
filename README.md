@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606842122619 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | LOVE_yandere |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:43:17 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606839135467 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | cant talk with animals |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:40:01 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606839094846 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Dysfun |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:39:58 |
