@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606672893222 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Gin_Chan |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:41:48 |
@@ -32,10 +32,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606697671490 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | SpiritMoon |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:23:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606701018645 |
+| Players | 1/15 |
+| Host Name | Windsom |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:28:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606701069674 |
+| Players | 1/8 |
+| Host Name | TROLL >_< |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:28:41 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -50,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606700438988 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Alessia Cara |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:27:41 |
