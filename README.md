@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606796694725 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | ♛ Azhik#p4p ♛ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:46:50 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606796125271 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Fe"Nik"s |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:46:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606793604113 |
-| Players | 7/8 |
+| Players | 4/8 |
 | Host Name | чемпик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:42:39 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | jusplayin |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:47:53 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28509606797524223 |
-| Players | 2/10 |
-| Host Name | Hapiness |
-| Region | AUSTRIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:47:57 |
 
 
