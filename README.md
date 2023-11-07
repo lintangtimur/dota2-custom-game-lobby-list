@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 10:42:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606577770978 |
-| Players | 2/15 |
-| Host Name | Retardopiteck |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:40:56 |
+| Lobby ID | 28509606577744156 |
+| Players | 4/8 |
+| Host Name | benitocamitroncote |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:40:53 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606577616621 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | судорога в икрах |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:40:39 |
@@ -32,19 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606577404052 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | jie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:40:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606577744156 |
-| Players | 4/8 |
-| Host Name | benitocamitroncote |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:40:53 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -63,14 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nirvana |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:42:10 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28509606578454990 |
-| Players | 1/5 |
-| Host Name | 携四儿战五狗 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:42:14 |
 
 
