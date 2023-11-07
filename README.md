@@ -56,6 +56,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 17:10:43 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509606815573214 |
+| Players | 2/10 |
+| Host Name | Дима Жмыходавов |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:11:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606815589429 |
+| Players | 2/8 |
+| Host Name | Crackpot Cucumber |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:11:45 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28509606814715019 |
