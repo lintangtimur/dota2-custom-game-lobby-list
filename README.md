@@ -50,37 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606824497267 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Sofia is Numba 1 gurl for me |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:22:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606830456411 |
-| Players | 8/10 |
-| Host Name | Pesce con birra |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:30:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606831202472 |
-| Players | 2/15 |
-| Host Name | tpoxa123123123_ttv |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:30:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606831204643 |
-| Players | 1/8 |
-| Host Name | pussy destroyer  2013 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:30:55 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,12 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 17:30:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606830246358 |
-| Players | 7/8 |
-| Host Name | 2rbo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:29:47 |
+| Lobby ID | 28509606831202472 |
+| Players | 2/15 |
+| Host Name | tpoxa123123123_ttv |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:30:55 |
 
 
