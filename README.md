@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606594047732 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | насвай энджоер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:12:58 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606593335772 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | juliale |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:11:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606593825392 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | ЯБИК АНУБОВ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:12:33 |
@@ -67,17 +67,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606594606136 |
+| Lobby ID | 28509606594642315 |
 | Players | 1/24 |
-| Host Name | Mertomolsfer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:14:00 |
+| Host Name | TT |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:14:04 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606594680883 |
+| Players | 1/24 |
+| Host Name | Envy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:14:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606594698610 |
+| Players | 1/15 |
+| Host Name | 12 vs 12 = Ching Chong dota |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:14:10 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606592633924 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ► Good gay, noob played |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:10:15 |
