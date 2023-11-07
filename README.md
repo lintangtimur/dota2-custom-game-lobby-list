@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606671243709 |
-| Players | 6/15 |
-| Host Name | EN MATEMÁTICA , YO PARO CEREBRO |
+| Players | 2/15 |
+| Host Name | Fail |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:38:50 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606671165414 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | 346515 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:38:41 |
