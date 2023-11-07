@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606856217036 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Relior |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:58:18 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606855355126 |
-| Players | 9/10 |
-| Host Name | De/A/RoSssa:o |
+| Lobby ID | 28509606859102826 |
+| Players | 3/10 |
+| Host Name | я в аду |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:57:24 |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:01:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,21 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 18:01:11 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606859102826 |
-| Players | 3/10 |
-| Host Name | я в аду |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 18:01:14 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28509606860642969 |
+| Lobby ID | 28509606861000365 |
 | Players | 1/5 |
 | Host Name | Πονάει η Πλάτη μου |
 | Region | AUSTRIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 18:02:45 |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:03:06 |
 
 
