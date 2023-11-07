@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606833663128 |
-| Players | 23/24 |
-| Host Name | HashiRama |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:33:48 |
+| Lobby ID | 28509606835831136 |
+| Players | 1/10 |
+| Host Name | mer4rr |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:36:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606835889923 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Jag |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:36:21 |
@@ -41,28 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606834127124 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Мені похуй |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:34:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606834834712 |
-| Players | 9/10 |
-| Host Name | 홍은채) 내 동료가 돼라 홍은채) 물고기 캠 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:35:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606835831136 |
-| Players | 1/10 |
-| Host Name | mer4rr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:36:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | clglOgck |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:33:04 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28509606833645822 |
-| Players | 2/5 |
-| Host Name | Condoriano |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:33:47 |
 
 
