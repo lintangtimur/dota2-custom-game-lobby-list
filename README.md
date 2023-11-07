@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606633846833 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | [JnM]Nickname |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:28:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606636092690 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | thabit |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:32:43 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606636107331 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Whatever (x3) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:32:45 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606635250646 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ㅿ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:31:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606635518776 |
-| Players | 1/8 |
-| Host Name | xxxx |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:31:38 |
+| Lobby ID | 28509606636793250 |
+| Players | 1/24 |
+| Host Name | DarkMoon |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 7, 2023 12:34:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 12:32:43 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606636793250 |
-| Players | 1/24 |
-| Host Name | DarkMoon |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:34:02 |
+| Lobby ID | 28509606636901309 |
+| Players | 1/8 |
+| Host Name | xxxx |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 12:34:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606636919441 |
+| Players | 3/15 |
+| Host Name | execute all smurfs |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, November 7, 2023 12:34:16 |
 
 
 |  | epic_boss_fight_hard |
