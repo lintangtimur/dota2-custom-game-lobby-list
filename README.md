@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606587254896 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Catbug |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:59:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606590091508 |
-| Players | 1/10 |
-| Host Name | Карапучело |
+| Lobby ID | 28509606590069049 |
+| Players | 2/24 |
+| Host Name | DuxDucis |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:05:14 |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:05:11 |
 
 
 |  | ot3_necropolis_ffa |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606590069049 |
+| Lobby ID | 28509606590215604 |
 | Players | 1/24 |
-| Host Name | DuxDucis |
+| Host Name | Edit Profile |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:05:11 |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:05:28 |
 
 
 |  | epic_boss_fight_nightmare |
