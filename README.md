@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606601635860 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | helios fort |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:27:22 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606603077257 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Cекс в клетке mp.3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:30:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606601452418 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:27:01 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LESKA 14 |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:31:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606603738662 |
+| Players | 6/8 |
+| Host Name | Bored- |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:31:26 |
 
 
 |  | epic_boss_fight_nightmare |
