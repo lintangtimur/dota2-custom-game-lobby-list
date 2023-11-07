@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 15:35:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606746283993 |
-| Players | 1/15 |
-| Host Name | scotland |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:36:28 |
+| Lobby ID | 28509606747289326 |
+| Players | 5/8 |
+| Host Name | Colours |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:37:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606746310731 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | Mouches Volantes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:36:30 |
@@ -40,17 +40,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606747125070 |
-| Players | 6/10 |
-| Host Name | 11:11 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:37:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28509606747167586 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | plushka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:37:45 |
@@ -68,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606743107617 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | F R 1 S S🐱‍👤🐱‍👤 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:31:53 |
