@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 17:47:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606855469969 |
-| Players | 12/15 |
-| Host Name | Clover |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:57:31 |
+| Lobby ID | 28509606856582857 |
+| Players | 1/24 |
+| Host Name | Teudoongie |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:58:40 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606856217036 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Relior |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:58:18 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 17:58:41 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606856582857 |
-| Players | 1/24 |
-| Host Name | Teudoongie |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:58:40 |
+| Lobby ID | 28509606856967172 |
+| Players | 1/15 |
+| Host Name | utgdcyrsd8 |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:59:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -83,21 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 17:54:11 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28509606856193999 |
-| Players | 1/5 |
-| Host Name | untreiter |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:58:16 |
+| Lobby ID | 28509606856940722 |
+| Players | 2/10 |
+| Host Name | you? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:59:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28509606856833119 |
+| Lobby ID | 28509606856990642 |
 | Players | 1/10 |
-| Host Name | ケタルケティル |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:58:55 |
+| Host Name | "Virone" Comrade |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:59:05 |
 
 
