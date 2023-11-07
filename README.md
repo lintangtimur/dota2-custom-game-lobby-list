@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606916211672 |
-| Players | 14/15 |
-| Host Name | Sauron |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 18:51:44 |
+| Lobby ID | 28509606922158624 |
+| Players | 2/15 |
+| Host Name | Happyboy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:56:20 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606921093772 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | 土田-ファック |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 18:55:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606920717462 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | RUSSIAN POWER Z |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 18:55:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606919056883 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Apagón Revolucionario |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 18:53:56 |
@@ -86,10 +86,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606921606155 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Ko$osher |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 18:55:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509606916987881 |
+| Players | 8/10 |
+| Host Name | ≧◠ᴥ◠≦ |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:52:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509606922150684 |
+| Players | 4/10 |
+| Host Name | я в аду |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:56:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606922152909 |
+| Players | 1/15 |
+| Host Name | Твоя мама |
+| Region | AUSTRIA |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:56:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606922238385 |
+| Players | 1/15 |
+| Host Name | Barikkel |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:56:24 |
 
 
 |  | epic_boss_fight_nightmare |
