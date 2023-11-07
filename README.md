@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606677934520 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Chae's |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:50:41 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606672893222 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:41:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606669621150 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | MAGA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:35:56 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606678588415 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Sepultura |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:51:48 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606677952364 |
-| Players | 1/8 |
-| Host Name | Jebulatti |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:50:43 |
+| Lobby ID | 28509606678615187 |
+| Players | 7/8 |
+| Host Name | Odinn |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:51:51 |
 
 
 |  | ot3_desert_octet |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | execute all smurfs |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:52:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606677420037 |
+| Players | 7/8 |
+| Host Name | REXONA |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:49:47 |
 
 
 |  | epic_boss_fight_nightmare |
