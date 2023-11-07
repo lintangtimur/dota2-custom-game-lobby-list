@@ -38,22 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 00:18:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509607408786445 |
-| Players | 4/8 |
-| Host Name | 🅳🅴🅳 🅼🅴🅷🆃 |
+| Lobby ID | 28509607409404562 |
+| Players | 1/15 |
+| Host Name | Pitoooooooooon |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 00:24:17 |
+| Lobby Creation Time | Wednesday, November 8, 2023 00:24:50 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509607403611364 |
-| Players | 1/10 |
-| Host Name | Kitagawa |
+| Lobby ID | 28509607409513475 |
+| Players | 7/10 |
+| Host Name | Spongebob Squarepants |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 00:19:40 |
+| Lobby Creation Time | Wednesday, November 8, 2023 00:24:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607408674833 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | polobum86 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 00:24:11 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607406918682 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | romchyg |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 8, 2023 00:22:37 |
@@ -146,22 +146,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 00:24:55 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509607409404562 |
-| Players | 1/15 |
-| Host Name | Pitoooooooooon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 00:24:50 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509607409513475 |
-| Players | 1/10 |
-| Host Name | Spongebob Squarepants |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 00:24:56 |
+| Lobby ID | 28509607408802505 |
+| Players | 8/10 |
+| Host Name | love12 |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 8, 2023 00:24:17 |
 
 
 |  | epic_boss_fight_normal |
@@ -189,5 +180,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Arcane~ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 00:23:49 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28509607409759944 |
+| Players | 1/7 |
+| Host Name | Славный Котик Иут |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 00:25:09 |
 
 
