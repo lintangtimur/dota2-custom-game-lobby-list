@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606580529723 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Varian Wrynn |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:46:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606580807256 |
-| Players | 8/10 |
-| Host Name | GraF044 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:46:45 |
+| Lobby ID | 28509606581234404 |
+| Players | 12/15 |
+| Host Name | Yanwe Quest |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:47:35 |
 
 
 |  | ot3_gardens_duo |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606580801870 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | xJw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:46:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606581234404 |
-| Players | 5/15 |
-| Host Name | Yanwe Quest |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:47:35 |
 
 
 |  | epic_boss_fight_nightmare |
