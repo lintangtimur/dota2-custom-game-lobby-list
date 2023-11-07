@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606672141601 |
-| Players | 10/24 |
+| Players | 16/24 |
 | Host Name | EN MATEMÁTICA , YO PARO CEREBRO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:40:27 |
@@ -68,16 +68,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606673488598 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | 年輕的惡魔 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:42:52 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606673854177 |
+| Players | 1/24 |
+| Host Name | Black Raven |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:43:31 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606673947853 |
+| Players | 7/24 |
+| Host Name | Chloe Grace Moretz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:43:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606673939731 |
+| Players | 2/8 |
+| Host Name | ♥♦♣♠ |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:43:40 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606671011944 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | ► Good gay, noob played |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:38:25 |
