@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606722823015 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | not quite my tempo |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:02:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606725383420 |
-| Players | 9/10 |
-| Host Name | Optimal |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:05:51 |
+| Lobby ID | 28509606727257974 |
+| Players | 4/15 |
+| Host Name | Suntory |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:08:39 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606726147265 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Писятдва |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:06:58 |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Squi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:09:35 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606727257974 |
-| Players | 3/15 |
-| Host Name | Suntory |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:08:39 |
 
 
