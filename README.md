@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606587489299 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | DragonBack |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:59:54 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 11:00:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606588813839 |
-| Players | 1/8 |
-| Host Name | фить фить |
+| Lobby ID | 28509606587982903 |
+| Players | 13/15 |
+| Host Name | duknoken |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:02:41 |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:01:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Capitulum Mitella |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:58:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606587982903 |
-| Players | 12/15 |
-| Host Name | duknoken |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:01:00 |
 
 
 |  | epic_boss_fight_nightmare |
