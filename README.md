@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606795259034 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:44:53 |
@@ -29,13 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 16:46:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606795483125 |
-| Players | 14/15 |
-| Host Name | ForaMon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:45:11 |
+| Lobby ID | 28509606796542619 |
+| Players | 1/10 |
+| Host Name | Ой |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:46:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606796429412 |
+| Players | 1/8 |
+| Host Name | yango |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:46:28 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -49,10 +58,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28509606796413939 |
+| Lobby ID | 28509606796532029 |
 | Players | 1/5 |
-| Host Name | Sand Of A Beach |
+| Host Name | panic masturbation |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:46:37 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28509606796535498 |
+| Players | 1/10 |
+| Host Name | jusplayin |
 | Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:46:27 |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:46:37 |
 
 
