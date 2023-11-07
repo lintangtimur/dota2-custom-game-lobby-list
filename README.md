@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606598313279 |
-| Players | 14/15 |
-| Host Name | Timber Player |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:21:04 |
+| Lobby ID | 28509606600887695 |
+| Players | 1/15 |
+| Host Name | hiro |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:25:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606600540043 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Connor McGee Thor |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:25:16 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606599356603 |
-| Players | 15/24 |
+| Players | 21/24 |
 | Host Name | Flyfriend28 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:23:03 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606600559203 |
-| Players | 1/24 |
-| Host Name | Catbug |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:25:19 |
 
 
 |  | ot3_desert_octet |
@@ -99,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MEUMACHO |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:23:34 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28509606600072446 |
-| Players | 1/5 |
-| Host Name | DFD |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:24:23 |
 
 
