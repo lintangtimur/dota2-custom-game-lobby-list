@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606794261306 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | AngelFLo « |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:43:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606795016322 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | планы на вечер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:44:33 |
