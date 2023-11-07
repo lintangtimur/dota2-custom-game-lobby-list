@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606741277831 |
-| Players | 3/15 |
-| Host Name | BASHNASH |
+| Players | 6/15 |
+| Host Name | Канибал |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:29:13 |
 
@@ -38,15 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 15:33:25 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606744002026 |
-| Players | 8/10 |
-| Host Name | чекай аву |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:33:11 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606744371893 |
@@ -54,6 +45,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DVMN神 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:33:43 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509606744501846 |
+| Players | 1/10 |
+| Host Name | your finished boy |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:33:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509606744502000 |
+| Players | 1/10 |
+| Host Name | NARBERAL GAMA |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:33:55 |
 
 
 |  | epic_boss_fight_challenger |
