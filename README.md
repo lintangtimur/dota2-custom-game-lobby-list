@@ -2,28 +2,28 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606761638118 |
-| Players | 6/8 |
-| Host Name | Shroom |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:58:16 |
+| Lobby ID | 28509606762343818 |
+| Players | 3/10 |
+| Host Name | GraF044 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:59:16 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606761009106 |
+| Lobby ID | 28509606762287032 |
 | Players | 1/8 |
-| Host Name | Dudepls |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:57:23 |
+| Host Name | waiting for death |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:59:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606759394879 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:55:07 |
@@ -45,24 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Phat |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:59:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606762287032 |
-| Players | 1/8 |
-| Host Name | waiting for death |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:59:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606762343818 |
-| Players | 1/10 |
-| Host Name | GraF044 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:59:16 |
 
 
 |  | epic_boss_fight_nightmare |
