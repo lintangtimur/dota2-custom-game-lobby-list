@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509607235948242 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | waste無数sandstorm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 22:11:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509607214873329 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | sojupapi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 21:58:49 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 22:12:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509607231630330 |
-| Players | 8/10 |
-| Host Name | ŴıʟʟḴıʟʟ4Ḫɇṙ |
+| Lobby ID | 28509607221322000 |
+| Players | 4/8 |
+| Host Name | 啤酒大学校长 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 22:09:00 |
+| Lobby Creation Time | Tuesday, November 7, 2023 22:02:44 |
 
 
 |  | ot3_gardens_duo |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509607236964577 |
-| Players | 12/15 |
-| Host Name | yvi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 22:12:16 |
+| Lobby ID | 28509607182902460 |
+| Players | 11/15 |
+| Host Name | bersercer khorna |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 21:39:49 |
 
 
 |  | ot3_desert_octet |
@@ -131,19 +131,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607215112963 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | ТомЯм |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 21:58:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509607221322000 |
-| Players | 4/8 |
-| Host Name | 啤酒大学校长 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 22:02:44 |
+| Lobby ID | 28509607163562421 |
+| Players | 6/24 |
+| Host Name | MooNChilD |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 21:28:41 |
 
 
 |  | epic_boss_fight_normal |
