@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607044013968 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | dudesakh |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:19:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607095192150 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | ͜͡𝓝𝓮𝓒𝓻𝓞 𝓽 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:49:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509607102247919 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Clark Kent |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:53:11 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607066233388 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | Bamboo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:32:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509607101285343 |
-| Players | 7/8 |
-| Host Name | Ящерка Билль |
+| Lobby ID | 28509607103083077 |
+| Players | 2/10 |
+| Host Name | WestBang |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 20:52:38 |
+| Lobby Creation Time | Tuesday, November 7, 2023 20:53:40 |
 
 
 |  | ot3_jungle_quintet |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607102460980 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Сын Мияги |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:53:19 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607102864303 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Elano Diablo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:53:32 |
@@ -167,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509607093583397 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | свиня джакузі |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:48:11 |
