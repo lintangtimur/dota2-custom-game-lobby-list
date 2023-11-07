@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606644160004 |
-| Players | 8/10 |
-| Host Name | Arthas Menethil |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:48:00 |
+| Lobby ID | 28509606651420613 |
+| Players | 4/8 |
+| Host Name | Odinn |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:02:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606649733250 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Error.On.Fire.xD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:58:45 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606651313254 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Dell Pentium 4 quad core duo 2.0 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:01:54 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606651398742 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | Vandalieu Zakkart |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:02:04 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28509606633969728 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | Kok$.[NSK].54 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:28:40 |
