@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606745535503 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:35:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606748614236 |
-| Players | 6/8 |
+| Players | 4/8 |
 | Host Name | PapArias_P |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:39:49 |
