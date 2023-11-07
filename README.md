@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177003177882 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | BISCUIT OLIVA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:19:25 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177008068816 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | MindBlowX |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:30:16 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177009041995 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Vengeance |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:32:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511177008242816 |
-| Players | 10/15 |
-| Host Name | Entropy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:30:41 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,10 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 06:32:15 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511177009253276 |
+| Players | 1/8 |
+| Host Name | ваша мать съедена |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:33:04 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511177004159293 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Rho ;3 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:21:24 |
