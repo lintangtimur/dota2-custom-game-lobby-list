@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607657225880 |
-| Players | 9/24 |
+| Players | 7/24 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 05:39:42 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607658026048 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 🎼ϯ°Иķχ Ѧ Ƶɨž°ϯ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 05:41:19 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607656499058 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Salmon |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 8, 2023 05:38:15 |
@@ -86,28 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509607657809197 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Penis Vibes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 05:40:52 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509607657985823 |
-| Players | 1/8 |
-| Host Name | Gulman554 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 05:41:14 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509607658059184 |
-| Players | 2/15 |
-| Host Name | 20% More Honesty |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 05:41:23 |
+| Lobby ID | 28509607658106032 |
+| Players | 5/15 |
+| Host Name | Махи Аинти |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 05:41:28 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MrMechas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 05:40:31 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28509607654349328 |
-| Players | 2/5 |
-| Host Name | c0ffee.1337 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 05:33:58 |
 
 
