@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606536357672 |
-| Players | 5/10 |
-| Host Name | DPS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:22:37 |
+| Lobby ID | 28509606536853419 |
+| Players | 7/10 |
+| Host Name | CriTzuz |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:23:36 |
 
 
 |  | ot3_gardens_duo |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606536090704 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Eddie Meduza |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:22:05 |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | EMOBED |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:24:22 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606536853419 |
-| Players | 7/10 |
-| Host Name | CriTzuz |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:23:36 |
 
 
 |  | epic_boss_fight_normal |
