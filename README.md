@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606577744156 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | benitocamitroncote |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:40:53 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606577404052 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | jie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:40:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606578606083 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | LowLife *w* |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:42:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606578746044 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Odinn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:42:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606579361769 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Somewhere i belong |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:43:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606579136480 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | saynomore |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:43:32 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606579437420 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Mandrake |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:44:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606579526728 |
+| Players | 1/15 |
+| Host Name | ♠PANDAMAN♣ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:44:17 |
 
 
 |  | epic_boss_fight_nightmare |
