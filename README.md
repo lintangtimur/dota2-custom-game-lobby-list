@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606684393960 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | "GoPositive.bet" ARS - Bets4.fun |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:01:42 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606684244675 |
-| Players | 7/15 |
-| Host Name | Waste |
+| Players | 3/15 |
+| Host Name | сада маза |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:01:27 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606685166868 |
-| Players | 21/24 |
-| Host Name | _(:з」∠)_ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:02:59 |
+| Lobby ID | 28509606686342143 |
+| Players | 5/10 |
+| Host Name | Waste |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:04:58 |
 
 
 |  | ot3_necropolis_ffa |
