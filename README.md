@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 03:33:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509607667619229 |
-| Players | 3/8 |
-| Host Name | DeDaF |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:01:21 |
+| Lobby ID | 28509607667746073 |
+| Players | 2/10 |
+| Host Name | Doki |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:01:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607666699598 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | Red Jhon |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 05:59:24 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607667260553 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | MR BENZINO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:00:36 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509607666921247 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Penis Vibes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 05:59:52 |
