@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509607013845463 |
-| Players | 12/15 |
-| Host Name | Ювелир |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 20:00:13 |
+| Lobby ID | 28509606973235072 |
+| Players | 19/24 |
+| Host Name | ~BlastZ~ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:33:47 |
 
 
 |  | ot3_gardens_duo |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 19:58:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509607017407562 |
-| Players | 2/8 |
-| Host Name | LHPixel |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 7, 2023 20:02:30 |
+| Lobby ID | 28509607002193272 |
+| Players | 2/10 |
+| Host Name | Remiferia |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 19:52:45 |
 
 
 |  | ot3_desert_octet |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 19:27:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509607018714922 |
-| Players | 7/8 |
-| Host Name | Ivan Zolo (prime) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 20:03:20 |
+| Lobby ID | 28509607016514455 |
+| Players | 2/10 |
+| Host Name | Balora |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 7, 2023 20:01:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607001844908 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Kermit Da Frog |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:52:31 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509607017123545 |
-| Players | 2/10 |
-| Host Name | Marshal1 |
+| Players | 1/10 |
+| Host Name | жопар |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:02:19 |
 
@@ -121,71 +121,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509607008606716 |
-| Players | 3/8 |
-| Host Name | THC Spirit |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:56:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606973235072 |
-| Players | 17/24 |
-| Host Name | ~BlastZ~ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:33:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509607016514455 |
-| Players | 2/10 |
-| Host Name | Balora |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 7, 2023 20:01:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509607002193272 |
-| Players | 2/10 |
-| Host Name | Remiferia |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 19:52:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509607019601229 |
-| Players | 3/8 |
-| Host Name | Immortal Zodd |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 20:03:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509607019628735 |
-| Players | 2/8 |
-| Host Name | Dimas3k_spidoznыi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 20:03:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28509607010833638 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | russkaсhurka2006 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 19:58:17 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509607019945120 |
+| Players | 1/10 |
+| Host Name | .twitch.tv/shatunchick |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 20:04:06 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509607017228096 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | How Do I Play? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 20:02:23 |
