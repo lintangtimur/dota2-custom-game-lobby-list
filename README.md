@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606725383420 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Optimal |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:05:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606711103343 |
-| Players | 6/24 |
+| Players | 4/24 |
 | Host Name | MAGA |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:44:13 |
@@ -59,28 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606726147265 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Писятдва |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:06:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606726491345 |
-| Players | 1/24 |
-| Host Name | La Concha De Tu Madre |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:07:30 |
+| Lobby ID | 28509606727417414 |
+| Players | 2/10 |
+| Host Name | Moises |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:08:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606726538396 |
-| Players | 1/8 |
-| Host Name | Фридоом(хочу татарочку) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:07:34 |
+| Lobby ID | 28509606727257974 |
+| Players | 3/15 |
+| Host Name | Suntory |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:08:39 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,30 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 15:08:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28509606727257974 |
-| Players | 4/15 |
-| Host Name | Suntory |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:08:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606726582373 |
-| Players | 7/8 |
-| Host Name | MilF-HanteR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:07:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606727417414 |
-| Players | 2/10 |
-| Host Name | Moises |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:08:53 |
+| Lobby ID | 28509606727614574 |
+| Players | 1/5 |
+| Host Name | Slowly |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:09:11 |
 
 
