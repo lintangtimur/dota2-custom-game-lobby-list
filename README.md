@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606544546507 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | NENEK PEYOT PDIP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:38:34 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606560947014 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Flawless |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:09:14 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606560898929 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | EDW_XS |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:09:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606560797592 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | ***** |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 10:08:57 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 10:10:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509606561349324 |
-| Players | 7/8 |
-| Host Name | PUCP, 3er año, Ing, pepin |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:09:59 |
+| Lobby ID | 28509606560841515 |
+| Players | 4/10 |
+| Host Name | Ajr |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:09:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 10:09:00 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606560841515 |
-| Players | 4/10 |
-| Host Name | Ajr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 10:09:02 |
+| Lobby ID | 28509606561992705 |
+| Players | 1/24 |
+| Host Name | ieagtonrns |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:11:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606561997835 |
+| Players | 1/8 |
+| Host Name | modo chill: !!ON¡¡ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:11:12 |
 
 
 |  | epic_boss_fight_nightmare |
