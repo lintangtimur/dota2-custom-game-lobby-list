@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606875159529 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Mike Robe Eenis |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 18:16:42 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606877291214 |
-| Players | 7/8 |
-| Host Name | халапеньо |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 18:18:41 |
+| Lobby ID | 28509606876657900 |
+| Players | 2/8 |
+| Host Name | Коля железяка |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:18:06 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606878144668 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | MD. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 18:19:29 |
@@ -76,11 +76,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606876657900 |
+| Lobby ID | 28509606878847992 |
+| Players | 1/8 |
+| Host Name | 离手鸳鸯刀 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:20:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606878855923 |
 | Players | 2/8 |
-| Host Name | Коля железяка |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 7, 2023 18:18:06 |
+| Host Name | Позитивуль |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:20:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606878858243 |
+| Players | 1/15 |
+| Host Name | ... |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 18:20:08 |
 
 
 |  | epic_boss_fight_nightmare |
