@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606550644415 |
-| Players | 13/15 |
-| Host Name | Feed Control |
+| Lobby ID | 28509606550872304 |
+| Players | 9/24 |
+| Host Name | MODO ELDEN LORD |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:50:06 |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:50:31 |
 
 
 |  | ot3_gardens_duo |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606551096478 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Mummey |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:50:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606550318070 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Odinn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:49:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606547056966 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Haczxc |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 09:43:22 |
@@ -76,20 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606550872304 |
-| Players | 9/24 |
-| Host Name | MODO ELDEN LORD |
+| Lobby ID | 28509606547560119 |
+| Players | 23/24 |
+| Host Name | ieagtonrns |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:50:31 |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:44:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606551466780 |
-| Players | 1/15 |
-| Host Name | 机智的小黄 |
-| Region | PWTELECOMZHEJIANG |
-| Lobby Creation Time | Tuesday, November 7, 2023 09:51:38 |
+| Lobby ID | 28509606551563880 |
+| Players | 2/8 |
+| Host Name | Maliketh La Hoja Negra |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 09:51:49 |
 
 
 |  | epic_boss_fight_nightmare |
