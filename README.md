@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606685389761 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Atlas_Atlantis |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:03:22 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 14:08:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606688495016 |
-| Players | 1/15 |
-| Host Name | Fat Tony |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:08:32 |
+| Lobby ID | 28509606688044836 |
+| Players | 1/8 |
+| Host Name | juniper bot |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:07:47 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606688503916 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Thug Life |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:08:33 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 14:08:51 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606688044836 |
-| Players | 1/8 |
-| Host Name | juniper bot |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:07:47 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606685458596 |
@@ -99,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Белый |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:03:29 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28509606686069611 |
-| Players | 8/10 |
-| Host Name | Турист |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:04:30 |
 
 
