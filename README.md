@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606843129394 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 範馬刃牙 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:44:24 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606848164784 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | ♛ Azhik#p4p ♛ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:49:51 |
@@ -95,10 +95,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606848854398 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Lion el Messi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:50:36 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606845416935 |
+| Players | 22/24 |
+| Host Name | PRIME TAKERS MVP |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:46:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606849221018 |
+| Players | 1/8 |
+| Host Name | mental problems |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:50:59 |
 
 
 |  | epic_boss_fight_normal |
@@ -113,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28509606848445890 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Clover |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:50:09 |
@@ -122,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606848522841 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Турист |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:50:14 |
