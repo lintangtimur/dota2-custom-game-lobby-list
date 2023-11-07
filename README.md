@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606754687626 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | How u doin? |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:48:27 |
@@ -45,6 +45,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | polygamyenjoyer69 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:49:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606755450953 |
+| Players | 1/15 |
+| Host Name | Sapa Inca |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:49:32 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606755437461 |
+| Players | 2/15 |
+| Host Name | FaiNt |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:49:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28509606752469503 |
+| Players | 14/15 |
+| Host Name | سندليف |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:45:17 |
 
 
 |  | epic_boss_fight_nightmare |
