@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606821021426 |
-| Players | 14/15 |
-| Host Name | The new |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:18:27 |
+| Lobby ID | 28509606821847759 |
+| Players | 2/8 |
+| Host Name | waiting for death |
+| Region | EUROPE |
+| Lobby Creation Time | Tuesday, November 7, 2023 17:19:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606821133238 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | Tờ Ri |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:18:35 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606821354908 |
-| Players | 11/15 |
+| Players | 15/15 |
 | Host Name | Review旧人 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:18:52 |
@@ -51,7 +51,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28509606821067205 |
 | Players | 4/10 |
-| Host Name | Адмирал Честер Нимиц |
+| Host Name | Лузстрик )0)))0)))0)0 |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:18:30 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606814576926 |
-| Players | 6/15 |
+| Players | 1/15 |
 | Host Name | ЛАРЛ - The International ЧЕМПИОН |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:10:28 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | кошкодевочка 14 y.o. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 17:19:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606821847759 |
-| Players | 2/8 |
-| Host Name | waiting for death |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 7, 2023 17:19:29 |
 
 
 |  | epic_boss_fight_nightmare |
