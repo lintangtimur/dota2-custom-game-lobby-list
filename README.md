@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606706940068 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Violet Evergarden |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:37:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606708136276 |
-| Players | 6/8 |
-| Host Name | Пила Струна |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:39:42 |
+| Lobby ID | 28509606708880161 |
+| Players | 4/15 |
+| Host Name | Ashen One |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:40:51 |
 
 
 |  | ot3_desert_octet |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 14:34:52 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606708880161 |
-| Players | 3/15 |
-| Host Name | Ashen One |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:40:51 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606705684588 |
@@ -92,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 14:35:55 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28509606708981015 |
-| Players | 1/10 |
-| Host Name | Krekerker31 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:41:00 |
+| Lobby ID | 28509606709071060 |
+| Players | 1/5 |
+| Host Name | SID |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:41:08 |
 
 
