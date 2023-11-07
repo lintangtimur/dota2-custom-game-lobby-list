@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607658026048 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | 🎼ϯ°Иķχ Ѧ Ƶɨž°ϯ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 05:41:19 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 05:42:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509607659052803 |
-| Players | 8/15 |
-| Host Name | abs0lut |
+| Lobby ID | 28509607658224198 |
+| Players | 4/8 |
+| Host Name | Gulman554 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 05:43:23 |
+| Lobby Creation Time | Wednesday, November 8, 2023 05:41:43 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,36 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607657743512 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | BROOKLYN T GUY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 05:40:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28509607658224198 |
-| Players | 4/8 |
-| Host Name | Gulman554 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 05:41:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509607658718550 |
-| Players | 13/15 |
-| Host Name | AMOK ¯\_(ツ)_/¯ |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 05:42:42 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28509607657633162 |
-| Players | 9/10 |
-| Host Name | MrMechas |
+| Lobby ID | 28509607659420766 |
+| Players | 2/10 |
+| Host Name | uuuu |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 05:40:31 |
+| Lobby Creation Time | Wednesday, November 8, 2023 05:44:08 |
 
 
