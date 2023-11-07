@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606671746223 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Algo como un día libre |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:39:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606673947853 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | Chloe Grace Moretz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:43:41 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606673488598 |
-| Players | 7/8 |
-| Host Name | //////// |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:42:52 |
+| Lobby ID | 28509606674600699 |
+| Players | 1/8 |
+| Host Name | 123 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:44:50 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ♥♦♣♠ |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:43:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606674600699 |
-| Players | 2/8 |
-| Host Name | 123 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:44:50 |
 
 
 |  | epic_boss_fight_nightmare |
