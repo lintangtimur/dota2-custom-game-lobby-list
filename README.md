@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606787320909 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Takanashi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:34:08 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606789678140 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Danh hài Vân Sơn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:37:20 |
