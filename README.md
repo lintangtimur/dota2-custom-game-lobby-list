@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606774280398 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Говённый голем |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:16:13 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606775093195 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | Grim |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:17:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606767612529 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Byratino |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:06:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606771844231 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | BMW-M™ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:12:48 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606773457189 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | SunnY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:15:03 |
