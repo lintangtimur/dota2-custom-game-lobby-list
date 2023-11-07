@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 13:41:48 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606697437150 |
-| Players | 21/24 |
-| Host Name | ThiNk Pe ChaTo |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:22:58 |
+| Lobby ID | 28509606699177415 |
+| Players | 3/8 |
+| Host Name | mer4rr |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:25:42 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606698779083 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | ~yoKo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:25:05 |
@@ -65,21 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 14:24:27 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28509606697825293 |
-| Players | 2/5 |
-| Host Name | Kie |
+| Lobby ID | 28509606699340491 |
+| Players | 1/7 |
+| Host Name | Standin Lord Adam |
 | Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:23:35 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28509606696933781 |
-| Players | 7/10 |
-| Host Name | nurgazhai88 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:22:11 |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:25:58 |
 
 
