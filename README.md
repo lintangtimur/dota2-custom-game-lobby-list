@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606632727298 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | Ratamanche Soy el elegido |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:26:17 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606635656922 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Witchblade(маленький) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:31:54 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606635518776 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Топ 100 Антарктиды |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:31:38 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606635591692 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Donquixote Rosinante ♡ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:31:46 |
