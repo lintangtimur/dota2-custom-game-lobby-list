@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606664133545 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Упал, отжался! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:26:26 |
@@ -54,32 +54,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Azuma |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:26:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606665379173 |
-| Players | 3/8 |
-| Host Name | -yuuno |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:28:34 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28509606665479072 |
-| Players | 1/10 |
-| Host Name | GUILLO_LASSO |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:28:44 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28509606665469449 |
-| Players | 1/5 |
-| Host Name | BIGFACE |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:28:43 |
 
 
