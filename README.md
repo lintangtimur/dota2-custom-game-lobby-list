@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606591249520 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ser sinverguenza es mi pasion |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:07:32 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606591411146 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | catharsis |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:07:51 |
@@ -45,6 +45,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Jesus |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:07:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606591449160 |
+| Players | 1/8 |
+| Host Name | low feeder |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:07:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509606591475120 |
+| Players | 6/8 |
+| Host Name | Mandrake |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:07:59 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606587254896 |
+| Players | 23/24 |
+| Host Name | Catbug |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 7, 2023 10:59:26 |
 
 
 |  | epic_boss_fight_nightmare |
