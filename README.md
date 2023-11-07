@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509607252191561 |
-| Players | 13/15 |
-| Host Name | кот (или пёс) |
+| Lobby ID | 28509607226888494 |
+| Players | 1/15 |
+| Host Name | Сильная лопатка |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 22:21:51 |
+| Lobby Creation Time | Tuesday, November 7, 2023 22:06:07 |
 
 
 |  | ot3_gardens_duo |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 22:20:26 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509607163562421 |
-| Players | 22/24 |
-| Host Name | Platinum |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 21:28:41 |
+| Lobby ID | 28509607013845463 |
+| Players | 7/15 |
+| Host Name | Death By Chocolate |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 20:00:13 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509607252578505 |
-| Players | 3/10 |
-| Host Name | KiRi |
+| Players | 5/10 |
+| Host Name | Tetrinx |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 7, 2023 22:22:06 |
 
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509607252048192 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Амбал |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 22:21:46 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607242725246 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Frozenmilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 22:15:51 |
@@ -137,13 +137,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 22:17:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509607013845463 |
-| Players | 3/15 |
-| Host Name | Death By Chocolate |
+| Lobby ID | 28509607252995390 |
+| Players | 1/8 |
+| Host Name | d0bry-j |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 20:00:13 |
+| Lobby Creation Time | Tuesday, November 7, 2023 22:22:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28509607252994054 |
+| Players | 2/8 |
+| Host Name | 0 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 22:22:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28509607253044092 |
+| Players | 2/10 |
+| Host Name | zero sugar |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 22:22:25 |
 
 
 |  | epic_boss_fight_normal |
@@ -158,9 +176,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509607242650030 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Neverrain |
 | Region | AUSTRIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 22:15:48 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28509607243902272 |
+| Players | 3/10 |
+| Host Name | f1 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 22:16:35 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28509607253027465 |
+| Players | 1/5 |
+| Host Name | Сасаки |
+| Region | AUSTRIA |
+| Lobby Creation Time | Tuesday, November 7, 2023 22:22:24 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28509607253007072 |
+| Players | 1/10 |
+| Host Name | Wultah Why |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 22:22:23 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28509607253033828 |
+| Players | 1/7 |
+| Host Name | 提亚蜜斯林 |
+| Region | PWUNICOM |
+| Lobby Creation Time | Tuesday, November 7, 2023 22:22:24 |
 
 
