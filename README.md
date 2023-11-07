@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 15:54:32 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606758460098 |
-| Players | 20/24 |
-| Host Name | Chloe Grace Moretz |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:53:47 |
+| Lobby ID | 28509606761009106 |
+| Players | 1/8 |
+| Host Name | Dudepls |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:57:23 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,28 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606760992195 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | cross and inshallah |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 15:57:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606761009106 |
-| Players | 1/8 |
-| Host Name | Dudepls |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:57:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606761394042 |
-| Players | 1/10 |
-| Host Name | Yana Cist |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 15:57:55 |
+| Lobby ID | 28509606761511651 |
+| Players | 1/24 |
+| Host Name | Scrappy Coco |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 15:58:05 |
 
 
 |  | epic_boss_fight_nightmare |
