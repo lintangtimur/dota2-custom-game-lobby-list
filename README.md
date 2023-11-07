@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606681515640 |
-| Players | 4/15 |
-| Host Name | Fulgencio Batista |
+| Players | 1/15 |
+| Host Name | OldNights |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:56:50 |
 
@@ -77,25 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606681290700 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | roseagainnn <3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:56:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28509606681363253 |
-| Players | 1/10 |
-| Host Name | TianMing |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:56:34 |
+| Lobby ID | 28509606672893222 |
+| Players | 22/24 |
+| Host Name | RiftBreaker |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:41:48 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606671011944 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | stacked |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:38:25 |
@@ -117,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mr. Zoidberg |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:56:40 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28509606681741874 |
+| Players | 1/5 |
+| Host Name | 𝑓𝑙𝑎𝑚𝑒𝑟 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:57:13 |
 
 
