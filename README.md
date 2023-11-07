@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 12:48:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606640944688 |
-| Players | 1/24 |
-| Host Name | minecraft obsidian cock |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:41:53 |
+| Lobby ID | 28509606648846704 |
+| Players | 1/8 |
+| Host Name | Odinn |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 12:57:02 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606647577205 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | ルPanacea灯 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:54:33 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606648611669 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ЯБИК АНУБОВ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:56:34 |
