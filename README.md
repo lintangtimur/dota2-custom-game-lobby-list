@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606715990291 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | кишлачусь потихоньку |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:51:35 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606715008362 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | S |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:50:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606715987096 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | pressure |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:51:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606711995337 |
-| Players | 23/24 |
+| Players | 20/24 |
 | Host Name | Chloe Grace Moretz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:45:33 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606716002002 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | /[GoD]\ crystallime |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:51:36 |
