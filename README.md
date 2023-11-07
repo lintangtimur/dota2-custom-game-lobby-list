@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606616757377 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | RyQゆた |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:56:09 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606617197197 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | xdxdxd |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:57:00 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606616165898 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Euphoria |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:55:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606613838484 |
-| Players | 8/15 |
+| Players | 6/15 |
 | Host Name | Los Tangos tambien se fuman |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:50:33 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606617175305 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Тайлер Дырдырчик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:56:58 |
@@ -59,54 +59,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606617252672 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | TheBlueJTattoo |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:57:07 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606617324369 |
-| Players | 1/10 |
-| Host Name | RustySack |
-| Region | USWEST |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:57:15 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606617390260 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | рокенролю |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:57:23 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606617455000 |
-| Players | 1/15 |
-| Host Name | weeks ago |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:57:31 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606615916256 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | JMC |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:54:32 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28509606617466116 |
-| Players | 1/7 |
-| Host Name | . Skye |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:57:32 |
+| Lobby ID | 28509606617547737 |
+| Players | 1/10 |
+| Host Name | NYBL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:57:41 |
 
 
