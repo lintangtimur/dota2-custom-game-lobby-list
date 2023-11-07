@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606607459889 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Enma(NA/PERU/BR=muted) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:38:31 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 11:40:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606608366941 |
-| Players | 3/8 |
-| Host Name | (.)СИСЁНДРА(.) |
+| Lobby ID | 28509606608929213 |
+| Players | 2/15 |
+| Host Name | =f |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:40:13 |
+| Lobby Creation Time | Tuesday, November 7, 2023 11:41:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606608664126 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Amaraki |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 11:40:47 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28509606599632098 |
-| Players | 9/10 |
-| Host Name | senzashima |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 7, 2023 11:23:34 |
 
 
 |  | epic_boss_fight_nightmare |
