@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606651792279 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:02:50 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606650460805 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | La parquita |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:00:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606650739349 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | [D]iomegod |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:00:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606651398742 |
-| Players | 10/24 |
+| Players | 15/24 |
 | Host Name | Vandalieu Zakkart |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:02:04 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606651117724 |
-| Players | 14/15 |
-| Host Name | Ryu |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:01:31 |
+| Lobby ID | 28509606651786995 |
+| Players | 6/15 |
+| Host Name | Elya |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:02:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 13:02:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606651786995 |
-| Players | 3/15 |
-| Host Name | Elya |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 13:02:50 |
+| Lobby ID | 28509606652278189 |
+| Players | 6/8 |
+| Host Name | Igori |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:03:47 |
 
 
 |  | epic_boss_fight_hard |
