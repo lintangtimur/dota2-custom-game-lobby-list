@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606668649109 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Natural |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:34:14 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606657672818 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | waiting for death |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:14:15 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606670189550 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Pussy Destroyer 2010 |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:36:56 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Alessia Cara |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 13:36:06 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28509606670315320 |
+| Players | 3/5 |
+| Host Name | ta7a |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 7, 2023 13:37:10 |
 
 
