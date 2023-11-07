@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177018202073 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | DrDisconnect |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:54:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511177019264831 |
-| Players | 2/8 |
-| Host Name | жулик |
+| Lobby ID | 28511177019541748 |
+| Players | 1/24 |
+| Host Name | . |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:57:37 |
+| Lobby Creation Time | Wednesday, November 8, 2023 06:58:18 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607669615738 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:05:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177019334999 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | CORNPOP |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:57:47 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177019482082 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Николай Дроздов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:58:09 |
