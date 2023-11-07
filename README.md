@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606685389761 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Atlas_Atlantis |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:03:22 |
@@ -32,37 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28509606687277739 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Padoru |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:06:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606685895464 |
-| Players | 14/15 |
-| Host Name | 100 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:04:13 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28509606687680097 |
-| Players | 10/24 |
-| Host Name | Ismail Ahmad Kanabawi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:07:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28509606688062905 |
-| Players | 2/10 |
-| Host Name | QWE |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:07:49 |
 
 
 |  | ot3_gardens_duo |
@@ -72,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ну шо вы? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:06:20 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28509606687680097 |
+| Players | 15/24 |
+| Host Name | Ismail Ahmad Kanabawi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:07:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28509606686069611 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Турист |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:04:30 |
