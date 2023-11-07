@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606801909288 |
+| Lobby ID | 28509606801819787 |
 | Players | 1/15 |
-| Host Name | SIRI |
+| Host Name | FeeZy |
 | Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:53:50 |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:53:42 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606801949295 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Am1a |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:53:53 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606801365737 |
+| Lobby ID | 28509606802214434 |
 | Players | 1/15 |
-| Host Name | loreaan |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:53:06 |
+| Host Name | Review旧人 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:54:14 |
 
 
 |  | ot3_gardens_duo |
@@ -90,24 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | fam0us |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:53:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606801819787 |
-| Players | 1/15 |
-| Host Name | FeeZy |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:53:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606802214434 |
-| Players | 1/15 |
-| Host Name | Review旧人 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:54:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -130,10 +112,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28509606802176066 |
-| Players | 1/10 |
-| Host Name | SunnY |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:54:11 |
+| Lobby ID | 28509606802281465 |
+| Players | 3/10 |
+| Host Name | Astolfo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:54:20 |
 
 
