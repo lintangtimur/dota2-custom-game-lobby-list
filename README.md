@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606804658357 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Sign the Contract Big Boy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 16:57:29 |
@@ -76,10 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28509606804996275 |
+| Lobby ID | 28509606805034844 |
 | Players | 1/10 |
-| Host Name | มักสาวฟังล |
+| Host Name | PapaJohari |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 7, 2023 16:57:55 |
+| Lobby Creation Time | Tuesday, November 7, 2023 16:57:59 |
 
 
