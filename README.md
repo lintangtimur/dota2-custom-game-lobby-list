@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28509606620534056 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | General Cheems Cheetos |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:03:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606620913825 |
-| Players | 5/24 |
+| Players | 9/24 |
 | Host Name | _____________ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 12:04:08 |
@@ -83,30 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 7, 2023 12:04:03 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606621187076 |
-| Players | 1/10 |
-| Host Name | zel |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:04:39 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28509606621208877 |
-| Players | 3/7 |
-| Host Name | Bipolarbear |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:04:41 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28509606621200516 |
-| Players | 1/10 |
-| Host Name | wagyu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 12:04:40 |
+| Lobby ID | 28509606621310967 |
+| Players | 6/8 |
+| Host Name | TaKiT0 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 7, 2023 12:04:53 |
 
 
