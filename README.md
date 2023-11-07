@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28509606709589593 |
-| Players | 1/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:41:56 |
+| Lobby ID | 28509606713963122 |
+| Players | 5/15 |
+| Host Name | eleskovic^ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:48:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606705807030 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Punisher PMA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:36:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28509606710993138 |
-| Players | 11/15 |
+| Players | 9/15 |
 | Host Name | OverFlown |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:44:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509606711995337 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Chloe Grace Moretz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 7, 2023 14:45:33 |
@@ -85,29 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28509606713017867 |
-| Players | 1/8 |
-| Host Name | -~=(BARON)=~- |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:47:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28509606713935213 |
-| Players | 1/8 |
-| Host Name | WAYNE |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:48:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28509606713963122 |
-| Players | 3/15 |
-| Host Name | eleskovic^ |
+| Lobby ID | 28509606714076342 |
+| Players | 3/8 |
+| Host Name | _-_ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 7, 2023 14:48:30 |
+| Lobby Creation Time | Tuesday, November 7, 2023 14:48:41 |
 
 
 |  | epic_boss_fight_nightmare |
