@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400517386030 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | WEED |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:36:38 |
@@ -50,37 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400518579489 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | SiSaNeN |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:39:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511400520188153 |
-| Players | 5/10 |
-| Host Name | Sr Timba |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:42:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511400518829669 |
-| Players | 7/15 |
-| Host Name | AndreXD |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:39:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511400519127994 |
-| Players | 7/10 |
-| Host Name | V 𝖋𝖊𝖓𝕶𝖛𝖊𝖓 V |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:40:12 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | AMOK ¯\_(ツ)_/¯ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:41:50 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511400518829669 |
+| Players | 8/15 |
+| Host Name | AndreXD |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:39:35 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511400519127994 |
+| Players | 8/10 |
+| Host Name | V 𝖋𝖊𝖓𝕶𝖛𝖊𝖓 V |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:40:12 |
 
 
 |  | epic_boss_fight_nightmare |
