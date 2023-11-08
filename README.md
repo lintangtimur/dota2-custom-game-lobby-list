@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400468555448 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | MASHA Y EL URSA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:55:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400469443294 |
-| Players | 14/15 |
-| Host Name | Durotan |
+| Lobby ID | 28511400468281037 |
+| Players | 5/10 |
+| Host Name | Mococo Player |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:57:28 |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:54:58 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400469418049 |
-| Players | 13/24 |
+| Players | 18/24 |
 | Host Name | -a |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:57:24 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400467423865 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | Handler ☆☆☆ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:53:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511400468281037 |
-| Players | 5/10 |
-| Host Name | Mococo Player |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:54:58 |
 
 
 |  | epic_boss_fight_nightmare |
