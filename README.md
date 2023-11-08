@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400533047295 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | AmBOT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:09:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400533894471 |
-| Players | 1/8 |
-| Host Name | ЭХЭЙ ЙОБАНА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:11:13 |
+| Lobby ID | 28511400534052527 |
+| Players | 6/10 |
+| Host Name | Arthas Menethil |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:11:34 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400533530398 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | SHVEPS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:10:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400533402123 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Galeido (ɔ*-*)ɔ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:10:09 |
@@ -59,28 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400533493926 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | EL AYUWOKI |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:10:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400534052527 |
-| Players | 2/10 |
-| Host Name | Arthas Menethil |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:11:34 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511400531385200 |
-| Players | 1/10 |
-| Host Name | GS.GeneraLz-♫ |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:05:51 |
+| Lobby ID | 28511400534143668 |
+| Players | 1/8 |
+| Host Name | ЭХЭЙ ЙОБАНА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:11:46 |
 
 
 |  | epic_boss_fight_nightmare |
