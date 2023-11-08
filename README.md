@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400490978474 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Wynd |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:43:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400491203551 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Ricefarmer #1 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:44:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400491436621 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ♥Miul♥ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:44:30 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511400492462674 |
-| Players | 1/24 |
-| Host Name | DotaPlayer1 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:46:36 |
+| Lobby ID | 28511400492524564 |
+| Players | 4/24 |
+| Host Name | Dr Tazerenix |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:46:43 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DPGaming |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:46:33 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511400492519487 |
-| Players | 1/24 |
-| Host Name | 阿宝 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:46:42 |
 
 
