@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400465595388 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | WilifWilofWilai |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:48:55 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 10:48:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400465327054 |
-| Players | 7/8 |
-| Host Name | AkiKo Annaisha kim Sung |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:48:19 |
+| Lobby ID | 28511400465770802 |
+| Players | 1/10 |
+| Host Name | Grumbledorp |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:49:19 |
 
 
 |  | ot3_jungle_quintet |
