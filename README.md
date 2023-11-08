@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:14:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177026527887 |
-| Players | 7/8 |
-| Host Name | kagura bachi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:15:25 |
+| Lobby ID | 28511177023901733 |
+| Players | 11/15 |
+| Host Name | arp |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:09:24 |
 
 
 |  | ot3_desert_octet |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177026227959 |
-| Players | 12/15 |
-| Host Name | 'Charlotte 雨' |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:14:49 |
+| Lobby ID | 28511177025342020 |
+| Players | 13/15 |
+| Host Name | Petabyte |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:12:57 |
 
 
 |  | ot3_gardens_duo |
@@ -68,28 +68,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177026823098 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | csi las vegas |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:16:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177026871190 |
-| Players | 1/24 |
-| Host Name | DrDisconnect |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:16:06 |
+| Lobby ID | 28511177026960665 |
+| Players | 1/15 |
+| Host Name | TH3MENDZ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:16:16 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177025342020 |
-| Players | 11/15 |
-| Host Name | Petabyte |
+| Lobby ID | 28511177023628682 |
+| Players | 14/15 |
+| Host Name | KuroiBlazr |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:08:42 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511177026980036 |
+| Players | 1/24 |
+| Host Name | DrDisconnect |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:16:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511177026979596 |
+| Players | 1/8 |
+| Host Name | P-JACK |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:12:57 |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:16:19 |
 
 
 |  | epic_boss_fight_nightmare |
