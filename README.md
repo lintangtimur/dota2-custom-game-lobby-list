@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400546867852 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Aizen Sosuke |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:38:59 |
@@ -67,17 +67,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400547537401 |
-| Players | 14/15 |
-| Host Name | Vuvuzela Virtuoso Hans Rudolph |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:40:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28511400548224959 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:41:52 |
