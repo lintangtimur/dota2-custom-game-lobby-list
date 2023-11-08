@@ -47,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 08:14:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177059971397 |
-| Players | 8/10 |
-| Host Name | Feed Control |
+| Lobby ID | 28511177060477156 |
+| Players | 1/8 |
+| Host Name | ... |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:29:00 |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:30:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177060351276 |
-| Players | 2/10 |
-| Host Name | Дядя Серёжа |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:29:54 |
+| Lobby ID | 28511177060422379 |
+| Players | 2/15 |
+| Host Name | Aarön |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:30:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177060332927 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Nevalyashka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:29:51 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177060408450 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | W U Z I M U |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:30:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511177060422379 |
-| Players | 1/15 |
-| Host Name | Aarön |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:30:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Next |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:22:43 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511177059827312 |
-| Players | 1/5 |
-| Host Name | k3v1n19 |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:28:39 |
 
 
