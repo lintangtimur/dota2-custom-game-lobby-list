@@ -22,38 +22,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400558589047 |
+| Lobby ID | 28511400558805736 |
 | Players | 2/10 |
-| Host Name | ILose |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:03:24 |
+| Host Name | zxc_1000-7_ ghoul_zxc |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 8, 2023 14:03:49 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400553555113 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | MODO MIRACLE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:53:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511400558014940 |
-| Players | 4/8 |
-| Host Name | Boogeyman |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:02:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511400557632635 |
-| Players | 10/15 |
-| Host Name | Gaius Mors |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:01:29 |
 
 
 |  | ot3_desert_octet |
@@ -63,6 +45,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Marcos3tres |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:52:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511400557632635 |
+| Players | 11/15 |
+| Host Name | Gaius Mors |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 14:01:29 |
 
 
 |  | epic_boss_fight_nightmare |
