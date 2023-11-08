@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 09:14:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177079035054 |
-| Players | 13/15 |
-| Host Name | reybinoT |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:13:54 |
+| Lobby ID | 28511177079379133 |
+| Players | 2/8 |
+| Host Name | nv |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:14:43 |
 
 
 |  | ot3_gardens_duo |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177060901293 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | 削茎疼 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:31:12 |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 09:11:35 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177079052801 |
-| Players | 7/8 |
-| Host Name | LooPer |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:13:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177079379133 |
-| Players | 1/8 |
-| Host Name | nv |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:14:43 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177079516593 |
@@ -90,5 +72,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Huvu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:15:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511177079586336 |
+| Players | 3/15 |
+| Host Name | allmute |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:15:12 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511177079627460 |
+| Players | 1/24 |
+| Host Name | Hammett Mod Berserker |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:15:18 |
 
 
