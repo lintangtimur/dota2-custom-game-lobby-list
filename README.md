@@ -65,12 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:51:00 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511177043241559 |
-| Players | 9/10 |
-| Host Name | antuar |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:48:01 |
+| Lobby ID | 28511177045244325 |
+| Players | 3/10 |
+| Host Name | Kuni Nosik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:52:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511177045241106 |
+| Players | 1/8 |
+| Host Name | Syrconis |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:52:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511177045248116 |
+| Players | 1/8 |
+| Host Name | ◥►-◄◤ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:52:58 |
 
 
