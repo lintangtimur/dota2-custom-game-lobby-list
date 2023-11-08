@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177077999088 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | juego solo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:11:29 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177077878004 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | isalla |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:11:13 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511177078255195 |
-| Players | 1/15 |
-| Host Name | Agent Orange |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:12:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,10 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 09:12:04 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511177078359930 |
+| Players | 1/15 |
+| Host Name | Anonyposka |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:12:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511177078360900 |
+| Players | 1/15 |
+| Host Name | Castillo |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:12:20 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511177077306347 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Ryuzaken |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:09:53 |
