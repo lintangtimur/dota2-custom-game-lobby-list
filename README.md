@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400552845953 |
-| Players | 9/10 |
-| Host Name | Sferov |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:51:45 |
+| Lobby ID | 28511400554666205 |
+| Players | 4/10 |
+| Host Name | Arthas Menethil |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:55:31 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400554440025 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | ларл менталити |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:55:03 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400553991579 |
-| Players | 9/15 |
+| Players | 7/15 |
 | Host Name | alangazavr |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:54:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511400554638885 |
-| Players | 1/15 |
-| Host Name | Water |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:55:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -76,10 +67,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511400554659037 |
+| Lobby ID | 28511400554731162 |
 | Players | 1/10 |
-| Host Name | GS.GeneraLz-♫ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:55:30 |
+| Host Name | Next |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:55:38 |
 
 
