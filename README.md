@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177027560369 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | ZLM |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:17:25 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177027462851 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | VOID ESPONJA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:17:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511177026823098 |
-| Players | 14/15 |
-| Host Name | csi las vegas |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:16:00 |
+| Lobby ID | 28511177024566952 |
+| Players | 22/24 |
+| Host Name | Sou |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:11:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,6 +81,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ASIST |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:15:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511177022363455 |
+| Players | 22/24 |
+| Host Name | Kriptic |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:05:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511177028001852 |
+| Players | 3/8 |
+| Host Name | kagura bachi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:18:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,18 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511177027464817 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Aight, Bet! |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:17:14 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511177027954536 |
-| Players | 1/5 |
-| Host Name | 13 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:18:11 |
 
 
