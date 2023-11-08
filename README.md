@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400443657107 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:02:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400445225042 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Mee to |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:05:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400444500737 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | La RATA.. KE TE COME :) |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:04:15 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400444698148 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | ieagtonrns |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:04:39 |
@@ -86,19 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400444968320 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | Captain Moosejaw |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:05:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400445328111 |
-| Players | 1/8 |
-| Host Name | JerryLee |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:05:53 |
+| Lobby ID | 28511400445348364 |
+| Players | 7/10 |
+| Host Name | oMi |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:05:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511400445409028 |
+| Players | 5/15 |
+| Host Name | Sapa Inca |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:06:03 |
 
 
 |  | epic_boss_fight_nightmare |
