@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400445225042 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Mee to |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:05:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400443074105 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Ajr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:01:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400446277068 |
-| Players | 6/8 |
+| Players | 4/8 |
 | Host Name | SASUKE UCHIHA DESERTOR |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:07:46 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400442326395 |
-| Players | 6/10 |
-| Host Name | Jordy Cage |
+| Players | 5/10 |
+| Host Name | takeshi (武士) |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:00:02 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400446190730 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | if you can? |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:07:36 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400446495417 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | iwantsomepizza |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:08:13 |
