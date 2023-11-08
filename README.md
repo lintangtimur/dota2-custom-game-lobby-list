@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 09:48:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177092797406 |
-| Players | 8/10 |
-| Host Name | Abilhasanov |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:45:25 |
+| Lobby ID | 28511177094979752 |
+| Players | 1/8 |
+| Host Name | Bajador de Pepa Profesional |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:49:46 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177060901293 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 削茎疼 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:31:12 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177094737250 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Skere |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:49:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177094462410 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Jordy Cage |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:48:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177094958362 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Vovka2001ProInvoker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:49:43 |
@@ -68,18 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177094829162 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | kchudo desde los 15 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:49:28 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511177094931772 |
-| Players | 1/5 |
-| Host Name | HÖennHeim™ |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:49:40 |
+| Lobby ID | 28511177094975883 |
+| Players | 1/24 |
+| Host Name | Fitzcarraldo |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:49:45 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511177095061986 |
+| Players | 3/24 |
+| Host Name | 乱战先锋专用帐号 |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:49:55 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511177093490823 |
+| Players | 9/10 |
+| Host Name | Kukuri |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:46:50 |
 
 
