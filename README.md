@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400524906346 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Pistachio Gelato |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:52:14 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400526694301 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Error.On.Fire.xD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:55:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400526489157 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Papi te vas< |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:55:30 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400527258868 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Yes Chef! |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:57:03 |
