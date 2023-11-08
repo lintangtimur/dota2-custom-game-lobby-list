@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400468555448 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | MASHA Y EL URSA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:55:35 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400470275724 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | YAUJA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:59:15 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400468537632 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | != |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:55:32 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511400469418049 |
+| Players | 23/24 |
+| Host Name | -a |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:57:24 |
 
 
 |  | epic_boss_fight_nightmare |
