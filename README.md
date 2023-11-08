@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400471206570 |
-| Players | 7/10 |
+| Players | 4/10 |
 | Host Name | Mark Wolf(jabroni here) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:01:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400468537632 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | != |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:55:32 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400471602420 |
-| Players | 15/24 |
+| Players | 21/24 |
 | Host Name | Martin-Luther-King. |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:02:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400472601095 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | ʀʏυʍ¿ɴcʜ∀ε |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:04:34 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400472791021 |
-| Players | 3/24 |
-| Host Name | Pistachio Gelato |
+| Players | 7/24 |
+| Host Name | Merlin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:05:00 |
 
