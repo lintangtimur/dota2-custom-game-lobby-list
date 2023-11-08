@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400510979478 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | ARDILLA 3.0 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:23:34 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400511129399 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | СМЕРТЬ ВРАГАМ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:23:51 |
@@ -101,6 +101,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 12:23:51 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400511198564 |
+| Players | 2/8 |
+| Host Name | Glump |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:23:59 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400505954503 |
@@ -112,19 +121,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511400510156905 |
-| Players | 9/10 |
-| Host Name | SnowFire |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:21:57 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28511400511135837 |
 | Players | 1/10 |
 | Host Name | Yusei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:23:52 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511400511206522 |
+| Players | 1/10 |
+| Host Name | Vivi |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:24:00 |
 
 
