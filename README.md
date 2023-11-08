@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177041851769 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | XxTuviejoxX |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:44:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177041773372 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Aarön |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:44:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177041505916 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Грязная ДЕШЕВКА ЭЩЭЩЭЩЭЩ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:43:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177041596510 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ¿? |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:44:00 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177042154620 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Drakalian the Dragon King |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:45:21 |
