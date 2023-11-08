@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400526489157 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Papi te vas< |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:55:30 |
@@ -47,31 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 12:59:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400528773397 |
-| Players | 1/8 |
-| Host Name | Анимешечка |
+| Lobby ID | 28511400529133145 |
+| Players | 1/15 |
+| Host Name | ♛ Azhik#p4p ♛ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:00:10 |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:00:59 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400524906346 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Pistachio Gelato |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:52:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400529133145 |
-| Players | 1/15 |
-| Host Name | UuduuZ |
+| Lobby ID | 28511400529228567 |
+| Players | 1/8 |
+| Host Name | Анимешечка |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:00:59 |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:01:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -92,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 12:59:58 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28511400529128384 |
-| Players | 1/5 |
+| Lobby ID | 28511400529175569 |
+| Players | 1/7 |
 | Host Name | Ganimx |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:00:59 |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:01:05 |
 
 
