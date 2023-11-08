@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 10:08:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400447139206 |
-| Players | 9/15 |
-| Host Name | Jordy Cage |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:09:33 |
+| Lobby ID | 28511400448526944 |
+| Players | 1/8 |
+| Host Name | RazorRyft |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:12:32 |
 
 
 |  | ot3_desert_octet |
