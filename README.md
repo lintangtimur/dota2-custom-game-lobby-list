@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400559562668 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Glimmer of Hope |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:05:16 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400559348970 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Kärss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:04:51 |
@@ -45,5 +45,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Gaius Mors |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:01:29 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511400560020281 |
+| Players | 1/10 |
+| Host Name | antuar |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 14:06:10 |
 
 
