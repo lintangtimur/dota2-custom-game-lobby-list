@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400505010664 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | NO SÉ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:11:39 |
@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400505256651 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Castillo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:12:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511400506797982 |
-| Players | 4/8 |
-| Host Name | •ᴇʙssɪʟᴏɴ• |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:15:13 |
+| Lobby ID | 28511400506421017 |
+| Players | 1/24 |
+| Host Name | RiftBreaker |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:14:27 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400504539719 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Madafacar |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:10:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400505429961 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | ***** |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:12:30 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400506397652 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | mLaSYa |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:14:25 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400506421017 |
-| Players | 1/24 |
-| Host Name | RiftBreaker |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:14:27 |
+| Lobby ID | 28511400506951656 |
+| Players | 2/10 |
+| Host Name | V 𝖋𝖊𝖓𝕶𝖛𝖊𝖓 V |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:15:32 |
 
 
 |  | epic_boss_fight_nightmare |
