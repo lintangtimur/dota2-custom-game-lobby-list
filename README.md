@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400453890560 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | You will die |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:23:40 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400456174150 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Tu bizcochito |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:28:26 |
@@ -92,6 +92,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 10:27:37 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400457161599 |
+| Players | 3/8 |
+| Host Name | 123 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:30:37 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400455802965 |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28511400455306576 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | FishBunnyCat |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:26:35 |
