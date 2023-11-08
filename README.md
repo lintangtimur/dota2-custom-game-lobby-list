@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177047631652 |
-| Players | 12/15 |
-| Host Name | Solo Leveling |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:58:54 |
+| Lobby ID | 28511177048609863 |
+| Players | 1/15 |
+| Host Name | merme |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:01:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177048464867 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | PABLITO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:01:00 |
@@ -112,10 +112,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177048609863 |
+| Lobby ID | 28511177048673450 |
 | Players | 1/15 |
-| Host Name | merme |
+| Host Name | mode: eblan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:01:31 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511177048704384 |
+| Players | 1/10 |
+| Host Name | GuITaR |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:01:22 |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:01:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511177048711003 |
+| Players | 2/8 |
+| Host Name | Lali_Bomb |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:01:37 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511177048678696 |
+| Players | 1/10 |
+| Host Name | Poseidon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:01:32 |
 
 
