@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400477428093 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | USE YOUR BRAIN PLS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:15:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400477460147 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | TOMA CHUPETE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:15:11 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400474184583 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Bad Bunny |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:08:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400477816391 |
-| Players | 3/8 |
-| Host Name | Lenfuris |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:15:57 |
+| Lobby ID | 28511400477897713 |
+| Players | 2/15 |
+| Host Name | YKYKKYKYK |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:16:07 |
 
 
 |  | epic_boss_fight_nightmare |
