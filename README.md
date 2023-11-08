@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400521864125 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | проклятье Тутанхамона |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:45:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400522559862 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Kingfisher |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:47:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400523009626 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | el rey del bailoteo |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:48:15 |
