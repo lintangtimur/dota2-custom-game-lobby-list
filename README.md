@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400451647890 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Br0ker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:19:00 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 10:28:21 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400458836943 |
-| Players | 23/24 |
-| Host Name | lina paucar |
+| Lobby ID | 28511400457805431 |
+| Players | 9/10 |
+| Host Name | Llamaloco |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:34:20 |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:32:03 |
 
 
 |  | ot3_gardens_duo |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | hi |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:37:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400462400843 |
+| Players | 1/8 |
+| Host Name | 戀•ᴀssᴀsɪɴ•戀 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:41:55 |
 
 
 |  | epic_boss_fight_nightmare |
