@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177083185065 |
-| Players | 23/24 |
-| Host Name | Reyzor |
+| Lobby ID | 28511177084112088 |
+| Players | 1/8 |
+| Host Name | El Gotto Cuba |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:23:37 |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:25:48 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177082880699 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Lenfuris |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:22:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177084074528 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | hAggU pLaYeR |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:25:42 |
