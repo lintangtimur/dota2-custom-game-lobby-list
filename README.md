@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400443657107 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:02:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400444500737 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | La RATA.. KE TE COME :) |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:04:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400442671634 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | REYNOSO CTM |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:00:42 |
@@ -85,19 +85,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511400444831436 |
+| Lobby ID | 28511400444959614 |
 | Players | 1/24 |
 | Host Name | Weganerd |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:04:55 |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:05:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400441906760 |
-| Players | 7/8 |
-| Host Name | breakоровец |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:59:17 |
+| Lobby ID | 28511400444968320 |
+| Players | 1/10 |
+| Host Name | Captain Moosejaw |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:05:11 |
 
 
