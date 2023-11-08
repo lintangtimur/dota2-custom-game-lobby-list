@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177047321207 |
-| Players | 23/24 |
-| Host Name | RiftBreaker |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:58:08 |
+| Lobby ID | 28511177049437766 |
+| Players | 1/8 |
+| Host Name | sys |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:03:26 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177049319309 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | NoobMaster69 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:03:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177047494256 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | freshejka |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:58:34 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177048278342 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Karen❤ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:00:33 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177048609863 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | merme |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:01:22 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ------------ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:03:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511177048464867 |
+| Players | 14/15 |
+| Host Name | THE BEBA |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:01:00 |
 
 
 |  | epic_boss_fight_nightmare |
