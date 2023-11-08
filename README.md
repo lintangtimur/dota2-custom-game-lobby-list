@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400552328854 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Harvester of death |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:50:39 |
@@ -38,15 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 13:39:43 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511400552300268 |
-| Players | 1/8 |
-| Host Name | _-_ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:50:35 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400550084116 |
@@ -54,5 +45,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Maganahi |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:45:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400552474258 |
+| Players | 1/8 |
+| Host Name | _-_ |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:50:57 |
 
 
