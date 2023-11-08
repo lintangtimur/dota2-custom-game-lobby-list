@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400453427714 |
-| Players | 5/8 |
-| Host Name | TomPal |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:22:45 |
+| Lobby ID | 28511400454951025 |
+| Players | 2/8 |
+| Host Name | Rick |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:25:50 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400453810866 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | shark apologist |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:23:31 |
@@ -76,26 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400454909129 |
-| Players | 4/8 |
-| Host Name | the last |
+| Lobby ID | 28511400454985596 |
+| Players | 2/8 |
+| Host Name | animepic |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:25:45 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511400454054349 |
-| Players | 1/10 |
-| Host Name | Poseidon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:23:59 |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:25:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400454609524 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | SilVer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:25:07 |
