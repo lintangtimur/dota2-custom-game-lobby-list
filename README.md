@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177053947026 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | MataCholas |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:14:32 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177053818525 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | cf init |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:14:13 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177053997439 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | willow |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:14:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177054062251 |
-| Players | 7/10 |
-| Host Name | Wayne |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:14:49 |
+| Lobby ID | 28511177054419955 |
+| Players | 2/8 |
+| Host Name | Kabir |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:15:41 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177054016942 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Eldarion |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:14:43 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 08:15:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177054419955 |
-| Players | 2/8 |
-| Host Name | Kabir |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:15:41 |
+| Lobby ID | 28511177054531774 |
+| Players | 3/15 |
+| Host Name | Yamil :D |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:15:58 |
 
 
 |  | epic_boss_fight_nightmare |
