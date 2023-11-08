@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400560490444 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Rambod D. Luffy |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:07:05 |
@@ -41,43 +41,52 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400562430839 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | gentleman |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:10:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400562451837 |
-| Players | 1/8 |
-| Host Name | Pufgun |
+| Lobby ID | 28511400562771202 |
+| Players | 1/15 |
+| Host Name | double<3A |
 | Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:11:00 |
+| Lobby Creation Time | Wednesday, November 8, 2023 14:11:38 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400562587575 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | ⌡™ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:11:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400562717759 |
-| Players | 1/15 |
-| Host Name | double<3A |
+| Lobby ID | 28511400562817819 |
+| Players | 1/8 |
+| Host Name | Pufgun |
 | Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:11:32 |
+| Lobby Creation Time | Wednesday, November 8, 2023 14:11:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400562819357 |
+| Players | 1/8 |
+| Host Name | я это самое |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 14:11:44 |
 
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28511400562335626 |
-| Players | 4/7 |
+| Players | 5/7 |
 | Host Name | bLdymsscR 𓅁 |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:10:46 |
