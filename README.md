@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400538259495 |
-| Players | 13/24 |
-| Host Name | _(:з」∠)_ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:20:38 |
+| Lobby ID | 28511400540090842 |
+| Players | 1/15 |
+| Host Name | 10 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:24:32 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400534595562 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:12:44 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400539896573 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | KalleNツ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:24:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400539945908 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Glucomethane |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:24:14 |
@@ -40,11 +40,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400539981636 |
+| Lobby ID | 28511400540064020 |
 | Players | 1/10 |
 | Host Name | Sferov |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:24:18 |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:24:29 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511400536157299 |
+| Players | 23/24 |
+| Host Name | BABY-ROSH (AL) |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:16:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400540226844 |
+| Players | 1/8 |
+| Host Name | unvalibavol |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:24:50 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511400540268514 |
+| Players | 1/24 |
+| Host Name | HUMANIACK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:24:55 |
 
 
 |  | epic_boss_fight_nightmare |
