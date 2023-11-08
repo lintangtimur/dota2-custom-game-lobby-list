@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400488623007 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:38:42 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400493966314 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | izi pipilin |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:49:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400492810168 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | NAZUN4♥ |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:47:18 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MataCholas |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:49:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511400494334173 |
+| Players | 3/15 |
+| Host Name | Jimo is Back! |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:50:23 |
 
 
 |  | epic_boss_fight_challenger |
