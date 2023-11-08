@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400485261730 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | HMD...C.I.A |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:31:39 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 11:32:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400484775464 |
-| Players | 6/8 |
-| Host Name | El gato con botas |
+| Lobby ID | 28511400485091187 |
+| Players | 14/15 |
+| Host Name | Alexor10 giordota.com |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:30:35 |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:31:16 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400485858097 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | AME SMURF no4 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:32:56 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400485925456 |
-| Players | 2/10 |
-| Host Name | nacko LoaL |
+| Players | 1/10 |
+| Host Name | los estudios me nerfearon |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:33:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511400485091187 |
-| Players | 14/15 |
-| Host Name | Alexor10 giordota.com |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:31:16 |
 
 
 |  | epic_boss_fight_normal |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | g.bayankhishig |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:33:01 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511400486036160 |
+| Players | 1/10 |
+| Host Name | fakeplastictree |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:33:19 |
 
 
