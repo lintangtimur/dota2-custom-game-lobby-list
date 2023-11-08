@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177094252596 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | JoeShiesty |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:48:21 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400438759540 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | ALEX, LA PROMESA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:54:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177093951261 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Sofuer |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:47:45 |
@@ -49,20 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400438834981 |
-| Players | 13/15 |
-| Host Name | Ryuguji Ken |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:54:48 |
+| Lobby ID | 28511400441091162 |
+| Players | 5/15 |
+| Host Name | Glue Sommelier |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:57:53 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400441490014 |
-| Players | 1/10 |
-| Host Name | NimEdel |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:58:35 |
+| Lobby ID | 28511400441349523 |
+| Players | 5/10 |
+| Host Name | Lalabom |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:58:20 |
 
 
 |  | ot3_gardens_duo |
@@ -104,28 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177094975883 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | Fitzcarraldo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:49:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511400441091162 |
-| Players | 5/15 |
-| Host Name | Glue Sommelier |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:57:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511400441349523 |
-| Players | 5/10 |
-| Host Name | Lalabom |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:58:20 |
 
 
 |  | epic_boss_fight_challenger |
