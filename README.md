@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177032126081 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | D ~ He♥ly |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:25:45 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177030348314 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Patron |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:22:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177025877738 |
-| Players | 22/24 |
-| Host Name | _____________ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:14:07 |
+| Lobby ID | 28511177028001852 |
+| Players | 5/8 |
+| Host Name | tveni tveni |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:18:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177032449501 |
+| Lobby ID | 28511177031447141 |
 | Players | 14/15 |
-| Host Name | $KÜŁŁĪČÊ |
+| Host Name | Donut Squirrel |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:26:20 |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:24:31 |
 
 
 |  | ot3_desert_octet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177027256325 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | MaNcHas |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:16:50 |
@@ -117,32 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ohra |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:26:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511177030878867 |
-| Players | 9/10 |
-| Host Name | Shigami |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:23:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177028001852 |
-| Players | 5/8 |
-| Host Name | tveni tveni |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:18:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511177031447141 |
-| Players | 14/15 |
-| Host Name | Donut Squirrel |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:24:31 |
 
 
