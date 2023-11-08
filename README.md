@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511177030985144 |
-| Players | 21/24 |
-| Host Name | DrDisconnect |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:23:41 |
+| Lobby ID | 28511177042299747 |
+| Players | 6/10 |
+| Host Name | Dark |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:45:43 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177041851769 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | XxTuviejoxX |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:44:37 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177042021102 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Absurd |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:45:01 |
