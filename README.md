@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400545244787 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:35:36 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400545574295 |
-| Players | 19/24 |
-| Host Name | ArtoftheStateAT |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:36:17 |
+| Lobby ID | 28511400548224959 |
+| Players | 13/15 |
+| Host Name | SUPREME# [16] |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:41:52 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400546867852 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Aizen Sosuke |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:38:59 |
@@ -65,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 13:43:02 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511400548224959 |
-| Players | 13/15 |
-| Host Name | SUPREME# [16] |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:41:52 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400549020718 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Zafina |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:43:33 |
