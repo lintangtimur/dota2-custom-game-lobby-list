@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401519315959 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | 682 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 06:58:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401519224828 |
-| Players | 11/15 |
-| Host Name | blit |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 06:58:32 |
+| Lobby ID | 28511401519361082 |
+| Players | 3/8 |
+| Host Name | Maté A Kenny |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 06:58:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LXVIATHXN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 06:57:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401519361082 |
-| Players | 1/8 |
-| Host Name | Maté A Kenny |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 06:58:51 |
 
 
 |  | epic_boss_fight_challenger |
