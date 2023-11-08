@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400485481166 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Bonitos y gorditos hijos de puta |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:32:07 |
@@ -65,39 +65,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 11:32:56 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511400486053576 |
-| Players | 6/8 |
-| Host Name | El Pejerrete |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:33:21 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511400485877161 |
-| Players | 2/5 |
-| Host Name | Fer |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:32:59 |
+| Lobby ID | 28511400486905827 |
+| Players | 1/10 |
+| Host Name | Booberries |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:35:11 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400485897105 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | g.bayankhishig |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:33:01 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511400486855366 |
-| Players | 1/5 |
-| Host Name | santiago |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:35:04 |
 
 
