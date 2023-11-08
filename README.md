@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177064012786 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | MATA CABROS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:38:32 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177064406786 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | El Diferente |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:39:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177063009432 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | ROSADITAAAA dx |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:36:12 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177061614035 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | im goldenfield nice to wheat u |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:32:54 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511177060907409 |
-| Players | 23/24 |
-| Host Name | freshejka |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:31:13 |
+| Lobby ID | 28511177064439814 |
+| Players | 8/24 |
+| Host Name | Yamil :D |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:39:33 |
 
 
 |  | ot3_desert_octet |
@@ -104,27 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177063930872 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | владелец крипов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:38:21 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511177064439814 |
-| Players | 8/24 |
-| Host Name | Yamil :D |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:39:33 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511177064636717 |
-| Players | 1/5 |
-| Host Name | M4ch1ne5 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:40:01 |
 
 
