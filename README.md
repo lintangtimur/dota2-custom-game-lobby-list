@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400516067163 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:33:54 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400524158456 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Карамельная Попа |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:50:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400521994941 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | TINI ROSADO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:46:09 |
@@ -41,19 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400524097206 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | es normal |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:50:33 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400524572818 |
+| Players | 1/8 |
+| Host Name | maksem4567 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:51:33 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511400524492161 |
-| Players | 1/24 |
+| Lobby ID | 28511400524578168 |
+| Players | 2/24 |
 | Host Name | Pistachio Gelato |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:51:22 |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:51:33 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -65,12 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 12:50:54 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511400524499438 |
-| Players | 1/5 |
+| Lobby ID | 28511400524531040 |
+| Players | 1/10 |
 | Host Name | 年轻人不气盛叫年轻人吗 |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:51:23 |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:51:27 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511400524582730 |
+| Players | 1/10 |
+| Host Name | Minez |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:51:34 |
 
 
