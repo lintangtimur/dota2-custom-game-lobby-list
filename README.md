@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177064152065 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | nacko LoaL |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:38:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177063009432 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | ROSADITAAAA dx |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:36:12 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177060907409 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | freshejka |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:31:13 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177063896423 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Дрочеслав |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:38:16 |
@@ -110,12 +110,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 08:38:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511177064133962 |
-| Players | 2/8 |
-| Host Name | Cigarettes After Sex |
+| Lobby ID | 28511177064439814 |
+| Players | 4/24 |
+| Host Name | Yamil :D |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:38:49 |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:39:33 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511177064406786 |
+| Players | 2/10 |
+| Host Name | El Diferente |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:39:29 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28511177064477677 |
+| Players | 2/7 |
+| Host Name | Hola??? |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:39:39 |
 
 
