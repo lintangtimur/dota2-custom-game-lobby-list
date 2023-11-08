@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400471602420 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Martin-Luther-King. |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:02:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400467423865 |
-| Players | 23/24 |
-| Host Name | Handler ☆☆☆ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:53:06 |
+| Lobby ID | 28511400472601095 |
+| Players | 6/15 |
+| Host Name | ʀʏυʍ¿ɴcʜ∀ε |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:04:34 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 11:04:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511400472601095 |
-| Players | 5/15 |
-| Host Name | ʀʏυʍ¿ɴcʜ∀ε |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:04:34 |
+| Lobby ID | 28511400472791021 |
+| Players | 3/24 |
+| Host Name | Pistachio Gelato |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:05:00 |
 
 
 |  | epic_boss_fight_nightmare |
