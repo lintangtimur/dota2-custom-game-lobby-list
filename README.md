@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400543209395 |
-| Players | 1/8 |
-| Host Name | Fadmon |
+| Lobby ID | 28511400542141837 |
+| Players | 9/10 |
+| Host Name | Ajr |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:31:16 |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:28:59 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400541126086 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Sliyver |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:26:46 |
@@ -59,19 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400542432667 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Stronger |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:29:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400542141837 |
-| Players | 9/10 |
-| Host Name | Ajr |
+| Lobby ID | 28511400542585571 |
+| Players | 7/8 |
+| Host Name | -mabubs616/4 TEAM |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:28:59 |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:29:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400543509790 |
+| Players | 1/8 |
+| Host Name | Fadmon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:31:54 |
 
 
 |  | epic_boss_fight_nightmare |
