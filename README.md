@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400549709330 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:45:01 |
@@ -47,6 +47,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 13:51:23 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511400552845953 |
+| Players | 1/10 |
+| Host Name | Sferov |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:51:45 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400552536475 |
@@ -59,9 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400552541993 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Alessia Cara |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:51:06 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511400552794192 |
+| Players | 1/5 |
+| Host Name | ٌٌٍٍٍٍ |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:51:38 |
 
 
