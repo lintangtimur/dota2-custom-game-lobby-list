@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400484224547 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Webi |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:29:22 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400484285742 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | -Xellian |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:29:30 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400484417306 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Dr Tazerenix |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:29:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400483061061 |
-| Players | 14/15 |
-| Host Name | AMOK ¯\_(ツ)_/¯ |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:26:55 |
+| Lobby ID | 28511400484944992 |
+| Players | 2/8 |
+| Host Name | SSS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:30:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,30 +56,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 11:29:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400484944992 |
-| Players | 1/8 |
-| Host Name | SSS |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:30:57 |
+| Lobby ID | 28511400485091187 |
+| Players | 1/15 |
+| Host Name | Alexor10 giordota.com |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:31:16 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400481394301 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | nirvana |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:23:26 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511400484754547 |
-| Players | 3/5 |
-| Host Name | Cheems-O |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:30:32 |
 
 
