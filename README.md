@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400482667680 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Kure Raian//我回来了 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:26:05 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400482998885 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | zxczxc |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:26:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400483061061 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | AMOK ¯\_(ツ)_/¯ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:26:55 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400482476065 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | -Scorpion- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:25:40 |
@@ -49,10 +49,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400483515653 |
+| Lobby ID | 28511400483509864 |
 | Players | 6/8 |
-| Host Name | Go Arconte I⭐⭐⭐⭐⭐II |
-| Region | PERU |
+| Host Name | Max of Tarask |
+| Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:27:52 |
 
 
@@ -65,13 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 11:26:24 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400483509864 |
-| Players | 5/8 |
-| Host Name | Max of Tarask |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:27:52 |
+| Lobby ID | 28511400483709629 |
+| Players | 1/15 |
+| Host Name | 马家堡子第二生产队Tony老师 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:28:17 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511400483729023 |
+| Players | 1/24 |
+| Host Name | 月老離職，財神管姻緣 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:28:19 |
 
 
 |  | epic_boss_fight_nightmare |
