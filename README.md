@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177058674302 |
-| Players | 21/24 |
-| Host Name | Mike Oxlong |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:25:55 |
+| Lobby ID | 28511177059812219 |
+| Players | 1/8 |
+| Host Name | Kukurudza Striptizerka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:28:37 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177059859112 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | БОРЯ комфортик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:28:44 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dark |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:28:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177059812219 |
-| Players | 1/8 |
-| Host Name | Kukurudza Striptizerka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:28:37 |
 
 
 |  | epic_boss_fight_nightmare |
