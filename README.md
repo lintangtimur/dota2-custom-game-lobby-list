@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400540090842 |
-| Players | 3/15 |
-| Host Name | 10 |
+| Players | 2/15 |
+| Host Name | nieves |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:24:32 |
 
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400541126086 |
-| Players | 9/15 |
-| Host Name | Свинопёк |
+| Players | 7/15 |
+| Host Name | SixTwentySix |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:26:46 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400541531951 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | Waldo |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:27:39 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400542141837 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Ajr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:28:59 |
@@ -92,6 +92,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 13:29:56 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511400542826219 |
+| Players | 1/15 |
+| Host Name | 生まれた血液 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:30:26 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511400542844935 |
+| Players | 1/24 |
+| Host Name | 10 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:30:29 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400542057790 |
@@ -101,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 13:28:48 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511400542505616 |
-| Players | 1/5 |
-| Host Name | ._. Переулок Между Булок ._. |
+| Lobby ID | 28511400542850192 |
+| Players | 1/10 |
+| Host Name | abc? |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:29:45 |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:30:30 |
 
 
