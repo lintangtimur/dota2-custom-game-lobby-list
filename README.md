@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177060759090 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | Eris Boreas Greyrat |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:30:52 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177060422379 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Aarön |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:30:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177060617852 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Setrox |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:30:32 |
@@ -110,13 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 08:31:38 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177061200572 |
-| Players | 5/10 |
-| Host Name | Jorgito_tu_terror|HH| |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:31:55 |
+| Lobby ID | 28511177059859112 |
+| Players | 6/8 |
+| Host Name | БОРЯ комфортик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:28:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511177061254574 |
+| Players | 1/8 |
+| Host Name | pust' mama uslisit |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:32:03 |
 
 
 |  | epic_boss_fight_nightmare |
