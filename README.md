@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177033496429 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | LooPer |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:28:12 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607669615738 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:05:38 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177027256325 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | MaNcHas |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:16:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177032889742 |
-| Players | 1/24 |
-| Host Name | Eldarion |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:27:07 |
+| Lobby ID | 28511177033429051 |
+| Players | 5/15 |
+| Host Name | Amira |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:28:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:27:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177031447141 |
-| Players | 12/15 |
-| Host Name | Donut Squirrel |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:24:31 |
+| Lobby ID | 28511177033389588 |
+| Players | 3/8 |
+| Host Name | БОРЯ комфортик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:28:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,28 +86,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177032602391 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Jmaster210 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:26:36 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511177033389588 |
-| Players | 4/8 |
-| Host Name | БОРЯ комфортик |
+| Lobby ID | 28511177025877738 |
+| Players | 20/24 |
+| Host Name | KHAEИ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:14:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511177032483932 |
+| Players | 9/10 |
+| Host Name | miz |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:28:00 |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:26:24 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177033429051 |
-| Players | 4/15 |
-| Host Name | Amira |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:28:05 |
+| Lobby ID | 28511177033994121 |
+| Players | 1/15 |
+| Host Name | Eldarion |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:29:06 |
 
 
 |  | epic_boss_fight_normal |
