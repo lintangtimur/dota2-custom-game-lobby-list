@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400524906346 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Pistachio Gelato |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:52:14 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 12:55:55 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400524964564 |
-| Players | 22/24 |
-| Host Name | ? |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:52:21 |
+| Lobby ID | 28511400527189171 |
+| Players | 6/15 |
+| Host Name | Lälek |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:56:55 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400526852117 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 年輕的惡魔 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:56:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400527181981 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | TEEHEE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:56:54 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400527189171 |
-| Players | 4/15 |
-| Host Name | Lälek |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:56:55 |
+| Lobby ID | 28511400527258868 |
+| Players | 1/15 |
+| Host Name | Yes Chef! |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:57:03 |
 
 
 |  | epic_boss_fight_nightmare |
