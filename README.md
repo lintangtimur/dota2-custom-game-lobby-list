@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607669615738 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:05:38 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177021772643 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | NutInMyMouthForBusMoney, ty |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:04:00 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 06:58:01 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511177019915341 |
-| Players | 21/24 |
-| Host Name | D ~ He♥ly |
+| Lobby ID | 28511177021757884 |
+| Players | 2/10 |
+| Host Name | Invert |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 06:59:14 |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:03:57 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177021324520 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | WEENIE QUEEN |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:02:51 |
@@ -110,28 +110,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:03:37 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511177021757884 |
-| Players | 2/10 |
-| Host Name | Invert |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:03:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177021925059 |
-| Players | 6/8 |
-| Host Name | Kagura ダークロータス |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:04:23 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511177019653720 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | No se jugar ;v |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:58:35 |
