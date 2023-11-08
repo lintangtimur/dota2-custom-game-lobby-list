@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400487181218 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | EJ-Smill3 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:35:46 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400485481166 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Bonitos y gorditos hijos de puta |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:32:07 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400486905827 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Booberries |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:35:11 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400485897105 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | g.bayankhishig |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:33:01 |
