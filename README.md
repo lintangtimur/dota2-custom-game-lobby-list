@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400459791621 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Sofuer |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:36:24 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400457805431 |
-| Players | 9/10 |
-| Host Name | Llamaloco |
+| Players | 8/10 |
+| Host Name | Amsterdam |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:32:03 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400460904146 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | novak |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:38:42 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400460189877 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | hi |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:37:12 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400462400843 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 戀•ᴀssᴀsɪɴ•戀 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:41:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511400462500397 |
+| Players | 2/15 |
+| Host Name | FV |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:42:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Strange |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:40:04 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511400462020284 |
-| Players | 1/5 |
-| Host Name | uDIK 5 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:41:05 |
 
 
