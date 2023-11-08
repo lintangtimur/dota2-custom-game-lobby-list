@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511400524180612 |
-| Players | 14/15 |
-| Host Name | Sheeeeeeeeeeeeeeeez |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:50:43 |
+| Lobby ID | 28511400524906346 |
+| Players | 9/24 |
+| Host Name | Pistachio Gelato |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:52:14 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400516067163 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:33:54 |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 12:51:33 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511400524906346 |
-| Players | 7/24 |
-| Host Name | Pistachio Gelato |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:52:14 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400524267890 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400524997579 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | 年轻人不气盛叫年轻人吗 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:52:25 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400525118288 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | PapaJohari |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:52:40 |
