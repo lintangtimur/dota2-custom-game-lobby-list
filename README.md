@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400462734040 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | 506 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:42:39 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400462600377 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | FV |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:42:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400462909670 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | 100% pasivo llamame 960 210 099 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:43:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400462400843 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Diamonds & Dancefloor |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:41:55 |
@@ -101,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 10:43:58 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28511400463371570 |
-| Players | 1/5 |
+| Lobby ID | 28511400463408778 |
+| Players | 1/7 |
 | Host Name | uDIK 5 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:44:03 |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:44:07 |
 
 
