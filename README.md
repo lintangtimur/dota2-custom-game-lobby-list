@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400508095863 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Kira- |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:17:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400508956609 |
-| Players | 13/15 |
+| Players | 11/15 |
 | Host Name | AMOK ¯\_(ツ)_/¯ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:19:30 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400509211232 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | хочу татарочку |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:20:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400509324822 |
+| Players | 1/8 |
+| Host Name | RockSpirit |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:20:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,27 +122,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400509228304 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | F R 1 S S🐱‍👤🐱‍👤 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:20:03 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28511400509295921 |
-| Players | 1/7 |
-| Host Name | 1634945400 |
-| Region | Unknown |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:20:12 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28511400509300826 |
-| Players | 1/7 |
-| Host Name | Apricot Wick |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:20:12 |
 
 
