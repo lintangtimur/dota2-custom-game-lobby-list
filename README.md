@@ -47,22 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 08:14:09 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177060759090 |
-| Players | 21/24 |
-| Host Name | Eris Boreas Greyrat |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:30:52 |
+| Lobby ID | 28511177061079651 |
+| Players | 1/8 |
+| Host Name | legacy52 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:31:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177060422379 |
-| Players | 14/15 |
-| Host Name | Aarön |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:30:04 |
+| Lobby ID | 28511177059859112 |
+| Players | 6/8 |
+| Host Name | БОРЯ комфортик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:28:44 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,57 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 08:31:13 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177061079651 |
-| Players | 1/8 |
-| Host Name | legacy52 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:31:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177059859112 |
-| Players | 6/8 |
-| Host Name | БОРЯ комфортик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:28:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177061254574 |
-| Players | 1/8 |
-| Host Name | pust' mama uslisit |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:32:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511177061358381 |
-| Players | 6/10 |
-| Host Name | Jorgito_tu_terror|HH| |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:32:18 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511177057144211 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Booberries |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:22:16 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511177061318578 |
-| Players | 1/5 |
-| Host Name | Raizel |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:32:12 |
 
 
