@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400463322542 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | NimEdel |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:43:56 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 10:42:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400462909670 |
-| Players | 14/15 |
-| Host Name | 100% pasivo llamame 960 210 099 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:43:03 |
+| Lobby ID | 28511400464112956 |
+| Players | 2/8 |
+| Host Name | Jivchik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:45:40 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,33 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 10:40:21 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511400462022385 |
-| Players | 7/8 |
-| Host Name | Олег EpicGames |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:41:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511400460189877 |
-| Players | 14/15 |
-| Host Name | hi |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:37:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511400462400843 |
-| Players | 5/8 |
-| Host Name | Diamonds & Dancefloor |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:41:55 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400464069466 |
@@ -92,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 10:45:35 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511400464112956 |
-| Players | 1/8 |
-| Host Name | Jivchik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:45:40 |
-
-
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28511400463408778 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | uDIK 5 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:44:07 |
