@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177065688301 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Castillo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:42:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177066211232 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Bungus |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:43:36 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177066457305 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Darknesmur |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:44:10 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177066733008 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Yukichi暗 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:44:49 |
