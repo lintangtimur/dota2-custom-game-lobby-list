@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400531482085 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Enryu |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:06:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400532836520 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | RockSpirit |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:08:56 |
@@ -50,10 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400532908295 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Rambod D. Luffy |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:09:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400533025464 |
+| Players | 1/8 |
+| Host Name | EL AYUWOKI |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:09:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511400533047295 |
+| Players | 1/24 |
+| Host Name | AmBOT |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:09:24 |
 
 
 |  | epic_boss_fight_nightmare |
