@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177047785649 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | quee?? |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:59:18 |
@@ -83,24 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:56:55 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511177047073533 |
-| Players | 22/24 |
-| Host Name | castillo TERRUCONES |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:57:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511177047523452 |
-| Players | 10/15 |
-| Host Name | Knife Party |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:58:38 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177047631652 |
@@ -112,10 +94,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177047903887 |
-| Players | 1/15 |
-| Host Name | The life |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:59:35 |
+| Lobby ID | 28511177047523452 |
+| Players | 12/15 |
+| Host Name | Knife Party |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:58:38 |
 
 
