@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400501717791 |
-| Players | 2/10 |
-| Host Name | RomanTheFUcKeR |
+| Players | 1/10 |
+| Host Name | Russia |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:05:04 |
 
@@ -58,24 +58,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511400500719612 |
-| Players | 20/24 |
-| Host Name | Theuza |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:03:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511400501490516 |
-| Players | 6/8 |
-| Host Name | -Capisci |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:04:36 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
 | Lobby ID | 28511400502307702 |
 | Players | 14/24 |
 | Host Name | 不和小人一般见识 |
@@ -83,13 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 12:06:14 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400501490516 |
+| Players | 7/8 |
+| Host Name | -Capisci |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:04:36 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511400502871760 |
+| Players | 1/24 |
+| Host Name | tiny |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:07:22 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400502773355 |
+| Lobby ID | 28511400502891314 |
 | Players | 1/15 |
-| Host Name | MickeY |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:07:10 |
+| Host Name | Kez1rE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:07:24 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BolaBola_Debo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:03:06 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511400502659517 |
-| Players | 1/5 |
-| Host Name | Seigneur grand-rust |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:06:56 |
 
 
