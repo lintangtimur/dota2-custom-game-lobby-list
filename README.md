@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400448640122 |
-| Players | 14/15 |
-| Host Name | Mouches Volantes |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:12:46 |
+| Lobby ID | 28511400449941177 |
+| Players | 1/8 |
+| Host Name | jugador de mobile legends |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:15:29 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400446747496 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | 一叶之秋 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:08:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400449358590 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | >KhoRup..-will< |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:14:14 |
@@ -54,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | JIAN :) |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:15:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511400449948415 |
+| Players | 2/10 |
+| Host Name | 神的懲罰 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:15:30 |
 
 
 |  | epic_boss_fight_nightmare |
