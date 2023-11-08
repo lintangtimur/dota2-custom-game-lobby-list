@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400515723309 |
-| Players | 14/15 |
-| Host Name | :scythephόriâ 力 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:33:12 |
+| Lobby ID | 28511400517032722 |
+| Players | 1/8 |
+| Host Name | MODO SEPSO |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:35:55 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400516076144 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | g00ber |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:33:55 |
@@ -58,29 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400516666376 |
-| Players | 12/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:35:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28511400516934199 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Goodbye Bystander |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:35:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511400517032722 |
-| Players | 1/8 |
-| Host Name | MODO SEPSO |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:35:55 |
 
 
 |  | epic_boss_fight_nightmare |
