@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400509679777 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | 9527 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:20:58 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400508235132 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Bonitos y gorditos hijos de puta |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:18:05 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400511001165 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Remington Jones |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:23:37 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | azekial |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:26:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511400512296045 |
+| Players | 1/15 |
+| Host Name | The Magick |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:26:11 |
 
 
 |  | epic_boss_fight_nightmare |
