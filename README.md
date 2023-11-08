@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:15:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511177027560369 |
-| Players | 12/15 |
-| Host Name | ZLM |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:17:25 |
+| Lobby ID | 28511177028423885 |
+| Players | 1/10 |
+| Host Name | Ferdshooky |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:19:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177027462851 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | VOID ESPONJA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:17:14 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177028001852 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | kagura bachi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:18:16 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177028225818 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Witchblade(маленький) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:18:41 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511177025877738 |
-| Players | 23/24 |
-| Host Name | _____________ |
+| Lobby ID | 28511177022363455 |
+| Players | 22/24 |
+| Host Name | Kriptic |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:14:07 |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:05:31 |
 
 
 |  | ot3_jungle_quintet |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177023901733 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | fy.cc ™I |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:09:24 |
