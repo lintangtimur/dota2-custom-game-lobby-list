@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400445225042 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Mee to |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:05:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511400443074105 |
-| Players | 9/10 |
-| Host Name | Ajr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:01:29 |
+| Lobby ID | 28511400446747496 |
+| Players | 2/24 |
+| Host Name | 一叶之秋 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:08:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400442326395 |
-| Players | 5/10 |
-| Host Name | takeshi (武士) |
+| Players | 1/10 |
+| Host Name | Trukos- |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:00:02 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400446190730 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | if you can? |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:07:36 |
@@ -86,28 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400446495417 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | iwantsomepizza |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:08:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400446739398 |
-| Players | 1/15 |
-| Host Name | Atlas Troll |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:08:44 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511400446747496 |
-| Players | 2/24 |
-| Host Name | 一叶之秋 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:08:45 |
+| Lobby ID | 28511400447117162 |
+| Players | 1/8 |
+| Host Name | Galaxy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:09:31 |
 
 
 |  | epic_boss_fight_nightmare |
