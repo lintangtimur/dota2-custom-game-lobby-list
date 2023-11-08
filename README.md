@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400451159639 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | ZZZ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:17:58 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400451177872 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | :3 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:18:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400450450361 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Krueger |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:16:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400450857088 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Tlacua y Cache |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:17:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400450708240 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Олег EpicGames |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:17:03 |
@@ -72,6 +72,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Br0ker |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:18:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400451341083 |
+| Players | 4/8 |
+| Host Name | Murdock |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:18:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400451287532 |
+| Players | 1/8 |
+| Host Name | A tu vieja la vuelvo mi gata |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:18:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511400451320409 |
+| Players | 1/24 |
+| Host Name | T.immy |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:18:18 |
 
 
 |  | epic_boss_fight_nightmare |
