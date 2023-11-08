@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177083739600 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | 大炮 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:24:55 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 09:39:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177090184457 |
-| Players | 21/24 |
-| Host Name | MoonWalker |
+| Lobby ID | 28511177091205481 |
+| Players | 3/8 |
+| Host Name | SHO |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:39:47 |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:42:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 09:41:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511177089914292 |
-| Players | 13/15 |
-| Host Name | Dainyx |
+| Lobby ID | 28511177089557537 |
+| Players | 7/10 |
+| Host Name | Pichuleitor |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:39:09 |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:38:20 |
 
 
 |  | ot3_gardens_duo |
@@ -92,46 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 09:38:35 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177091205481 |
-| Players | 3/8 |
-| Host Name | SHO |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:42:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511177089557537 |
-| Players | 7/10 |
-| Host Name | Pichuleitor |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:38:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177091287862 |
-| Players | 1/8 |
-| Host Name | jugador de mobile legends |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:42:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511177091440316 |
-| Players | 1/15 |
-| Host Name | Webi Wabo |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:42:31 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511177086506509 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ^3leVel_Psi-x |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:31:20 |
