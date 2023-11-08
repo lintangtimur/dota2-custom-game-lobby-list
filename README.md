@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177082880699 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Lenfuris |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:22:54 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177082982722 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Zerabian |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:23:09 |
@@ -50,19 +50,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177083185065 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Reyzor |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:23:37 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511177083496495 |
+| Players | 1/10 |
+| Host Name | Histeria |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:24:21 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511177083532963 |
+| Players | 1/24 |
+| Host Name | Brex |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:24:26 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177083442923 |
-| Players | 4/8 |
-| Host Name | malice |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:24:13 |
+| Lobby ID | 28511177083502186 |
+| Players | 1/8 |
+| Host Name | hidden pool resident |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:24:22 |
 
 
 |  | epic_boss_fight_normal |
@@ -76,19 +94,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28511177083448493 |
+| Lobby ID | 28511177083520876 |
 | Players | 1/5 |
-| Host Name | Aqua_mineralko |
+| Host Name | Çħίℓℓ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:24:14 |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:24:24 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28511177083455977 |
+| Lobby ID | 28511177083525660 |
 | Players | 1/5 |
-| Host Name | SUCK MY DICK |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:24:15 |
+| Host Name | HC5.  Insence™ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:24:25 |
 
 
