@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:23:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511177029191652 |
-| Players | 8/10 |
-| Host Name | BigKing Assault Mode |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:20:30 |
+| Lobby ID | 28511177032126081 |
+| Players | 1/24 |
+| Host Name | D ~ He♥ly |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:25:45 |
 
 
 |  | ot3_desert_octet |
@@ -50,37 +50,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177024566952 |
-| Players | 18/24 |
+| Players | 15/24 |
 | Host Name | Sou |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:11:01 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511177030294622 |
+| Players | 22/24 |
+| Host Name | 9S |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:22:28 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511177032309120 |
+| Players | 2/10 |
+| Host Name | муля |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:26:05 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177031447141 |
-| Players | 14/15 |
-| Host Name | Donut Squirrel |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:24:31 |
+| Lobby ID | 28511177032283592 |
+| Players | 2/15 |
+| Host Name | mode: eblan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:26:02 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177028001852 |
-| Players | 5/8 |
-| Host Name | tveni tveni |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:18:16 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511177032126081 |
-| Players | 2/24 |
-| Host Name | D ~ He♥ly |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:25:45 |
+| Lobby ID | 28511177032358189 |
+| Players | 1/8 |
+| Host Name | Tony |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:26:10 |
 
 
 |  | epic_boss_fight_normal |
