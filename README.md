@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400499639725 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | winning (reps until failure) |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:00:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400497212377 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | NBV |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:56:06 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400499855333 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Drakalian the Dragon King |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:01:20 |
@@ -63,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Wultah Why |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:55:41 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511400500013742 |
+| Players | 1/10 |
+| Host Name | A3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:01:40 |
 
 
