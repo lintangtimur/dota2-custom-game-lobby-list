@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400471602420 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Martin-Luther-King. |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:02:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400467423865 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Handler ☆☆☆ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:53:06 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400472157956 |
-| Players | 3/15 |
+| Players | 13/15 |
 | Host Name | Dainyx |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:03:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511400470275724 |
-| Players | 7/8 |
-| Host Name | YAUJA |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:59:15 |
 
 
 |  | ot3_necropolis_ffa |
