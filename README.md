@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400475421352 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | WilifWilofWilai |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:10:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400476077165 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Twerkules Lord Of Bootyclap |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:12:11 |
