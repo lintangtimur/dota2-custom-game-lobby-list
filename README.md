@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400502421881 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | JrY |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:06:28 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400502307702 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | 不和小人一般见识 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:06:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400501490516 |
-| Players | 7/8 |
-| Host Name | -Capisci |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:04:36 |
+| Lobby ID | 28511400503016404 |
+| Players | 1/15 |
+| Host Name | здарова опёздалы |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:07:39 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BolaBola_Debo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:03:06 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511400503060956 |
+| Players | 1/5 |
+| Host Name | Drink Dota Play Vodka |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:07:44 |
 
 
