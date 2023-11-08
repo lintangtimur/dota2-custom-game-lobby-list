@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400548774469 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Kärss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:43:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400545244787 |
-| Players | 23/24 |
-| Host Name | Percibal |
+| Lobby ID | 28511400549660018 |
+| Players | 1/8 |
+| Host Name | xdxdxd |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:35:36 |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:44:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400549709330 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:45:01 |
@@ -50,28 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400547068938 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Tilapia com Aids |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:39:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511400549660018 |
-| Players | 1/8 |
-| Host Name | xdxdxd |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:44:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511400549978739 |
-| Players | 3/15 |
-| Host Name | Сигма |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:45:36 |
 
 
 |  | epic_boss_fight_nightmare |
