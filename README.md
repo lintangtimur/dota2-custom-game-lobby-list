@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400562187874 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Tilapia com Aids |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:10:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400561360970 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:08:48 |
@@ -38,13 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 14:06:51 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511400562430839 |
+| Players | 1/15 |
+| Host Name | gentleman |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 8, 2023 14:10:58 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400562005152 |
+| Lobby ID | 28511400562451837 |
 | Players | 1/8 |
 | Host Name | Pufgun |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:10:06 |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 8, 2023 14:11:00 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28511400562335626 |
-| Players | 1/7 |
+| Players | 3/7 |
 | Host Name | bLdymsscR 𓅁 |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:10:46 |
