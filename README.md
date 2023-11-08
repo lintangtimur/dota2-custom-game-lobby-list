@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400521994941 |
-| Players | 23/24 |
+| Players | 22/24 |
 | Host Name | TINI ROSADO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:46:09 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400524572818 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | maksem4567 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:51:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400524578168 |
-| Players | 2/24 |
-| Host Name | Pistachio Gelato |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:51:33 |
+| Lobby ID | 28511400524667077 |
+| Players | 1/8 |
+| Host Name | ioshua |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:51:45 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -85,10 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511400524582730 |
+| Lobby ID | 28511400524648899 |
 | Players | 1/10 |
-| Host Name | Minez |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:51:34 |
+| Host Name | Cpt. Douchebag |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:51:42 |
 
 
