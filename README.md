@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400446713264 |
-| Players | 2/15 |
-| Host Name | .!. .!. |
+| Players | 1/15 |
+| Host Name | Ninja Pirate |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:08:41 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400446277068 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | SASUKE UCHIHA DESERTOR |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:07:46 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400446190730 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | if you can? |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:07:36 |
@@ -113,18 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400445037892 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Ryuzaken |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:05:20 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511400446470894 |
-| Players | 2/5 |
-| Host Name | El Fary vive la lucha sigue |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:08:10 |
 
 
