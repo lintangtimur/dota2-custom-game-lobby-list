@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607669615738 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:05:38 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177037765069 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | D ~ He♥ly |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:35:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177037234288 |
-| Players | 7/8 |
-| Host Name | А |
+| Lobby ID | 28511177040288307 |
+| Players | 1/15 |
+| Host Name | sumail |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:34:56 |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:40:55 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177032499861 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | PENE  NEGRO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:26:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177039161420 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | BAN |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:38:29 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177036361045 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | SOS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:33:23 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511177035376065 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | qwertyty |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:31:37 |
