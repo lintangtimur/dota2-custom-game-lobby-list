@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400496845536 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | мамикс |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:55:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400494516135 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | DragonBack |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:50:45 |
@@ -76,28 +76,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511400493767939 |
-| Players | 9/10 |
-| Host Name | These Hands |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:49:14 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511400495500703 |
-| Players | 4/10 |
-| Host Name | D E G A |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:52:44 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28511400496998590 |
 | Players | 2/10 |
 | Host Name | Wultah Why |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:55:41 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511400495500703 |
+| Players | 3/10 |
+| Host Name | D E G A |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:52:44 |
 
 
