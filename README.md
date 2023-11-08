@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400443074105 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Ajr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:01:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400444500737 |
-| Players | 10/15 |
-| Host Name | La RATA.. KE TE COME :) |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:04:15 |
+| Lobby ID | 28511400445348364 |
+| Players | 9/10 |
+| Host Name | oMi |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:05:56 |
 
 
 |  | ot3_desert_octet |
@@ -74,28 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 10:00:02 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511400444698148 |
-| Players | 21/24 |
-| Host Name | ieagtonrns |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:04:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511400445348364 |
-| Players | 9/10 |
-| Host Name | oMi |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:05:56 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400445789094 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | globo terraqueo buscando a maca |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:06:48 |
