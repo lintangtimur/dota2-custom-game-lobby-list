@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177089877085 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | R3sist4nce. |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:39:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177090184457 |
-| Players | 12/24 |
+| Players | 20/24 |
 | Host Name | MoonWalker |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:39:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177090838333 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Abbysal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:41:14 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177089914292 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Dainyx |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:39:09 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177089823224 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Mococo Player |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:38:56 |
@@ -94,17 +94,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177090941992 |
-| Players | 1/8 |
-| Host Name | hidden pool resident |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:41:27 |
+| Lobby ID | 28511177091205481 |
+| Players | 2/8 |
+| Host Name | SHO |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:42:01 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177089557537 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Pichuleitor |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:38:20 |
