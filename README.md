@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400462909670 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | 100% pasivo llamame 960 210 099 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:43:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400461682151 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | Jordy Cage |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:40:21 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400462022385 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Jivchik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:41:05 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400460189877 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | hi |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:37:12 |
