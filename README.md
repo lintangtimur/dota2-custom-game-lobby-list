@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400517434611 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | synthetic fauna |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:36:44 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400516076144 |
-| Players | 18/24 |
-| Host Name | Poseidón Boliviano |
+| Players | 19/24 |
+| Host Name | HeerO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:33:55 |
 
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400517386030 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | drug |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:36:38 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511400517675376 |
-| Players | 1/24 |
-| Host Name | 目标体重上170斤 |
-| Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:37:13 |
 
 
 |  | ot3_gardens_duo |
