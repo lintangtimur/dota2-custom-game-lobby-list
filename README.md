@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400494334173 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Jimo is Back! |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:50:23 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400488623007 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:38:42 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400492810168 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | NAZUN4♥ |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:47:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400494560817 |
-| Players | 1/10 |
-| Host Name | Anata Tsukuyomi |
+| Lobby ID | 28511400494856289 |
+| Players | 3/15 |
+| Host Name | 2023 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:50:50 |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:51:26 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400493225497 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Lyle |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:48:08 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400494103881 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | MataCholas |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:49:55 |
@@ -101,13 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 11:50:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400494779826 |
-| Players | 1/8 |
-| Host Name | ZzZzZzZzZzZ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:51:17 |
+| Lobby ID | 28511400494969777 |
+| Players | 1/10 |
+| Host Name | Anata Tsukuyomi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:51:40 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511400495061607 |
+| Players | 1/24 |
+| Host Name | HashiRama |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:51:51 |
 
 
 |  | epic_boss_fight_challenger |
