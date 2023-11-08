@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177084229510 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | DrDisconnect |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:26:04 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177084855313 |
-| Players | 1/24 |
-| Host Name | Maryori ♥Seria -_-giordota.com |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:27:32 |
+| Lobby ID | 28511177085538853 |
+| Players | 1/8 |
+| Host Name | ppm |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:29:07 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177084074528 |
-| Players | 20/24 |
+| Players | 18/24 |
 | Host Name | hAggU pLaYeR |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:25:42 |
@@ -59,37 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177085211295 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | 14K |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:28:22 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177085488462 |
-| Players | 4/8 |
-| Host Name | CEO ⌐◨-◨ |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:29:00 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177084787003 |
-| Players | 7/24 |
+| Players | 11/24 |
 | Host Name | Yonwalther |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:27:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177085462415 |
-| Players | 1/10 |
-| Host Name | ppm |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:28:56 |
+| Lobby ID | 28511177085593445 |
+| Players | 3/15 |
+| Host Name | KuroiBlazr |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:29:14 |
 
 
 |  | epic_boss_fight_nightmare |
