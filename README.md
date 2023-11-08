@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400539896573 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | KalleNツ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:24:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400539945908 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Glucomethane |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:24:14 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400540332266 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | woowowoo |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:25:03 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400540226844 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | unvalibavol |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:24:50 |
@@ -67,11 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400540280431 |
+| Lobby ID | 28511400540442207 |
 | Players | 1/15 |
-| Host Name | senju- |
+| Host Name | The Queen who fooks her nephew |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:24:56 |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:25:17 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511400540440434 |
+| Players | 1/24 |
+| Host Name | Keith |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:25:17 |
 
 
 |  | epic_boss_fight_nightmare |
