@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400457250428 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 0,1% |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:30:49 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | La caca que mata |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:33:17 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511400458678986 |
-| Players | 1/24 |
-| Host Name | 🐼𝓙𝓊𝓝𝒾𝓞𝓇🐼 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:33:59 |
 
 
 |  | epic_boss_fight_normal |
