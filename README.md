@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400541891634 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Arthas Menethil |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:28:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400541531951 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Waldo |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:27:39 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | heh? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:28:48 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511400542505616 |
+| Players | 1/5 |
+| Host Name | ._. Переулок Между Булок ._. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:29:45 |
 
 
