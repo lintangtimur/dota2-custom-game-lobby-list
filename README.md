@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177060759090 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | Eris Boreas Greyrat |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:30:52 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177060422379 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Aarön |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:30:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177060617852 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Setrox |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:30:32 |
@@ -128,12 +128,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 08:32:03 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511177061358381 |
+| Players | 6/10 |
+| Host Name | Jorgito_tu_terror|HH| |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:32:18 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511177057144211 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Booberries |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:22:16 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511177061318578 |
+| Players | 1/5 |
+| Host Name | Raizel |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:32:12 |
 
 
