@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:33:39 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177044248963 |
-| Players | 23/24 |
-| Host Name | NAYUTA |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:50:31 |
+| Lobby ID | 28511177045462199 |
+| Players | 3/15 |
+| Host Name | Eldarion |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:53:30 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177044480831 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | ⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:51:05 |
@@ -92,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:53:16 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511177045436521 |
-| Players | 1/15 |
-| Host Name | D.NothingToSay萧瑟 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:53:27 |
+| Lobby ID | 28511177045491520 |
+| Players | 1/10 |
+| Host Name | 大大hate myself |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:53:35 |
 
 
