@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 08:25:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177059383489 |
-| Players | 14/15 |
-| Host Name | VampirFeeD |
+| Lobby ID | 28511177059859112 |
+| Players | 2/8 |
+| Host Name | БОРЯ комфортик |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:27:36 |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:28:44 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177056876708 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:21:38 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:28:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177059859112 |
-| Players | 2/8 |
-| Host Name | БОРЯ комфортик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:28:44 |
 
 
 |  | epic_boss_fight_nightmare |
