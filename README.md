@@ -24,7 +24,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28511177077100724 |
 | Players | 12/15 |
-| Host Name | pust' mama uslisit |
+| Host Name | Вахуе допиваю чай |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:09:24 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177076867627 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | ^^!¬¬ (Si cancila) |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:08:51 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177076199861 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | glock in my lap |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:07:16 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511177077405964 |
-| Players | 1/10 |
-| Host Name | ashiro |
+| Lobby ID | 28511177077487427 |
+| Players | 4/10 |
+| Host Name | pust' mama uslisit |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:10:07 |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:10:18 |
 
 
 |  | epic_boss_fight_nightmare |
