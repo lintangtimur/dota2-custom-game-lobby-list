@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400564330111 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ⨗21 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:14:37 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400563875043 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:13:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400563907704 |
-| Players | 7/8 |
-| Host Name | убил насмерть |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:13:48 |
+| Lobby ID | 28511400565284330 |
+| Players | 1/15 |
+| Host Name | Machi |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 8, 2023 14:16:27 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400564236004 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Lightroom Classic |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:14:26 |
