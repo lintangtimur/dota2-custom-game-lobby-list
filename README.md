@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 11:49:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400492444254 |
-| Players | 6/8 |
-| Host Name | DPGaming |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:46:33 |
+| Lobby ID | 28511400495270928 |
+| Players | 2/10 |
+| Host Name | Glump |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:52:16 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400495061607 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | HashiRama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:51:51 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 11:49:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400495270928 |
-| Players | 2/10 |
-| Host Name | Glump |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:52:16 |
+| Lobby ID | 28511400495350716 |
+| Players | 2/8 |
+| Host Name | K4bhal |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:52:25 |
 
 
 |  | epic_boss_fight_nightmare |
