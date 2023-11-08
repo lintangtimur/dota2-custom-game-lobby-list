@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:13:20 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177024566952 |
-| Players | 22/24 |
-| Host Name | freshejka |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:11:01 |
+| Lobby ID | 28511177024991526 |
+| Players | 7/8 |
+| Host Name | Уничтожитель |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:12:04 |
 
 
 |  | ot3_desert_octet |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177025089751 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | IvAN |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:12:19 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177023648944 |
-| Players | 1/24 |
-| Host Name | 不二周助 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:08:45 |
+| Lobby ID | 28511177026227959 |
+| Players | 5/15 |
+| Host Name | 'Charlotte 雨' |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:14:49 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177025761312 |
-| Players | 4/8 |
+| Players | 1/8 |
 | Host Name | KEIITARA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:13:53 |
