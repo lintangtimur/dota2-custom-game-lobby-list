@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400491203551 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Ricefarmer #1 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:44:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400489929430 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | SodaZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:41:24 |
@@ -58,28 +58,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400492156760 |
-| Players | 1/10 |
-| Host Name | Lalabom |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:45:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28511400492215597 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Kimetsu |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:46:06 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511400492325089 |
-| Players | 1/10 |
-| Host Name | Стримерша Карина |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:46:19 |
 
 
