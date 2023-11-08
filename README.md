@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177072796198 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | La Toupe♥ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:59:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177072482844 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | 🥀十億年 💔 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:58:25 |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177072583832 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | IsILdor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:58:39 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511177072840821 |
+| Players | 1/24 |
+| Host Name | SOLO JUEGO TURBO |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:59:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511177072848780 |
+| Players | 1/24 |
+| Host Name | BOMBERMAN |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:59:15 |
 
 
 |  | epic_boss_fight_nightmare |
