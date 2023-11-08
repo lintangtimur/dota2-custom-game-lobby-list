@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 13:53:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400557536199 |
-| Players | 13/15 |
-| Host Name | Morza |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:01:17 |
+| Lobby ID | 28511400558014940 |
+| Players | 1/8 |
+| Host Name | Boogeyman |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 8, 2023 14:02:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dissolve |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:01:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511400558014940 |
-| Players | 1/8 |
-| Host Name | Boogeyman |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:02:15 |
 
 
 |  | epic_boss_fight_nightmare |
