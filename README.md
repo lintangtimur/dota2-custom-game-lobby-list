@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401516759632 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | люблю кузочку |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 06:52:47 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401516634208 |
-| Players | 14/15 |
-| Host Name | lollipop |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 06:52:30 |
+| Lobby ID | 28511401516816355 |
+| Players | 1/15 |
+| Host Name | Leyo |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 06:52:55 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401516664754 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Timber Hearth |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 06:52:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401515777966 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | MONGOL |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 06:50:32 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 06:52:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401516596362 |
-| Players | 7/8 |
-| Host Name | z |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 06:52:24 |
+| Lobby ID | 28511401516868289 |
+| Players | 2/10 |
+| Host Name | Моржогр |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 06:53:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,23 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | あ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 06:52:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401516816355 |
-| Players | 1/15 |
-| Host Name | Leyo |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 06:52:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401516868289 |
-| Players | 2/10 |
-| Host Name | Моржогр |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 06:53:02 |
 
 
