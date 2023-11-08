@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400462734040 |
-| Players | 13/24 |
+| Players | 16/24 |
 | Host Name | 506 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:42:39 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400462820199 |
-| Players | 7/10 |
-| Host Name | AW.Yachiru[卯の花やちる} |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:42:50 |
+| Lobby ID | 28511400463322542 |
+| Players | 1/10 |
+| Host Name | NimEdel |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:43:56 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400462600377 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | FV |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:42:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400462909670 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | 100% pasivo llamame 960 210 099 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:43:03 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400460189877 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | hi |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:37:12 |
@@ -92,12 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 10:43:53 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511400461555936 |
-| Players | 9/10 |
-| Host Name | Strange |
+| Lobby ID | 28511400463333632 |
+| Players | 1/24 |
+| Host Name | Old friend |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:40:04 |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:43:58 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511400463371570 |
+| Players | 1/5 |
+| Host Name | uDIK 5 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:44:03 |
 
 
