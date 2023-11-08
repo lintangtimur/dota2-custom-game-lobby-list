@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400475171124 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Marlito |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:10:12 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400475319511 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ♥Miul♥ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:10:31 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400474549954 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Sheeeeeeeeeeeeeeeez |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:08:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400475148890 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Diamonds & Dancefloor |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:10:09 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Twerkules Lord Of Bootyclap |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:12:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511400477113599 |
+| Players | 1/15 |
+| Host Name | EL QUE ME PONE EN 4!!! |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:14:25 |
 
 
 |  | epic_boss_fight_normal |
