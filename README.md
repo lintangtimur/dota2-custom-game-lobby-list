@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511177052426322 |
-| Players | 12/15 |
-| Host Name | Solid.Uira |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:10:53 |
+| Lobby ID | 28511177053066160 |
+| Players | 2/24 |
+| Host Name | D ~ He♥ly |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:12:26 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177052604126 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Fan de(-Ar1sE^) |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:11:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177050530408 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | DrDisconnect |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:06:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177052774624 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | jhon xina |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:11:44 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | владелец крипов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:10:49 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511177053066160 |
-| Players | 1/24 |
-| Host Name | D ~ He♥ly |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:12:26 |
 
 
 |  | epic_boss_fight_nightmare |
