@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400494334173 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Jimo is Back! |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:50:23 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400488623007 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:38:42 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400493966314 |
-| Players | 14/24 |
+| Players | 10/24 |
 | Host Name | izi pipilin |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:49:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400494856289 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | 2023 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:51:26 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 11:50:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400493416231 |
-| Players | 5/10 |
-| Host Name | 6ix |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:48:31 |
+| Lobby ID | 28511400495439223 |
+| Players | 1/8 |
+| Host Name | Punisher PMA |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:52:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,30 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 11:49:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511400495439957 |
-| Players | 2/8 |
-| Host Name | Cruzado-Style-Papiricas |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:52:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511400495439223 |
-| Players | 1/8 |
-| Host Name | Punisher PMA |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:52:36 |
+| Lobby ID | 28511400493767939 |
+| Players | 5/10 |
+| Host Name | These Hands |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:49:14 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511400493767939 |
-| Players | 4/10 |
-| Host Name | These Hands |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:49:14 |
+| Lobby ID | 28511400495500703 |
+| Players | 1/10 |
+| Host Name | D E G A |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:52:44 |
 
 
