@@ -101,10 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 11:50:23 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511400494434200 |
+| Players | 1/24 |
+| Host Name | ТРАХАТЬ ДЕМЕТРУ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:50:35 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28511400492704044 |
-| Players | 3/7 |
+| Players | 4/7 |
 | Host Name | uDIK 5 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:47:04 |
@@ -113,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400493767939 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | These Hands |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:49:14 |
