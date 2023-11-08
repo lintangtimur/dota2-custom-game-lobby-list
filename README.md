@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400554101911 |
-| Players | 4/8 |
-| Host Name | Фотографую сліма |
+| Players | 5/8 |
+| Host Name | C'est la Vie |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:54:20 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400554440025 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | ларл менталити |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:55:03 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400553991579 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | alangazavr |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:54:06 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400552536475 |
-| Players | 8/10 |
-| Host Name | .... |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:51:05 |
+| Lobby ID | 28511400554638885 |
+| Players | 1/15 |
+| Host Name | Water |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:55:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Alessia Cara |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:51:06 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511400554659037 |
+| Players | 1/10 |
+| Host Name | GS.GeneraLz-♫ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:55:30 |
 
 
