@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400552328854 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Harvester of death |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:50:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400552845953 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Sferov |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:51:45 |
@@ -50,10 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400553991579 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | alangazavr |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:54:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400554101911 |
+| Players | 1/8 |
+| Host Name | 1Г |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:54:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400554110042 |
+| Players | 2/8 |
+| Host Name | Todo anda mal |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:54:21 |
 
 
 |  | epic_boss_fight_nightmare |
