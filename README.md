@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400540090842 |
-| Players | 1/15 |
-| Host Name | Plucky |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:24:32 |
+| Lobby ID | 28511400543209395 |
+| Players | 1/8 |
+| Host Name | Fadmon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:31:16 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400540527181 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | เ น้ น นั ว ร์ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:25:28 |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400542141837 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Ajr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:28:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511400543209395 |
-| Players | 1/8 |
-| Host Name | Fadmon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:31:16 |
 
 
 |  | epic_boss_fight_nightmare |
