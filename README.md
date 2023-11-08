@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400521994941 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | TINI ROSADO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:46:09 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400522103983 |
-| Players | 4/24 |
-| Host Name | 一叶之秋 |
+| Players | 3/24 |
+| Host Name | Montie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:46:23 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400521462158 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Backdoor Enjoyer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:45:03 |
