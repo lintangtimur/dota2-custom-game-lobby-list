@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400477428093 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | USE YOUR BRAIN PLS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:15:07 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400475805774 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | BROOKLYN T GUY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:11:35 |
@@ -41,10 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400477404853 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Arthes_Ð |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:15:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400478272184 |
+| Players | 1/8 |
+| Host Name | 装甲未被击穿 |
+| Region | PWTELECOMZHEJIANG |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:16:52 |
 
 
 |  | epic_boss_fight_nightmare |
