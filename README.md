@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177053947026 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | MataCholas |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:14:32 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177053717484 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Nyaaaaaaaaaaaaaaa |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:13:59 |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177053341689 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | ....,p.,.,giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:13:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511177053309521 |
-| Players | 13/15 |
-| Host Name | FBI te atrapare perra :v |
+| Lobby ID | 28511177053997439 |
+| Players | 5/24 |
+| Host Name | willow |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:13:01 |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:14:40 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177054062251 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Wayne |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:14:49 |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 大大hate myself |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:14:37 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511177053997439 |
-| Players | 3/24 |
-| Host Name | willow |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:14:40 |
 
 
 |  | epic_boss_fight_nightmare |
