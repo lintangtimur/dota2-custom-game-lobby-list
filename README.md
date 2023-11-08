@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400511198564 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Glump |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:23:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400512884445 |
-| Players | 1/8 |
-| Host Name | A Monkey? |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:27:22 |
+| Lobby ID | 28511400513170470 |
+| Players | 1/15 |
+| Host Name | 芒果 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:27:57 |
 
 
 |  | epic_boss_fight_nightmare |
