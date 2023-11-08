@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400449941177 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | jugador de mobile legends |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:15:29 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400451159639 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | ZZZ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:17:58 |
@@ -72,33 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Br0ker |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:18:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511400451341083 |
-| Players | 4/8 |
-| Host Name | Murdock |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:18:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511400451287532 |
-| Players | 1/8 |
-| Host Name | A tu vieja la vuelvo mi gata |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:18:14 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511400451320409 |
-| Players | 1/24 |
-| Host Name | T.immy |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:18:18 |
 
 
 |  | epic_boss_fight_nightmare |
