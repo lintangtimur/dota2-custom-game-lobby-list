@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177024566952 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | freshejka |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:11:01 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177025089751 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | IvAN |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:12:19 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:12:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511177025594819 |
-| Players | 6/8 |
-| Host Name | Legna |
+| Lobby ID | 28511177023561718 |
+| Players | 22/24 |
+| Host Name | -SHAMPAHUMA |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:13:33 |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:08:32 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:13:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511177024991526 |
-| Players | 7/8 |
-| Host Name | ПУПСЕНЬ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:12:04 |
+| Lobby ID | 28511177025944213 |
+| Players | 1/10 |
+| Host Name | MataCholas |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:14:15 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177024036353 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:09:44 |
@@ -101,22 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:14:07 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177023561718 |
-| Players | 22/24 |
-| Host Name | -SHAMPAHUMA |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:08:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511177025944213 |
-| Players | 1/10 |
-| Host Name | MataCholas |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:14:15 |
+| Lobby ID | 28511177025983673 |
+| Players | 3/8 |
+| Host Name | kagura bachi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:14:20 |
 
 
 |  | epic_boss_fight_nightmare |
