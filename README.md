@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400466021112 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Sr Timba |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:49:53 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400465613957 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Aggressive Koala |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:48:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400466700895 |
+| Players | 6/8 |
+| Host Name | Zeze PMA |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:51:26 |
 
 
 |  | epic_boss_fight_nightmare |
