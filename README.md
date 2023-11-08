@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400539896573 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | KalleNツ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:24:07 |
@@ -65,22 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 13:24:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511400540442207 |
-| Players | 1/15 |
-| Host Name | The Queen who fooks her nephew |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:25:17 |
+| Lobby ID | 28511400540493621 |
+| Players | 2/24 |
+| Host Name | poo-zinping |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:25:23 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511400540440434 |
+| Lobby ID | 28511400540527181 |
 | Players | 1/24 |
-| Host Name | Keith |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:25:17 |
+| Host Name | เ น้ น นั ว ร์ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:25:28 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511400540536790 |
+| Players | 1/24 |
+| Host Name | mLaSYa |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:25:29 |
 
 
 |  | epic_boss_fight_nightmare |
