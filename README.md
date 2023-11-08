@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 08:14:37 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177053997439 |
-| Players | 21/24 |
-| Host Name | willow |
+| Lobby ID | 28511177054932919 |
+| Players | 1/15 |
+| Host Name | El PORONGUITOS |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:14:40 |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:16:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177054531774 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Yamil :D |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:15:58 |
@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 08:14:09 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511177053810646 |
-| Players | 13/15 |
-| Host Name | ame |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:14:12 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177054415798 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Bob Ross |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:15:41 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511177054924004 |
+| Players | 1/15 |
+| Host Name | Don't Worry, Bill Murray |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:16:56 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ♚ B A N N E D 雨. 1XBET •◦♥ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:15:48 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511177054901256 |
+| Players | 2/5 |
+| Host Name | Hola??? |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:16:53 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511177054928704 |
+| Players | 1/5 |
+| Host Name | Çħίℓℓ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:16:57 |
 
 
