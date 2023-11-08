@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 10:19:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400457211816 |
-| Players | 3/15 |
-| Host Name | Llamaloco |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:30:44 |
+| Lobby ID | 28511400457250428 |
+| Players | 1/10 |
+| Host Name | 0,1% |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:30:49 |
 
 
 |  | ot3_desert_octet |
@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400455665882 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | nacko LoaL |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:27:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400456521871 |
-| Players | 14/15 |
-| Host Name | Sapa Inca |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:29:11 |
+| Lobby ID | 28511400456174150 |
+| Players | 6/8 |
+| Host Name | Tu bizcochito |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:28:26 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400455777369 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Alirezaleon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:27:35 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 初音真爱粉 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:28:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511400456174150 |
-| Players | 6/8 |
-| Host Name | Tu bizcochito |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:28:26 |
 
 
 |  | epic_boss_fight_nightmare |
