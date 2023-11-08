@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177046375557 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | REON |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:55:48 |
@@ -76,24 +76,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177046721293 |
-| Players | 6/8 |
-| Host Name | DOPPELGANGER 2576 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:56:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511177046378299 |
-| Players | 14/15 |
-| Host Name | TEEHEE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:55:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28511177046827029 |
 | Players | 3/8 |
 | Host Name | Твои зелёные глаза |
@@ -101,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:56:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28511177046854839 |
-| Players | 3/8 |
-| Host Name | B I G MAC |
+| Lobby ID | 28511177046943008 |
+| Players | 1/5 |
+| Host Name | 𝖒𝖊𝕽 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:56:59 |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:57:12 |
 
 
