@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511400449358590 |
-| Players | 22/24 |
-| Host Name | >KhoRup..-will< |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:14:14 |
+| Lobby ID | 28511400451060755 |
+| Players | 1/24 |
+| Host Name | ASPEERAN |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:17:46 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400450857088 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Tlacua y Cache |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:17:21 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 10:17:03 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400451060755 |
-| Players | 1/24 |
-| Host Name | ASPEERAN |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:17:46 |
+| Lobby ID | 28511400451159639 |
+| Players | 1/15 |
+| Host Name | ZZZ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:17:58 |
 
 
 |  | epic_boss_fight_nightmare |
