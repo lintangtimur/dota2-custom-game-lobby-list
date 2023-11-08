@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511400529528571 |
-| Players | 2/24 |
-| Host Name | Ebrio de tus lagrimas |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:01:52 |
+| Lobby ID | 28511400524906346 |
+| Players | 21/24 |
+| Host Name | Pistachio Gelato |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:52:14 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400529228567 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | .epic. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:01:12 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400527258868 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Willy |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:57:03 |
@@ -59,25 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400529814171 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | CORRALITO |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:02:29 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511400524906346 |
-| Players | 23/24 |
-| Host Name | Pistachio Gelato |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:52:14 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400524267890 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | OUUUUUUUUUUUUUUU |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:50:54 |
