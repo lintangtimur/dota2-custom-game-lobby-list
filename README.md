@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400486376083 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 【﻿DESpAIR】 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:34:03 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400488050861 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Steven - #Dota |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:37:32 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 11:37:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400489879118 |
-| Players | 4/8 |
-| Host Name | •ᴇʙssɪʟᴏɴ• |
+| Lobby ID | 28511400489254185 |
+| Players | 9/10 |
+| Host Name | Misho |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:41:18 |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:40:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,23 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | єℓ ρα∂яιησ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:41:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511400489254185 |
-| Players | 8/10 |
-| Host Name | Misho |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:40:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511400490360423 |
-| Players | 2/10 |
-| Host Name | Rick |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:42:18 |
 
 
