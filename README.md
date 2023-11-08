@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400559812768 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Cptn.Canuck |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:05:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400561417186 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | I only think about sex |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:08:55 |
@@ -50,28 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400561360970 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:08:48 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400560020281 |
-| Players | 9/10 |
-| Host Name | antuar |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:06:10 |
+| Lobby ID | 28511400561998872 |
+| Players | 3/8 |
+| Host Name | U&me_godota2.com |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 14:10:05 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400560707803 |
-| Players | 4/7 |
-| Host Name | Çħίℓℓ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:07:29 |
+| Lobby ID | 28511400561986343 |
+| Players | 1/8 |
+| Host Name | Ем фармацевтику схожу с ума |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 8, 2023 14:10:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Белый |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:09:34 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28511400560707803 |
+| Players | 4/7 |
+| Host Name | Çħίℓℓ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 14:07:29 |
 
 
