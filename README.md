@@ -38,12 +38,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 14:05:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400559859879 |
-| Players | 3/8 |
-| Host Name | ... |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:05:51 |
+| Lobby ID | 28511400557632635 |
+| Players | 14/15 |
+| Host Name | Gaius Mors |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 14:01:29 |
 
 
