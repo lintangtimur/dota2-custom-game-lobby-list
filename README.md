@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28511400477010800 |
 | Players | 2/10 |
-| Host Name | ShaV |
+| Host Name | uN |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:14:12 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400476737937 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 【﻿DESpAIR】 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:13:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400474549954 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Sheeeeeeeeeeeeeeeez |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:08:51 |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 11:15:07 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511400477460147 |
-| Players | 5/8 |
-| Host Name | TOMA CHUPETE |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:15:11 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400474184583 |
@@ -72,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Bad Bunny |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:08:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511400477897713 |
-| Players | 2/15 |
-| Host Name | YKYKKYKYK |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:16:07 |
 
 
 |  | epic_boss_fight_nightmare |
