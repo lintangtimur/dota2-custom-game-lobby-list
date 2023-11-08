@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400553555113 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | MODO MIRACLE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:53:14 |
@@ -49,20 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400553929303 |
-| Players | 1/15 |
+| Lobby ID | 28511400553991579 |
+| Players | 2/15 |
 | Host Name | alangazavr |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:53:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511400553934139 |
-| Players | 1/15 |
-| Host Name | ну пиздец блять) |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:53:59 |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:54:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400552541993 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Alessia Cara |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:51:06 |
