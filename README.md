@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400542432667 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Stronger |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:29:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400545244787 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:35:36 |
@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28511400545334644 |
 | Players | 1/24 |
-| Host Name | HashiRama |
+| Host Name | toidi |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:35:47 |
 
@@ -74,12 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 13:35:50 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511400545408336 |
+| Players | 2/24 |
+| Host Name | takodachi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:35:56 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400545269841 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Backdoor Enjoyer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:35:39 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511400545361307 |
+| Players | 1/10 |
+| Host Name | Yusei |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:35:51 |
 
 
