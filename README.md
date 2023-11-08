@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400537867215 |
-| Players | 5/8 |
-| Host Name | Guadianeitor.giordota.com |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:19:46 |
+| Lobby ID | 28511400539002455 |
+| Players | 1/8 |
+| Host Name | xdxdxd |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:22:14 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400536157299 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | BABY-ROSH (AL) |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:16:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400538259495 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | _(:з」∠)_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:20:38 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | F R 1 S S🐱‍👤🐱‍👤 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:13:52 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28511400538911166 |
-| Players | 1/7 |
-| Host Name | King Crimson |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:22:02 |
 
 
