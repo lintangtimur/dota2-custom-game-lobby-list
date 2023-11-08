@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400534595562 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:12:44 |
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28511400534359772 |
 | Players | 2/8 |
-| Host Name | Aimi |
+| Host Name | Psyduck |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:12:14 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400535144238 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Foxy |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:13:54 |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400535098847 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Неуязвимый |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:13:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511400535303616 |
+| Players | 1/15 |
+| Host Name | el rey del bailoteo |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:14:15 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511400535297044 |
+| Players | 1/15 |
+| Host Name | Le Famme |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:14:14 |
 
 
 |  | epic_boss_fight_nightmare |
