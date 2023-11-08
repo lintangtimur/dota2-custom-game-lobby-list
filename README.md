@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400451647890 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Br0ker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:19:00 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400463333632 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Old friend |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:43:58 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400463322542 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | NimEdel |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:43:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400464112956 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Jivchik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:45:40 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400464069466 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Juuzou |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:45:35 |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400464312154 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | Karl-Cox |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:46:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400464344823 |
+| Players | 3/8 |
+| Host Name | animepic |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:46:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511400464388061 |
+| Players | 2/10 |
+| Host Name | geraldT dE RIvia |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:46:16 |
 
 
 |  | epic_boss_fight_hard |
