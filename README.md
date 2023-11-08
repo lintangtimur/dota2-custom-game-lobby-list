@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400513655401 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | EL DIAVLO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:28:56 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 12:29:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511400514636311 |
-| Players | 1/8 |
-| Host Name | Dejame mid Soy Sideral |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:30:58 |
+| Lobby ID | 28511400515316494 |
+| Players | 1/24 |
+| Host Name | Genie |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:32:21 |
 
 
 |  | ot3_desert_octet |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400515071064 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 123 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:31:51 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511400515252015 |
-| Players | 1/24 |
-| Host Name | Genie |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:32:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | dancing with death |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:31:00 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511400515254166 |
-| Players | 1/5 |
-| Host Name | punisher |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:32:14 |
 
 
