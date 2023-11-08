@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400459791621 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | Sofuer |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:36:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400460021552 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | Perú campeón |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:36:52 |
