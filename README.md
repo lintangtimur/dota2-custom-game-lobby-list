@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400507517257 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ☠丂HۣۜะĨ尺Oۣۜ≈☣ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:16:40 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400508095863 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Kira- |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:17:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400509565000 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Fanya |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:20:44 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400509679777 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | 9527 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:20:58 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400509608025 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | HashiRama |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:20:49 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400510047354 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | gato con tabas |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:21:43 |
@@ -122,18 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400509228304 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | F R 1 S S🐱‍👤🐱‍👤 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:20:03 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511400510112071 |
-| Players | 1/7 |
-| Host Name | Minez |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:21:51 |
+| Lobby ID | 28511400510156905 |
+| Players | 3/10 |
+| Host Name | SnowFire |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:21:57 |
 
 
