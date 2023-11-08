@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400477428093 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | USE YOUR BRAIN PLS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:15:07 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400478419413 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Sapa Inca |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:17:10 |
@@ -74,6 +74,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 11:17:27 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400478731423 |
+| Players | 1/8 |
+| Host Name | 123 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:17:49 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400477146770 |
@@ -81,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Vivi |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:14:30 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511400478733751 |
+| Players | 1/10 |
+| Host Name | 起个名真纠结 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:17:49 |
 
 
