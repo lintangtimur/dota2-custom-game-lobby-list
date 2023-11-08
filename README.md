@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400456134001 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | 初音真爱粉 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:28:21 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400457805431 |
-| Players | 3/10 |
-| Host Name | ☻ |
+| Players | 2/10 |
+| Host Name | myclauss! |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:32:03 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400459122012 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | :( M O T A :( |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:34:57 |
@@ -56,22 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 10:36:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511400459623786 |
-| Players | 3/8 |
-| Host Name | МишкаПокРыЖка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:36:03 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511400459644661 |
-| Players | 5/8 |
-| Host Name | La caca que mata |
+| Lobby ID | 28511400460021552 |
+| Players | 1/24 |
+| Host Name | Perú campeón |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:36:06 |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:36:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Minez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:35:06 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511400460032569 |
+| Players | 1/5 |
+| Host Name | uDIK 5 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:36:53 |
 
 
