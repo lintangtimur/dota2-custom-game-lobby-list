@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177046385398 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Yamil :D |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:55:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177045491520 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | 大大hate myself |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:53:35 |
@@ -74,19 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:55:30 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511177045362329 |
-| Players | 7/10 |
-| Host Name | @prolux |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:53:16 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177046378299 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | TEEHEE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:55:48 |
