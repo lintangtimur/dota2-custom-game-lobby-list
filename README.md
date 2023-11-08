@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177050489685 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Wonk |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:06:05 |
@@ -50,9 +50,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177051859380 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | El Diferente |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:09:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511177051910851 |
+| Players | 1/15 |
+| Host Name | Connor McGee Thor |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:09:38 |
 
 
