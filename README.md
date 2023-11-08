@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400562187874 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Tilapia com Aids |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:10:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400561360970 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:08:48 |
@@ -56,22 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 14:11:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511400562545233 |
-| Players | 1/15 |
-| Host Name | brukenso |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:11:11 |
+| Lobby ID | 28511400562587575 |
+| Players | 4/24 |
+| Host Name | ⌡™ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 14:11:17 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400562547212 |
+| Lobby ID | 28511400562634872 |
 | Players | 1/15 |
 | Host Name | double<3A |
 | Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:11:12 |
+| Lobby Creation Time | Wednesday, November 8, 2023 14:11:22 |
 
 
 |  | epic_boss_fight_challenger |
@@ -92,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 14:07:29 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511400562313410 |
-| Players | 1/5 |
+| Lobby ID | 28511400562618225 |
+| Players | 1/10 |
 | Host Name | Белый |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:10:44 |
+| Lobby Creation Time | Wednesday, November 8, 2023 14:11:20 |
 
 
