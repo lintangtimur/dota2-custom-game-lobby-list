@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400508095863 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Kira- |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:17:48 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400504539719 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Madafacar |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:10:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400505405661 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | ZeЯN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:12:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400507203796 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Пила Струна |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:16:02 |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Inku |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:17:19 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511400508252951 |
-| Players | 1/5 |
-| Host Name | peach time |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:18:07 |
 
 
