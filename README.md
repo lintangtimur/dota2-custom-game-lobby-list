@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177058674302 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Mike Oxlong |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:25:55 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177059383489 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | VampirFeeD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:27:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607669615738 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:05:38 |
@@ -49,11 +49,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177059569324 |
-| Players | 4/8 |
-| Host Name | psycho |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:28:02 |
+| Lobby ID | 28511177059602880 |
+| Players | 2/8 |
+| Host Name | < blank > |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:28:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511177059601759 |
+| Players | 1/8 |
+| Host Name | ... |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:28:07 |
 
 
 |  | epic_boss_fight_nightmare |
