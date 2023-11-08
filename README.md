@@ -65,31 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 13:56:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400555227140 |
-| Players | 7/8 |
-| Host Name | [♂+♂=♥]6LyaDuKtoR |
+| Lobby ID | 28511400556336163 |
+| Players | 2/10 |
+| Host Name | Ajr |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:56:38 |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:58:52 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400555088030 |
-| Players | 9/10 |
-| Host Name | JMC |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:56:21 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511400555095290 |
-| Players | 4/10 |
-| Host Name | Çħίℓℓ |
+| Lobby ID | 28511400556400158 |
+| Players | 1/15 |
+| Host Name | Vuvuzela Virtuoso Hans Rudolph |
 | Region | CHILE |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:56:22 |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:58:59 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | heh? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:56:23 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511400555095290 |
+| Players | 4/10 |
+| Host Name | Çħίℓℓ |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:56:22 |
 
 
