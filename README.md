@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511177082079619 |
-| Players | 23/24 |
-| Host Name | DarkFlameMaster |
+| Lobby ID | 28511177083185065 |
+| Players | 17/24 |
+| Host Name | Reyzor |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:21:03 |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:23:37 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177082880699 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Lenfuris |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:22:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177083316228 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | IN DA CLUB |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:23:55 |
@@ -49,35 +49,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511177083185065 |
-| Players | 15/24 |
-| Host Name | Reyzor |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:23:37 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511177083573444 |
+| Lobby ID | 28511177083739600 |
 | Players | 1/24 |
 | Host Name | 大炮 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:24:32 |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:24:55 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511177082831112 |
-| Players | 3/5 |
-| Host Name | zPanky |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:22:47 |
+| Lobby ID | 28511177083619219 |
+| Players | 1/10 |
+| Host Name | What the help ? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:24:38 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511177083541591 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | СтонСоседки |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:24:27 |
