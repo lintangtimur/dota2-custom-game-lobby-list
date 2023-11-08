@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400494334173 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Jimo is Back! |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:50:23 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400492444254 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | DPGaming |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:46:33 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | DragonBack |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:50:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400494779826 |
+| Players | 1/8 |
+| Host Name | ZzZzZzZzZzZ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:51:17 |
 
 
 |  | epic_boss_fight_challenger |
