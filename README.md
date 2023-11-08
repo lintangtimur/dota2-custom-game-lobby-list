@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400442326395 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Jordy Cage |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:00:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400439059815 |
-| Players | 14/15 |
-| Host Name | Salmon |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:55:00 |
+| Lobby ID | 28511400443365453 |
+| Players | 2/10 |
+| Host Name | Sr-BecKMaN Godota2.com |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:02:04 |
 
 
 |  | epic_boss_fight_challenger |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400442644802 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:00:38 |
