@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177072227140 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Blue Haze |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:57:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177080814440 |
-| Players | 6/8 |
-| Host Name | Ｓｏｈｅｅ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:18:04 |
+| Lobby ID | 28511177081159824 |
+| Players | 1/15 |
+| Host Name | Ninja Pirate |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:18:53 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177080264189 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | :p |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:16:47 |
@@ -86,27 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177080754192 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | EmeZeta |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:17:56 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511177077999088 |
-| Players | 20/24 |
-| Host Name | q rico aprieta tu germa mano |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:11:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511177081159824 |
-| Players | 1/15 |
-| Host Name | Ninja Pirate |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:18:53 |
 
 
