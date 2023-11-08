@@ -4,35 +4,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511400477404853 |
-| Players | 22/24 |
-| Host Name | Arthes_Ð |
+| Lobby ID | 28511400480144798 |
+| Players | 5/24 |
+| Host Name | Wynd |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:15:04 |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:20:47 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400479636560 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | < blank > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:19:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400478556180 |
-| Players | 14/15 |
-| Host Name | Connor McGee Thor |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:17:27 |
+| Lobby ID | 28511400479802978 |
+| Players | 3/8 |
+| Host Name | benitocamitroncote |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:20:03 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400475805774 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | BROOKLYN T GUY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:11:35 |
@@ -90,24 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sheduconda |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:20:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511400479802978 |
-| Players | 2/8 |
-| Host Name | benitocamitroncote |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:20:03 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511400480144798 |
-| Players | 2/24 |
-| Host Name | Wynd |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:20:47 |
 
 
 |  | epic_boss_fight_nightmare |
