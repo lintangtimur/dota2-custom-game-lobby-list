@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177027256325 |
-| Players | 8/24 |
+| Players | 6/24 |
 | Host Name | MaNcHas |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:16:50 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511177025877738 |
-| Players | 23/24 |
-| Host Name | KHAEИ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:14:07 |
+| Lobby ID | 28511177024566952 |
+| Players | 22/24 |
+| Host Name | unomvae |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:11:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:30:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177032283592 |
-| Players | 14/15 |
-| Host Name | daertc. |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:26:02 |
+| Lobby ID | 28511177033496429 |
+| Players | 6/8 |
+| Host Name | [[Martha Hitlerman]] |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:28:12 |
 
 
 |  | ot3_desert_octet |
@@ -128,12 +128,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:30:56 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177035021483 |
-| Players | 3/24 |
-| Host Name | thabit |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:31:00 |
+| Lobby ID | 28511177035049331 |
+| Players | 1/8 |
+| Host Name | 葉王・朝倉 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:31:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511177032471648 |
+| Players | 9/10 |
+| Host Name | Habitante del perú profundo |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:26:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511177033429051 |
+| Players | 14/15 |
+| Host Name | Amira |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:28:05 |
 
 
