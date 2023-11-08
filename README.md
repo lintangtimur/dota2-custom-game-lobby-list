@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400523009626 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | el rey del bailoteo |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:48:15 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | OUUUUUUUUUUUUUUU |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:47:04 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511400523059382 |
-| Players | 1/5 |
-| Host Name | Mazamorrita timida  :3 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:48:22 |
 
 
