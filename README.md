@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400446178872 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | [R][O][A][M] |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:07:35 |
@@ -54,5 +54,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mouches Volantes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:12:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400448708541 |
+| Players | 1/8 |
+| Host Name | Lemonchill |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:12:55 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511400448740723 |
+| Players | 1/24 |
+| Host Name | ИЛЮХА ТЕЛЕВИЗОРР. LG |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:12:59 |
 
 
