@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400503130152 |
-| Players | 13/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:07:52 |
+| Lobby ID | 28511400505256651 |
+| Players | 1/15 |
+| Host Name | Castillo |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:12:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400505002544 |
-| Players | 4/24 |
-| Host Name | 一叶之秋 |
+| Players | 2/24 |
+| Host Name | ZeЯN |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:11:38 |
 
@@ -63,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lalabom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:11:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511400505257851 |
+| Players | 1/15 |
+| Host Name | DOS PUÑOS CABEZA LIBRE |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:12:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511400505280537 |
+| Players | 1/15 |
+| Host Name | ***** |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:12:11 |
 
 
 |  | epic_boss_fight_normal |
