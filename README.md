@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177027256325 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | MaNcHas |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:16:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177032483932 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | zum |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:26:24 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177034830180 |
-| Players | 2/15 |
-| Host Name | GodiAm |
+| Players | 3/15 |
+| Host Name | MuHaHa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:30:39 |
 
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:30:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177033496429 |
-| Players | 6/8 |
-| Host Name | [[Martha Hitlerman]] |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:28:12 |
+| Lobby ID | 28511177035175806 |
+| Players | 1/15 |
+| Host Name | Solo Leveling |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:31:16 |
 
 
 |  | ot3_desert_octet |
@@ -153,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Amira |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:28:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511177031447141 |
+| Players | 13/15 |
+| Host Name | vanilacry~ |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:24:31 |
 
 
