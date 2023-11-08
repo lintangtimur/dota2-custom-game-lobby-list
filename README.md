@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400469042145 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | Glinomes2000 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:56:37 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400471206570 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Mark Wolf(jabroni here) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:01:23 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400468555448 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | MASHA Y EL URSA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:55:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511400468281037 |
-| Players | 9/10 |
-| Host Name | Mococo Player |
+| Lobby ID | 28511400471602420 |
+| Players | 1/24 |
+| Host Name | Martin-Luther-King. |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:54:58 |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:02:18 |
 
 
 |  | ot3_desert_octet |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400470275724 |
-| Players | 6/8 |
-| Host Name | YAUJA |
+| Lobby ID | 28511400471569357 |
+| Players | 3/8 |
+| Host Name | SASUKE UCHIHA DESERTOR |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:59:15 |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:02:13 |
 
 
 |  | ot3_necropolis_ffa |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | != |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:55:32 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511400471554972 |
-| Players | 1/8 |
-| Host Name | 陈白露 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:02:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511400471569357 |
-| Players | 3/8 |
-| Host Name | SASUKE UCHIHA DESERTOR |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:02:13 |
 
 
 |  | epic_boss_fight_nightmare |
