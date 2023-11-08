@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400473173652 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Muchtolearn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:05:52 |
@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 11:05:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400473341021 |
-| Players | 9/15 |
-| Host Name | AMOK ¯\_(ツ)_/¯ |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:06:14 |
+| Lobby ID | 28511400474150163 |
+| Players | 1/10 |
+| Host Name | Ryuto |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:07:58 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400474018110 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | CURSE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:07:41 |
