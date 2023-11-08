@@ -32,35 +32,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400563162891 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:12:24 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511400562430839 |
-| Players | 1/15 |
-| Host Name | matinebm |
-| Region | DUBAI |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:10:58 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400563036391 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | BRAMBRAGE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:12:09 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511400563545673 |
+| Players | 2/15 |
+| Host Name | Justin Weaver |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 14:13:09 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28511400562335626 |
-| Players | 4/7 |
-| Host Name | Gel |
+| Players | 1/7 |
+| Host Name | Hndrsn |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:10:46 |
 
@@ -85,19 +85,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511400563326811 |
-| Players | 1/10 |
-| Host Name | Zucker |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:12:43 |
+| Lobby ID | 28511400563334344 |
+| Players | 2/10 |
+| Host Name | Yusei |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 14:12:44 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511400563334344 |
+| Lobby ID | 28511400563578761 |
 | Players | 1/10 |
-| Host Name | Yusei |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:12:44 |
+| Host Name | bLdymsscR 𓅁 |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 8, 2023 14:13:12 |
 
 
