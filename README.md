@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400494516135 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | DragonBack |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:50:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400493542641 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | vanitas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:48:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400495061607 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | HashiRama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:51:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400497208627 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Chandler^^ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:56:05 |
