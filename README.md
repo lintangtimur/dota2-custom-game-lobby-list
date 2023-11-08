@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177024566952 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Inenza |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:11:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177037765069 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | D ~ He♥ly |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:35:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177035633896 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | 40 days |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:32:05 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177027256325 |
-| Players | 22/24 |
-| Host Name | A Pagpag Tale: Insomnia |
+| Players | 20/24 |
+| Host Name | BRN| |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:16:50 |
 
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177036661230 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Хикки |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:33:55 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177032471648 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Atomic |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:26:22 |
@@ -140,19 +140,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177038939055 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | ♥РеквиемПоЧечне |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:38:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177039057110 |
-| Players | 3/8 |
-| Host Name | Альфонс |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:38:16 |
 
 
 |  | epic_boss_fight_nightmare |
