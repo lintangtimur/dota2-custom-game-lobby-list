@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177034775426 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | CaeluMidnight |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:30:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607669615738 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:05:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177033389588 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | БОРЯ комфортик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:28:00 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177034899810 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | perro pastor aleman |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:30:46 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177034991164 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Black Raven |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:30:56 |
@@ -146,13 +146,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:31:34 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511177035527574 |
+| Players | 2/10 |
+| Host Name | Mococo Player |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:31:54 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177032499861 |
-| Players | 7/8 |
-| Host Name | Z Locoxd Z |
+| Lobby ID | 28511177028001852 |
+| Players | 5/8 |
+| Host Name | Златояр Фугасов |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:18:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511177025877738 |
+| Players | 22/24 |
+| Host Name | chavo |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:26:25 |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:14:07 |
 
 
 |  | epic_boss_fight_nightmare |
