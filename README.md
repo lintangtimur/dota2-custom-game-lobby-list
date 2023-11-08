@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177058674302 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Mike Oxlong |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:25:55 |
@@ -92,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 08:25:41 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177058873351 |
-| Players | 1/24 |
-| Host Name | MODO ELDEN LORD |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:26:24 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511177058958075 |
-| Players | 4/10 |
-| Host Name | Abilhasanov |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:26:36 |
+| Lobby ID | 28511177059016284 |
+| Players | 1/15 |
+| Host Name | kielbasa |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:26:44 |
 
 
 |  | ot3_necropolis_ffa |
