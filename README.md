@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177021141652 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | BELUGA |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:02:23 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177021772643 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | NutInMyMouthForBusMoney, ty |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:04:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177021625770 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | КОНТЕНТ ПОДЪЕХАЛ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:03:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177021003398 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Jmaster210 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:02:02 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177021757884 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Invert |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:03:57 |
@@ -86,10 +86,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177021745576 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Hope |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:03:55 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511177022271623 |
+| Players | 1/24 |
+| Host Name | c-tthlya |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:05:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511177022298929 |
+| Players | 1/15 |
+| Host Name | .iso |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:05:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511177022300291 |
+| Players | 1/15 |
+| Host Name | Born of a Star |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:05:21 |
 
 
 |  | epic_boss_fight_nightmare |
