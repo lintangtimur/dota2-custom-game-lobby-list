@@ -38,46 +38,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 08:31:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177070494130 |
-| Players | 9/10 |
-| Host Name | Rupicola |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:53:43 |
+| Lobby ID | 28511177071608726 |
+| Players | 1/8 |
+| Host Name | NoAgasIgado |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:56:22 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177071475352 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Connor McGee Thor |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:56:03 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177070401307 |
-| Players | 4/8 |
-| Host Name | Abilhasanov |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:53:29 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177071462713 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | CHECHITOO <3 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:56:01 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511177071573896 |
+| Players | 4/8 |
+| Host Name | Abilhasanov |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:56:17 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511177071620474 |
+| Players | 1/24 |
+| Host Name | Pyramidsong |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:56:24 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511177070984156 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | sleep |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:54:53 |
