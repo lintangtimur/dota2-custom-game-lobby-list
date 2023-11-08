@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177025499481 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Батюшка Михуил |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:13:20 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177024566952 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | freshejka |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:11:01 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511177023561718 |
-| Players | 22/24 |
-| Host Name | -SHAMPAHUMA |
+| Lobby ID | 28511177025877738 |
+| Players | 2/24 |
+| Host Name | _____________ |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:08:32 |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:14:07 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,33 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:14:15 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511177024036353 |
-| Players | 12/15 |
-| Host Name | . |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:09:44 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511177025877738 |
-| Players | 2/24 |
-| Host Name | _____________ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:14:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177025983673 |
-| Players | 3/8 |
-| Host Name | kagura bachi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:14:20 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511177023617699 |
@@ -122,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511177023194477 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Shinzou wo Sasageyo! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:07:37 |
