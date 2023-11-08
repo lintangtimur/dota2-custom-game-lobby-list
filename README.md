@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177077999088 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | juego solo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:11:29 |
@@ -13,20 +13,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177076348971 |
-| Players | 6/8 |
-| Host Name | SUPER_Krut228_1337 |
+| Lobby ID | 28511177078243579 |
+| Players | 5/8 |
+| Host Name | Lork |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:07:37 |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:12:04 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511177078409235 |
+| Lobby ID | 28511177078864509 |
 | Players | 8/10 |
-| Host Name | tilin insano |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:12:27 |
+| Host Name | oMi |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:13:32 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177076199861 |
-| Players | 10/24 |
+| Players | 8/24 |
 | Host Name | glock in my lap |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:07:16 |
@@ -68,43 +68,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177077878004 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | NeedToCares |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:11:13 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177078243579 |
-| Players | 3/8 |
-| Host Name | Lork |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:12:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511177078622335 |
-| Players | 1/10 |
-| Host Name | ЛАРЛ - The International ЧЕМПИОН |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:12:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511177078864509 |
-| Players | 8/10 |
-| Host Name | oMi |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:13:32 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511177077306347 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Ryuzaken |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:09:53 |
