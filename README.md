@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177027707413 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | pikea rata ctm |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:17:42 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177027560369 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | ZLM |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:17:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177025209979 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Requiem Aranea |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:12:37 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:17:14 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177024566952 |
-| Players | 22/24 |
-| Host Name | Sou |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:11:01 |
+| Lobby ID | 28511177028001852 |
+| Players | 3/8 |
+| Host Name | kagura bachi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:18:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,28 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:15:25 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177022363455 |
-| Players | 22/24 |
-| Host Name | Kriptic |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:05:31 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177028001852 |
-| Players | 3/8 |
-| Host Name | kagura bachi |
+| Lobby ID | 28511177028140451 |
+| Players | 1/15 |
+| Host Name | Gabella |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:18:16 |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:18:32 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511177023617699 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Akisha |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:08:40 |
