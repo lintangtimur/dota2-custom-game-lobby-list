@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 08:32:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511177060617852 |
-| Players | 12/15 |
-| Host Name | Setrox |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:30:32 |
+| Lobby ID | 28511177060907409 |
+| Players | 1/24 |
+| Host Name | freshejka |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:31:13 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177061513849 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | giordota.com.Christian |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:32:40 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sirius/Void |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:31:12 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511177060907409 |
-| Players | 1/24 |
-| Host Name | freshejka |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:31:13 |
 
 
 |  | epic_boss_fight_nightmare |
