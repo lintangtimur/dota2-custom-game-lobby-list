@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400535297044 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Le Famme |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:14:14 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 13:16:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400534896244 |
-| Players | 13/15 |
-| Host Name | winning (reps until failure) |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:13:24 |
+| Lobby ID | 28511400537095819 |
+| Players | 1/10 |
+| Host Name | funnymine |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:18:06 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400535024981 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Stayler |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:13:39 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400535128693 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | F R 1 S S🐱‍👤🐱‍👤 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:13:52 |
