@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400482667680 |
-| Players | 11/15 |
-| Host Name | Kure Raian//我回来了 |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:26:05 |
+| Lobby ID | 28511400482814606 |
+| Players | 2/10 |
+| Host Name | . |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:26:24 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400482998885 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | zxczxc |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:26:47 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400482871658 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Glump |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:26:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400483061061 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | AMOK ¯\_(ツ)_/¯ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:26:55 |
@@ -56,31 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 11:27:52 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511400482814606 |
-| Players | 2/10 |
-| Host Name | ⠊⠝⠙⠑⠎⠎⠽ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:26:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511400483709629 |
-| Players | 1/15 |
-| Host Name | 马家堡子第二生产队Tony老师 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:28:17 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511400483729023 |
+| Lobby ID | 28511400483817856 |
 | Players | 1/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:28:19 |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:28:30 |
 
 
 |  | epic_boss_fight_nightmare |
