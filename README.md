@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400519040872 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ЯБИК АНУБОВ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:40:01 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400517386030 |
-| Players | 14/24 |
-| Host Name | WEED |
+| Players | 13/24 |
+| Host Name | cat team = meow |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:36:38 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400518579489 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | SiSaNeN |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:39:05 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400518829669 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | AndreXD |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:39:35 |
@@ -77,10 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400519127994 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | V 𝖋𝖊𝖓𝕶𝖛𝖊𝖓 V |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:40:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400520683334 |
+| Players | 1/8 |
+| Host Name | Соц проститутка |
+| Region | EUROPE |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:43:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400520745390 |
+| Players | 1/8 |
+| Host Name | money dealer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:43:34 |
 
 
 |  | epic_boss_fight_nightmare |
