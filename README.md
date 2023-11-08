@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400534595562 |
-| Players | 10/24 |
+| Players | 8/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:12:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511400539896573 |
-| Players | 14/15 |
-| Host Name | KalleNツ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:24:07 |
+| Lobby ID | 28511400540527181 |
+| Players | 2/24 |
+| Host Name | เ น้ น นั ว ร์ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:25:28 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400540493621 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | poo-zinping |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:25:23 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511400540527181 |
-| Players | 2/24 |
-| Host Name | เ น้ น นั ว ร์ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:25:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511400540629773 |
-| Players | 1/10 |
-| Host Name | You will die |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:25:41 |
 
 
 |  | epic_boss_fight_nightmare |
