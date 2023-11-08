@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400446713264 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | Capitanazo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:08:41 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400448526944 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | RazorRyft |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:12:32 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400446178872 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | [R][O][A][M] |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:07:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400447420853 |
-| Players | 9/10 |
-| Host Name | Witchblade(маленький) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:10:09 |
+| Lobby ID | 28511400448708541 |
+| Players | 2/8 |
+| Host Name | Lemonchill |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:12:55 |
 
 
 |  | ot3_desert_octet |
@@ -50,27 +50,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400448640122 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Mouches Volantes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:12:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511400448708541 |
-| Players | 1/8 |
-| Host Name | Lemonchill |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:12:55 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511400448740723 |
-| Players | 1/24 |
-| Host Name | ИЛЮХА ТЕЛЕВИЗОРР. LG |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:12:59 |
 
 
