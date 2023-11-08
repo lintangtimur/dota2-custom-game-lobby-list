@@ -11,31 +11,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 11:24:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511400479201500 |
-| Players | 9/10 |
-| Host Name | SUN ♥ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:18:47 |
+| Lobby ID | 28511400475805774 |
+| Players | 19/24 |
+| Host Name | BROOKLYN T GUY |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:11:35 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400481902513 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | Fanss |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:24:28 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511400475805774 |
-| Players | 18/24 |
-| Host Name | BROOKLYN T GUY |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:11:35 |
 
 
 |  | epic_boss_fight_nightmare |
