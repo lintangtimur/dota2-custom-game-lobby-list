@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400522103983 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Montie |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:46:23 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400521864125 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | проклятье Тутанхамона |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:45:53 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400523098422 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Eycca |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:48:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400522559862 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Kingfisher |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:47:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400523009626 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | el rey del bailoteo |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:48:15 |
