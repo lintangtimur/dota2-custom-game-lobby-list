@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177027256325 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | MaNcHas |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:16:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177032483932 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | zum |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:26:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177025877738 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | KHAEИ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:14:07 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177034830180 |
-| Players | 4/15 |
-| Host Name | КМС по литрболу |
+| Players | 2/15 |
+| Host Name | GodiAm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:30:39 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177032449501 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | $KÜŁŁĪČÊ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:26:20 |
@@ -110,12 +110,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:30:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177033496429 |
-| Players | 7/8 |
-| Host Name | Road to 1k |
+| Lobby ID | 28511177032283592 |
+| Players | 14/15 |
+| Host Name | daertc. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:26:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511177034991164 |
+| Players | 1/24 |
+| Host Name | Black Raven |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:28:12 |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:30:56 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511177035021483 |
+| Players | 3/24 |
+| Host Name | thabit |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:31:00 |
 
 
