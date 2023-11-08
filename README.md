@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400463333632 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | Old friend |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:43:58 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400464312154 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Karl-Cox |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:46:06 |
@@ -68,19 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400465327054 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:48:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511400465326735 |
-| Players | 1/8 |
-| Host Name | Yo era gozu... pero me enamoré |
+| Lobby ID | 28511400465410318 |
+| Players | 1/24 |
+| Host Name | Lolo |
 | Region | CHILE |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:48:19 |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:48:30 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511400465432733 |
+| Players | 1/15 |
+| Host Name | 没意思 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:48:33 |
 
 
 |  | epic_boss_fight_nightmare |
