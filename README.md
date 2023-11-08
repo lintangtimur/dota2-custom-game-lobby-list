@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511177025499481 |
-| Players | 13/15 |
-| Host Name | Батюшка Михуил |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:13:20 |
+| Lobby ID | 28511177025944213 |
+| Players | 4/10 |
+| Host Name | MataCholas |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:14:15 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177024991526 |
-| Players | 7/8 |
-| Host Name | А |
+| Lobby ID | 28511177026527887 |
+| Players | 3/8 |
+| Host Name | kagura bachi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:12:04 |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:15:25 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177026227959 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | 'Charlotte 雨' |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:14:49 |
@@ -67,47 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177026554845 |
-| Players | 1/15 |
-| Host Name | d9d9 |
+| Lobby ID | 28511177026759353 |
+| Players | 2/15 |
+| Host Name | Фэшн Демон |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:15:29 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511177025944213 |
-| Players | 4/10 |
-| Host Name | MataCholas |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:14:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177026527887 |
-| Players | 3/8 |
-| Host Name | kagura bachi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:15:25 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511177023561718 |
-| Players | 21/24 |
-| Host Name | -SHAMPAHUMA |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:08:32 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511177024566952 |
-| Players | 23/24 |
-| Host Name | freshejka |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:11:01 |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:15:53 |
 
 
 |  | epic_boss_fight_nightmare |
