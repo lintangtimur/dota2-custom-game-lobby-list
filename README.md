@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 09:26:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511177084882515 |
-| Players | 1/8 |
-| Host Name | stdva |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:27:36 |
+| Lobby ID | 28511177084855313 |
+| Players | 1/24 |
+| Host Name | Maryori ♥Seria -_-giordota.com |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:27:32 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177084074528 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | hAggU pLaYeR |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:25:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177084681172 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Tu no me matas y yo no te mato |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:27:08 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177084535077 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | BANDO BOYZ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:26:47 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177084786135 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | onaraicad |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:27:23 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177084787003 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Yonwalther |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:27:23 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511177084855313 |
-| Players | 1/24 |
-| Host Name | Maryori ♥Seria -_-giordota.com |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:27:32 |
 
 
 |  | epic_boss_fight_nightmare |
