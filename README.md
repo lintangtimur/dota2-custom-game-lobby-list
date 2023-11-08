@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177036984558 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | Hm Alright |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:34:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177027256325 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | A Pagpag Tale: Insomnia |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:16:50 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177036661230 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Desperado |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:33:55 |
@@ -122,16 +122,70 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177037201050 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | miz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:34:52 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511177037234288 |
+| Players | 1/8 |
+| Host Name | ------------ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:34:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511177032449501 |
+| Players | 14/15 |
+| Host Name | Cap Levi- |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:26:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511177033496429 |
+| Players | 7/8 |
+| Host Name | [[Martha Hitlerman]] |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:28:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511177031447141 |
+| Players | 14/15 |
+| Host Name | [BOT] WALKER |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:24:31 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511177024566952 |
+| Players | 21/24 |
+| Host Name | unomvae |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:11:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511177025877738 |
+| Players | 23/24 |
+| Host Name | chavo |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:14:07 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511177035376065 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | qwertyty |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:31:37 |
