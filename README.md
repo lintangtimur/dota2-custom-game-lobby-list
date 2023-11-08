@@ -11,28 +11,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 09:48:21 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511400438834467 |
+| Players | 1/10 |
+| Host Name | Копченый |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:54:48 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400438504152 |
-| Players | 5/8 |
-| Host Name | the last |
+| Lobby ID | 28511400438607098 |
+| Players | 4/8 |
+| Host Name | •ᴇʙssɪʟᴏɴ• |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:54:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511177094737250 |
-| Players | 12/15 |
-| Host Name | Skere |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:49:18 |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:54:38 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177094462410 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Jordy Cage |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:48:45 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177095061986 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:49:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177095359405 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Eliazz🐯 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:50:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177095641717 |
-| Players | 10/15 |
+| Players | 15/15 |
 | Host Name | |||||||||||| |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:50:59 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400436931049 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Filipo |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:53:32 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400436810333 |
-| Players | 7/8 |
+| Players | 8/8 |
 | Host Name | GhosTNeal |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:53:28 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177093951261 |
-| Players | 9/15 |
+| Players | 6/15 |
 | Host Name | Elon Tusk |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:47:45 |
@@ -119,31 +119,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 09:54:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511400438574215 |
-| Players | 1/8 |
-| Host Name | psycho |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:54:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511400438622951 |
-| Players | 1/10 |
-| Host Name | Копченый |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:54:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511400438607098 |
-| Players | 4/8 |
-| Host Name | •ᴇʙssɪʟᴏɴ• |
+| Lobby ID | 28511400438759540 |
+| Players | 3/24 |
+| Host Name | ALEX, LA PROMESA |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:54:38 |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:54:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511400438834981 |
+| Players | 2/15 |
+| Host Name | Mouches Volantes |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:54:48 |
 
 
 |  | epic_boss_fight_challenger |
