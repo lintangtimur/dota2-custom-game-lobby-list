@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177059812219 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:28:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177061746336 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | . |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:33:13 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177060907409 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | freshejka |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:31:13 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177061513849 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | giordota.com.Christian |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:32:40 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177061819201 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | DrKellìn |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:33:24 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177061823393 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | PATITO NICHAN |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:33:24 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177061891641 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | CAMILA :3 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:33:34 |
