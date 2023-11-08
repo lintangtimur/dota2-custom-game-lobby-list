@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400456134001 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | 初音真爱粉 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:28:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400460021552 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Perú campeón |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:36:52 |
@@ -63,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Сфчик на поросе |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:37:09 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511400458836943 |
+| Players | 23/24 |
+| Host Name | lina paucar |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:34:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511400460189877 |
+| Players | 1/15 |
+| Host Name | hi |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:37:12 |
 
 
 |  | epic_boss_fight_nightmare |
