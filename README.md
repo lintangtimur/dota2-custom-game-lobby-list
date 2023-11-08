@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400563578761 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | bLdymsscR 𓅁 |
 | Region | JAPAN |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:13:12 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400563334344 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Yusei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:12:44 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400562618225 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Белый |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:11:20 |
