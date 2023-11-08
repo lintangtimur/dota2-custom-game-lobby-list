@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400459791621 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Sofuer |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:36:24 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400460189877 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | hi |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:37:12 |
@@ -77,27 +77,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400461941957 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Vovka2001ProInvoker |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:40:54 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511400458836943 |
+| Players | 19/24 |
+| Host Name | lina paucar |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:34:20 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400461997273 |
-| Players | 1/8 |
-| Host Name | Rengoku- |
+| Lobby ID | 28511400462022385 |
+| Players | 3/8 |
+| Host Name | Jivchik |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:41:02 |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:41:05 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400461555936 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Strange |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:40:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511400462020284 |
+| Players | 1/5 |
+| Host Name | uDIK 5 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:41:05 |
 
 
