@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511177064152065 |
-| Players | 6/10 |
-| Host Name | nacko LoaL |
+| Lobby ID | 28511177064406786 |
+| Players | 2/10 |
+| Host Name | El Diferente |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:38:52 |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:39:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177061614035 |
-| Players | 5/8 |
+| Players | 2/8 |
 | Host Name | im goldenfield nice to wheat u |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:32:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177060907409 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | freshejka |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:31:13 |
@@ -113,27 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177064439814 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Yamil :D |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:39:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511177064406786 |
-| Players | 2/10 |
-| Host Name | El Diferente |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:39:29 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28511177064477677 |
-| Players | 2/7 |
-| Host Name | Hola??? |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:39:39 |
 
 
