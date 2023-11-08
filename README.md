@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400449358590 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | >KhoRup..-will< |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:14:14 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400449196369 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Pakazs de dia pajas de noche |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:13:53 |
