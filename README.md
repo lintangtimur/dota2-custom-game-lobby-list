@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400505010664 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | NO SÉ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:11:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400503938180 |
-| Players | 4/8 |
+| Players | 1/8 |
 | Host Name | gbcz gjgf rfrfirb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:09:29 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400505405661 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | ZeЯN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:12:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400505429961 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | ***** |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:12:30 |
@@ -65,13 +65,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 12:12:20 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511400505954503 |
-| Players | 7/10 |
-| Host Name | D E G A |
+| Lobby ID | 28511400506397652 |
+| Players | 3/24 |
+| Host Name | mLaSYa |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:13:33 |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:14:25 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511400506421017 |
+| Players | 1/24 |
+| Host Name | RiftBreaker |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:14:27 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511400506644591 |
+| Players | 1/15 |
+| Host Name | 饭 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:14:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511400506679052 |
+| Players | 1/10 |
+| Host Name | papeosogka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:14:59 |
 
 
 |  | epic_boss_fight_nightmare |
