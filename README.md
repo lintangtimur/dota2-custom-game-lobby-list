@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400550456607 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Elya |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:46:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400550084116 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Maganahi |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:45:50 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400551261353 |
-| Players | 5/8 |
-| Host Name | RuslanTu |
+| Players | 6/8 |
+| Host Name | ATOMIC SAMURAI |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:48:20 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400549020718 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Black Purple |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:43:33 |
