@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400553179393 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Marcos3tres |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:52:27 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400554101911 |
-| Players | 3/8 |
-| Host Name | ГРЯЗНАЯ ПИСЬКА |
+| Players | 4/8 |
+| Host Name | Фотографую сліма |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:54:20 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400552845953 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Sferov |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:51:45 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 13:53:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400554128141 |
-| Players | 2/10 |
-| Host Name | Arthas Menethil |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:54:23 |
+| Lobby ID | 28511400554440025 |
+| Players | 2/15 |
+| Host Name | ларл менталити |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:55:03 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,19 +56,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 13:54:06 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511400554440025 |
-| Players | 2/15 |
-| Host Name | ларл менталити |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:55:03 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400552536475 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | .... |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:51:05 |
