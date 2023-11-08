@@ -6,7 +6,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28511400469042145 |
 | Players | 7/15 |
-| Host Name | ningen |
+| Host Name | Glinomes2000 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:56:37 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400469443294 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Durotan |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:57:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400469418049 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | -a |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:57:24 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400467280851 |
-| Players | 4/10 |
-| Host Name | Mcry |
+| Players | 1/10 |
+| Host Name | Casio |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:52:46 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400467423865 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Handler ☆☆☆ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:53:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400468281037 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Mococo Player |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:54:58 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | YAUJA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:59:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400470536929 |
+| Players | 3/8 |
+| Host Name | MODO SEPSO |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:59:49 |
 
 
 |  | epic_boss_fight_nightmare |
