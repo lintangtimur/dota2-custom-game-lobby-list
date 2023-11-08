@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 14:07:05 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400561360970 |
-| Players | 23/24 |
-| Host Name | Salival |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:08:48 |
+| Lobby ID | 28511400563907704 |
+| Players | 1/8 |
+| Host Name | убил насмерть |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 14:13:48 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400563036391 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | BRAMBRAGE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:12:09 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:13:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511400563907704 |
-| Players | 1/8 |
-| Host Name | убил насмерть |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:13:48 |
 
 
 |  | epic_boss_fight_nightmare |
