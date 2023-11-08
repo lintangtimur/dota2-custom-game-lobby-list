@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400465613957 |
-| Players | 13/15 |
-| Host Name | Aggressive Koala |
+| Lobby ID | 28511400464835727 |
+| Players | 1/15 |
+| Host Name | Connor McGee Thor |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:48:57 |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:47:14 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400465591394 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Lalabom |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:48:54 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400465624158 |
-| Players | 1/24 |
+| Players | 7/24 |
 | Host Name | Lolo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:48:59 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Grumbledorp |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:49:19 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511400464835727 |
-| Players | 1/15 |
-| Host Name | Connor McGee Thor |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:47:14 |
 
 
 |  | epic_boss_fight_nightmare |
