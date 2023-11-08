@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511400565790783 |
-| Players | 14/15 |
-| Host Name | Argor |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:17:24 |
+| Lobby ID | 28511400564236004 |
+| Players | 1/24 |
+| Host Name | Coria |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 14:14:26 |
 
 
 |  | ot3_gardens_duo |
@@ -23,43 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400565383045 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | jIHad |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:16:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400563162891 |
-| Players | 13/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:12:24 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511400564236004 |
-| Players | 1/24 |
-| Host Name | Coria |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:14:26 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511400563334344 |
-| Players | 9/10 |
-| Host Name | Yusei |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:12:44 |
+| Lobby ID | 28511400567537044 |
+| Players | 4/8 |
+| Host Name | MODO MIRACLE |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 14:20:42 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400567398420 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Fatal |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:20:26 |
