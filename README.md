@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400455797864 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | @EoB3TA |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:27:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400455729886 |
-| Players | 1/8 |
-| Host Name | manuchen |
+| Lobby ID | 28511400456222937 |
+| Players | 1/10 |
+| Host Name | 0,1% |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:27:29 |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:28:33 |
 
 
 |  | ot3_gardens_duo |
@@ -76,20 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400456222937 |
-| Players | 1/10 |
-| Host Name | 0,1% |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:28:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511400456328981 |
-| Players | 1/15 |
-| Host Name | Sapa Inca |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:28:46 |
+| Lobby ID | 28511400452661376 |
+| Players | 8/10 |
+| Host Name | Fox |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:21:09 |
 
 
 |  | epic_boss_fight_nightmare |
