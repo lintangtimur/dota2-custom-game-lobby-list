@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177054415798 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Bob Ross |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:15:41 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177055226821 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | aesthetic af |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:17:39 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 08:14:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177054932919 |
-| Players | 14/15 |
-| Host Name | El PORONGUITOS |
+| Lobby ID | 28511177053790328 |
+| Players | 3/8 |
+| Host Name | Fabrizzio |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:16:57 |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:14:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -63,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Yamil :D |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:15:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177053790328 |
-| Players | 3/8 |
-| Host Name | Fabrizzio |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:14:09 |
 
 
