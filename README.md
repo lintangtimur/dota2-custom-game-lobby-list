@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 13:09:24 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511400534052527 |
-| Players | 9/10 |
-| Host Name | Arthas Menethil |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:11:34 |
+| Lobby ID | 28511400534595562 |
+| Players | 3/24 |
+| Host Name | RiftBreaker |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:12:44 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400532850357 |
-| Players | 9/15 |
+| Players | 7/15 |
 | Host Name | vanitas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:08:58 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400533530398 |
-| Players | 12/15 |
-| Host Name | SHVEPS |
+| Players | 11/15 |
+| Host Name | Fikalord |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:10:26 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400533402123 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Galeido (ɔ*-*)ɔ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:10:09 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400534359772 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Señor Cobaya |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:12:14 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Enryu |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:06:04 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511400534595562 |
-| Players | 1/24 |
-| Host Name | RiftBreaker |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:12:44 |
 
 
 |  | epic_boss_fight_nightmare |
