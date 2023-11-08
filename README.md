@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400507274741 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | vanitas |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:16:11 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400505954503 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | D E G A |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:13:33 |
