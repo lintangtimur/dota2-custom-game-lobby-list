@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400500445574 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Cris1st |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:02:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400499855333 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Drakalian the Dragon King |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:01:20 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Theuza |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:03:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511400500809306 |
+| Players | 1/24 |
+| Host Name | FB🦃 |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:03:15 |
 
 
 |  | epic_boss_fight_nightmare |
