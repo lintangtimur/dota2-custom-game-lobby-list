@@ -95,10 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177024566952 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | freshejka |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:11:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511177024669937 |
+| Players | 1/10 |
+| Host Name | Really? |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:11:16 |
 
 
 |  | epic_boss_fight_nightmare |
