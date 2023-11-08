@@ -65,6 +65,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 14:13:45 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400564122730 |
+| Players | 3/8 |
+| Host Name | aki |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 8, 2023 14:14:13 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400563578761 |
@@ -74,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 14:13:12 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511400560707803 |
-| Players | 6/7 |
-| Host Name | Çħίℓℓ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:07:29 |
+| Lobby ID | 28511400563334344 |
+| Players | 2/10 |
+| Host Name | Yusei |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 14:12:44 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Белый |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:11:20 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511400563334344 |
-| Players | 2/10 |
-| Host Name | Yusei |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:12:44 |
 
 
