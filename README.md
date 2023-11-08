@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400536157299 |
-| Players | 23/24 |
-| Host Name | BABY-ROSH (AL) |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:16:09 |
+| Lobby ID | 28511400539428376 |
+| Players | 6/15 |
+| Host Name | larry |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:23:08 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400538596351 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | wodota |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:21:22 |
@@ -45,15 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dr. Chaputin modo Sexo |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:14:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511400539428376 |
-| Players | 4/15 |
-| Host Name | larry |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:23:08 |
 
 
 |  | epic_boss_fight_nightmare |
