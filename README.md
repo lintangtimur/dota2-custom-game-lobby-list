@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511177046257755 |
-| Players | 7/8 |
-| Host Name | LooPer |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:55:30 |
+| Lobby ID | 28511177047321207 |
+| Players | 4/24 |
+| Host Name | RiftBreaker |
+| Region | USWEST |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:58:08 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607669615738 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:05:38 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:33:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511177046375557 |
-| Players | 13/15 |
-| Host Name | REON |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:55:48 |
+| Lobby ID | 28511177047148042 |
+| Players | 1/24 |
+| Host Name | MaNcHas |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:57:43 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177047005545 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Teddy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:57:22 |
@@ -78,7 +78,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28511177046827029 |
 | Players | 3/8 |
-| Host Name | Твои зелёные глаза |
+| Host Name | EL AMANTE DE TU MAMA <3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:56:55 |
 
@@ -86,27 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177047073533 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | castillo TERRUCONES |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:57:32 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511177047148042 |
-| Players | 1/24 |
-| Host Name | MaNcHas |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:57:43 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511177047307983 |
-| Players | 1/5 |
-| Host Name | El low me hizo reflexionar |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:58:06 |
 
 
