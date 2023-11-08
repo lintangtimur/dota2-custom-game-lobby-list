@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177028001852 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Cinnamon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:18:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177025877738 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | chavo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:14:07 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177035823482 |
-| Players | 5/8 |
-| Host Name | Bing AI |
+| Players | 2/8 |
+| Host Name | Master Dragon |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:32:25 |
 
@@ -137,22 +137,58 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:31:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177035348072 |
-| Players | 1/8 |
-| Host Name | LooPer |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:31:34 |
+| Lobby ID | 28511177032449501 |
+| Players | 14/15 |
+| Host Name | Cap Levi- |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:26:20 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177035527574 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Mococo Player |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:31:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511177034830180 |
+| Players | 12/15 |
+| Host Name | MuHaHa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:30:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511177036361045 |
+| Players | 1/8 |
+| Host Name | Mil<3 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:33:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511177036366462 |
+| Players | 5/8 |
+| Host Name | PowerZ |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:33:24 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511177032471648 |
+| Players | 9/10 |
+| Host Name | Habitante del perú profundo |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:26:22 |
 
 
 |  | epic_boss_fight_nightmare |
