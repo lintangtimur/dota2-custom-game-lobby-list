@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400512372309 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | YATOO |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:26:20 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400508235132 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Bonitos y gorditos hijos de puta |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:18:05 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | A Monkey? |
 | Region | EUROPE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:27:22 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400512936843 |
+| Players | 5/8 |
+| Host Name | moose |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:27:29 |
 
 
 |  | epic_boss_fight_nightmare |
