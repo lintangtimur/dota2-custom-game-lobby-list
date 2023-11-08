@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177056876708 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:21:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177060759090 |
-| Players | 3/24 |
+| Players | 14/24 |
 | Host Name | Eris Boreas Greyrat |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:30:52 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177060422379 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Aarön |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:30:04 |
@@ -68,25 +68,61 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177060617852 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Setrox |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:30:32 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511177060923721 |
+| Players | 2/10 |
+| Host Name | OverLegioner |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:31:15 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511177060901293 |
+| Players | 2/24 |
+| Host Name | Sirius/Void |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:31:12 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511177060907409 |
+| Players | 1/24 |
+| Host Name | freshejka |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:31:13 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177060477156 |
-| Players | 7/8 |
-| Host Name | ... |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:30:12 |
+| Lobby ID | 28511177061079651 |
+| Players | 1/8 |
+| Host Name | legacy52 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:31:38 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511177061200572 |
+| Players | 5/10 |
+| Host Name | Jorgito_tu_terror|HH| |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:31:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511177057144211 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Booberries |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:22:16 |
