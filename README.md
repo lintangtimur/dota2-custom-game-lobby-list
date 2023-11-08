@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177086116738 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | Тендерайзер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:30:27 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177084074528 |
-| Players | 18/24 |
+| Players | 16/24 |
 | Host Name | hAggU pLaYeR |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:25:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177085709484 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | CEO ⌐◨-◨ |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:29:31 |
@@ -63,6 +63,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KuroiBlazr |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:29:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511177086247877 |
+| Players | 2/10 |
+| Host Name | 諦めないのがオレの魔 |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:30:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511177086271422 |
+| Players | 1/8 |
+| Host Name | PinguinoParador |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:30:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511177086249649 |
+| Players | 1/8 |
+| Host Name | comedordeperuvian |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:30:45 |
 
 
 |  | epic_boss_fight_normal |
