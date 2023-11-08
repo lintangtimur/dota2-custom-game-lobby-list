@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400453890560 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | You will die |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:23:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400456521871 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Sapa Inca |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:29:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400455777369 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Alirezaleon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:27:35 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400456134001 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | 初音真爱粉 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:28:21 |
@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 10:28:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511400452661376 |
-| Players | 7/10 |
-| Host Name | Fox |
+| Lobby ID | 28511400453912049 |
+| Players | 21/24 |
+| Host Name | -ScripT: |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:21:09 |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:23:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400456991136 |
-| Players | 1/8 |
-| Host Name | Ｓｏｈｅｅ |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:30:14 |
+| Lobby ID | 28511400455797864 |
+| Players | 14/15 |
+| Host Name | @EoB3TA |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:27:37 |
 
 
 |  | epic_boss_fight_nightmare |
