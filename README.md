@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177055226821 |
-| Players | 11/15 |
-| Host Name | aesthetic af |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:17:39 |
+| Lobby ID | 28511177054531774 |
+| Players | 9/15 |
+| Host Name | Yamil :D |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:15:58 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177053978437 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | 大大hate myself |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:14:37 |
@@ -47,21 +47,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 08:14:09 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177054419955 |
-| Players | 5/8 |
-| Host Name | Kabir |
-| Region | CHILE |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:15:41 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177054531774 |
-| Players | 8/15 |
-| Host Name | Yamil :D |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:15:58 |
+| Lobby ID | 28511177055531597 |
+| Players | 3/15 |
+| Host Name | onaraicad |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:18:24 |
 
 
