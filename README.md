@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400505405661 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | ZeЯN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:12:26 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400506397652 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | mLaSYa |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:14:25 |
@@ -92,6 +92,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 12:16:50 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511400507687344 |
+| Players | 2/15 |
+| Host Name | synthetic fauna |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:17:00 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400505954503 |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28511400507437457 |
-| Players | 1/5 |
+| Players | 3/5 |
 | Host Name | ドラゴン |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:16:30 |
