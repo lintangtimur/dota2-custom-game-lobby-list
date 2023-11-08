@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177045462199 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Eldarion |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:53:30 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177045584737 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Dan |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:53:49 |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177045491520 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | 大大hate myself |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:53:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177045882646 |
-| Players | 7/8 |
-| Host Name | the kinnfkd |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:54:34 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511177045362329 |
-| Players | 5/10 |
-| Host Name | @prolux |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:53:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,5 +72,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LooPer |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:55:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511177045362329 |
+| Players | 7/10 |
+| Host Name | @prolux |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:53:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511177046341438 |
+| Players | 1/10 |
+| Host Name | Ferdshooky |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:55:43 |
 
 
