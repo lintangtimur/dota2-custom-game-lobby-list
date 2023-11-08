@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607669615738 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:05:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177037765069 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | D ~ He♥ly |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:35:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177035633896 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 40 days |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:32:05 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177032499861 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | PENE  NEGRO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:26:25 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177027256325 |
-| Players | 20/24 |
-| Host Name | BRN| |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:16:50 |
+| Lobby ID | 28511177039463974 |
+| Players | 2/15 |
+| Host Name | Superman |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:39:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -121,11 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177038939055 |
-| Players | 13/15 |
-| Host Name | ♥РеквиемПоЧечне |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:38:02 |
+| Lobby ID | 28511177039462283 |
+| Players | 1/15 |
+| Host Name | REON |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:39:06 |
 
 
 |  | ot3_jungle_quintet |
