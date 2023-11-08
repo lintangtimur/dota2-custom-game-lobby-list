@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607669615738 |
-| Players | 19/24 |
+| Players | 17/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:05:38 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177068703948 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Garius giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:49:29 |
@@ -83,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 08:53:14 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177066160145 |
-| Players | 9/10 |
-| Host Name | kernel |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:43:29 |
+| Lobby ID | 28511177070401307 |
+| Players | 4/8 |
+| Host Name | Abilhasanov |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:53:29 |
 
 
