@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 11:32:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400485402097 |
-| Players | 12/15 |
-| Host Name | Medrex |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:31:57 |
+| Lobby ID | 28511400487181218 |
+| Players | 1/8 |
+| Host Name | EJ-Smill3 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:35:46 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400486297599 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | los estudios me nerfearon |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:33:53 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400485858097 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Тотальный фид |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:32:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511400487164428 |
+| Players | 2/15 |
+| Host Name | Sliyver |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:35:44 |
 
 
 |  | epic_boss_fight_nightmare |
