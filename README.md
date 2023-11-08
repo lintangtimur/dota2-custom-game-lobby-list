@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177083739600 |
-| Players | 15/24 |
+| Players | 20/24 |
 | Host Name | 大炮 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:24:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177091880406 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | Casimiro Supo Tito |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:43:28 |
@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 09:43:09 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177092127812 |
-| Players | 1/8 |
-| Host Name | bobel constructor |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:44:00 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177092148658 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | LITTLE PUDGE |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:44:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511177092708338 |
+| Players | 2/8 |
+| Host Name | bobel constructor |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:45:14 |
 
 
 |  | epic_boss_fight_challenger |
