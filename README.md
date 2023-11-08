@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177047445595 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Abilhasanov |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:58:27 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511177046692865 |
-| Players | 9/10 |
-| Host Name | Shigami |
+| Lobby ID | 28511177047785649 |
+| Players | 2/10 |
+| Host Name | quee?? |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:56:35 |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:59:18 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177046827029 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | EL AMANTE DE TU MAMA <3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:56:55 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177047073533 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | castillo TERRUCONES |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:57:32 |
