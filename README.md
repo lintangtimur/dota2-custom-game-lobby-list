@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 09:24:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177089557537 |
-| Players | 9/10 |
-| Host Name | Pichuleitor |
+| Lobby ID | 28511177090569420 |
+| Players | 1/8 |
+| Host Name | A tu vieja la vuelvo mi gata |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:38:20 |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:40:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177089474571 |
-| Players | 5/10 |
-| Host Name | Wayne |
+| Players | 3/10 |
+| Host Name | k'k |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:38:08 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177089823224 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Mococo Player |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:38:56 |
@@ -103,20 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177090451597 |
-| Players | 2/15 |
-| Host Name | flipflop |
+| Lobby ID | 28511177090680355 |
+| Players | 1/15 |
+| Host Name | hazzacox |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:40:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177090569420 |
-| Players | 1/8 |
-| Host Name | A tu vieja la vuelvo mi gata |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:40:38 |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:40:53 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Да это я |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:30:29 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511177090647060 |
+| Players | 1/5 |
+| Host Name | ESQUIZOFRENICO_69 |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:40:49 |
 
 
