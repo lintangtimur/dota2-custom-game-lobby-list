@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400529133145 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | ♛ Azhik#p4p ♛ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:00:59 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400529789275 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Lod[A].Memory |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:02:26 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400528687409 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | GS.GeneraLz-♫ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:59:58 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ganimx |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:02:27 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511400530145523 |
+| Players | 1/5 |
+| Host Name | שלום לאמא שלך |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:03:11 |
 
 
