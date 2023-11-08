@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400554440025 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | ларл менталити |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:55:03 |
@@ -56,13 +56,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 13:54:06 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511400555177661 |
+| Players | 1/15 |
+| Host Name | Топ 100 Антарктиды |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:56:32 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400555128631 |
+| Lobby ID | 28511400555199145 |
 | Players | 1/8 |
-| Host Name | aquaпузик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:56:26 |
+| Host Name | [♂+♂=♥]6LyaDuKtoR |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:56:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400555191736 |
+| Players | 1/8 |
+| Host Name | Deadline |
+| Region | BRAZIL |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:56:34 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400555095290 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Next |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:56:22 |
