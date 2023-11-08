@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177036559755 |
-| Players | 1/15 |
-| Host Name | piwwow pwincess |
-| Region | EUROPE |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:33:44 |
+| Lobby ID | 28511177036984558 |
+| Players | 3/15 |
+| Host Name | Hm Alright |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:34:29 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177027256325 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | A Pagpag Tale: Insomnia |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:16:50 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177036361045 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Mil<3 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:33:23 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177035783793 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | CHAD NORRIZ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:32:20 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177035837805 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | BassiveMildredEnjoyer13 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:32:26 |
@@ -119,31 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:34:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511177036984558 |
-| Players | 1/15 |
-| Host Name | Hm Alright |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:34:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177032499861 |
-| Players | 6/8 |
-| Host Name | Z Locoxd Z |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:26:25 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511177031447141 |
-| Players | 13/15 |
-| Host Name | [BOT] WALKER |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:24:31 |
+| Lobby ID | 28511177037201050 |
+| Players | 3/10 |
+| Host Name | miz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:34:52 |
 
 
 |  | epic_boss_fight_nightmare |
