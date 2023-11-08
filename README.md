@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400497046705 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Artorias |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:55:47 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400499639725 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | winning (reps until failure) |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:00:54 |
@@ -50,10 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400499855333 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Drakalian the Dragon King |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:01:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400497544812 |
+| Players | 7/8 |
+| Host Name | Aker- |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:56:45 |
 
 
 |  | epic_boss_fight_nightmare |
