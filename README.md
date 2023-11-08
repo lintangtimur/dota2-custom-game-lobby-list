@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177095482535 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | El Gotto Cuba |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:50:41 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177095061986 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:49:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177094975883 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | Fitzcarraldo |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:49:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177095359405 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Kayden |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:50:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177095641717 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | |||||||||||| |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:50:59 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400436931049 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Filipo |
 | Region | AUSTRIA |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:53:32 |
@@ -101,12 +101,57 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 09:53:28 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511177093951261 |
+| Players | 10/15 |
+| Host Name | Yawë |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:47:45 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400436907441 |
-| Players | 1/8 |
-| Host Name | grind2021 |
+| Lobby ID | 28511400437107648 |
+| Players | 4/8 |
+| Host Name | Let`s die together |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:53:31 |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:53:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400437147301 |
+| Players | 1/8 |
+| Host Name | надежды нет |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:53:38 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511177094958362 |
+| Players | 11/15 |
+| Host Name | الكسل |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:49:43 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511400437625689 |
+| Players | 1/15 |
+| Host Name | Eri$$oN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:53:51 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28511400437101069 |
+| Players | 2/7 |
+| Host Name | Да это я |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:53:37 |
 
 
