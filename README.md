@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 09:48:45 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177095061986 |
-| Players | 22/24 |
-| Host Name | 乱战先锋专用帐号 |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:49:55 |
+| Lobby ID | 28511400440484816 |
+| Players | 1/8 |
+| Host Name | Чародей |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:56:54 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400438834981 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Mouches Volantes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:54:48 |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177093951261 |
-| Players | 6/15 |
-| Host Name | Elon Tusk |
+| Players | 5/15 |
+| Host Name | Sofuer |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:47:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511177095641717 |
-| Players | 14/15 |
-| Host Name | |||||||||||| |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:50:59 |
 
 
 |  | epic_boss_fight_challenger |
