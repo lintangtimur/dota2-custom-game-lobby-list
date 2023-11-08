@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400471862279 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | SSS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:02:53 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400471602420 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Martin-Luther-King. |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:02:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400467423865 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Handler ☆☆☆ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:53:06 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400472601095 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | ʀʏυʍ¿ɴcʜ∀ε |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:04:34 |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nirvana |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:51:41 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28511400472509204 |
-| Players | 1/7 |
-| Host Name | KING  CRIMSON |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:04:21 |
 
 
