@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400524906346 |
-| Players | 22/24 |
+| Players | 20/24 |
 | Host Name | Pistachio Gelato |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:52:14 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400529228567 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | money dealer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:01:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400529133145 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | ♛ Azhik#p4p ♛ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:00:59 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400529814171 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | CORRALITO |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:02:29 |
@@ -83,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 12:59:58 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28511400529796103 |
-| Players | 1/7 |
+| Lobby ID | 28511400530697095 |
+| Players | 1/5 |
 | Host Name | Ganimx |
 | Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:02:27 |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:04:22 |
 
 
