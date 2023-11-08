@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400445601834 |
-| Players | 3/8 |
-| Host Name | BigBoyAbuDhabi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:06:26 |
+| Lobby ID | 28511400445612965 |
+| Players | 4/10 |
+| Host Name | Mococo Player |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:06:27 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400445409028 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Sapa Inca |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:06:03 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400445225042 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | Mee to |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:05:41 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400442671634 |
-| Players | 3/24 |
-| Host Name | REYNOSO CTM |
+| Players | 1/24 |
+| Host Name | Zykan Sila |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:00:42 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400444698148 |
-| Players | 13/24 |
+| Players | 21/24 |
 | Host Name | ieagtonrns |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:04:39 |
@@ -85,29 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400444968320 |
-| Players | 1/10 |
-| Host Name | Captain Moosejaw |
-| Region | USWEST |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:05:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28511400445348364 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | oMi |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:05:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400445612965 |
-| Players | 2/10 |
-| Host Name | Mococo Player |
+| Lobby ID | 28511400445789094 |
+| Players | 1/8 |
+| Host Name | globo terraqueo buscando a maca |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:06:27 |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:06:48 |
 
 
 |  | epic_boss_fight_nightmare |
