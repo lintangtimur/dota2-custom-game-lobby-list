@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400524906346 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Pistachio Gelato |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:52:14 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400527258868 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Willy |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:57:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400528580983 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | 初音真爱粉 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:59:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400529814171 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | CORRALITO |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:02:29 |
