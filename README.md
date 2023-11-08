@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177067340042 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | 【N.G.EvanGelioN】LiAS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:46:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177066824345 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | LooPer |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:45:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177067945091 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | LganteKLK-giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:47:41 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Abilhasanov |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:47:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511177068054663 |
+| Players | 4/8 |
+| Host Name | ♥LOL SHARON♥ |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:47:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511177068072106 |
+| Players | 1/8 |
+| Host Name | Jklaer |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:48:00 |
 
 
 |  | epic_boss_fight_nightmare |
