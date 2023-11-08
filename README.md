@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400513460759 |
-| Players | 3/10 |
-| Host Name | bUbu |
+| Players | 1/10 |
+| Host Name | Larry Capija |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:28:33 |
 
@@ -47,6 +47,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 12:29:15 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511400514431476 |
+| Players | 2/10 |
+| Host Name | bUbu |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:30:33 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400505954503 |
@@ -54,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | D E G A |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:13:33 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511400514406869 |
+| Players | 1/10 |
+| Host Name | dancing with death |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:30:30 |
 
 
