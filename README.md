@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400512435303 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | penguinz0 |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:26:28 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400512372309 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | YATOO |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:26:20 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400508235132 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Bonitos y gorditos hijos de puta |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:18:05 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Glump |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:23:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511400513170470 |
-| Players | 1/15 |
-| Host Name | 芒果 |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:27:57 |
 
 
 |  | epic_boss_fight_nightmare |
