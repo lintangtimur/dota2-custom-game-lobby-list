@@ -92,22 +92,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:30:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177038109368 |
-| Players | 9/10 |
-| Host Name | El Diferente |
+| Lobby ID | 28511177036361045 |
+| Players | 6/8 |
+| Host Name | SOS |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:36:31 |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:33:23 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177039993442 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | zeroempathyyy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:40:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511177040086236 |
+| Players | 1/8 |
+| Host Name | UltimateVegas |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:40:28 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | EL MOCHILERO PIUPIU |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:39:14 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511177039997885 |
-| Players | 1/5 |
-| Host Name | Добрый |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:40:16 |
 
 
