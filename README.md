@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400458279584 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | »Rewrite] |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:33:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400457746170 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | MODE ISSASHOW |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:31:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400457617524 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | Perro chusco |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:31:38 |
@@ -65,6 +65,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 10:31:26 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511400458359416 |
+| Players | 4/8 |
+| Host Name | La caca que mata |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:33:17 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400455802965 |
@@ -72,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Be Humble |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:27:38 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511400458415909 |
+| Players | 1/5 |
+| Host Name | uDIK 5 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:33:24 |
 
 
