@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400452661376 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Fox |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:21:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400452372583 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | HashiRama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:20:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400453427714 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | TomPal |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:22:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400453810866 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | shark apologist |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:23:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400453880008 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Sstine |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:23:39 |
@@ -81,5 +81,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | -ScripT: |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:23:43 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511400450857088 |
+| Players | 12/15 |
+| Host Name | Tlacua y Cache |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:17:21 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511400454054349 |
+| Players | 1/10 |
+| Host Name | Tommy |
+| Region | SINGAPORE |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:23:59 |
 
 
