@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400562187874 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Tilapia com Aids |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:10:29 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400562430839 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | gentleman |
 | Region | DUBAI |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:10:58 |
@@ -56,19 +56,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 14:11:00 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400560020281 |
-| Players | 9/10 |
-| Host Name | antuar |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:06:10 |
+| Lobby ID | 28511400562545233 |
+| Players | 1/15 |
+| Host Name | brukenso |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 8, 2023 14:11:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511400562547212 |
+| Players | 1/15 |
+| Host Name | double<3A |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 8, 2023 14:11:12 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28511400562335626 |
+| Players | 4/7 |
+| Host Name | bLdymsscR 𓅁 |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 8, 2023 14:10:46 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28511400560707803 |
-| Players | 4/7 |
+| Players | 5/7 |
 | Host Name | Çħίℓℓ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:07:29 |
@@ -81,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Белый |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:10:44 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28511400562335626 |
-| Players | 3/7 |
-| Host Name | bLdymsscR 𓅁 |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:10:46 |
 
 
