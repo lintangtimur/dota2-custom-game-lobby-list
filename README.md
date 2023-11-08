@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400545244787 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:35:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400545574295 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | ArtoftheStateAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:36:17 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400547311313 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Штрих |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:39:55 |
@@ -77,27 +77,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400547462161 |
-| Players | 1/10 |
+| Players | 8/10 |
 | Host Name | Foxy |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:40:14 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511400547531385 |
+| Players | 1/15 |
+| Host Name | YG |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:40:23 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511400547537401 |
+| Players | 2/15 |
+| Host Name | Vuvuzela Virtuoso Hans Rudolph |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:40:24 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400546915191 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | PapaJohari |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:39:05 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28511400547459780 |
-| Players | 1/7 |
-| Host Name | 2Eget |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:40:14 |
 
 
