@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:23:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511177039823628 |
-| Players | 9/10 |
-| Host Name | Ronin |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:39:54 |
+| Lobby ID | 28511177040746282 |
+| Players | 5/24 |
+| Host Name | Chupete |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:41:57 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177037611036 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Hope |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:35:37 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177039993442 |
-| Players | 13/15 |
-| Host Name | *******life |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:40:16 |
+| Lobby ID | 28511177040961468 |
+| Players | 2/15 |
+| Host Name | patito patito |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:42:28 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177040502745 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | 1709 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:41:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177040917026 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | ya heiter |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:42:22 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177034864654 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | P福特メ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:30:43 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511177040746282 |
-| Players | 5/24 |
-| Host Name | Chupete |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:41:57 |
 
 
 |  | epic_boss_fight_nightmare |
