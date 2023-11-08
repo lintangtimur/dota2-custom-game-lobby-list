@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177044086695 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | 22032 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:50:07 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177043380347 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | граф де Генерат |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:48:22 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177044248963 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | NAYUTA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:50:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511177044254513 |
-| Players | 7/10 |
-| Host Name | Rupicola |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:50:32 |
+| Lobby ID | 28511177044480831 |
+| Players | 9/15 |
+| Host Name | ⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧ |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:51:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,28 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:51:00 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511177044480831 |
-| Players | 5/15 |
-| Host Name | ⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧ |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:51:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177044736259 |
-| Players | 3/8 |
-| Host Name | VAMAMA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:51:42 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511177043241559 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | antuar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:48:01 |
