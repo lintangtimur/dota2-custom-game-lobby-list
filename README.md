@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400482558677 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | R<3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:25:51 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400482476065 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | -Scorpion- |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:25:40 |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 11:26:47 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511400483287065 |
-| Players | 1/15 |
-| Host Name | udyqf |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:27:24 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400481394301 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400481668985 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Minez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:23:59 |
