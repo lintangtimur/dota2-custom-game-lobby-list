@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511177026527887 |
-| Players | 7/8 |
-| Host Name | kagura bachi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:15:25 |
+| Lobby ID | 28511177027256325 |
+| Players | 1/24 |
+| Host Name | DrDisconnect |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:16:50 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177027106747 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | CAMARADA CAPIBARA |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:16:34 |
@@ -76,53 +76,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177026979596 |
+| Lobby ID | 28511177027460116 |
 | Players | 1/8 |
-| Host Name | Ghostrider |
+| Host Name | P-JACK |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:16:19 |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:17:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511177023628682 |
-| Players | 14/15 |
-| Host Name | KuroiBlazr |
+| Lobby ID | 28511177027462851 |
+| Players | 1/10 |
+| Host Name | VOID ESPONJA |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:08:42 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511177023561718 |
-| Players | 22/24 |
-| Host Name | DEMON |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:08:32 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511177024566952 |
-| Players | 23/24 |
-| Host Name | freshejka |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:11:01 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511177027256325 |
-| Players | 2/24 |
-| Host Name | DrDisconnect |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:16:50 |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:17:14 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511177023617699 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Akisha |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:08:40 |
@@ -130,10 +103,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511177023194477 |
-| Players | 9/10 |
-| Host Name | Shinzou wo Sasageyo! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:07:37 |
+| Lobby ID | 28511177027464817 |
+| Players | 2/10 |
+| Host Name | Aight, Bet! |
+| Region | JAPAN |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:17:14 |
 
 
