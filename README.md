@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177062025380 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | DrDisconnect |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:33:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607669615738 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:05:38 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511177064623218 |
-| Players | 10/10 |
-| Host Name | 大大hate myself |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:39:59 |
+| Lobby ID | 28511177065570997 |
+| Players | 3/10 |
+| Host Name | lil monin |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:42:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177065027883 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | D ~ He♥ly |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:40:54 |
@@ -76,10 +76,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511177065570997 |
-| Players | 1/10 |
-| Host Name | lil monin |
+| Lobby ID | 28511177065671150 |
+| Players | 2/10 |
+| Host Name | pust' mama uslisit |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:42:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511177065665226 |
+| Players | 1/8 |
+| Host Name | Danissimus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:42:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511177065681738 |
+| Players | 1/8 |
+| Host Name | DEIGO |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:42:10 |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:42:25 |
 
 
