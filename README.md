@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400465613957 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Aggressive Koala |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:48:57 |
@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400465990445 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | ewyang |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:49:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400465595388 |
-| Players | 22/24 |
-| Host Name | WilifWilofWilai |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:48:55 |
+| Lobby ID | 28511400465591394 |
+| Players | 8/10 |
+| Host Name | Lalabom |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:48:54 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400465770802 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Grumbledorp |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:49:19 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Connor McGee Thor |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:47:14 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511400465591394 |
-| Players | 8/10 |
-| Host Name | Lalabom |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:48:54 |
 
 
 |  | epic_boss_fight_nightmare |
