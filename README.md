@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177064012786 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | MATA CABROS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:38:32 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 06:05:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511177063694869 |
-| Players | 4/8 |
-| Host Name | Разрушитель |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:37:48 |
+| Lobby ID | 28511177064152065 |
+| Players | 3/10 |
+| Host Name | nacko LoaL |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:38:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,27 +104,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177063930872 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | владелец крипов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:38:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511177064133962 |
-| Players | 4/8 |
-| Host Name | Yamil :D |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:38:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511177064152065 |
-| Players | 2/10 |
-| Host Name | nacko LoaL |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:38:52 |
 
 
