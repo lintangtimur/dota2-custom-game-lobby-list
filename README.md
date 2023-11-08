@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177022363455 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | c-tthlya |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:05:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177021625770 |
-| Players | 12/15 |
-| Host Name | КОНТЕНТ ПОДЪЕХАЛ |
+| Lobby ID | 28511177022523450 |
+| Players | 3/8 |
+| Host Name | B I G MAC |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:03:37 |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:05:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177022300291 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Born of a Star |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:05:21 |
@@ -94,11 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177022523450 |
-| Players | 4/8 |
-| Host Name | B I G MAC |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:05:55 |
+| Lobby ID | 28511177022735269 |
+| Players | 1/8 |
+| Host Name | i was better but i fell in love |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:06:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511177021745576 |
+| Players | 7/8 |
+| Host Name | Hope |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:03:55 |
 
 
 |  | epic_boss_fight_nightmare |
