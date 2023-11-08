@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177043466685 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | Bellingham |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:48:35 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511177043189602 |
-| Players | 9/10 |
-| Host Name | miz |
+| Lobby ID | 28511177043866147 |
+| Players | 3/10 |
+| Host Name | владелец крипов |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:47:54 |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:49:34 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177043644441 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | MATA CABROS |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:49:02 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 07:49:13 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511177043725147 |
-| Players | 3/8 |
-| Host Name | MODO SEPSO |
+| Lobby ID | 28511177043871769 |
+| Players | 1/10 |
+| Host Name | alenose |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 07:49:14 |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:49:35 |
 
 
 |  | epic_boss_fight_nightmare |
