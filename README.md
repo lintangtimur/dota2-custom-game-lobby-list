@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 13:45:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511400550456607 |
-| Players | 13/15 |
-| Host Name | Elya |
+| Lobby ID | 28511400552328854 |
+| Players | 1/10 |
+| Host Name | Harvester of death |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:46:37 |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:50:39 |
 
 
 |  | ot3_desert_octet |
@@ -40,10 +40,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400552058319 |
+| Lobby ID | 28511400552300268 |
 | Players | 1/8 |
 | Host Name | _-_ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 13:50:03 |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:50:35 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511400550084116 |
+| Players | 9/10 |
+| Host Name | Maganahi |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 13:45:50 |
 
 
