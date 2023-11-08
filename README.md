@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400473280996 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | LordPingosTINY :v |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:06:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400471206570 |
-| Players | 9/10 |
-| Host Name | Mark Wolf(jabroni here) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:01:23 |
+| Lobby ID | 28511400473241141 |
+| Players | 3/8 |
+| Host Name | AkiKo Annaisha kim Sung |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:06:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400472998680 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | :3 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:05:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400472980059 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | zzz |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:05:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400472791021 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Pistachio Gelato |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:05:00 |
@@ -76,11 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400473241141 |
-| Players | 1/8 |
-| Host Name | AkiKo Annaisha kim Sung |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:06:01 |
+| Lobby ID | 28511400471862279 |
+| Players | 7/8 |
+| Host Name | SSS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:02:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511400473341021 |
+| Players | 2/15 |
+| Host Name | AMOK ¯\_(ツ)_/¯ |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:06:14 |
 
 
 |  | epic_boss_fight_nightmare |
