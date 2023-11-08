@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177059812219 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:28:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28509607669615738 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 06:05:38 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 08:31:13 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177061513849 |
-| Players | 13/15 |
-| Host Name | giordota.com.Christian |
+| Lobby ID | 28511177061702227 |
+| Players | 4/8 |
+| Host Name | juaneto mamane QUESPEE |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 08:32:40 |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:33:07 |
 
 
 |  | ot3_desert_octet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177061823393 |
-| Players | 6/24 |
+| Players | 11/24 |
 | Host Name | PATITO NICHAN |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:33:24 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177061891641 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | CAMILA :3 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:33:34 |
@@ -137,12 +137,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 08:33:52 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511177062054412 |
+| Players | 3/10 |
+| Host Name | Run Yo Pockets |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:33:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511177062104405 |
+| Players | 4/15 |
+| Host Name | Pola |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:34:04 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511177057144211 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Booberries |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:22:16 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511177062116541 |
+| Players | 1/5 |
+| Host Name | Dra-ta-ta |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:34:05 |
 
 
