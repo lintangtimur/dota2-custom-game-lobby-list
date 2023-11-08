@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400452661376 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Fox |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:21:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400452843360 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | ARi |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:21:32 |
@@ -67,18 +67,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400453261294 |
-| Players | 1/15 |
-| Host Name | Professionalkiller |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:22:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28511400453278304 |
-| Players | 1/15 |
-| Host Name | bussygrip |
+| Players | 2/15 |
+| Host Name | Кредит на Бэбика |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:22:26 |
 
