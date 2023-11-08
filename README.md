@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400559812768 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Cptn.Canuck |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:05:46 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400561029136 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ilyushenka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:08:08 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 14:06:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400560974158 |
-| Players | 11/15 |
-| Host Name | Elya |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:08:01 |
+| Lobby ID | 28511400561417186 |
+| Players | 5/8 |
+| Host Name | I only think about sex |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 14:08:55 |
 
 
 |  | ot3_desert_octet |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Salival |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:08:48 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511400561417186 |
-| Players | 5/8 |
-| Host Name | I only think about sex |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:08:55 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,18 +68,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28511400560707803 |
-| Players | 4/7 |
+| Players | 5/7 |
 | Host Name | Çħίℓℓ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 14:07:29 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511400560940739 |
-| Players | 1/10 |
-| Host Name | Белый |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 14:07:57 |
 
 
