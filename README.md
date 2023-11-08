@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400481546746 |
-| Players | 6/8 |
-| Host Name | benitocamitroncote |
+| Lobby ID | 28511400482105451 |
+| Players | 1/15 |
+| Host Name | shin chopa |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:23:44 |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:24:53 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400479201500 |
-| Players | 1/10 |
+| Players | 9/10 |
 | Host Name | SUN ♥ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:18:47 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400481902513 |
-| Players | 1/24 |
+| Players | 5/24 |
 | Host Name | Fanss |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:24:28 |
@@ -36,15 +36,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BROOKLYN T GUY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:11:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511400479232734 |
-| Players | 8/10 |
-| Host Name | El inge pepe |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:18:51 |
 
 
 |  | epic_boss_fight_nightmare |
