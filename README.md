@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177048337548 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | Mococo Player |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:00:41 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177047631652 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Solo Leveling |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:58:54 |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PABLITO |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:01:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511177048609863 |
+| Players | 1/15 |
+| Host Name | merme |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 08:01:22 |
 
 
