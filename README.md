@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400547068938 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | Tilapia com Aids |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:39:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400550136014 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Сигма |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:45:56 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400549020718 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Black Purple |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:43:33 |
