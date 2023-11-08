@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400500139142 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Meowracle- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:01:55 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400500445574 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Cris1st |
 | Region | CHILE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:02:32 |
@@ -49,29 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400499855333 |
-| Players | 5/8 |
-| Host Name | Drakalian the Dragon King |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:01:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511400500229392 |
+| Lobby ID | 28511400501353661 |
 | Players | 1/8 |
 | Host Name | SodaZ |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:02:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511400500719612 |
-| Players | 8/24 |
-| Host Name | Theuza |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:03:05 |
+| Region | DUBAI |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:04:20 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 12:04:02 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511400496998590 |
-| Players | 9/10 |
-| Host Name | Wultah Why |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:55:41 |
+| Lobby ID | 28511400500719612 |
+| Players | 8/24 |
+| Host Name | Theuza |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:03:05 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400500727534 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | BolaBola_Debo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:03:06 |
