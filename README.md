@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400487181218 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | EJ-Smill3 |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:35:46 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400485481166 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Bonitos y gorditos hijos de puta |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:32:07 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400486376083 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 【﻿DESpAIR】 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:34:03 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400484258704 |
-| Players | 1/24 |
-| Host Name | Platinum |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:29:26 |
+| Lobby ID | 28511400487164428 |
+| Players | 4/15 |
+| Host Name | Sliyver |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:35:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MAS |
 | Region | BRAZIL |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:36:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511400487164428 |
-| Players | 2/15 |
-| Host Name | Sliyver |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:35:44 |
 
 
 |  | epic_boss_fight_nightmare |
