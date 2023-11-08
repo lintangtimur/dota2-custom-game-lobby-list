@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Wednesday, November 8, 2023 11:55:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511400498661888 |
-| Players | 1/15 |
-| Host Name | Moonlight |
+| Lobby ID | 28511400498611440 |
+| Players | 11/24 |
+| Host Name | ? |
 | Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:58:57 |
+| Lobby Creation Time | Wednesday, November 8, 2023 11:58:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,34 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400498368864 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | ○Banny▼♀♦♣♥☼ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:58:22 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511400498611440 |
-| Players | 11/24 |
-| Host Name | ? |
-| Region | PERU |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:58:51 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511400499123704 |
-| Players | 7/10 |
-| Host Name | Splinter |
-| Region | BRAZIL |
-| Lobby Creation Time | Wednesday, November 8, 2023 11:59:52 |
+| Lobby ID | 28511400499293292 |
+| Players | 1/15 |
+| Host Name | Moonlight |
+| Region | CHILE |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:00:12 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400496998590 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Wultah Why |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:55:41 |
@@ -95,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400498212957 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Yusei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 11:58:04 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511400499197709 |
-| Players | 1/5 |
-| Host Name | ☼♠♂♣♀☼ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 12:00:01 |
 
 
