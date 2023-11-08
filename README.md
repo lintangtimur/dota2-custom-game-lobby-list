@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400529228567 |
-| Players | 5/8 |
-| Host Name | .epic. |
+| Players | 4/8 |
+| Host Name | money dealer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:01:12 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400527258868 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Willy |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:57:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400528580983 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | 初音真爱粉 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:59:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400529133145 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | ♛ Azhik#p4p ♛ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 13:00:59 |
