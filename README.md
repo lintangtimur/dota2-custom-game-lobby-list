@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177080983865 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Lanza iamas |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:18:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511177072227140 |
-| Players | 15/24 |
+| Players | 14/24 |
 | Host Name | Blue Haze |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 08:57:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177080814440 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Ｓｏｈｅｅ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:18:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177080676583 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Nevalyashka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:17:45 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | q rico aprieta tu germa mano |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:11:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511177081159824 |
+| Players | 1/15 |
+| Host Name | Ninja Pirate |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:18:53 |
 
 
