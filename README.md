@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177022300291 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Born of a Star |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:05:21 |
@@ -104,10 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511177023331123 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Viola Ray |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:07:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511177023364187 |
+| Players | 1/10 |
+| Host Name | jhon xina |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:08:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Shinzou wo Sasageyo! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 07:07:37 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511177023408561 |
+| Players | 1/10 |
+| Host Name | Хозяюшка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 07:08:09 |
 
 
