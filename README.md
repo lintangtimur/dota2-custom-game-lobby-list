@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177075789608 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Кредит на Бэбика |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:06:18 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511177076139800 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | asdasd ☻ |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:07:08 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177076154931 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | maria.alexandra |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:07:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511177076156082 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Leemo |
 | Region | USEAST |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:07:10 |
@@ -94,37 +94,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511177076270085 |
-| Players | 1/8 |
+| Lobby ID | 28511177076319018 |
+| Players | 2/8 |
+| Host Name | tilin insano |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:07:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511177076348971 |
+| Players | 2/8 |
 | Host Name | Niserzh |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:07:26 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511177075059161 |
-| Players | 1/5 |
-| Host Name | Falow_Cat |
-| Region | JAPAN |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:04:33 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511177075240597 |
-| Players | 2/10 |
-| Host Name | SilVer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Wednesday, November 8, 2023 09:04:59 |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:07:37 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511177075358510 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | PUSSY SLAYER |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 09:05:16 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511177075240597 |
+| Players | 3/10 |
+| Host Name | SilVer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Wednesday, November 8, 2023 09:04:59 |
 
 
