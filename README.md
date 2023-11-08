@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400458359416 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Inca Garcilaso de la beba |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:33:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400458498431 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | javifre4K |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:33:35 |
@@ -59,25 +59,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511400459623786 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | МишкаПокРыЖка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:36:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511400457746170 |
-| Players | 13/15 |
-| Host Name | MODE ISSASHOW |
-| Region | USEAST |
-| Lobby Creation Time | Wednesday, November 8, 2023 10:31:55 |
+| Lobby ID | 28511400459644661 |
+| Players | 6/8 |
+| Host Name | La caca que mata |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:36:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511400457805431 |
+| Players | 9/10 |
+| Host Name | ART |
+| Region | PERU |
+| Lobby Creation Time | Wednesday, November 8, 2023 10:32:03 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511400459190131 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Minez |
 | Region | SINGAPORE |
 | Lobby Creation Time | Wednesday, November 8, 2023 10:35:06 |
