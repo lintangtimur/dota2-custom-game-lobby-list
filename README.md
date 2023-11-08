@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511400527412475 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | AnGlz__Strike |
 | Region | PERU |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:57:21 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511400526694301 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Error.On.Fire.xD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:55:55 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400527189171 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | ? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:56:55 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511400527258868 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Yes Chef! |
 | Region | USWEST |
 | Lobby Creation Time | Wednesday, November 8, 2023 12:57:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511400527832961 |
+| Players | 1/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Wednesday, November 8, 2023 12:58:14 |
 
 
 |  | epic_boss_fight_nightmare |
