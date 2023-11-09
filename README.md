@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401701980844 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | BigBillzGetPaid |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 13:29:36 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401702738802 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Change the World |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:30:55 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401702738537 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | =f |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:30:55 |
@@ -128,21 +128,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 13:23:19 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511401702871963 |
-| Players | 1/5 |
-| Host Name | aezakmi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 13:31:08 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511401702874132 |
-| Players | 2/10 |
+| Lobby ID | 28511401702953471 |
+| Players | 1/10 |
 | Host Name | twitch.tv/arashwoo1 |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 13:31:09 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 13:31:17 |
 
 
