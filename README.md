@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402281229879 |
+| Lobby ID | 28511402284371606 |
 | Players | 3/10 |
-| Host Name | 永遠- |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 22:16:08 |
+| Host Name | Boush |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 22:18:06 |
 
 
 |  | ot3_desert_octet |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402284097146 |
-| Players | 6/8 |
-| Host Name | A8stern |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 22:17:56 |
+| Lobby ID | 28511402250840048 |
+| Players | 5/8 |
+| Host Name | Be Donbale Donbe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 21:57:12 |
 
 
 |  | ot3_desert_octet |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402262495690 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Sm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 22:04:24 |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402253911265 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Miselaniuz |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 21:59:05 |
@@ -167,19 +167,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402283928430 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | администратор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 22:17:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402282830674 |
-| Players | 13/15 |
-| Host Name | King |
+| Lobby ID | 28511402284340342 |
+| Players | 1/10 |
+| Host Name | Kisi Kattarson |
 | Region | EUROPE |
-| Lobby Creation Time | Thursday, November 9, 2023 22:17:08 |
+| Lobby Creation Time | Thursday, November 9, 2023 22:18:05 |
 
 
 |  | ot3_necropolis_ffa |
@@ -191,22 +191,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 22:17:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402284292547 |
-| Players | 1/10 |
-| Host Name | ⓞⓡⓑⓞⓡ |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 22:18:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402284340342 |
-| Players | 1/10 |
-| Host Name | Kisi Kattarson |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 9, 2023 22:18:05 |
+| Lobby ID | 28511402280040294 |
+| Players | 13/15 |
+| Host Name | Хуеземлетряс |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 22:15:24 |
 
 
 |  | epic_boss_fight_normal |
@@ -220,17 +211,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511402283285293 |
+| Lobby ID | 28511402284034468 |
 | Players | 1/10 |
-| Host Name | 9527 |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 22:17:26 |
+| Host Name | OID |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 22:17:54 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402283363673 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | #PRO.NOOB |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 9, 2023 22:17:29 |
@@ -252,14 +243,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | `QweX |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 9, 2023 22:17:52 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511402284034468 |
-| Players | 1/10 |
-| Host Name | OID |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 22:17:54 |
 
 
