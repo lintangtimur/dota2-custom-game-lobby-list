@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401598813494 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | E X f i r e |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 10:09:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401598283296 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | onaraicad |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 10:08:16 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401599700992 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Карапучело |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 10:11:25 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401599930753 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 0,1% |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 10:11:55 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401600325896 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | SUN ♥ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 10:12:47 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401600233379 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Br0ker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 10:12:35 |
@@ -117,5 +117,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Datedi |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 10:12:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401600455267 |
+| Players | 1/8 |
+| Host Name | amigo de Chutor |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 10:13:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401600519939 |
+| Players | 1/8 |
+| Host Name | Scrayl |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 10:13:13 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401597650641 |
+| Players | 9/10 |
+| Host Name | Yusei |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 10:06:52 |
 
 
