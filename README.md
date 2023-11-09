@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401622108524 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | hi |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 9, 2023 11:00:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401621789824 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | CURSE |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 10:59:33 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 10:37:20 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401621990552 |
-| Players | 13/15 |
-| Host Name | Aggressive Koala |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 10:59:59 |
+| Lobby ID | 28511401622403251 |
+| Players | 3/10 |
+| Host Name | Карапучело |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 11:00:57 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401622153750 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Prime говядина" |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 11:00:23 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Shooting Star |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 10:51:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401622403251 |
-| Players | 1/10 |
-| Host Name | Карапучело |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 11:00:57 |
 
 
 |  | epic_boss_fight_nightmare |
