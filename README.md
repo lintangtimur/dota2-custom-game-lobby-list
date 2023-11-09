@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401588604869 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Синий трактор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 09:45:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401588265116 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Datedi |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 09:45:07 |
@@ -85,24 +85,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401587883359 |
-| Players | 14/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 09:44:14 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401584823934 |
-| Players | 14/15 |
-| Host Name | DobleZ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 09:37:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28511401588561433 |
 | Players | 3/15 |
 | Host Name | Mortred |
@@ -110,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 09:45:48 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401588686462 |
-| Players | 1/24 |
-| Host Name | Polar |
+| Lobby ID | 28511401588777004 |
+| Players | 1/8 |
+| Host Name | BigBlackCock |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 09:46:06 |
+| Lobby Creation Time | Thursday, November 9, 2023 09:46:19 |
 
 
 |  | epic_boss_fight_nightmare |
