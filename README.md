@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401783727753 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | chill doto |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 15:33:36 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401766253675 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | TALIH |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 9, 2023 15:08:49 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401784987281 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Dota 2 Groomologist |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 9, 2023 15:35:21 |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401785472607 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | GEORGIY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 15:36:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401785668705 |
+| Players | 3/8 |
+| Host Name | gawkdeave |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 15:36:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -74,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 15:29:43 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511401784198756 |
-| Players | 1/5 |
-| Host Name | На_Опыте |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 15:34:15 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401785205907 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | .!. (-_-) .!. |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 15:35:39 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401786086018 |
+| Players | 1/5 |
+| Host Name | kukuruku |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 15:36:52 |
 
 
