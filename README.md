@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 16:19:21 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401815148286 |
-| Players | 23/24 |
-| Host Name | Who Telled You? |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 16:17:06 |
+| Lobby ID | 28511401817960814 |
+| Players | 1/10 |
+| Host Name | Alison Burgers |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 16:21:05 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401689057264 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | DotaPlayer1 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 9, 2023 13:05:53 |
@@ -56,31 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 16:19:37 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401817366732 |
-| Players | 12/15 |
-| Host Name | dooMix |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 16:20:15 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401817735754 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | GEORGIY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 16:20:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401817960814 |
-| Players | 1/10 |
-| Host Name | Alison Burgers |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 16:21:05 |
+| Lobby ID | 28511401818101515 |
+| Players | 1/15 |
+| Host Name | Mentos |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 9, 2023 16:21:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401817107169 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Moon Moon |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 16:19:52 |
