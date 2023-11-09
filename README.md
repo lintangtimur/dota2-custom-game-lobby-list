@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401696247904 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | < blank > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:19:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401745623607 |
-| Players | 14/15 |
-| Host Name | nattyboons |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 14:38:51 |
+| Lobby ID | 28511401746297755 |
+| Players | 4/8 |
+| Host Name | GRINGo |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 9, 2023 14:39:50 |
 
 
 |  | ot3_desert_octet |
@@ -56,28 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 14:39:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401746297755 |
-| Players | 2/8 |
-| Host Name | GRINGo |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 14:39:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401747158103 |
-| Players | 4/8 |
-| Host Name | eclipse |
+| Lobby ID | 28511401747270008 |
+| Players | 1/15 |
+| Host Name | BestFriendoooo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 14:41:03 |
+| Lobby Creation Time | Thursday, November 9, 2023 14:41:13 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401746380066 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Yusei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 14:39:57 |
