@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 18:44:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401949888393 |
-| Players | 3/15 |
-| Host Name | DodjIro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:44:45 |
+| Lobby ID | 28511401951486403 |
+| Players | 3/8 |
+| Host Name | квас секс эскорт |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 18:46:03 |
 
 
 |  | ot3_desert_octet |
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 18:23:06 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401939900954 |
-| Players | 9/10 |
-| Host Name | Denji |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:36:38 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401943468042 |
@@ -83,6 +74,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 18:39:33 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401947640042 |
+| Players | 3/8 |
+| Host Name | ) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 18:42:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401951512125 |
+| Players | 1/15 |
+| Host Name | ВЕНТЕЛЯТОР |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 18:46:04 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401949055197 |
@@ -90,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WhyBaby? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:44:05 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511401951075963 |
-| Players | 2/5 |
-| Host Name | )))))) |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 18:45:43 |
 
 
