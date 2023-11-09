@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401640224302 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | xJw |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 11:35:51 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401641222500 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | 想一起玩de请删好友 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 11:37:42 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401638847227 |
-| Players | 1/24 |
-| Host Name | H1RO |
+| Lobby ID | 28511401641642791 |
+| Players | 3/15 |
+| Host Name | man |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 11:33:18 |
+| Lobby Creation Time | Thursday, November 9, 2023 11:38:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401640268162 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Тайлер Дырдырчик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 11:35:56 |
@@ -77,37 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401641094296 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | Meredith |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 11:37:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401641143231 |
-| Players | 1/15 |
-| Host Name | man |
+| Lobby ID | 28511401641498424 |
+| Players | 5/10 |
+| Host Name | dead blonde |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 11:37:34 |
+| Lobby Creation Time | Thursday, November 9, 2023 11:38:13 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401641452887 |
 | Players | 2/10 |
-| Host Name | 不怕慢, 就怕停 |
+| Host Name | Andr3 |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 9, 2023 11:38:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401641498424 |
-| Players | 1/10 |
-| Host Name | dead blonde |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 11:38:13 |
 
 
 |  | epic_boss_fight_nightmare |
