@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401520618596 |
-| Players | 18/24 |
-| Host Name | Fn+F12 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 07:02:03 |
+| Lobby ID | 28511401522496271 |
+| Players | 5/8 |
+| Host Name | Pereverten |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 07:06:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,46 +32,73 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401522611416 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Itadori |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 07:07:12 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401522322950 |
-| Players | 12/15 |
-| Host Name | ♣Deqxd♠ |
+| Lobby ID | 28511401522868905 |
+| Players | 3/24 |
+| Host Name | 1223 |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 07:06:28 |
+| Lobby Creation Time | Thursday, November 9, 2023 07:07:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401522168896 |
-| Players | 13/15 |
-| Host Name | PIZDYK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 07:06:04 |
+| Lobby ID | 28511401522816536 |
+| Players | 1/24 |
+| Host Name | ◢◤BRANDOG◢◤ |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 9, 2023 07:07:44 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401522425758 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | CID Moosa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 07:06:44 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511401522718401 |
+| Players | 1/24 |
+| Host Name | ♡Lina-chan♡ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 07:07:29 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401522496271 |
+| Lobby ID | 28511401522727859 |
 | Players | 2/8 |
-| Host Name | Pereverten |
+| Host Name | Timber Player |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 07:07:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401522888658 |
+| Players | 1/10 |
+| Host Name | EviL |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 07:06:55 |
+| Lobby Creation Time | Thursday, November 9, 2023 07:07:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401522909819 |
+| Players | 3/8 |
+| Host Name | YourMistake |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 07:07:58 |
 
 
 |  | epic_boss_fight_nightmare |
