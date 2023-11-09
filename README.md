@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401624544378 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Witchblade(маленький) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 11:05:40 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401475042545 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Пудж жаж кринж жадж мЯсо) |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 05:24:11 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401623524712 |
-| Players | 23/24 |
-| Host Name | M a u u |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 11:03:27 |
+| Lobby ID | 28511401626209908 |
+| Players | 3/24 |
+| Host Name | 暴走的小喵 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 11:09:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401624626953 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | , |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 11:05:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401611577960 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | :)) |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 9, 2023 10:37:20 |
@@ -92,31 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 11:06:49 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401624978378 |
-| Players | 8/10 |
-| Host Name | XCLARAX |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 11:06:36 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401625693001 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | Datedi |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 11:08:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511401626209908 |
-| Players | 1/24 |
-| Host Name | 暴走的小喵 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 11:09:12 |
 
 
 |  | epic_boss_fight_nightmare |
