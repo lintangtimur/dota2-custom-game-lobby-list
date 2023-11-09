@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 15:08:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402021475225 |
-| Players | 13/15 |
-| Host Name | Padre |
+| Lobby ID | 28511402067330432 |
+| Players | 1/8 |
+| Host Name | sadzaya |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 19:36:59 |
+| Lobby Creation Time | Thursday, November 9, 2023 20:07:05 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402042278481 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | pweyy |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 19:50:47 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402066109163 |
-| Players | 6/8 |
-| Host Name | bot |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 9, 2023 20:06:18 |
+| Lobby ID | 28511402067319924 |
+| Players | 4/8 |
+| Host Name | Wentonic |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 20:07:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402058182973 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | FeeZy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 20:01:11 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402066599714 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Failure |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 20:06:37 |
@@ -119,21 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 20:06:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511402067319924 |
-| Players | 4/8 |
-| Host Name | Wentonic |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 20:07:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511402067330432 |
-| Players | 1/8 |
-| Host Name | sadzaya |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 20:07:05 |
+| Lobby ID | 28511402067487031 |
+| Players | 2/10 |
+| Host Name | Darling... |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 20:07:11 |
 
 
