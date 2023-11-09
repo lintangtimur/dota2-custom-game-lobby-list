@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401808641824 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | QuaD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 16:08:02 |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 16:04:13 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401808821438 |
-| Players | 1/15 |
-| Host Name | ( ＾◡＾)っ✂ SNIP SNIP |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 9, 2023 16:08:17 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401809245044 |
@@ -74,13 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 16:08:52 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401809180580 |
-| Players | 1/5 |
-| Host Name | depre??ed |
+| Lobby ID | 28511401809433016 |
+| Players | 2/8 |
+| Host Name | Куратор Кракен |
 | Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 16:08:47 |
+| Lobby Creation Time | Thursday, November 9, 2023 16:09:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401809453567 |
+| Players | 2/10 |
+| Host Name | -RocknRollaLev- |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 16:09:10 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401808720187 |
+| Players | 1/10 |
+| Host Name | クリシャ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 16:08:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -101,12 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 15:39:07 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28511401808720187 |
-| Players | 1/10 |
-| Host Name | クリシャ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 16:08:08 |
+| Lobby ID | 28511401809456289 |
+| Players | 1/5 |
+| Host Name | Thara Frog |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 16:09:10 |
 
 
