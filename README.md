@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401626956500 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Кредит на Бэбика |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 11:10:41 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401625342823 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | ルナ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 11:07:23 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401626209908 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 暴走的小喵 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 11:09:12 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401625157448 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | Soy El Corazon De Las Tinieblas |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 9, 2023 11:06:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401611577960 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | MARKTWAINALANPOGEORELLIOTROBRTBR |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 9, 2023 10:37:20 |
