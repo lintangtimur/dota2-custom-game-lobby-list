@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401657612696 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Tờ Ri |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 12:07:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401658386995 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Toxic |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 12:09:10 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 12:08:26 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401658902687 |
-| Players | 1/24 |
-| Host Name | 游戏蝗虫农师傅 |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 12:10:07 |
+| Lobby ID | 28511401658911951 |
+| Players | 2/15 |
+| Host Name | Dota 2 Groomologist |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 12:10:08 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401658894752 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Dragon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 12:10:07 |
