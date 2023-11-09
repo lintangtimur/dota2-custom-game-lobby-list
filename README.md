@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401716687888 |
-| Players | 23/24 |
-| Host Name | WEED |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 13:53:54 |
+| Lobby ID | 28511401719130591 |
+| Players | 10/15 |
+| Host Name | Я конченый беги |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 13:57:49 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 13:58:15 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401719130591 |
-| Players | 10/15 |
-| Host Name | Я конченый беги |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 13:57:49 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28511401720978356 |
@@ -86,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401721081517 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | BadMove |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 14:00:57 |
