@@ -83,3 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 12:29:39 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401670453326 |
+| Players | 1/5 |
+| Host Name | Fueron 8753 |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 9, 2023 12:31:20 |
+
+
