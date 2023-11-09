@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401636577412 |
-| Players | 12/24 |
+| Players | 20/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 11:29:00 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401638613090 |
-| Players | 2/10 |
-| Host Name | bajando pepapig |
+| Players | 3/10 |
+| Host Name | LeonN |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 11:32:52 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401638435234 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | nya arigato |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 11:32:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401638154586 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Кредит на Бэбика |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 11:32:00 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401638229177 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | Goodbye Bystander |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 11:32:09 |
@@ -59,18 +59,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401638363541 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | coldichip(`з´) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 11:32:24 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401638883944 |
+| Players | 6/10 |
+| Host Name | dead blonde |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 11:33:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401638818767 |
+| Players | 3/15 |
+| Host Name | Datedi |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 11:33:15 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511401638847227 |
+| Players | 1/24 |
+| Host Name | H1RO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 11:33:18 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401638515557 |
-| Players | 6/8 |
-| Host Name | STOICIMS |
+| Lobby ID | 28511401638963372 |
+| Players | 2/8 |
+| Host Name | Celedonio me lo llamo |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 11:32:41 |
+| Lobby Creation Time | Thursday, November 9, 2023 11:33:31 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511401639141264 |
+| Players | 3/24 |
+| Host Name | EL MOCHILERO PIUPIU |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 11:33:50 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401638941065 |
+| Players | 1/5 |
+| Host Name | Mansanjiro |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 11:33:28 |
 
 
