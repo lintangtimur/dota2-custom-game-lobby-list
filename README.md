@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401689057264 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | DotaPlayer1 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 9, 2023 13:05:53 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401766253675 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | \/\/ay[oi.oi] |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 9, 2023 15:08:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401771247509 |
-| Players | 1/8 |
-| Host Name | Wisdom will eventually be lost |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 15:16:03 |
+| Lobby ID | 28511401770806045 |
+| Players | 10/24 |
+| Host Name | 9527 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 15:15:24 |
 
 
 |  | ot3_gardens_duo |
@@ -65,13 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 15:13:18 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401770806045 |
-| Players | 6/24 |
-| Host Name | 9527 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 15:15:24 |
+| Lobby ID | 28511401771359814 |
+| Players | 2/15 |
+| Host Name | HARRY MAGUIRE |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 15:16:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401771381036 |
+| Players | 1/8 |
+| Host Name | rayan gosling |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 15:16:15 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | GG |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 15:16:02 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401771384050 |
+| Players | 1/10 |
+| Host Name | cant talk with animals |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 15:16:15 |
 
 
