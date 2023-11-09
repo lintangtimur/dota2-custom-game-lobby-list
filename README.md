@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401783727753 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | chill doto |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 15:33:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401696247904 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | < blank > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:19:21 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401784987281 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Dota 2 Groomologist |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 9, 2023 15:35:21 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401785472607 |
-| Players | 9/10 |
-| Host Name | GEORGIY |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 15:36:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -72,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | gawkdeave |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 15:36:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401786215519 |
+| Players | 4/8 |
+| Host Name | ouxish |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 9, 2023 15:37:03 |
 
 
 |  | epic_boss_fight_nightmare |
