@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401579102536 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Hip Hop Anonymous |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 09:23:38 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 09:19:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401579055141 |
-| Players | 1/15 |
-| Host Name | 安魂曲?! |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 09:23:31 |
+| Lobby ID | 28511401579285709 |
+| Players | 1/24 |
+| Host Name | DakTeR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 09:24:03 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401579058299 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | inst all mute |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 09:23:32 |
@@ -83,31 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 09:22:04 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511401579204955 |
-| Players | 1/24 |
-| Host Name | DakTeR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 09:23:52 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401577735950 |
-| Players | 14/15 |
-| Host Name | Rover |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 09:20:29 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401579217308 |
+| Lobby ID | 28511401579278561 |
 | Players | 1/15 |
-| Host Name | Kirtaph |
+| Host Name | Rain |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 09:23:54 |
+| Lobby Creation Time | Thursday, November 9, 2023 09:24:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401579312644 |
+| Players | 1/8 |
+| Host Name | MENOL LE LA |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 09:24:07 |
 
 
 |  | epic_boss_fight_nightmare |
