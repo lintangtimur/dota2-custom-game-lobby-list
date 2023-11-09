@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401696247904 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | < blank > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:19:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401788617687 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 20dozmefedrona |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 15:40:22 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401794055067 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | seizures |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 15:48:00 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401779171121 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | xJw |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 15:27:18 |
@@ -92,21 +92,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 15:48:06 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401794167952 |
+| Players | 1/8 |
+| Host Name | ебу |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 15:48:09 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401793950207 |
-| Players | 5/10 |
-| Host Name | Aurora |
+| Players | 8/10 |
+| Host Name | [P.F.L.] - qwerki |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 15:47:51 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28511401794112149 |
-| Players | 1/10 |
-| Host Name | Skills in Pills |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 15:48:04 |
+| Lobby ID | 28511401794226031 |
+| Players | 1/5 |
+| Host Name | Кабяков |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 15:48:14 |
 
 
