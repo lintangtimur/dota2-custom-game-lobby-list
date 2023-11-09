@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 13:19:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401716646639 |
-| Players | 9/10 |
-| Host Name | cupido |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 13:53:50 |
+| Lobby ID | 28511401719219455 |
+| Players | 1/24 |
+| Host Name | TheBlueJTattoo |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 13:57:57 |
 
 
 |  | ot3_desert_octet |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 13:57:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401719219455 |
-| Players | 1/24 |
-| Host Name | TheBlueJTattoo |
+| Lobby ID | 28511401719349622 |
+| Players | 1/10 |
+| Host Name | AMATERASU |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 13:57:57 |
+| Lobby Creation Time | Thursday, November 9, 2023 13:58:10 |
 
 
 |  | epic_boss_fight_nightmare |
