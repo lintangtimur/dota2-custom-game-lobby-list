@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401612428986 |
+| Lobby ID | 28511401609899121 |
 | Players | 23/24 |
-| Host Name | ^^!¬¬ (Si cancila) |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 10:39:10 |
+| Host Name | SahyuniiツN♥ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 10:33:40 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401475042545 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Пудж жаж кринж жадж мЯсо) |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 05:24:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401614254302 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Херасмент |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 10:43:08 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401614189347 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Euphoria前景 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 10:42:59 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401614715164 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | LeGenD |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 10:44:08 |
@@ -113,28 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401615152632 |
-| Players | 9/10 |
+| Players | 6/10 |
 | Host Name | Grimcharm |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 10:45:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401615173573 |
-| Players | 4/8 |
-| Host Name | LE PUMBE |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 10:45:08 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511401609899121 |
-| Players | 23/24 |
-| Host Name | SahyuniiツN♥ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 10:33:40 |
 
 
 |  | epic_boss_fight_normal |
