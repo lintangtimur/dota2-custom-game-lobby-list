@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401453701976 |
-| Players | 7/24 |
+| Players | 5/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 04:44:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401523906292 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | POSEIDON MAMADO:v |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 07:10:31 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401522940248 |
-| Players | 14/15 |
-| Host Name | CBK15 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 07:08:02 |
+| Lobby ID | 28511401524084392 |
+| Players | 2/15 |
+| Host Name | dzqdavid |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 07:10:58 |
 
 
 |  | ot3_desert_octet |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511401519198058 |
-| Players | 1/10 |
-| Host Name | KING  CRIMSON |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 06:58:28 |
+| Lobby ID | 28511401521950878 |
+| Players | 3/10 |
+| Host Name | 76561198243541804 |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 07:05:30 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Akisha |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 9, 2023 07:04:59 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511401521950878 |
-| Players | 2/10 |
-| Host Name | 76561198243541804 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 07:05:30 |
 
 
