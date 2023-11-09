@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401660921997 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | [♂+♂=♥]6LyaDuKtoR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 12:13:47 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401659859679 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | 9527 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 12:11:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401660683579 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Osscyla |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 12:13:23 |
@@ -74,6 +74,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 12:11:40 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511401662095073 |
+| Players | 1/24 |
+| Host Name | PRISIONERO LINDO LINDO |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 12:15:55 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401662123282 |
+| Players | 3/15 |
+| Host Name | Novox black |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 12:15:59 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401620590982 |
@@ -90,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Praise the Sun! |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 9, 2023 12:15:49 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511401662093685 |
-| Players | 1/10 |
-| Host Name | TH |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 9, 2023 12:15:55 |
 
 
