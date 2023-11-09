@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402098988589 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Coane KnneS |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 20:26:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402139494960 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | :scythephόriâ 力 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 20:50:42 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 20:51:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402122763527 |
-| Players | 1/15 |
-| Host Name | Kuyac |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 20:40:36 |
+| Lobby ID | 28511402141802307 |
+| Players | 2/24 |
+| Host Name | chill doto |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 20:52:05 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402138302702 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | N O R B Я Ь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 20:49:59 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402141353425 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | ! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 20:51:49 |
@@ -128,24 +128,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 20:51:15 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511402118133620 |
-| Players | 1/8 |
-| Host Name | ㅿ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 20:37:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402138480152 |
-| Players | 6/10 |
-| Host Name | NeUkiN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 20:50:05 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402141505940 |
@@ -153,6 +135,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | мерзость |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 20:51:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511402138480152 |
+| Players | 8/10 |
+| Host Name | NeUkiN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 20:50:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -167,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402136638675 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Digez--- |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 20:48:59 |
@@ -176,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28511402140177385 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | Eliax |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 20:51:06 |
@@ -185,18 +176,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28511402140731924 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | 英勇无比的杨沈仪选手 |
 | Region | Unknown |
 | Lobby Creation Time | Thursday, November 9, 2023 20:51:27 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28511402141498696 |
-| Players | 1/10 |
-| Host Name | twitch.tv/arashwoo1 |
-| Region | INDIA |
-| Lobby Creation Time | Thursday, November 9, 2023 20:51:54 |
+| Lobby ID | 28511402141967666 |
+| Players | 1/7 |
+| Host Name | 勤学苦练。 |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 20:52:11 |
 
 
