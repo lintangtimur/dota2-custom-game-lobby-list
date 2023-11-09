@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 05:24:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401605807859 |
-| Players | 5/8 |
-| Host Name | ÑengoFlow KLK |
+| Lobby ID | 28511401607109760 |
+| Players | 8/10 |
+| Host Name | 霊 |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 10:24:45 |
+| Lobby Creation Time | Thursday, November 9, 2023 10:27:34 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401604893798 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | mr. лес до 30 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 10:22:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401605421223 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Queberox |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 10:23:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401606786673 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | xooos ☛☚ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 10:26:52 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401607109760 |
-| Players | 6/10 |
-| Host Name | 霊 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 10:27:34 |
+| Lobby ID | 28511401607418317 |
+| Players | 1/10 |
+| Host Name | 0,1% |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 10:28:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -85,17 +85,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511401605666990 |
-| Players | 7/10 |
-| Host Name | Chen |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 10:24:27 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28511401604738305 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Gabimaru |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 10:22:26 |
