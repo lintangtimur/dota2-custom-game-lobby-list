@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401827881408 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | TheRealBubmels |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 16:35:28 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401831866307 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | [KFC] Yamori apathy.. run |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 16:41:06 |
@@ -63,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Who Telled You? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 16:42:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401833197566 |
+| Players | 2/8 |
+| Host Name | simple |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 9, 2023 16:42:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401833260155 |
+| Players | 1/10 |
+| Host Name | Dr. Strange where rampage |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 16:43:03 |
 
 
 |  | epic_boss_fight_nightmare |
