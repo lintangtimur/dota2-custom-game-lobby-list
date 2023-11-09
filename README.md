@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401808641824 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | QuaD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 16:08:02 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401805870886 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | God save the King |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 16:04:13 |
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 16:08:52 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401809433016 |
-| Players | 2/8 |
-| Host Name | Куратор Кракен |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 16:09:08 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401809453567 |
@@ -83,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 16:09:10 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401808720187 |
-| Players | 1/10 |
-| Host Name | クリシャ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 16:08:08 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511401807068274 |
-| Players | 7/10 |
-| Host Name | 600 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 16:05:51 |
+| Lobby ID | 28511401809539956 |
+| Players | 1/8 |
+| Host Name | EvNAns |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 9, 2023 16:09:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -110,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 15:39:07 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511401809456289 |
-| Players | 1/5 |
-| Host Name | Thara Frog |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 16:09:10 |
+| Lobby ID | 28511401807068274 |
+| Players | 7/10 |
+| Host Name | 600 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 16:05:51 |
 
 
