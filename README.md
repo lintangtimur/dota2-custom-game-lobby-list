@@ -68,18 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401625695924 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Swap Commander |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 11:08:07 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401627745135 |
-| Players | 3/7 |
+| Lobby ID | 28511401627782737 |
+| Players | 1/10 |
+| Host Name | Ҝιώi𝕀c𝐜ʰｏ  ☯ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 11:12:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401627814839 |
+| Players | 3/5 |
 | Host Name | Cheems-O |
 | Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 11:12:00 |
+| Lobby Creation Time | Thursday, November 9, 2023 11:12:07 |
 
 
