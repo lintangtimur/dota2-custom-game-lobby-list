@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401838703616 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | 3k behaviour summary muted ^^ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 16:50:36 |
@@ -47,20 +47,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 15:08:49 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401838942777 |
-| Players | 1/8 |
-| Host Name | Big Game Hunter |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 16:50:56 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401838954105 |
-| Players | 1/15 |
-| Host Name | crybabygod |
+| Players | 4/15 |
+| Host Name | ZXC 1000-7 EZ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 16:50:57 |
 
