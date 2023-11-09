@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401850861214 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | NENEK PEYOT PDIP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 17:06:39 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401845682559 |
-| Players | 4/24 |
+| Players | 1/24 |
 | Host Name | zxcdown |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 16:59:54 |
@@ -49,20 +49,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401846975495 |
-| Players | 14/15 |
-| Host Name | Hatigatsu |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 17:01:38 |
+| Lobby ID | 28511401851137631 |
+| Players | 3/15 |
+| Host Name | hated |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 9, 2023 17:07:00 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511401851074529 |
+| Players | 1/24 |
+| Host Name | TT |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 17:06:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401851015673 |
+| Lobby ID | 28511401851102640 |
 | Players | 1/15 |
-| Host Name | Miro |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 17:06:51 |
+| Host Name | Bob The Patata |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 9, 2023 17:06:57 |
 
 
 |  | epic_boss_fight_nightmare |
