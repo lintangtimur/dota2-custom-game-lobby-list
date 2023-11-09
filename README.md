@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401713061317 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Накиньте похвалы я добрий |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:48:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401715124244 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Hype |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 13:51:23 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401716687888 |
-| Players | 3/24 |
-| Host Name | Joberts |
+| Players | 4/24 |
+| Host Name | Natso - |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 13:53:54 |
 
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 13:53:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401716651488 |
-| Players | 1/24 |
-| Host Name | woowowoo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 13:53:50 |
+| Lobby ID | 28511401717305910 |
+| Players | 1/15 |
+| Host Name | derp. |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 13:54:52 |
 
 
 |  | ot3_jungle_quintet |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 13:54:19 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401717305910 |
-| Players | 1/15 |
-| Host Name | derp. |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 13:54:52 |
 
 
 |  | epic_boss_fight_nightmare |
