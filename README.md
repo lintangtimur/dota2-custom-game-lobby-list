@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401595155744 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Ninja Pirate |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 10:01:15 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401594961667 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | GabiruMaxx |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 9, 2023 10:00:47 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401595030402 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | (lFuzy^^! |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 10:00:57 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401596269996 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Gaius Mors |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 10:03:47 |
