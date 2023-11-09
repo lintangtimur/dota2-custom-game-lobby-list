@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401526224970 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | SoyChibolo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 07:16:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401526781264 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | Jr |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 07:17:44 |
@@ -51,7 +51,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28511401527265800 |
 | Players | 2/8 |
-| Host Name | fleece flower |
+| Host Name | skitrix |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 07:18:58 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401527335698 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Rupicola |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 07:19:09 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 工匕丹匚卄工 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 07:20:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401527731152 |
+| Players | 1/8 |
+| Host Name | El gato con botas |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 07:20:09 |
 
 
 |  | epic_boss_fight_nightmare |
