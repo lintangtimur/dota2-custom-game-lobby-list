@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401524732942 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Alucardream |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 9, 2023 07:12:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401524267784 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Байрактар |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 07:11:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401523730801 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Makson! sw3g. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 07:10:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401524084392 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Queef Kong |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 07:10:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401522718401 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | ♡Lina-chan♡ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 07:07:29 |
@@ -67,11 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401524836235 |
-| Players | 1/8 |
-| Host Name | Уважь Деда Ногами |
+| Lobby ID | 28511401524910204 |
+| Players | 3/8 |
+| Host Name | Долбаёб, фижу всё! |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 07:12:51 |
+| Lobby Creation Time | Thursday, November 9, 2023 07:13:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401524954973 |
+| Players | 2/10 |
+| Host Name | Enaderon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 07:13:10 |
 
 
 |  | epic_boss_fight_nightmare |
