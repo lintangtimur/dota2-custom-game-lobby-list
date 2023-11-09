@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401558293644 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | nojo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 08:33:55 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401557988015 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | aaronjp7 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 08:33:12 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401558219349 |
-| Players | 3/15 |
-| Host Name | vanilacry~ |
+| Players | 2/15 |
+| Host Name | ᴵᵏᵃʳᶦ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 08:33:45 |
 
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 08:22:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401556836312 |
-| Players | 8/10 |
-| Host Name | D@®KeN_kØz_ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 08:30:32 |
+| Lobby ID | 28511401558408499 |
+| Players | 1/15 |
+| Host Name | Dubya |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 08:34:11 |
 
 
 |  | ot3_gardens_duo |
@@ -104,8 +104,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401558195048 |
-| Players | 11/15 |
-| Host Name | 23 |
+| Players | 8/15 |
+| Host Name | Jota |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 08:33:41 |
 
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Beautyyy |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 08:30:48 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401558454679 |
+| Players | 1/5 |
+| Host Name | MataCurrys |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 08:34:18 |
 
 
