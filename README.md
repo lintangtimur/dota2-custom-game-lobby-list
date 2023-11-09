@@ -92,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 16:30:41 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401824697396 |
-| Players | 5/15 |
-| Host Name | Игорь Гофман |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 16:30:51 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401824765244 |
+| Lobby ID | 28511401824839934 |
 | Players | 1/24 |
 | Host Name | La Concha De Tu Madre |
 | Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 16:30:57 |
+| Lobby Creation Time | Thursday, November 9, 2023 16:31:04 |
 
 
 |  | epic_boss_fight_hard |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401817107169 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | IamNotTonichiwa |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 16:19:52 |
@@ -135,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Hawt ASF |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 16:30:54 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401824818432 |
+| Players | 1/10 |
+| Host Name | Saeraeat |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 16:31:02 |
 
 
