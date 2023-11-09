@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401775367933 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | maron |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 15:21:59 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401696247904 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | < blank > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:19:21 |
@@ -47,20 +47,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 15:08:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401777097129 |
-| Players | 6/8 |
-| Host Name | Псих |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 15:24:26 |
+| Lobby ID | 28511401779492435 |
+| Players | 1/24 |
+| Host Name | NN |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 15:27:45 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401778190828 |
-| Players | 3/15 |
-| Host Name | HighOne |
+| Players | 5/15 |
+| Host Name | Feet enjoyer |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 15:25:56 |
 
@@ -68,36 +68,72 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401779123004 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | прочитал = пидop |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 9, 2023 15:27:14 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401776687234 |
-| Players | 8/10 |
-| Host Name | cece |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 15:23:51 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511401767266391 |
-| Players | 1/10 |
-| Host Name | . |
+| Lobby ID | 28511401779171121 |
+| Players | 1/24 |
+| Host Name | JoeShiesty |
 | Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 15:10:18 |
+| Lobby Creation Time | Thursday, November 9, 2023 15:27:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401779254939 |
+| Players | 1/15 |
+| Host Name | Я... проиграл?.. |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 15:27:25 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401779568163 |
+| Players | 2/10 |
+| Host Name | ДенискаЗИКСЕ |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 15:27:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401779610911 |
+| Players | 1/8 |
+| Host Name | ✿GOJO SATORU✿ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 15:27:55 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401779666023 |
+| Players | 1/8 |
+| Host Name | Sneaky Beaky Like ¯\_(ツ)_/¯ |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 9, 2023 15:28:00 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401779562592 |
+| Players | 1/10 |
+| Host Name | 3 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 15:27:51 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28511401779101304 |
+| Lobby ID | 28511401779642516 |
 | Players | 1/5 |
-| Host Name | Bamblbee |
+| Host Name | Привет, ПОСТРИЖИСЯ |
 | Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 15:27:12 |
+| Lobby Creation Time | Thursday, November 9, 2023 15:27:57 |
 
 
