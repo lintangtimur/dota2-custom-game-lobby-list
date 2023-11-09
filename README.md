@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401627782737 |
-| Players | 4/10 |
-| Host Name | Ҝιώi𝕀c𝐜ʰｏ  ☯ |
+| Players | 6/10 |
+| Host Name | LeonN |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 11:12:04 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401627627245 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | .twitch.tv/shatunchick |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 11:11:47 |
