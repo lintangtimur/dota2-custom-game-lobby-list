@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401564956562 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Solo Leveling |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 08:49:43 |
@@ -22,20 +22,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401453701976 |
-| Players | 23/24 |
-| Host Name | 月老離職，財神管姻緣 |
+| Lobby ID | 28511401566026970 |
+| Players | 1/24 |
+| Host Name | woowowoo |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 04:44:26 |
+| Lobby Creation Time | Thursday, November 9, 2023 08:52:15 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401565854213 |
-| Players | 19/24 |
-| Host Name | Invincible under the Heavens |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 08:51:50 |
+| Lobby ID | 28511401565866199 |
+| Players | 1/15 |
+| Host Name | .... |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 08:51:52 |
 
 
 |  | ot3_jungle_quintet |
@@ -63,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kibosh |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 08:52:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401565866199 |
-| Players | 1/15 |
-| Host Name | .... |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 08:51:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511401566026970 |
-| Players | 1/24 |
-| Host Name | woowowoo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 08:52:15 |
 
 
 |  | epic_boss_fight_challenger |
