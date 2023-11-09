@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402172726749 |
-| Players | 13/15 |
-| Host Name | Kurumunusu |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 21:10:25 |
+| Lobby ID | 28511402147734268 |
+| Players | 5/15 |
+| Host Name | kill me |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 20:55:38 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402172194703 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | MinisterByDay, DotaPlayerByNight |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 21:10:06 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402165784835 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Itte |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 21:06:19 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402173907479 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | РУДГЕ 13 у. о. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 21:11:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402175163906 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | LOVE? What is it? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 21:11:50 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 21:10:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402175070177 |
-| Players | 8/10 |
-| Host Name | Ferguson♥ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 21:11:47 |
+| Lobby ID | 28511402175523545 |
+| Players | 2/8 |
+| Host Name | дай хуй потрогать |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 9, 2023 21:12:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402172641376 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | sq |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 21:10:22 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402173328976 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | ❤Tr1mada❤ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 21:10:46 |
@@ -146,6 +146,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 21:05:48 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402175199790 |
+| Players | 1/8 |
+| Host Name | МИДЕР ЛОХ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 21:11:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511402175643045 |
+| Players | 3/10 |
+| Host Name | Фридоом(хочу татарочку) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 21:12:07 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28511402164197010 |
@@ -167,7 +185,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402174128757 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Daee |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 21:11:14 |
@@ -176,7 +194,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402158476604 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ИзмаилТараска |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 21:02:01 |
