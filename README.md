@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401652620193 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | HashiRama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 11:58:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401654280204 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | isn't like holding to the center |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 12:01:42 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401653590479 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | roswel |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 12:00:27 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401654521305 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | The nameless king |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 12:02:08 |
@@ -126,6 +126,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Win |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 11:56:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401655018187 |
+| Players | 5/10 |
+| Host Name | El Diferente |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 12:03:02 |
 
 
 |  | epic_boss_fight_nightmare |
