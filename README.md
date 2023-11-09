@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401756552145 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | Писятдва |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 14:54:33 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | мазня говном |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 14:58:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401759572114 |
-| Players | 1/8 |
-| Host Name | llu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 14:58:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Gigasigma |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 14:58:43 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401759772541 |
+| Players | 2/5 |
+| Host Name | ^_^ |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 14:59:14 |
 
 
