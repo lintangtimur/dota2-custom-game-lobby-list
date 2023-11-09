@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401763546159 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | officer juggs |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 15:04:50 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401762289918 |
-| Players | 6/8 |
-| Host Name | Быдло |
+| Players | 3/8 |
+| Host Name | Папа Армен |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 15:03:00 |
 
@@ -40,29 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401762383665 |
-| Players | 12/15 |
-| Host Name | E`SGEIN |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 15:03:08 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511401763309130 |
-| Players | 17/24 |
-| Host Name | Sopi |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 15:04:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401763422015 |
-| Players | 1/15 |
-| Host Name | , |
+| Lobby ID | 28511401764139314 |
+| Players | 7/15 |
+| Host Name | BestFriendoooo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 15:04:40 |
+| Lobby Creation Time | Thursday, November 9, 2023 15:05:42 |
 
 
 |  | ot3_jungle_quintet |
@@ -76,28 +58,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401764139314 |
-| Players | 4/15 |
-| Host Name | BestFriendoooo |
+| Lobby ID | 28511401763422015 |
+| Players | 1/15 |
+| Host Name | , |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 15:05:42 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511401764523209 |
-| Players | 1/24 |
-| Host Name | TT |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 15:06:16 |
+| Lobby Creation Time | Thursday, November 9, 2023 15:04:40 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401763695526 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | ꜱʏꜰʏ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 15:05:03 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401764749818 |
+| Players | 1/5 |
+| Host Name | Kiddo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 15:06:36 |
 
 
