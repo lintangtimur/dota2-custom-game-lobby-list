@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401689057264 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | DotaPlayer1 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 9, 2023 13:05:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401828826501 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | La Concha De Tu Madre |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 9, 2023 16:36:48 |
@@ -65,31 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 16:41:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401832245676 |
-| Players | 7/10 |
-| Host Name | Писятдва |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 16:41:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401832481141 |
-| Players | 1/8 |
-| Host Name | ytka_v_tapkax |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 16:41:58 |
+| Lobby ID | 28511401832608632 |
+| Players | 3/15 |
+| Host Name | FeeZy |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 9, 2023 16:42:08 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401832529960 |
+| Lobby ID | 28511401832560757 |
 | Players | 1/15 |
-| Host Name | The Queen who fooks her nephew |
+| Host Name | Pivandepalo |
 | Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 16:42:02 |
+| Lobby Creation Time | Thursday, November 9, 2023 16:42:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -99,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | На Волк |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 16:42:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401832604473 |
+| Players | 2/8 |
+| Host Name | Greenfirt |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 9, 2023 16:42:08 |
 
 
 |  | epic_boss_fight_nightmare |
