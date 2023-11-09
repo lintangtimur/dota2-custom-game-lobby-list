@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401521820967 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Mynni |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 9, 2023 07:05:10 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401521917779 |
-| Players | 8/15 |
-| Host Name | Egotheist |
+| Lobby ID | 28511401522168896 |
+| Players | 2/15 |
+| Host Name | PIZDYK |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 07:05:25 |
+| Lobby Creation Time | Thursday, November 9, 2023 07:06:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401520618596 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | Fn+F12 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 07:02:03 |
