@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401475042545 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Пудж жаж кринж жадж мЯсо) |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 05:24:11 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401566026970 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | woowowoo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 08:52:15 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401572481815 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | ♁＊＊ SIA ＊＊ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:07:52 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401571989557 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | >.< |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:06:40 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401572321612 |
-| Players | 5/15 |
-| Host Name | Pelusa |
+| Players | 4/15 |
+| Host Name | Siccmade |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 09:07:28 |
 
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401572492595 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | KenPix |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 09:07:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401572529764 |
+| Players | 2/8 |
+| Host Name | inst all mute |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 09:07:59 |
 
 
 |  | epic_boss_fight_nightmare |
