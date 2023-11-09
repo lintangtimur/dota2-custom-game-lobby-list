@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401566026970 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | woowowoo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 08:52:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401572529764 |
-| Players | 7/8 |
-| Host Name | inst all mute |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 09:07:59 |
+| Lobby ID | 28511401574148656 |
+| Players | 5/10 |
+| Host Name | kekegozu |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 09:11:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401572761635 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | ez mid |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:08:34 |
@@ -101,22 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 09:11:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401574130986 |
-| Players | 1/15 |
-| Host Name | 陈.SIR |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Thursday, November 9, 2023 09:11:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401574148656 |
-| Players | 3/10 |
-| Host Name | kekegozu |
+| Lobby ID | 28511401573524438 |
+| Players | 23/24 |
+| Host Name | Remy |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 09:11:57 |
+| Lobby Creation Time | Thursday, November 9, 2023 09:10:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401571516978 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | mybiiru |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 09:05:29 |
