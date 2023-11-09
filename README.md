@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401581859631 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Glue Sommelier |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 09:30:00 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401581372365 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | WSWSWSWSWSWSWS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 09:28:49 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401580711120 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | hc pls |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 09:27:22 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401580997157 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | Arleth.VaDiCi'S game |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:28:00 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511401581856781 |
-| Players | 1/24 |
-| Host Name | deadmanhours |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 09:29:59 |
 
 
 |  | epic_boss_fight_nightmare |
