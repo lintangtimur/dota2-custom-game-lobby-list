@@ -38,22 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 22:27:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402348905294 |
-| Players | 3/8 |
-| Host Name | ваша доча дотер |
+| Lobby ID | 28511402248300629 |
+| Players | 22/24 |
+| Host Name | ryan |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 21:55:38 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511402323368364 |
+| Players | 4/10 |
+| Host Name | aomine |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 23:01:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511402348863875 |
-| Players | 1/8 |
-| Host Name | kotik1 |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 9, 2023 23:01:05 |
+| Lobby Creation Time | Thursday, November 9, 2023 22:43:30 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402339374149 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | MrSuperman|002| |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 22:54:21 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402305998417 |
-| Players | 7/15 |
+| Players | 13/15 |
 | Host Name | MExaDE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 22:32:06 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402348736422 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | prds |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 9, 2023 23:00:59 |
@@ -173,37 +173,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 22:55:32 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511402322311721 |
+| Players | 12/15 |
+| Host Name | PLAYER28114 |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 22:42:49 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402323368364 |
-| Players | 2/10 |
-| Host Name | aomine |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 22:43:30 |
+| Lobby ID | 28511402349160720 |
+| Players | 6/10 |
+| Host Name | ⓞⓡⓑⓞⓡ |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 23:01:17 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402346009092 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Anime girl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 22:59:01 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511402346383521 |
-| Players | 4/5 |
-| Host Name | Adonis |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 22:59:17 |
+| Lobby ID | 28511402348788950 |
+| Players | 1/10 |
+| Host Name | Retired |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 23:01:01 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402348159667 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | CIRAULO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 23:00:34 |
@@ -216,23 +225,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Rebecca |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 23:00:51 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511402348788950 |
-| Players | 1/10 |
-| Host Name | Retired |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 23:01:01 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511402348868714 |
-| Players | 2/5 |
-| Host Name | キャサリン |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 23:01:05 |
 
 
