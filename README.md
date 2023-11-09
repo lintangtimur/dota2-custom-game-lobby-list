@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401914394969 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Kwee "KAYPANG" Ceng |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 18:14:26 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401916262241 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Писятдва |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:16:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401916236671 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Kivi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 18:16:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401916911461 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Deep Lore Investigator |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:16:46 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401918159997 |
-| Players | 1/8 |
-| Host Name | Porn Hub |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 9, 2023 18:17:54 |
+| Lobby ID | 28511401915945170 |
+| Players | 3/8 |
+| Host Name | EMO KID |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 18:15:52 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401917952886 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Feelingpeace’s |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 18:17:43 |
