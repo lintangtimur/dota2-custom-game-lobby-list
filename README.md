@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401725528164 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Barrack Osama |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 14:07:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401724235500 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Datedi |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 14:05:57 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401726059583 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | nobodytrust101 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 14:08:49 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401726103004 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | [♂+♂=♥]6LyaDuKtoR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 14:08:53 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511401726303330 |
+| Players | 1/24 |
+| Host Name | Eric Wimp |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 14:09:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,18 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28511401725780132 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | Tahu Petis Enak |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 14:08:23 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28511401726300817 |
-| Players | 1/7 |
-| Host Name | . |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 9, 2023 14:09:12 |
+| Lobby ID | 28511401726392036 |
+| Players | 2/7 |
+| Host Name | ЕБАНУМБА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 14:09:21 |
 
 
