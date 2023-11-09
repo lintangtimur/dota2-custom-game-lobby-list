@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402297915271 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name |  Quest For Salvation  |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 22:26:48 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 22:29:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402303226069 |
-| Players | 4/15 |
-| Host Name | Dariuvaus |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 9, 2023 22:30:17 |
+| Lobby ID | 28511402248300629 |
+| Players | 8/24 |
+| Host Name | her "BBC" |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 21:55:38 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,58 +65,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 21:43:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402304823210 |
-| Players | 4/8 |
-| Host Name | SenSey |
+| Lobby ID | 28511402298361260 |
+| Players | 5/15 |
+| Host Name | 123 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 22:31:20 |
+| Lobby Creation Time | Thursday, November 9, 2023 22:27:06 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402302406347 |
-| Players | 7/10 |
-| Host Name | утяжелитель |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 22:29:45 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511402248300629 |
-| Players | 7/24 |
-| Host Name | her "BBC" |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 21:55:38 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511402303658750 |
-| Players | 1/15 |
-| Host Name | qwerty |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 22:30:34 |
+| Lobby ID | 28511402305260609 |
+| Players | 6/10 |
+| Host Name | эминем |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 9, 2023 22:31:37 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402304862947 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | TIggi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 22:31:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402304815101 |
-| Players | 1/10 |
-| Host Name | satisfy his instinct |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 9, 2023 22:31:20 |
+| Lobby ID | 28511402305491159 |
+| Players | 2/8 |
+| Host Name | Ништяк Шкатулочка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 22:31:46 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,18 +113,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402285422114 |
-| Players | 4/10 |
+| Players | 1/10 |
 | Host Name | Lil.Phd |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 22:18:46 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511402304941789 |
+| Players | 1/10 |
+| Host Name | Arcane~ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 22:31:24 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511402305115462 |
+| Players | 1/5 |
+| Host Name | Hamood-HHH |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 22:31:31 |
+
+
 |  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28511402304814727 |
-| Players | 2/7 |
+| Lobby ID | 28511402305662254 |
+| Players | 1/7 |
 | Host Name | щегол |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 22:31:20 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 22:31:53 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511402268040461 |
+| Players | 4/5 |
+| Host Name | Soseniasty |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 22:07:50 |
 
 
