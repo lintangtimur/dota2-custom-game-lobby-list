@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401644286457 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Ninja Pirate |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 11:43:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401646175303 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Castillo |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 11:46:47 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401643625522 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Fabian! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 11:42:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401645168271 |
-| Players | 9/15 |
-| Host Name | Werlion |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 11:44:57 |
+| Lobby ID | 28511401645410399 |
+| Players | 6/8 |
+| Host Name | XCLARAX |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 11:45:23 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,34 +77,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401645623773 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | ARi |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 11:45:46 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401645410399 |
-| Players | 6/8 |
-| Host Name | XCLARAX |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 11:45:23 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401646378888 |
-| Players | 1/10 |
-| Host Name | Shuhky |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 11:47:09 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401620590982 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Condoriano |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 10:56:54 |
