@@ -11,37 +11,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 14:15:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401735415474 |
-| Players | 9/10 |
-| Host Name | aefgmoagmr |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 9, 2023 14:23:35 |
+| Lobby ID | 28511401741409019 |
+| Players | 5/15 |
+| Host Name | unbeatable sunset madness |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 14:32:40 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401696247904 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | < blank > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:19:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401740033005 |
-| Players | 14/15 |
-| Host Name | Justin Weaver |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 9, 2023 14:30:38 |
+| Lobby ID | 28511401741587871 |
+| Players | 1/8 |
+| Host Name | ♥ НИЗКИЙ ГОЛОС, Ж |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 14:32:56 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401689057264 |
-| Players | 6/24 |
+| Players | 4/24 |
 | Host Name | Ҝ丨几丂卄丨 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 9, 2023 13:05:53 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401734104388 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | cueck |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 14:21:32 |
@@ -85,20 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401741409019 |
-| Players | 4/15 |
-| Host Name | unbeatable sunset madness |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 14:32:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401741587871 |
-| Players | 1/8 |
-| Host Name | ♥ НИЗКИЙ ГОЛОС, Ж |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 14:32:56 |
+| Lobby ID | 28511401741728003 |
+| Players | 2/15 |
+| Host Name | SToFFeR |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 14:33:09 |
 
 
 |  | epic_boss_fight_nightmare |
