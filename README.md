@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401582528354 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | SugarCroiss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 09:31:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401582407741 |
-| Players | 5/24 |
+| Players | 13/24 |
 | Host Name | .l. |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:31:20 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401581186852 |
+| Lobby ID | 28511401582862700 |
 | Players | 10/15 |
-| Host Name | CameraMan |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 09:28:25 |
+| Host Name | cum |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 09:32:24 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401577446116 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | pox na game |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 09:19:47 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401582387563 |
-| Players | 1/10 |
-| Host Name | тёмыч |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 09:31:16 |
+| Lobby ID | 28511401582550205 |
+| Players | 7/10 |
+| Host Name | YA NO HACKEO |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 09:31:40 |
 
 
 |  | ot3_gardens_duo |
@@ -77,43 +77,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401582550074 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | < blank > |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:31:40 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401582550205 |
-| Players | 5/10 |
-| Host Name | YA NO HACKEO |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 09:31:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401582696783 |
-| Players | 1/15 |
-| Host Name | cum |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 09:32:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401582767305 |
-| Players | 3/8 |
-| Host Name | Yuta Okkotsu |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 09:32:11 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401581088517 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Dango Daikazoku |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 09:28:12 |
