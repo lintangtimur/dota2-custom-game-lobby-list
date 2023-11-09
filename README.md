@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401725528164 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Barrack Osama |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 14:07:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401724235500 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Datedi |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 14:05:57 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401726059583 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | nobodytrust101 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 14:08:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401726103004 |
-| Players | 2/8 |
-| Host Name | [♂+♂=♥]6LyaDuKtoR |
+| Lobby ID | 28511401726567567 |
+| Players | 2/15 |
+| Host Name | sílam moríhoh^^ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 14:08:53 |
+| Lobby Creation Time | Thursday, November 9, 2023 14:09:37 |
 
 
 |  | ot3_desert_octet |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Eric Wimp |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 14:09:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401726725054 |
+| Players | 2/8 |
+| Host Name | Убийца Нубов 2013 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 14:09:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,23 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | NezukoChannnnn |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 14:08:17 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511401725780132 |
-| Players | 1/5 |
-| Host Name | Tahu Petis Enak |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 14:08:23 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28511401726392036 |
-| Players | 2/7 |
-| Host Name | ЕБАНУМБА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 14:09:21 |
 
 
