@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401683239418 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | [D]iomegod |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 12:54:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401686104862 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | COSMO EL GATO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 13:00:12 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401684720894 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | 8bits.母♥ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 12:57:36 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401686512592 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Trovo.Live/Cabo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 13:01:01 |
@@ -130,11 +130,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401686546996 |
-| Players | 2/15 |
-| Host Name | Novox black |
+| Lobby ID | 28511401686621453 |
+| Players | 1/15 |
+| Host Name | panzerkuntz |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 13:01:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401682685407 |
+| Players | 9/10 |
+| Host Name | MataCholas |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 13:01:05 |
+| Lobby Creation Time | Thursday, November 9, 2023 12:53:49 |
 
 
 |  | epic_boss_fight_normal |
@@ -153,14 +162,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Aight, Bet! |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 12:58:03 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511401686546985 |
-| Players | 1/5 |
-| Host Name | Kung aku nalang diay? |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 9, 2023 13:01:05 |
 
 
