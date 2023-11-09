@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401926793871 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | 蓝胖舌吻双头龙 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 18:25:36 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401938726153 |
-| Players | 12/15 |
-| Host Name | Feedel |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:35:40 |
+| Lobby ID | 28511401940161951 |
+| Players | 3/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 18:36:51 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401942329678 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | о бля |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:38:37 |
@@ -74,28 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 18:35:50 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511401934745513 |
-| Players | 22/24 |
-| Host Name | 扭转乾坤 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 18:32:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401940161951 |
-| Players | 3/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 18:36:51 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401942388441 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Fantazia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:38:40 |
