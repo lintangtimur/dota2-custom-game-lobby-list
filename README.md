@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401520618596 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | Fn+F12 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 07:02:03 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401522087942 |
-| Players | 8/10 |
-| Host Name | Run Yo Pockets |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 07:05:51 |
+| Lobby ID | 28511401522611416 |
+| Players | 2/10 |
+| Host Name | Itadori |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 07:07:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401522322950 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | ♣Deqxd♠ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 07:06:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401522168896 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | PIZDYK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 07:06:04 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28511401518569543 |
-| Players | 4/5 |
+| Players | 3/5 |
 | Host Name | forever |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 06:57:00 |
