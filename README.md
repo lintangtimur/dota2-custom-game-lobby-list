@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401533365467 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Datedi |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 07:34:20 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 07:34:58 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401533720152 |
-| Players | 3/8 |
-| Host Name | Yo y cuatro mancos |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 07:35:13 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401533962078 |
@@ -99,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | husnters |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 07:35:49 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401534100500 |
+| Players | 1/8 |
+| Host Name | nojo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 07:36:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401534113288 |
+| Players | 1/8 |
+| Host Name | MODO GUERRA |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 07:36:10 |
 
 
 |  | epic_boss_fight_nightmare |
