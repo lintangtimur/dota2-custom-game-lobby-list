@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401734104388 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | cueck |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 14:21:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401689057264 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Ҝ丨几丂卄丨 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 9, 2023 13:05:53 |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401745623607 |
-| Players | 13/15 |
-| Host Name | nattyboons |
+| Players | 12/15 |
+| Host Name | chakalito |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 14:38:51 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401747973612 |
+| Players | 1/15 |
+| Host Name | Dota 2 Groomologist |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 14:42:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401748004173 |
+| Players | 2/8 |
+| Host Name | Anthony Berguermonte Talcone |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 14:42:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +99,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 600 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 9, 2023 14:41:27 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401748020164 |
+| Players | 1/5 |
+| Host Name | terrencelim321 |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 14:42:17 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401748037016 |
+| Players | 1/5 |
+| Host Name | 7avage |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 9, 2023 14:42:18 |
 
 
