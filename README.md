@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401974932169 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | PO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 19:04:22 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401968454181 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 18:59:24 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 18:23:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401975181227 |
-| Players | 6/10 |
-| Host Name | depko13 |
+| Lobby ID | 28511401972196403 |
+| Players | 10/15 |
+| Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 19:04:33 |
+| Lobby Creation Time | Thursday, November 9, 2023 19:02:17 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401974587508 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 19:04:06 |
@@ -101,13 +101,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 19:04:23 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401972155856 |
-| Players | 9/10 |
-| Host Name | YeezyBreazy |
+| Lobby ID | 28511401975740492 |
+| Players | 1/8 |
+| Host Name | Papi te vas< |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 19:04:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511401975710864 |
+| Players | 6/24 |
+| Host Name | KUKURIKAPO! |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 19:02:15 |
+| Lobby Creation Time | Thursday, November 9, 2023 19:04:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401975934700 |
+| Players | 2/8 |
+| Host Name | I'm idol in age mediocrity |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 19:05:07 |
 
 
 |  | epic_boss_fight_nightmare |
