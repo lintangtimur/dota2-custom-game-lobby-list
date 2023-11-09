@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401664753220 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | Chae's |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 12:20:49 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401665189012 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | Hype |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 12:21:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401664867529 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | lowqualityhuman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 12:21:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401657324368 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 9, 2023 12:07:14 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401665828320 |
-| Players | 12/24 |
+| Players | 20/24 |
 | Host Name | tenia futuro hasta que dotee |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 12:22:48 |
@@ -76,11 +76,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401665699802 |
+| Lobby ID | 28511401666713824 |
 | Players | 1/10 |
 | Host Name | . |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 12:22:34 |
+| Lobby Creation Time | Thursday, November 9, 2023 12:24:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401666837086 |
+| Players | 1/8 |
+| Host Name | dura's fun |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 12:24:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401666911084 |
+| Players | 3/10 |
+| Host Name | El Diferente |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 12:24:49 |
 
 
 |  | epic_boss_fight_nightmare |
