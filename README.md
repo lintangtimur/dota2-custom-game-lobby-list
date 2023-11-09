@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401564956562 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Solo Leveling |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 08:49:43 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401475042545 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Пудж жаж кринж жадж мЯсо) |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 05:24:11 |
@@ -38,31 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 08:52:00 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401566029275 |
-| Players | 14/15 |
-| Host Name | Me drogo ¿soy chevere? |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 08:52:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401565788489 |
-| Players | 5/8 |
-| Host Name | [♂+♂=♥]6LyaDuKtoR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 08:51:41 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401566414800 |
-| Players | 1/24 |
-| Host Name | ♂EL CAMPER GANDALFS♂ |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 08:53:09 |
+| Lobby ID | 28511401453701976 |
+| Players | 20/24 |
+| Host Name | 月老離職，財神管姻緣 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 04:44:26 |
 
 
 |  | ot3_gardens_duo |
@@ -76,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401453701976 |
-| Players | 21/24 |
-| Host Name | 月老離職，財神管姻緣 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 04:44:26 |
+| Lobby ID | 28511401566414800 |
+| Players | 1/24 |
+| Host Name | ♂EL CAMPER GANDALFS♂ |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 9, 2023 08:53:09 |
 
 
 |  | epic_boss_fight_challenger |
