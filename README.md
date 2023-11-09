@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401810797255 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Nadia Omara |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 16:11:02 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401811736419 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ttv/D1k1y_N3GR1L4 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 16:12:21 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401813167446 |
-| Players | 1/10 |
-| Host Name | Sora |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 16:14:19 |
 
 
 |  | ot3_necropolis_ffa |
