@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401899775061 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Rodi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:00:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401899726304 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Who Telled You? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 18:00:28 |
@@ -78,36 +78,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28511401898495158 |
 | Players | 8/10 |
-| Host Name | Сиротка Сиёги |
+| Host Name | Ghost Grave |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 17:59:15 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401900433881 |
-| Players | 1/8 |
-| Host Name | WRTK |
+| Lobby ID | 28511401900539605 |
+| Players | 4/8 |
+| Host Name | bakiv |
 | Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 18:01:10 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511401882959019 |
-| Players | 8/10 |
-| Host Name | Aight, Bet! |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 17:43:29 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511401900223264 |
-| Players | 4/10 |
-| Host Name | Dango Daikazoku |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 18:00:57 |
+| Lobby Creation Time | Thursday, November 9, 2023 18:01:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ang qt qt ko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 18:01:08 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401900223264 |
+| Players | 4/10 |
+| Host Name | Dango Daikazoku |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 18:00:57 |
 
 
