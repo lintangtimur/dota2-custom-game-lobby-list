@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401696247904 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | < blank > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:19:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401701486380 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Mr.Banana |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 13:28:44 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 13:26:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401700327617 |
-| Players | 14/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 13:26:43 |
+| Lobby ID | 28511401701819317 |
+| Players | 1/24 |
+| Host Name | berhala kena reject |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 13:29:19 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 13:29:36 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401701819317 |
-| Players | 1/24 |
-| Host Name | berhala kena reject |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 13:29:19 |
+| Lobby ID | 28511401702251617 |
+| Players | 1/15 |
+| Host Name | Операция Ы |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 9, 2023 13:30:04 |
 
 
 |  | epic_boss_fight_hard |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | happy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:23:19 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401699410536 |
+| Players | 9/10 |
+| Host Name | mybiiru |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 13:25:06 |
 
 
