@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402076030672 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | GOLUBOGLAZIY ARIEC |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 20:12:37 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 20:11:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402078368511 |
-| Players | 6/10 |
-| Host Name | Я песюн. Вопросы 2? |
+| Lobby ID | 28511402078572780 |
+| Players | 7/15 |
+| Host Name | опа чинчопа |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 20:14:05 |
+| Lobby Creation Time | Thursday, November 9, 2023 20:14:13 |
 
 
 |  | ot3_desert_octet |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402074671860 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | 全年无休游廊 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 20:11:46 |
@@ -139,17 +139,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402078572780 |
-| Players | 3/15 |
-| Host Name | опа чинчопа |
+| Lobby ID | 28511402079930783 |
+| Players | 2/15 |
+| Host Name | Ярик Добрый |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 20:14:13 |
+| Lobby Creation Time | Thursday, November 9, 2023 20:15:05 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402074042433 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | KazuyA |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 20:11:22 |
@@ -180,5 +180,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | pill user❤ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 20:14:45 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511402054417379 |
+| Players | 5/10 |
+| Host Name | 𝔼𝕃-ℙ𝔸𝕋ℝ𝕆ℕ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 19:58:44 |
 
 
