@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401573214309 |
-| Players | 12/15 |
-| Host Name | Кредит на Бэбика |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 09:09:41 |
+| Lobby ID | 28511401573772445 |
+| Players | 1/15 |
+| Host Name | the powerless rise |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 9, 2023 09:11:03 |
 
 
 |  | ot3_gardens_duo |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401573524438 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Remy |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:10:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401573718037 |
-| Players | 3/8 |
-| Host Name | yoopiyo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 09:10:56 |
 
 
 |  | epic_boss_fight_nightmare |
