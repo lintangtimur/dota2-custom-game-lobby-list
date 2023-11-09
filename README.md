@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 11:52:29 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401657612696 |
-| Players | 23/24 |
-| Host Name | Tờ Ri |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 12:07:45 |
+| Lobby ID | 28511401659233134 |
+| Players | 7/15 |
+| Host Name | COSMO EL GATO |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 12:10:44 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401657817091 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Vernedomo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 12:08:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401658894752 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Dragon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 12:10:07 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401658911951 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | Dota 2 Groomologist |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 12:10:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401659233134 |
-| Players | 7/15 |
-| Host Name | COSMO EL GATO |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 12:10:44 |
+| Lobby ID | 28511401659502878 |
+| Players | 1/8 |
+| Host Name | 𝖀𝖓𝕯𝖊𝖆𝖉 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 12:11:14 |
 
 
 |  | epic_boss_fight_nightmare |
