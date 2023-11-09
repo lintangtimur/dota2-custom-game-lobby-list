@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401523906292 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | POSEIDON MAMADO:v |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 07:10:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401523730801 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Makson! sw3g. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 07:10:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401524084392 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | dzqdavid |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 07:10:58 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | :( M O T A :( |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 07:09:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401524194925 |
+| Players | 3/15 |
+| Host Name | Datedi |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 07:11:15 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511401524195744 |
+| Players | 2/24 |
+| Host Name | Winter |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 07:11:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Akisha |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 9, 2023 07:04:59 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401524226165 |
+| Players | 2/10 |
+| Host Name | Nakata Sensei |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 9, 2023 07:11:19 |
 
 
