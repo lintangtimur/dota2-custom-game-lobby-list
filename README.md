@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401663661296 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Slatt amoeba |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 12:18:48 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401475042545 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Пудж жаж кринж жадж мЯсо) |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 05:24:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401659561161 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | alenose |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 12:11:20 |
@@ -72,6 +72,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | road 3k |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 12:18:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401663852446 |
+| Players | 3/15 |
+| Host Name | 52! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 12:19:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401660683579 |
+| Players | 14/15 |
+| Host Name | Osscyla |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 12:13:23 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511401663917202 |
+| Players | 1/24 |
+| Host Name | adventure unknown |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 12:19:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401620590982 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | TriHard |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 10:56:54 |
