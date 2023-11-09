@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401737296604 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ginzzy41.egomode |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 14:26:29 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401736608457 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | ✿GOJO SATORU✿ |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 14:25:26 |
@@ -99,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | we lost :( |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 14:26:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401737662734 |
+| Players | 5/15 |
+| Host Name | ****** |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 14:27:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401737752662 |
+| Players | 1/15 |
+| Host Name | D.M.N:1ª |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 14:27:11 |
 
 
 |  | epic_boss_fight_nightmare |
