@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401783966501 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | madmanmoon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 15:33:56 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Maybe |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 15:33:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401784866253 |
+| Players | 1/15 |
+| Host Name | Мамут Рахал |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 15:35:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,23 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | На_Опыте |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 15:34:15 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511401784805881 |
-| Players | 1/5 |
-| Host Name | mosius |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 15:35:06 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28511401784801416 |
-| Players | 1/7 |
-| Host Name | Krey Seyer |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 15:35:06 |
 
 
