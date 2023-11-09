@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401552420340 |
-| Players | 9/10 |
-| Host Name | CORRALITO |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 08:20:14 |
+| Lobby ID | 28511401552855693 |
+| Players | 2/8 |
+| Host Name | PoonDip |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 08:21:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401453701976 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 04:44:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401550439054 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Junya Watanabe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 08:15:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401552704411 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | asura |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 08:20:54 |
@@ -50,19 +50,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401552479870 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | ニコラ limitless |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 08:20:22 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401553066168 |
+| Players | 1/15 |
+| Host Name | aaroneverr |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 08:21:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511401552937011 |
+| Players | 5/24 |
+| Host Name | Señora A su hijo lestan pegando |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 08:21:28 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401552690407 |
-| Players | 2/8 |
-| Host Name | F-A-Y-D-A-R-E TONY |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 08:20:52 |
+| Lobby ID | 28511401553124076 |
+| Players | 3/8 |
+| Host Name | メルエム |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 08:21:56 |
 
 
 |  | epic_boss_fight_nightmare |
