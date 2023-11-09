@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401791979149 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | Sidmun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 15:45:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401788617687 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | sxvn |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 15:40:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401791740485 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 15:44:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401793001766 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Головосование |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 15:46:32 |
@@ -78,7 +78,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28511401793179587 |
 | Players | 2/8 |
-| Host Name | эхослем в детдоме |
+| Host Name | БОГДАН ТАРАКАН |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 9, 2023 15:46:47 |
 
@@ -92,21 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 15:46:57 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511401788647924 |
-| Players | 9/10 |
-| Host Name | zxcdown |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 15:40:25 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28511401792558797 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | 一番の一番 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 15:45:54 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401793455171 |
+| Players | 1/10 |
+| Host Name | PeppaChan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 15:47:11 |
 
 
