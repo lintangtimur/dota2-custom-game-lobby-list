@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401738383953 |
-| Players | 9/15 |
+| Players | 8/15 |
 | Host Name | Father bandera is win you |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 14:28:08 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401696247904 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | < blank > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:19:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401735942612 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | :qqq! |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 9, 2023 14:24:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401734104388 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | cueck |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 14:21:32 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401739600161 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 14:29:58 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401737296604 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | ginzzy41.egomode |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 14:26:29 |
@@ -99,6 +99,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | мудрый тип |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 14:30:06 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401735415474 |
+| Players | 9/10 |
+| Host Name | aefgmoagmr |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 9, 2023 14:23:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401736608457 |
+| Players | 7/8 |
+| Host Name | ✿GOJO SATORU✿ |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 14:25:26 |
 
 
 |  | epic_boss_fight_nightmare |
