@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401711168538 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | fas |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:45:03 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401706015259 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | xdxdxd |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 13:36:30 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401710505376 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Anti |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:43:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401709905093 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | 不和小人一般见识 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 13:42:59 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401709952220 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | мудрый тип |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:43:04 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401712362680 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | durachyo |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 13:46:58 |
@@ -135,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Yusei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 13:46:25 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401712521277 |
+| Players | 1/5 |
+| Host Name | 프랜 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 13:47:13 |
 
 
