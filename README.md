@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401779048877 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | ValKyria GaLanTiS♥ |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 15:27:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401789411214 |
-| Players | 5/15 |
-| Host Name | Chappa |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 15:41:28 |
+| Lobby ID | 28511401790237965 |
+| Players | 1/24 |
+| Host Name | Sopi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 15:42:37 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401689057264 |
-| Players | 6/24 |
+| Players | 3/24 |
 | Host Name | DotaPlayer1 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 9, 2023 13:05:53 |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401789551919 |
-| Players | 7/24 |
+| Players | 12/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 15:41:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401789846842 |
-| Players | 4/8 |
-| Host Name | orsted. (a.k.a. mental stone) |
+| Lobby ID | 28511401790395050 |
+| Players | 1/15 |
+| Host Name | GenerationG |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 15:42:04 |
+| Lobby Creation Time | Thursday, November 9, 2023 15:42:50 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401788647924 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | zxcdown |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 15:40:25 |
