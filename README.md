@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401827881408 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | TheRealBubmels |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 16:35:28 |
@@ -20,22 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 16:41:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401833260155 |
-| Players | 2/10 |
-| Host Name | Dr. Strange where rampage |
+| Lobby ID | 28511401833961005 |
+| Players | 2/8 |
+| Host Name | мудрый тип |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 16:43:03 |
+| Lobby Creation Time | Thursday, November 9, 2023 16:44:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401689057264 |
-| Players | 2/24 |
-| Host Name | DotaPlayer1 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 9, 2023 13:05:53 |
+| Lobby ID | 28511401834401166 |
+| Players | 4/15 |
+| Host Name | TOXIC |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 16:44:39 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,52 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401833158904 |
-| Players | 7/24 |
+| Players | 12/24 |
 | Host Name | Who Telled You? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 16:42:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401833961005 |
-| Players | 1/8 |
-| Host Name | мудрый тип |
+| Lobby ID | 28511401834594947 |
+| Players | 3/10 |
+| Host Name | GEORGIY |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 16:44:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401833722078 |
-| Players | 6/8 |
-| Host Name | АДСКИЙ САТАНА |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 16:43:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401833841973 |
-| Players | 11/15 |
-| Host Name | raskumar |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 9, 2023 16:43:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511401834113650 |
-| Players | 1/24 |
-| Host Name | blanc |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 16:44:15 |
+| Lobby Creation Time | Thursday, November 9, 2023 16:44:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401833843125 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | TriHard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 16:43:52 |
@@ -122,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401832698132 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 🆁🅰🆀 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 16:42:16 |
