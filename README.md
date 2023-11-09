@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401679301198 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | locotto |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 9, 2023 12:47:35 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401685599675 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Chrisnochet |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 12:59:14 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401685992956 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | Br0ker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 12:59:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401683831723 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | 不和小人一般见识 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 12:55:57 |
@@ -83,13 +83,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 12:56:08 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401686512592 |
+| Players | 3/8 |
+| Host Name | S H I K A R I |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 13:01:01 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401687135193 |
+| Lobby ID | 28511401687189930 |
 | Players | 1/15 |
-| Host Name |  |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 13:02:12 |
+| Host Name | Олег Стамина |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 13:02:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401687218937 |
+| Players | 1/8 |
+| Host Name | Trovo.Live/Cabo |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 13:02:22 |
 
 
 |  | epic_boss_fight_normal |
