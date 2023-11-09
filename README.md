@@ -50,26 +50,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401810797255 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Nadia Omara |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 16:11:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401810547791 |
-| Players | 7/10 |
-| Host Name | Головосование |
+| Lobby ID | 28511401812265945 |
+| Players | 8/15 |
+| Host Name | obladaet |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 16:10:41 |
+| Lobby Creation Time | Thursday, November 9, 2023 16:13:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401811689826 |
-| Players | 6/15 |
-| Host Name | How u doin? |
+| Players | 2/15 |
+| Host Name | SB |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 16:12:18 |
 
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 16:12:21 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401812213713 |
-| Players | 1/15 |
-| Host Name | PhonkAll1gatoR |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 16:13:01 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401810118979 |
@@ -101,30 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 16:10:06 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28511401810355608 |
-| Players | 2/10 |
-| Host Name | Dick Iverson |
+| Lobby ID | 28511401812274032 |
+| Players | 1/5 |
+| Host Name | Пивослав Мудрый г |
 | Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 16:10:25 |
+| Lobby Creation Time | Thursday, November 9, 2023 16:13:06 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401812015943 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | cece |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 16:12:45 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511401812231326 |
-| Players | 1/5 |
-| Host Name | SenbonZakura Kageyoshi |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 9, 2023 16:13:03 |
 
 
