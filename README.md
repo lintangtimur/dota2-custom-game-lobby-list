@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401453701976 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 04:44:26 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401556490031 |
-| Players | 4/15 |
-| Host Name | Why |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 08:29:47 |
+| Lobby ID | 28511401556749425 |
+| Players | 14/15 |
+| Host Name | plunge into darkness |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 08:30:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401555039632 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Hyper Aggressive Maniac |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 08:26:32 |
@@ -104,10 +104,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401557965287 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | nojo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 08:33:09 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511401557988015 |
+| Players | 1/24 |
+| Host Name | aaronjp7 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 08:33:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401558057622 |
+| Players | 1/8 |
+| Host Name | Richi Rage |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 08:33:22 |
 
 
 |  | epic_boss_fight_hard |
@@ -119,12 +137,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 08:30:48 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28511401557928329 |
-| Players | 1/10 |
-| Host Name | MADURERA |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 08:33:04 |
+| Lobby ID | 28511401554073878 |
+| Players | 4/5 |
+| Host Name | The End |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 08:24:12 |
 
 
