@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401752769096 |
-| Players | 9/10 |
-| Host Name | ILose |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 14:49:06 |
+| Lobby ID | 28511401756552145 |
+| Players | 2/10 |
+| Host Name | Писятдва |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 14:54:33 |
 
 
 |  | ot3_desert_octet |
@@ -41,28 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401756683509 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | ПТ на порядочность |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 14:54:45 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401757053513 |
+| Players | 4/10 |
+| Host Name | Rambod D. Luffy |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 14:55:17 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401756977239 |
+| Lobby ID | 28511401757078574 |
 | Players | 1/15 |
 | Host Name | Cukka |
 | Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 14:55:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401756552145 |
-| Players | 2/10 |
-| Host Name | Писятдва |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 14:54:33 |
+| Lobby Creation Time | Thursday, November 9, 2023 14:55:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28511401754702236 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | terrencelim321 |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 14:51:53 |
