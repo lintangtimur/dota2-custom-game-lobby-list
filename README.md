@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401885987901 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 青衣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 17:46:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401885879462 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | aqfdsdafsaqasskjsadjf |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 17:46:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401886261884 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | DEM20111102 |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 17:46:55 |
@@ -65,6 +65,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 17:46:55 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401884758270 |
+| Players | 13/15 |
+| Host Name | raskumar |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 9, 2023 17:45:21 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401882959019 |
@@ -77,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401885001592 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Imperator Bulka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 17:45:36 |
@@ -92,12 +101,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 17:46:48 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28511401867824574 |
-| Players | 9/10 |
-| Host Name | GerindraPrabowo |
+| Lobby ID | 28511401886569466 |
+| Players | 2/5 |
+| Host Name | Чушк а |
 | Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 17:27:12 |
+| Lobby Creation Time | Thursday, November 9, 2023 17:47:14 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28511401886609423 |
+| Players | 1/7 |
+| Host Name | Clarke |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 9, 2023 17:47:16 |
 
 
