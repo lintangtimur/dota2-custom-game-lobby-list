@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401914394969 |
-| Players | 4/24 |
-| Host Name | Shuhky |
+| Players | 1/24 |
+| Host Name | Toxic People Must be Cleansed |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 18:14:26 |
 
@@ -29,37 +29,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 18:20:05 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401919914430 |
-| Players | 5/8 |
-| Host Name | not human (животное) |
+| Lobby ID | 28511401919167670 |
+| Players | 9/10 |
+| Host Name | ttv/D1k1y_N3GR1L4 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:19:30 |
+| Lobby Creation Time | Thursday, November 9, 2023 18:18:50 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401922350015 |
-| Players | 14/15 |
-| Host Name | Mouches Volantes |
+| Lobby ID | 28511401922985464 |
+| Players | 11/15 |
+| Host Name | DodjIro |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:21:41 |
+| Lobby Creation Time | Thursday, November 9, 2023 18:22:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401920022754 |
-| Players | 13/15 |
-| Host Name | Ульяна Духи |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 18:19:36 |
+| Lobby ID | 28511401923092018 |
+| Players | 2/10 |
+| Host Name | sheeem |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 18:22:21 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401907187639 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | на винстрике(0) |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 18:07:41 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401921545161 |
-| Players | 2/8 |
-| Host Name | Porn Hub |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 9, 2023 18:20:58 |
+| Lobby ID | 28511401923525906 |
+| Players | 1/8 |
+| Host Name | vwemor |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 18:22:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,19 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 18:21:52 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511401922997287 |
+| Players | 1/24 |
+| Host Name | 扭转乾坤 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 18:22:16 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401922985464 |
-| Players | 3/15 |
-| Host Name | DodjIro |
+| Lobby ID | 28511401923794668 |
+| Players | 2/15 |
+| Host Name | elbias |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:22:15 |
+| Lobby Creation Time | Thursday, November 9, 2023 18:22:58 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401905126060 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Dota<3 |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 18:05:43 |
