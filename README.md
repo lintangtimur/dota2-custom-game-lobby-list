@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 15:27:08 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401791979149 |
-| Players | 21/24 |
-| Host Name | Sidmun |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 15:45:05 |
+| Lobby ID | 28511401793001766 |
+| Players | 8/10 |
+| Host Name | Головосование |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 15:46:32 |
 
 
 |  | ot3_desert_octet |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401788617687 |
-| Players | 4/8 |
-| Host Name | sxvn |
+| Players | 2/8 |
+| Host Name | 20dozmefedrona |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 15:40:22 |
 
@@ -65,31 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 15:44:45 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401793001766 |
-| Players | 8/10 |
-| Host Name | Головосование |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 15:46:32 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401793179587 |
-| Players | 2/8 |
-| Host Name | БОГДАН ТАРАКАН |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 9, 2023 15:46:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401793287741 |
-| Players | 1/15 |
-| Host Name | LegendsNeverDie |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 9, 2023 15:46:57 |
+| Lobby ID | 28511401793931855 |
+| Players | 1/8 |
+| Host Name | порнозвезда |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 15:47:50 |
 
 
 |  | epic_boss_fight_normal |
@@ -103,10 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511401788647924 |
-| Players | 7/10 |
-| Host Name | zxcdown |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 15:40:25 |
+| Lobby ID | 28511401793950207 |
+| Players | 1/10 |
+| Host Name | Aurora |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 15:47:51 |
 
 
