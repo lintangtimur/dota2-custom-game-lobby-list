@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401755102638 |
-| Players | 8/10 |
-| Host Name | hahahehehoho |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 14:52:27 |
+| Lobby ID | 28511401763546159 |
+| Players | 3/8 |
+| Host Name | officer juggs |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 15:04:50 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401762289918 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Быдло |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 15:03:00 |
@@ -67,26 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401763546159 |
-| Players | 2/8 |
-| Host Name | officer juggs |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 15:04:50 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511401762477542 |
-| Players | 4/5 |
-| Host Name | 周子瑜 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 15:03:17 |
+| Lobby ID | 28511401763824468 |
+| Players | 1/8 |
+| Host Name | TwentyOneInch |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 15:05:15 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401763695526 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ꜱʏꜰʏ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 15:05:03 |
