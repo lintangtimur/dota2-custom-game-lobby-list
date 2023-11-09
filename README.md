@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401779048877 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | ValKyria GaLanTiS♥ |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 15:27:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401789770745 |
-| Players | 2/8 |
-| Host Name | V E N O M |
+| Lobby ID | 28511401789411214 |
+| Players | 3/15 |
+| Host Name | Chappa |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 15:41:58 |
+| Lobby Creation Time | Thursday, November 9, 2023 15:41:28 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401696247904 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | < blank > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:19:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401788617687 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | БОГДАН ТАРАКАН |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 15:40:22 |
@@ -65,31 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 15:41:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401789411214 |
-| Players | 2/15 |
-| Host Name | RVS |
+| Lobby ID | 28511401789846842 |
+| Players | 3/8 |
+| Host Name | orsted. (a.k.a. mental stone) |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 15:41:28 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511401780910459 |
-| Players | 1/10 |
-| Host Name | Caesar_091 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 9, 2023 15:29:43 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511401787713132 |
-| Players | 7/10 |
-| Host Name | .!. (-_-) .!. |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 15:39:07 |
+| Lobby Creation Time | Thursday, November 9, 2023 15:42:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -101,12 +83,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 15:40:25 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511401789778132 |
-| Players | 1/5 |
-| Host Name | Вагина-княгиня |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 15:41:58 |
+| Lobby ID | 28511401787713132 |
+| Players | 7/10 |
+| Host Name | .!. (-_-) .!. |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 15:39:07 |
 
 
