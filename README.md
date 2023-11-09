@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401530599979 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | merenge |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 07:27:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401530444549 |
-| Players | 12/24 |
+| Players | 19/24 |
 | Host Name | clownpubs |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 07:26:58 |
@@ -69,9 +69,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28511401530970045 |
 | Players | 1/15 |
-| Host Name | neocoil |
+| Host Name | 👿tu bellaquito👹pkl |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 07:28:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401531010289 |
+| Players | 4/10 |
+| Host Name | (QuiT)Chicken_Murderer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 07:28:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401531135764 |
+| Players | 4/8 |
+| Host Name | ParaDiciaco사악한 천재들 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 07:28:43 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | JMC |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 07:26:59 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511401530986705 |
-| Players | 1/5 |
-| Host Name | cityboi73 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 07:28:21 |
 
 
