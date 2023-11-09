@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401568493079 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | PMA |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 08:58:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401453701976 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 04:44:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401568889999 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Mango |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 08:58:57 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401567864926 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ScorpioN |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 08:56:32 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401567704887 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | XXX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 08:56:10 |
@@ -86,10 +86,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401569176107 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 08:59:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401569347882 |
+| Players | 3/8 |
+| Host Name | Mad |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 09:00:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401569394814 |
+| Players | 1/10 |
+| Host Name | No me jodas o fedeo..!! |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 09:00:09 |
 
 
 |  | epic_boss_fight_challenger |
