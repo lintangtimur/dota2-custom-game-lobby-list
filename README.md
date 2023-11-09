@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401533236221 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | BedmaN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 07:34:00 |
@@ -68,19 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401533365467 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Datedi |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 07:34:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401531874952 |
-| Players | 9/10 |
-| Host Name | Rael8a |
+| Lobby ID | 28511401533617618 |
+| Players | 1/24 |
+| Host Name | ✪ SOY ALTO, PERO ME DICEN BAJO |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 07:30:35 |
+| Lobby Creation Time | Thursday, November 9, 2023 07:34:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401533658423 |
+| Players | 3/8 |
+| Host Name | Yo y cuatro mancos |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 07:35:04 |
 
 
 |  | epic_boss_fight_nightmare |
