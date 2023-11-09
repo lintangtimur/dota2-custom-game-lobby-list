@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401855910854 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Dota 2 Groomologist |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 17:12:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401855499550 |
-| Players | 13/15 |
-| Host Name | Жажа |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 17:12:27 |
+| Lobby ID | 28511401856764490 |
+| Players | 1/8 |
+| Host Name | мудрый тип |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 17:14:01 |
 
 
 |  | ot3_desert_octet |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401856748941 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | М-01 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 17:13:59 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401856764490 |
-| Players | 1/8 |
-| Host Name | мудрый тип |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 17:14:01 |
+| Lobby ID | 28511401856903244 |
+| Players | 1/15 |
+| Host Name | 一抢精灵放猛犸 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Thursday, November 9, 2023 17:14:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401854127394 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ♂ I'm Performance Artist ♂ |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 9, 2023 17:10:45 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401856901526 |
+| Players | 1/5 |
+| Host Name | mode: SaiVoL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 17:14:11 |
 
 
