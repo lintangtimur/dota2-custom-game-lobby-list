@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401519820898 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | noob |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 06:59:57 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401519712360 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | toallin |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 06:59:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401519529700 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | clownpubs |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 06:59:15 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 06:59:21 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401519635939 |
-| Players | 2/15 |
-| Host Name | 2LIVEMAFIA |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 9, 2023 06:59:31 |
+| Lobby ID | 28511401519934086 |
+| Players | 1/8 |
+| Host Name | чемпик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 07:00:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401519856602 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ¿? |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 07:00:02 |
@@ -110,15 +110,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 07:00:06 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401519907358 |
-| Players | 1/8 |
-| Host Name | чемпик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 07:00:10 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28511401518880930 |
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401518233716 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Selling Dfcash for moneh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 06:56:13 |
