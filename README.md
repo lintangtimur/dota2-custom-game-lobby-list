@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401610576233 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | 想一起玩de请删好友 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 10:35:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401612689702 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | CameraMan |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 10:39:44 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401612804056 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Sheduconda |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 10:39:59 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401609954156 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | XCLARAX |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 10:33:47 |
@@ -110,19 +110,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 10:39:10 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401611431379 |
+| Players | 8/10 |
+| Host Name | Aggressive Moustache |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 10:37:01 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401613310873 |
+| Lobby ID | 28511401613376017 |
 | Players | 1/15 |
-| Host Name | vicjug |
+| Host Name | Morza |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 10:41:05 |
+| Lobby Creation Time | Thursday, November 9, 2023 10:41:14 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401612917553 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Next |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 10:40:14 |
