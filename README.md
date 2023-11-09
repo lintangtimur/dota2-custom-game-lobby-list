@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401689057264 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Ҝ丨几丂卄丨 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 9, 2023 13:05:53 |
@@ -77,37 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401713061317 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Накиньте похвалы я добрий |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:48:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401713488651 |
-| Players | 14/15 |
-| Host Name | пшл_т |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 13:48:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401713653466 |
-| Players | 1/15 |
-| Host Name | Топ 100 Антарктиды |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 13:49:02 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511401713984435 |
-| Players | 10/24 |
-| Host Name | Stayler |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 13:49:34 |
 
 
 |  | ot3_jungle_quintet |
@@ -117,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | synthetic fauna |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 13:49:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401713653466 |
+| Players | 2/15 |
+| Host Name | Топ 100 Антарктиды |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 13:49:02 |
 
 
 |  | epic_boss_fight_nightmare |
