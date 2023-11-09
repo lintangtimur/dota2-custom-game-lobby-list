@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401623794959 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Euphoria前景 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 11:04:02 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401624136517 |
-| Players | 3/15 |
-| Host Name | C3G |
+| Players | 6/15 |
+| Host Name | Vendo Semen Premium :P |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 11:04:46 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401623359663 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Imbecility & Courage♉ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 11:03:05 |
@@ -74,6 +74,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 11:03:27 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401624323963 |
+| Players | 3/10 |
+| Host Name | Owl Him |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 11:05:11 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401620590982 |
@@ -81,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LaVey |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 10:56:54 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401624373727 |
+| Players | 1/5 |
+| Host Name | 五星桥桥霸喜欢唱跳爱 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 11:05:17 |
 
 
