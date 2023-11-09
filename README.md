@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401770806045 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | 9527 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 15:15:24 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401772789726 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Владимир Вдова |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 15:18:16 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401772470903 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ЧИКИБРЯК |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 15:17:49 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401773162177 |
-| Players | 2/15 |
-| Host Name | Scubaski |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 9, 2023 15:18:49 |
+| Lobby ID | 28511401773232939 |
+| Players | 1/15 |
+| Host Name | Kenshin |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 15:18:55 |
 
 
 |  | epic_boss_fight_normal |
