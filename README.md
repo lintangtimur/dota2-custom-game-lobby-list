@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401842502071 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Yeager |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 16:55:44 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401839716372 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Датракиец |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 9, 2023 16:52:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401839992645 |
-| Players | 14/15 |
-| Host Name | strangby |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 16:52:22 |
+| Lobby ID | 28511401843310573 |
+| Players | 3/10 |
+| Host Name | dead blonde |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 16:56:48 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401842579318 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | , |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 16:55:50 |
@@ -86,19 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401843227944 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | レム |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 16:56:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401843310573 |
-| Players | 3/10 |
-| Host Name | dead blonde |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 16:56:48 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | P1L |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 16:56:18 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401843522944 |
+| Players | 1/5 |
+| Host Name | Фан база дракоши |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 16:57:05 |
 
 
