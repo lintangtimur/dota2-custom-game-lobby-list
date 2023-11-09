@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401575396739 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Potatoes gonna potate! |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 09:14:55 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401576797581 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | BEAR_RK |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 9, 2023 09:18:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401577916609 |
-| Players | 1/10 |
-| Host Name | Tars |
+| Lobby ID | 28511401578060531 |
+| Players | 1/24 |
+| Host Name | dba07 |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 09:20:54 |
+| Lobby Creation Time | Thursday, November 9, 2023 09:21:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | chute |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 09:19:56 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401578089266 |
+| Players | 1/5 |
+| Host Name | uDIK 5 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 09:21:18 |
 
 
