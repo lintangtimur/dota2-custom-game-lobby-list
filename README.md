@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401684262671 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | maus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 12:56:44 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401687453754 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | Vuvuzela Virtuoso Hans Rudolph |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 13:02:49 |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401686512592 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | S H I K A R I |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 13:01:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401687189930 |
-| Players | 11/15 |
-| Host Name | KuroiBlazr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 13:02:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401687218937 |
-| Players | 7/8 |
-| Host Name | Trovo.Live/Cabo |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 13:02:22 |
 
 
 |  | ot3_desert_octet |
@@ -117,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WHERE'S THE LAMB SAUCE |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 9, 2023 13:03:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401687218937 |
+| Players | 7/8 |
+| Host Name | Trovo.Live/Cabo |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 13:02:22 |
 
 
 |  | epic_boss_fight_nightmare |
