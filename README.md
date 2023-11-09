@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401695606562 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | synthetic fauna |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 13:18:08 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401695428835 |
-| Players | 1/15 |
+| Players | 9/15 |
 | Host Name | n7 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:17:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401689057264 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | hhhjj |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 9, 2023 13:05:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401696091889 |
-| Players | 5/24 |
+| Players | 11/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 13:19:03 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401696105478 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Хорош |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:19:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401696265990 |
-| Players | 1/15 |
-| Host Name | 不和小人一般见识 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 9, 2023 13:19:23 |
+| Lobby ID | 28511401696277220 |
+| Players | 3/8 |
+| Host Name | llu |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 13:19:24 |
 
 
 |  | ot3_desert_octet |
@@ -101,11 +101,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 13:19:21 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401696503682 |
+| Players | 1/15 |
+| Host Name | :)) |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 13:19:49 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401684960449 |
-| Players | 6/10 |
-| Host Name | Aight, Bet! |
+| Players | 8/10 |
+| Host Name | AllAmerican |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 12:58:03 |
 
