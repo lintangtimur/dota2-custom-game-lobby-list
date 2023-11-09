@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401704859221 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 9, 2023 13:34:32 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401708279316 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | мамикс |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:40:18 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401696247904 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | < blank > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:19:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401706920635 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Avocado0 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 13:38:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401708213326 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | 9527 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 13:40:11 |
@@ -68,9 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401708535668 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | maybe miracle ? |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 13:40:44 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401708841936 |
+| Players | 1/5 |
+| Host Name | 7avage |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 13:41:14 |
 
 
