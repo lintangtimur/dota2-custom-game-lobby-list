@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 12:56:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401688306811 |
-| Players | 1/15 |
-| Host Name | Ninja Pirate |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 13:04:27 |
+| Lobby ID | 28511401689057264 |
+| Players | 3/24 |
+| Host Name | Ҝ丨几丂卄丨 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 9, 2023 13:05:53 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401688207297 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | без негатива |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:04:16 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401688660065 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Osscyla |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 13:05:08 |
@@ -83,19 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 13:04:55 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511401689057264 |
-| Players | 1/24 |
-| Host Name | Ҝ丨几丂卄丨 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Thursday, November 9, 2023 13:05:53 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401688271777 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | BadMove |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 13:04:23 |
