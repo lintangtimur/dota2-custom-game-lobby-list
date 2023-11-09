@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401530610749 |
-| Players | 14/15 |
-| Host Name | HarryHarry |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 07:27:23 |
+| Lobby ID | 28511401530599979 |
+| Players | 8/10 |
+| Host Name | merenge |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 07:27:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401530652764 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | tveni tveni |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 07:27:30 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 07:26:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401530599979 |
-| Players | 8/10 |
-| Host Name | merenge |
+| Lobby ID | 28511401530970045 |
+| Players | 1/15 |
+| Host Name | neocoil |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 07:27:22 |
+| Lobby Creation Time | Thursday, November 9, 2023 07:28:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -85,10 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28511401530911334 |
+| Lobby ID | 28511401530986705 |
 | Players | 1/5 |
-| Host Name | SINISTER RAMEN |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 07:28:09 |
+| Host Name | cityboi73 |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 07:28:21 |
 
 
