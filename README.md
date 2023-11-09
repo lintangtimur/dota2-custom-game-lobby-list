@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401914394969 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Kwee "KAYPANG" Ceng |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 18:14:26 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401916514830 |
-| Players | 3/8 |
-| Host Name | Porn Hub |
+| Players | 1/8 |
+| Host Name | ♥Murzik♥ |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 9, 2023 18:16:24 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401905413061 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | eby izobreteniya |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:06:00 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401916236671 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Kivi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 18:16:09 |
@@ -104,19 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401917212442 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Wolfシ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:17:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401905877477 |
-| Players | 13/15 |
-| Host Name | tokyotok |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:06:26 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,9 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401916542128 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | kukuruku |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:16:25 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28511401917421029 |
+| Players | 1/7 |
+| Host Name | D31sdkvmksVDKSV |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 18:17:14 |
 
 
