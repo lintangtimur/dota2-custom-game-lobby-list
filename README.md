@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402347701867 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | lil uzi's yurt |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 23:00:14 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 22:27:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402341928518 |
-| Players | 6/10 |
-| Host Name | Pain雨天 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 22:56:08 |
+| Lobby ID | 28511402341082319 |
+| Players | 13/15 |
+| Host Name | parker chinchano |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 22:55:32 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402338873652 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | [JnM]Nickname |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 22:54:00 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402318993651 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Wiesław Binarny 내가 먹을 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 22:40:37 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402328607231 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | WHAT XUXA FUE |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 22:46:59 |
@@ -139,20 +139,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402351494268 |
-| Players | 1/10 |
-| Host Name | vayo |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 9, 2023 23:02:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511402298361260 |
-| Players | 4/15 |
-| Host Name | 123 |
+| Lobby ID | 28511402351432090 |
+| Players | 6/10 |
+| Host Name | SHUCHIY SOM |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 22:27:06 |
+| Lobby Creation Time | Thursday, November 9, 2023 23:02:56 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511402351341988 |
+| Players | 3/10 |
+| Host Name | Sapsan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 23:02:52 |
 
 
 |  | ot3_necropolis_ffa |
@@ -164,22 +164,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 23:02:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402351341988 |
-| Players | 4/10 |
-| Host Name | Sapsan |
+| Lobby ID | 28511402320463198 |
+| Players | 2/8 |
+| Host Name | Daubi anal |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 23:02:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402351432090 |
-| Players | 2/10 |
-| Host Name | SHUCHIY SOM |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 23:02:56 |
+| Lobby Creation Time | Thursday, November 9, 2023 22:41:35 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -194,7 +185,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402348788950 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Retired |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 23:01:01 |
@@ -207,5 +198,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | benzthebest |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 22:58:49 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511402351768495 |
+| Players | 1/10 |
+| Host Name | Arcane~ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 23:03:10 |
 
 
