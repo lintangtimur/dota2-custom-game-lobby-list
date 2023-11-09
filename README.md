@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401588071051 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | Overlord Bagnose |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 9, 2023 09:44:40 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401588238363 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Synchronicity III |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:45:04 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401588265116 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Datedi |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 09:45:07 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401588273482 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | eooooooooooooooooo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:45:08 |
@@ -92,19 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 09:45:48 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401588777004 |
-| Players | 1/8 |
-| Host Name | BigBlackCock |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 09:46:19 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401587863366 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Apsulov |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 09:44:11 |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401588319521 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | What the help ? |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 9, 2023 09:45:15 |
