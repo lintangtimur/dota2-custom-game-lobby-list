@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401541948803 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | TitanPudge |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 07:55:06 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401475042545 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Пудж жаж кринж жадж мЯсо) |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 05:24:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401541987082 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | TORNADO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 07:55:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401542635132 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | I'm dead |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 07:56:47 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401541349747 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | REDPAPU |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 07:53:40 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401542611875 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 07:56:44 |
@@ -92,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 07:57:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401543077732 |
-| Players | 3/8 |
-| Host Name | メルエム |
+| Lobby ID | 28511401543126259 |
+| Players | 2/10 |
+| Host Name | 17'5 4 7Я4P |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 07:57:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401543083282 |
-| Players | 1/8 |
-| Host Name | Mituo` |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 07:57:52 |
+| Lobby Creation Time | Thursday, November 9, 2023 07:57:58 |
 
 
 |  | epic_boss_fight_nightmare |
