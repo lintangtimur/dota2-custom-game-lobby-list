@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401636577412 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Gaben Naam Ka Kutta Paalu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 11:29:00 |
@@ -38,10 +38,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 11:31:07 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401638154586 |
+| Players | 2/15 |
+| Host Name | Кредит на Бэбика |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 11:32:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401638229177 |
+| Players | 4/15 |
+| Host Name | Goodbye Bystander |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 11:32:09 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401620590982 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Seek |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 10:56:54 |
