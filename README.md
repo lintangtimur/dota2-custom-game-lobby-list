@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401872594816 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Pilɡrəm |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 17:32:27 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401874370005 |
-| Players | 15/24 |
+| Players | 18/24 |
 | Host Name | CEO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 17:34:23 |
@@ -41,28 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401873875171 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Fantazia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 17:33:51 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401874307691 |
-| Players | 8/10 |
-| Host Name | soda |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 9, 2023 17:34:19 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401875718429 |
-| Players | 1/8 |
-| Host Name | 青峰大輝 |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 17:35:50 |
+| Lobby ID | 28511401875939731 |
+| Players | 3/8 |
+| Host Name | Miraneuh |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 9, 2023 17:36:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -72,24 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Evlogos |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 17:35:54 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401875939731 |
-| Players | 1/8 |
-| Host Name | Miraneuh |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 9, 2023 17:36:04 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401876008379 |
-| Players | 1/15 |
-| Host Name | GtGudKid |
-| Region | INDIA |
-| Lobby Creation Time | Thursday, November 9, 2023 17:36:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ang qt qt ko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 17:33:42 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401876453066 |
+| Players | 2/10 |
+| Host Name | Разочарование |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 17:36:37 |
 
 
