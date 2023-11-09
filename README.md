@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401893945547 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Kukurudza Striptizerka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 17:54:43 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401895065311 |
-| Players | 1/15 |
-| Host Name | h3po444 |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 17:55:51 |
+| Lobby ID | 28511401891822664 |
+| Players | 11/15 |
+| Host Name | сада маза |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 17:52:34 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401894817665 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | TheRealBubmels |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 17:55:36 |
@@ -65,22 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 17:49:50 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401892896769 |
-| Players | 1/10 |
-| Host Name | tv/vpatoke |
+| Lobby ID | 28511401895274958 |
+| Players | 1/24 |
+| Host Name | noob team |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 17:53:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401891822664 |
-| Players | 10/15 |
-| Host Name | сада маза |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 17:52:34 |
+| Lobby Creation Time | Thursday, November 9, 2023 17:56:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -92,12 +83,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 17:52:45 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401882959019 |
+| Players | 2/10 |
+| Host Name | Aight, Bet! |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 17:43:29 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401891698877 |
+| Players | 9/10 |
+| Host Name | Mawen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 17:52:27 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28511401895215596 |
-| Players | 2/5 |
-| Host Name | Умпа-Лумпа |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 17:56:00 |
+| Lobby ID | 28511401895403587 |
+| Players | 1/5 |
+| Host Name | zzZ |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 17:56:11 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401895408031 |
+| Players | 1/5 |
+| Host Name | 240 km/peak_Zalupa |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 17:56:11 |
 
 
