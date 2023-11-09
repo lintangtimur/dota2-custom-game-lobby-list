@@ -5,28 +5,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401679301198 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | locotto |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 9, 2023 12:47:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401688547043 |
-| Players | 22/24 |
-| Host Name | 11by |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 13:04:55 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511401691881121 |
-| Players | 1/24 |
-| Host Name | H1RO |
+| Lobby ID | 28511401693558673 |
+| Players | 2/8 |
+| Host Name | pitsa |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 13:11:15 |
+| Lobby Creation Time | Thursday, November 9, 2023 13:14:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401691497073 |
+| Players | 6/15 |
+| Host Name | xTheSdk_ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 13:10:32 |
 
 
 |  | ot3_desert_octet |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401689057264 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | hhhjj |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 9, 2023 13:05:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401691726842 |
-| Players | 19/24 |
-| Host Name | 9527 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 13:10:58 |
+| Lobby ID | 28511401692967680 |
+| Players | 8/15 |
+| Host Name | Datedi |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 13:13:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401692717068 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | ? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:12:47 |
@@ -83,57 +83,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 13:12:58 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401691497073 |
-| Players | 6/15 |
-| Host Name | xTheSdk_ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 13:10:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401692967680 |
-| Players | 5/15 |
-| Host Name | Datedi |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 13:13:15 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401689502630 |
-| Players | 13/15 |
-| Host Name | Mr.Bass |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 13:06:45 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511401693497225 |
-| Players | 2/10 |
-| Host Name | antuar |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 9, 2023 13:14:12 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28511401693399032 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | хз |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:14:01 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511401693477737 |
-| Players | 1/7 |
-| Host Name | Leysritt | アホイ! |
+| Lobby ID | 28511401684960449 |
+| Players | 5/10 |
+| Host Name | Aight, Bet! |
 | Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 13:14:10 |
+| Lobby Creation Time | Thursday, November 9, 2023 12:58:03 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401693595316 |
+| Players | 8/10 |
+| Host Name | antuar |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 13:14:23 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401693745813 |
+| Players | 1/10 |
+| Host Name | ang qt qt ko |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 13:14:40 |
 
 
