@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401532170676 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | I hate all of you |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 07:31:19 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401535561923 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Teamp0ison |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 07:39:38 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401535700731 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | BaBaDuK |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 07:39:59 |
