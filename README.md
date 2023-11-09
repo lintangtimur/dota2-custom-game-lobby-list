@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401779610911 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ✿GOJO SATORU✿ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 15:27:55 |
