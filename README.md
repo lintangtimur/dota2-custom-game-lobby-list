@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401757804654 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Vince bot |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 14:56:22 |
@@ -83,22 +83,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 14:56:58 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401751885762 |
-| Players | 9/10 |
-| Host Name | планы на вечер |
+| Lobby ID | 28511401758313896 |
+| Players | 1/15 |
+| Host Name | LUNACOM |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 14:47:49 |
+| Lobby Creation Time | Thursday, November 9, 2023 14:57:06 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401754702236 |
-| Players | 2/7 |
-| Host Name | terrencelim321 |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 14:51:53 |
+| Lobby ID | 28511401758333614 |
+| Players | 2/15 |
+| Host Name | Neyder Polo21 (XD) |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 14:57:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401758377045 |
+| Players | 4/10 |
+| Host Name | Negative |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 14:57:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | jusplayin |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 9, 2023 14:56:06 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28511401754702236 |
+| Players | 2/7 |
+| Host Name | terrencelim321 |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 14:51:53 |
 
 
