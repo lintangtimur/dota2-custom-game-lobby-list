@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401779568163 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | ДенискаЗИКСЕ |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 15:27:51 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401780061997 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Sneaky Beaky Like ¯\_(ツ)_/¯ |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 9, 2023 15:28:33 |
@@ -148,10 +148,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28511401781021369 |
+| Lobby ID | 28511401779642516 |
 | Players | 1/5 |
-| Host Name | Igor |
+| Host Name | SOFT^^ |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 15:27:57 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401781294419 |
+| Players | 1/5 |
+| Host Name | Привет, ПОСТРИЖИСЯ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 15:29:52 |
+| Lobby Creation Time | Thursday, November 9, 2023 15:30:15 |
 
 
