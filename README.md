@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401820376061 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Your mom |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 16:24:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401819905008 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Emotional Damage |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 16:23:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401821177307 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | Tonika- |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 9, 2023 16:25:40 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 16:25:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401818964596 |
-| Players | 9/10 |
-| Host Name | свечу с базы |
+| Lobby ID | 28511401821500945 |
+| Players | 1/15 |
+| Host Name | Ladislao |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 16:22:31 |
+| Lobby Creation Time | Thursday, November 9, 2023 16:26:08 |
 
 
 |  | epic_boss_fight_nightmare |
