@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401642869092 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | RockSpirit |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 11:40:44 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 11:42:07 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401644041031 |
-| Players | 23/24 |
-| Host Name | MAMÁ SOY EMO (PXNDX) |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 11:42:53 |
+| Lobby ID | 28511401645168271 |
+| Players | 3/15 |
+| Host Name | Werlion |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 11:44:57 |
 
 
 |  | ot3_gardens_duo |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401645136498 |
-| Players | 3/15 |
-| Host Name | Werlion |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 11:44:54 |
+| Lobby ID | 28511401645245997 |
+| Players | 1/15 |
+| Host Name | Jenny`아기 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 11:45:06 |
 
 
 |  | epic_boss_fight_nightmare |
