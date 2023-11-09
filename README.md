@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401885267357 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Pucking & kacking |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 9, 2023 17:45:52 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401885001327 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | мазня говном |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 17:45:36 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401882959019 |
-| Players | 3/10 |
-| Host Name | Arjay |
+| Players | 2/10 |
+| Host Name | Kimdyy |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 17:43:29 |
 
@@ -85,15 +85,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511401884634307 |
-| Players | 1/10 |
-| Host Name | AHyperDuck |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 17:45:13 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28511401885001592 |
 | Players | 2/10 |
 | Host Name | Imperator Bulka |
@@ -101,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 17:45:36 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511401885523440 |
-| Players | 1/5 |
-| Host Name | ANTONIO PRIPEZDDYCHI |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 17:46:08 |
+| Lobby ID | 28511401885703761 |
+| Players | 2/10 |
+| Host Name | AHyperDuck |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 9, 2023 17:46:20 |
 
 
