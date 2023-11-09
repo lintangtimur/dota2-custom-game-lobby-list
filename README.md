@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401913480008 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | editenseimamaluv |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:13:35 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401908025921 |
-| Players | 6/8 |
-| Host Name | Batya |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:08:29 |
+| Lobby ID | 28511401914197973 |
+| Players | 2/8 |
+| Host Name | Matye Bal |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 9, 2023 18:14:15 |
 
 
 |  | ot3_gardens_duo |
@@ -101,28 +101,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 18:13:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401911466612 |
-| Players | 12/15 |
-| Host Name | fuzzy original |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:11:43 |
+| Lobby ID | 28511401914119669 |
+| Players | 6/8 |
+| Host Name | Сигма чучмек |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 18:14:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401905413061 |
-| Players | 10/15 |
-| Host Name | ЛШДДУК |
+| Lobby ID | 28511401905877477 |
+| Players | 7/15 |
+| Host Name | . |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:06:00 |
+| Lobby Creation Time | Thursday, November 9, 2023 18:06:26 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401905126060 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Dota<3 |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 18:05:43 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401911271447 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | 起个名真纠结 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 18:11:32 |
