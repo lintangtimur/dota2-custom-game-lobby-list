@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401706015259 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | xdxdxd |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 13:36:30 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 13:38:43 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511401706805278 |
-| Players | 4/5 |
-| Host Name | Miketan |
+| Lobby ID | 28511401699410536 |
+| Players | 2/10 |
+| Host Name | ► Good gay, noob played |
 | Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 13:37:50 |
+| Lobby Creation Time | Thursday, November 9, 2023 13:25:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | {THE~@} |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 13:38:27 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511401699410536 |
-| Players | 2/10 |
-| Host Name | ► Good gay, noob played |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 13:25:06 |
 
 
