@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401812616305 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | How u doin? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 16:13:33 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401689057264 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | DotaPlayer1 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 9, 2023 13:05:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401810797255 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | Nadia Omara |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 16:11:02 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ttv/D1k1y_N3GR1L4 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 16:12:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401812862059 |
-| Players | 1/8 |
-| Host Name | Уфимкий Pizdoliz |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 16:13:54 |
 
 
 |  | epic_boss_fight_nightmare |
