@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401729027799 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Deadline |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 14:13:28 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401725628610 |
-| Players | 5/8 |
+| Players | 3/8 |
 | Host Name | Padoru |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 14:08:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401730398085 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | без негатива |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 14:15:40 |
@@ -85,20 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401731322773 |
+| Lobby ID | 28511401731449856 |
 | Players | 1/24 |
 | Host Name | Notsalty |
 | Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 14:17:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401730788458 |
-| Players | 3/8 |
-| Host Name | Nerito |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 14:16:17 |
+| Lobby Creation Time | Thursday, November 9, 2023 14:17:20 |
 
 
 |  | epic_boss_fight_hard |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401731195303 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Yusei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 14:16:56 |
