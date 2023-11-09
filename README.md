@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401725528164 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Barrack Osama |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 14:07:59 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401689057264 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Ҝ丨几丂卄丨 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 9, 2023 13:05:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401727297494 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | I3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 14:10:45 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401728576798 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Patiance☺ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 14:12:45 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401729026045 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Exp debuff enjoyer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 14:13:27 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401728656681 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Bud chi co |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 14:12:52 |
