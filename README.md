@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401801303225 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | ChrryI |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 9, 2023 15:57:56 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401801631410 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | How u doin? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 15:58:23 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401802038457 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | молчун с ангельским голосом |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 15:58:57 |
@@ -135,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ♂ I'm Performance Artist ♂ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 15:52:26 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401787713132 |
+| Players | 9/10 |
+| Host Name | Cubby |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 15:39:07 |
 
 
