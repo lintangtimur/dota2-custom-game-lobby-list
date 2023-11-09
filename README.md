@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 10:06:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401596283548 |
-| Players | 9/15 |
-| Host Name | ...... |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 10:03:49 |
+| Lobby ID | 28511401593832451 |
+| Players | 6/8 |
+| Host Name | 永恒.T-Rex |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 09:58:11 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401596974799 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | 1223 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 10:05:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401596163238 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Help me carry these animals! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 10:03:33 |
@@ -72,33 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | King |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 10:06:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401593832451 |
-| Players | 6/8 |
-| Host Name | 永恒.T-Rex |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 09:58:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401594961667 |
-| Players | 14/15 |
-| Host Name | GabiruMaxx |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 10:00:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401598167239 |
-| Players | 1/15 |
-| Host Name | husnters |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 10:08:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -117,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Yusei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 10:06:52 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401598260832 |
+| Players | 1/5 |
+| Host Name | ChicleOwO |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 10:08:13 |
 
 
