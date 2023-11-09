@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401582407741 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | .l. |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:31:20 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401581186852 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | CameraMan |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:28:25 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401582550205 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | YA NO HACKEO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:31:40 |
@@ -101,10 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 09:32:01 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401582767305 |
+| Players | 3/8 |
+| Host Name | Yuta Okkotsu |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 09:32:11 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401581088517 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Dango Daikazoku |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 09:28:12 |
