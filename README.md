@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401766253675 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | TALIH |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 9, 2023 15:08:49 |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401784987281 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Dota 2 Groomologist |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 9, 2023 15:35:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401784157246 |
-| Players | 7/8 |
-| Host Name | SSS+Rankghoul |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 9, 2023 15:34:12 |
 
 
 |  | ot3_gardens_duo |
