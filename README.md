@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401575396739 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | Potatoes gonna potate! |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 09:14:55 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401475042545 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Пудж жаж кринж жадж мЯсо) |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 05:24:11 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 08:52:15 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401575620105 |
-| Players | 21/24 |
-| Host Name | MoonRay |
+| Lobby ID | 28511401576828218 |
+| Players | 1/10 |
+| Host Name | D10S |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 09:15:27 |
+| Lobby Creation Time | Thursday, November 9, 2023 09:18:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401576085866 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | :scythephόriâ 力 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 09:16:34 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401576802213 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | LooPer |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:18:16 |
@@ -77,18 +77,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401576827512 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | AcidBlack |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 09:18:19 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401574661874 |
-| Players | 7/10 |
-| Host Name | "WanDerR" |
+| Lobby ID | 28511401576835827 |
+| Players | 3/10 |
+| Host Name | Kenny'S |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 09:13:12 |
+| Lobby Creation Time | Thursday, November 9, 2023 09:18:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401576888329 |
+| Players | 1/15 |
+| Host Name | Connor McGee Thor |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 09:18:28 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401577004732 |
+| Players | 1/10 |
+| Host Name | ⠊⠝⠙⠑⠎⠎⠽ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 09:18:45 |
 
 
