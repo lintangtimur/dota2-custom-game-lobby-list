@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401453701976 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 04:44:26 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401568197181 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | EL TIO LINO!! |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 08:57:19 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401568792566 |
-| Players | 3/8 |
-| Host Name | Richi Rage |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 08:58:43 |
+| Lobby ID | 28511401568917477 |
+| Players | 2/15 |
+| Host Name | daddy's little slug |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 08:59:01 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401567864926 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | ScorpioN |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 08:56:32 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401567704887 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | XXX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 08:56:10 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401567728500 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | FOXHOUND |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 08:56:13 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | pox na game |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 08:57:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401568889999 |
+| Players | 1/8 |
+| Host Name | Mango |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 08:58:57 |
 
 
 |  | epic_boss_fight_challenger |
