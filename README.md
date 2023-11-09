@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401617579864 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Vernedomo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 10:50:20 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401617241926 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | x |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 10:49:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401616958068 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 10:49:00 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401616009895 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | Explosive Shot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 10:46:57 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | (₴ł₦ ₦Ø₥฿ⱤɆ) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 10:51:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401617931962 |
+| Players | 2/15 |
+| Host Name | tu bolceador favorito ♥ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 10:51:06 |
 
 
 |  | epic_boss_fight_normal |
