@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401836218558 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | 369 |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 16:47:12 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401835886307 |
-| Players | 6/8 |
-| Host Name | АДСКИЙ САТАНА |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 16:46:44 |
+| Lobby ID | 28511401837241331 |
+| Players | 3/8 |
+| Host Name | Кокенко |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 9, 2023 16:48:36 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401835208548 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | underatted |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 16:45:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401836887776 |
-| Players | 1/8 |
-| Host Name | Kukurudza Striptizerka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 16:48:06 |
+| Lobby ID | 28511401837545611 |
+| Players | 3/15 |
+| Host Name | HalfwayToHeaven |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 9, 2023 16:49:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,34 +86,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401835878177 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | [KFC] Yamori apathy.. run |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 16:46:43 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401837091293 |
-| Players | 12/15 |
-| Host Name | 33 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 16:48:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401837241331 |
-| Players | 3/8 |
-| Host Name | Кокенко |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 9, 2023 16:48:36 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401837413877 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | TakeMeAway |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 16:48:50 |
@@ -131,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401836753625 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | MESSI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 16:47:55 |
