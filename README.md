@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401567561945 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Papi te vas< |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 08:55:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401567242271 |
-| Players | 6/24 |
+| Players | 13/24 |
 | Host Name | ᴼᴷᴬᴹʸ 狼 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 08:55:06 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401566986642 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Sicario-Ursz |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 08:54:30 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401567523811 |
-| Players | 1/10 |
-| Host Name | Мiсячне Сяйво |
+| Players | 7/10 |
+| Host Name | в кабине Padalshchik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 08:55:45 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401567704887 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | XXX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 08:56:10 |
@@ -87,17 +87,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28511401567728500 |
 | Players | 4/15 |
-| Host Name | Solo Leveling |
+| Host Name | FOXHOUND |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 08:56:13 |
 
 
-|  | epic_boss_fight_challenger |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401558207293 |
-| Players | 1/7 |
-| Host Name | Apricot Wick |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 08:33:43 |
+| Lobby ID | 28511401567864926 |
+| Players | 3/8 |
+| Host Name | ScorpioN |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 08:56:32 |
 
 
