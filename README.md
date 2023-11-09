@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401774520283 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | 暴走的小喵 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 15:20:47 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401775367933 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | maron |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 15:21:59 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401777008857 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | 16 ton |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 15:24:18 |
@@ -86,8 +86,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401777097129 |
-| Players | 2/8 |
-| Host Name | Jadlux |
+| Players | 1/8 |
+| Host Name | Псих |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 15:24:26 |
 
@@ -103,55 +103,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401777537952 |
-| Players | 4/8 |
-| Host Name | ssssssssss |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 15:25:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28511401777485380 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | no |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 15:24:58 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401769622118 |
-| Players | 1/5 |
-| Host Name | вечный жид |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 15:13:41 |
+| Lobby ID | 28511401777683454 |
+| Players | 1/10 |
+| Host Name | Plus Ultra |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 15:25:15 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401776687234 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | cece |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 15:23:51 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511401772637403 |
-| Players | 8/10 |
-| Host Name | F R 1 S S🐱‍👤🐱‍👤 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 15:18:03 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511401777512079 |
-| Players | 1/5 |
-| Host Name | Мне по КАЙФУ |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 15:25:00 |
 
 
