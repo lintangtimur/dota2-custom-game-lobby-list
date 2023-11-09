@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401571170010 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Kabir |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:04:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401569756235 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | nv |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 09:01:05 |
@@ -60,27 +60,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28511401569549654 |
 | Players | 2/24 |
-| Host Name | SUBO 1XBET |
+| Host Name | EL CAMINO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 09:00:33 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401571137150 |
-| Players | 1/15 |
-| Host Name | jap dog |
-| Region | Unknown |
-| Lobby Creation Time | Thursday, November 9, 2023 09:04:32 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401570719443 |
-| Players | 12/15 |
-| Host Name | jake69 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 09:03:29 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 09:05:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401569969598 |
-| Players | 9/10 |
-| Host Name | Gatsu |
+| Lobby ID | 28511401570719443 |
+| Players | 13/15 |
+| Host Name | jake69 |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 09:01:37 |
+| Lobby Creation Time | Thursday, November 9, 2023 09:03:29 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401569450140 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Реальный арбуз |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 09:00:17 |
