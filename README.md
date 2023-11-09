@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401827881408 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | WithoutU |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 16:35:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401766253675 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | TALIH |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 9, 2023 15:08:49 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401829411031 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | максима |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 16:37:38 |
@@ -83,22 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 16:37:17 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401829116360 |
-| Players | 1/8 |
-| Host Name | GIGA CHAD |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 16:37:13 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401820376061 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Your mom |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 16:24:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401829701108 |
+| Players | 2/8 |
+| Host Name | GIGA CHAD |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 16:38:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -110,12 +110,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 16:19:52 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28511401829620014 |
-| Players | 2/10 |
-| Host Name | чикиряу.siph0nes |
+| Lobby ID | 28511401829741756 |
+| Players | 1/5 |
+| Host Name | ϯӁȈHarbinger-RitualӁϯ |
 | Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 16:37:56 |
+| Lobby Creation Time | Thursday, November 9, 2023 16:38:06 |
 
 
