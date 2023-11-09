@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402362294439 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Modo Madarachyo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 23:10:48 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402347701867 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | nniikkkita |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 23:00:14 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 22:27:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402320463198 |
-| Players | 5/8 |
-| Host Name | тильтед |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 22:41:35 |
+| Lobby ID | 28511402362644604 |
+| Players | 4/24 |
+| Host Name | Naive |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 23:11:03 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402358798753 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | 11by |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 23:08:16 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402358347033 |
-| Players | 5/15 |
+| Players | 3/15 |
 | Host Name | RTZ ng SEA! |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 23:07:56 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402362144395 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | AHAHAHAHAHAHAHAHAHAHHAH |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 23:10:42 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402322311721 |
-| Players | 10/15 |
+| Players | 7/15 |
 | Host Name | Escape the MATRIX |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 22:42:49 |
@@ -140,25 +140,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402298361260 |
-| Players | 5/15 |
+| Players | 13/15 |
 | Host Name | 123 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 22:27:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402362543025 |
-| Players | 1/15 |
-| Host Name | Lazhik_51k |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 9, 2023 23:10:59 |
+| Lobby ID | 28511402341928518 |
+| Players | 1/10 |
+| Host Name | Gulik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 22:56:08 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402362572986 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | USURPATOR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 23:11:00 |
@@ -173,30 +173,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 23:02:15 |
 
 
-|  | ot3_desert_octet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511402362644604 |
-| Players | 3/24 |
-| Host Name | Naive |
+| Lobby ID | 28511402362902879 |
+| Players | 2/10 |
+| Host Name | にこ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 23:11:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402351432090 |
-| Players | 9/10 |
-| Host Name | SHUCHIY SOM |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 23:02:56 |
+| Lobby Creation Time | Thursday, November 9, 2023 23:11:15 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511402360104685 |
-| Players | 8/10 |
-| Host Name | Lilituya |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 9, 2023 23:09:12 |
+| Lobby ID | 28511402358313767 |
+| Players | 9/10 |
+| Host Name | _____ |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 9, 2023 23:07:55 |
 
 
