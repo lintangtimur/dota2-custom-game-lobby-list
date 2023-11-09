@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401861514164 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Jim |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 17:19:50 |
@@ -29,28 +29,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 17:21:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401862420318 |
-| Players | 8/15 |
-| Host Name | aqfdsdafsaqasskjsadjf |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 17:20:55 |
+| Lobby ID | 28511401863517692 |
+| Players | 2/8 |
+| Host Name | ๋ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 17:22:13 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401859720494 |
-| Players | 1/10 |
-| Host Name | ФЫФ |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 17:17:40 |
+| Lobby ID | 28511401863935685 |
+| Players | 3/10 |
+| Host Name | prophet sunboy |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 17:22:42 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401860977561 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | strangby |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 17:19:11 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401862371197 |
-| Players | 9/10 |
-| Host Name | ЗАДОДЖИЛ АБОРТ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 17:20:51 |
+| Lobby ID | 28511401863653305 |
+| Players | 3/10 |
+| Host Name | RNB |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 17:22:22 |
 
 
 |  | ot3_desert_octet |
@@ -72,42 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | chokeza555+ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 17:21:06 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401861328676 |
-| Players | 7/8 |
-| Host Name | ★_hisokadano_♣ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 17:19:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401863653305 |
-| Players | 2/10 |
-| Host Name | RNB |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 17:22:22 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511401862608707 |
-| Players | 7/10 |
-| Host Name | Badass |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 17:21:08 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511401862076522 |
-| Players | 1/10 |
-| Host Name | WhyBaby? |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 17:20:30 |
 
 
 |  | epic_boss_fight_normal |
