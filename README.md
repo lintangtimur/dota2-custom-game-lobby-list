@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401546165225 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Leon |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 08:05:20 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401546127847 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Captain Binky |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 08:05:14 |
