@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401770553341 |
-| Players | 13/15 |
-| Host Name | nattyboons |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 15:15:03 |
+| Lobby ID | 28511401771961354 |
+| Players | 2/15 |
+| Host Name | ГЦН-195М |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 15:17:05 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401766253675 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | TALIH |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 9, 2023 15:08:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401769340075 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | ПТ на порядочность |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 15:13:18 |
@@ -74,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 15:16:15 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401771515306 |
-| Players | 1/15 |
-| Host Name | 万个人奋斗 |
-| Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Thursday, November 9, 2023 15:16:27 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401771543208 |
+| Lobby ID | 28511401772025762 |
 | Players | 1/8 |
 | Host Name | WAYNE |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 15:16:29 |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 9, 2023 15:17:11 |
 
 
 |  | epic_boss_fight_normal |
@@ -122,9 +113,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401771869319 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Rebecca |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 15:16:57 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401767266391 |
+| Players | 7/10 |
+| Host Name | Dango Daikazoku |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 15:10:18 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401772043386 |
+| Players | 1/10 |
+| Host Name | 6667 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 15:17:12 |
 
 
