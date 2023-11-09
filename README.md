@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401613186770 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Purple Star |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 10:40:49 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401609899121 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | SahyuniiツN♥ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 10:33:40 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401614189347 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Euphoria前景 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 10:42:59 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ramenhotep |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 9, 2023 10:42:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401614254302 |
+| Players | 3/15 |
+| Host Name | Gabella |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 10:43:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401614311948 |
+| Players | 6/8 |
+| Host Name | Lord Valdomero |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 10:43:15 |
 
 
 |  | epic_boss_fight_normal |
