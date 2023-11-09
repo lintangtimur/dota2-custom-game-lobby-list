@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402091964537 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Sopita |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 20:22:33 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402132475561 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | -600 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 20:46:28 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402130433360 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Predrag Krtolica |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 9, 2023 20:45:14 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402128434375 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | chill doto |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 20:44:01 |
@@ -139,18 +139,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402132544549 |
-| Players | 1/15 |
-| Host Name | Almat |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 9, 2023 20:46:31 |
+| Lobby ID | 28511402124811931 |
+| Players | 13/15 |
+| Host Name | fly down |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 20:41:50 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402122763527 |
 | Players | 5/15 |
-| Host Name | Hectic |
+| Host Name | mylovsergey |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 20:40:36 |
 
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402122876014 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | 99 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 9, 2023 20:40:40 |
