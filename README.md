@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401475042545 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Пудж жаж кринж жадж мЯсо) |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 05:24:11 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401660613609 |
-| Players | 14/15 |
-| Host Name | Kam1koto |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 12:13:16 |
+| Lobby ID | 28511401659746051 |
+| Players | 3/15 |
+| Host Name | Joshe ▼♥ ♥☻giordota.com |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 12:11:40 |
 
 
 |  | ot3_necropolis_ffa |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401659746051 |
-| Players | 3/15 |
-| Host Name | Joshe ▼♥ ♥☻giordota.com |
+| Lobby ID | 28511401661745372 |
+| Players | 1/15 |
+| Host Name | road 3k |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 12:11:40 |
+| Lobby Creation Time | Thursday, November 9, 2023 12:15:17 |
 
 
 |  | epic_boss_fight_nightmare |
