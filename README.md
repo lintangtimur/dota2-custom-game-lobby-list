@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401779048877 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | ValKyria GaLanTiS♥ |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 15:27:08 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401783727753 |
-| Players | 21/24 |
-| Host Name | chill doto |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 15:33:36 |
+| Lobby ID | 28511401786481593 |
+| Players | 1/10 |
+| Host Name | drdmr |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 15:37:25 |
 
 
 |  | ot3_desert_octet |
@@ -50,45 +50,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401784987281 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Dota 2 Groomologist |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 9, 2023 15:35:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401785668705 |
-| Players | 4/8 |
-| Host Name | gawkdeave |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 15:36:17 |
+| Lobby ID | 28511401779171121 |
+| Players | 14/24 |
+| Host Name | JoeShiesty |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 15:27:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401786765156 |
+| Players | 2/10 |
+| Host Name | Nextlevel_tuuk |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 15:37:48 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401780910459 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Caesar_091 |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 9, 2023 15:29:43 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511401785205907 |
-| Players | 1/10 |
-| Host Name | .!. (-_-) .!. |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 15:35:39 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511401786402541 |
-| Players | 1/5 |
-| Host Name | Satan |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 15:37:18 |
 
 
