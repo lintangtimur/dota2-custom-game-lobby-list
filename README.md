@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401926793871 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | ็ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 18:25:36 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 18:30:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401937354726 |
-| Players | 6/8 |
-| Host Name | лапатасьйон |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 18:34:32 |
+| Lobby ID | 28511401940305964 |
+| Players | 1/15 |
+| Host Name | Deep Lore Investigator |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 18:36:58 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401934745513 |
-| Players | 10/24 |
+| Players | 8/24 |
 | Host Name | 扭转乾坤 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 18:32:21 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401933464630 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ¤︻デ≡ 一 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:31:17 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401938726153 |
-| Players | 10/15 |
+| Players | 8/15 |
 | Host Name | Feedel |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:35:40 |
@@ -137,19 +137,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 18:36:51 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401940220599 |
-| Players | 4/8 |
-| Host Name | Sad |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:36:54 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401938653208 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Mr.Henky |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 18:35:36 |
