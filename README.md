@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401788617687 |
-| Players | 7/8 |
-| Host Name | БОГДАН ТАРАКАН |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 15:40:22 |
+| Lobby ID | 28511401790966421 |
+| Players | 1/8 |
+| Host Name | shevtim |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 15:43:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401789551919 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 15:41:40 |
@@ -101,24 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 15:43:53 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401790966421 |
-| Players | 1/8 |
-| Host Name | shevtim |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 15:43:37 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401791243691 |
-| Players | 1/15 |
-| Host Name | 11234 |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 15:44:02 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401788647924 |
@@ -137,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 15:39:07 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28511401791110649 |
-| Players | 1/5 |
-| Host Name | Kumratov |
+| Lobby ID | 28511401791254188 |
+| Players | 1/7 |
+| Host Name | Krey Seyer |
 | Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 15:43:50 |
+| Lobby Creation Time | Thursday, November 9, 2023 15:44:03 |
 
 
