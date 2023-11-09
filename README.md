@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401682685407 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | MataCholas |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 12:53:49 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401683239418 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ~.~ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 12:54:50 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401475042545 |
-| Players | 1/8 |
-| Host Name | Chris |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 05:24:11 |
+| Lobby ID | 28511401683935503 |
+| Players | 3/15 |
+| Host Name | Tw.tv/cazuy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 12:56:08 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401682142872 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Fred |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 12:52:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401683831723 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | 不和小人一般见识 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 12:55:57 |
@@ -72,6 +72,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | NDD |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 12:53:37 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401683925757 |
+| Players | 4/10 |
+| Host Name | N雨 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 12:56:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401683931074 |
+| Players | 1/15 |
+| Host Name | T-BONE |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 9, 2023 12:56:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511401683934636 |
+| Players | 1/24 |
+| Host Name | 游戏蝗虫农师傅 |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 9, 2023 12:56:08 |
 
 
 |  | epic_boss_fight_nightmare |
