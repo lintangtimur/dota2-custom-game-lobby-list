@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401696247904 |
-| Players | 7/24 |
+| Players | 3/24 |
 | Host Name | < blank > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:19:21 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 15:08:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401786826349 |
-| Players | 1/8 |
-| Host Name | morpheenee |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 15:37:53 |
+| Lobby ID | 28511401786960655 |
+| Players | 2/15 |
+| Host Name | i'm not bad |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 15:38:05 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401779171121 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | JoeShiesty |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 15:27:18 |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Nextlevel_tuuk |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 15:37:48 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401787020828 |
+| Players | 1/10 |
+| Host Name | .twitch.tv/shatunchick |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 15:38:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401787020624 |
+| Players | 2/8 |
+| Host Name | мазня говном |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 15:38:10 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | zxcdown |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 9, 2023 15:37:54 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401787085754 |
+| Players | 1/5 |
+| Host Name | Alf_ |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 15:38:15 |
 
 
