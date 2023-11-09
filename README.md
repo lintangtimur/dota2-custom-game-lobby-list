@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 04:44:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401521820967 |
-| Players | 7/8 |
-| Host Name | Mynni |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 9, 2023 07:05:10 |
+| Lobby ID | 28511401522087942 |
+| Players | 2/10 |
+| Host Name | Run Yo Pockets |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 07:05:51 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401522168896 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | PIZDYK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 07:06:04 |
@@ -77,19 +77,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401520771449 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | doN |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 07:02:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401522087942 |
-| Players | 1/10 |
-| Host Name | Run Yo Pockets |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 07:05:51 |
+| Lobby ID | 28511401522234813 |
+| Players | 1/15 |
+| Host Name | Слизкий Камень |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 07:06:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401521917779 |
+| Players | 14/15 |
+| Host Name | Egotheist |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 07:05:25 |
 
 
 |  | epic_boss_fight_nightmare |
