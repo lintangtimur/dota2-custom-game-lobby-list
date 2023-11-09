@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 12:51:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401682412351 |
-| Players | 14/15 |
-| Host Name | Kure Raian//我回来了 |
+| Lobby ID | 28511401683239418 |
+| Players | 2/8 |
+| Host Name | ~.~ |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 12:53:18 |
+| Lobby Creation Time | Thursday, November 9, 2023 12:54:50 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401682371409 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | =) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 12:53:14 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 12:53:49 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401683239418 |
-| Players | 1/8 |
-| Host Name | ~.~ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 12:54:50 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401682439711 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401683325784 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | [                         ] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 12:55:00 |
