@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402272531584 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | King |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 9, 2023 22:10:41 |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 22:08:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402271534977 |
-| Players | 13/15 |
-| Host Name | unluck |
+| Lobby ID | 28511402261107816 |
+| Players | 3/24 |
+| Host Name | swap commends |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 22:10:02 |
+| Lobby Creation Time | Thursday, November 9, 2023 22:03:32 |
 
 
 |  | ot3_jungle_quintet |
@@ -194,7 +194,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402269561361 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Фридоом(хочу татарочку) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 22:08:47 |
@@ -263,19 +263,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 21:55:38 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402261107816 |
-| Players | 3/24 |
-| Host Name | swap commends |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 22:03:32 |
+| Lobby ID | 28511402269532803 |
+| Players | 13/15 |
+| Host Name | JxPro. |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 22:08:46 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402200609795 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | AI44 |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 21:26:51 |
@@ -284,9 +284,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402268969866 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | YTPO |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 9, 2023 22:08:24 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511402273453705 |
+| Players | 2/5 |
+| Host Name | гргпргунпгхуесос |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 22:11:15 |
 
 
