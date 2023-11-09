@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401526224970 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | SoyChibolo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 07:16:20 |
@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401527110040 |
-| Players | 4/15 |
-| Host Name | Mr_Tapatun |
+| Players | 1/15 |
+| Host Name | Murzabood |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 07:18:34 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401526781264 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Jr |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 07:17:44 |
@@ -74,33 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 07:16:19 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401526367635 |
-| Players | 7/8 |
-| Host Name | Rousseau |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 07:16:42 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511401526923671 |
-| Players | 4/24 |
-| Host Name | iRoyo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 07:18:06 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401527092034 |
-| Players | 1/10 |
-| Host Name | пиздец |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 07:18:32 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401527335698 |
@@ -108,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Rupicola |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 07:19:09 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511401526923671 |
+| Players | 5/24 |
+| Host Name | iRoyo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 07:18:06 |
 
 
 |  | ot3_jungle_quintet |
