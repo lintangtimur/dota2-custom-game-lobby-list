@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401546165225 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | Leon |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 08:05:20 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401546785222 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | fred |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 9, 2023 08:06:49 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 08:05:14 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401545934068 |
-| Players | 7/8 |
-| Host Name | Ducape |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 08:04:46 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401546686948 |
@@ -99,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ♥ Simba |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 08:06:35 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401546991658 |
+| Players | 1/8 |
+| Host Name | Vlad Pitoon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 08:07:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401546322818 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | bodak |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 9, 2023 08:05:42 |
