@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401543862037 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Weganerd |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 07:59:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401544386803 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Abso1ute |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 08:01:00 |
@@ -41,27 +41,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401543735473 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | pichula |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 07:59:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401544339847 |
-| Players | 4/15 |
-| Host Name | q1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 08:00:53 |
+| Lobby ID | 28511401543771952 |
+| Players | 3/8 |
+| Host Name | PoonDip |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 07:59:32 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401543771952 |
-| Players | 2/8 |
-| Host Name | PoonDip |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 07:59:32 |
+| Lobby ID | 28511401544647731 |
+| Players | 1/8 |
+| Host Name | LooPer |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 08:01:38 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401544677377 |
+| Players | 1/15 |
+| Host Name | Hyper Aggressive Maniac |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 08:01:42 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401539928994 |
+| Players | 7/10 |
+| Host Name | HÖennHeim™ |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 07:50:12 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401544652095 |
+| Players | 1/10 |
+| Host Name | bodak |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 9, 2023 08:01:38 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401544770932 |
+| Players | 1/5 |
+| Host Name | I DED |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 08:01:56 |
 
 
