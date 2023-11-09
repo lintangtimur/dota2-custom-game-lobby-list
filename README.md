@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401757348203 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Gliknot |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 14:55:42 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 14:55:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401757804654 |
-| Players | 1/24 |
-| Host Name | Vince bot |
+| Lobby ID | 28511401758313896 |
+| Players | 3/15 |
+| Host Name | LUNACOM |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 14:56:22 |
+| Lobby Creation Time | Thursday, November 9, 2023 14:57:06 |
 
 
 |  | ot3_gardens_duo |
@@ -72,42 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | harosh ponosovich |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 14:55:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401758214656 |
-| Players | 5/8 |
-| Host Name | no |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 14:56:58 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401758313896 |
-| Players | 1/15 |
-| Host Name | LUNACOM |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 14:57:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401758333614 |
-| Players | 2/15 |
-| Host Name | Neyder Polo21 (XD) |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 14:57:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401758377045 |
-| Players | 4/10 |
-| Host Name | Negative |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 14:57:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | terrencelim321 |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 14:51:53 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401758504257 |
+| Players | 1/5 |
+| Host Name | ^_^ |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 14:57:23 |
 
 
