@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401958484255 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | POM |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 18:51:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401958857358 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | yuchisan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:51:54 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401955127295 |
-| Players | 3/15 |
-| Host Name | JoYVaS01 |
+| Players | 1/15 |
+| Host Name | Tentek balaqai |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 18:48:58 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401957274439 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | BootyHunter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 18:50:40 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401956439533 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | SHOOMEKEY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:50:00 |
@@ -101,10 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 18:51:58 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401956017817 |
+| Players | 2/10 |
+| Host Name | [KFC] Yamori apathy.. run |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 18:49:40 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401955932155 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | `_` |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 18:49:36 |
