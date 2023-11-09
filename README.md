@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401598540055 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | Mancosor |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 10:08:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401597463567 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | King |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 10:06:27 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401598325402 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | BETTER CALL SAUL |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 10:08:22 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401596163238 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | Help me carry these animals! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 10:03:33 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401598332638 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Pr3t0r1an |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 9, 2023 10:08:23 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401597650641 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Yusei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 10:06:52 |
