@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401662095073 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | PRISIONERO LINDO LINDO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 12:15:55 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401657324368 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 9, 2023 12:07:14 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401663852446 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | 52! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 12:19:09 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511401664000890 |
-| Players | 1/24 |
-| Host Name | adventure unknown |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 12:19:26 |
 
 
 |  | ot3_gardens_duo |
@@ -90,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 12:16:30 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511401663191766 |
-| Players | 9/10 |
-| Host Name | R Y U K O |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 12:17:57 |
 
 
