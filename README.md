@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401532170676 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | I hate all of you |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 07:31:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401534769133 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 9, 2023 07:37:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401535147521 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | .nl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 07:38:39 |
@@ -85,20 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401535264970 |
-| Players | 5/8 |
-| Host Name | wht r u lookin at? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 07:38:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28511401535272127 |
 | Players | 1/8 |
 | Host Name | El del Rimac :v |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 07:38:57 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511401535316997 |
+| Players | 2/24 |
+| Host Name | Анальный сёрфер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 07:39:03 |
 
 
 |  | epic_boss_fight_normal |
