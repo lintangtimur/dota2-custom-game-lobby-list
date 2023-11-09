@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401532439586 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | ELGATO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 07:32:00 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 07:29:58 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401531576275 |
-| Players | 21/24 |
-| Host Name | ꧁༺ʟʏƈǟռ༻꧂ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 07:29:50 |
+| Lobby ID | 28511401533236221 |
+| Players | 2/10 |
+| Host Name | BedmaN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 07:34:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401532915565 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Antonio Montana |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 07:33:12 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401531874952 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Rael8a |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 07:30:35 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401532940377 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | Mituo` |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 07:33:15 |
@@ -103,20 +103,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401533198746 |
+| Lobby ID | 28511401533362022 |
 | Players | 1/15 |
 | Host Name | 76561198115202172 |
-| Region | Unknown |
-| Lobby Creation Time | Thursday, November 9, 2023 07:33:54 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Thursday, November 9, 2023 07:34:19 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401533236221 |
-| Players | 2/10 |
-| Host Name | BedmaN |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 07:34:00 |
+| Lobby ID | 28511401533365467 |
+| Players | 2/15 |
+| Host Name | Datedi |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 07:34:20 |
 
 
 |  | epic_boss_fight_nightmare |
