@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401888815893 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Хаги Ваги |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 17:49:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401889157017 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | eleskovic^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 17:49:52 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401888690748 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | FreezyMN |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 17:49:24 |
@@ -92,19 +92,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 17:49:50 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401889422412 |
+| Players | 2/10 |
+| Host Name | Сиротка Сиёги |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 17:50:08 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401889316134 |
-| Players | 1/8 |
-| Host Name | WAYNE |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 17:50:02 |
+| Lobby ID | 28511401889390352 |
+| Players | 3/8 |
+| Host Name | Batya |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 17:50:06 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401882959019 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Kimdyy |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 17:43:29 |
