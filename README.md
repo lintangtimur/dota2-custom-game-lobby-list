@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 10:28:14 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401609816928 |
-| Players | 23/24 |
-| Host Name | Q12 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 10:33:29 |
+| Lobby ID | 28511401610252086 |
+| Players | 2/15 |
+| Host Name | tea |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 10:34:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -83,39 +83,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 10:33:35 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401610252086 |
-| Players | 1/15 |
-| Host Name | tea |
+| Lobby ID | 28511401610576233 |
+| Players | 1/24 |
+| Host Name | 想一起玩de请删好友 |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 10:34:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401610235565 |
-| Players | 1/15 |
-| Host Name | Kodos |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 10:34:24 |
+| Lobby Creation Time | Thursday, November 9, 2023 10:35:09 |
 
 
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28511401609131193 |
-| Players | 3/7 |
+| Players | 5/7 |
 | Host Name | FishBunnyCat |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 10:32:00 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511401609794047 |
-| Players | 2/5 |
-| Host Name | aezakmi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 10:33:26 |
+| Lobby ID | 28511401604738305 |
+| Players | 9/10 |
+| Host Name | Gabimaru |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 10:22:26 |
 
 
