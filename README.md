@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401850861214 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | NENEK PEYOT PDIP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 17:06:39 |
@@ -68,28 +68,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401852640829 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Trall |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 17:08:54 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401851749046 |
-| Players | 3/10 |
-| Host Name | h.m.g |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 17:07:46 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401851610298 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Fantazia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 17:07:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401852947450 |
+| Players | 3/8 |
+| Host Name | 3Jl0й 30NBI |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 17:09:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401852940264 |
+| Players | 3/8 |
+| Host Name | БОЛЬШОЙ ЛЕС |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 17:09:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401852979743 |
+| Players | 1/10 |
+| Host Name | creative |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 17:09:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -101,12 +119,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 17:00:28 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28511401852814659 |
-| Players | 1/10 |
+| Lobby ID | 28511401852917662 |
+| Players | 1/7 |
 | Host Name | LIFELINE RES MEEE !!! |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 9, 2023 17:09:07 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 17:09:15 |
 
 
