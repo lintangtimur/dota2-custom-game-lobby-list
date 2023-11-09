@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401822254145 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | TakeMeAway |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 9, 2023 16:27:14 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401822554634 |
-| Players | 1/15 |
-| Host Name | 7ckingMad |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 9, 2023 16:27:41 |
+| Lobby ID | 28511401822374750 |
+| Players | 4/15 |
+| Host Name | Yatoro |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 16:27:25 |
 
 
 |  | ot3_necropolis_ffa |
@@ -110,22 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 16:28:06 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401822374750 |
-| Players | 2/15 |
-| Host Name | Yatoro |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 16:27:25 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511401822650387 |
-| Players | 1/10 |
-| Host Name | What you think? |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 16:27:49 |
+| Lobby ID | 28511401822883198 |
+| Players | 2/10 |
+| Host Name | Moon Moon |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 9, 2023 16:28:10 |
 
 
 |  | epic_boss_fight_nightmare |
