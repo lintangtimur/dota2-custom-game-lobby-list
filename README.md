@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401689057264 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Ҝ丨几丂卄丨 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 9, 2023 13:05:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401717809485 |
-| Players | 1/10 |
-| Host Name | sp_flame |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 13:55:40 |
+| Lobby ID | 28511401720547464 |
+| Players | 5/8 |
+| Host Name | Percocet |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 14:00:06 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401719407361 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | AMATERASU |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 13:58:15 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | vwemor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:58:57 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511401720526922 |
-| Players | 1/24 |
-| Host Name | 樱花  散！ |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Thursday, November 9, 2023 14:00:04 |
 
 
 |  | epic_boss_fight_nightmare |
