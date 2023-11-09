@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401583272762 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | jungle drow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 09:33:23 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401581186852 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | CameraMan |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:28:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401583138003 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Kimetsu |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 09:33:04 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kimera |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:33:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401583527858 |
+| Players | 5/10 |
+| Host Name | Darth Dafty |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 09:33:58 |
 
 
 |  | epic_boss_fight_nightmare |
