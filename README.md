@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401453701976 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 04:44:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401539507442 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | 1223 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 07:49:10 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | La suerte es para los mediocres |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 07:48:28 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401540248237 |
-| Players | 2/8 |
-| Host Name | XANXMVMANER54 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 07:50:59 |
 
 
 |  | epic_boss_fight_nightmare |
