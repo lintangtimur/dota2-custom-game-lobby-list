@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401926793871 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | 蓝胖舌吻双头龙 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 18:25:36 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 18:32:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401942329678 |
-| Players | 7/8 |
-| Host Name | о бля |
+| Lobby ID | 28511401942388441 |
+| Players | 2/15 |
+| Host Name | Fantazia |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:38:37 |
+| Lobby Creation Time | Thursday, November 9, 2023 18:38:40 |
 
 
 |  | ot3_desert_octet |
@@ -74,19 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 18:35:50 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401942388441 |
-| Players | 1/15 |
-| Host Name | Fantazia |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:38:40 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401942397981 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | biubiubiup |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 18:38:40 |
