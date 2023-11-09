@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401850861214 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | NENEK PEYOT PDIP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 17:06:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401851137631 |
-| Players | 3/15 |
+| Players | 7/15 |
 | Host Name | hated |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 9, 2023 17:07:00 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401851102640 |
+| Lobby ID | 28511401851295530 |
 | Players | 1/15 |
-| Host Name | Bob The Patata |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 17:06:57 |
+| Host Name | raskumar |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 9, 2023 17:07:12 |
 
 
 |  | epic_boss_fight_nightmare |
