@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401475042545 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Пудж жаж кринж жадж мЯсо) |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 05:24:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401641642791 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | man |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 11:38:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401643625522 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Fabian! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 11:42:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401644041031 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | MAMÁ SOY EMO (PXNDX) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 11:42:53 |
@@ -77,10 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401644286457 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Ninja Pirate |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 11:43:20 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401644657737 |
+| Players | 3/15 |
+| Host Name | Werlion |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 9, 2023 11:44:02 |
 
 
 |  | epic_boss_fight_nightmare |
