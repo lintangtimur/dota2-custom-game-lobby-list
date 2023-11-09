@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401898804682 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Bezdar' |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 9, 2023 17:59:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401899775061 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Rodi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:00:31 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401899726304 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | Who Telled You? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 18:00:28 |
@@ -92,12 +92,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 18:01:52 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401900403776 |
-| Players | 1/10 |
-| Host Name | ang qt qt ko |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 18:01:08 |
+| Lobby ID | 28511401901241053 |
+| Players | 1/8 |
+| Host Name | Granit |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 18:01:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401901317777 |
+| Players | 1/8 |
+| Host Name | Inoculisfurorem |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 9, 2023 18:02:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401901398892 |
+| Players | 1/8 |
+| Host Name | Batya |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 18:02:06 |
 
 
