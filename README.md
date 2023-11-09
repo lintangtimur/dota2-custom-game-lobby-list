@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401552063450 |
-| Players | 12/15 |
-| Host Name | HarryHarry |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 08:19:21 |
+| Lobby ID | 28511401552420340 |
+| Players | 8/10 |
+| Host Name | CORRALITO |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 08:20:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401453701976 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 04:44:26 |
@@ -32,43 +32,52 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401550439054 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Junya Watanabe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 08:15:31 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401552420340 |
-| Players | 1/10 |
-| Host Name | CORRALITO |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 08:20:14 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511401552426317 |
-| Players | 1/24 |
-| Host Name | Staz |
+| Lobby ID | 28511401552477520 |
+| Players | 14/15 |
+| Host Name | Jphill |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 08:20:14 |
+| Lobby Creation Time | Thursday, November 9, 2023 08:20:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401552479870 |
+| Players | 2/15 |
+| Host Name | ニコラ limitless |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 08:20:22 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401552440346 |
+| Lobby ID | 28511401552690407 |
 | Players | 1/8 |
-| Host Name | It's a Creator |
+| Host Name | F-A-Y-D-A-R-E TONY |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 9, 2023 08:20:52 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401552704411 |
+| Players | 1/8 |
+| Host Name | asura |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 08:20:16 |
+| Lobby Creation Time | Thursday, November 9, 2023 08:20:54 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401546322818 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | b |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 9, 2023 08:05:42 |
