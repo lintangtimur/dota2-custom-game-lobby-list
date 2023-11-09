@@ -20,22 +20,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 05:24:11 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401605022710 |
-| Players | 14/15 |
-| Host Name | Gaius Mors |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 10:23:02 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401604216399 |
-| Players | 23/24 |
-| Host Name | Curcumalonga |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 10:21:18 |
+| Lobby ID | 28511401602037140 |
+| Players | 19/24 |
+| Host Name | ^^ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 10:16:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401605326713 |
+| Players | 1/15 |
+| Host Name | Victor246 |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 10:23:42 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,46 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401605421223 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Queberox |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 10:23:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401605326713 |
-| Players | 1/15 |
-| Host Name | Victor246 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 10:23:42 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511401602037140 |
-| Players | 19/24 |
-| Host Name | ^^ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 10:16:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401604076863 |
-| Players | 9/10 |
-| Host Name | SHAKAツ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 10:21:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401605439366 |
-| Players | 8/10 |
-| Host Name | everylathing hate???? xdxd |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 10:23:57 |
 
 
 |  | epic_boss_fight_nightmare |
