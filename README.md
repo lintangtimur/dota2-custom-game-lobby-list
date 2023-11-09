@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401696247904 |
-| Players | 4/24 |
+| Players | 2/24 |
 | Host Name | < blank > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:19:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401722234246 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | TheBlueJTattoo |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 14:02:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401723488881 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Ebelex1 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 14:04:46 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401724262113 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | zuer tevruulmeer bn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 14:05:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401724401594 |
+| Players | 1/10 |
+| Host Name | Mc LOVIN |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 14:06:12 |
 
 
 |  | epic_boss_fight_nightmare |
