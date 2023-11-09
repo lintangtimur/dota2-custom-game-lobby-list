@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401951512125 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | ВЕНТЕЛЯТОР |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:46:04 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401948370208 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | JESUS |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 18:43:32 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401923957191 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | swap commends |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:23:06 |
@@ -56,12 +56,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 18:46:57 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401945205356 |
+| Players | 12/15 |
+| Host Name | КМС по руину |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 18:40:57 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401951689499 |
+| Players | 1/5 |
+| Host Name | Fail It5L2n2 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 18:46:12 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511401949055197 |
-| Players | 9/10 |
-| Host Name | WhyBaby? |
+| Lobby ID | 28511401952785065 |
+| Players | 1/10 |
+| Host Name | lThe Boys:Dl |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 18:47:05 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401952861361 |
+| Players | 1/5 |
+| Host Name | 240 km/peak_Zalupa |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:44:05 |
+| Lobby Creation Time | Thursday, November 9, 2023 18:47:09 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401952830760 |
+| Players | 1/5 |
+| Host Name | pipsqueak |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 18:47:07 |
 
 
