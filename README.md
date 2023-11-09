@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401453701976 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 04:44:26 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 08:15:31 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401552704411 |
-| Players | 7/8 |
-| Host Name | asura |
+| Lobby ID | 28511401553234934 |
+| Players | 2/10 |
+| Host Name | 17'5 4 7Я4P |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 08:20:54 |
+| Lobby Creation Time | Thursday, November 9, 2023 08:22:11 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401552937011 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | Señora A su hijo lestan pegando |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 08:21:28 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401553298683 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Dubya |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 08:22:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401553234934 |
-| Players | 2/10 |
-| Host Name | 17'5 4 7Я4P |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 08:22:11 |
+| Lobby ID | 28511401553545991 |
+| Players | 2/8 |
+| Host Name | cuenta solo pal baje de pepa |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 08:22:56 |
 
 
 |  | epic_boss_fight_nightmare |
