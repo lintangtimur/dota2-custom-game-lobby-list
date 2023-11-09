@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401941284739 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | discipline |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:37:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401940305964 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Deep Lore Investigator |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:36:58 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401934745513 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | 扭转乾坤 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 18:32:21 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511401938715752 |
-| Players | 1/24 |
-| Host Name | Who Telled You? |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 18:35:39 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 18:36:51 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401941098761 |
-| Players | 4/8 |
-| Host Name | Temir abi |
+| Lobby ID | 28511401934774530 |
+| Players | 8/10 |
+| Host Name | 0.011 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:37:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401941674702 |
-| Players | 5/8 |
-| Host Name | wolfhound |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:38:05 |
+| Lobby Creation Time | Thursday, November 9, 2023 18:32:23 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | G |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 18:05:43 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511401941622279 |
-| Players | 1/5 |
-| Host Name | 刀塔不拆塔 |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 18:38:02 |
 
 
