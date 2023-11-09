@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401574476881 |
+| Lobby ID | 28511401574344496 |
 | Players | 1/15 |
-| Host Name | 赤木茂 |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 9, 2023 09:12:45 |
+| Host Name | Dubya |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 09:12:26 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401572917211 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Kimera |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:08:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401573772445 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | the powerless rise |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 9, 2023 09:11:03 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401572614242 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | F-A-Y-D-A-R-E TONY |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:08:12 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401574058082 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | Señora A su hijo lestan pegando |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:11:44 |
@@ -95,27 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401574316200 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Datedi |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 09:12:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28511401574344496 |
-| Players | 1/15 |
-| Host Name | Dubya |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 09:12:26 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511401574544119 |
-| Players | 1/10 |
-| Host Name | "WanDerR" |
+| Lobby ID | 28511401574634566 |
+| Players | 1/5 |
+| Host Name | Dstr0ck |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 09:12:55 |
+| Lobby Creation Time | Thursday, November 9, 2023 09:13:08 |
 
 
