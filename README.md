@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401975740492 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Papi te vas< |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 19:04:58 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 19:07:21 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401975710864 |
-| Players | 23/24 |
-| Host Name | KUKURIKAPO! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 19:04:57 |
+| Lobby ID | 28511401967797662 |
+| Players | 14/15 |
+| Host Name | Валентин Альтрон |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 18:58:53 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,13 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 18:58:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401967797662 |
-| Players | 12/15 |
-| Host Name | Валентин Альтрон |
+| Lobby ID | 28511401979882351 |
+| Players | 3/8 |
+| Host Name | мазня говном |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:58:53 |
+| Lobby Creation Time | Thursday, November 9, 2023 19:08:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401979888260 |
+| Players | 6/8 |
+| Host Name | НАРКО БАНАН |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 19:08:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -122,9 +131,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401979320123 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | 起个名真纠结 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 19:07:39 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401969395080 |
+| Players | 8/10 |
+| Host Name | [Mr]Enforcer |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 19:00:07 |
 
 
