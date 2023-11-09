@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401661913987 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Vengeance |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 12:15:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401662095073 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | PRISIONERO LINDO LINDO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 12:15:55 |
@@ -83,21 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 12:16:38 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511401620590982 |
-| Players | 9/10 |
-| Host Name | offlane |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 10:56:54 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28511401662408114 |
 | Players | 4/5 |
-| Host Name | _flamingo_ |
+| Host Name | CL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 12:16:30 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401662786726 |
+| Players | 1/5 |
+| Host Name | R Y U K O |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 9, 2023 12:17:12 |
 
 
