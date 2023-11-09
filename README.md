@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401602330543 |
-| Players | 1/24 |
+| Players | 7/24 |
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 10:17:11 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401600519939 |
-| Players | 3/8 |
-| Host Name | Scrayl |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 10:13:13 |
+| Lobby ID | 28511401602427539 |
+| Players | 2/8 |
+| Host Name | Kurokawa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 10:17:24 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401601552086 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | HALIMAW MAINGGIT |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 10:15:29 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401602299019 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 10:17:07 |
@@ -77,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401602037140 |
-| Players | 2/24 |
-| Host Name | Aki ゲーマー |
+| Players | 1/24 |
+| Host Name | ^^ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 10:16:33 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401602081832 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Glue Sommelier |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 9, 2023 10:16:39 |
@@ -104,16 +104,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401602334659 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Kimera |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 10:17:12 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401602589353 |
+| Players | 2/15 |
+| Host Name | Fred |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 9, 2023 10:17:46 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511401602713157 |
+| Players | 3/24 |
+| Host Name | morenita |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 10:18:03 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401601813306 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Booberries |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 10:16:03 |
