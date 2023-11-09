@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401656832548 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | SuperFranki◄ |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 9, 2023 12:06:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401657612696 |
-| Players | 9/24 |
+| Players | 17/24 |
 | Host Name | Tờ Ri |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 12:07:45 |
@@ -59,34 +59,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401657554042 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Y DALE U !! |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 12:07:39 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401656659025 |
-| Players | 14/15 |
-| Host Name | прочитал = пидop |
+| Lobby ID | 28511401658386995 |
+| Players | 4/10 |
+| Host Name | Toxic |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 12:06:01 |
+| Lobby Creation Time | Thursday, November 9, 2023 12:09:10 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401656501986 |
-| Players | 13/15 |
-| Host Name | Kure Raian//我回来了 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 12:05:44 |
+| Lobby ID | 28511401658502988 |
+| Players | 9/15 |
+| Host Name | Bajito pero soberbio |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 9, 2023 12:09:23 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401657989704 |
-| Players | 3/15 |
+| Players | 13/15 |
 | Host Name | Datedi |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 12:08:26 |
@@ -95,28 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401658139468 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | EL ILUMINADO |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 12:08:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401658367495 |
-| Players | 2/8 |
-| Host Name | Нe oбязан |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 12:09:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401658386995 |
-| Players | 2/10 |
-| Host Name | Toxic |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 12:09:10 |
 
 
 |  | epic_boss_fight_nightmare |
