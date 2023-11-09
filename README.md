@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401696247904 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | < blank > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:19:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401788617687 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | justoinks |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 15:40:22 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401779171121 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | мум |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 15:27:18 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401795234951 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | пшл_т |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 15:49:38 |
@@ -122,10 +122,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401794541266 |
-| Players | 13/15 |
-| Host Name | TEEHEE |
+| Players | 12/15 |
+| Host Name | Ярик Добрый |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 15:48:40 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511401791979149 |
+| Players | 23/24 |
+| Host Name | Sidmun |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 15:45:05 |
 
 
 |  | epic_boss_fight_hard |
@@ -135,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | marcibeacoup |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 15:50:07 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401795724223 |
+| Players | 1/10 |
+| Host Name | Daee |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 9, 2023 15:50:19 |
 
 
