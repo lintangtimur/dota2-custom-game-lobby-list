@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401891548375 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | UnkleMar |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 17:52:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401892950360 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | я настя pryfov ne bydet |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 17:53:43 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401890566019 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Pes Patron |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 9, 2023 17:51:18 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 17:51:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401891822664 |
-| Players | 13/15 |
-| Host Name | Jr |
+| Lobby ID | 28511401891619869 |
+| Players | 7/10 |
+| Host Name | Писятдва |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 17:52:34 |
+| Lobby Creation Time | Thursday, November 9, 2023 17:52:22 |
 
 
 |  | ot3_jungle_quintet |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | dead blonde |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 17:53:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401891619869 |
-| Players | 7/10 |
-| Host Name | Писятдва |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 17:52:22 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Only 4-5 pos |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 17:53:27 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511401893365699 |
-| Players | 1/5 |
-| Host Name | Косипоша |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 17:54:08 |
 
 
