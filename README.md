@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401650257392 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | hahahehehoho |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 11:54:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401649472489 |
-| Players | 23/24 |
+| Players | 22/24 |
 | Host Name | PuroHues0 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 11:52:48 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401652620193 |
-| Players | 8/24 |
+| Players | 6/24 |
 | Host Name | HashiRama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 11:58:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401653067803 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | SASUKE UCHIHA DESERTOR |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 11:59:30 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Тайлер Дырдырчик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 12:00:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401654021155 |
+| Players | 1/8 |
+| Host Name | MiraijSun |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 12:01:14 |
 
 
 |  | epic_boss_fight_nightmare |
