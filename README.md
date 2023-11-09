@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401724635422 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | killjoy |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 14:06:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401725628610 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Padoru |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 14:08:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401689057264 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Ҝ丨几丂卄丨 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 9, 2023 13:05:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401727297494 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | I3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 14:10:45 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401726804631 |
+| Lobby ID | 28511401730147912 |
 | Players | 1/8 |
-| Host Name | Getter Emperor |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 14:09:59 |
+| Host Name | Lemi Shó de china |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 14:15:15 |
 
 
 |  | ot3_desert_octet |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Patiance☺ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 14:12:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401729026045 |
-| Players | 14/15 |
-| Host Name | Exp debuff enjoyer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 14:13:27 |
 
 
 |  | ot3_necropolis_ffa |
