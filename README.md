@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401605022710 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Gaius Mors |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 10:23:02 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 10:22:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401604565586 |
-| Players | 14/15 |
-| Host Name | II |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 10:22:04 |
+| Lobby ID | 28511401605421223 |
+| Players | 6/24 |
+| Host Name | Queberox |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 10:23:55 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401604076863 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | SHAKAツ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 10:21:01 |
@@ -101,15 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 10:23:57 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511401605421223 |
-| Players | 6/24 |
-| Host Name | Queberox |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 10:23:55 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401604465108 |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401605666990 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Chen |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 10:24:27 |
