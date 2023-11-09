@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401778190828 |
-| Players | 6/15 |
+| Players | 3/15 |
 | Host Name | Feet enjoyer |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 15:25:56 |
@@ -50,37 +50,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401779171121 |
-| Players | 11/24 |
+| Players | 14/24 |
 | Host Name | JoeShiesty |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 15:27:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401782976511 |
-| Players | 1/10 |
-| Host Name | Darailannon |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 15:32:33 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401783077066 |
-| Players | 6/10 |
-| Host Name | GEORGIY |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 15:32:42 |
+| Lobby ID | 28511401783727753 |
+| Players | 2/24 |
+| Host Name | chill doto |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 15:33:36 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401783128133 |
-| Players | 6/15 |
-| Host Name | dead_sid |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 15:32:46 |
+| Lobby ID | 28511401783966501 |
+| Players | 1/15 |
+| Host Name | Stozari |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 15:33:56 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511401783935531 |
+| Players | 1/24 |
+| Host Name | 风显 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 15:33:53 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401783069931 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | lupanamaingatrasa |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 15:32:41 |
