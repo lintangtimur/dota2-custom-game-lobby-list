@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401568197181 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | EL TIO LINO!! |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 08:57:19 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401567864926 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ScorpioN |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 08:56:32 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401568493079 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | PMA |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 08:58:00 |
