@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401970029754 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | YouKnowMyName |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 19:00:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401960961813 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | LionKingZ` |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 18:53:33 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401965978622 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | JImmy Cooks |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 18:57:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401947640042 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | [YCF]NoTi' |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:42:56 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401949888393 |
-| Players | 10/15 |
-| Host Name | Mahrtas |
+| Lobby ID | 28511401967797662 |
+| Players | 8/15 |
+| Host Name | Валентин Альтрон |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:44:45 |
+| Lobby Creation Time | Thursday, November 9, 2023 18:58:53 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401955092212 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | Methamphetamine |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:48:56 |
@@ -99,15 +99,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 三葉の女子力 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 19:00:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401967797662 |
-| Players | 6/15 |
-| Host Name | Валентин Альтрон |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:58:53 |
 
 
 |  | epic_boss_fight_nightmare |
