@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401555676393 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | zeta male |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 9, 2023 08:28:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401555838590 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Boos |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 08:28:25 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401556204226 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | Ü-Sky_Blazz-Ü giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 08:29:12 |
@@ -112,17 +112,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401557102399 |
+| Lobby ID | 28511401557173331 |
 | Players | 1/8 |
-| Host Name | Pegisuee |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 08:31:08 |
+| Host Name | El gato con botas |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 08:31:18 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28511401554073878 |
-| Players | 3/5 |
+| Players | 2/5 |
 | Host Name | @@@zzzz |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 08:24:12 |
