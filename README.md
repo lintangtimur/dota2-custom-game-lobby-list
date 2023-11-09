@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401898495158 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | chances fail, trains derail |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 17:59:15 |
@@ -56,13 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 17:58:11 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401891988706 |
-| Players | 9/10 |
-| Host Name | Kimdyy |
+| Lobby ID | 28511401898804682 |
+| Players | 1/15 |
+| Host Name | Bezdar' |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 9, 2023 17:59:34 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511401899121697 |
+| Players | 1/24 |
+| Host Name | S2Vn..Koala-dono |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 17:52:45 |
+| Lobby Creation Time | Thursday, November 9, 2023 17:59:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +81,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Aight, Bet! |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 17:43:29 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401899114469 |
+| Players | 1/5 |
+| Host Name | JohnCena.TheTrueOnly.FAIL |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 9, 2023 17:59:52 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401899137200 |
+| Players | 1/10 |
+| Host Name | Алкаш |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 17:59:53 |
 
 
