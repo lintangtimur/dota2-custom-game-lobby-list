@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401563289199 |
-| Players | 7/15 |
-| Host Name | q1 |
+| Lobby ID | 28511401563375987 |
+| Players | 5/8 |
+| Host Name | VPOPICH |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 08:45:45 |
+| Lobby Creation Time | Thursday, November 9, 2023 08:45:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401563275997 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Purple Star |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 08:45:43 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401563289033 |
-| Players | 12/24 |
+| Players | 19/24 |
 | Host Name | :D |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 08:45:45 |
@@ -50,28 +50,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401563873280 |
-| Players | 1/15 |
+| Players | 9/15 |
 | Host Name | Solo Leveling |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 08:47:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401563234635 |
-| Players | 6/8 |
-| Host Name | Aker- |
+| Lobby ID | 28511401561695368 |
+| Players | 7/10 |
+| Host Name | GL: "Dz_Rascal" Alejito |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 08:45:37 |
+| Lobby Creation Time | Thursday, November 9, 2023 08:41:57 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401563375987 |
-| Players | 4/8 |
-| Host Name | VPOPICH |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 08:45:57 |
+| Lobby ID | 28511401564228499 |
+| Players | 2/8 |
+| Host Name | F-A-Y-D-A-R-E TONY |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 08:47:59 |
 
 
 |  | epic_boss_fight_challenger |
