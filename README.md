@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 05:24:11 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401602330543 |
-| Players | 18/24 |
-| Host Name | kagni |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 10:17:11 |
+| Lobby ID | 28511401602718860 |
+| Players | 5/8 |
+| Host Name | Joe Biden |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 10:18:03 |
 
 
 |  | ot3_gardens_duo |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401601552086 |
-| Players | 11/15 |
-| Host Name | HALIMAW MAINGGIT |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 10:15:29 |
+| Lobby ID | 28511401602589353 |
+| Players | 7/15 |
+| Host Name | SY |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 9, 2023 10:17:46 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401602299019 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 10:17:07 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401602022162 |
-| Players | 3/15 |
-| Host Name | SUBO 1XBET |
+| Players | 1/15 |
+| Host Name | мамикс |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 10:16:31 |
 
@@ -83,66 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 10:16:33 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401601699958 |
-| Players | 9/10 |
-| Host Name | RON |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 10:15:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401602346451 |
-| Players | 4/10 |
-| Host Name | smokey nagata |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 10:17:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401602334659 |
-| Players | 1/10 |
-| Host Name | Kimera |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 10:17:12 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401602589353 |
-| Players | 5/15 |
-| Host Name | SY |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 10:17:46 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401602713157 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | LucKy OnE |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 10:18:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401602718860 |
-| Players | 5/8 |
-| Host Name | Joe Biden |
+| Lobby ID | 28511401602346451 |
+| Players | 5/10 |
+| Host Name | smokey nagata |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 10:18:03 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511401601813306 |
-| Players | 9/10 |
-| Host Name | Booberries |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 10:16:03 |
+| Lobby Creation Time | Thursday, November 9, 2023 10:17:13 |
 
 
