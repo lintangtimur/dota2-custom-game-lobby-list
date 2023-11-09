@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401997945452 |
-| Players | 7/24 |
+| Players | 3/24 |
 | Host Name | A.Y. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 19:20:56 |
@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402005539654 |
-| Players | 9/15 |
-| Host Name | FoUsTy |
+| Lobby ID | 28511402021475225 |
+| Players | 8/15 |
+| Host Name | Padre |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 19:26:12 |
+| Lobby Creation Time | Thursday, November 9, 2023 19:36:59 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402065519590 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Много денег |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 20:05:55 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402070293764 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Puk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 20:08:58 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402070531570 |
-| Players | 4/8 |
-| Host Name | 911 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 20:09:07 |
+| Lobby ID | 28511402071157247 |
+| Players | 1/8 |
+| Host Name | t4x_Vetass |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 20:09:31 |
 
 
 |  | ot3_desert_octet |
@@ -86,27 +86,81 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402043397075 |
-| Players | 10/24 |
-| Host Name | Paj |
+| Players | 14/24 |
+| Host Name | へんたい ZUUUL |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 19:51:31 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402070754199 |
-| Players | 2/15 |
-| Host Name | Firssure |
+| Lobby ID | 28511402071738407 |
+| Players | 1/15 |
+| Host Name | БРАКОНЬЕР |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 20:09:16 |
+| Lobby Creation Time | Thursday, November 9, 2023 20:09:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511402071143796 |
+| Players | 1/15 |
+| Host Name | Uglyродыч |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 20:09:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402071364860 |
+| Players | 3/8 |
+| Host Name | Kiruss |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 20:09:39 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511402071387559 |
+| Players | 4/15 |
+| Host Name | опа чинчопа |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 20:09:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511402071732739 |
+| Players | 1/15 |
+| Host Name | ChrryI |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 9, 2023 20:09:54 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511402054417379 |
-| Players | 4/10 |
-| Host Name | 𝔼𝕃-ℙ𝔸𝕋ℝ𝕆ℕ |
+| Lobby ID | 28511402028075715 |
+| Players | 8/10 |
+| Host Name | TONGKENG |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 19:58:44 |
+| Lobby Creation Time | Thursday, November 9, 2023 19:41:23 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511402063556534 |
+| Players | 2/10 |
+| Host Name | Haiya |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 20:04:39 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511402071459167 |
+| Players | 1/5 |
+| Host Name | чикатила на солях |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 20:09:43 |
 
 
