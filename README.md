@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401850861214 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | NENEK PEYOT PDIP |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 17:06:39 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401851137631 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | hated |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 9, 2023 17:07:00 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 17:07:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401851854987 |
-| Players | 5/8 |
-| Host Name | TakeMeAway |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 17:07:54 |
+| Lobby ID | 28511401851839664 |
+| Players | 5/10 |
+| Host Name | Huylo |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 17:07:53 |
 
 
 |  | ot3_jungle_quintet |
@@ -126,15 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | h.m.g |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 17:07:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401851839664 |
-| Players | 2/10 |
-| Host Name | Huylo |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 17:07:53 |
 
 
 |  | epic_boss_fight_nightmare |
