@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401570032093 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | 9S |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:01:46 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401475042545 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Пудж жаж кринж жадж мЯсо) |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 05:24:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401571170010 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Kabir |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:04:37 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401569756235 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | nv |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 09:01:05 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401570719443 |
-| Players | 4/15 |
+| Players | 12/15 |
 | Host Name | jake69 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 09:03:29 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401569176107 |
-| Players | 23/24 |
-| Host Name | kagni |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 08:59:37 |
+| Lobby ID | 28511401571507587 |
+| Players | 5/8 |
+| Host Name | listo par4a las gringas |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 09:05:28 |
 
 
 |  | ot3_gardens_duo |
@@ -108,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Реальный арбуз |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 09:00:17 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401571516978 |
+| Players | 1/10 |
+| Host Name | mybiiru |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 09:05:29 |
 
 
