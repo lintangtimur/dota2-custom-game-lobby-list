@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401955092212 |
-| Players | 6/10 |
-| Host Name | cesa |
+| Players | 4/10 |
+| Host Name | NeBoleiSuka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:48:56 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401923957191 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | swap commends |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:23:06 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401958857358 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | yuchisan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:51:54 |
@@ -92,13 +92,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 18:52:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401960370956 |
-| Players | 1/10 |
+| Lobby ID | 28511401949888393 |
+| Players | 8/15 |
+| Host Name | BigToSau667 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 18:44:45 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511401960562932 |
+| Players | 1/24 |
+| Host Name | PartofmyW |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 18:53:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401960605263 |
+| Players | 1/15 |
 | Host Name | ALWAYS SO PRETTY |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:53:05 |
+| Lobby Creation Time | Thursday, November 9, 2023 18:53:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401959363226 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | batman |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 18:52:18 |
