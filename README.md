@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401750958590 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Fantazia |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 14:46:29 |
@@ -41,28 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401689057264 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Ҝ丨几丂卄丨 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 9, 2023 13:05:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401751416503 |
-| Players | 1/10 |
-| Host Name | JUANETO MAMANE QUESPE (TO PAPE) |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 14:47:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401751938051 |
-| Players | 1/8 |
-| Host Name | Vinegar Doppio |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 14:47:54 |
+| Lobby ID | 28511401751987412 |
+| Players | 2/15 |
+| Host Name | Hype |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 14:47:58 |
 
 
 |  | epic_boss_fight_nightmare |
