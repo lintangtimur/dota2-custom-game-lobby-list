@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401589947364 |
-| Players | 9/10 |
-| Host Name | Karen❤ |
+| Lobby ID | 28511401591153876 |
+| Players | 3/8 |
+| Host Name | Kimera |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 09:49:05 |
+| Lobby Creation Time | Thursday, November 9, 2023 09:51:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401588238363 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Synchronicity III |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:45:04 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401589073228 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 09:47:01 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401589626355 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | LegendaryWaffleMan420 |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 9, 2023 09:48:19 |
@@ -74,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 09:51:03 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401588071051 |
-| Players | 22/24 |
-| Host Name | Luphoe |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 09:44:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401591153876 |
-| Players | 1/8 |
-| Host Name | Kimera |
+| Lobby ID | 28511401591212377 |
+| Players | 1/10 |
+| Host Name | Su kachero de |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 09:51:56 |
+| Lobby Creation Time | Thursday, November 9, 2023 09:52:05 |
 
 
 |  | epic_boss_fight_normal |
