@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401475042545 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Пудж жаж кринж жадж мЯсо) |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 05:24:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401652620193 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | HashiRama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 11:58:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401653590479 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | roswel |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 12:00:27 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401654720345 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Kaly'Naki |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 12:02:30 |
@@ -122,8 +122,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401651660339 |
-| Players | 9/15 |
-| Host Name | Win |
+| Players | 8/15 |
+| Host Name | MagicianKid |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 11:56:55 |
 
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401655018187 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | El Diferente |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 12:03:02 |
@@ -144,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | terrencelim321 |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 10:56:54 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401655104851 |
+| Players | 1/5 |
+| Host Name | Piolo Pudgecual |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 9, 2023 12:03:12 |
 
 
