@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401716956787 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 13:54:19 |
@@ -47,24 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 13:05:53 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401715124244 |
-| Players | 14/15 |
-| Host Name | Hype |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 13:51:23 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511401716687888 |
-| Players | 12/24 |
-| Host Name | Natso - |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 13:53:54 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401717809485 |
@@ -72,6 +54,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | sp_flame |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 9, 2023 13:55:40 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511401716687888 |
+| Players | 10/24 |
+| Host Name | WEED |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 13:53:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401718774614 |
+| Players | 3/8 |
+| Host Name | Alexor10 giordota.com |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 13:57:14 |
 
 
 |  | epic_boss_fight_nightmare |
