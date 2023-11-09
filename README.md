@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401589073228 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 09:47:01 |
@@ -85,17 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401591734713 |
-| Players | 1/10 |
-| Host Name | takerusan |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 09:53:19 |
+| Lobby ID | 28511401592043718 |
+| Players | 2/10 |
+| Host Name | Spire |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 09:54:03 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401591790035 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | strumf ubiec |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 09:53:27 |
@@ -104,28 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401591997269 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | NIkol@s) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:53:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401592027805 |
-| Players | 2/10 |
-| Host Name | hc pls |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 09:54:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401592043718 |
-| Players | 2/10 |
-| Host Name | Spire |
+| Lobby ID | 28511401592067124 |
+| Players | 2/15 |
+| Host Name | RuBeN |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 09:54:03 |
+| Lobby Creation Time | Thursday, November 9, 2023 09:54:06 |
 
 
 |  | epic_boss_fight_normal |
@@ -140,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28511401588061343 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | eldulce |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:44:39 |
