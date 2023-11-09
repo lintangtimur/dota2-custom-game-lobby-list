@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401701546657 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Enryu |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 13:28:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401700924575 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | 8bits.母♥ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 13:27:46 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 13:30:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401702738537 |
-| Players | 13/15 |
-| Host Name | =f |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 13:30:55 |
+| Lobby ID | 28511401700407269 |
+| Players | 7/8 |
+| Host Name | Samael_strokes |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 9, 2023 13:26:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 13:31:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401700407269 |
-| Players | 5/8 |
-| Host Name | Samael_strokes |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 9, 2023 13:26:51 |
+| Lobby ID | 28511401703558972 |
+| Players | 1/15 |
+| Host Name | mekus mekus |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 9, 2023 13:32:19 |
 
 
 |  | epic_boss_fight_hard |
@@ -153,14 +153,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | mybiiru |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 13:25:06 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511401703447426 |
-| Players | 1/5 |
-| Host Name | Abril te extraño regresa :c |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 13:32:08 |
 
 
