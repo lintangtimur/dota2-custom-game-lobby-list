@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401585712077 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Connor McGee Thor |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 09:39:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401584823934 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | miguel |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:37:00 |
@@ -50,9 +50,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401582325460 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Br0ker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 09:31:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401586117049 |
+| Players | 1/8 |
+| Host Name | Aker- |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 09:40:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401586171309 |
+| Players | 1/10 |
+| Host Name | Miscon |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 09:40:09 |
 
 
