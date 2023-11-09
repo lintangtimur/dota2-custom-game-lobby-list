@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401916236671 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Kivi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 18:16:09 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401918538860 |
-| Players | 7/8 |
-| Host Name | Matye Bal |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:18:15 |
+| Lobby ID | 28511401921545161 |
+| Players | 3/8 |
+| Host Name | Porn Hub |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 9, 2023 18:20:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401919914430 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | not human (животное) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:19:30 |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401919167670 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ttv/D1k1y_N3GR1L4 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:18:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401921545161 |
-| Players | 1/8 |
-| Host Name | Porn Hub |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 9, 2023 18:20:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401902945759 |
-| Players | 9/10 |
-| Host Name | на зомби не лузаю |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:03:36 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -110,12 +92,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 18:05:43 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28511401917421029 |
-| Players | 2/7 |
+| Lobby ID | 28511401921988008 |
+| Players | 1/5 |
 | Host Name | D31sdkvmksVDKSV |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:17:14 |
+| Lobby Creation Time | Thursday, November 9, 2023 18:21:22 |
 
 
