@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 05:24:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401616740598 |
-| Players | 14/15 |
-| Host Name | Victor246 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 10:48:32 |
+| Lobby ID | 28511401617241926 |
+| Players | 2/8 |
+| Host Name | x |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 10:49:36 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401616958068 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Too Good To Win? |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 10:49:00 |
@@ -54,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | :)) |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 9, 2023 10:37:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401617241926 |
-| Players | 2/8 |
-| Host Name | x |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 10:49:36 |
 
 
 |  | epic_boss_fight_normal |
