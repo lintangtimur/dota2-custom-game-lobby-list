@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401836218558 |
-| Players | 11/24 |
+| Players | 16/24 |
 | Host Name | 369 |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 16:47:12 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401835932040 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | [UA]-Trane |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 16:46:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401835878177 |
-| Players | 6/8 |
-| Host Name | Trall |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 16:46:43 |
+| Lobby ID | 28511401838160440 |
+| Players | 2/15 |
+| Host Name | Фанат Головача |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 16:49:52 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401835208548 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | underatted |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 16:45:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401837545611 |
-| Players | 7/15 |
-| Host Name | HalfwayToHeaven |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 9, 2023 16:49:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401836952040 |
-| Players | 1/8 |
-| Host Name | Am1le |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 16:48:12 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 鲁子敬 |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 16:41:28 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511401836753625 |
-| Players | 7/10 |
-| Host Name | MESSI |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 16:47:55 |
 
 
