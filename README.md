@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401623794959 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Euphoria前景 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 11:04:02 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401624136517 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | C3G |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 11:04:46 |
@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28511401618341088 |
 | Players | 5/24 |
-| Host Name | Hvoroba |
+| Host Name | Shooting Star |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 10:51:59 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401623359663 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Imbecility & Courage♉ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 11:03:05 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 10:37:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401623802207 |
-| Players | 1/10 |
-| Host Name | Owl Him |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 11:04:03 |
+| Lobby ID | 28511401624290705 |
+| Players | 1/8 |
+| Host Name | Swap Commander |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 11:05:06 |
 
 
 |  | ot3_desert_octet |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | M a u u |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 9, 2023 11:03:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401624113453 |
-| Players | 1/8 |
-| Host Name | Swap Commander |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 11:04:43 |
 
 
 |  | epic_boss_fight_nightmare |
