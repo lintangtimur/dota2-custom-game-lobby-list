@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401649304159 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Sierra |
 | Region | DUBAI |
 | Lobby Creation Time | Thursday, November 9, 2023 11:52:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401657612696 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Tờ Ri |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 12:07:45 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401657817091 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Vernedomo |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 12:08:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401657554042 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Y DALE U !! |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 12:07:39 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401656659025 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | прочитал = пидop |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 12:06:01 |
@@ -101,31 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 12:08:43 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401658232800 |
-| Players | 2/10 |
-| Host Name | Toxic |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 12:08:53 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511401656367221 |
-| Players | 23/24 |
-| Host Name | C U N N I L I N G U S |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 12:05:29 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401658296288 |
+| Lobby ID | 28511401658367495 |
 | Players | 2/8 |
 | Host Name | Нe oбязан |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 12:09:00 |
+| Lobby Creation Time | Thursday, November 9, 2023 12:09:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401658386995 |
+| Players | 2/10 |
+| Host Name | Toxic |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 12:09:10 |
 
 
 |  | epic_boss_fight_nightmare |
