@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 17:41:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401895461553 |
-| Players | 7/8 |
-| Host Name | naglyi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 17:56:14 |
+| Lobby ID | 28511401886916885 |
+| Players | 8/10 |
+| Host Name | Harvester of death |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 17:47:35 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401895534228 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Cukka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 17:56:19 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401895274958 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | noob team |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 17:56:03 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401896453316 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | BRAMBRAGE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 17:57:14 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401886916885 |
-| Players | 8/10 |
-| Host Name | Harvester of death |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 17:47:35 |
+| Lobby ID | 28511401897406831 |
+| Players | 2/8 |
+| Host Name | Альхачино |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 17:58:11 |
 
 
 |  | epic_boss_fight_nightmare |
