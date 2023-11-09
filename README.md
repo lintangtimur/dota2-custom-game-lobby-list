@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401791979149 |
-| Players | 22/24 |
-| Host Name | MinisterByDay, DotaPlayerByNight |
+| Players | 21/24 |
+| Host Name | 阿宝 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 15:45:05 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401799697355 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Экинуй Сенгаี้ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 15:55:45 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401779171121 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Kuchitan |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 15:27:18 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401800404437 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | ✿GOJO SATORU✿ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 15:56:43 |
@@ -117,6 +117,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | .#h21z |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 9, 2023 15:56:43 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511401800769501 |
+| Players | 1/24 |
+| Host Name | SToFFeR |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 15:57:12 |
 
 
 |  | epic_boss_fight_nightmare |
