@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 14:22:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401734607456 |
-| Players | 2/10 |
-| Host Name | rqewrqereqewrqewreq |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 14:22:19 |
+| Lobby ID | 28511401735122475 |
+| Players | 1/8 |
+| Host Name | SodaZ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 14:23:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401696247904 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | < blank > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:19:21 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 13:05:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401731919508 |
-| Players | 10/15 |
-| Host Name | Hype |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 14:18:05 |
+| Lobby ID | 28511401734973670 |
+| Players | 5/8 |
+| Host Name | PonToday |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 14:22:53 |
 
 
 |  | ot3_desert_octet |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 14:21:32 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401732854947 |
-| Players | 23/24 |
-| Host Name | Notsalty |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 14:19:34 |
+| Lobby ID | 28511401735176890 |
+| Players | 2/10 |
+| Host Name | AbdolrahimT |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 9, 2023 14:23:13 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,24 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Gliknot |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 14:21:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401734973670 |
-| Players | 5/8 |
-| Host Name | PonToday |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 14:22:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401735122475 |
-| Players | 1/8 |
-| Host Name | SodaZ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 14:23:07 |
 
 
 |  | epic_boss_fight_nightmare |
