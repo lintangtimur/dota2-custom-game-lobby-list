@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401545434729 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | ViralSpiral |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 08:03:32 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401545451516 |
-| Players | 1/24 |
-| Host Name | Kratos |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 08:03:35 |
+| Lobby ID | 28511401546165225 |
+| Players | 7/24 |
+| Host Name | Leon |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 08:05:20 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401545315969 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | 暁 | <3 leler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 08:03:15 |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401545954985 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | MyM Mith & Roid |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 08:04:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401545097980 |
-| Players | 19/24 |
-| Host Name | ♂EL CAMPER GANDALFS♂ |
+| Lobby ID | 28511401545359927 |
+| Players | 8/10 |
+| Host Name | Su kachero de |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 08:02:43 |
+| Lobby Creation Time | Thursday, November 9, 2023 08:03:21 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401546127847 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 08:05:14 |
@@ -86,36 +86,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401545934068 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Ducape |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 08:04:46 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401546251276 |
+| Players | 4/15 |
+| Host Name | Datedi |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 08:05:32 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401546136933 |
-| Players | 1/8 |
+| Lobby ID | 28511401546158485 |
+| Players | 5/8 |
 | Host Name | V J |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 08:05:16 |
+| Lobby Creation Time | Thursday, November 9, 2023 08:05:19 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401546138580 |
-| Players | 4/24 |
-| Host Name | гриффит |
+| Lobby ID | 28511401546360792 |
+| Players | 2/24 |
+| Host Name | nojo |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 08:05:16 |
+| Lobby Creation Time | Thursday, November 9, 2023 08:05:48 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511401546122971 |
-| Players | 1/5 |
-| Host Name | Abril te extraño regresa :c |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 08:05:14 |
+| Lobby ID | 28511401539928994 |
+| Players | 3/10 |
+| Host Name | Raiden Ei |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 07:50:12 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401546322818 |
+| Players | 1/10 |
+| Host Name | bodak |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 9, 2023 08:05:42 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401546347234 |
+| Players | 2/10 |
+| Host Name | Ocho pa |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 08:05:46 |
 
 
