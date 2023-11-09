@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401587395590 |
-| Players | 16/24 |
+| Players | 18/24 |
 | Host Name | dba07 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:43:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401582325460 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Br0ker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 09:31:08 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401586967872 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Harry Styles |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 09:42:03 |
@@ -83,11 +83,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 09:43:56 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401587819764 |
+| Players | 1/8 |
+| Host Name | IISIMI |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 09:44:05 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401584823934 |
-| Players | 14/15 |
-| Host Name | miguel |
+| Players | 13/15 |
+| Host Name | DobleZ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:37:00 |
 
@@ -112,19 +121,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511401587650397 |
-| Players | 1/10 |
-| Host Name | Apsulov |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 09:43:41 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28511401587754006 |
 | Players | 1/10 |
 | Host Name | BAN |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:43:55 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401587863366 |
+| Players | 1/10 |
+| Host Name | Apsulov |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 09:44:11 |
 
 
