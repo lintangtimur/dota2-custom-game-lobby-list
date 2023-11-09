@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401575396739 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | Potatoes gonna potate! |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 09:14:55 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401475042545 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Пудж жаж кринж жадж мЯсо) |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 05:24:11 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401576827512 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | AcidBlack |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 09:18:19 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401576835827 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Kenny'S |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:18:20 |
