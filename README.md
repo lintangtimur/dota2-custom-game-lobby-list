@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402167587703 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | ..... |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 21:07:22 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402199140894 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | masterpiece |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 21:25:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402201145976 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | M5BenStiller |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 21:27:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402199895122 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | ToughSpirit |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 21:26:26 |
@@ -92,22 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 21:25:45 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402197843558 |
-| Players | 14/15 |
-| Host Name | Яблочко |
+| Lobby ID | 28511402201596846 |
+| Players | 5/10 |
+| Host Name | БЛЕБ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 21:25:12 |
+| Lobby Creation Time | Thursday, November 9, 2023 21:27:27 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402201775873 |
-| Players | 7/8 |
-| Host Name | FREE PALPATINE |
+| Lobby ID | 28511402202588792 |
+| Players | 1/8 |
+| Host Name | Byratino |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 21:27:33 |
+| Lobby Creation Time | Thursday, November 9, 2023 21:28:02 |
 
 
 |  | ot3_desert_octet |
@@ -155,22 +155,58 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 21:27:55 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402201596846 |
-| Players | 5/10 |
-| Host Name | БЛЕБ |
+| Lobby ID | 28511402197642554 |
+| Players | 2/15 |
+| Host Name | Ya Pidoras |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 21:27:27 |
+| Lobby Creation Time | Thursday, November 9, 2023 21:25:05 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402202588792 |
-| Players | 1/8 |
-| Host Name | Byratino |
+| Lobby ID | 28511402201775873 |
+| Players | 7/8 |
+| Host Name | FREE PALPATINE |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 21:28:02 |
+| Lobby Creation Time | Thursday, November 9, 2023 21:27:33 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511402202999173 |
+| Players | 1/10 |
+| Host Name | SUN ♥ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 21:28:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402203041370 |
+| Players | 2/8 |
+| Host Name | MAHAN |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 9, 2023 21:28:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511402203044295 |
+| Players | 1/15 |
+| Host Name | better luck next life🐸 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 21:28:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402203067600 |
+| Players | 1/8 |
+| Host Name | YASUMURA【安村】 |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 9, 2023 21:28:19 |
 
 
 |  | epic_boss_fight_hard |
@@ -194,7 +230,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402200609795 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Hello |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 21:26:51 |
