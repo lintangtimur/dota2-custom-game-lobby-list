@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402285031175 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | МРАКОБЕС(страж 3) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 22:18:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402285515909 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | ARAGAPEGO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 22:18:50 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402282370956 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | R u crzy?Socheko Vanda ni Besii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 22:16:51 |
@@ -164,22 +164,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 21:59:05 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511402285714258 |
+| Players | 1/10 |
+| Host Name | дома никого |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 22:18:57 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402285208359 |
-| Players | 9/15 |
-| Host Name | Rengoku_Keyjuro |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 9, 2023 22:18:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511402285191007 |
-| Players | 5/8 |
-| Host Name | Adorableあざ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 22:18:37 |
+| Lobby ID | 28511402272427100 |
+| Players | 13/15 |
+| Host Name | Merc |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 22:10:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -203,7 +203,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402284097146 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | suslik |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 22:17:56 |
@@ -221,7 +221,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402285622034 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | King |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 9, 2023 22:18:54 |
@@ -236,42 +236,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 22:18:53 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511402285642928 |
-| Players | 2/8 |
-| Host Name | kryxxx |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 9, 2023 22:18:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511402272427100 |
-| Players | 13/15 |
-| Host Name | Merc |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 22:10:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402285714258 |
-| Players | 1/10 |
-| Host Name | дома никого |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 22:18:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511402285724155 |
-| Players | 1/8 |
-| Host Name | why? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 22:18:57 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402285422114 |
@@ -284,7 +248,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402284034468 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | OID |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 22:17:54 |
@@ -302,7 +266,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402283854370 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | JIMMY |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 22:17:47 |
