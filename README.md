@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401531010289 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | (QuiT)Chicken_Murderer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 07:28:24 |
@@ -65,31 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 07:26:58 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401530970045 |
-| Players | 1/15 |
-| Host Name | 👿tu bellaquito👹pkl |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 07:28:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401531275893 |
-| Players | 1/15 |
-| Host Name | Dipsize空 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 07:29:04 |
+| Lobby ID | 28511401531309487 |
+| Players | 3/24 |
+| Host Name | CHIPteezy |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 07:29:09 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401531269684 |
-| Players | 2/24 |
-| Host Name | CroNxTy |
+| Lobby ID | 28511401530444549 |
+| Players | 23/24 |
+| Host Name | clownpubs |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 07:29:03 |
+| Lobby Creation Time | Thursday, November 9, 2023 07:26:58 |
 
 
 |  | epic_boss_fight_nightmare |
