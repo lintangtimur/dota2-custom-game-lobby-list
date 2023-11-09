@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 16:30:48 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401826435170 |
-| Players | 6/8 |
-| Host Name | radbix |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 9, 2023 16:33:24 |
+| Lobby ID | 28511401826188669 |
+| Players | 6/10 |
+| Host Name | What do u know? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 16:33:02 |
 
 
 |  | ot3_gardens_duo |
@@ -56,28 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 16:31:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401826188669 |
-| Players | 6/10 |
-| Host Name | What do u know? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 16:33:02 |
+| Lobby ID | 28511401827615654 |
+| Players | 1/15 |
+| Host Name | Valdek |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 9, 2023 16:35:06 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401827214448 |
-| Players | 9/15 |
-| Host Name | ₳ⱠɆӾ₳₳₦ĐɆⱤ ☦ |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 9, 2023 16:34:31 |
+| Lobby ID | 28511401827610356 |
+| Players | 1/15 |
+| Host Name | TEEHEE |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 9, 2023 16:35:05 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401824818432 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | XVI |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 16:31:02 |
