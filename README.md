@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401779048877 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | ValKyria GaLanTiS♥ |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 15:27:08 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401791979149 |
-| Players | 7/24 |
+| Players | 16/24 |
 | Host Name | Sidmun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 15:45:05 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401696247904 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | < blank > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:19:21 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401790966421 |
-| Players | 6/8 |
-| Host Name | shevtim |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 15:43:37 |
+| Lobby ID | 28511401788617687 |
+| Players | 5/8 |
+| Host Name | sxvn |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 15:40:22 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,30 +65,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 15:44:45 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401792529649 |
-| Players | 1/10 |
-| Host Name | 年轻人不气盛叫年轻人吗 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 9, 2023 15:45:52 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511401792558797 |
-| Players | 1/5 |
-| Host Name | 一番の一番 |
+| Lobby ID | 28511401793001766 |
+| Players | 6/10 |
+| Host Name | Головосование |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 15:45:54 |
+| Lobby Creation Time | Thursday, November 9, 2023 15:46:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401793179587 |
+| Players | 2/8 |
+| Host Name | эхослем в детдоме |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 9, 2023 15:46:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401793287741 |
+| Players | 1/15 |
+| Host Name | LegendsNeverDie |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 9, 2023 15:46:57 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401788647924 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | zxcdown |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 15:40:25 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401792558797 |
+| Players | 2/5 |
+| Host Name | 一番の一番 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 15:45:54 |
 
 
