@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401779048877 |
-| Players | 1/24 |
-| Host Name | ValKyria GaLanTiS♥ |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 15:27:08 |
+| Lobby ID | 28511401818627080 |
+| Players | 1/15 |
+| Host Name | megiddo |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Thursday, November 9, 2023 16:22:02 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401689057264 |
-| Players | 6/24 |
+| Players | 4/24 |
 | Host Name | DotaPlayer1 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 9, 2023 13:05:53 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 16:21:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401818488643 |
-| Players | 1/15 |
-| Host Name | Chandideadmoon |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 9, 2023 16:21:50 |
+| Lobby ID | 28511401816924530 |
+| Players | 6/8 |
+| Host Name | Ах*евший Байкер |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 16:19:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401818401566 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | 青衣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 16:21:43 |
@@ -85,29 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401818612388 |
-| Players | 1/15 |
-| Host Name | My Whore Wife Took Everything |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 9, 2023 16:22:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401818627080 |
-| Players | 1/15 |
-| Host Name | megiddo |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 9, 2023 16:22:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28511401818633165 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Mentos |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 9, 2023 16:22:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401818702508 |
+| Players | 1/8 |
+| Host Name | Сила пелемений |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 9, 2023 16:22:08 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401817107169 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Moon Moon |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 16:19:52 |
