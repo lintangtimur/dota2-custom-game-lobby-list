@@ -119,12 +119,3 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 10:56:54 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511401654519153 |
-| Players | 1/5 |
-| Host Name | Johnnie WalkeR |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 12:02:08 |
-
-
