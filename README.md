@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401918538860 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Matye Bal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:18:15 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401920022754 |
-| Players | 4/15 |
+| Players | 10/15 |
 | Host Name | Ульяна Духи |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 18:19:36 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401919167670 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | ttv/D1k1y_N3GR1L4 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:18:50 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Porn Hub |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 9, 2023 18:20:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401902945759 |
+| Players | 9/10 |
+| Host Name | на зомби не лузаю |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 18:03:36 |
 
 
 |  | epic_boss_fight_nightmare |
