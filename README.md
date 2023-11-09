@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401575396739 |
-| Players | 22/24 |
+| Players | 21/24 |
 | Host Name | Potatoes gonna potate! |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 09:14:55 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401475042545 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Пудж жаж кринж жадж мЯсо) |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 05:24:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401577735950 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Rover |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:20:29 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401578060531 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | dba07 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:21:15 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401576888329 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Connor McGee Thor |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 09:18:28 |
@@ -72,6 +72,51 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | життя бентежне |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 09:21:47 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401578345656 |
+| Players | 1/10 |
+| Host Name | Su kachero de |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 09:21:54 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401578392362 |
+| Players | 1/8 |
+| Host Name | EMOBED |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 09:22:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401578416714 |
+| Players | 1/10 |
+| Host Name | el anticristo2009 |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 09:22:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401578421669 |
+| Players | 1/15 |
+| Host Name | ruby3000 |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 09:22:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401576802213 |
+| Players | 7/8 |
+| Host Name | LooPer |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 09:18:16 |
 
 
 |  | epic_boss_fight_nightmare |
