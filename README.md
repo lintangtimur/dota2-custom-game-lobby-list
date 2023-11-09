@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 10:28:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401608649199 |
-| Players | 14/15 |
-| Host Name | Pelusa |
+| Lobby ID | 28511401609489607 |
+| Players | 4/8 |
+| Host Name | Lefty sm |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 10:30:57 |
+| Lobby Creation Time | Thursday, November 9, 2023 10:32:46 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401606786673 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | xooos ☛☚ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 10:26:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401607785890 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Lanaya |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 10:29:02 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ÑengoFlow KLK |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 10:29:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401609489607 |
-| Players | 1/8 |
-| Host Name | Lefty sm |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 10:32:46 |
 
 
 |  | epic_boss_fight_hard |
