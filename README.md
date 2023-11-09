@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 16:55:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401843838466 |
-| Players | 2/8 |
-| Host Name | seizures |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 16:57:30 |
+| Lobby ID | 28511401843310573 |
+| Players | 3/10 |
+| Host Name | dead blonde |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 16:56:48 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401843078671 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 16:56:30 |
@@ -47,24 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 15:08:49 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401839716372 |
-| Players | 9/10 |
-| Host Name | Датракиец |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 9, 2023 16:52:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401843310573 |
-| Players | 3/10 |
-| Host Name | dead blonde |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 16:56:48 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401843771867 |
@@ -72,6 +54,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ABOBA BOY |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 16:57:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401844463336 |
+| Players | 1/8 |
+| Host Name | waterLaw |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 16:58:19 |
 
 
 |  | epic_boss_fight_nightmare |
