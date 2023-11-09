@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 11:53:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401649762421 |
-| Players | 1/15 |
-| Host Name | Monero |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 11:53:21 |
+| Lobby ID | 28511401650132282 |
+| Players | 1/10 |
+| Host Name | alenose |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 11:54:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401648896716 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Akame |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 11:51:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401648906241 |
-| Players | 14/15 |
-| Host Name | Kazakura |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 11:51:44 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511401649472489 |
-| Players | 2/24 |
-| Host Name | SingSongVindVong |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 11:52:48 |
 
 
 |  | ot3_desert_octet |
@@ -92,13 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 11:52:29 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401620590982 |
-| Players | 9/10 |
-| Host Name | Condoriano |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 10:56:54 |
+| Lobby ID | 28511401649472489 |
+| Players | 2/24 |
+| Host Name | SingSongVindVong |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 11:52:48 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401650181534 |
+| Players | 1/15 |
+| Host Name | Monero |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 11:54:09 |
 
 
 |  | epic_boss_fight_nightmare |
