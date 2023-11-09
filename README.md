@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 08:22:11 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401553456024 |
-| Players | 1/24 |
-| Host Name | Hyper Aggressive Maniac |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 08:22:43 |
+| Lobby ID | 28511401553545991 |
+| Players | 2/8 |
+| Host Name | cuenta solo pal baje de pepa |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 08:22:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 08:22:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401553545991 |
-| Players | 2/8 |
-| Host Name | cuenta solo pal baje de pepa |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 08:22:56 |
+| Lobby ID | 28511401553669585 |
+| Players | 1/24 |
+| Host Name | Hyper Aggressive Maniac |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 08:23:13 |
 
 
 |  | epic_boss_fight_nightmare |
