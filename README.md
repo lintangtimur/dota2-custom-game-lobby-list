@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401955092212 |
-| Players | 9/10 |
-| Host Name | NeBoleiSuka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:48:56 |
+| Lobby ID | 28511401961634320 |
+| Players | 1/15 |
+| Host Name | kol_fnl |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 18:54:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401960032400 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | ilyas |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:52:49 |
@@ -40,20 +40,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401961500036 |
-| Players | 1/8 |
-| Host Name | Sneaky Beaky Like ¯\_(ツ)_/¯ |
+| Lobby ID | 28511401961569218 |
+| Players | 3/8 |
+| Host Name | .#h21z |
 | Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 18:53:58 |
+| Lobby Creation Time | Thursday, November 9, 2023 18:54:01 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401958250973 |
-| Players | 9/10 |
-| Host Name | Deaf Bonce Apocalypse |
+| Lobby ID | 28511401956439533 |
+| Players | 8/15 |
+| Host Name | SHOOMEKEY |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:51:26 |
+| Lobby Creation Time | Thursday, November 9, 2023 18:50:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401951512125 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | KrizhanLewis |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:46:04 |
@@ -90,24 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Barbie Girl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:53:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401956439533 |
-| Players | 8/15 |
-| Host Name | SHOOMEKEY |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:50:00 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401961569218 |
-| Players | 1/8 |
-| Host Name | .#h21z |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 18:54:01 |
 
 
 |  | epic_boss_fight_nightmare |
