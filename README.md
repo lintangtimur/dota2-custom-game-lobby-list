@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401582550074 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | < blank > |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:31:40 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401581372365 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | WSWSWSWSWSWSWS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 09:28:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401581186852 |
-| Players | 14/15 |
-| Host Name | CameraMan |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 09:28:25 |
+| Lobby ID | 28511401583527858 |
+| Players | 6/10 |
+| Host Name | Darth Dafty |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 09:33:58 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401583138003 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | Kimetsu |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 09:33:04 |
@@ -77,25 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401583450538 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Kimera |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:33:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401583527858 |
-| Players | 5/10 |
-| Host Name | Darth Dafty |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 09:33:58 |
+| Lobby ID | 28511401583624759 |
+| Players | 2/15 |
+| Host Name | F |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 9, 2023 09:34:11 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401583355662 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Anime girl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 09:33:34 |
