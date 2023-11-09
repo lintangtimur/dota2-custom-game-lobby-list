@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401566026970 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | woowowoo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 08:52:15 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401573772445 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | the powerless rise |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 9, 2023 09:11:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401573580181 |
-| Players | 2/10 |
-| Host Name | Crowlley |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 09:10:35 |
+| Lobby ID | 28511401574316200 |
+| Players | 9/15 |
+| Host Name | Datedi |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 09:12:22 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401574025633 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | d1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 09:11:39 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401572614242 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | F-A-Y-D-A-R-E TONY |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:08:12 |
@@ -86,27 +86,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401574058082 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | Señora A su hijo lestan pegando |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:11:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401574316200 |
-| Players | 7/15 |
-| Host Name | Datedi |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 09:12:22 |
+| Lobby ID | 28511401574689868 |
+| Players | 1/10 |
+| Host Name | -30 реарм - 30 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 09:13:16 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511401574634566 |
-| Players | 1/5 |
-| Host Name | Dstr0ck |
+| Lobby ID | 28511401574661874 |
+| Players | 1/10 |
+| Host Name | "WanDerR" |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 09:13:08 |
+| Lobby Creation Time | Thursday, November 9, 2023 09:13:12 |
 
 
