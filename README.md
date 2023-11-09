@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402128434375 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Anantherzine-無盡的 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 20:44:01 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402091964537 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Sopita |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 20:22:33 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402148280301 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | АДСКИЙ САТАНА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 20:55:57 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402148643730 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | お前ら大嫌いだ |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 9, 2023 20:56:10 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402149083695 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | HashiRama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 20:56:26 |
@@ -185,7 +185,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402149349588 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Kyrano |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 20:56:36 |
@@ -194,7 +194,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402147734268 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | САСЬВА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 20:55:38 |
@@ -218,13 +218,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 20:11:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402149471436 |
-| Players | 2/8 |
-| Host Name | GrePooP |
+| Lobby ID | 28511402058182973 |
+| Players | 3/15 |
+| Host Name | Sanguinius |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 20:56:40 |
+| Lobby Creation Time | Thursday, November 9, 2023 20:01:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -254,13 +254,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 20:56:55 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402147751358 |
-| Players | 3/5 |
-| Host Name | SGBER |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 20:55:38 |
+| Lobby ID | 28511402150103456 |
+| Players | 7/8 |
+| Host Name | Cycl0ne2k |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 20:57:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511402150185206 |
+| Players | 1/15 |
+| Host Name | УБИВАТЬ УБИВАТЬ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 20:57:05 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511402143843096 |
+| Players | 4/10 |
+| Host Name | .G |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 20:53:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -279,14 +297,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Big bruh |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 9, 2023 20:54:15 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511402143843096 |
-| Players | 4/10 |
-| Host Name | .G |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 20:53:18 |
 
 
