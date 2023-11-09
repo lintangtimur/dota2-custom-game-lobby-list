@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401770553341 |
-| Players | 4/15 |
+| Players | 13/15 |
 | Host Name | nattyboons |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 15:15:03 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401689057264 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | DotaPlayer1 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 9, 2023 13:05:53 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401766253675 |
-| Players | 12/15 |
-| Host Name | \/\/ay[oi.oi] |
+| Players | 4/15 |
+| Host Name | TALIH |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 9, 2023 15:08:49 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401770806045 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | 9527 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 15:15:24 |
@@ -65,22 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 15:13:18 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401771381036 |
+| Players | 4/8 |
+| Host Name | rayan gosling |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 15:16:15 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401771359814 |
-| Players | 2/15 |
-| Host Name | HARRY MAGUIRE |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 15:16:13 |
+| Lobby ID | 28511401771515306 |
+| Players | 1/15 |
+| Host Name | 万个人奋斗 |
+| Region | PWTELECOMGUANGZHOU |
+| Lobby Creation Time | Thursday, November 9, 2023 15:16:27 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401771381036 |
+| Lobby ID | 28511401771543208 |
 | Players | 1/8 |
-| Host Name | rayan gosling |
+| Host Name | WAYNE |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 15:16:15 |
+| Lobby Creation Time | Thursday, November 9, 2023 15:16:29 |
 
 
 |  | epic_boss_fight_normal |
@@ -104,9 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401771384050 |
-| Players | 1/10 |
+| Players | 6/10 |
 | Host Name | cant talk with animals |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 15:16:15 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401771869319 |
+| Players | 2/10 |
+| Host Name | Rebecca |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 15:16:57 |
 
 
