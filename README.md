@@ -56,20 +56,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 13:51:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401713653466 |
-| Players | 14/15 |
-| Host Name | Топ 100 Антарктиды |
+| Lobby ID | 28511401713061317 |
+| Players | 9/10 |
+| Host Name | Накиньте похвалы я добрий |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 13:49:02 |
+| Lobby Creation Time | Thursday, November 9, 2023 13:48:05 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401712794649 |
-| Players | 2/10 |
-| Host Name | ∝  → 3 Knives Knight | |
+| Players | 1/10 |
+| Host Name | sp_flame |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 13:47:40 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401716646639 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | cupido |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:53:50 |
@@ -137,12 +137,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 13:40:44 |
 
 
-|  | epic_boss_fight_challenger |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28511401716657742 |
-| Players | 3/7 |
-| Host Name | El Destruye Panochas |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 13:53:51 |
+| Lobby ID | 28511401716794164 |
+| Players | 1/5 |
+| Host Name | o_o!!! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 13:54:04 |
 
 
