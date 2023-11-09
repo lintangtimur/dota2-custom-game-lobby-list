@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401522496271 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | SHARK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 07:06:55 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 04:44:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401522940248 |
-| Players | 14/15 |
-| Host Name | CBK15 |
+| Lobby ID | 28511401524519191 |
+| Players | 3/8 |
+| Host Name | ParaDiciaco사악한 천재들 |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 07:08:02 |
+| Lobby Creation Time | Thursday, November 9, 2023 07:12:04 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401523730801 |
-| Players | 5/24 |
+| Players | 2/24 |
 | Host Name | Makson! sw3g. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 07:10:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401524194925 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Datedi |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 07:11:15 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401524267784 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Байрактар |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 07:11:26 |
