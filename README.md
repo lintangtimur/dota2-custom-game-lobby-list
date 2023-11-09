@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401580589007 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | XXXDDD |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:27:04 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401581135128 |
-| Players | 6/8 |
-| Host Name | listo par4a las gringas |
+| Lobby ID | 28511401581468112 |
+| Players | 3/8 |
+| Host Name | did something good happen? [空] |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 09:28:19 |
+| Lobby Creation Time | Thursday, November 9, 2023 09:29:02 |
 
 
 |  | ot3_desert_octet |
@@ -113,19 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401581372365 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | WSWSWSWSWSWSWS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 09:28:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401581416547 |
-| Players | 1/10 |
-| Host Name | Armando casas ♥ |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 09:28:55 |
 
 
 |  | epic_boss_fight_nightmare |
