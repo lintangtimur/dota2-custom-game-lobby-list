@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401926793871 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | 蓝胖舌吻双头龙 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 18:25:36 |
@@ -38,28 +38,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 18:36:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401934774530 |
-| Players | 8/10 |
-| Host Name | Forlan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:32:23 |
+| Lobby ID | 28511401943392863 |
+| Players | 1/8 |
+| Host Name | 老司机 |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 18:39:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401942388441 |
-| Players | 2/15 |
-| Host Name | Fantazia |
+| Lobby ID | 28511401942329678 |
+| Players | 5/8 |
+| Host Name | :D |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:38:40 |
+| Lobby Creation Time | Thursday, November 9, 2023 18:38:37 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401923957191 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | swap commends |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:23:06 |
@@ -74,12 +74,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 18:35:50 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401943866898 |
+| Players | 5/10 |
+| Host Name | ВЕНТЕЛЯТОР |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 18:39:52 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401942397981 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | biubiubiup |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 18:38:40 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401944141448 |
+| Players | 1/5 |
+| Host Name | Heshmat sag dast |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 9, 2023 18:40:05 |
 
 
