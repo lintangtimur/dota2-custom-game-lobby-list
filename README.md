@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401800410986 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | .#h21z |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 9, 2023 15:56:43 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401800368333 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | < blank > |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 15:56:40 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401779171121 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Kuchitan |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 15:27:18 |
@@ -103,20 +103,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401801101049 |
+| Lobby ID | 28511401801553093 |
 | Players | 1/8 |
-| Host Name | lyutyk |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 9, 2023 15:57:40 |
+| Host Name | Deadline |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 15:58:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401801248708 |
-| Players | 6/8 |
-| Host Name | обезьянище |
+| Lobby ID | 28511401801543676 |
+| Players | 2/15 |
+| Host Name | How u doin? |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 9, 2023 15:58:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401801562406 |
+| Players | 1/10 |
+| Host Name | umpanirovka |
 | Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 15:57:52 |
+| Lobby Creation Time | Thursday, November 9, 2023 15:58:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ♂ I'm Performance Artist ♂ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 15:52:26 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401801464224 |
+| Players | 1/5 |
+| Host Name | (2)what |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 15:58:10 |
 
 
