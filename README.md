@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 17:51:18 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401891015653 |
-| Players | 2/8 |
-| Host Name | ишачье |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 17:51:45 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401890515964 |
@@ -94,17 +85,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511401882959019 |
-| Players | 8/10 |
-| Host Name | Kimdyy |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 17:43:29 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28511401885001592 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Imperator Bulka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 17:45:36 |
