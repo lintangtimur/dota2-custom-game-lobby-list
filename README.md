@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401780233599 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | Ярик Добрый |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 9, 2023 15:28:47 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401780372944 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | BestFriendoooo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 15:28:58 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401779610911 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | ✿GOJO SATORU✿ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 15:27:55 |
@@ -117,6 +117,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sneaky Beaky Like ¯\_(ツ)_/¯ |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 9, 2023 15:28:33 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401781131881 |
+| Players | 1/15 |
+| Host Name | !?!?[0]?!?! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 15:30:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Caesar_091 |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Thursday, November 9, 2023 15:29:43 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401781021369 |
+| Players | 1/5 |
+| Host Name | Igor |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 15:29:52 |
 
 
