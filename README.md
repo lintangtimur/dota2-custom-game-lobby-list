@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401701486380 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Mr.Banana |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 13:28:44 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401700327617 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 13:26:43 |
@@ -76,20 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401701787369 |
-| Players | 1/8 |
-| Host Name | ☩FiseN☩ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 13:29:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401700735466 |
+| Lobby ID | 28511401701980844 |
 | Players | 2/8 |
-| Host Name | Ярoslаvе |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 13:27:26 |
+| Host Name | Scrowney2 |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 13:29:36 |
 
 
 |  | ot3_desert_octet |
@@ -110,15 +101,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 13:23:38 |
 
 
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28511401698328354 |
-| Players | 5/7 |
-| Host Name | Dick Iverson |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 13:23:11 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401698406798 |
@@ -126,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | happy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:23:19 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511401701825323 |
-| Players | 1/5 |
-| Host Name | Người Ỉa Đùn |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 13:29:19 |
 
 
