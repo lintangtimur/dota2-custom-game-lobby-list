@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401609816928 |
-| Players | 2/24 |
+| Players | 8/24 |
 | Host Name | Q12 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 10:33:29 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401608590788 |
-| Players | 1/24 |
-| Host Name | FB🦃 |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 10:30:49 |
+| Lobby ID | 28511401610013364 |
+| Players | 1/8 |
+| Host Name | CURSE |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 10:33:55 |
 
 
 |  | ot3_jungle_quintet |
@@ -92,19 +92,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 10:33:47 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401609936218 |
-| Players | 1/8 |
-| Host Name | boku wa saikyo! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 10:33:45 |
-
-
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28511401609131193 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | FishBunnyCat |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 10:32:00 |
@@ -117,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | aezakmi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 10:33:26 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511401604738305 |
-| Players | 9/10 |
-| Host Name | Gabimaru |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 10:22:26 |
 
 
