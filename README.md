@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401689057264 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | DotaPlayer1 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 9, 2023 13:05:53 |
@@ -50,37 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401786960655 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | GhasT |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 15:38:05 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401779171121 |
-| Players | 23/24 |
-| Host Name | JoeShiesty |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 15:27:18 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401786765156 |
-| Players | 8/10 |
-| Host Name | Nextlevel_tuuk |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 15:37:48 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401788286071 |
-| Players | 2/10 |
-| Host Name | Lemi Shó de china |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 15:39:55 |
+| Lobby ID | 28511401787584338 |
+| Players | 2/8 |
+| Host Name | sofiyaa |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 9, 2023 15:38:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 15:38:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401787584338 |
-| Players | 1/8 |
-| Host Name | sofiyaa |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 9, 2023 15:38:57 |
+| Lobby ID | 28511401788286071 |
+| Players | 6/10 |
+| Host Name | Lemi Shó de china |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 15:39:55 |
 
 
 |  | epic_boss_fight_nightmare |
