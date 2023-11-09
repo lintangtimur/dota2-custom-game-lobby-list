@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401664753220 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | Chae's |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 12:20:49 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401667225622 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | BabyRage |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 12:25:23 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401666837086 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | dura's fun |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 12:24:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401667505841 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Херасмент |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 12:25:54 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401667878721 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | ODIN |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 12:26:36 |
@@ -103,17 +103,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401668125932 |
-| Players | 1/10 |
+| Lobby ID | 28511401668180134 |
+| Players | 2/10 |
 | Host Name | Moises |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 12:27:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401668220638 |
+| Players | 1/15 |
+| Host Name | wanchilo |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 12:27:03 |
+| Lobby Creation Time | Thursday, November 9, 2023 12:27:14 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401664751418 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | YA odna |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 12:20:49 |
