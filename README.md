@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401934355600 |
-| Players | 1/10 |
-| Host Name | (QuiT)Chicken_Murderer |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 18:32:02 |
+| Lobby ID | 28511401934395312 |
+| Players | 2/10 |
+| Host Name | ๋ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 18:32:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401932700637 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Dr. Strange where rampage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:30:38 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401905126060 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ARTIFACT |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 18:05:43 |
@@ -108,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Mr.Henky |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 9, 2023 18:30:21 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511401934175317 |
-| Players | 2/5 |
-| Host Name | Не знаю что выбра |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:31:53 |
 
 
