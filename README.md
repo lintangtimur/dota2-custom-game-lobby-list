@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401647620536 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | 63ka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 11:49:24 |
@@ -92,31 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 11:46:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401647711065 |
-| Players | 1/15 |
-| Host Name | Repeat.gg |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 11:49:34 |
+| Lobby ID | 28511401647995918 |
+| Players | 6/8 |
+| Host Name | BAJITO 1.30 m |
+| Region | CHILE |
+| Lobby Creation Time | Thursday, November 9, 2023 11:50:04 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401647767332 |
-| Players | 1/8 |
-| Host Name | Предприниматель |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 11:49:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401647862384 |
+| Lobby ID | 28511401647949620 |
 | Players | 1/8 |
 | Host Name | ιllιlιANAL DUBSTEPιllιlι |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 11:49:50 |
+| Lobby Creation Time | Thursday, November 9, 2023 11:49:59 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401639233559 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | XVI |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 11:34:01 |
