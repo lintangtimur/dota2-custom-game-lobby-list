@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28511401722234246 |
 | Players | 1/24 |
-| Host Name | hAggU pLaYeR |
+| Host Name | TheBlueJTattoo |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 14:02:47 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401724412873 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Sm |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 14:06:14 |
