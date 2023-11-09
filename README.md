@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401683831723 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | 不和小人一般见识 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 12:55:57 |
@@ -119,6 +119,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 12:59:07 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401686512592 |
+| Players | 1/8 |
+| Host Name | Trovo.Live/Cabo |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 13:01:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401686546996 |
+| Players | 2/15 |
+| Host Name | Novox black |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 13:01:05 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28511401685104147 |
@@ -131,9 +149,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401684960449 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Aight, Bet! |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 12:58:03 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401686546985 |
+| Players | 1/5 |
+| Host Name | Kung aku nalang diay? |
+| Region | DUBAI |
+| Lobby Creation Time | Thursday, November 9, 2023 13:01:05 |
 
 
