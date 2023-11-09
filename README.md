@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401602427539 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Kurokawa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 10:17:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401602589353 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | SY |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 9, 2023 10:17:46 |
@@ -58,18 +58,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401602299019 |
-| Players | 6/10 |
-| Host Name | Too Good To Win? |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 10:17:07 |
+| Lobby ID | 28511401603998024 |
+| Players | 2/10 |
+| Host Name | TyR |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 10:20:51 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401602022162 |
-| Players | 4/15 |
-| Host Name | мамикс |
+| Players | 1/15 |
+| Host Name | Ёбушки Воробушки |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 10:16:31 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401602037140 |
-| Players | 3/24 |
+| Players | 1/24 |
 | Host Name | ^^ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 10:16:33 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401602713157 |
-| Players | 12/24 |
+| Players | 23/24 |
 | Host Name | LucKy OnE |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 10:18:03 |
@@ -95,27 +95,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401602346451 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | smokey nagata |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 10:17:13 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401603851529 |
+| Players | 3/15 |
+| Host Name | BAKE |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 10:20:32 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401603627385 |
-| Players | 1/8 |
-| Host Name | COVID 19 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 10:20:03 |
+| Lobby ID | 28511401603868051 |
+| Players | 2/8 |
+| Host Name | Diamonds & Dancefloor |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 9, 2023 10:20:34 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401602330543 |
-| Players | 23/24 |
-| Host Name | kagni |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 10:17:11 |
+| Lobby ID | 28511401601552086 |
+| Players | 8/15 |
+| Host Name | M142 HIMARS |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 10:15:29 |
 
 
