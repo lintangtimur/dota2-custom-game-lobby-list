@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401568493079 |
-| Players | 5/24 |
+| Players | 11/24 |
 | Host Name | PMA |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 08:58:00 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401566026970 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | woowowoo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 08:52:15 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401453701976 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 04:44:26 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401568197181 |
-| Players | 9/10 |
-| Host Name | EL TIO LINO!! |
+| Lobby ID | 28511401568889999 |
+| Players | 3/8 |
+| Host Name | Mango |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 08:57:19 |
+| Lobby Creation Time | Thursday, November 9, 2023 08:58:57 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401568917477 |
-| Players | 2/15 |
+| Players | 10/15 |
 | Host Name | daddy's little slug |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 08:59:01 |
@@ -77,45 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401567704887 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | XXX |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 08:56:10 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401567728500 |
-| Players | 13/15 |
-| Host Name | FOXHOUND |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 08:56:13 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401568162244 |
-| Players | 8/10 |
-| Host Name | pox na game |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 08:57:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401568889999 |
-| Players | 2/8 |
-| Host Name | Mango |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 08:58:57 |
+| Lobby ID | 28511401569176107 |
+| Players | 3/24 |
+| Host Name | kagni |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 08:59:37 |
 
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28511401568733300 |
+| Lobby ID | 28511401569182537 |
 | Players | 1/7 |
 | Host Name | uDIK 5 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 08:58:35 |
+| Lobby Creation Time | Thursday, November 9, 2023 08:59:38 |
 
 
