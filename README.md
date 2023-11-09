@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401855280570 |
-| Players | 14/15 |
-| Host Name | HimalayaJoe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 17:12:11 |
+| Lobby ID | 28511401855499550 |
+| Players | 7/15 |
+| Host Name | Жажа |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 9, 2023 17:12:27 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,24 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 15:08:49 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401855499550 |
-| Players | 5/15 |
-| Host Name | Жажа |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 17:12:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401855997725 |
-| Players | 2/8 |
-| Host Name | Микроволновка |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 17:13:04 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401854659530 |
@@ -77,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401854127394 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | ♂ I'm Performance Artist ♂ |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 9, 2023 17:10:45 |
