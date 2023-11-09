@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402086492043 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | MercurУ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 20:19:10 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402081562820 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Galactionovich |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 20:16:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401997945452 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | Coane KnneS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 19:20:56 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402065543265 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | хрящь пузырь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 20:05:56 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402026066415 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | blanc |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 19:40:03 |
@@ -149,8 +149,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402021475225 |
-| Players | 4/15 |
-| Host Name | w33.haa |
+| Players | 2/15 |
+| Host Name | Pøuapøuapøua |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 19:36:59 |
 
@@ -194,18 +194,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402087319968 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | 不狂菜狗子 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 20:19:41 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511402064433412 |
-| Players | 1/10 |
-| Host Name | ‡w4†d4h3ll‡ |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 20:05:13 |
 
 
