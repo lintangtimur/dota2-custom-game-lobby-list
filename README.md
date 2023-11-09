@@ -24,7 +24,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28511401959741696 |
 | Players | 2/8 |
-| Host Name | zoryanru |
+| Host Name | -conman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:52:36 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401962991446 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Grift |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 18:55:08 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401956975084 |
-| Players | 4/15 |
-| Host Name | strangby |
+| Players | 3/15 |
+| Host Name | Kuchitan |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 18:50:26 |
 
@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401964219696 |
-| Players | 4/10 |
-| Host Name | ЗУЛЬМАН-ЗУЛЬЕВСК |
+| Players | 2/10 |
+| Host Name | sphynxy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:56:06 |
 
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401949888393 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | BigToSau667 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:44:45 |
@@ -113,37 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401964518387 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | Дуд или Dude? |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 9, 2023 18:56:20 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401962122896 |
-| Players | 9/10 |
-| Host Name | :) |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 18:54:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401955092212 |
-| Players | 4/10 |
-| Host Name | слюнеебливый хуй |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:48:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401965266356 |
-| Players | 4/10 |
-| Host Name | брэдбабаа |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 18:56:55 |
 
 
 |  | ot3_gardens_duo |
@@ -155,6 +128,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 18:56:56 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401955092212 |
+| Players | 8/10 |
+| Host Name | слюнеебливый хуй |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 18:48:56 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401965509532 |
@@ -164,38 +146,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 18:57:06 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401962374991 |
-| Players | 1/5 |
-| Host Name | out |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:54:39 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511401957008565 |
-| Players | 4/5 |
-| Host Name | 1mpuls |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:50:27 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511401957564105 |
-| Players | 9/10 |
-| Host Name | планы на вечер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:50:53 |
+| Lobby ID | 28511401965794449 |
+| Players | 1/8 |
+| Host Name | МомжBP2022.cc |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 18:57:20 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401965465684 |
 | Players | 1/10 |
-| Host Name | 男人哭吧哭吧不是罪>.< |
+| Host Name | VancouverOsaka |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 18:57:04 |
 
