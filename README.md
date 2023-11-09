@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28511401752769096 |
 | Players | 6/10 |
-| Host Name | we lost :( |
+| Host Name | ILose |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 14:49:06 |
 
@@ -41,25 +41,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401754356150 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | 9527 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 14:51:23 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401754629785 |
-| Players | 1/15 |
-| Host Name | twitch.tv/lone_strider |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 14:51:47 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401751885762 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | планы на вечер |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 14:47:49 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401755477785 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 起个名真纠结 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 14:53:00 |
@@ -86,8 +77,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401755571391 |
-| Players | 1/10 |
-| Host Name | cros |
+| Players | 4/10 |
+| Host Name | 周子瑜 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 14:53:08 |
 
