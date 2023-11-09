@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401886916885 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Harvester of death |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 17:47:35 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401890515964 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | YouKnowMyName |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 17:51:15 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401891822664 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | Jr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 17:52:34 |
@@ -103,29 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401892062786 |
+| Lobby ID | 28511401892208707 |
 | Players | 1/15 |
-| Host Name | pLAYER sEVEN |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 17:52:49 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511401885001592 |
-| Players | 9/10 |
-| Host Name | Imperator Bulka |
+| Host Name | Ｎｅｇａｎ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 17:45:36 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511401891698877 |
-| Players | 2/10 |
-| Host Name | Mawen |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 17:52:27 |
+| Lobby Creation Time | Thursday, November 9, 2023 17:52:58 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -135,5 +117,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kimdyy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 17:52:45 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401891698877 |
+| Players | 2/10 |
+| Host Name | Mawen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 17:52:27 |
 
 
