@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401606874853 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Rax |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 10:27:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401605421223 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | Queberox |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 10:23:55 |
@@ -59,16 +59,52 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401607562997 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | Bosta Grande |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 10:28:33 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401607784380 |
+| Players | 1/15 |
+| Host Name | -Eloyssaanng❤️- |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Thursday, November 9, 2023 10:29:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401607785890 |
+| Players | 1/8 |
+| Host Name | Lanaya |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 10:29:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401607856715 |
+| Players | 4/8 |
+| Host Name | buti sito - lindo |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 10:29:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401607864480 |
+| Players | 5/8 |
+| Host Name | ÑengoFlow KLK |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 10:29:13 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401604465108 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | D E G A |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 10:21:51 |
@@ -77,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401604738305 |
-| Players | 9/10 |
+| Players | 7/10 |
 | Host Name | Gabimaru |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 10:22:26 |
