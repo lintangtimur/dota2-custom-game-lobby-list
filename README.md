@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401475042545 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Пудж жаж кринж жадж мЯсо) |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 05:24:11 |
@@ -24,7 +24,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28511401608334095 |
 | Players | 2/10 |
-| Host Name | BLESS THIS MESS |
+| Host Name | Masha |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 10:30:15 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401609489607 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Lefty sm |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 10:32:46 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401606786673 |
-| Players | 23/24 |
-| Host Name | xooos ☛☚ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 10:26:52 |
+| Lobby ID | 28511401608590788 |
+| Players | 1/24 |
+| Host Name | 1-800-LOW-PRIO |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 10:30:49 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401609156150 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Kazakura |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 10:32:03 |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401607785890 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Lanaya |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 10:29:02 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511401608590788 |
-| Players | 2/24 |
-| Host Name | ʀʏυʍ¿ɴcʜ∀ε |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 10:30:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401607864480 |
-| Players | 5/8 |
-| Host Name | ÑengoFlow KLK |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 10:29:13 |
 
 
 |  | epic_boss_fight_hard |
