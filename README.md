@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401535700731 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | BaBaDuK |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 07:39:59 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401535923681 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 07:40:32 |
@@ -59,37 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401536000164 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Женя |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 07:40:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401535272127 |
-| Players | 6/8 |
-| Host Name | El del Rimac :v |
+| Lobby ID | 28511401536191469 |
+| Players | 1/10 |
+| Host Name | Karen❤ |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 07:38:57 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401536014150 |
-| Players | 5/8 |
-| Host Name | twitch.tv/aqqashi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 07:40:45 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401536109559 |
-| Players | 3/8 |
-| Host Name | メルエム |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 07:40:59 |
+| Lobby Creation Time | Thursday, November 9, 2023 07:41:10 |
 
 
 |  | epic_boss_fight_nightmare |
