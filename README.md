@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401630187557 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | KABUL张 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 11:16:38 |
@@ -83,10 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 11:23:32 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401635196913 |
+| Players | 2/8 |
+| Host Name | Todo anda mal |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 11:26:20 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401633265884 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Реальный арбуз |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 11:22:34 |
@@ -104,18 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401634561571 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 起个名真纠结 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 11:25:06 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511401635100643 |
-| Players | 3/10 |
-| Host Name | Bopcos Bybe |
-| Region | USWEST |
-| Lobby Creation Time | Thursday, November 9, 2023 11:26:08 |
 
 
