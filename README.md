@@ -22,20 +22,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401598540055 |
-| Players | 13/15 |
-| Host Name | Mancosor |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 10:08:50 |
+| Lobby ID | 28511401599110550 |
+| Players | 2/15 |
+| Host Name | Vuvuzela Virtuoso Hans Rudolph |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 10:10:06 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401595391327 |
-| Players | 7/8 |
-| Host Name | w..w |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 10:01:47 |
+| Lobby ID | 28511401599103672 |
+| Players | 2/8 |
+| Host Name | Карапучело |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 10:10:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401596163238 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Help me carry these animals! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 10:03:33 |
@@ -83,28 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 10:09:26 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401599071328 |
-| Players | 1/8 |
-| Host Name | zxczxczxczxczxczxc |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 10:10:01 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401599103672 |
-| Players | 1/8 |
-| Host Name | Карапучело |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 10:10:05 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401597650641 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Yusei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 10:06:52 |
