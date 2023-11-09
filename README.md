@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401608334095 |
-| Players | 4/10 |
-| Host Name | Masha |
+| Players | 3/10 |
+| Host Name | Гардарик |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 10:30:15 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401609816928 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | Q12 |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 10:33:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401610013364 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | CURSE |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 10:33:55 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401609156150 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Kazakura |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 10:32:03 |
