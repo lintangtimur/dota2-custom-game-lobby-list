@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402090786308 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | а мне нормально) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 20:21:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402086264786 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Shadow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 20:19:01 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402081522859 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Анальная вошъ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 20:16:05 |
@@ -110,10 +110,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 20:22:08 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402092639272 |
+| Players | 1/8 |
+| Host Name | todd chavez |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 20:22:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402092791654 |
+| Players | 4/8 |
+| Host Name | morphine. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 20:23:05 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402088717344 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | 600 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 9, 2023 20:20:33 |
@@ -126,14 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | shush |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 20:22:49 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511402092448245 |
-| Players | 3/5 |
-| Host Name | Peter Boy |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 20:22:51 |
 
 
