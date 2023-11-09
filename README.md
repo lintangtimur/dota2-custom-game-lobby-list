@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401868820499 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | NARBERAL GAMA |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 17:28:19 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401868702775 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | 通テpainテ通 hate |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 17:28:11 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401868022763 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | raskumar |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 17:27:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401867673023 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | 2FatSnails |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 17:27:02 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401868512645 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | MASTERMR |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 9, 2023 17:27:58 |
@@ -92,22 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 17:28:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401869421069 |
-| Players | 3/8 |
-| Host Name | Михаил Горшенёв |
+| Lobby ID | 28511401869597054 |
+| Players | 1/15 |
+| Host Name | без негатива |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 17:29:00 |
+| Lobby Creation Time | Thursday, November 9, 2023 17:29:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401869417961 |
-| Players | 1/10 |
-| Host Name | zomorod |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 17:29:00 |
+| Lobby ID | 28511401869605770 |
+| Players | 1/24 |
+| Host Name | Kermit Da Frog |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 17:29:12 |
 
 
 |  | epic_boss_fight_nightmare |
