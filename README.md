@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401583624759 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | F |
 | Region | USWEST |
 | Lobby Creation Time | Thursday, November 9, 2023 09:34:11 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401581372365 |
-| Players | 21/24 |
+| Players | 19/24 |
 | Host Name | WSWSWSWSWSWSWS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 09:28:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401583718535 |
-| Players | 14/24 |
+| Players | 19/24 |
 | Host Name | Butterfly |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:34:25 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401583897276 |
-| Players | 1/15 |
-| Host Name | El inge pepe |
+| Players | 2/15 |
+| Host Name | ...... |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:34:49 |
 
@@ -77,16 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401583450538 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Kimera |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 09:33:47 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401584047802 |
+| Players | 2/15 |
+| Host Name | Stozari |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 09:35:10 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401583355662 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Anime girl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 09:33:34 |
