@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401986109193 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | ни чего себе |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 19:12:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401982370772 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 19:09:53 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401955092212 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | prophet sunboy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:48:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401983514495 |
-| Players | 9/10 |
-| Host Name | macxvii |
+| Lobby ID | 28511401986628858 |
+| Players | 2/15 |
+| Host Name | Fantazia |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 19:10:42 |
+| Lobby Creation Time | Thursday, November 9, 2023 19:12:55 |
 
 
 |  | ot3_gardens_duo |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 19:09:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401986115750 |
-| Players | 3/10 |
-| Host Name | tonytwophones |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 19:12:33 |
+| Lobby ID | 28511401986713281 |
+| Players | 2/24 |
+| Host Name | Lion el Messi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 19:12:59 |
 
 
 |  | ot3_gardens_duo |
@@ -131,19 +131,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401978064908 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | ВАХА БРУКЛИН |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 19:06:43 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401986628858 |
-| Players | 1/15 |
-| Host Name | Fantazia |
+| Lobby ID | 28511401986871142 |
+| Players | 1/8 |
+| Host Name | Feelingpeace’s |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 19:12:55 |
+| Lobby Creation Time | Thursday, November 9, 2023 19:13:06 |
 
 
 |  | epic_boss_fight_nightmare |
