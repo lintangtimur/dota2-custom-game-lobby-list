@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401578345656 |
-| Players | 8/10 |
-| Host Name | Su kachero de |
+| Lobby ID | 28511401580147380 |
+| Players | 1/8 |
+| Host Name | Myslf |
 | Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 09:21:54 |
+| Lobby Creation Time | Thursday, November 9, 2023 09:26:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401579578529 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 09:24:44 |
