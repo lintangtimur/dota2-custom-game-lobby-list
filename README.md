@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401696247904 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | < blank > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:19:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401689057264 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | DotaPlayer1 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Thursday, November 9, 2023 13:05:53 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 15:06:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401765551079 |
-| Players | 1/8 |
-| Host Name | Snolled |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 15:07:47 |
+| Lobby ID | 28511401766970223 |
+| Players | 4/15 |
+| Host Name | ₳ⱠɆӾ₳₳₦ĐɆⱤ ☦ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 15:09:51 |
 
 
 |  | ot3_gardens_duo |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 15:08:26 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401766970223 |
-| Players | 4/15 |
-| Host Name | ₳ⱠɆӾ₳₳₦ĐɆⱤ ☦ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 15:09:51 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401765589592 |
@@ -104,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28511401764749818 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Kiddo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 15:06:36 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401767266391 |
+| Players | 1/10 |
+| Host Name | Dango Daikazoku |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 15:10:18 |
 
 
