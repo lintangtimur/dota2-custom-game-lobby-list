@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401970029754 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | Arrivederci |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 19:00:37 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402018543641 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | гавноед |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 19:35:02 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 19:38:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402025882691 |
-| Players | 1/8 |
-| Host Name | AW.shadow of past956 |
-| Region | DUBAI |
-| Lobby Creation Time | Thursday, November 9, 2023 19:39:56 |
+| Lobby ID | 28511402026066415 |
+| Players | 1/24 |
+| Host Name | Plastic Pop can |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 19:40:03 |
 
 
 |  | ot3_desert_octet |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 19:14:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402025522051 |
-| Players | 3/8 |
-| Host Name | редактор библии |
+| Lobby ID | 28511402026349063 |
+| Players | 5/15 |
+| Host Name | Loot Goblin |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 19:39:41 |
+| Lobby Creation Time | Thursday, November 9, 2023 19:40:14 |
 
 
 |  | ot3_desert_octet |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401966960138 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | max |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:58:14 |
@@ -128,13 +128,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 19:39:48 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402026066415 |
-| Players | 1/24 |
-| Host Name | Plastic Pop can |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 19:40:03 |
+| Lobby ID | 28511402021475225 |
+| Players | 1/15 |
+| Host Name | eXale |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 19:36:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402026427733 |
+| Players | 1/8 |
+| Host Name | AW.shadow of past956 |
+| Region | EUROPE |
+| Lobby Creation Time | Thursday, November 9, 2023 19:40:17 |
 
 
 |  | epic_boss_fight_nightmare |
