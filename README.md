@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401827881408 |
-| Players | 5/10 |
-| Host Name | Антон Шершавий |
+| Players | 4/10 |
+| Host Name | Zekhaze |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 16:35:28 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401831106739 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | W®13 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 16:40:02 |
@@ -56,13 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 16:36:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401831357842 |
-| Players | 13/15 |
-| Host Name | сигма крипер |
-| Region | AUSTRIA |
-| Lobby Creation Time | Thursday, November 9, 2023 16:40:23 |
+| Lobby ID | 28511401831866307 |
+| Players | 1/8 |
+| Host Name | [KFC] Yamori apathy.. run |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 16:41:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401831883796 |
+| Players | 3/8 |
+| Host Name | я настя pryfov ne bydet |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 9, 2023 16:41:08 |
 
 
 |  | epic_boss_fight_nightmare |
