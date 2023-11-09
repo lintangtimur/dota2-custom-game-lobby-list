@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28511401925058708 |
 | Players | 9/15 |
-| Host Name | AKashi~ |
+| Host Name | Owl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 18:24:05 |
 
@@ -83,13 +83,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 18:22:16 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401930669381 |
+| Players | 3/8 |
+| Host Name | эхослем в детдоме |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 9, 2023 18:28:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401930859156 |
+| Players | 3/8 |
+| Host Name | V E N O M |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 18:29:06 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511401925789286 |
-| Players | 9/10 |
-| Host Name | планы на вечер |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:24:44 |
+| Lobby ID | 28511401929757033 |
+| Players | 4/10 |
+| Host Name | BadMove |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 18:28:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -103,10 +121,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511401929757033 |
-| Players | 3/10 |
-| Host Name | BadMove |
+| Lobby ID | 28511401925943943 |
+| Players | 5/10 |
+| Host Name | ꜱʏꜰʏ |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 18:28:09 |
+| Lobby Creation Time | Thursday, November 9, 2023 18:24:52 |
 
 
