@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401847986153 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | Писятдва |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 17:02:57 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401845682559 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | zxcdown |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 16:59:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401846823548 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | 友人A |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 17:01:26 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401847602171 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Пес Дюк |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 9, 2023 17:02:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401846975495 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Hatigatsu |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 17:01:38 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401842292159 |
-| Players | 6/8 |
+| Players | 4/8 |
 | Host Name | og пруды |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 16:55:27 |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | HibZ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 17:00:28 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28511401847983328 |
-| Players | 1/7 |
-| Host Name | [  ] |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 17:02:57 |
 
 
