@@ -41,37 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401885879462 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | aqfdsdafsaqasskjsadjf |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 17:46:31 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401885315781 |
-| Players | 13/15 |
-| Host Name | CyberPank |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 17:45:55 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401886202005 |
-| Players | 1/8 |
-| Host Name | МаГиЧеСкОе НеВеЖеСтВо |
+| Lobby ID | 28511401886261884 |
+| Players | 4/8 |
+| Host Name | DEM20111102 |
 | Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 17:46:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401886255081 |
-| Players | 1/8 |
-| Host Name | B U L O C H K A |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 17:46:54 |
+| Lobby Creation Time | Thursday, November 9, 2023 17:46:55 |
 
 
 |  | ot3_necropolis_ffa |
@@ -80,15 +62,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Players | 5/8 |
 | Host Name | wolfhound |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 17:46:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401886261884 |
-| Players | 1/8 |
-| Host Name | DEM20111102 |
-| Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 17:46:55 |
 
 
@@ -113,9 +86,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401886149311 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | AHyperDuck |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 17:46:48 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511401867824574 |
+| Players | 9/10 |
+| Host Name | GerindraPrabowo |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 17:27:12 |
 
 
