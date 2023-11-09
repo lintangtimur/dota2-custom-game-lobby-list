@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401942388441 |
-| Players | 12/15 |
-| Host Name | kolibrik_ZXC |
+| Lobby ID | 28511401953722935 |
+| Players | 2/8 |
+| Host Name | Granit |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:38:40 |
+| Lobby Creation Time | Thursday, November 9, 2023 18:47:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401948370208 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | JESUS |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 18:43:32 |
@@ -40,28 +40,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401953690991 |
-| Players | 5/10 |
-| Host Name | извиниСЬ |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 18:47:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401953722935 |
-| Players | 1/8 |
-| Host Name | Granit |
+| Lobby ID | 28511401955092212 |
+| Players | 3/10 |
+| Host Name | cesa |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 18:47:51 |
+| Lobby Creation Time | Thursday, November 9, 2023 18:48:56 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401952785065 |
-| Players | 9/10 |
-| Host Name | lThe Boys:Dl |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 18:47:05 |
+| Lobby ID | 28511401955044471 |
+| Players | 2/10 |
+| Host Name | yego |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 18:48:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401955102270 |
+| Players | 4/15 |
+| Host Name | ~BOSS |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 18:48:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401955127295 |
+| Players | 3/15 |
+| Host Name | Hatigatsu |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 18:48:58 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401955156866 |
+| Players | 1/15 |
+| Host Name | СpN |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 18:48:59 |
 
 
