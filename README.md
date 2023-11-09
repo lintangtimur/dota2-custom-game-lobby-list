@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511401861311971 |
-| Players | 1/8 |
-| Host Name | Пес Дюк |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 17:19:35 |
+| Lobby ID | 28511401861514164 |
+| Players | 2/8 |
+| Host Name | Jim |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 17:19:50 |
 
 
 |  | ot3_jungle_quintet |
@@ -20,20 +20,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 15:08:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401861328676 |
-| Players | 5/8 |
-| Host Name | ★_hisokadano_♣ |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 17:19:36 |
+| Lobby ID | 28511401862023853 |
+| Players | 4/15 |
+| Host Name | Badjuju228 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 17:20:26 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401859331479 |
-| Players | 2/24 |
-| Host Name | Rugras |
+| Players | 1/24 |
+| Host Name | Dr. Strange where rampage |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 17:17:11 |
 
@@ -47,48 +47,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 17:17:40 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401861005745 |
-| Players | 9/10 |
-| Host Name | Glowsi |
-| Region | EUROPE |
-| Lobby Creation Time | Thursday, November 9, 2023 17:19:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401861514164 |
-| Players | 1/8 |
-| Host Name | Jim |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 17:19:50 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401860977561 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | strangby |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 17:19:11 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401859887012 |
-| Players | 9/10 |
-| Host Name | KNИggA |
+| Lobby ID | 28511401862371197 |
+| Players | 2/10 |
+| Host Name | Bboy Squiz |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 17:17:52 |
+| Lobby Creation Time | Thursday, November 9, 2023 17:20:51 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401860816458 |
+| Players | 2/5 |
+| Host Name | _flamingo_ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 17:18:59 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511401861134532 |
-| Players | 9/10 |
-| Host Name | TriHard |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 17:19:22 |
+| Lobby ID | 28511401862076522 |
+| Players | 1/10 |
+| Host Name | WhyBaby? |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 9, 2023 17:20:30 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511401862394210 |
+| Players | 1/5 |
+| Host Name | Big bruh |
+| Region | AUSTRIA |
+| Lobby Creation Time | Thursday, November 9, 2023 17:20:53 |
 
 
