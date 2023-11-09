@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401560220149 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | PUDGE POS 5 ENJOYER |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 08:38:28 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401561695150 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | hc pls |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 08:41:57 |
@@ -83,13 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 08:41:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401561763005 |
-| Players | 3/8 |
-| Host Name | -IMPERIU$- |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 08:42:06 |
+| Lobby ID | 28511401561831898 |
+| Players | 3/15 |
+| Host Name | GAMING POWERHOUSE |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 9, 2023 08:42:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511401561837471 |
+| Players | 1/24 |
+| Host Name | Disastrous Luck |
+| Region | USWEST |
+| Lobby Creation Time | Thursday, November 9, 2023 08:42:17 |
 
 
 |  | epic_boss_fight_challenger |
