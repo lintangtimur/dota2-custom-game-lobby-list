@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401626209908 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | 暴走的小喵 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 11:09:12 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511401627101579 |
+| Lobby ID | 28511401627627245 |
 | Players | 1/10 |
-| Host Name | The Perfect Girl |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 11:10:56 |
+| Host Name | .twitch.tv/shatunchick |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 11:11:47 |
 
 
 |  | ot3_desert_octet |
@@ -74,21 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 11:08:07 |
 
 
-|  | ot3_gardens_duo |
+|  | epic_boss_fight_hard |
 | ------ | ------ |
-| Lobby ID | 28511401627627245 |
-| Players | 1/10 |
-| Host Name | .twitch.tv/shatunchick |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 11:11:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401627639470 |
-| Players | 1/10 |
-| Host Name | kev02 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Thursday, November 9, 2023 11:11:49 |
+| Lobby ID | 28511401627745135 |
+| Players | 3/7 |
+| Host Name | Cheems-O |
+| Region | BRAZIL |
+| Lobby Creation Time | Thursday, November 9, 2023 11:12:00 |
 
 
