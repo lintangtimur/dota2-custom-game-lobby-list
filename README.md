@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401698263426 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Starboy |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 13:23:04 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 13:19:21 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401683934636 |
-| Players | 1/24 |
-| Host Name | 游戏蝗虫农师傅 |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 12:56:08 |
+| Lobby ID | 28511401699307484 |
+| Players | 8/15 |
+| Host Name | No.Fy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 13:24:56 |
 
 
 |  | ot3_desert_octet |
@@ -65,13 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 13:23:52 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401700006038 |
+| Players | 1/8 |
+| Host Name | boss mentality |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 13:26:09 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401699307484 |
-| Players | 6/15 |
-| Host Name | No.Fy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 13:24:56 |
+| Lobby ID | 28511401700010742 |
+| Players | 1/15 |
+| Host Name | PSG.Lionel Messi |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 13:26:09 |
 
 
 |  | epic_boss_fight_hard |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28511401698328354 |
-| Players | 3/7 |
+| Players | 6/7 |
 | Host Name | Dick Iverson |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 13:23:11 |
@@ -113,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401699410536 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | KillerBee |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 13:25:06 |
