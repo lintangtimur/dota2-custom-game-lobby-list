@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511401868702775 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | 通テpainテ通 hate |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 17:28:11 |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 17:29:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511401867673023 |
-| Players | 1/15 |
-| Host Name | 2FatSnails |
+| Lobby ID | 28511401869605770 |
+| Players | 11/24 |
+| Host Name | Kermit Da Frog |
 | Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 17:27:02 |
+| Lobby Creation Time | Thursday, November 9, 2023 17:29:12 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401868512645 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | 未来の建築家 |
 | Region | EUROPE |
 | Lobby Creation Time | Thursday, November 9, 2023 17:27:58 |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401869347900 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | UnBreakableSkill |
 | Region | AUSTRIA |
 | Lobby Creation Time | Thursday, November 9, 2023 17:28:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401869341752 |
-| Players | 1/8 |
-| Host Name | Альхачино |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 17:28:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511401869605770 |
-| Players | 9/24 |
-| Host Name | Kermit Da Frog |
-| Region | SINGAPORE |
-| Lobby Creation Time | Thursday, November 9, 2023 17:29:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401867824574 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | < blank > |
 | Region | JAPAN |
 | Lobby Creation Time | Thursday, November 9, 2023 17:27:12 |
