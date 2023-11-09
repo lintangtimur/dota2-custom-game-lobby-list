@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401641452887 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Centinela LaPeladaArmy |
 | Region | BRAZIL |
 | Lobby Creation Time | Thursday, November 9, 2023 11:38:08 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401644041031 |
-| Players | 5/24 |
+| Players | 10/24 |
 | Host Name | MAMÁ SOY EMO (PXNDX) |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 11:42:53 |
