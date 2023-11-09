@@ -29,42 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 04:44:26 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401551508123 |
-| Players | 15/15 |
-| Host Name | Ryiot亗 |
-| Region | PERU |
-| Lobby Creation Time | Thursday, November 9, 2023 08:18:02 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511401549102797 |
-| Players | 1/24 |
-| Host Name | Staz |
-| Region | USEAST |
-| Lobby Creation Time | Thursday, November 9, 2023 08:12:22 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401550829017 |
-| Players | 9/10 |
-| Host Name | Flown |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 08:16:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401552326634 |
-| Players | 1/8 |
-| Host Name | It's a Creator |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 08:20:00 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401550439054 |
@@ -72,6 +36,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Junya Watanabe |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 08:15:31 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401552420340 |
+| Players | 1/10 |
+| Host Name | CORRALITO |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 08:20:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511401552426317 |
+| Players | 1/24 |
+| Host Name | Staz |
+| Region | USEAST |
+| Lobby Creation Time | Thursday, November 9, 2023 08:20:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401552440346 |
+| Players | 1/8 |
+| Host Name | It's a Creator |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 08:20:16 |
 
 
 |  | epic_boss_fight_nightmare |
