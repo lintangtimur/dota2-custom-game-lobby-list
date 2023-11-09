@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401558628261 |
-| Players | 7/24 |
+| Players | 5/24 |
 | Host Name | 乱战先锋专用帐号 |
 | Region | USEAST |
 | Lobby Creation Time | Thursday, November 9, 2023 08:34:43 |
@@ -23,46 +23,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401453701976 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 04:44:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511401560027371 |
-| Players | 6/8 |
-| Host Name | RuslanTu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 08:38:01 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401558885363 |
-| Players | 8/10 |
-| Host Name | SSTUATARA#CHIKATILLA(BONKERS) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 08:35:19 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401558219349 |
-| Players | 14/15 |
-| Host Name | ᴵᵏᵃʳᶦ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 08:33:45 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511401555039632 |
-| Players | 22/24 |
-| Host Name | Hyper Aggressive Maniac |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 08:26:32 |
 
 
 |  | ot3_desert_octet |
@@ -72,6 +36,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PUDGE POS 5 ENJOYER |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 08:38:28 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511401558885363 |
+| Players | 7/10 |
+| Host Name | SSTUATARA#CHIKATILLA(BONKERS) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 08:35:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511401558219349 |
+| Players | 11/15 |
+| Host Name | ᴵᵏᵃʳᶦ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 08:33:45 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511401555039632 |
+| Players | 23/24 |
+| Host Name | Hyper Aggressive Maniac |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 08:26:32 |
 
 
 |  | epic_boss_fight_challenger |
