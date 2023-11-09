@@ -47,15 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 15:08:49 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511401854739994 |
-| Players | 9/10 |
-| Host Name | Flippi Floyd |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 17:11:31 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511401856748941 |
@@ -63,15 +54,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | М-01 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 17:13:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511401856903244 |
-| Players | 1/15 |
-| Host Name | 一抢精灵放猛犸 |
-| Region | PWTELECOMSHANGHAI |
-| Lobby Creation Time | Thursday, November 9, 2023 17:14:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -94,10 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28511401856901526 |
+| Lobby ID | 28511401857031905 |
 | Players | 1/5 |
-| Host Name | mode: SaiVoL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 17:14:11 |
+| Host Name | 놀이꾼¹ |
+| Region | PERU |
+| Lobby Creation Time | Thursday, November 9, 2023 17:14:20 |
 
 
