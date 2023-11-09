@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 15:08:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402068930969 |
-| Players | 8/10 |
-| Host Name | Sapsan |
+| Lobby ID | 28511402005539654 |
+| Players | 9/15 |
+| Host Name | FoUsTy |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Thursday, November 9, 2023 20:08:06 |
+| Lobby Creation Time | Thursday, November 9, 2023 19:26:12 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402070293764 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Puk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 20:08:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402070531570 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 911 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 20:09:07 |
@@ -83,21 +83,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Thursday, November 9, 2023 19:59:56 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511402043397075 |
+| Players | 10/24 |
+| Host Name | Paj |
+| Region | SINGAPORE |
+| Lobby Creation Time | Thursday, November 9, 2023 19:51:31 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511402070754199 |
+| Players | 2/15 |
+| Host Name | Firssure |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 20:09:16 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402054417379 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | 𝔼𝕃-ℙ𝔸𝕋ℝ𝕆ℕ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Thursday, November 9, 2023 19:58:44 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511402070598576 |
-| Players | 1/5 |
-| Host Name | Anastasia2010 |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 20:09:10 |
 
 
