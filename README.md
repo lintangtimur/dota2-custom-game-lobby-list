@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401701546657 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Enryu |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 13:28:51 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511401696247904 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | < blank > |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:19:21 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511401700924575 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | 8bits.母♥ |
 | Region | PERU |
 | Lobby Creation Time | Thursday, November 9, 2023 13:27:46 |
@@ -85,11 +85,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511401702251617 |
+| Lobby ID | 28511401702305072 |
 | Players | 1/15 |
-| Host Name | Операция Ы |
-| Region | BRAZIL |
-| Lobby Creation Time | Thursday, November 9, 2023 13:30:04 |
+| Host Name | qwer |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Thursday, November 9, 2023 13:30:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511401702362005 |
+| Players | 1/8 |
+| Host Name | L1mi7less |
+| Region | JAPAN |
+| Lobby Creation Time | Thursday, November 9, 2023 13:30:16 |
 
 
 |  | epic_boss_fight_hard |
@@ -104,18 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511401698406798 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | happy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Thursday, November 9, 2023 13:23:19 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511401699410536 |
-| Players | 9/10 |
-| Host Name | mybiiru |
-| Region | JAPAN |
-| Lobby Creation Time | Thursday, November 9, 2023 13:25:06 |
 
 
