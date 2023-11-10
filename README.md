@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403034463716 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Sky |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 16:17:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403035591288 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Леха Секс |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 10, 2023 16:18:54 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403035666969 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Chungha |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:19:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511403035774233 |
-| Players | 1/15 |
-| Host Name | MExaDE |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 10, 2023 16:19:11 |
 
 
 |  | epic_boss_fight_nightmare |
