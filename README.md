@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402882789231 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | Movistar Perú |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 12:12:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511402884067598 |
-| Players | 1/8 |
-| Host Name | WAYNE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 12:14:46 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,23 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MonaLiar |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 12:14:26 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511402884073580 |
-| Players | 1/5 |
-| Host Name | G59 |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 12:14:47 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28511402884191137 |
-| Players | 1/7 |
-| Host Name | Deadweight |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 12:15:00 |
 
 
