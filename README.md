@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403052640276 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | Edit Profile |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:43:08 |
@@ -41,37 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403054022247 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Леха Секс |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 16:45:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511403053971267 |
-| Players | 2/10 |
-| Host Name | i just wan t to  win |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 16:45:01 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511403053721439 |
-| Players | 11/15 |
-| Host Name | Женя |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 16:44:40 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511403053981500 |
-| Players | 7/10 |
-| Host Name | CANCELUL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 16:45:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -81,6 +54,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 16:38:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511403054355087 |
+| Players | 2/10 |
+| Host Name | i just wan t to  win |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 16:45:33 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511403053981500 |
+| Players | 9/10 |
+| Host Name | CANCELUL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 16:45:02 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511403054370541 |
+| Players | 2/10 |
+| Host Name | Анимешечка |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 16:45:35 |
 
 
 |  | epic_boss_fight_nightmare |
