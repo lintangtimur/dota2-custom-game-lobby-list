@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402863423406 |
-| Players | 12/15 |
-| Host Name | Vuvuzela Virtuoso Hans Rudolph |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 11:36:25 |
+| Lobby ID | 28511402864139823 |
+| Players | 1/24 |
+| Host Name | deepest |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 11:37:45 |
 
 
 |  | ot3_desert_octet |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402864021186 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | kol_fnl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 11:37:32 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511402864139823 |
-| Players | 1/24 |
-| Host Name | deepest |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 11:37:45 |
 
 
 |  | epic_boss_fight_nightmare |
