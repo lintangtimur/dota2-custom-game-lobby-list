@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402939636778 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | ARi |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 13:54:19 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 13:56:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402937687940 |
-| Players | 12/15 |
-| Host Name | k5 |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 10, 2023 13:51:02 |
+| Lobby ID | 28511402939802765 |
+| Players | 10/24 |
+| Host Name | yuro |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 13:54:36 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402939633449 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | White Comet |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 13:54:19 |
@@ -50,27 +50,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402940562840 |
-| Players | 2/15 |
-| Host Name | yond |
+| Players | 5/15 |
+| Host Name | Рустам Чолоян |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 13:55:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511402939802765 |
-| Players | 8/24 |
-| Host Name | yuro |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 13:54:36 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511402940853902 |
-| Players | 1/10 |
-| Host Name | 𐌼ࠌⰏ�₥�Ⰿࠌ𐌼 |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 13:56:21 |
 
 
