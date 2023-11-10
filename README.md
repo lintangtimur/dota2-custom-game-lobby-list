@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 13:09:19 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402910855618 |
-| Players | 23/24 |
-| Host Name | deadmanhours |
+| Lobby ID | 28511402914373859 |
+| Players | 1/8 |
+| Host Name | young miko (real) |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 13:04:27 |
+| Lobby Creation Time | Friday, November 10, 2023 13:10:56 |
 
 
 |  | ot3_jungle_quintet |
@@ -45,24 +45,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | aefgmoagmr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 13:09:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511402913447321 |
-| Players | 7/8 |
-| Host Name | sakurako |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 13:09:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511402914373859 |
-| Players | 1/8 |
-| Host Name | young miko (real) |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 13:10:56 |
 
 
 |  | epic_boss_fight_nightmare |
