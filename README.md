@@ -4,18 +4,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402937687940 |
-| Players | 13/15 |
-| Host Name | k5 |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 10, 2023 13:51:02 |
+| Lobby ID | 28511402943308048 |
+| Players | 1/15 |
+| Host Name | 清朝我是耶 |
+| Region | Unknown |
+| Lobby Creation Time | Friday, November 10, 2023 14:00:22 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402941719896 |
-| Players | 11/15 |
-| Host Name | Itachi |
+| Players | 12/15 |
+| Host Name | J h a n |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 13:57:47 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402942354753 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Toy Till Dawn |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 13:58:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402939802765 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | yuro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 13:54:36 |
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28511402940728524 |
 | Players | 5/8 |
-| Host Name | ПРИНЦЕССА СОФИЯ |
+| Host Name | Deadline |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 13:56:09 |
 
@@ -74,19 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 13:58:34 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511402943308048 |
-| Players | 1/15 |
-| Host Name | 清朝我是耶 |
-| Region | Unknown |
-| Lobby Creation Time | Friday, November 10, 2023 14:00:22 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402943175912 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Alessia Cara |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 14:00:09 |
