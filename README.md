@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402891574460 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | www.instumblr.top |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 12:28:37 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 12:22:32 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511402891896564 |
-| Players | 1/15 |
-| Host Name | exp86 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 12:29:13 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402891675108 |
@@ -99,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Akaza |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 10, 2023 12:28:48 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511402887179478 |
-| Players | 10/10 |
-| Host Name | Gabimaru |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 12:20:29 |
 
 
