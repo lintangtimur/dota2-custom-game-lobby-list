@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403009577717 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Nonlinear operator |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 10, 2023 15:41:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403022280791 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | ana |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 15:59:49 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403026128329 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Greta Thunberg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 16:05:18 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403026168479 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | тимоха шо ты твор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 16:05:22 |
