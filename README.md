@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403079169404 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 456 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 17:20:54 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403080163778 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | HashiRama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 17:22:14 |
@@ -47,22 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 17:21:57 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511403076782963 |
-| Players | 22/24 |
-| Host Name | Pandora's Actor™ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 17:17:42 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403081689068 |
-| Players | 1/15 |
-| Host Name | kys |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 10, 2023 17:24:15 |
+| Lobby ID | 28511403081728720 |
+| Players | 2/15 |
+| Host Name | ДОН КОЛИC |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 17:24:19 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | marcibeacoup |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 17:21:19 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511403081784792 |
+| Players | 1/10 |
+| Host Name | you? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 17:24:23 |
 
 
