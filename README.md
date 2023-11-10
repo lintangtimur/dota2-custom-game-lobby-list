@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402959148147 |
-| Players | 14/15 |
-| Host Name | Кенни |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 14:25:35 |
+| Lobby ID | 28511402959312429 |
+| Players | 1/15 |
+| Host Name | k5 |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 10, 2023 14:25:50 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402955353758 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Hands |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 14:19:33 |
@@ -49,20 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402959312429 |
+| Lobby ID | 28511402959590617 |
 | Players | 1/15 |
-| Host Name | k5 |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 10, 2023 14:25:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511402959521206 |
-| Players | 1/15 |
-| Host Name | aWarDeeee |
+| Host Name | Lama Obama |
 | Region | BRAZIL |
-| Lobby Creation Time | Friday, November 10, 2023 14:26:10 |
+| Lobby Creation Time | Friday, November 10, 2023 14:26:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402953952743 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | GreShnik |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 10, 2023 14:17:20 |
