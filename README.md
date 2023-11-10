@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402920391042 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | SEREGA HUGE FAN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 13:21:29 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402921641144 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | にこ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 13:23:38 |
