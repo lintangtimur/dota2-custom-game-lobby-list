@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 12:33:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402894536288 |
-| Players | 6/8 |
-| Host Name | молчун с ангельским голосом |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 12:34:05 |
+| Lobby ID | 28511402896305649 |
+| Players | 2/24 |
+| Host Name | -♣ |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 12:37:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -33,18 +33,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28511402895658371 |
 | Players | 1/15 |
-| Host Name | do something |
+| Host Name | 3322 |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 12:36:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402895602587 |
-| Players | 3/15 |
-| Host Name | #MANGONATION |
-| Region | AUSTRIA |
-| Lobby Creation Time | Friday, November 10, 2023 12:36:00 |
+| Lobby ID | 28511402896602695 |
+| Players | 3/8 |
+| Host Name | PUMPKIN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 12:37:50 |
 
 
 |  | ot3_desert_octet |
@@ -56,48 +56,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 12:36:09 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511402896243910 |
-| Players | 1/15 |
-| Host Name | IRONG BUANG |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 12:37:11 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402896270872 |
-| Players | 1/10 |
-| Host Name | Slepping giordota.com |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 12:37:13 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511402896305649 |
-| Players | 1/24 |
-| Host Name | -♣ |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 12:37:17 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402895350412 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | MUTED |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 12:35:33 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28511402896319240 |
-| Players | 1/10 |
-| Host Name | SASHA_BURIZA |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 12:37:19 |
+| Lobby ID | 28511402896529119 |
+| Players | 1/5 |
+| Host Name | камонэврибади2023 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 12:37:42 |
 
 
