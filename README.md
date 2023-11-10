@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403134998852 |
-| Players | 3/24 |
+| Players | 1/24 |
 | Host Name | 666 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 18:23:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403137020089 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | Every Day The Same |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 18:25:53 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403136415170 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | /*BoDYa_DiLDER*/ |
 | Region | AUSTRIA |
 | Lobby Creation Time | Friday, November 10, 2023 18:25:17 |
@@ -90,6 +90,51 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sea ppl=dogs |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 18:25:28 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511403137181209 |
+| Players | 1/15 |
+| Host Name | лоу интелект |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 10, 2023 18:26:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511403137208887 |
+| Players | 2/15 |
+| Host Name | Bezdar' |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 10, 2023 18:26:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511403125305575 |
+| Players | 3/15 |
+| Host Name | Protus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 18:14:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511403137277106 |
+| Players | 1/8 |
+| Host Name | survival league |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 18:26:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511403137290245 |
+| Players | 3/8 |
+| Host Name | HZkto |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 10, 2023 18:26:09 |
 
 
 |  | epic_boss_fight_nightmare |
