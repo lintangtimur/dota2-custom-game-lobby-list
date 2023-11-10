@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402964279284 |
-| Players | 13/15 |
-| Host Name | Nexro |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 14:33:42 |
+| Lobby ID | 28511402964961500 |
+| Players | 5/8 |
+| Host Name | Пливет я новичок |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 14:34:47 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402961704438 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Fabian! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 14:29:38 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402964711743 |
-| Players | 1/10 |
-| Host Name | курение |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 14:34:23 |
+| Lobby ID | 28511402962830087 |
+| Players | 10/10 |
+| Host Name | Arthas Menethil |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 14:31:25 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402955353758 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | SaVage |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 14:19:33 |
@@ -86,28 +86,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402964881186 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | $ay0n@r@ 60y 😎 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 14:34:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511402964961500 |
-| Players | 3/8 |
-| Host Name | Пливет я новичок |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 14:34:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402962830087 |
-| Players | 10/10 |
-| Host Name | Arthas Menethil |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 14:31:25 |
 
 
 |  | epic_boss_fight_nightmare |
