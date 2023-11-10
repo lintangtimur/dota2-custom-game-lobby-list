@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402860533492 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Chisato |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 10, 2023 11:31:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402874168942 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 11:56:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402875048195 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Яйценюйх |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 11:58:07 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402875062529 |
-| Players | 3/8 |
-| Host Name | гусь |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 10, 2023 11:58:09 |
+| Lobby ID | 28511402875145230 |
+| Players | 1/8 |
+| Host Name | オープ TKM オープ |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 11:58:18 |
 
 
 |  | epic_boss_fight_nightmare |
