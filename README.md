@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403129252807 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | ЄXѺҬӉЄГӍіС |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 18:18:12 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403130597171 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | GRINGo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 18:19:32 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 18:19:29 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511403129778339 |
-| Players | 1/24 |
-| Host Name | Sidhu Moosewala |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 18:18:44 |
+| Lobby ID | 28511403129316788 |
+| Players | 6/10 |
+| Host Name | Murik<3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 18:18:16 |
 
 
 |  | ot3_gardens_duo |
@@ -74,28 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 18:19:54 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511403126392487 |
-| Players | 11/15 |
-| Host Name | Review旧人 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 18:15:21 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511403127782536 |
-| Players | 9/10 |
-| Host Name | Naturel |
+| Lobby ID | 28511403131420437 |
+| Players | 2/10 |
+| Host Name | Убийца гулёнышей |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 18:16:44 |
+| Lobby Creation Time | Friday, November 10, 2023 18:20:22 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511403096083245 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | lThe Boys:Dl |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 17:42:04 |
