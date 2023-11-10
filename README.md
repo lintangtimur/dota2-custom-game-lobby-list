@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402970059436 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | PRIME ИЛЮХА SHELBYWALK |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 14:42:40 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402955353758 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | POCOYOZOR |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 14:19:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402971156282 |
-| Players | 18/24 |
+| Players | 21/24 |
 | Host Name | 暴走的小喵 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 14:44:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402971873611 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Leonidas |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 10, 2023 14:45:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402972072408 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | Flowex |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 14:45:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402972448117 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Тайлер Дырдырчик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 14:46:21 |
@@ -67,10 +67,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511402972484130 |
+| Lobby ID | 28511402972791060 |
 | Players | 1/10 |
 | Host Name | KNИggA |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 14:46:25 |
+| Lobby Creation Time | Friday, November 10, 2023 14:46:53 |
 
 
