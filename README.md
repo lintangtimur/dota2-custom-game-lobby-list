@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403047870441 |
-| Players | 5/10 |
+| Players | 3/10 |
 | Host Name | Syn.v2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 16:36:25 |
@@ -78,15 +78,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28511403037503802 |
 | Players | 23/24 |
-| Host Name | Almond Butter Honey |
+| Host Name | Anantherzine-無盡的 |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 16:21:40 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511403049794994 |
+| Players | 1/15 |
+| Host Name | zoned |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 16:39:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511403049839472 |
+| Players | 1/15 |
+| Host Name | n7 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 16:39:12 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511403049832802 |
+| Players | 2/15 |
+| Host Name | Rgaвій |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 16:39:11 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511403047993613 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Spermkids |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:36:35 |
