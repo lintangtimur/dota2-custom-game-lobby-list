@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402855352337 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Hohenheim |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 11:21:03 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 11:22:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402854611701 |
-| Players | 1/8 |
-| Host Name | Yousei GOD |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 11:19:36 |
+| Lobby ID | 28511402853155706 |
+| Players | 13/15 |
+| Host Name | Suport |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 11:16:46 |
 
 
 |  | ot3_gardens_duo |
@@ -92,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 11:24:32 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402857141819 |
-| Players | 1/10 |
-| Host Name | SIRIUS-BLACK |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 11:24:33 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402853155706 |
-| Players | 14/15 |
-| Host Name | Suport |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 11:16:46 |
+| Lobby ID | 28511402857442445 |
+| Players | 1/15 |
+| Host Name | Piroco |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 10, 2023 11:25:07 |
 
 
 |  | epic_boss_fight_nightmare |
