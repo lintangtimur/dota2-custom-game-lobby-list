@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402902051384 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | ABOBA BOY |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 12:47:50 |
@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402903139255 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | Professor |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 12:49:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402903223186 |
-| Players | 1/15 |
-| Host Name | Dango |
+| Lobby ID | 28511402903349452 |
+| Players | 1/8 |
+| Host Name | . |
 | Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 12:50:00 |
+| Lobby Creation Time | Friday, November 10, 2023 12:50:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -54,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Akaza |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 12:40:00 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511402903299046 |
+| Players | 1/10 |
+| Host Name | _Derski_4el_ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 12:50:09 |
 
 
