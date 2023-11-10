@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402970059436 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | PRIME ИЛЮХА SHELBYWALK |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 14:42:40 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402973735091 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | 风显 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 14:48:19 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402974151522 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | ДавайНаЛадошку |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 14:48:57 |
