@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402844950307 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Julius Caesar |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 11:00:07 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402844006492 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Bonitos y gorditos hijos de puta |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 10:58:09 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402845772963 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | SQ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 11:01:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402846149243 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ТРЕЗВЫЙ МЕСЯЦ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 11:02:41 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402846179252 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | pan pan cul cul |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 11:02:45 |
