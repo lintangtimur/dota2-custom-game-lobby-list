@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402916151001 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | 21Savage |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 13:14:06 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402919295151 |
-| Players | 4/24 |
-| Host Name | ✿迅猛小老虎 |
+| Players | 3/24 |
+| Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 13:19:37 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402917566292 |
-| Players | 14/15 |
-| Host Name | North |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 13:16:37 |
+| Lobby ID | 28511402916735984 |
+| Players | 8/10 |
+| Host Name | DANICH |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 13:15:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | M1rrorq |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 13:19:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402916735984 |
-| Players | 8/10 |
-| Host Name | DANICH |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 13:15:10 |
 
 
 |  | epic_boss_fight_nightmare |
