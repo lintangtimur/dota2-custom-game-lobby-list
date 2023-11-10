@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402837058955 |
-| Players | 16/24 |
+| Players | 21/24 |
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 10:43:39 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402838438588 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | WanderD |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 10:46:33 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511402838639985 |
+| Players | 1/24 |
+| Host Name | korone fan player |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 10:46:58 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402837320910 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | クリシャ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 10:44:12 |
