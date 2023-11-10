@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402874230978 |
-| Players | 9/24 |
+| Players | 12/24 |
 | Host Name | I LIKE LITTLE RACCOON FOREVER |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 11:56:35 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402876898313 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | 彡帝血魔神彡 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 12:01:36 |
@@ -41,19 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402874168942 |
-| Players | 8/24 |
+| Players | 7/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 11:56:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511402873375599 |
-| Players | 15/15 |
-| Host Name | Zapato |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 11:54:57 |
 
 
 |  | epic_boss_fight_nightmare |
