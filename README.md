@@ -2,22 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403095071736 |
-| Players | 12/15 |
-| Host Name | SURFING |
+| Lobby ID | 28511403097891164 |
+| Players | 3/8 |
+| Host Name | даун |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 17:44:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511403097558738 |
+| Players | 5/10 |
+| Host Name | e9RHpG - UA |
 | Region | AUSTRIA |
-| Lobby Creation Time | Friday, November 10, 2023 17:40:52 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511403093278554 |
-| Players | 1/24 |
-| Host Name | daed pleier |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 17:38:44 |
+| Lobby Creation Time | Friday, November 10, 2023 17:43:47 |
 
 
 |  | ot3_gardens_duo |
@@ -29,15 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 17:42:34 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511403095031608 |
-| Players | 23/24 |
-| Host Name | RAT LEGENDS SEASON 18 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 17:40:49 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403097499648 |
@@ -47,22 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 17:43:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403097558738 |
-| Players | 3/10 |
-| Host Name | e9RHpG - UA |
-| Region | AUSTRIA |
-| Lobby Creation Time | Friday, November 10, 2023 17:43:47 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511403097757447 |
-| Players | 1/24 |
-| Host Name | МОЗГ ОПУХОЛИ |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 17:44:01 |
+| Lobby ID | 28511403097894677 |
+| Players | 4/15 |
+| Host Name | gato |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 17:44:11 |
 
 
 |  | epic_boss_fight_challenger |
@@ -90,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | свиня джакузі |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 17:42:25 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511403097678285 |
-| Players | 1/5 |
-| Host Name | VanyshaXANAX |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 17:43:56 |
 
 
