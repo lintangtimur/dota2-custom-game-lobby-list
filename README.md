@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402880839664 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Solo Leveling |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 12:08:51 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402878111046 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | MR.DEAD |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 12:03:50 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MataCholas |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 12:09:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511402882742957 |
+| Players | 1/10 |
+| Host Name | swap commend |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 12:12:22 |
 
 
 |  | epic_boss_fight_nightmare |
