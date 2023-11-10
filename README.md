@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 16:02:47 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403022280791 |
-| Players | 14/15 |
-| Host Name | krian |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 15:59:49 |
+| Lobby ID | 28511403025413493 |
+| Players | 6/8 |
+| Host Name | avanture |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 16:04:17 |
 
 
 |  | ot3_desert_octet |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511403022834902 |
-| Players | 9/10 |
-| Host Name | :( |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 16:00:37 |
+| Lobby ID | 28511403025548161 |
+| Players | 6/10 |
+| Host Name | BRAMBRAGE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 16:04:29 |
 
 
 |  | ot3_gardens_duo |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 16:03:26 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403021024757 |
-| Players | 23/24 |
-| Host Name | 初音真爱粉 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 15:58:00 |
+| Lobby ID | 28511403022280791 |
+| Players | 11/15 |
+| Host Name | ana |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 15:59:49 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403025222788 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Emptiness |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 10, 2023 16:04:01 |
@@ -83,19 +83,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 16:04:09 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511403025413493 |
-| Players | 2/8 |
-| Host Name | avanture |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 16:04:17 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511403023743503 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Sewey |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:01:55 |
