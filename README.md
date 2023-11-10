@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402967128571 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | roseagainnn <3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 14:38:10 |
@@ -56,30 +56,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 14:33:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402965414410 |
-| Players | 14/15 |
-| Host Name | バガボンド |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 14:35:29 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402967678818 |
-| Players | 1/10 |
-| Host Name | ✪  yENKING |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 14:39:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402967668235 |
-| Players | 1/10 |
-| Host Name | I'm your favorite clown |
+| Lobby ID | 28511402967795110 |
+| Players | 1/8 |
+| Host Name | Убийца Нубов 2013 |
 | Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 14:39:00 |
+| Lobby Creation Time | Friday, November 10, 2023 14:39:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402967817500 |
+| Players | 1/8 |
+| Host Name | SoulfuzZ |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 14:39:13 |
 
 
