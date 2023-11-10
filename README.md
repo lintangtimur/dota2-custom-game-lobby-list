@@ -67,37 +67,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403062849165 |
-| Players | 2/15 |
-| Host Name | the sweetest cat |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 16:57:43 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511403062965067 |
-| Players | 3/10 |
-| Host Name | WestBang |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 16:57:53 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28511403063003717 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | ИП_в_РФ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 16:57:57 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511403062965067 |
+| Players | 2/10 |
+| Host Name | WestBang |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 16:57:53 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511403063031392 |
+| Lobby ID | 28511403063156241 |
 | Players | 1/24 |
-| Host Name | szunari |
+| Host Name | ✟ מִיכָאֵל ✟ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 16:58:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511403063170316 |
+| Players | 2/8 |
+| Host Name | axiomii |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 10, 2023 16:58:11 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511403063175803 |
+| Players | 7/24 |
+| Host Name | POM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 16:58:11 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511403063176492 |
+| Players | 2/5 |
+| Host Name | Я ЕБAНУТЫЙ |
 | Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 16:57:59 |
+| Lobby Creation Time | Friday, November 10, 2023 16:58:11 |
 
 
