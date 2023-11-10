@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402844078441 |
-| Players | 5/15 |
+| Players | 11/15 |
 | Host Name | El duderino |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 10:58:18 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402842361764 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | 大炮 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 10:54:44 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402843585810 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Potical |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 10:57:17 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 10:53:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402842975349 |
-| Players | 7/8 |
-| Host Name | Prime говядина" |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 10:56:00 |
+| Lobby ID | 28511402843477160 |
+| Players | 6/10 |
+| Host Name | Han♡Pau |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 10:57:03 |
 
 
 |  | ot3_desert_octet |
@@ -63,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Bonitos y gorditos hijos de puta |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 10:58:09 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402843477160 |
-| Players | 6/10 |
-| Host Name | Han♡Pau |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 10:57:03 |
 
 
