@@ -5,37 +5,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402926309362 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | 123123 |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 13:31:32 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402926733159 |
-| Players | 1/24 |
-| Host Name | Vuvuzela Virtuoso Hans Rudolph |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 13:32:16 |
+| Lobby ID | 28511402927595842 |
+| Players | 1/8 |
+| Host Name | without MoM on pudge |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 13:33:44 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402926533657 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Uf1x |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 13:31:55 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402927436193 |
-| Players | 1/15 |
-| Host Name | No T1 in TI |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 10, 2023 13:33:28 |
+| Lobby ID | 28511402927769167 |
+| Players | 4/10 |
+| Host Name | nobodytrust101 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 13:34:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402926297692 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | 盗个铃 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 13:31:31 |
@@ -72,33 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fabian! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 13:32:53 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511402924763100 |
-| Players | 24/24 |
-| Host Name | $$-_-$$ |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 13:28:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511402927317621 |
-| Players | 1/15 |
-| Host Name | Call_me_Steev |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 13:33:16 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511402927595842 |
-| Players | 1/8 |
-| Host Name | without MoM on pudge |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 13:33:44 |
 
 
 |  | epic_boss_fight_nightmare |
