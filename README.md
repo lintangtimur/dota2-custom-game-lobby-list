@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403070897688 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | BRAMBRAGE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 17:09:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403072145308 |
-| Players | 2/10 |
-| Host Name | loseloseloseloseloselose |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 17:11:24 |
+| Lobby ID | 28511403072709459 |
+| Players | 3/8 |
+| Host Name | PEW PAW |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 17:12:11 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,26 +77,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403072608228 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 神说天堂满了你去地狱 |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 17:12:03 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511403072679882 |
-| Players | 1/24 |
-| Host Name | Diamond Fish sauce |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 17:12:09 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403070744399 |
 | Players | 14/15 |
-| Host Name | &D |
+| Host Name | I like freedom |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 17:09:28 |
 
