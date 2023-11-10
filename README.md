@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402990739288 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | El gatoo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 15:14:37 |
@@ -56,24 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 15:16:02 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511402991675340 |
-| Players | 1/24 |
-| Host Name | 1 MMR |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 10, 2023 15:16:04 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402991684519 |
-| Players | 1/10 |
-| Host Name | Alison Burgers |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 15:16:05 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402968670840 |
@@ -85,10 +67,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28511402991684599 |
+| Lobby ID | 28511402991819700 |
 | Players | 1/5 |
 | Host Name | asdpsa |
 | Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 15:16:05 |
+| Lobby Creation Time | Friday, November 10, 2023 15:16:17 |
 
 
