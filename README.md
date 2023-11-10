@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403093278554 |
-| Players | 2/24 |
-| Host Name | part time gamer |
+| Players | 1/24 |
+| Host Name | daed pleier |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 17:38:44 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403095031608 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 17:40:49 |
@@ -41,34 +41,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403095071736 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | 小救星小渡 |
 | Region | AUSTRIA |
 | Lobby Creation Time | Friday, November 10, 2023 17:40:52 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511403095060331 |
-| Players | 7/8 |
-| Host Name | GOLUBOGLAZIY ARIEC |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 17:40:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511403096770859 |
-| Players | 1/8 |
-| Host Name | Mixnajaren |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 17:42:52 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28511403090876199 |
-| Players | 3/7 |
+| Players | 4/7 |
 | Host Name | Пухля |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 17:35:51 |
