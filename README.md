@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402871950573 |
-| Players | 8/10 |
-| Host Name | Писятдва |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 11:52:18 |
+| Lobby ID | 28511402873866614 |
+| Players | 3/10 |
+| Host Name | Remington Jones |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 11:55:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402860533492 |
-| Players | 12/24 |
+| Players | 15/24 |
 | Host Name | Chisato |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 10, 2023 11:31:02 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402872156762 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | Мохнатый вор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 11:52:41 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402873375599 |
-| Players | 14/15 |
-| Host Name | Zapato |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 11:54:57 |
+| Lobby ID | 28511402874230978 |
+| Players | 1/24 |
+| Host Name | StorkStreams |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 11:56:35 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402872175166 |
-| Players | 20/24 |
+| Players | 22/24 |
 | Host Name | Communist Yatoro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 11:52:44 |
@@ -68,37 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402873803494 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | SingSongVindVong |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 11:55:46 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402873866614 |
-| Players | 1/10 |
-| Host Name | Remington Jones |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 11:55:53 |
+| Lobby ID | 28511402874168942 |
+| Players | 1/24 |
+| Host Name | ✿迅猛小老虎 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 11:56:28 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402873995397 |
+| Lobby ID | 28511402874473929 |
 | Players | 1/15 |
-| Host Name | 山海 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 11:56:08 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402872963803 |
-| Players | 7/10 |
-| Host Name | wanakito123 |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 11:54:11 |
+| Host Name | 食粑啦你 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Friday, November 10, 2023 11:57:02 |
 
 
 |  | epic_boss_fight_nightmare |
