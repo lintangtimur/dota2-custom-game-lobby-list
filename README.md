@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402876031157 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | intothebottle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 11:59:59 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402874168942 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 11:56:28 |
@@ -74,6 +74,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 11:59:52 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402876129961 |
+| Players | 1/8 |
+| Host Name | HeyPapi<3 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 12:00:10 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402875047084 |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 10K Behavior Score |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 11:58:07 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511402875902817 |
-| Players | 1/5 |
-| Host Name | - BiJooLA - |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 10, 2023 11:59:44 |
 
 
