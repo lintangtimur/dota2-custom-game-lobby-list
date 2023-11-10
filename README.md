@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402951573150 |
-| Players | 3/24 |
+| Players | 7/24 |
 | Host Name | へんたい ZUUUL |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, November 10, 2023 14:13:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402953146164 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | double<3A |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 14:16:03 |
@@ -65,12 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 14:16:15 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511402953824534 |
+| Players | 1/15 |
+| Host Name | RED _ Trying To Not Toxic |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 10, 2023 14:17:08 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402953328548 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Vhiyoulette |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 14:16:20 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511402953822731 |
+| Players | 1/10 |
+| Host Name | GreShnik |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 10, 2023 14:17:08 |
 
 
