@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402992032313 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | PLAYING DOTA WITH ASIAN MONKEYS |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 15:16:36 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402992041702 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Gabi |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 15:16:37 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402987105302 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | SDMastery© |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 15:09:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402990739288 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | El gatoo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 15:14:37 |
@@ -83,24 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 15:16:46 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511402992167649 |
-| Players | 1/15 |
-| Host Name | дА Я ТАЛАнТ |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 10, 2023 15:16:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511402992171729 |
-| Players | 3/8 |
-| Host Name | SferaX_SX |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 10, 2023 15:16:49 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402968670840 |
@@ -108,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 劍風金 |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 14:40:32 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511402992254901 |
+| Players | 1/10 |
+| Host Name | Vhiyoulette |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 15:16:56 |
 
 
