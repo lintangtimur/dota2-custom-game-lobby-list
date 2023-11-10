@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403057475725 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Arthas Menethil |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 16:49:56 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403059675800 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Ohayo! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:53:04 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403047699938 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | PEW PEW PEW PEW PEW PEW PEW |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 16:36:10 |
@@ -47,15 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 16:47:27 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511403061297241 |
-| Players | 7/10 |
-| Host Name | enough |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 16:55:27 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403061842124 |
@@ -65,21 +56,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 16:56:15 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511403062665262 |
+| Players | 1/8 |
+| Host Name | Airo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 16:57:27 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511403060423146 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | I ATE NOTHING |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:54:10 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511403062550817 |
-| Players | 1/5 |
-| Host Name | aragon |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 10, 2023 16:57:17 |
 
 
