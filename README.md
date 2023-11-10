@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403098120191 |
-| Players | 8/15 |
+| Players | 6/15 |
 | Host Name | TZT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 17:44:27 |
@@ -14,28 +14,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403098427034 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | mkz |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 10, 2023 17:44:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511403098438757 |
-| Players | 1/8 |
-| Host Name | 430 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 17:44:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511403098494559 |
-| Players | 1/15 |
-| Host Name | Haikyuut |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 17:44:53 |
 
 
 |  | ot3_desert_octet |
@@ -45,6 +27,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 17:40:49 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511403098604615 |
+| Players | 1/10 |
+| Host Name | Готов вкалывать |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 10, 2023 17:45:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511403098679703 |
+| Players | 1/15 |
+| Host Name | Trade commend |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 10, 2023 17:45:07 |
 
 
 |  | epic_boss_fight_normal |
