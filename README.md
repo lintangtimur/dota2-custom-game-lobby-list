@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402925584136 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Muted |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 13:30:18 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402925683400 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Feelingpeace’s |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 13:30:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402921369940 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Chris |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 13:23:10 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | sugeo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 13:31:55 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511402926733159 |
+| Players | 1/24 |
+| Host Name | Vuvuzela Virtuoso Hans Rudolph |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 13:32:16 |
 
 
