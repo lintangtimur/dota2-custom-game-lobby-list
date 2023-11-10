@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402839948414 |
-| Players | 6/8 |
-| Host Name | Aker- |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 10:49:43 |
+| Lobby ID | 28511402841429122 |
+| Players | 1/24 |
+| Host Name | SonyComputer |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 10:52:48 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402841191850 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Et3rnauta |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 10:52:18 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402841295244 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | intothebottle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 10:52:32 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511402841429122 |
-| Players | 1/24 |
-| Host Name | SonyComputer |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 10:52:48 |
 
 
 |  | epic_boss_fight_nightmare |
