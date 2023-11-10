@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403093989532 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Jabroni |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 10, 2023 17:39:35 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403095175343 |
-| Players | 4/15 |
-| Host Name | Sapa Inca |
+| Players | 3/15 |
+| Host Name | Личность |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 17:41:00 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403095031608 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 17:40:49 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403095071736 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Save Yourself |
 | Region | AUSTRIA |
 | Lobby Creation Time | Friday, November 10, 2023 17:40:52 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403095060331 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | GOLUBOGLAZIY ARIEC |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 17:40:51 |
