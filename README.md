@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 12:05:32 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402878864591 |
-| Players | 5/8 |
-| Host Name | Spire |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 12:05:12 |
+| Lobby ID | 28511402879745917 |
+| Players | 3/10 |
+| Host Name | Ajr |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 12:06:49 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,46 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402879658892 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | roo |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 12:06:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402879745917 |
-| Players | 1/10 |
-| Host Name | Ajr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 12:06:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511402879496957 |
-| Players | 1/8 |
-| Host Name | 赢不了 |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 10, 2023 12:06:22 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511402877835698 |
-| Players | 7/8 |
-| Host Name | Professor |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 12:03:19 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511402879856645 |
-| Players | 1/8 |
-| Host Name | Ssshhnnn |
-| Region | Unknown |
-| Lobby Creation Time | Friday, November 10, 2023 12:07:01 |
 
 
 |  | epic_boss_fight_nightmare |
