@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402815358228 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | 彡帝血魔神彡 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 09:58:09 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402814270399 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Naranja |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 09:55:52 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 05:05:30 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402814767822 |
-| Players | 18/24 |
-| Host Name | Krammnik |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 09:56:55 |
+| Lobby ID | 28511402814977001 |
+| Players | 10/15 |
+| Host Name | Rocky7 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 09:57:22 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Rikki-Tikki-Tavi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 09:56:03 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511402814977001 |
-| Players | 10/15 |
-| Host Name | Rocky7 |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 09:57:22 |
 
 
 |  | epic_boss_fight_nightmare |
