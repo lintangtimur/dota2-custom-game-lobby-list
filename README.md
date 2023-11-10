@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402833915349 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | 青虫叮咚 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 10:37:01 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402832490368 |
-| Players | 12/15 |
-| Host Name | 100% pasivo llamame 960 210 099 |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 10:34:02 |
+| Lobby ID | 28511402834970614 |
+| Players | 1/24 |
+| Host Name | dba07 |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 10:39:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,10 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402834924016 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | светаа |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 10:39:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511402834948928 |
+| Players | 2/15 |
+| Host Name | [عصابة]BAD! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 10:39:13 |
 
 
 |  | epic_boss_fight_normal |
