@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403065777290 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | drntmanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 17:02:07 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403065562065 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Midnight pulse is "not" lethal |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 17:01:48 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 17:00:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511403064902628 |
-| Players | 3/15 |
-| Host Name | PEW PEW PEW PEW PEW PEW PEW |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 10, 2023 17:00:48 |
+| Lobby ID | 28511403066758229 |
+| Players | 2/10 |
+| Host Name | Кiт Члiнокрад |
+| Region | AUSTRIA |
+| Lobby Creation Time | Friday, November 10, 2023 17:03:36 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403064042447 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Kojut |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:59:29 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403066354422 |
+| Lobby ID | 28511403066858348 |
 | Players | 4/8 |
-| Host Name | 777 |
+| Host Name | pusi |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 10, 2023 17:03:00 |
+| Lobby Creation Time | Friday, November 10, 2023 17:03:45 |
 
 
 |  | ot3_desert_octet |
@@ -92,22 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 17:02:47 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403063175803 |
-| Players | 22/24 |
-| Host Name | POM |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 16:58:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511403066620875 |
-| Players | 3/8 |
-| Host Name | Жаби Жаби |
+| Lobby ID | 28511403066770466 |
+| Players | 3/15 |
+| Host Name | Basher Balance |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 17:03:24 |
+| Lobby Creation Time | Friday, November 10, 2023 17:03:37 |
 
 
 |  | epic_boss_fight_nightmare |
