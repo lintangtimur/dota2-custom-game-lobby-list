@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402816301506 |
-| Players | 1/8 |
-| Host Name | TYPESol |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 10, 2023 10:00:10 |
+| Lobby ID | 28511402816156495 |
+| Players | 1/10 |
+| Host Name | Retired |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 09:59:51 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402815909758 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | єℓ ρα∂яιησ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 09:59:19 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402816081543 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | OH, IT'S ME? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 09:59:41 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402816006673 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | PATO |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 09:59:32 |
@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 09:56:23 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402816749150 |
+| Players | 1/8 |
+| Host Name | TYPESol |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 10, 2023 10:01:06 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402815978610 |
-| Players | 22/24 |
-| Host Name | ..... |
+| Lobby ID | 28511402816788061 |
+| Players | 1/24 |
+| Host Name | :-: |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 09:59:28 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402816156495 |
-| Players | 1/10 |
-| Host Name | Retired |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 09:59:51 |
+| Lobby Creation Time | Friday, November 10, 2023 10:01:11 |
 
 
 |  | epic_boss_fight_normal |
