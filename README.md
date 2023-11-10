@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402962593159 |
+| Lobby ID | 28511402968390923 |
 | Players | 1/8 |
-| Host Name | [D]iomegod |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 14:31:03 |
+| Host Name | Deadline |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 14:40:07 |
 
 
 |  | ot3_jungle_quintet |
@@ -38,24 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 14:33:25 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511402967128571 |
-| Players | 13/15 |
-| Host Name | roseagainnn <3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 14:38:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402968019927 |
-| Players | 5/10 |
-| Host Name | Harvester of death |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 14:39:32 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402968070402 |
@@ -65,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 14:39:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402968390923 |
-| Players | 1/8 |
-| Host Name | Deadline |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 14:40:07 |
+| Lobby ID | 28511402968019927 |
+| Players | 5/10 |
+| Host Name | Harvester of death |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 14:39:32 |
 
 
 |  | epic_boss_fight_normal |
