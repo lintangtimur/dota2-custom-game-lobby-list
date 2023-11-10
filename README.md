@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511403055112061 |
-| Players | 22/24 |
-| Host Name | Chungha |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 16:46:37 |
+| Lobby ID | 28511403056974944 |
+| Players | 1/10 |
+| Host Name | N!cK Machiavelli |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 16:49:14 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403047699938 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | Qx |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 16:36:10 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403056464053 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 16:48:31 |
@@ -94,20 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403056852250 |
+| Lobby ID | 28511403056889756 |
 | Players | 1/8 |
-| Host Name | 改名死妈妈 |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 16:49:04 |
+| Host Name | 永恒.T-Rex |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 16:49:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403056871750 |
+| Lobby ID | 28511403056899608 |
 | Players | 1/15 |
-| Host Name | ХУЛИо |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 10, 2023 16:49:05 |
+| Host Name | Kawaii Tolkien Black Jesus |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 16:49:08 |
 
 
 |  | epic_boss_fight_nightmare |
