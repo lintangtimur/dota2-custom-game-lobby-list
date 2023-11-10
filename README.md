@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402910246867 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | awtsu |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 13:03:18 |
@@ -38,31 +38,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 13:03:44 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402911986988 |
-| Players | 13/15 |
-| Host Name | autobots gameplay |
+| Lobby ID | 28511402911713094 |
+| Players | 8/10 |
+| Host Name | 4las4llr3d |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 13:06:33 |
+| Lobby Creation Time | Friday, November 10, 2023 13:06:03 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402909704847 |
+| Lobby ID | 28511402912971898 |
 | Players | 1/24 |
 | Host Name | Weganerd |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 10, 2023 13:02:16 |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 13:08:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402911713094 |
-| Players | 9/10 |
-| Host Name | 4las4llr3d |
+| Lobby ID | 28511402912965332 |
+| Players | 1/15 |
+| Host Name | Михаил cirlce |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 13:06:03 |
+| Lobby Creation Time | Friday, November 10, 2023 13:08:21 |
 
 
 |  | epic_boss_fight_challenger |
