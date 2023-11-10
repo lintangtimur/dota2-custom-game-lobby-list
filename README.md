@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402891292349 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | валера унитаз |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 12:28:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402889804944 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | modo chill: !!ON¡¡ |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 12:25:18 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402891051011 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | GVG |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 12:27:38 |
