@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402878539406 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | MiauW |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 12:04:37 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 12:03:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402877653672 |
-| Players | 23/24 |
-| Host Name | TiltedGuy |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 12:02:59 |
+| Lobby ID | 28511402879052574 |
+| Players | 9/15 |
+| Host Name | ♛ Azhik#p4p ♛ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 12:05:32 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,19 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402879105902 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | The pope´s mom |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 12:05:38 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511402879052574 |
-| Players | 7/15 |
-| Host Name | ♛ Azhik#p4p ♛ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 12:05:32 |
 
 
 |  | epic_boss_fight_nightmare |
