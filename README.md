@@ -41,28 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403055702900 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Biborten! |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 16:47:27 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511403058589008 |
-| Players | 2/10 |
-| Host Name | enough |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 16:51:30 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511403058924508 |
-| Players | 7/8 |
-| Host Name | Lain Kurai reborn |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 10, 2023 16:51:59 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 16:53:51 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511403060366747 |
-| Players | 4/8 |
-| Host Name | Suki<3 |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 16:54:05 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28511403059785279 |
@@ -90,5 +63,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | tuturo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:53:14 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511403060407017 |
+| Players | 1/10 |
+| Host Name | Danh hài Vân Sơn |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 16:54:09 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511403060423146 |
+| Players | 1/10 |
+| Host Name | I ATE NOTHING |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 16:54:10 |
 
 
