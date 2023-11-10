@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402905734783 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Movistar Perú |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 12:54:42 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402903349452 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | . |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 12:50:14 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402907258638 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | 月老離職，財神管姻緣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 12:57:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402907058964 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | METALLOant |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 12:57:13 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402907003492 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | xxXBONIATOXxx |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 12:57:07 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402906926448 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | 3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 12:56:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402906990354 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | El Gatto |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 12:57:05 |
