@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403037503802 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | 왓츠앱 시리 |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 16:21:40 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403058402942 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Qx |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 16:51:15 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403056205203 |
-| Players | 21/24 |
-| Host Name | 青虫叮咚 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 16:48:09 |
+| Lobby ID | 28511403058924508 |
+| Players | 1/8 |
+| Host Name | Lain Kurai reborn |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 10, 2023 16:51:59 |
 
 
 |  | ot3_gardens_duo |
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403047699938 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | DareDevi1 |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 16:36:10 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511403058924508 |
-| Players | 1/8 |
-| Host Name | Lain Kurai reborn |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 10, 2023 16:51:59 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511403058975039 |
-| Players | 1/15 |
-| Host Name | garciaortizbrandondilan |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 10, 2023 16:52:03 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Vhiyoulette |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:48:16 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511403059113413 |
+| Players | 1/5 |
+| Host Name | = |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 10, 2023 16:52:15 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511403059127939 |
+| Players | 2/5 |
+| Host Name | Daimon |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 10, 2023 16:52:16 |
 
 
