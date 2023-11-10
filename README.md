@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402870401743 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Dota 2 Groomologist |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 11:49:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402870942756 |
-| Players | 4/8 |
-| Host Name | Bubbit |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 11:50:26 |
+| Lobby ID | 28511402871397064 |
+| Players | 1/15 |
+| Host Name | Solo Leveling |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 11:51:17 |
 
 
 |  | ot3_necropolis_ffa |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402860533492 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Chisato |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 10, 2023 11:31:02 |
@@ -65,30 +65,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 11:50:58 |
 
 
-|  | ot3_desert_octet |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28511402871294603 |
-| Players | 1/24 |
-| Host Name | ENZ |
+| Lobby ID | 28511402871335711 |
+| Players | 1/5 |
+| Host Name | skyrutt |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 10, 2023 11:51:05 |
+| Lobby Creation Time | Friday, November 10, 2023 11:51:10 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511402871299865 |
+| Lobby ID | 28511402871381230 |
 | Players | 1/10 |
 | Host Name | TriHard |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 10, 2023 11:51:06 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511402871311899 |
-| Players | 1/10 |
-| Host Name | ™ஜ۩❤☛۞☚❤۩ஜ™ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 11:51:07 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 11:51:15 |
 
 
