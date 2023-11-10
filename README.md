@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402843585810 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | Potical |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 10:57:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402841757524 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | IISIMI |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 10:53:28 |
@@ -54,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Julius Caesar |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 11:00:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511402845387574 |
+| Players | 1/15 |
+| Host Name | Niñoblis Tu Terror +.+ |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 11:01:04 |
 
 
