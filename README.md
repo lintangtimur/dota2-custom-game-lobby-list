@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402870401743 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Dota 2 Groomologist |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 11:49:25 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402870989003 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ايراي الشاذ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 11:50:31 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402860533492 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Chisato |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 10, 2023 11:31:02 |
@@ -56,21 +56,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 11:50:52 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511402871228639 |
+| Players | 3/10 |
+| Host Name | Antisocial_ |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 11:50:58 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511402871294603 |
+| Players | 1/24 |
+| Host Name | ENZ |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 10, 2023 11:51:05 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511402869905548 |
+| Lobby ID | 28511402871299865 |
 | Players | 1/10 |
 | Host Name | TriHard |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 11:48:30 |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 10, 2023 11:51:06 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511402853377381 |
+| Lobby ID | 28511402871311899 |
 | Players | 1/10 |
-| Host Name | skyrutt |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 10, 2023 11:17:12 |
+| Host Name | ™ஜ۩❤☛۞☚❤۩ஜ™ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 11:51:07 |
 
 
