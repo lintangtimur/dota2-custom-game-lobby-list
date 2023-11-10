@@ -29,24 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 13:35:53 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511402931853797 |
-| Players | 13/15 |
-| Host Name | Fireflies |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 13:41:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511402932256604 |
-| Players | 1/15 |
-| Host Name | Hohenheim |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 10, 2023 13:41:44 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402932493460 |
@@ -56,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 13:42:08 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402932362690 |
-| Players | 1/10 |
-| Host Name | CANCELUL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 13:41:55 |
+| Lobby ID | 28511402932256604 |
+| Players | 1/15 |
+| Host Name | Hohenheim |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 10, 2023 13:41:44 |
 
 
 |  | epic_boss_fight_nightmare |
