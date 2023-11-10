@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403032274359 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | ДОН КОЛИC |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 16:14:09 |
@@ -65,12 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 16:13:21 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511403032771209 |
-| Players | 1/8 |
-| Host Name | савелий |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 16:14:52 |
+| Lobby ID | 28511403032941926 |
+| Players | 1/10 |
+| Host Name | Alison Burgers |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 10, 2023 16:15:07 |
 
 
