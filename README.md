@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402844078441 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | El duderino |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 10:58:18 |
@@ -63,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Bonitos y gorditos hijos de puta |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 10:58:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511402844950307 |
+| Players | 1/10 |
+| Host Name | Julius Caesar |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 11:00:07 |
 
 
