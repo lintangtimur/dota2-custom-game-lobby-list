@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402894434139 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | p n k z |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 12:33:53 |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 12:35:14 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511402895617637 |
-| Players | 1/24 |
-| Host Name | DEStroyer of dreams |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 12:36:02 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402895602587 |
@@ -72,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | #MANGONATION |
 | Region | AUSTRIA |
 | Lobby Creation Time | Friday, November 10, 2023 12:36:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511402895658371 |
+| Players | 1/15 |
+| Host Name | do something |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 12:36:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511402895677998 |
+| Players | 4/24 |
+| Host Name | 蓝胖舌吻双头龙 |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 12:36:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MUTED |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 12:35:33 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511402895701075 |
+| Players | 1/5 |
+| Host Name | _ЗаЙка_ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 12:36:11 |
 
 
