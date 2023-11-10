@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402887053188 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | FORSA AAA N |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 12:20:15 |
@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402886959522 |
-| Players | 5/24 |
-| Host Name | 我也不狂 |
+| Players | 3/24 |
+| Host Name | oOo-ÉGOÏSTE-oOo |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 12:20:05 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402882957781 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | -50°thecoldone |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 12:12:45 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402885548069 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | .twitch.tv/shatunchick |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 12:17:29 |
