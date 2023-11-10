@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402998648155 |
-| Players | 11/15 |
+| Players | 10/15 |
 | Host Name | everything you need. |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 10, 2023 15:26:29 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 15:36:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511403006542748 |
-| Players | 7/8 |
-| Host Name | Genocide |
+| Lobby ID | 28511403007691303 |
+| Players | 1/10 |
+| Host Name | Erlon |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 15:37:37 |
+| Lobby Creation Time | Friday, November 10, 2023 15:39:13 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403007570494 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | патриархат 1класс |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 15:39:03 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 15:39:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403007691303 |
-| Players | 1/10 |
-| Host Name | Erlon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 15:39:13 |
+| Lobby ID | 28511403007865694 |
+| Players | 1/8 |
+| Host Name | I$uss |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 15:39:28 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511403005116496 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Mythical |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 15:35:38 |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Diclonius |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 15:37:42 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511403007806793 |
+| Players | 1/10 |
+| Host Name | dubas |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 15:39:23 |
 
 
