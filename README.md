@@ -2,20 +2,20 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511403080511695 |
-| Players | 13/15 |
-| Host Name | Mouches Volantes |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 17:22:42 |
+| Lobby ID | 28511403082455972 |
+| Players | 1/10 |
+| Host Name | let's win |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 10, 2023 17:25:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403080831507 |
-| Players | 2/24 |
-| Host Name | Tokyou |
+| Players | 1/24 |
+| Host Name | Space |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 17:23:07 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403080163778 |
-| Players | 10/24 |
+| Players | 12/24 |
 | Host Name | HashiRama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 17:22:14 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 17:22:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403079953199 |
-| Players | 7/8 |
-| Host Name | Prime говядина" |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 17:21:57 |
+| Lobby ID | 28511403082495672 |
+| Players | 5/15 |
+| Host Name | 4D_Bruht |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 10, 2023 17:25:19 |
 
 
 |  | ot3_jungle_quintet |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 17:24:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403076782963 |
-| Players | 23/24 |
-| Host Name | Pandora's Actor™ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 17:17:42 |
+| Lobby ID | 28511403082552060 |
+| Players | 3/8 |
+| Host Name | але |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 10, 2023 17:25:23 |
 
 
 |  | epic_boss_fight_normal |
