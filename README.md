@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403068931689 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Justin Weaver |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 17:06:50 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403065562065 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Midnight pulse is "not" lethal |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 17:01:48 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403065777290 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | drntmanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 17:02:07 |
@@ -92,12 +92,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 17:08:14 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511403069963340 |
+| Players | 1/10 |
+| Host Name | Da Wae |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 17:08:21 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28511403069802229 |
+| Lobby ID | 28511403069995758 |
 | Players | 1/5 |
 | Host Name | child po |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 10, 2023 17:08:07 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 17:08:23 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511403070053245 |
+| Players | 1/5 |
+| Host Name | Малышка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 17:08:28 |
 
 
