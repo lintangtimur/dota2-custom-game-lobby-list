@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402966503432 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Fabian! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 14:37:12 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402955353758 |
-| Players | 6/24 |
+| Players | 4/24 |
 | Host Name | SaVage |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 14:19:33 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402964091917 |
-| Players | 4/15 |
+| Players | 2/15 |
 | Host Name | Eblan |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 14:33:25 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402967128571 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | roseagainnn <3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 14:38:10 |
@@ -56,12 +56,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 14:33:49 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402960570862 |
-| Players | 6/10 |
-| Host Name | kesatria kanterbury |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 14:27:50 |
+| Lobby ID | 28511402965414410 |
+| Players | 14/15 |
+| Host Name | バガボンド |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 14:35:29 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511402967678818 |
+| Players | 1/10 |
+| Host Name | ✪  yENKING |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 14:39:00 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511402967668235 |
+| Players | 1/10 |
+| Host Name | I'm your favorite clown |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 14:39:00 |
 
 
