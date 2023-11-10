@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402986335329 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | SSS |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 10, 2023 15:07:52 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402985932692 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Ray |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 15:07:14 |
@@ -81,6 +81,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LiQuiD_________? |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 10, 2023 15:09:05 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511402987280451 |
+| Players | 2/15 |
+| Host Name | Fireflies |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 15:09:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402987331267 |
+| Players | 4/8 |
+| Host Name | EL MATA ABUELITAS 3000 |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 15:09:24 |
 
 
 |  | epic_boss_fight_nightmare |
