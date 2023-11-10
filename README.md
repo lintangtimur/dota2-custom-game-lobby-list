@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403066210822 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | murad |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 17:02:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511403064902628 |
-| Players | 1/15 |
-| Host Name | PEW PEW PEW PEW PEW PEW PEW |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 10, 2023 17:00:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511403067840207 |
-| Players | 1/15 |
-| Host Name | ПЛАЧУШИЙ УБИЙЦА |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 17:05:14 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,30 +83,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 17:05:14 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511403067840207 |
+| Players | 5/15 |
+| Host Name | ПЛАЧУШИЙ УБИЙЦА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 17:05:14 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511403065432997 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | OID |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 17:01:36 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511403067506890 |
-| Players | 1/5 |
-| Host Name | NightShade |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 17:04:44 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511403067839665 |
-| Players | 1/10 |
-| Host Name | MaxNor |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 17:05:14 |
 
 
