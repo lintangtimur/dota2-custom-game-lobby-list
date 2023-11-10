@@ -65,30 +65,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 15:23:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402996352702 |
-| Players | 2/15 |
-| Host Name | ffffuuuunnnn |
-| Region | AUSTRALIA |
+| Lobby ID | 28511402996352621 |
+| Players | 1/8 |
+| Host Name | Lemi Shó de china |
+| Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 15:23:07 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402994362592 |
-| Players | 9/10 |
-| Host Name | TriHard |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 15:20:08 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511402996302651 |
-| Players | 2/5 |
-| Host Name | DeVil JaCk |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 15:23:03 |
+| Lobby ID | 28511402996395303 |
+| Players | 1/15 |
+| Host Name | Lik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 15:23:11 |
 
 
