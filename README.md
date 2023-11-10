@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402971156282 |
-| Players | 14/24 |
+| Players | 18/24 |
 | Host Name | 暴走的小喵 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 14:44:21 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402971873611 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Leonidas |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 10, 2023 14:45:28 |
@@ -56,12 +56,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 14:45:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402972363165 |
-| Players | 1/8 |
-| Host Name | Так называемый Chef |
+| Lobby ID | 28511402972448117 |
+| Players | 3/10 |
+| Host Name | Тайлер Дырдырчик |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 14:46:13 |
+| Lobby Creation Time | Friday, November 10, 2023 14:46:21 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511402972484130 |
+| Players | 1/10 |
+| Host Name | KNИggA |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 14:46:25 |
 
 
