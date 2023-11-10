@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402964961500 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Пливет я новичок |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 14:34:47 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402961704438 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Fabian! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 14:29:38 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402962830087 |
-| Players | 10/10 |
-| Host Name | Arthas Menethil |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 14:31:25 |
+| Lobby ID | 28511402964881186 |
+| Players | 3/10 |
+| Host Name | $ay0n@r@ 60y 😎 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 14:34:39 |
 
 
 |  | ot3_gardens_duo |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402955353758 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | SaVage |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 14:19:33 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402964706821 |
-| Players | 2/24 |
-| Host Name | RiftBreaker |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 10, 2023 14:34:22 |
+| Lobby ID | 28511402965304052 |
+| Players | 2/8 |
+| Host Name | Th0rflnn |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 14:35:19 |
 
 
 |  | ot3_gardens_duo |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | simple |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 14:34:22 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402964881186 |
-| Players | 3/10 |
-| Host Name | $ay0n@r@ 60y 😎 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 14:34:39 |
 
 
 |  | epic_boss_fight_nightmare |
