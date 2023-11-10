@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403030127366 |
-| Players | 6/8 |
-| Host Name | freelancer |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 16:11:04 |
+| Lobby ID | 28511403031285531 |
+| Players | 2/8 |
+| Host Name | radbix |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 10, 2023 16:12:45 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403029950716 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Дамский ублюдок |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 16:10:49 |
@@ -74,28 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 16:10:29 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511403031245837 |
-| Players | 1/15 |
-| Host Name | i |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 10, 2023 16:12:42 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403031285531 |
-| Players | 1/8 |
-| Host Name | radbix |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 10, 2023 16:12:45 |
+| Lobby ID | 28511403031606062 |
+| Players | 4/8 |
+| Host Name | Suki<3 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 16:13:13 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511403031337850 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:12:50 |
