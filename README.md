@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403037503802 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 16:21:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403039241579 |
-| Players | 1/15 |
-| Host Name | Kawaii Tolkien Black Jesus |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 10, 2023 16:24:09 |
+| Lobby ID | 28511403040090615 |
+| Players | 3/8 |
+| Host Name | 勝者の呪い |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 16:25:21 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403017835140 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | LegendsNeverDie |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, November 10, 2023 15:53:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403039574941 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | I bought the bank |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 16:24:38 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403039628818 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Mixnajaren |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 16:24:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403039395020 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | CANCELUL |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 16:24:22 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403039493785 |
-| Players | 4/8 |
-| Host Name | холо костя |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 10, 2023 16:24:31 |
+| Lobby ID | 28511403040027156 |
+| Players | 1/8 |
+| Host Name | МОНАШКИ |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 16:25:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -103,24 +103,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403039720939 |
-| Players | 1/8 |
-| Host Name | Mode:Извечный |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 16:24:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511403029715860 |
-| Players | 7/10 |
-| Host Name | ∝  → 3 Knives Knight | |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 16:10:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28511403039980719 |
 | Players | 1/8 |
 | Host Name | Великий banditcamp.com |
@@ -128,13 +110,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 16:25:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511403040027156 |
-| Players | 1/8 |
-| Host Name | МОНАШКИ |
+| Lobby ID | 28511403029715860 |
+| Players | 2/10 |
+| Host Name | soda |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 16:10:29 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511403040154378 |
+| Players | 2/10 |
+| Host Name | enough |
 | Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 16:25:16 |
+| Lobby Creation Time | Friday, November 10, 2023 16:25:27 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -149,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511403037770278 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Evestix |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 16:22:02 |
