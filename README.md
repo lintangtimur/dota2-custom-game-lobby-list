@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 16:10:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511403046218260 |
-| Players | 2/15 |
-| Host Name | Skirpool |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 16:34:02 |
+| Lobby ID | 28511403045406474 |
+| Players | 7/10 |
+| Host Name | Doyki.Xddcc.fullpohuy |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 16:32:53 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403045986985 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 嗯?这是何意啊 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 16:33:43 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403045514417 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | drntmanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:33:02 |
@@ -86,45 +86,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403037503802 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | Almond Butter Honey |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 16:21:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511403045406474 |
-| Players | 5/10 |
-| Host Name | Doyki.Xddcc.fullpohuy |
+| Lobby ID | 28511403046356125 |
+| Players | 1/24 |
+| Host Name | Black Raven |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 16:32:53 |
+| Lobby Creation Time | Friday, November 10, 2023 16:34:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511403046243994 |
-| Players | 1/15 |
-| Host Name | Pussy Destroyer |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 10, 2023 16:34:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511403046253799 |
-| Players | 2/8 |
-| Host Name | UNBELIEVEBLE™ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 16:34:06 |
+| Lobby ID | 28511403046382547 |
+| Players | 5/24 |
+| Host Name | POM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 16:34:17 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511403045762114 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Chino Kafū |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:33:23 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511403046363770 |
+| Players | 1/5 |
+| Host Name | roki |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 10, 2023 16:34:15 |
 
 
