@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403115801394 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | vibe dyrachyo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 18:04:22 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511403117732275 |
-| Players | 12/15 |
-| Host Name | How u doin? |
-| Region | AUSTRIA |
-| Lobby Creation Time | Friday, November 10, 2023 18:06:25 |
+| Lobby ID | 28511403112693239 |
+| Players | 23/24 |
+| Host Name | LethalBacon |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 18:01:00 |
 
 
 |  | ot3_gardens_duo |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511403117157434 |
-| Players | 7/10 |
-| Host Name | Wukash |
+| Lobby ID | 28511403116441972 |
+| Players | 9/10 |
+| Host Name | Revoker |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 18:05:48 |
+| Lobby Creation Time | Friday, November 10, 2023 18:05:03 |
 
 
 |  | ot3_gardens_duo |
@@ -68,45 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403117971822 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Anchor! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 18:06:40 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511403117916938 |
-| Players | 4/8 |
-| Host Name | Альберт Алебарда |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 18:06:36 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511403116441972 |
-| Players | 9/10 |
-| Host Name | Revoker |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 18:05:03 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511403117561431 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | iDestik |
 | Region | AUSTRIA |
 | Lobby Creation Time | Friday, November 10, 2023 18:06:14 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511403118528924 |
-| Players | 1/5 |
-| Host Name | Argx1123 |
-| Region | AUSTRIA |
-| Lobby Creation Time | Friday, November 10, 2023 18:07:15 |
 
 
