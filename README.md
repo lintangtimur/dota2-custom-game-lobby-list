@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403024360947 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Lﻉ♥n |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 16:02:47 |
@@ -67,29 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403026128329 |
-| Players | 14/15 |
-| Host Name | Greta Thunberg |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 16:05:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28511403027120609 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | , |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 16:06:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511403027419928 |
-| Players | 5/8 |
-| Host Name | 永遠- |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 10, 2023 16:07:09 |
 
 
 |  | epic_boss_fight_normal |
