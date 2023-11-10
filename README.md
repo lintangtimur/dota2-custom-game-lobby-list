@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402836614769 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | El Pene-zolano |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 10:42:43 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402836516793 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Grimcharm |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 10:42:31 |
