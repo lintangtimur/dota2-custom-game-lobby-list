@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403007691303 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Erlon |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 15:39:13 |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402996352621 |
-| Players | 2/8 |
-| Host Name | Lemi Shó de china |
+| Players | 1/8 |
+| Host Name | Rebbek |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 15:23:07 |
 
@@ -59,34 +59,52 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403007570494 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | патриархат 1класс |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 15:39:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511403007567489 |
-| Players | 1/15 |
-| Host Name | kasatka7 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 10, 2023 15:39:03 |
+| Lobby ID | 28511403008045142 |
+| Players | 1/24 |
+| Host Name | HANJIEE HEHEHE |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 15:39:43 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511403008106380 |
+| Players | 1/24 |
+| Host Name | JoeShiesty |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 10, 2023 15:39:48 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403007865694 |
+| Lobby ID | 28511403008020027 |
 | Players | 1/8 |
-| Host Name | I$uss |
+| Host Name | twitch.tv/resrayner |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 15:39:28 |
+| Lobby Creation Time | Friday, November 10, 2023 15:39:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511403008270678 |
+| Players | 1/8 |
+| Host Name | Эшелон |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 15:40:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511403005116496 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Mythical |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 15:35:38 |
