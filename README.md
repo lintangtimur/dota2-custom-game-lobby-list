@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402928851039 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | Jing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 13:35:53 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402930140130 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | EXIT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 13:38:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402930890072 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | sad |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 13:39:22 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511402930895945 |
+| Lobby ID | 28511402931378719 |
 | Players | 1/10 |
-| Host Name | Itachi |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 13:39:23 |
+| Host Name | sleep |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 13:40:13 |
 
 
 |  | epic_boss_fight_normal |
@@ -72,14 +72,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ♥ LovaLova ♥ [KZ]™ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 13:39:28 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511402931279827 |
-| Players | 1/10 |
-| Host Name | sleep |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 13:40:02 |
 
 
