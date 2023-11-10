@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402889477423 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | Brosnan |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 12:24:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402889765066 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | Dota 2 Groomologist |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 12:25:14 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402889848768 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | Era leyenda pero me deprimi |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 12:25:23 |
@@ -83,10 +83,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 12:25:22 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511402890323259 |
+| Players | 1/24 |
+| Host Name | h.m.g |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 12:26:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511402890328570 |
+| Players | 1/10 |
+| Host Name | De1mar |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 12:26:16 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402889155734 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Booberries |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 12:24:07 |
