@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403043995853 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | Mamad |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 16:30:52 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403044942561 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | 小救星小渡 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, November 10, 2023 16:32:13 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403044978729 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | radbix |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 16:32:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511403045325480 |
-| Players | 1/10 |
-| Host Name | WestBang |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 16:32:46 |
+| Lobby ID | 28511403045706290 |
+| Players | 1/24 |
+| Host Name | 大鲶鱼 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 16:33:19 |
 
 
 |  | ot3_gardens_duo |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403045514417 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | drntmanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:33:02 |
