@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403073203819 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | kaiser^^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 17:12:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403055702900 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Biborten! |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 16:47:27 |
@@ -50,52 +50,52 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403072988610 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | \\\\\\\\\\\\\\\\\\\\\ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 17:12:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511403072608228 |
-| Players | 2/24 |
-| Host Name | Bloop |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 10, 2023 17:12:03 |
+| Lobby ID | 28511403073030280 |
+| Players | 8/10 |
+| Host Name | Девятка, йоу! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 17:12:38 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403069758430 |
-| Players | 5/8 |
-| Host Name | Pereverten |
+| Lobby ID | 28511403073798331 |
+| Players | 1/8 |
+| Host Name | cant lose |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 17:08:03 |
+| Lobby Creation Time | Friday, November 10, 2023 17:13:41 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403072943751 |
-| Players | 2/24 |
+| Players | 6/24 |
 | Host Name | Diamond Fish sauce |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 17:12:31 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511403073243811 |
-| Players | 1/5 |
-| Host Name | 万竿烟雨 |
-| Region | Unknown |
-| Lobby Creation Time | Friday, November 10, 2023 17:12:56 |
+| Lobby ID | 28511403073625240 |
+| Players | 5/10 |
+| Host Name | Naturel |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 10, 2023 17:13:28 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511403072166685 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | The Knifer |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 17:11:26 |
