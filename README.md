@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 11:00:07 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402844006492 |
-| Players | 22/24 |
-| Host Name | Bonitos y gorditos hijos de puta |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 10:58:09 |
+| Lobby ID | 28511402846910702 |
+| Players | 2/10 |
+| Host Name | Arthas Menethil |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 11:04:17 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402846179252 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | pan pan cul cul |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 11:02:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402846753618 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ТРЕЗВЫЙ МЕСЯЦ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 11:03:57 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sarapan Srinivasan |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, November 10, 2023 11:04:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402846890084 |
+| Players | 3/8 |
+| Host Name | RoberCu |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 11:04:15 |
 
 
 |  | epic_boss_fight_nightmare |
