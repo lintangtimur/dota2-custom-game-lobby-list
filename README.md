@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402870225803 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | M142 HIMARS |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 11:49:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402870401743 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Dota 2 Groomologist |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 11:49:25 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402870448045 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 我是极客 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 11:49:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402867712309 |
-| Players | 14/15 |
-| Host Name | ZyBock_WmA |
+| Lobby ID | 28511402870743116 |
+| Players | 4/10 |
+| Host Name | El Zar |
 | Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 11:44:25 |
+| Lobby Creation Time | Friday, November 10, 2023 11:50:04 |
 
 
 |  | ot3_desert_octet |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402853377381 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | skyrutt |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 11:17:12 |
