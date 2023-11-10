@@ -58,19 +58,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402967795110 |
+| Lobby ID | 28511402967935087 |
 | Players | 1/8 |
 | Host Name | Убийца Нубов 2013 |
 | Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 14:39:11 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511402967817500 |
-| Players | 1/8 |
-| Host Name | SoulfuzZ |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 14:39:13 |
+| Lobby Creation Time | Friday, November 10, 2023 14:39:24 |
 
 
