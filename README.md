@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402998648155 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | everything you need. |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 10, 2023 15:26:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402994599896 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Kent |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 15:20:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403004433143 |
-| Players | 3/8 |
+| Players | 7/8 |
 | Host Name | SSS |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 10, 2023 15:34:40 |
@@ -76,11 +76,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403004682337 |
-| Players | 14/15 |
-| Host Name | Windranger |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 15:35:01 |
+| Lobby ID | 28511403005356713 |
+| Players | 1/15 |
+| Host Name | kasatka7 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 10, 2023 15:35:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511403005304663 |
+| Players | 4/10 |
+| Host Name | Shelterダウビ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 10, 2023 15:35:54 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511403005452622 |
+| Players | 1/24 |
+| Host Name | Asam Garam |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 15:36:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511403005441248 |
+| Players | 1/24 |
+| Host Name | 青虫叮咚 |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 15:36:05 |
 
 
 |  | epic_boss_fight_nightmare |
