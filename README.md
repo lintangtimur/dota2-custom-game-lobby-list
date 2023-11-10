@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402934256546 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Triaxis giordota.com |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 13:45:09 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402934263600 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | , |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 13:45:10 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 13:45:48 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402932401835 |
-| Players | 9/10 |
-| Host Name | ang qt qt ko |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 13:41:59 |
+| Lobby ID | 28511402934904619 |
+| Players | 1/8 |
+| Host Name | TE MATO Y ME ESCAPO. |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 13:46:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -85,10 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511402934771002 |
+| Lobby ID | 28511402934932987 |
 | Players | 1/10 |
 | Host Name | 1634945400 |
 | Region | Unknown |
-| Lobby Creation Time | Friday, November 10, 2023 13:46:02 |
+| Lobby Creation Time | Friday, November 10, 2023 13:46:19 |
 
 
