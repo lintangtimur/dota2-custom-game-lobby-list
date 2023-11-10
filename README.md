@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402848985294 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | N!cK Machiavelli |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 11:08:31 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402848036564 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | DeepThroat the Boot! SNACkGod |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 11:06:36 |
@@ -68,18 +68,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402849393366 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | RockSpirit |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 11:09:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511402849398513 |
-| Players | 1/15 |
-| Host Name | Chad Chadinson |
-| Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 11:09:20 |
 
 
