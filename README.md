@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403076782963 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | Pandora's Actor™ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 17:17:42 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403065562065 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Midnight pulse is "not" lethal |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 17:01:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403077329273 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | леш рак |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 17:18:26 |
@@ -65,24 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 17:18:36 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511403076754389 |
-| Players | 7/8 |
-| Host Name | Deadline |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 17:17:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511403076883670 |
-| Players | 14/15 |
-| Host Name | dopeбой |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 10, 2023 17:17:50 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403076326819 |
@@ -95,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511403077210851 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ♥HeavenGirl♥ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 17:18:16 |
@@ -108,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Rinkatoヅ |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 17:18:51 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28511403077808479 |
-| Players | 1/7 |
-| Host Name | ghoii |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 17:19:05 |
 
 
