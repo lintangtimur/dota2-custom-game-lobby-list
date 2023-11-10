@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402934904619 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | TE MATO Y ME ESCAPO. |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 13:46:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402932256604 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Hohenheim |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 10, 2023 13:41:44 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402936045966 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Nexro |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 13:48:13 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402936043554 |
-| Players | 1/24 |
-| Host Name | 黃人韋厷隹 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 10, 2023 13:48:13 |
+| Lobby ID | 28511402936071341 |
+| Players | 1/15 |
+| Host Name | Mouches Volantes |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 13:48:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402935764987 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | 9527 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 13:47:44 |
