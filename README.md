@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402903349452 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | . |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 12:50:14 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402906958608 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | tv|artOfmagnus |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 12:57:02 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402906862678 |
-| Players | 3/15 |
-| Host Name | METALLOant |
+| Players | 1/15 |
+| Host Name | ♠_•[RoOo[_]Do]•_♠ |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 12:56:51 |
 
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402907009860 |
-| Players | 1/8 |
-| Host Name | Быдло Ебучее |
+| Lobby ID | 28511402907058964 |
+| Players | 3/8 |
+| Host Name | METALLOant |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 12:57:07 |
+| Lobby Creation Time | Friday, November 10, 2023 12:57:13 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402906926448 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | 3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 12:56:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402906990354 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | El Gatto |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 12:57:05 |
