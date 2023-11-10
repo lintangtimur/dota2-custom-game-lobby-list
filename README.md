@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402910059732 |
-| Players | 3/15 |
-| Host Name | IDX |
+| Players | 2/15 |
+| Host Name | 卿如雾里花 |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 13:02:57 |
 
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 13:02:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402909678036 |
-| Players | 4/8 |
-| Host Name | come with cum |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 13:02:13 |
+| Lobby ID | 28511402910136859 |
+| Players | 7/15 |
+| Host Name | Spire |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 13:03:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dota 2 Groomologist |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 13:02:47 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511402910163719 |
+| Players | 1/24 |
+| Host Name | awtsu |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 13:03:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511402910189563 |
+| Players | 1/15 |
+| Host Name | 。 |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Friday, November 10, 2023 13:03:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | diego go |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 12:57:05 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511402910193494 |
+| Players | 1/5 |
+| Host Name | Hurb. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 13:03:12 |
 
 
