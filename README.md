@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402941719896 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Itachi |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 13:57:47 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402941809835 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | ocbmn |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 13:57:56 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402938663711 |
-| Players | 9/10 |
-| Host Name | DANICH |
+| Lobby ID | 28511402942354753 |
+| Players | 2/10 |
+| Host Name | Toy Till Dawn |
 | Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 13:52:41 |
+| Lobby Creation Time | Friday, November 10, 2023 13:58:50 |
 
 
 |  | ot3_gardens_duo |
@@ -126,23 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Chim-chopa |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 13:58:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402942354753 |
-| Players | 2/10 |
-| Host Name | Toy Till Dawn |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 13:58:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511402942365745 |
-| Players | 4/8 |
-| Host Name | L'impatient |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 13:58:51 |
 
 
