@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402863418057 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Radiance |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 11:36:24 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402862193182 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | intothebottle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 11:34:08 |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ✌PRINT("ING.CuChO") |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 11:36:19 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511402863393831 |
-| Players | 1/24 |
-| Host Name | BAKE |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 11:36:21 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511402858910625 |
-| Players | 23/24 |
-| Host Name | Bonitos y gorditos hijos de puta |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 11:27:56 |
 
 
 |  | epic_boss_fight_nightmare |
