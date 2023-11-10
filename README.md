@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402876306821 |
-| Players | 4/8 |
-| Host Name | Hello World |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 12:00:30 |
+| Lobby ID | 28511402875976939 |
+| Players | 1/10 |
+| Host Name | Stronger |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 11:59:52 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402875418391 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Ｓｏｈｅｅ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 11:58:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402876031157 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | intothebottle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 11:59:59 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402874230978 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | I LIKE LITTLE RACCOON FOREVER |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 11:56:35 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402875976939 |
-| Players | 1/10 |
-| Host Name | Stronger |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 11:59:52 |
+| Lobby ID | 28511402876625442 |
+| Players | 4/8 |
+| Host Name | OzZIRIEL |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 12:01:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -76,10 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28511402876521664 |
+| Lobby ID | 28511402876562531 |
 | Players | 1/5 |
 | Host Name | Asmodey |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 12:00:54 |
+| Lobby Creation Time | Friday, November 10, 2023 12:00:59 |
 
 
