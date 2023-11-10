@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403024360947 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Lﻉ♥n |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 16:02:47 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403025319632 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Tờ Ri |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:04:09 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403017835140 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | LegendsNeverDie |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, November 10, 2023 15:53:26 |
@@ -50,25 +50,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403024809047 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Shelterダウビ |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 16:03:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403027820308 |
-| Players | 3/15 |
-| Host Name | 31st |
+| Lobby ID | 28511403029130733 |
+| Players | 1/8 |
+| Host Name | 【﻿DESpAIR】 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 16:07:43 |
+| Lobby Creation Time | Friday, November 10, 2023 16:09:38 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403028618317 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | lyutyk |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 10, 2023 16:08:53 |
@@ -76,26 +76,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403028508878 |
-| Players | 3/8 |
-| Host Name | МаГиЧеСкОе НеВеЖеСтВо |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 16:08:43 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28511403028929394 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | Kärss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 16:09:20 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511403029437435 |
+| Players | 1/8 |
+| Host Name | БАЛДEЖ RaSp1zDяЙ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 16:10:04 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511403028621188 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Bankai |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:08:53 |
