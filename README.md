@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402849637635 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Ｓｏｈｅｅ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 11:09:50 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402850398354 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Harbinger |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 11:11:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402850045970 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | RedRodry |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 11:10:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402850658922 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Bu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 11:11:51 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402849670864 |
-| Players | 13/15 |
-| Host Name | =LaPetiteMort= |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 10, 2023 11:09:54 |
+| Lobby ID | 28511402850748196 |
+| Players | 2/15 |
+| Host Name | 彡帝血魔神彡 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 11:12:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402850043250 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 11:10:37 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402850748196 |
+| Lobby ID | 28511402850887829 |
 | Players | 1/15 |
-| Host Name | 彡帝血魔神彡 |
+| Host Name | не хуесос |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 11:12:01 |
+| Lobby Creation Time | Friday, November 10, 2023 11:12:19 |
 
 
 |  | epic_boss_fight_nightmare |
