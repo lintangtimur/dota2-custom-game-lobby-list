@@ -65,6 +65,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 16:13:21 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511403032274359 |
+| Players | 1/15 |
+| Host Name | Ëбаный маркиз |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 16:14:09 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511403031337850 |
@@ -72,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:12:50 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28511403032292583 |
+| Players | 1/7 |
+| Host Name | King Crimson |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 10, 2023 16:14:11 |
 
 
