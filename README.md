@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402851081820 |
-| Players | 7/8 |
-| Host Name | abelardo |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 11:12:42 |
+| Lobby ID | 28511402851807079 |
+| Players | 1/8 |
+| Host Name | Prime говядина" |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 11:14:07 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402850658922 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Bu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 11:11:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402848627196 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 11:07:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402850748196 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | 彡帝血魔神彡 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 11:12:01 |
@@ -74,22 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 11:13:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402851807079 |
-| Players | 1/8 |
-| Host Name | Prime говядина" |
+| Lobby ID | 28511402851905868 |
+| Players | 1/15 |
+| Host Name | intothebottle |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 11:14:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511402851815233 |
-| Players | 1/24 |
-| Host Name | jb |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 10, 2023 11:14:08 |
+| Lobby Creation Time | Friday, November 10, 2023 11:14:19 |
 
 
 |  | epic_boss_fight_nightmare |
