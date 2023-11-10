@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402955353758 |
-| Players | 14/24 |
+| Players | 13/24 |
 | Host Name | POCOYOZOR |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 14:19:33 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402969476179 |
-| Players | 12/15 |
-| Host Name | Glimmer of Hope |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 14:41:47 |
+| Lobby ID | 28511402971186155 |
+| Players | 1/24 |
+| Host Name | www.instumblr.top |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 14:44:24 |
 
 
 |  | ot3_jungle_quintet |
@@ -38,19 +38,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 14:33:25 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402970738802 |
-| Players | 6/10 |
-| Host Name | 艾INSIDE༺༻PSYCHO艾 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 14:43:43 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402971156282 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | 暴走的小喵 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 14:44:21 |
@@ -63,5 +54,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | solution |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 14:40:32 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511402971523976 |
+| Players | 1/5 |
+| Host Name | Matie Bal |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 14:44:56 |
 
 
