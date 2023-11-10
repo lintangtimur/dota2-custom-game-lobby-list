@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403047699938 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | Qx |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 16:36:10 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403037503802 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | ym |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 16:21:40 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403055111531 |
-| Players | 11/15 |
-| Host Name | clueless |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 16:46:37 |
+| Lobby ID | 28511403049604628 |
+| Players | 14/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 16:38:52 |
 
 
 |  | ot3_gardens_duo |
@@ -76,28 +76,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511403056082241 |
+| Lobby ID | 28511403056205203 |
+| Players | 1/24 |
+| Host Name | 青虫叮咚 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 16:48:09 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511403056229846 |
 | Players | 1/24 |
 | Host Name | 土豆种植厂培育员 |
 | Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Friday, November 10, 2023 16:47:59 |
+| Lobby Creation Time | Friday, November 10, 2023 16:48:12 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403056103484 |
-| Players | 1/10 |
-| Host Name | Arthas Menethil |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 16:48:01 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511403053346963 |
-| Players | 8/10 |
-| Host Name | Chino Kafū |
+| Lobby ID | 28511403056230615 |
+| Players | 1/8 |
+| Host Name | FIRE |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 16:44:07 |
+| Lobby Creation Time | Friday, November 10, 2023 16:48:12 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511403056229960 |
+| Players | 1/5 |
+| Host Name | Mr. Zoidberg |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 16:48:12 |
 
 
