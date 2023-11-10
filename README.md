@@ -65,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 14:17:53 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511402954370116 |
-| Players | 1/15 |
-| Host Name | Alcina Dimitrescu |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 14:18:00 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402953328548 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Strange |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 14:16:20 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402953952743 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | GreShnik |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 10, 2023 14:17:20 |
