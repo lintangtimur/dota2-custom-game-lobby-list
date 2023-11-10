@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402941466114 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | Jing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 13:57:22 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402945908822 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | zxcкомпот |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 14:04:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402946049491 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Bloodscourge |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 14:04:50 |
@@ -81,14 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CH1naZEs |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 14:04:59 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511402946157278 |
-| Players | 1/5 |
-| Host Name | Районный Аким |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 14:05:00 |
 
 
