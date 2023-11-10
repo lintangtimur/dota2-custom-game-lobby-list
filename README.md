@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402851966281 |
-| Players | 13/24 |
+| Players | 17/24 |
 | Host Name | Dr Tazerenix |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 11:14:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402853155706 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Suport |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 11:16:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402853081333 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | WilifWilofWilai |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 11:16:37 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | gag |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 11:21:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511402855527468 |
+| Players | 1/10 |
+| Host Name | $KÜŁŁĪČÊ |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 11:21:24 |
 
 
 |  | epic_boss_fight_nightmare |
