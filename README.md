@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402951436234 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | AbdolrahimT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 14:13:22 |
@@ -47,15 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 14:13:34 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511402951803835 |
-| Players | 1/15 |
-| Host Name | Deivid Aldair |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 14:13:55 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402951967688 |
@@ -74,19 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 14:09:53 |
 
 
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28511402951310876 |
-| Players | 5/7 |
-| Host Name | Lose modo show |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 14:13:10 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402951462249 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | TriHard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 14:13:25 |
