@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403015181085 |
-| Players | 3/8 |
-| Host Name | MAHAN |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 15:49:42 |
+| Lobby ID | 28511403015512027 |
+| Players | 1/8 |
+| Host Name | чувак |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 15:50:10 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403015318730 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Cle Phạm |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 15:49:53 |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403014086224 |
-| Players | 15/24 |
+| Players | 19/24 |
 | Host Name | drntmanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 15:48:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403015512027 |
-| Players | 1/8 |
-| Host Name | чувак |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 15:50:10 |
+| Lobby ID | 28511403015586861 |
+| Players | 1/15 |
+| Host Name | Тренер по нихуя |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 10, 2023 15:50:16 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511403011723860 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Kunde |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, November 10, 2023 15:44:52 |
@@ -85,10 +85,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28511403015507004 |
-| Players | 1/5 |
-| Host Name | шаданакар |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 15:50:09 |
+| Lobby ID | 28511403015537187 |
+| Players | 2/5 |
+| Host Name | Leinach |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 15:50:12 |
 
 
