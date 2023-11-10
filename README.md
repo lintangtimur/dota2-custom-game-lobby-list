@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403025319632 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | Tờ Ri |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:04:09 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403026616127 |
-| Players | 3/8 |
-| Host Name | Colours |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 10, 2023 16:06:00 |
+| Lobby ID | 28511403027715843 |
+| Players | 7/8 |
+| Host Name | Saksa |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 10, 2023 16:07:34 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403024809047 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Shelterダウビ |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 16:03:26 |
@@ -58,28 +58,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403022280791 |
-| Players | 11/15 |
-| Host Name | ana |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 15:59:49 |
+| Lobby ID | 28511403027820308 |
+| Players | 1/15 |
+| Host Name | 31st |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 16:07:43 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403027120609 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | , |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 16:06:43 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403026162541 |
-| Players | 1/5 |
-| Host Name | Hesys |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 16:05:21 |
+| Lobby ID | 28511403023380895 |
+| Players | 12/15 |
+| Host Name | GonzoBloodySpy |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 16:01:24 |
 
 
