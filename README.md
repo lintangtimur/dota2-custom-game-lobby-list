@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402996929212 |
-| Players | 5/24 |
+| Players | 9/24 |
 | Host Name | murad |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 15:23:58 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402999747154 |
+| Lobby ID | 28511402999969078 |
 | Players | 1/15 |
-| Host Name | Na.aN |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 10, 2023 15:28:04 |
+| Host Name | N.word |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 15:28:23 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,21 +56,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 15:23:07 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511402999958819 |
+| Players | 5/24 |
+| Host Name | LiLkUrSo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 15:28:22 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511403000003518 |
+| Players | 3/10 |
+| Host Name | Ice |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 15:28:26 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402999950900 |
+| Players | 1/8 |
+| Host Name | y0ngG |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 10, 2023 15:28:22 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402999946360 |
-| Players | 1/15 |
-| Host Name | QwaN |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 15:28:21 |
+| Lobby ID | 28511402999955057 |
+| Players | 4/15 |
+| Host Name | sílam moríhoh^^ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 15:28:22 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402999950725 |
-| Players | 6/24 |
+| Lobby ID | 28511403000169163 |
+| Players | 8/24 |
 | Host Name | Tờ Ri |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 15:28:22 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 15:28:40 |
 
 
