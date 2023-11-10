@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402833915349 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | 青虫叮咚 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 10:37:01 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402832490368 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | 100% pasivo llamame 960 210 099 |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 10:34:02 |
@@ -32,37 +32,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402834365091 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | AVENA 3 URSITAS |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 10:37:58 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511402834079090 |
-| Players | 5/8 |
-| Host Name | El regreso del Gran Pakun |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 10:37:21 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402834355553 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | 1223 |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 10:37:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402833626784 |
-| Players | 13/15 |
-| Host Name | Shamil Basaev |
+| Lobby ID | 28511402834713511 |
+| Players | 4/10 |
+| Host Name | DEFINICION ETERNA |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 10:38:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402834756697 |
+| Players | 1/8 |
+| Host Name | светаа |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 10:36:25 |
+| Lobby Creation Time | Friday, November 10, 2023 10:38:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402834808987 |
+| Players | 6/8 |
+| Host Name | El regreso del Gran Pakun |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 10:38:55 |
 
 
 |  | epic_boss_fight_normal |
@@ -86,9 +95,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402833593151 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | クリシャ |
 | Region | DUBAI |
 | Lobby Creation Time | Friday, November 10, 2023 10:36:20 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511402834651269 |
+| Players | 2/10 |
+| Host Name | Alessia Cara |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 10:38:35 |
 
 
