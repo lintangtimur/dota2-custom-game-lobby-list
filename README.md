@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402847336269 |
-| Players | 19/24 |
-| Host Name | ' |
+| Lobby ID | 28511402849637635 |
+| Players | 2/8 |
+| Host Name | Ｓｏｈｅｅ |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 11:05:10 |
+| Lobby Creation Time | Friday, November 10, 2023 11:09:50 |
 
 
 |  | ot3_gardens_duo |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 11:08:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402845772963 |
-| Players | 23/24 |
-| Host Name | SQ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 11:01:54 |
+| Lobby ID | 28511402849548066 |
+| Players | 1/8 |
+| Host Name | Phoenix |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 10, 2023 11:09:39 |
 
 
 |  | ot3_necropolis_ffa |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 11:08:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402848036564 |
-| Players | 9/10 |
-| Host Name | DeepThroat the Boot! SNACkGod |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 11:06:36 |
+| Lobby ID | 28511402849393366 |
+| Players | 4/8 |
+| Host Name | RockSpirit |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 11:09:20 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402848627196 |
-| Players | 1/24 |
+| Players | 6/24 |
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 11:07:48 |
@@ -65,21 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 11:08:40 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402849393366 |
-| Players | 4/8 |
-| Host Name | RockSpirit |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 11:09:20 |
+| Lobby ID | 28511402849563592 |
+| Players | 2/10 |
+| Host Name | sp_flame |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 11:09:40 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402847692608 |
-| Players | 1/10 |
-| Host Name | WonDeR? |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 11:05:54 |
+| Lobby ID | 28511402849670864 |
+| Players | 1/15 |
+| Host Name | =LaPetiteMort= |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 10, 2023 11:09:54 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511402849762123 |
+| Players | 1/24 |
+| Host Name | xJw |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 10, 2023 11:10:05 |
 
 
