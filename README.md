@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403031704201 |
-| Players | 7/8 |
-| Host Name | Saksa |
+| Lobby ID | 28511403032274359 |
+| Players | 3/15 |
+| Host Name | ДОН КОЛИC |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 16:13:21 |
+| Lobby Creation Time | Friday, November 10, 2023 16:14:09 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403030463517 |
-| Players | 16/24 |
+| Players | 21/24 |
 | Host Name | 青衣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:11:33 |
@@ -65,30 +65,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 16:13:21 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511403032274359 |
-| Players | 1/15 |
-| Host Name | Ëбаный маркиз |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 16:14:09 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511403031337850 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:12:50 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28511403032292583 |
-| Players | 1/7 |
-| Host Name | King Crimson |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 10, 2023 16:14:11 |
 
 
