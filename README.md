@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402888297017 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | 11by |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 12:22:32 |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 12:27:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402891287323 |
-| Players | 1/15 |
-| Host Name | Chae영 |
-| Region | AUSTRALIA |
+| Lobby ID | 28511402891292349 |
+| Players | 1/8 |
+| Host Name | валера унитаз |
+| Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 12:28:05 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402889840625 |
-| Players | 9/10 |
+| Players | 7/10 |
 | Host Name | Mia Khalifa.Onlyfans✪ |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 12:25:22 |
