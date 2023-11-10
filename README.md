@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402865370609 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | 青虫叮咚 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 11:40:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402867568470 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | I HATE STUPID KIDS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 11:44:09 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402868121530 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | Hohenheim |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 11:45:11 |
@@ -117,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Strange |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 11:17:12 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511402867984817 |
-| Players | 2/10 |
-| Host Name | DarkIchigO**! |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 11:44:55 |
 
 
