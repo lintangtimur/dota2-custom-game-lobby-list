@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402860533492 |
-| Players | 15/24 |
+| Players | 12/24 |
 | Host Name | Chisato |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 10, 2023 11:31:02 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402874230978 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | StorkStreams |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 11:56:35 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402872175166 |
-| Players | 22/24 |
-| Host Name | Communist Yatoro |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 11:52:44 |
+| Lobby ID | 28511402873375599 |
+| Players | 14/15 |
+| Host Name | Zapato |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 11:54:57 |
 
 
 |  | ot3_desert_octet |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 11:56:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511402874473929 |
-| Players | 1/15 |
-| Host Name | 食粑啦你 |
-| Region | PWTELECOMWUHAN |
-| Lobby Creation Time | Friday, November 10, 2023 11:57:02 |
 
 
 |  | epic_boss_fight_nightmare |
