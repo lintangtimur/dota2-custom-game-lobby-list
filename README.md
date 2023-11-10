@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402882742957 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | swap commend |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 12:12:22 |
@@ -22,20 +22,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402878111046 |
-| Players | 9/10 |
-| Host Name | MR.DEAD |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 12:03:50 |
+| Lobby ID | 28511402881323418 |
+| Players | 3/10 |
+| Host Name | MataCholas |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 12:09:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402883663518 |
-| Players | 1/8 |
-| Host Name | WAYNE |
+| Lobby ID | 28511402883551019 |
+| Players | 2/10 |
+| Host Name | UR'SUS |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 12:14:02 |
+| Lobby Creation Time | Friday, November 10, 2023 12:13:49 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402883610159 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | AMA TU PERU CTMRE |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 12:13:56 |
@@ -68,27 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402882789231 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Movistar Perú |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 12:12:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402881323418 |
-| Players | 3/10 |
-| Host Name | MataCholas |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 12:09:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402883551019 |
-| Players | 2/10 |
-| Host Name | UR'SUS |
+| Lobby ID | 28511402883789407 |
+| Players | 1/8 |
+| Host Name | WAYNE |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 12:13:49 |
+| Lobby Creation Time | Friday, November 10, 2023 12:14:15 |
 
 
