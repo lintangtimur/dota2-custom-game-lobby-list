@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403043995853 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Mamad |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 16:30:52 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403043314275 |
-| Players | 12/15 |
-| Host Name | ⁽⁽ପ꒰ ྀི ◜ ᴗ ◝ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 16:29:54 |
+| Lobby ID | 28511403044796904 |
+| Players | 8/15 |
+| Host Name | Justin Weaver |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 16:32:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,54 +68,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403044942561 |
-| Players | 8/24 |
+| Players | 21/24 |
 | Host Name | 小救星小渡 |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, November 10, 2023 16:32:13 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511403041029937 |
-| Players | 2/10 |
-| Host Name | WestBang |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 16:26:41 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511403044796904 |
-| Players | 4/15 |
-| Host Name | Justin Weaver |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 16:32:00 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403044978729 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | radbix |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 16:32:16 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511403045325480 |
+| Players | 1/10 |
+| Host Name | WestBang |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 16:32:46 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511403045406474 |
+| Players | 2/10 |
+| Host Name | Doyki.Xddcc.fullpohuy |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 16:32:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511403045417653 |
+| Players | 2/8 |
+| Host Name | 7 |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 16:32:54 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511403040786512 |
-| Players | 9/10 |
-| Host Name | Cpt. Douchebag |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 16:26:20 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511403044934600 |
-| Players | 1/5 |
-| Host Name | Clarkoof |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 16:32:12 |
+| Lobby ID | 28511403045492322 |
+| Players | 1/10 |
+| Host Name | Amuro Ray.アムロ・レイ |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 16:33:00 |
 
 
