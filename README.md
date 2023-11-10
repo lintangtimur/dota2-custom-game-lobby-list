@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403121579228 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | 1Г |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 18:10:25 |
@@ -77,28 +77,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403121936099 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Кибур |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 18:10:48 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511403122342949 |
+| Players | 2/10 |
+| Host Name | 母亲还活着吗 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 18:11:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511403122371389 |
+| Players | 4/8 |
+| Host Name | 扎克 | ザック |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 18:11:15 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511403122443852 |
+| Players | 4/8 |
+| Host Name | Karasuma Garo影 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 18:11:19 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511403117561431 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | iDestik |
 | Region | AUSTRIA |
 | Lobby Creation Time | Friday, November 10, 2023 18:06:14 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511403096083245 |
-| Players | 8/10 |
-| Host Name | エッラ |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 10, 2023 17:42:04 |
 
 
 |  | epic_boss_fight_nightmare |
