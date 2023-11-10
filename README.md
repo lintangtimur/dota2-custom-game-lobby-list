@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403069581065 |
-| Players | 12/24 |
+| Players | 11/24 |
 | Host Name | 初音真爱粉 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 17:07:47 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403070744399 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | ВАЛЕРА ХРОНОСФЕРА |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 17:09:28 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403071086534 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | TG.KamGod |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 17:09:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511403071469977 |
+| Players | 1/8 |
+| Host Name | PALESTINA BOMBER |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 10, 2023 17:10:30 |
 
 
 |  | epic_boss_fight_nightmare |
