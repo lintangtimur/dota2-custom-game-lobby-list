@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402988740597 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | 青虫叮咚 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 15:11:34 |
@@ -41,28 +41,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402990739288 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | El gatoo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 15:14:37 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402989521725 |
-| Players | 6/10 |
-| Host Name | BRAMBRAGE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 15:12:46 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402990226781 |
-| Players | 4/15 |
+| Players | 2/15 |
 | Host Name | патриархат 1класс |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 15:13:49 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511402989521725 |
+| Players | 9/10 |
+| Host Name | BRAMBRAGE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 15:12:46 |
 
 
 |  | epic_boss_fight_nightmare |
