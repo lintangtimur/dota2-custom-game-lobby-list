@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402928144661 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Lehi Knight |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 13:34:40 |
@@ -63,6 +63,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 盗个铃 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 13:34:48 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511402924763100 |
+| Players | 23/24 |
+| Host Name | Madvillainy (2004)™ |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 13:28:55 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511402928365247 |
+| Players | 1/24 |
+| Host Name | Fabian! |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 13:35:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511402928373376 |
+| Players | 1/15 |
+| Host Name | No T1 in TI |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 13:35:04 |
 
 
 |  | epic_boss_fight_nightmare |
