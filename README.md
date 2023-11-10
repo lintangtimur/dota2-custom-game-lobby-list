@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402941809835 |
-| Players | 12/15 |
-| Host Name | ocbmn |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 13:57:56 |
+| Lobby ID | 28511402941719896 |
+| Players | 11/15 |
+| Host Name | Itachi |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 13:57:47 |
 
 
 |  | ot3_gardens_duo |
@@ -74,12 +74,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 13:58:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511402941719896 |
-| Players | 10/15 |
-| Host Name | Itachi |
+| Lobby ID | 28511402943175912 |
+| Players | 1/10 |
+| Host Name | Alessia Cara |
 | Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 13:57:47 |
+| Lobby Creation Time | Friday, November 10, 2023 14:00:09 |
 
 
