@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403032274359 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | ДОН КОЛИC |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 16:14:09 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403030463517 |
-| Players | 23/24 |
-| Host Name | 青衣 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 16:11:33 |
+| Lobby ID | 28511403033189381 |
+| Players | 2/8 |
+| Host Name | не clown) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 16:15:28 |
 
 
 |  | ot3_desert_octet |
@@ -92,12 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 16:15:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403033058437 |
-| Players | 1/8 |
-| Host Name | не clown) |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 16:15:17 |
+| Lobby ID | 28511403033078609 |
+| Players | 1/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 16:15:18 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28511403033104673 |
+| Players | 2/7 |
+| Host Name | Киётака |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 10, 2023 16:15:21 |
 
 
