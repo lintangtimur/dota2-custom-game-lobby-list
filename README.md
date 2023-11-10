@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402918965342 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | EG.狩猎或杀戮如果我 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 13:19:03 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402919005578 |
-| Players | 1/24 |
-| Host Name | ✿迅猛小老虎 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 13:19:07 |
+| Lobby ID | 28511402919123400 |
+| Players | 1/8 |
+| Host Name | ...... |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 13:19:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402918884956 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | 少女A |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 10, 2023 13:18:55 |
