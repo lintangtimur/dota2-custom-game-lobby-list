@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402905734783 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Movistar Perú |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 12:54:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402908756199 |
-| Players | 14/15 |
-| Host Name | Mo' Cake |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 13:00:26 |
+| Lobby ID | 28511402909579611 |
+| Players | 2/10 |
+| Host Name | MODO SEPSO |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 13:02:02 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402907120929 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | EG.狩猎或杀戮如果我 |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 12:57:20 |
@@ -50,37 +50,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402908620207 |
-| Players | 4/8 |
+| Players | 2/8 |
 | Host Name | lomtique |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 13:00:09 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402909579611 |
-| Players | 2/10 |
-| Host Name | MODO SEPSO |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 13:02:02 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402909603494 |
-| Players | 1/8 |
-| Host Name | MADx99 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 13:02:04 |
+| Lobby ID | 28511402909678036 |
+| Players | 4/8 |
+| Host Name | come with cum |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 13:02:13 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402907258638 |
-| Players | 23/24 |
-| Host Name | 月老離職，財神管姻緣 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 12:57:36 |
+| Lobby ID | 28511402909704847 |
+| Players | 1/24 |
+| Host Name | Weganerd |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 10, 2023 13:02:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402909708934 |
+| Players | 2/8 |
+| Host Name | MADx99 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 13:02:17 |
 
 
 |  | epic_boss_fight_nightmare |
