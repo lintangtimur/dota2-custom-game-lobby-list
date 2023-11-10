@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403003303612 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | 病人 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 15:33:05 |
@@ -56,30 +56,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 15:23:07 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511402999958819 |
-| Players | 19/24 |
-| Host Name | Interesting_ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 15:28:22 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403002167539 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | ВАЛЕРА ХРОНОСФЕРА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 15:31:29 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511403000675465 |
-| Players | 8/10 |
-| Host Name | ► Good gay, noob played |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 15:29:24 |
+| Lobby ID | 28511403003964648 |
+| Players | 1/10 |
+| Host Name | psycho梅 |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 15:34:01 |
 
 
