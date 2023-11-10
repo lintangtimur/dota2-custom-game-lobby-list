@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403068931689 |
-| Players | 2/15 |
+| Players | 10/15 |
 | Host Name | Justin Weaver |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 17:06:50 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 16:47:27 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403069799031 |
-| Players | 2/10 |
-| Host Name | bespomoshnoe 4mo |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 10, 2023 17:08:07 |
+| Lobby ID | 28511403069758430 |
+| Players | 1/8 |
+| Host Name | 勝者の呪い |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 17:08:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,74 +65,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 17:04:40 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511403067846873 |
-| Players | 6/8 |
-| Host Name | 改名死妈妈 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 17:05:14 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511403069581065 |
-| Players | 2/24 |
-| Host Name | 初音真爱粉 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 17:07:47 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403065777290 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | drntmanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 17:02:07 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511403069758430 |
-| Players | 1/8 |
-| Host Name | 勝者の呪い |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 17:08:03 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511403069798285 |
-| Players | 1/24 |
-| Host Name | Black Raven |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 10, 2023 17:08:06 |
+| Lobby ID | 28511403069581065 |
+| Players | 4/24 |
+| Host Name | 初音真爱粉 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 17:07:47 |
 
 
-|  | epic_boss_fight_hard |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403069723962 |
-| Players | 1/7 |
-| Host Name | Hesys |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 10, 2023 17:08:00 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511403069706266 |
-| Players | 1/10 |
-| Host Name | Iku |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 17:07:58 |
+| Lobby ID | 28511403069889799 |
+| Players | 1/15 |
+| Host Name | samurai |
+| Region | USWEST |
+| Lobby Creation Time | Friday, November 10, 2023 17:08:14 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28511403069802229 |
 | Players | 1/5 |
-| Host Name |  |
+| Host Name | child po |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 10, 2023 17:08:07 |
 
