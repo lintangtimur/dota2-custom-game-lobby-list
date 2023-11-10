@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402903682609 |
-| Players | 8/10 |
-| Host Name | DANICH |
+| Lobby ID | 28511402903806676 |
+| Players | 1/15 |
+| Host Name | Кенни |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 12:50:51 |
+| Lobby Creation Time | Friday, November 10, 2023 12:51:05 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402904172154 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Solo Leveling |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 12:51:46 |
@@ -47,30 +47,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 12:50:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402903806676 |
-| Players | 1/15 |
-| Host Name | Кенни |
+| Lobby ID | 28511402904462835 |
+| Players | 1/24 |
+| Host Name | ZeЯN |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 12:52:19 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511402903682609 |
+| Players | 9/10 |
+| Host Name | DANICH |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 12:51:05 |
+| Lobby Creation Time | Friday, November 10, 2023 12:50:51 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402897788290 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Akaza |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 12:40:00 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511402904313047 |
-| Players | 1/5 |
-| Host Name | 咋搞啊 |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 10, 2023 12:52:02 |
 
 
