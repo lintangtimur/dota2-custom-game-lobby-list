@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402844950307 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Julius Caesar |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 11:00:07 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402846910702 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Arthas Menethil |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 11:04:17 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402845772963 |
-| Players | 8/24 |
+| Players | 11/24 |
 | Host Name | SQ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 11:01:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402845387574 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | Niñoblis Tu Terror +.+ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 11:01:04 |
@@ -92,10 +92,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 11:04:43 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511402847336269 |
+| Players | 2/24 |
+| Host Name | ' |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 11:05:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511402847399891 |
+| Players | 2/10 |
+| Host Name | †BlayZERG† |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 11:05:18 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402845635625 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | Strange |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 11:01:36 |
