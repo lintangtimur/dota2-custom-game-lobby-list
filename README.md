@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511403068931689 |
-| Players | 12/15 |
-| Host Name | Justin Weaver |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 17:06:50 |
+| Lobby ID | 28511403070114009 |
+| Players | 7/10 |
+| Host Name | Zabrrr |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 17:08:34 |
 
 
 |  | ot3_desert_octet |
@@ -50,72 +50,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403069758430 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | 勝者の呪い |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 17:08:03 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511403067469244 |
-| Players | 1/8 |
-| Host Name | ArcaN |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 17:04:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511403065777290 |
-| Players | 23/24 |
-| Host Name | drntmanh |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 17:02:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511403069581065 |
-| Players | 4/24 |
-| Host Name | 初音真爱粉 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 17:07:47 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403069889799 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | samurai |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 10, 2023 17:08:14 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511403070133244 |
+| Players | 3/8 |
+| Host Name | SSS |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 10, 2023 17:08:35 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511403069581065 |
+| Players | 5/24 |
+| Host Name | 初音真爱粉 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 17:07:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511403070425525 |
+| Players | 4/8 |
+| Host Name | даун |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 17:09:01 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511403069963340 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Da Wae |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 17:08:21 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511403069995758 |
-| Players | 1/5 |
-| Host Name | child po |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 17:08:23 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511403070053245 |
-| Players | 1/5 |
-| Host Name | Малышка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 17:08:28 |
 
 
