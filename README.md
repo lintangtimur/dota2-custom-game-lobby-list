@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403037503802 |
-| Players | 17/24 |
-| Host Name | aweeet |
+| Players | 16/24 |
+| Host Name | kyt23 |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 16:21:40 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403049794994 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | zoned |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 16:39:08 |
@@ -92,21 +92,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 16:40:08 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28511403047993613 |
-| Players | 7/10 |
-| Host Name | Spermkids |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 16:36:35 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511403050515877 |
-| Players | 1/10 |
+| Lobby ID | 28511403050665266 |
+| Players | 1/5 |
 | Host Name | F R 1 S S🐱‍👤🐱‍👤 |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 10, 2023 16:40:09 |
+| Lobby Creation Time | Friday, November 10, 2023 16:40:22 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511403050671091 |
+| Players | 1/10 |
+| Host Name | R Y U K O |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 10, 2023 16:40:22 |
 
 
