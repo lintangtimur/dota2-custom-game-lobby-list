@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403022280791 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | ana |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 15:59:49 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403026128329 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Greta Thunberg |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 16:05:18 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403026168479 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | тимоха шо ты твор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 16:05:22 |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | popa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 16:05:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511403022834902 |
-| Players | 9/10 |
-| Host Name | Hilazzz..Woopinas |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 16:00:37 |
 
 
 |  | epic_boss_fight_nightmare |
