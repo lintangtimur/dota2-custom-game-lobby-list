@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403086841080 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | MID OR | WILL RUIN |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 17:30:53 |
@@ -40,17 +40,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403085294741 |
-| Players | 5/8 |
-| Host Name | SSS |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 17:28:56 |
+| Lobby ID | 28511403087198530 |
+| Players | 3/8 |
+| Host Name | Хрустик |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 17:31:20 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403085239265 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | kaiser^^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 17:28:51 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403082552060 |
-| Players | 5/8 |
-| Host Name | ♛Bars❃ |
+| Players | 1/8 |
+| Host Name | ArcaN |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 17:25:23 |
 
