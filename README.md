@@ -29,49 +29,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 10:31:46 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511402830482018 |
-| Players | 13/24 |
-| Host Name | Bonitos y gorditos hijos de puta |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 10:29:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402831480466 |
-| Players | 7/10 |
-| Host Name | abelardo |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 10:31:55 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402830117484 |
-| Players | 9/10 |
-| Host Name | ZYX-AROUND |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 10:29:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402830119953 |
-| Players | 1/10 |
-| Host Name | Manana |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 10:29:03 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402831561416 |
-| Players | 1/15 |
+| Players | 11/15 |
 | Host Name | darkfross |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 10:32:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511402831740421 |
+| Players | 3/10 |
+| Host Name | ♥-℉ïŘ€Mă₦-♥ |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 10:32:27 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,14 +63,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | STEPHOROI |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 09:49:45 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511402829670039 |
-| Players | 8/10 |
-| Host Name | Raiden Ei |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 10:28:06 |
 
 
