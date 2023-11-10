@@ -68,9 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402925282755 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Escanor |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 13:29:47 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402925435353 |
+| Players | 1/8 |
+| Host Name | Guadianeitor.giordota.com |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 13:30:02 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511402921641144 |
+| Players | 9/10 |
+| Host Name | にこ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 13:23:38 |
 
 
