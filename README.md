@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403029827013 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 16:10:38 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403030463517 |
-| Players | 7/24 |
+| Players | 14/24 |
 | Host Name | 青衣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:11:33 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403017835140 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | LegendsNeverDie |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, November 10, 2023 15:53:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403030127366 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | freelancer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 16:11:04 |
@@ -59,27 +59,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403029950716 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Дамский ублюдок |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 16:10:49 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511403029715860 |
+| Players | 9/10 |
+| Host Name | БАРЯ |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 16:10:29 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511403031245837 |
+| Players | 1/15 |
+| Host Name | i |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 10, 2023 16:12:42 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403028618317 |
+| Lobby ID | 28511403031285531 |
 | Players | 1/8 |
-| Host Name | 离手鸳鸯刀 |
+| Host Name | radbix |
 | Region | BRAZIL |
-| Lobby Creation Time | Friday, November 10, 2023 16:08:53 |
+| Lobby Creation Time | Friday, November 10, 2023 16:12:45 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511403028621188 |
-| Players | 8/10 |
-| Host Name | Bankai |
+| Lobby ID | 28511403031337850 |
+| Players | 5/10 |
+| Host Name | Raiden Ei |
 | Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 16:08:53 |
+| Lobby Creation Time | Friday, November 10, 2023 16:12:50 |
 
 
