@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402845122696 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Heartlash |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 11:00:30 |
@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402843585810 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | Potical |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 10:57:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402841757524 |
-| Players | 7/8 |
-| Host Name | IISIMI |
+| Lobby ID | 28511402845387574 |
+| Players | 1/15 |
+| Host Name | Niñoblis Tu Terror +.+ |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 10:53:28 |
+| Lobby Creation Time | Friday, November 10, 2023 11:01:04 |
 
 
 |  | ot3_gardens_duo |
@@ -56,12 +56,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 11:00:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402845387574 |
-| Players | 1/15 |
-| Host Name | Niñoblis Tu Terror +.+ |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 11:01:04 |
+| Lobby ID | 28511402845487809 |
+| Players | 4/8 |
+| Host Name | yep |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 11:01:17 |
 
 
