@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402884672459 |
-| Players | 22/24 |
-| Host Name | 青虫叮咚 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 12:15:53 |
+| Lobby ID | 28511402885916666 |
+| Players | 3/10 |
+| Host Name | Atlas Troll |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 12:18:10 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402885548069 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | .twitch.tv/shatunchick |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 12:17:29 |
@@ -56,15 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 12:18:21 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402885916666 |
-| Players | 3/10 |
-| Host Name | Atlas Troll |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 12:18:10 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402885764530 |
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402885849140 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 12:18:02 |
