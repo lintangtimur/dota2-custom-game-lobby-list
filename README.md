@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402844950307 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Julius Caesar |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 11:00:07 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402845772963 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | SQ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 11:01:54 |
