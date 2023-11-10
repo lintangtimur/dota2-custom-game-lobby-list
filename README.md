@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 10:12:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402820659098 |
-| Players | 22/24 |
-| Host Name | LowLife *w* |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 10:09:21 |
+| Lobby ID | 28511402822749529 |
+| Players | 1/15 |
+| Host Name | RossCo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 10:13:38 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402822994024 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Terkanight |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 10:14:08 |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402821806177 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | soy noob |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 10:11:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511402822749529 |
-| Players | 1/15 |
-| Host Name | RossCo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 10:13:38 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511402817364994 |
-| Players | 23/24 |
-| Host Name | Platinum |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 10:02:24 |
 
 
 |  | epic_boss_fight_normal |
