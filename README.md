@@ -47,6 +47,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 13:09:56 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402914588013 |
+| Players | 2/8 |
+| Host Name | гусь |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 10, 2023 13:11:19 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402914592763 |
+| Players | 1/8 |
+| Host Name | Tesla |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 13:11:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511402914604168 |
+| Players | 2/24 |
+| Host Name | Qualzam |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 13:11:21 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402912181242 |
@@ -63,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Damaged |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 10, 2023 13:10:36 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511402914587637 |
+| Players | 2/5 |
+| Host Name | 主教练正在热身 |
+| Region | PWTELECOMGUANGZHOU |
+| Lobby Creation Time | Friday, November 10, 2023 13:11:19 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511402914607832 |
+| Players | 1/10 |
+| Host Name | what |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 13:11:21 |
 
 
