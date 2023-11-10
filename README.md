@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402880839664 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | Solo Leveling |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 12:08:51 |
@@ -49,18 +49,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402883052106 |
-| Players | 1/8 |
-| Host Name | БаРаГуЗ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 12:12:56 |
+| Lobby ID | 28511402883117469 |
+| Players | 2/8 |
+| Host Name | Miranda.Young l haku |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 12:13:03 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402882062585 |
-| Players | 2/8 |
-| Host Name | hahaha omg lol xd lmfao hehehe |
+| Players | 1/8 |
+| Host Name | Casting Brazzer |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 12:11:07 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402882789231 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Movistar Perú |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 12:12:27 |
@@ -94,26 +94,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402883053152 |
+| Lobby ID | 28511402883163828 |
 | Players | 1/8 |
-| Host Name | U&me_godota2.com |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 12:12:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402883074820 |
-| Players | 1/10 |
-| Host Name | WAYNE |
+| Host Name | БаРаГуЗ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 12:12:58 |
+| Lobby Creation Time | Friday, November 10, 2023 12:13:08 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402878329017 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Yusei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 12:04:14 |
