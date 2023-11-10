@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402844950307 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Julius Caesar |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 11:00:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402841700138 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Хорош |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 10:53:21 |
@@ -67,20 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402846741676 |
-| Players | 3/8 |
-| Host Name | RoberCu |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 11:03:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28511402846753618 |
 | Players | 1/8 |
 | Host Name | ТРЕЗВЫЙ МЕСЯЦ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 11:03:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402846849995 |
+| Players | 1/8 |
+| Host Name | Sarapan Srinivasan |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 10, 2023 11:04:10 |
 
 
 |  | epic_boss_fight_nightmare |
