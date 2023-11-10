@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402833915349 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | 青虫叮咚 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 10:37:01 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402836614769 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | El Pene-zolano |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 10:42:43 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402835675738 |
-| Players | 10/15 |
+| Players | 8/15 |
 | Host Name | x |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 10:40:45 |
@@ -49,17 +49,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402835458608 |
-| Players | 9/10 |
-| Host Name | K1ZA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 10:40:17 |
+| Lobby ID | 28511402836516793 |
+| Players | 7/10 |
+| Host Name | Grimcharm |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 10:42:31 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402836650701 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | LowLife *w* |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 10:42:48 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402835683738 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | North |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 10:40:46 |
@@ -76,44 +76,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402836978384 |
-| Players | 9/10 |
-| Host Name | D4RKY1$U$ |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 10:43:29 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511402837058955 |
-| Players | 1/24 |
-| Host Name | kagni |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 10:43:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28511402837272793 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Rias Gremory |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 10:44:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402836516793 |
-| Players | 8/10 |
-| Host Name | Grimcharm |
+| Lobby ID | 28511402837058955 |
+| Players | 3/24 |
+| Host Name | kagni |
 | Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 10:42:31 |
+| Lobby Creation Time | Friday, November 10, 2023 10:43:39 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402834651269 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Alessia Cara |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 10:38:35 |
