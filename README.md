@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403138153948 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | die_hard_Degr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 18:27:00 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403137969846 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | ☦☦† |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 18:26:49 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403136743663 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | Bob The Patata |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 18:25:36 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403136498680 |
-| Players | 15/24 |
+| Players | 20/24 |
 | Host Name | Aka |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 18:25:22 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 18:26:02 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511403137208887 |
-| Players | 13/15 |
-| Host Name | Bezdar' |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 10, 2023 18:26:04 |
+| Lobby ID | 28511403138309271 |
+| Players | 3/10 |
+| Host Name | Trapik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 18:27:09 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -119,19 +119,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 17:42:04 |
 
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28511403135750104 |
-| Players | 3/7 |
-| Host Name | Славный Котик Иут |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 18:24:38 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511403136187167 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | キセキ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 18:25:03 |
