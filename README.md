@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402820191816 |
-| Players | 1/8 |
-| Host Name | あ |
+| Lobby ID | 28511402820515201 |
+| Players | 1/24 |
+| Host Name | Ajax |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 10:08:21 |
+| Lobby Creation Time | Friday, November 10, 2023 10:09:03 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402819753034 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Kick.com/lumaid |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 10:07:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402817364994 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Platinum |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 10:02:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402820184938 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | MrKiN^ |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 10, 2023 10:08:21 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 10:08:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402820515201 |
-| Players | 1/24 |
-| Host Name | Ajax |
+| Lobby ID | 28511402820532159 |
+| Players | 1/8 |
+| Host Name | あ |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 10:09:03 |
+| Lobby Creation Time | Friday, November 10, 2023 10:09:05 |
 
 
 |  | epic_boss_fight_normal |
