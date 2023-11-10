@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403029827013 |
-| Players | 9/10 |
-| Host Name | Moises |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 16:10:38 |
+| Lobby ID | 28511403031704201 |
+| Players | 1/8 |
+| Host Name | Saksa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 16:13:21 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403030463517 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | 青衣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:11:33 |
@@ -47,24 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 16:08:13 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511403031285531 |
-| Players | 2/8 |
-| Host Name | radbix |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 10, 2023 16:12:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511403029950716 |
-| Players | 14/15 |
-| Host Name | Дамский ублюдок |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 16:10:49 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403029715860 |
@@ -74,21 +56,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 16:10:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511403031606062 |
-| Players | 4/8 |
-| Host Name | Suki<3 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 16:13:13 |
+| Lobby ID | 28511403031693647 |
+| Players | 1/10 |
+| Host Name | i |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 10, 2023 16:13:21 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511403031337850 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:12:50 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511403028621188 |
+| Players | 9/10 |
+| Host Name | Bankai |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 16:08:53 |
 
 
