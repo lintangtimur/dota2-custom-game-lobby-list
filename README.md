@@ -32,25 +32,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402984699679 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | wisdom of literature |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 15:05:19 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402984573705 |
-| Players | 1/24 |
-| Host Name | Power Nelson |
-| Region | USWEST |
-| Lobby Creation Time | Friday, November 10, 2023 15:05:07 |
+| Lobby ID | 28511402986510251 |
+| Players | 1/10 |
+| Host Name | привет |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 15:08:08 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402985932692 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Ray |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 15:07:14 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402986303818 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Me? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 15:07:49 |
