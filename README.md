@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402851966281 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Dr Tazerenix |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 11:14:26 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402852812256 |
-| Players | 4/24 |
+| Players | 8/24 |
 | Host Name | EL BARTROM |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 11:16:07 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402851905868 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | intothebottle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 11:14:19 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402853233085 |
-| Players | 1/15 |
-| Host Name | cadis |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 10, 2023 11:16:55 |
+| Lobby ID | 28511402851939489 |
+| Players | 13/15 |
+| Host Name | Connor McGee Thor |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 11:14:23 |
 
 
 |  | ot3_desert_octet |
@@ -86,36 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402853155706 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Mr.X |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 11:16:46 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511402851939489 |
-| Players | 13/15 |
-| Host Name | Connor McGee Thor |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 11:14:23 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511402850398354 |
-| Players | 23/24 |
-| Host Name | Harbinger |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 11:11:20 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511402853217661 |
-| Players | 3/8 |
-| Host Name | MODO SEPSO |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 11:16:53 |
 
 
