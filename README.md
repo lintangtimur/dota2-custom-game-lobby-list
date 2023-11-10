@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 14:33:25 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402996395303 |
-| Players | 12/15 |
-| Host Name | Lik |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 15:23:11 |
+| Lobby ID | 28511402997842551 |
+| Players | 1/24 |
+| Host Name | 初音真爱粉 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 15:25:19 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402997421141 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | roflan337 |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 10, 2023 15:24:42 |
@@ -65,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 15:23:03 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402997733252 |
-| Players | 1/24 |
-| Host Name | CryMeARiver |
+| Lobby ID | 28511402997823021 |
+| Players | 1/10 |
+| Host Name | sigma cock |
 | Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 15:25:09 |
+| Lobby Creation Time | Friday, November 10, 2023 15:25:17 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402997745369 |
-| Players | 1/24 |
-| Host Name | 初音真爱粉 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 15:25:10 |
+| Lobby ID | 28511402997815048 |
+| Players | 1/10 |
+| Host Name | Mandraf |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 15:25:16 |
 
 
 |  | epic_boss_fight_nightmare |
