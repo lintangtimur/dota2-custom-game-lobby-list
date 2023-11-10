@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403059675800 |
-| Players | 5/24 |
+| Players | 6/24 |
 | Host Name | Ohayo! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:53:04 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403058924508 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Lain Kurai reborn |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 16:51:59 |
@@ -68,10 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403060212022 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | I.L. Caragiale |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 16:53:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511403060366747 |
+| Players | 4/8 |
+| Host Name | Suki<3 |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 16:54:05 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | tuturo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:53:14 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511403060169688 |
-| Players | 2/10 |
-| Host Name | Daimon |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 16:53:47 |
 
 
