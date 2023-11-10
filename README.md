@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 16:17:18 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511403035157039 |
-| Players | 7/8 |
-| Host Name | と戦うと戦う |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 10, 2023 16:18:17 |
+| Lobby ID | 28511403035666969 |
+| Players | 5/24 |
+| Host Name | Chungha |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 16:19:01 |
 
 
 |  | ot3_desert_octet |
@@ -50,19 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403035591288 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Леха Секс |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 10, 2023 16:18:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511403035666969 |
-| Players | 5/24 |
-| Host Name | Chungha |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 16:19:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Викинг |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, November 10, 2023 16:16:08 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511403033854299 |
-| Players | 9/10 |
-| Host Name | Реальный арбуз |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 16:16:25 |
 
 
 |  | epic_boss_fight_nightmare |
