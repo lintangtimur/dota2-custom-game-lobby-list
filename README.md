@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402841191850 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Et3rnauta |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 10:52:18 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402840348745 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Cptn.Canuck |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 10:50:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402839930863 |
-| Players | 7/8 |
+| Players | 5/8 |
 | Host Name | RockSpirit |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 10:49:41 |
@@ -58,17 +58,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402841295244 |
-| Players | 10/15 |
-| Host Name | intothebottle |
+| Lobby ID | 28511402841644736 |
+| Players | 1/15 |
+| Host Name | Moving.W |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 10:52:32 |
+| Lobby Creation Time | Friday, November 10, 2023 10:53:15 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511402841586336 |
+| Players | 1/24 |
+| Host Name | LA MALEDUCADA |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 10:53:07 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511402841582379 |
+| Players | 1/10 |
+| Host Name | Faxius |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 10:53:07 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511402841666868 |
+| Players | 1/15 |
+| Host Name | PIZDYK |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 10:53:17 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402836478652 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Vertikalnooo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 10:42:26 |
