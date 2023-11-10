@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402920528575 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | 23% |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 13:21:43 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402921369940 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Chris |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 13:23:10 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402919295151 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 13:19:37 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MAad? |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 13:25:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402922900203 |
+| Players | 1/8 |
+| Host Name | SSS |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 13:25:47 |
 
 
 |  | epic_boss_fight_normal |
