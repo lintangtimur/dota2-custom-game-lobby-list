@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402808514436 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | , |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 09:43:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402808713684 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Staz |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 09:44:11 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402809097360 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 09:44:59 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kujaku |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 09:49:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511402811050989 |
+| Players | 1/15 |
+| Host Name | BASHNASH |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 09:49:06 |
 
 
