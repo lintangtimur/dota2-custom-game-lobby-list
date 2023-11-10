@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28511402998648155 |
 | Players | 3/15 |
-| Host Name | Kawaii Tolkien Black Jesus |
+| Host Name | everything you need. |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 10, 2023 15:26:29 |
 
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 15:20:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403002101070 |
-| Players | 12/15 |
-| Host Name | Fireflies |
+| Lobby ID | 28511403003303612 |
+| Players | 2/8 |
+| Host Name | 病人 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 15:31:23 |
+| Lobby Creation Time | Friday, November 10, 2023 15:33:05 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402996352621 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | think$about$m0ney$ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 15:23:07 |
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 15:28:22 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511403000003518 |
-| Players | 9/10 |
-| Host Name | Ice |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 15:28:26 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403002167539 |
@@ -81,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ВАЛЕРА ХРОНОСФЕРА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 15:31:29 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511403003303612 |
-| Players | 2/8 |
-| Host Name | 病人 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 15:33:05 |
 
 
 |  | epic_boss_fight_nightmare |
