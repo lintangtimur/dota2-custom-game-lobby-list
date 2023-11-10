@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402998648155 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | everything you need. |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 10, 2023 15:26:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402994599896 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Kent |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 15:20:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403002167539 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | ВАЛЕРА ХРОНОСФЕРА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 15:31:29 |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lightroom Classic |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 15:34:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511403004181282 |
+| Players | 1/24 |
+| Host Name | Nonlinear operator |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 15:34:19 |
 
 
