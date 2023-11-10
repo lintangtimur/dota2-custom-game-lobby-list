@@ -74,12 +74,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 15:34:01 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403004669718 |
-| Players | 1/10 |
-| Host Name | heh? |
+| Lobby ID | 28511403004682337 |
+| Players | 3/15 |
+| Host Name | Windranger |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 15:35:00 |
+| Lobby Creation Time | Friday, November 10, 2023 15:35:01 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511403004796003 |
+| Players | 1/5 |
+| Host Name | Moigy |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 15:35:11 |
 
 
