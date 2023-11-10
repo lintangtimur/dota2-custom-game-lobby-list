@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28511402904172154 |
 | Players | 7/15 |
-| Host Name | Solo Leveling |
+| Host Name | BenDeR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 12:51:46 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402903139255 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Professor |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 12:49:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402904716402 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | 初音真爱粉 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 12:52:47 |
