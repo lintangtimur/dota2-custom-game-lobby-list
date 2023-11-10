@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403114263989 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Кирк Лазарус |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 18:02:43 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403112693239 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | LethalBacon |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 18:01:00 |
@@ -47,22 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 17:59:59 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511403114509994 |
+| Players | 4/15 |
+| Host Name | ᴵᵏᵃʳᶦ |
+| Region | AUSTRIA |
+| Lobby Creation Time | Friday, November 10, 2023 18:02:59 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511403114110252 |
-| Players | 7/10 |
-| Host Name | AbdolrahimT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 18:02:33 |
+| Lobby ID | 28511403114695315 |
+| Players | 2/10 |
+| Host Name | ебал секс |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 10, 2023 18:03:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403114509994 |
-| Players | 2/15 |
-| Host Name | ᴵᵏᵃʳᶦ |
-| Region | AUSTRIA |
-| Lobby Creation Time | Friday, November 10, 2023 18:02:59 |
+| Lobby ID | 28511403113429796 |
+| Players | 8/15 |
+| Host Name | Yokatta |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 18:01:49 |
 
 
 |  | epic_boss_fight_normal |
@@ -72,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Heh. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 18:02:21 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511403112695706 |
-| Players | 1/5 |
-| Host Name | 3551311 |
-| Region | AUSTRIA |
-| Lobby Creation Time | Friday, November 10, 2023 18:01:01 |
 
 
 |  | epic_boss_fight_nightmare |
