@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403029715860 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | soda |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 16:10:29 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403043441981 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | влад разрушитель |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 16:30:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403038586754 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Никита |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:23:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403042356168 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | ₱Ʉ₦₭₴₦Ø₮ĐɆ₳Đ |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 16:28:33 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403042791779 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Review旧人 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 16:29:10 |
@@ -90,6 +90,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Жак Оакфиелд |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 16:30:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511403037503802 |
+| Players | 23/24 |
+| Host Name | Black Raven |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 10, 2023 16:21:40 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511403042767740 |
+| Players | 7/8 |
+| Host Name | radbix |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 10, 2023 16:29:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511403043683177 |
+| Players | 1/10 |
+| Host Name | N!cK Machiavelli |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 10, 2023 16:30:26 |
 
 
 |  | epic_boss_fight_nightmare |
