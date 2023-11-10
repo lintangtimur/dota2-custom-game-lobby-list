@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402875620156 |
-| Players | 1/8 |
-| Host Name | El Ohanas |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 10, 2023 11:59:12 |
+| Lobby ID | 28511402875418391 |
+| Players | 4/8 |
+| Host Name | Ｓｏｈｅｅ |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 11:58:50 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402874837104 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | xxXBONIATOXxx |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 11:57:43 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402874168942 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 11:56:28 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402874230978 |
-| Players | 3/24 |
-| Host Name | .Dark::Cat |
+| Players | 1/24 |
+| Host Name | I LIKE LITTLE RACCOON FOREVER |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 11:56:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402875418391 |
-| Players | 4/8 |
-| Host Name | Ｓｏｈｅｅ |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 11:58:50 |
+| Lobby ID | 28511402875738240 |
+| Players | 1/10 |
+| Host Name | < blank > |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 11:59:25 |
 
 
 |  | epic_boss_fight_nightmare |
