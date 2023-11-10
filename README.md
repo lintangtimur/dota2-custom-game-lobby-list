@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402956545443 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Solo Leveling |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 14:21:27 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402953459100 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | 初音真爱粉 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 14:16:33 |
@@ -59,16 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402957708432 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | you so beauti when you off |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 14:23:18 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511402955232181 |
+| Players | 9/15 |
+| Host Name | Deicide |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 14:19:22 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402956446471 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | 3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 14:21:18 |
