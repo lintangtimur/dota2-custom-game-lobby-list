@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511403098120191 |
-| Players | 13/15 |
-| Host Name | TZT |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 17:44:27 |
+| Lobby ID | 28511403098858276 |
+| Players | 6/24 |
+| Host Name | Lion el Messi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 17:45:19 |
 
 
 |  | ot3_necropolis_ffa |
@@ -20,39 +20,75 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 17:44:49 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511403098754487 |
-| Players | 6/10 |
-| Host Name | WestBang |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 17:45:12 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511403098832179 |
+| Lobby ID | 28511403099100175 |
 | Players | 1/24 |
-| Host Name | MrKitten |
+| Host Name | Чак-Чак Норрис |
 | Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 17:45:17 |
+| Lobby Creation Time | Friday, November 10, 2023 17:45:36 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511403099055977 |
+| Players | 7/15 |
+| Host Name | Sodiet |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 17:45:33 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511403099209503 |
+| Players | 5/8 |
+| Host Name | nusuntgacijur~ |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 10, 2023 17:45:44 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511403099444172 |
+| Players | 1/10 |
+| Host Name | strumf ubiec |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 10, 2023 17:46:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511403099474244 |
+| Players | 3/8 |
+| Host Name | RFID |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 17:46:03 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511403096385631 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | свиня джакузі |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 17:42:25 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28511403096083245 |
-| Players | 6/10 |
-| Host Name | Rinkatoヅ |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 10, 2023 17:42:04 |
+| Lobby ID | 28511403090876199 |
+| Players | 3/7 |
+| Host Name | De-viL ❤ |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 10, 2023 17:35:51 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28511403099400480 |
+| Players | 2/7 |
+| Host Name | Пухля |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 10, 2023 17:45:57 |
 
 
