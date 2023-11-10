@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402807519416 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Eldarion |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 10, 2023 09:41:38 |
@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28511402807077656 |
 | Players | 12/15 |
-| Host Name | Kronosh |
+| Host Name | oTuTo |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 09:40:42 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402809052859 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | jungle drow |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 09:44:54 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402808339781 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Yonwalther |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 09:43:23 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402808419632 |
-| Players | 8/15 |
-| Host Name | oWO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 09:43:33 |
+| Lobby ID | 28511402808999801 |
+| Players | 1/10 |
+| Host Name | CHAD NORRIZ |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 09:44:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402809097360 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 09:44:59 |
@@ -126,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SDVDS |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 09:44:38 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402808999801 |
-| Players | 1/10 |
-| Host Name | CHAD NORRIZ |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 09:44:47 |
 
 
