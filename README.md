@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402924533916 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Emotional Damage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 13:28:32 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402923911589 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | Ajr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 13:27:29 |
@@ -77,18 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402924763100 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | $$-_-$$ |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 13:28:55 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511402924771746 |
-| Players | 1/24 |
-| Host Name | FORSA AAA N |
-| Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 13:28:55 |
 
 
