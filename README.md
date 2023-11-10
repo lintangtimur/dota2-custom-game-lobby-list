@@ -38,22 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 15:53:26 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511403029715860 |
-| Players | 7/10 |
-| Host Name | ∝  → 3 Knives Knight | |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 16:10:29 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403035591288 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | Леха Секс |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 10, 2023 16:18:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511403036266516 |
+| Players | 1/15 |
+| Host Name | SUPER SSSANIN |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 10, 2023 16:19:53 |
 
 
 |  | epic_boss_fight_nightmare |
