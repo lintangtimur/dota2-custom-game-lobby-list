@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402894536288 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | молчун с ангельским голосом |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 12:34:05 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402895658371 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | do something |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 12:36:06 |
@@ -50,19 +50,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402895677998 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Jhor_xx |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 12:36:09 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402895701075 |
-| Players | 2/5 |
-| Host Name | _ЗаЙка_ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 12:36:11 |
+| Lobby ID | 28511402896243910 |
+| Players | 1/15 |
+| Host Name | IRONG BUANG |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 12:37:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511402896270872 |
+| Players | 1/10 |
+| Host Name | Slepping giordota.com |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 12:37:13 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511402896305649 |
+| Players | 1/24 |
+| Host Name | -♣ |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 12:37:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MUTED |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 12:35:33 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511402896319240 |
+| Players | 1/10 |
+| Host Name | SASHA_BURIZA |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 12:37:19 |
 
 
