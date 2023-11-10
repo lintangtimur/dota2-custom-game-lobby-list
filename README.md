@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402880839664 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Solo Leveling |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 12:08:51 |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402882789231 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | Movistar Perú |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 12:12:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402884314588 |
+| Players | 1/8 |
+| Host Name | WAYNE |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 12:15:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402884385616 |
+| Players | 4/8 |
+| Host Name | M142 HIMARS |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 12:15:21 |
 
 
 |  | epic_boss_fight_nightmare |
