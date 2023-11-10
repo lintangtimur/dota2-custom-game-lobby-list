@@ -2,31 +2,31 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511403029715860 |
-| Players | 9/10 |
-| Host Name | soda |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 16:10:29 |
+| Lobby ID | 28511403046356125 |
+| Players | 1/24 |
+| Host Name | Black Raven |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 16:34:14 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403046418544 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | 123 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 16:34:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403045406474 |
-| Players | 9/10 |
-| Host Name | Doyki.Xddcc.fullpohuy |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 16:32:53 |
+| Lobby ID | 28511403047123909 |
+| Players | 3/15 |
+| Host Name | Chill zone |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 16:35:20 |
 
 
 |  | ot3_jungle_quintet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 16:34:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511403044924667 |
-| Players | 1/10 |
-| Host Name | Shelterダウビ |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 16:32:11 |
+| Lobby ID | 28511403037503802 |
+| Players | 8/24 |
+| Host Name | Almond Butter Honey |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 10, 2023 16:21:40 |
 
 
 |  | ot3_gardens_duo |
@@ -72,42 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | WestBang |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 16:33:28 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511403045514417 |
-| Players | 23/24 |
-| Host Name | drntmanh |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 16:33:02 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511403037503802 |
-| Players | 9/24 |
-| Host Name | Almond Butter Honey |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 10, 2023 16:21:40 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511403046356125 |
-| Players | 1/24 |
-| Host Name | Black Raven |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 16:34:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511403047040309 |
-| Players | 1/8 |
-| Host Name | depko13 |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 16:35:13 |
 
 
 |  | epic_boss_fight_normal |
