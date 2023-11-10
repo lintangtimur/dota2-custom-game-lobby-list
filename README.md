@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402848985294 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | N!cK Machiavelli |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 11:08:31 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402848627196 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 11:07:48 |
@@ -85,19 +85,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402849854074 |
+| Lobby ID | 28511402849869616 |
+| Players | 1/24 |
+| Host Name | oOo-ÉGOÏSTE-oOo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 11:10:17 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511402849927354 |
+| Players | 1/24 |
+| Host Name | peach eyes |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 11:10:24 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511402849951189 |
 | Players | 1/24 |
 | Host Name | RyQゆた |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 11:10:15 |
+| Lobby Creation Time | Friday, November 10, 2023 11:10:26 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511402849838607 |
-| Players | 1/5 |
+| Lobby ID | 28511402849886171 |
+| Players | 1/10 |
 | Host Name | Daenerys |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 11:10:13 |
+| Lobby Creation Time | Friday, November 10, 2023 11:10:19 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511402849913391 |
+| Players | 1/10 |
+| Host Name | WonDeR? |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 11:10:22 |
 
 
