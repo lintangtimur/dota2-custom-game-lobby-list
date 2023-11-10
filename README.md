@@ -2,49 +2,22 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402929168187 |
-| Players | 7/10 |
-| Host Name | DANICH |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 13:36:25 |
+| Lobby ID | 28511402928221293 |
+| Players | 9/24 |
+| Host Name | 盗个铃 |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 13:34:48 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402927595842 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | мудрый тип |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 13:33:44 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511402928144661 |
-| Players | 13/15 |
-| Host Name | Lehi Knight |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 13:34:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511402929111014 |
-| Players | 13/15 |
-| Host Name | gsus |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 13:36:19 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511402928221293 |
-| Players | 7/24 |
-| Host Name | 盗个铃 |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 13:34:48 |
 
 
 |  | ot3_desert_octet |
