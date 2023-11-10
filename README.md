@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402973584621 |
-| Players | 1/24 |
-| Host Name | Stressed |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 14:48:06 |
+| Lobby ID | 28511402973735091 |
+| Players | 3/24 |
+| Host Name | 风显 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 14:48:19 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402972448117 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Тайлер Дырдырчик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 14:46:21 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402973375216 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | патриархат 1класс |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 14:47:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402973616497 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | чемпионыч на бубе |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 14:48:08 |
