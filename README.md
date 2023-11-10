@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402987105302 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | SDMastery© |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 15:09:03 |
@@ -58,29 +58,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402992098576 |
-| Players | 1/15 |
-| Host Name | 疲勞 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 10, 2023 15:16:42 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511402992107034 |
-| Players | 2/15 |
-| Host Name | Flawless |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 15:16:43 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28511402992141641 |
 | Players | 1/15 |
 | Host Name | jjampong |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 15:16:46 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511402992107034 |
+| Players | 4/15 |
+| Host Name | Flawless |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 15:16:43 |
 
 
 |  | epic_boss_fight_nightmare |
