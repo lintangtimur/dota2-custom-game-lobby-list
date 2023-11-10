@@ -42,7 +42,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28511402897583806 |
 | Players | 5/15 |
-| Host Name | Rick Sanchez |
+| Host Name | 3WΣ3ДØПΛД |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 12:39:38 |
 
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402898416100 |
-| Players | 1/24 |
-| Host Name | FireDog |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 12:41:09 |
+| Lobby ID | 28511402898485747 |
+| Players | 2/24 |
+| Host Name | Perpendicular |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 12:41:17 |
 
 
 |  | epic_boss_fight_nightmare |
