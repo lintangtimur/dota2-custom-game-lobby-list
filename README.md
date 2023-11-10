@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403073203819 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | kaiser^^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 17:12:53 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403065562065 |
-| Players | 10/24 |
+| Players | 6/24 |
 | Host Name | Midnight pulse is "not" lethal |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 17:01:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403072988610 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | \\\\\\\\\\\\\\\\\\\\\ |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 17:12:35 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403072943751 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | Diamond Fish sauce |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 17:12:31 |
