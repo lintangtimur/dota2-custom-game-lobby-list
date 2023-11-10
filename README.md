@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 16:30:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403042791779 |
-| Players | 14/15 |
-| Host Name | Review旧人 |
+| Lobby ID | 28511403044058137 |
+| Players | 3/8 |
+| Host Name | GIGA CHAD |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 16:29:10 |
+| Lobby Creation Time | Friday, November 10, 2023 16:30:58 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403043314275 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | ⁽⁽ପ꒰ ྀི ◜ ᴗ ◝ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 16:29:54 |
@@ -92,13 +92,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 16:30:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511403044058137 |
-| Players | 1/8 |
-| Host Name | GIGA CHAD |
+| Lobby ID | 28511403044104118 |
+| Players | 2/10 |
+| Host Name | BRAMBRAGE |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 16:30:58 |
+| Lobby Creation Time | Friday, November 10, 2023 16:31:02 |
 
 
 |  | epic_boss_fight_nightmare |
