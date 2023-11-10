@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402924533916 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Emotional Damage |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 13:28:32 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402924392262 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 10, 2023 13:28:18 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402923931147 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | :) |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, November 10, 2023 13:27:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402922442428 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | MAad? |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 13:25:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402923911589 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Ajr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 13:27:29 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402924763100 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | $$-_-$$ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 13:28:55 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | FORSA AAA N |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 13:28:55 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511402921641144 |
-| Players | 9/10 |
-| Host Name | にこ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 13:23:38 |
 
 
