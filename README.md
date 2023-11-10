@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403053851973 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | камень в почке |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 16:44:51 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403052640276 |
-| Players | 12/24 |
+| Players | 18/24 |
 | Host Name | Edit Profile |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:43:08 |
@@ -38,24 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 15:53:26 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511403054022247 |
-| Players | 6/8 |
-| Host Name | Леха Секс |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 16:45:05 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511403049604628 |
-| Players | 12/15 |
-| Host Name | Clean Cat |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 16:38:52 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403054355087 |
@@ -65,22 +47,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 16:45:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403053981500 |
-| Players | 9/10 |
-| Host Name | CANCELUL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 16:45:02 |
+| Lobby ID | 28511403049604628 |
+| Players | 13/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 16:38:52 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511403054370541 |
+| Lobby ID | 28511403054608807 |
+| Players | 4/10 |
+| Host Name | Arthas Menethil |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 10, 2023 16:45:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511403054536671 |
 | Players | 2/10 |
+| Host Name | i will never accept my loss |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 16:45:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511403054550013 |
+| Players | 1/8 |
+| Host Name | 勝者の呪い |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 10, 2023 16:45:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511403054597100 |
+| Players | 3/8 |
 | Host Name | Анимешечка |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 16:45:35 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 16:45:54 |
 
 
 |  | epic_boss_fight_nightmare |
