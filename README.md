@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511403094232439 |
-| Players | 8/10 |
-| Host Name | Bboy Squiz |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 17:39:52 |
+| Lobby ID | 28511403094700124 |
+| Players | 1/10 |
+| Host Name | ID.quapl |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 17:40:26 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403094103043 |
-| Players | 9/15 |
+| Players | 14/15 |
 | Host Name | eleskovic^ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 17:39:43 |
