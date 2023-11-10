@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28511403064902628 |
 | Players | 3/15 |
-| Host Name | Black Raven |
+| Host Name | PEW PEW PEW PEW PEW PEW PEW |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 17:00:48 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403066354422 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | 777 |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 17:03:00 |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 16:58:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403066506110 |
-| Players | 1/15 |
-| Host Name | Кабачкоид |
+| Lobby ID | 28511403066620875 |
+| Players | 3/8 |
+| Host Name | Жаби Жаби |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 17:03:13 |
+| Lobby Creation Time | Friday, November 10, 2023 17:03:24 |
 
 
 |  | epic_boss_fight_nightmare |
