@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402869583145 |
-| Players | 9/10 |
-| Host Name | zarein |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 11:47:53 |
+| Lobby ID | 28511402870309368 |
+| Players | 1/15 |
+| Host Name | STERBLICH |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 11:49:15 |
 
 
 |  | ot3_jungle_quintet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402860533492 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Chisato |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 10, 2023 11:31:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402870225803 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | M142 HIMARS |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 11:49:05 |
@@ -49,20 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402870309368 |
-| Players | 1/15 |
-| Host Name | STERBLICH |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 11:49:15 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511402870319193 |
-| Players | 1/8 |
-| Host Name | grind2021 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 11:49:16 |
+| Lobby ID | 28511402870401743 |
+| Players | 2/15 |
+| Host Name | Dota 2 Groomologist |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 11:49:25 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | skyrutt |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 11:17:12 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511402870416052 |
+| Players | 1/5 |
+| Host Name | awe |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 11:49:26 |
 
 
