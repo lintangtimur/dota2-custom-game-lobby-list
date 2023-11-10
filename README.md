@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 14:08:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402944944890 |
-| Players | 5/8 |
-| Host Name | ☠丂HۣۜะĨ尺Oۣۜ≈☣ |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 14:03:02 |
+| Lobby ID | 28511402948875679 |
+| Players | 7/10 |
+| Host Name | Yatoro |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 14:09:18 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402947520820 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | OverFlown |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 14:07:10 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402949075245 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Mouches Volantes |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 14:09:37 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 14:07:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402948875679 |
-| Players | 7/10 |
-| Host Name | Yatoro |
+| Lobby ID | 28511402949397838 |
+| Players | 1/8 |
+| Host Name | White Comet |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 14:09:18 |
+| Lobby Creation Time | Friday, November 10, 2023 14:10:08 |
 
 
 |  | epic_boss_fight_challenger |
