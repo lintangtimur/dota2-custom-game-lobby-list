@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28511402891574460 |
 | Players | 21/24 |
-| Host Name | www.instumblr.top |
+| Host Name | 13 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 12:28:37 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402893773646 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Noosekabob |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 12:32:41 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402894180218 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Ajr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 12:33:25 |
@@ -83,6 +83,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 12:33:39 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402895172637 |
+| Players | 1/8 |
+| Host Name | Feed nenas xd |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 10, 2023 12:35:14 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402892283281 |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402892449781 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | SASHA_BURIZA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 12:30:14 |
@@ -104,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28511402894827088 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | MUTED |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 12:34:36 |
