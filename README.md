@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403069581065 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | 初音真爱粉 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 17:07:47 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403071469977 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | PALESTINA BOMBER |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 17:10:30 |
@@ -59,28 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403071712800 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | ⁽⁽ପ꒰ ྀི ◜ ᴗ ◝ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 17:10:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511403070744399 |
-| Players | 14/15 |
-| Host Name | Пинал твоего деда |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 17:09:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511403068636547 |
-| Players | 14/15 |
-| Host Name | истребитель лейм |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 17:06:24 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Da Wae |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 17:08:21 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511403071997496 |
+| Players | 1/10 |
+| Host Name | The Knifer |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 10, 2023 17:11:12 |
 
 
