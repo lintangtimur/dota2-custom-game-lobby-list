@@ -32,8 +32,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402994599896 |
-| Players | 7/10 |
-| Host Name | Kent |
+| Players | 5/10 |
+| Host Name | ꧁【✰VanSerio✰】꧂ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 15:20:30 |
 
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 15:23:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511403004433143 |
-| Players | 7/8 |
-| Host Name | SSS |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 10, 2023 15:34:40 |
+| Lobby ID | 28511403005584298 |
+| Players | 1/24 |
+| Host Name | please dont ban AA |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 15:36:17 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403003964648 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | psycho梅 |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 15:34:01 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403005304663 |
-| Players | 4/10 |
+| Players | 1/10 |
 | Host Name | Shelterダウビ |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 10, 2023 15:35:54 |
@@ -95,25 +95,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403005452622 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Asam Garam |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 15:36:06 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403005441248 |
-| Players | 1/24 |
-| Host Name | 青虫叮咚 |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 15:36:05 |
+| Lobby ID | 28511403005495885 |
+| Players | 1/15 |
+| Host Name | БОГ математики |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Friday, November 10, 2023 15:36:10 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511403005116496 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Mythical |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 15:35:38 |
