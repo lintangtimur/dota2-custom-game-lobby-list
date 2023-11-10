@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 11:37:45 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402863075116 |
-| Players | 14/24 |
-| Host Name | 波多野结衣照亮你 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 11:35:45 |
+| Lobby ID | 28511402863423406 |
+| Players | 14/15 |
+| Host Name | Vuvuzela Virtuoso Hans Rudolph |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 11:36:25 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402863418057 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | Radiance |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 11:36:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402862693489 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | modo chill: !!ON¡¡ |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 11:35:03 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402864021186 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | kol_fnl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 11:37:32 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402864895584 |
-| Players | 1/15 |
-| Host Name | В доме 8/16 |
+| Lobby ID | 28511402865056974 |
+| Players | 1/8 |
+| Host Name | Xile |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 11:39:09 |
+| Lobby Creation Time | Friday, November 10, 2023 11:39:27 |
 
 
 |  | epic_boss_fight_nightmare |
