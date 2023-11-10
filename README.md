@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402871950573 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Писятдва |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 11:52:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402872269399 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Argee |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 11:52:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402872175166 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | Communist Yatoro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 11:52:44 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Мохнатый вор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 11:52:41 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511402872963803 |
+| Players | 2/10 |
+| Host Name | Moises |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 11:54:11 |
 
 
 |  | epic_boss_fight_nightmare |
