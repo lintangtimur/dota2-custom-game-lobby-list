@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 10:23:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402826505446 |
-| Players | 23/24 |
-| Host Name | ..... |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 10:21:29 |
+| Lobby ID | 28511402827891515 |
+| Players | 1/8 |
+| Host Name | Mmakar |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 10:24:24 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402826940180 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | tu mamá |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 10:22:24 |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 10:22:52 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511402827818510 |
-| Players | 3/24 |
-| Host Name | Mickey Silbando |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 10:24:15 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28511402811359995 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402826035405 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | BIGFACE |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 10:20:30 |
