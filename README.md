@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403055702900 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Biborten! |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 16:47:27 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403070897688 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | BRAMBRAGE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 17:09:41 |
@@ -76,17 +76,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511403072573867 |
+| Lobby ID | 28511403072608228 |
+| Players | 1/24 |
+| Host Name | 神说天堂满了你去地狱 |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 10, 2023 17:12:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511403072679882 |
 | Players | 1/24 |
 | Host Name | Diamond Fish sauce |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 17:12:00 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 17:12:09 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511403070744399 |
+| Players | 14/15 |
+| Host Name | &D |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 17:09:28 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511403069963340 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Da Wae |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 17:08:21 |
