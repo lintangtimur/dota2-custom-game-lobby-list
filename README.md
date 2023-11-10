@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403002167539 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | ВАЛЕРА ХРОНОСФЕРА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 15:31:29 |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | psycho梅 |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 15:34:01 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511403004044474 |
+| Players | 1/24 |
+| Host Name | Lightroom Classic |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 15:34:08 |
 
 
