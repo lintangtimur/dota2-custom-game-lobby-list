@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403037503802 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 16:21:40 |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 15:53:26 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403039197062 |
-| Players | 6/8 |
-| Host Name | пахан мирны́й |
+| Lobby ID | 28511403039574941 |
+| Players | 9/15 |
+| Host Name | I bought the bank |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 16:24:05 |
+| Lobby Creation Time | Friday, November 10, 2023 16:24:38 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403038586754 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Личность |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:23:13 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 16:23:14 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403039068095 |
-| Players | 1/15 |
-| Host Name | darK |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 10, 2023 16:23:54 |
+| Lobby ID | 28511403039628818 |
+| Players | 2/8 |
+| Host Name | Mixnajaren |
+| Region | JAPAN |
+| Lobby Creation Time | Friday, November 10, 2023 16:24:42 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403039395020 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | CANCELUL |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 16:24:22 |
@@ -90,6 +90,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | холо костя |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 10, 2023 16:24:31 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511403039329946 |
+| Players | 4/8 |
+| Host Name | light傻子 |
+| Region | EUROPE |
+| Lobby Creation Time | Friday, November 10, 2023 16:24:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511403039720939 |
+| Players | 1/8 |
+| Host Name | Mode:Извечный |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 16:24:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511403029715860 |
+| Players | 7/10 |
+| Host Name | ∝  → 3 Knives Knight | |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 16:10:29 |
 
 
 |  | epic_boss_fight_nightmare |
