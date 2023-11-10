@@ -4,29 +4,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402818408262 |
-| Players | 7/8 |
-| Host Name | IWNL./ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 10:04:36 |
+| Lobby ID | 28511402820191816 |
+| Players | 1/8 |
+| Host Name | あ |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 10:08:21 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402819753034 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | Kick.com/lumaid |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 10:07:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402818718098 |
-| Players | 14/15 |
-| Host Name | Maguire Fan |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 10:05:15 |
+| Lobby ID | 28511402813731268 |
+| Players | 2/24 |
+| Host Name | Weganerd |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 09:54:44 |
 
 
 |  | ot3_jungle_quintet |
@@ -49,11 +49,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402813731268 |
-| Players | 3/24 |
-| Host Name | Weganerd |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 09:54:44 |
+| Lobby ID | 28511402820184938 |
+| Players | 2/24 |
+| Host Name | MrKiN^ |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 10, 2023 10:08:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511402820266917 |
+| Players | 1/10 |
+| Host Name | victoredu8998 godota2.com |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 10:08:31 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511402820515201 |
+| Players | 1/24 |
+| Host Name | Ajax |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 10:09:03 |
 
 
 |  | epic_boss_fight_normal |
