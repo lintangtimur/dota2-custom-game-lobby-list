@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402841429122 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | SonyComputer |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 10:52:48 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402841191850 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Et3rnauta |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 10:52:18 |
@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 10:50:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402839930863 |
-| Players | 5/8 |
-| Host Name | RockSpirit |
+| Lobby ID | 28511402841700138 |
+| Players | 1/10 |
+| Host Name | я конченый джигит |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 10:49:41 |
+| Lobby Creation Time | Friday, November 10, 2023 10:53:21 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402841644736 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Moving.W |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 10:53:15 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402841582379 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Faxius |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 10:53:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402841666868 |
-| Players | 1/15 |
-| Host Name | PIZDYK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 10:53:17 |
+| Lobby ID | 28511402841757524 |
+| Players | 4/8 |
+| Host Name | 雨Antistrat |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 10:53:28 |
 
 
 |  | epic_boss_fight_nightmare |
