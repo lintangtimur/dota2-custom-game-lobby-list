@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403095291951 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Klettverschluss |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 17:41:08 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511403092131862 |
-| Players | 19/24 |
-| Host Name | Fireflies |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Friday, November 10, 2023 17:37:22 |
+| Lobby ID | 28511403095031608 |
+| Players | 5/24 |
+| Host Name | RAT LEGENDS SEASON 18 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 17:40:49 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403095071736 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Save Yourself |
 | Region | AUSTRIA |
 | Lobby Creation Time | Friday, November 10, 2023 17:40:52 |
@@ -63,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Личность |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 17:41:00 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511403095031608 |
-| Players | 5/24 |
-| Host Name | RAT LEGENDS SEASON 18 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 17:40:49 |
 
 
 |  | epic_boss_fight_challenger |
