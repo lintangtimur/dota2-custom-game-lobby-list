@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402998648155 |
-| Players | 2/15 |
-| Host Name | ProCarryOat |
+| Players | 1/15 |
+| Host Name | SHZZY |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 10, 2023 15:26:29 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402998392249 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | philag |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 15:26:07 |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | chocolate icecream |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 15:24:09 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511402999173707 |
+| Players | 1/5 |
+| Host Name | 断水流大师兄 |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 15:27:15 |
 
 
