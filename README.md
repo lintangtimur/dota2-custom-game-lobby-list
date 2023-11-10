@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402985169029 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Shelterダウビ |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 10, 2023 15:06:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402984699679 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | wisdom of literature |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 15:05:19 |
@@ -41,37 +41,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402984573705 |
-| Players | 3/24 |
-| Host Name | Leonidas |
+| Players | 1/24 |
+| Host Name | Power Nelson |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 10, 2023 15:05:07 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511402983528800 |
-| Players | 20/24 |
-| Host Name | Tờ Ri |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 15:03:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511402984840379 |
-| Players | 9/15 |
-| Host Name | Dubya |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 15:05:32 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402984914316 |
-| Players | 9/10 |
-| Host Name | Syn.v2 |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 15:05:39 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,6 +54,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Dan |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 15:06:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511402984840379 |
+| Players | 11/15 |
+| Host Name | Dubya |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 15:05:32 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402985932692 |
+| Players | 1/8 |
+| Host Name | Ray |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 15:07:14 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511402986020371 |
+| Players | 1/24 |
+| Host Name | Absmuui |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 15:07:22 |
 
 
 |  | epic_boss_fight_nightmare |
