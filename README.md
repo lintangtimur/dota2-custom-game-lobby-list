@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402935938697 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | you so beauti when you off |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 13:48:02 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402932256604 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Hohenheim |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 10, 2023 13:41:44 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BUTUH DANA CEPAT |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 13:48:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511402936686320 |
+| Players | 1/10 |
+| Host Name | Lymo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 13:49:20 |
 
 
 |  | epic_boss_fight_nightmare |
