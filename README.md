@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 15:50:10 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403014670093 |
-| Players | 4/10 |
-| Host Name | sigma cock |
+| Lobby ID | 28511403015698166 |
+| Players | 2/8 |
+| Host Name | I'll motherfuckin' murder her |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 15:48:59 |
+| Lobby Creation Time | Friday, November 10, 2023 15:50:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,36 +59,72 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403014086224 |
-| Players | 19/24 |
+| Players | 23/24 |
 | Host Name | drntmanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 15:48:10 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511403015946751 |
+| Players | 6/24 |
+| Host Name | Tờ Ri |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 15:50:46 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511403015670956 |
+| Players | 1/8 |
+| Host Name | lyutyk |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 15:50:23 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403015586861 |
+| Lobby ID | 28511403016035214 |
 | Players | 1/15 |
-| Host Name | Тренер по нихуя |
+| Host Name | 1 |
 | Region | BRAZIL |
-| Lobby Creation Time | Friday, November 10, 2023 15:50:16 |
+| Lobby Creation Time | Friday, November 10, 2023 15:50:54 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511403011723860 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Kunde |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Friday, November 10, 2023 15:44:52 |
 
 
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511403015730548 |
+| Players | 7/10 |
+| Host Name | 3 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 15:50:28 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511403015824419 |
+| Players | 2/10 |
+| Host Name | Реальный арбуз |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 15:50:36 |
+
+
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28511403015537187 |
-| Players | 2/5 |
-| Host Name | Leinach |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 15:50:12 |
+| Lobby ID | 28511403015983973 |
+| Players | 1/5 |
+| Host Name | вечный жид |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 10, 2023 15:50:50 |
 
 
