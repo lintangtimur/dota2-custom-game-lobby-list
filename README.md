@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402973735091 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | 风显 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 14:48:19 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402974151522 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | ДавайНаЛадошку |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 14:48:57 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 14:49:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402974511996 |
-| Players | 1/8 |
-| Host Name | SUPERNATURAL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 14:49:29 |
+| Lobby ID | 28511402974811643 |
+| Players | 1/15 |
+| Host Name | raskumar |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 14:49:56 |
 
 
 |  | ot3_desert_octet |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SIPPINGTON CITY |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 14:49:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511402974811643 |
-| Players | 2/15 |
-| Host Name | raskumar |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 14:49:56 |
 
 
 |  | epic_boss_fight_nightmare |
