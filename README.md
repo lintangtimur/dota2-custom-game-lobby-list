@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402873375599 |
-| Players | 13/15 |
-| Host Name | Zapato |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 11:54:57 |
+| Lobby ID | 28511402876306821 |
+| Players | 4/8 |
+| Host Name | Hello World |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 12:00:30 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402875418391 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Ｓｏｈｅｅ |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 11:58:50 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402876031157 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | intothebottle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 11:59:59 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402874168942 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | ✿迅猛小老虎 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 11:56:28 |
@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 11:59:52 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511402876251990 |
-| Players | 1/8 |
-| Host Name | HeyPapi<3 |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 12:00:23 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402875047084 |
@@ -81,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 10K Behavior Score |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 11:58:07 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511402876521664 |
+| Players | 1/5 |
+| Host Name | Asmodey |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 12:00:54 |
 
 
