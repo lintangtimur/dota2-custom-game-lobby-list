@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402916151001 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | 21Savage |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 13:14:06 |
@@ -38,10 +38,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 13:18:42 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402918918976 |
+| Players | 1/8 |
+| Host Name | Быдло Ебучее |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 13:18:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511402918965342 |
+| Players | 1/10 |
+| Host Name | EG.狩猎或杀戮如果我 |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 13:19:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511402919005578 |
+| Players | 1/24 |
+| Host Name | ✿迅猛小老虎 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 13:19:07 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402918717368 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | TriHard |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 13:18:37 |
