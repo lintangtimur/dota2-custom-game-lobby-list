@@ -65,15 +65,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 18:09:13 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511403120606287 |
-| Players | 1/8 |
-| Host Name | EGG BOY |
-| Region | JAPAN |
-| Lobby Creation Time | Friday, November 10, 2023 18:09:25 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403120234409 |
