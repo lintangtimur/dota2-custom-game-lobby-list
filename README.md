@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 15:43:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403011182728 |
-| Players | 3/15 |
-| Host Name | Жаби Жаби |
+| Lobby ID | 28511403011071413 |
+| Players | 2/8 |
+| Host Name | ADICTO |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 10, 2023 15:44:06 |
+| Lobby Creation Time | Friday, November 10, 2023 15:43:57 |
 
 
 |  | ot3_gardens_duo |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 15:43:57 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403011071413 |
-| Players | 2/8 |
-| Host Name | ADICTO |
+| Lobby ID | 28511403011307192 |
+| Players | 1/15 |
+| Host Name | Force of the Imperial Master |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 10, 2023 15:43:57 |
+| Lobby Creation Time | Friday, November 10, 2023 15:44:17 |
 
 
 |  | epic_boss_fight_nightmare |
