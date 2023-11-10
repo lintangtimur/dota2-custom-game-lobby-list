@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402955353758 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | POCOYOZOR |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 14:19:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402969476179 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Glimmer of Hope |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 14:41:47 |
@@ -40,29 +40,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402970387459 |
-| Players | 1/10 |
-| Host Name | Moises |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 14:43:10 |
+| Lobby ID | 28511402970738802 |
+| Players | 2/10 |
+| Host Name | 艾INSIDE༺༻PSYCHO艾 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 14:43:43 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402970508619 |
-| Players | 2/8 |
+| Players | 7/8 |
 | Host Name | CH1naZEs |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 14:43:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402970576928 |
-| Players | 2/10 |
-| Host Name | ... |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 14:43:27 |
+| Lobby ID | 28511402970901216 |
+| Players | 1/24 |
+| Host Name | Montie |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 14:43:58 |
 
 
 |  | epic_boss_fight_nightmare |
