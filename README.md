@@ -4,11 +4,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403084658128 |
-| Players | 14/15 |
-| Host Name | ВАЛЕРА ХРОНОСФЕРА |
+| Lobby ID | 28511403080430977 |
+| Players | 13/15 |
+| Host Name | руинят мне |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 17:28:08 |
+| Lobby Creation Time | Friday, November 10, 2023 17:22:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SSS |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 17:28:56 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511403080430977 |
-| Players | 10/15 |
-| Host Name | руинят мне |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 17:22:36 |
 
 
 |  | epic_boss_fight_nightmare |
