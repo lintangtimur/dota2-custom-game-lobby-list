@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402964091917 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Eblan |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 14:33:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403020194765 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | ??? |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 15:56:48 |
@@ -59,16 +59,61 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403019962607 |
-| Players | 11/15 |
-| Host Name | Daeion |
+| Players | 13/15 |
+| Host Name | (ง'̀-'́)ง   o-('́-'́d) |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 15:56:28 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511403020707585 |
+| Players | 1/24 |
+| Host Name | Calo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 15:57:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511403020775912 |
+| Players | 3/10 |
+| Host Name | FISHURIN |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 15:57:38 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511403020911160 |
+| Players | 1/10 |
+| Host Name | WestBang |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Friday, November 10, 2023 15:57:50 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511403020908898 |
+| Players | 1/24 |
+| Host Name | Lightroom Classic |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 15:57:50 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511403020939062 |
+| Players | 1/24 |
+| Host Name | W®13 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 15:57:52 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511403015824419 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Реальный арбуз |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 15:50:36 |
