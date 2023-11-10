@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402844006492 |
-| Players | 10/24 |
+| Players | 9/24 |
 | Host Name | Bonitos y gorditos hijos de puta |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 10:58:09 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | pan pan cul cul |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 11:02:45 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511402846371532 |
+| Players | 4/15 |
+| Host Name | Cooliophil |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 11:03:10 |
 
 
 |  | epic_boss_fight_nightmare |
