@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403064665099 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Syn.v2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 17:00:26 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403065355535 |
-| Players | 10/15 |
+| Players | 12/15 |
 | Host Name | samurai |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 17:01:29 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403065562065 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Midnight pulse is "not" lethal |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 17:01:48 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403065577461 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | ☦☦† |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 17:01:49 |
@@ -95,16 +95,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403065777290 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | drntmanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 17:02:07 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28511403065904510 |
+| Players | 1/24 |
+| Host Name | noobfromna |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 17:02:19 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511403065076390 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | シャドーダイブ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 17:01:04 |
