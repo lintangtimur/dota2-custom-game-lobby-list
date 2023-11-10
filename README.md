@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403055112061 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Chungha |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:46:37 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403047699938 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Qx |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 16:36:10 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403037503802 |
-| Players | 14/24 |
-| Host Name | I Don't Know You! |
+| Players | 9/24 |
+| Host Name | xxzd |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 16:21:40 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403054597100 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Анимешечка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 16:45:54 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 16:38:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403054608807 |
-| Players | 9/10 |
-| Host Name | Arthas Menethil |
-| Region | EUROPE |
-| Lobby Creation Time | Friday, November 10, 2023 16:45:55 |
+| Lobby ID | 28511403055111531 |
+| Players | 4/15 |
+| Host Name | clueless |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 16:46:37 |
 
 
 |  | ot3_necropolis_ffa |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 勝者の呪い |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 16:46:18 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511403055111531 |
-| Players | 3/15 |
-| Host Name | clueless |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 16:46:37 |
 
 
 |  | epic_boss_fight_nightmare |
