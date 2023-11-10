@@ -2,15 +2,6 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402882742957 |
-| Players | 9/10 |
-| Host Name | swap commend |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 12:12:22 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402880839664 |
@@ -18,6 +9,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Solo Leveling |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 12:08:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402884532529 |
+| Players | 2/8 |
+| Host Name | Feelingpeace’s |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 12:15:37 |
 
 
 |  | ot3_gardens_duo |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402883610159 |
-| Players | 5/15 |
-| Host Name | AMA TU PERU CTMRE |
+| Players | 2/15 |
+| Host Name | S.A.W |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 12:13:56 |
 
@@ -68,36 +68,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402882789231 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | Movistar Perú |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 12:12:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402884314588 |
-| Players | 1/8 |
-| Host Name | WAYNE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 12:15:13 |
+| Lobby ID | 28511402884455742 |
+| Players | 6/15 |
+| Host Name | Dota 2 Groomologist |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 12:15:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402884385616 |
-| Players | 4/8 |
-| Host Name | M142 HIMARS |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 12:15:21 |
+| Lobby ID | 28511402884518050 |
+| Players | 2/24 |
+| Host Name | Diamond Fish sauce |
+| Region | DUBAI |
+| Lobby Creation Time | Friday, November 10, 2023 12:15:36 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402883883238 |
-| Players | 1/10 |
-| Host Name | MonaLiar |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 12:14:26 |
+| Lobby ID | 28511402884672459 |
+| Players | 1/24 |
+| Host Name | 青虫叮咚 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 12:15:53 |
 
 
