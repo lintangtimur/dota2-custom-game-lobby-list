@@ -4,17 +4,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402962819929 |
-| Players | 2/10 |
-| Host Name | Guzlik |
-| Region | BRAZIL |
-| Lobby Creation Time | Friday, November 10, 2023 14:31:24 |
+| Lobby ID | 28511402963328625 |
+| Players | 1/10 |
+| Host Name | 金融界-自己 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 14:32:13 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402955353758 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Hands |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 14:19:33 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511402961610116 |
-| Players | 1/24 |
-| Host Name | kyt23 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 14:29:30 |
+| Lobby ID | 28511402961704438 |
+| Players | 3/24 |
+| Host Name | Fabian! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 14:29:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,13 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 14:32:06 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402961704438 |
-| Players | 2/24 |
-| Host Name | Fabian! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 14:29:38 |
+| Lobby ID | 28511402963391922 |
+| Players | 1/15 |
+| Host Name | PQFALT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 14:32:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511402963376482 |
+| Players | 1/15 |
+| Host Name | SHVEPS |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 10, 2023 14:32:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511402963390970 |
+| Players | 1/15 |
+| Host Name | zyablick96 |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 10, 2023 14:32:19 |
 
 
 |  | epic_boss_fight_nightmare |
