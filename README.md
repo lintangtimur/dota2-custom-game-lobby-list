@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 10:29:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402830019341 |
-| Players | 14/15 |
-| Host Name | Little BirD |
+| Lobby ID | 28511402831480466 |
+| Players | 7/10 |
+| Host Name | abelardo |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 10:28:50 |
+| Lobby Creation Time | Friday, November 10, 2023 10:31:55 |
 
 
 |  | ot3_gardens_duo |
@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 10:30:39 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511402831474567 |
-| Players | 3/8 |
-| Host Name | †BlayZERG† |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 10:31:54 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402831449558 |
@@ -92,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 10:31:51 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402831480466 |
-| Players | 1/10 |
-| Host Name | abelardo |
+| Lobby ID | 28511402831561416 |
+| Players | 1/15 |
+| Host Name | darkfross |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 10:31:55 |
+| Lobby Creation Time | Friday, November 10, 2023 10:32:05 |
 
 
 |  | epic_boss_fight_normal |
@@ -110,19 +101,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 09:49:45 |
 
 
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28511402829027060 |
-| Players | 1/7 |
-| Host Name | MY NAME IS JOHN WICK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 10:26:46 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402829670039 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 10:28:06 |
