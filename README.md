@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511402945966616 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | mercedes.com |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 14:04:42 |
@@ -56,13 +56,49 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 14:06:51 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511402947422768 |
-| Players | 1/24 |
-| Host Name | bLoOdyNapkiiin |
+| Lobby ID | 28511402947447921 |
+| Players | 1/15 |
+| Host Name | 2023 |
 | Region | BRAZIL |
-| Lobby Creation Time | Friday, November 10, 2023 14:07:01 |
+| Lobby Creation Time | Friday, November 10, 2023 14:07:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511402945908822 |
+| Players | 10/10 |
+| Host Name | zxcкомпот |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 14:04:36 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28511402947520820 |
+| Players | 6/15 |
+| Host Name | OverFlown |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 14:07:10 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511402947535939 |
+| Players | 2/10 |
+| Host Name | Arthas Menethil |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 14:07:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511402947555982 |
+| Players | 2/10 |
+| Host Name | Bebra❤ |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 14:07:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | cork & bowl torture |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 14:06:17 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28511402947553006 |
+| Players | 1/5 |
+| Host Name | Alf_ |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 14:07:13 |
 
 
