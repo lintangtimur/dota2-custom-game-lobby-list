@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402847336269 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | ' |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 11:05:10 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402845772963 |
-| Players | 16/24 |
+| Players | 20/24 |
 | Host Name | SQ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 11:01:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402846179252 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | pan pan cul cul |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 11:02:45 |
@@ -65,13 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 11:03:10 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402848082657 |
+| Players | 1/8 |
+| Host Name | Kurokawa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 11:06:42 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402844950307 |
-| Players | 7/10 |
-| Host Name | Julius Caesar |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 11:00:07 |
+| Lobby ID | 28511402848036564 |
+| Players | 2/10 |
+| Host Name | U |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 11:06:36 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402848186973 |
+| Players | 5/8 |
+| Host Name | Mr.WorldWide |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 11:06:55 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -86,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511402847704932 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 11:05:56 |
