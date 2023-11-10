@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403037503802 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Black Raven |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 16:21:40 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403039574941 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | I bought the bank |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 16:24:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403038586754 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Личность |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:23:13 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403039628818 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Mixnajaren |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 16:24:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403039395020 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | CANCELUL |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 16:24:22 |
@@ -117,6 +117,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ∝  → 3 Knives Knight | |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 16:10:29 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511403039980719 |
+| Players | 1/8 |
+| Host Name | Великий banditcamp.com |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 16:25:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511403040027156 |
+| Players | 1/8 |
+| Host Name | МОНАШКИ |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 16:25:16 |
 
 
 |  | epic_boss_fight_nightmare |
