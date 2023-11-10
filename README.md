@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403065777290 |
-| Players | 22/24 |
-| Host Name | drntmanh |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 17:02:07 |
+| Lobby ID | 28511403068991003 |
+| Players | 1/15 |
+| Host Name | Cool Llama |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 17:06:55 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403065562065 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | Midnight pulse is "not" lethal |
 | Region | EUROPE |
 | Lobby Creation Time | Friday, November 10, 2023 17:01:48 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403068636547 |
-| Players | 10/15 |
+| Players | 9/15 |
 | Host Name | , |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 17:06:24 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403067846873 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | 改名死妈妈 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 17:05:14 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403068393513 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | let's win |
 | Region | CHILE |
 | Lobby Creation Time | Friday, November 10, 2023 17:06:02 |
@@ -92,21 +92,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 17:06:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403068991003 |
-| Players | 1/15 |
-| Host Name | Cool Llama |
+| Lobby ID | 28511403069212297 |
+| Players | 6/8 |
+| Host Name | Сигма чучмек |
 | Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 17:06:55 |
+| Lobby Creation Time | Friday, November 10, 2023 17:07:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511403069244291 |
+| Players | 2/10 |
+| Host Name | bespomoshnoe 4mo |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 10, 2023 17:07:17 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28511403069157832 |
+| Lobby ID | 28511403069283781 |
 | Players | 1/10 |
-| Host Name | CokCokCokCokCok |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 17:07:10 |
+| Host Name | Iku |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 17:07:21 |
 
 
