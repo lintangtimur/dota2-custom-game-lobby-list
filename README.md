@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402810573181 |
-| Players | 1/15 |
-| Host Name | adslwzl |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Friday, November 10, 2023 09:48:05 |
+| Lobby ID | 28511402808441858 |
+| Players | 9/10 |
+| Host Name | zeta male |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 09:43:36 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402807142181 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | MiauW |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 09:40:50 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402808926738 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | SDVDS |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 09:44:38 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402808514436 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | , |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 09:43:46 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402809097360 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | »♥CARiNôSA_Y_ArDiEnTe♥« |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 09:44:59 |
@@ -74,19 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 09:44:47 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28511402808441858 |
-| Players | 9/10 |
-| Host Name | zeta male |
-| Region | USEAST |
-| Lobby Creation Time | Friday, November 10, 2023 09:43:36 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402808419632 |
-| Players | 8/15 |
+| Players | 6/15 |
 | Host Name | oWO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 09:43:33 |
