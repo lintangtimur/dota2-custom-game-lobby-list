@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402817502993 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | hot mom enjoyer |
 | Region | USWEST |
 | Lobby Creation Time | Friday, November 10, 2023 10:02:42 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402816788061 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | :-: |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 10:01:11 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511402817621118 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | tOp._. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 10:02:56 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511402817649663 |
+| Lobby ID | 28511402817848862 |
 | Players | 1/8 |
 | Host Name | ✪stingytown |
 | Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 10:03:00 |
+| Lobby Creation Time | Friday, November 10, 2023 10:03:25 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | STEPHOROI |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 09:49:45 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28511402817868283 |
+| Players | 1/10 |
+| Host Name | SuBTiLiZeR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 10:03:28 |
 
 
