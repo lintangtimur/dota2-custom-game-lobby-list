@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403129797381 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | GRINGo |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 10, 2023 18:18:45 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403129316788 |
-| Players | 3/10 |
+| Players | 8/10 |
 | Host Name | Убийца гулёнышей |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 18:18:16 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511403129154311 |
-| Players | 9/10 |
-| Host Name | Zabrrr |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 18:18:06 |
+| Lobby ID | 28511403129778339 |
+| Players | 1/24 |
+| Host Name | Sidhu Moosewala |
+| Region | CHILE |
+| Lobby Creation Time | Friday, November 10, 2023 18:18:44 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403126392487 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Review旧人 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 18:15:21 |
@@ -85,44 +85,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28511403129250523 |
-| Players | 1/8 |
-| Host Name | Maiz |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 18:18:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28511403129523853 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | SW_Ezhik |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 10, 2023 18:18:28 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511403129778339 |
-| Players | 1/24 |
-| Host Name | Sidhu Moosewala |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 18:18:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28511403129963234 |
-| Players | 3/8 |
-| Host Name | kiyotaka |
-| Region | CHILE |
-| Lobby Creation Time | Friday, November 10, 2023 18:18:55 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511403096083245 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | lThe Boys:Dl |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 17:42:04 |
