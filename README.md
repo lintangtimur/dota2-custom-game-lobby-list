@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403029715860 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | soda |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 16:10:29 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403045406474 |
-| Players | 8/10 |
-| Host Name | Doyki.Xddcc.fullpohuy |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 16:32:53 |
+| Lobby ID | 28511403046418544 |
+| Players | 7/15 |
+| Host Name | 123 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 16:34:20 |
 
 
 |  | ot3_desert_octet |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 16:33:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28511403045986985 |
-| Players | 7/8 |
-| Host Name | 嗯?这是何意啊 |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 16:33:43 |
+| Lobby ID | 28511403046382547 |
+| Players | 5/24 |
+| Host Name | POM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Friday, November 10, 2023 16:34:17 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403045514417 |
-| Players | 12/24 |
+| Players | 20/24 |
 | Host Name | drntmanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:33:02 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403037503802 |
-| Players | 15/24 |
+| Players | 10/24 |
 | Host Name | Almond Butter Honey |
 | Region | JAPAN |
 | Lobby Creation Time | Friday, November 10, 2023 16:21:40 |
@@ -101,48 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 16:34:14 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28511403046382547 |
-| Players | 5/24 |
-| Host Name | POM |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 16:34:17 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28511403046418544 |
-| Players | 3/15 |
-| Host Name | 123 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 16:34:20 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28511403045762114 |
-| Players | 8/10 |
-| Host Name | Chino Kafū |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 16:33:23 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28511403046363770 |
-| Players | 1/5 |
-| Host Name | roki |
-| Region | DUBAI |
-| Lobby Creation Time | Friday, November 10, 2023 16:34:15 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28511403046502884 |
-| Players | 1/5 |
-| Host Name | Pilar Shinobu |
+| Lobby ID | 28511403046732927 |
+| Players | 4/5 |
+| Host Name | скунс |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Friday, November 10, 2023 16:34:27 |
+| Lobby Creation Time | Friday, November 10, 2023 16:34:46 |
 
 
