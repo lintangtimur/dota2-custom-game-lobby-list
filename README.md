@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511402994599896 |
-| Players | 6/10 |
-| Host Name | Arthas Menethil |
-| Region | PERU |
-| Lobby Creation Time | Friday, November 10, 2023 15:20:30 |
+| Lobby ID | 28511403007120357 |
+| Players | 2/10 |
+| Host Name | Shout It Out To The Sky |
+| Region | BRAZIL |
+| Lobby Creation Time | Friday, November 10, 2023 15:38:26 |
 
 
 |  | ot3_desert_octet |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 15:23:07 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511403005452622 |
-| Players | 22/24 |
-| Host Name | Asam Garam |
-| Region | SINGAPORE |
-| Lobby Creation Time | Friday, November 10, 2023 15:36:06 |
+| Lobby ID | 28511403007269346 |
+| Players | 6/10 |
+| Host Name | Arthas Menethil |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 15:38:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | wisdom of literature |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 15:37:51 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511403007416178 |
+| Players | 3/8 |
+| Host Name | ̷Z̷̷o̷̷v̷ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Friday, November 10, 2023 15:38:50 |
 
 
 |  | epic_boss_fight_nightmare |
