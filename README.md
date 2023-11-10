@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403093278554 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | part time gamer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 17:38:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403092131862 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Fireflies |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Friday, November 10, 2023 17:37:22 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28511403093989532 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Jabroni |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 10, 2023 17:39:35 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Friday, November 10, 2023 17:36:32 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28511403095142504 |
-| Players | 1/10 |
-| Host Name | Klettverschluss |
+| Lobby ID | 28511403095175343 |
+| Players | 4/15 |
+| Host Name | Sapa Inca |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 10, 2023 17:40:57 |
+| Lobby Creation Time | Friday, November 10, 2023 17:41:00 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403095031608 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 17:40:49 |
@@ -86,19 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403095060331 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | GOLUBOGLAZIY ARIEC |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 17:40:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28511403095175343 |
-| Players | 2/15 |
-| Host Name | Sapa Inca |
+| Lobby ID | 28511403095291951 |
+| Players | 6/10 |
+| Host Name | Klettverschluss |
 | Region | EUROPE |
-| Lobby Creation Time | Friday, November 10, 2023 17:41:00 |
+| Lobby Creation Time | Friday, November 10, 2023 17:41:08 |
 
 
 |  | epic_boss_fight_challenger |
