@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402823627167 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Mun |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 10:15:28 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511402821775081 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | WK |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 10:11:40 |
@@ -86,10 +86,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511402825328032 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | MODO PICANTE |
 | Region | PERU |
 | Lobby Creation Time | Friday, November 10, 2023 10:19:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28511402825368695 |
+| Players | 8/10 |
+| Host Name | Grimcharm |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 10:19:06 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402825407546 |
+| Players | 1/8 |
+| Host Name | destrosapepos |
+| Region | PERU |
+| Lobby Creation Time | Friday, November 10, 2023 10:19:11 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28511402821260045 |
+| Players | 7/8 |
+| Host Name | ScorpioN |
+| Region | USEAST |
+| Lobby Creation Time | Friday, November 10, 2023 10:10:36 |
 
 
 |  | epic_boss_fight_normal |
