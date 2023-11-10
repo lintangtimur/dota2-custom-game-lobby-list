@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403034463716 |
-| Players | 5/8 |
+| Players | 3/8 |
 | Host Name | Sky |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 16:17:18 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28511403029715860 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ∝  → 3 Knives Knight | |
 | Region | USEAST |
 | Lobby Creation Time | Friday, November 10, 2023 16:10:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28511403035591288 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | Леха Секс |
 | Region | BRAZIL |
 | Lobby Creation Time | Friday, November 10, 2023 16:18:54 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28511403035666969 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Chungha |
 | Region | SINGAPORE |
 | Lobby Creation Time | Friday, November 10, 2023 16:19:01 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28511403033854299 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Реальный арбуз |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Friday, November 10, 2023 16:16:25 |
