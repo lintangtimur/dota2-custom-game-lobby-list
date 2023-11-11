@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515603594571971 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Leyo |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 12, 2023 06:57:52 |
@@ -58,17 +58,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515603592983012 |
-| Players | 9/10 |
-| Host Name | Смотрите кирпич |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 12, 2023 06:54:57 |
+| Lobby ID | 28515603594659382 |
+| Players | 6/10 |
+| Host Name | madman in depressed |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 06:58:02 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515603591707307 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | 76561198341866785 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 12, 2023 06:52:38 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515603594591556 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | ViCiSLAV |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 06:57:55 |
@@ -94,35 +94,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515603594631578 |
-| Players | 1/15 |
-| Host Name | Nevinoves |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 12, 2023 06:57:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515603594659382 |
-| Players | 2/10 |
-| Host Name | madman in depressed |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 06:58:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515603594714510 |
-| Players | 1/15 |
-| Host Name | я миленький котен |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 12, 2023 06:58:08 |
+| Lobby ID | 28515603594808854 |
+| Players | 5/15 |
+| Host Name | we lost :( |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 12, 2023 06:58:18 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515603592534073 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Soda popinski |
 | Region | BRAZIL |
 | Lobby Creation Time | Sunday, November 12, 2023 06:54:08 |
