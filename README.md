@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604995871435 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | Allen |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 03:57:29 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604994989060 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | TikTok |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 03:56:17 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515604996706371 |
-| Players | 10/15 |
-| Host Name | Ленивый папа |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 03:58:37 |
+| Lobby ID | 28515604993407398 |
+| Players | 1/15 |
+| Host Name | Nebuchadnezzar |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 03:54:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 03:53:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515604989411046 |
-| Players | 2/10 |
-| Host Name | Жаби Жаби |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 03:48:46 |
+| Lobby ID | 28515604997049656 |
+| Players | 1/8 |
+| Host Name | DEREVO |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 13, 2023 03:59:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 03:58:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515604993912513 |
-| Players | 13/15 |
-| Host Name | Little BirD |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 03:54:49 |
+| Lobby ID | 28515604987489441 |
+| Players | 20/24 |
+| Host Name | K. MBAPPÉ |
+| Region | Unknown |
+| Lobby Creation Time | Monday, November 13, 2023 03:46:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604991177234 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | :D |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 03:51:08 |
@@ -121,55 +121,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515604993407398 |
-| Players | 1/15 |
-| Host Name | Nebuchadnezzar |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 03:54:08 |
+| Lobby ID | 28515604996985150 |
+| Players | 10/15 |
+| Host Name | ЗАЛИК |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 13, 2023 03:59:00 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515604996817668 |
+| Lobby ID | 28515604997076027 |
 | Players | 1/8 |
-| Host Name | donbadjaglo |
+| Host Name | Askael |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 03:58:46 |
+| Lobby Creation Time | Monday, November 13, 2023 03:59:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28515604996052975 |
-| Players | 7/8 |
-| Host Name | buranya? |
+| Lobby ID | 28515604997056048 |
+| Players | 1/10 |
+| Host Name | 303 |
 | Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 13, 2023 03:57:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515604995804340 |
-| Players | 9/10 |
-| Host Name | За Моноліт |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 03:57:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515604996889204 |
-| Players | 4/8 |
-| Host Name | [LX]Deluxe |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 13, 2023 03:58:52 |
-
-
-|  | epic_boss_fight_hard |
-| ------ | ------ |
-| Lobby ID | 28515604996433383 |
-| Players | 1/7 |
-| Host Name | Go |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 13, 2023 03:58:15 |
+| Lobby Creation Time | Monday, November 13, 2023 03:59:06 |
 
 
