@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604845283702 |
-| Players | 6/24 |
+| Players | 7/24 |
 | Host Name | Spaceman |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 01:12:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515604863426098 |
-| Players | 1/10 |
-| Host Name | Курама |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 13, 2023 01:29:27 |
+| Lobby ID | 28515604864362715 |
+| Players | 1/8 |
+| Host Name | ToughSpirit |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 13, 2023 01:30:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604863664781 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | ofc-i-pro |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 13, 2023 01:29:41 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604859555724 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | Admiral Awesome |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 13, 2023 01:25:50 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604863987331 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Lonely Nomad |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, November 13, 2023 01:29:59 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604862560795 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | 𓆰𓆪 Othar 𓆰𓆪 |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 01:28:38 |
@@ -121,11 +121,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515604864184396 |
-| Players | 3/8 |
-| Host Name | ХЛЕБУШЕК |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 01:30:10 |
+| Lobby ID | 28515604864328255 |
+| Players | 4/8 |
+| Host Name | отбитый |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 13, 2023 01:30:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515604864376863 |
+| Players | 4/10 |
+| Host Name | .. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 01:30:21 |
 
 
 |  | epic_boss_fight_nightmare |
