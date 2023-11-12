@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604486259087 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Смотрите кирпич |
 | Region | AUSTRIA |
 | Lobby Creation Time | Sunday, November 12, 2023 21:05:08 |
@@ -20,38 +20,38 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 12, 2023 20:44:02 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515604487462319 |
-| Players | 1/10 |
-| Host Name | Мамут Рахал |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 21:05:48 |
+| Lobby ID | 28515604485876080 |
+| Players | 2/24 |
+| Host Name | Meh |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 12, 2023 21:04:55 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604484946356 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | _BlackPrince_ |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 12, 2023 21:04:23 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515604484487883 |
-| Players | 1/24 |
-| Host Name | skuukzky |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, November 12, 2023 21:04:08 |
+| Lobby ID | 28515604486166491 |
+| Players | 5/8 |
+| Host Name | Ништяк Шкатулочка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 21:05:05 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604478040641 |
 | Players | 3/15 |
-| Host Name | legenda-97 |
+| Host Name | Дайте 20 мин кача |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 21:00:27 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604481551641 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Genie |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, November 12, 2023 21:02:28 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515604483885206 |
-| Players | 10/15 |
-| Host Name | zzz |
-| Region | AUSTRIA |
-| Lobby Creation Time | Sunday, November 12, 2023 21:03:47 |
+| Lobby ID | 28515604485743481 |
+| Players | 2/15 |
+| Host Name | pog |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 21:04:50 |
 
 
 |  | ot3_desert_octet |
@@ -90,33 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | PIPIPI |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 12, 2023 21:05:20 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515604485743481 |
-| Players | 1/15 |
-| Host Name | pog |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 21:04:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515604486166491 |
-| Players | 5/8 |
-| Host Name | Ништяк Шкатулочка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 21:05:05 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515604485876080 |
-| Players | 2/24 |
-| Host Name | Meh |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 12, 2023 21:04:55 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -140,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515604468941534 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Fihed |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 12, 2023 20:55:22 |
@@ -162,5 +135,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | KAMUI RAIKI |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 12, 2023 21:04:58 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515604428469516 |
+| Players | 4/10 |
+| Host Name | Raiden Ei |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 12, 2023 20:32:37 |
 
 
