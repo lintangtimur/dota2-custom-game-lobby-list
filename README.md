@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604900310733 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | PlusYz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 02:05:36 |
@@ -83,22 +83,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 02:07:24 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515604904801397 |
+| Players | 10/15 |
+| Host Name | hurtteen xiiieen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 02:10:09 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515604904484634 |
-| Players | 4/8 |
-| Host Name | похуист |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 02:09:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515604904551349 |
-| Players | 8/10 |
-| Host Name | 湊黃色閃電木葉 |
+| Lobby ID | 28515604904872252 |
+| Players | 6/8 |
+| Host Name | джамбо |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 02:09:54 |
+| Lobby Creation Time | Monday, November 13, 2023 02:10:13 |
 
 
 |  | ot3_gardens_duo |
@@ -137,24 +137,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 02:09:03 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515604904750995 |
-| Players | 1/15 |
-| Host Name | In L♥ve With a Fat Pikachu =3 |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 02:10:06 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515604900610870 |
-| Players | 23/24 |
-| Host Name | TiltedGuy |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 02:05:54 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28515604900917638 |
@@ -191,21 +173,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 02:09:15 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28515604904627681 |
-| Players | 1/5 |
-| Host Name | Оля Лукина |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 13, 2023 02:09:58 |
+| Lobby ID | 28515604904879752 |
+| Players | 1/10 |
+| Host Name | iDestik |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 02:10:14 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28515604904683623 |
-| Players | 1/5 |
-| Host Name | moroskin321 |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 13, 2023 02:10:02 |
+| Lobby ID | 28515604904924707 |
+| Players | 4/5 |
+| Host Name | Водяной ЗИГАМЁТ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 02:10:17 |
 
 
