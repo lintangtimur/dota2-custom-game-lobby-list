@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604689867479 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | yatoro mecha, tú eres k1 vs GG |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 12, 2023 23:09:34 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604687036569 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | [RV] ¨¨¨¨¨¨¨¨¨¨¨¨¨ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 12, 2023 23:07:34 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604681002612 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | BigKing Assault Mode |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 12, 2023 23:03:25 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604684322883 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | Hanni |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 12, 2023 23:05:41 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604687117010 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Тапок |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 23:07:38 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604687595349 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | bunda lengerz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 23:07:58 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604682325764 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | zomorod |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 23:04:20 |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604690475491 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Твоя сестра |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 23:10:00 |
@@ -167,10 +167,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604689867390 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | money dealer |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 23:09:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515604690750873 |
+| Players | 10/15 |
+| Host Name | Игрушка отчима |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 23:10:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604690785646 |
+| Players | 1/8 |
+| Host Name | west |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 23:10:13 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515604690857999 |
+| Players | 3/24 |
+| Host Name | кислосладкий |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 23:10:16 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604690907230 |
+| Players | 2/8 |
+| Host Name | Atom |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 23:10:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515604690932962 |
+| Players | 6/10 |
+| Host Name | Dwight Whamos |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 12, 2023 23:10:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -194,7 +239,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515604680599928 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Inarste |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 23:03:08 |
