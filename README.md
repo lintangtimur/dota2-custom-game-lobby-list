@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515604540573115 |
-| Players | 14/15 |
-| Host Name | Sant1s |
+| Lobby ID | 28515604542258389 |
+| Players | 2/10 |
+| Host Name | эминем |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, November 12, 2023 21:36:01 |
+| Lobby Creation Time | Sunday, November 12, 2023 21:36:59 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604511389283 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | hnlhjl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 21:19:22 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604538717046 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Collapse |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 21:34:57 |
@@ -146,12 +146,48 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 12, 2023 21:36:58 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604542470569 |
+| Players | 2/8 |
+| Host Name | TyR6o.4lenosos. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 21:37:06 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515604475620063 |
+| Players | 6/24 |
+| Host Name | Black Lodge |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 12, 2023 20:59:05 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28515604542214409 |
-| Players | 1/10 |
-| Host Name | Chouchou |
+| Lobby ID | 28515604542394924 |
+| Players | 2/10 |
+| Host Name | TOROTOT |
 | Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 12, 2023 21:36:57 |
+| Lobby Creation Time | Sunday, November 12, 2023 21:37:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28515604542452815 |
+| Players | 1/5 |
+| Host Name | Мишка Коала |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 12, 2023 21:37:06 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515604468941534 |
+| Players | 2/10 |
+| Host Name | WifeBeater2001 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 12, 2023 20:55:22 |
 
 
