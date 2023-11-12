@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605007815973 |
-| Players | 2/15 |
+| Players | 10/15 |
 | Host Name | Edward |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 04:13:57 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605003657930 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | #si jago BVO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 04:08:09 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604987489441 |
-| Players | 1/24 |
+| Players | 6/24 |
 | Host Name | MinD |
 | Region | Unknown |
 | Lobby Creation Time | Monday, November 13, 2023 03:46:15 |
@@ -76,17 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605008591968 |
+| Lobby ID | 28515605008681341 |
 | Players | 3/10 |
 | Host Name | Jane.A7x |
 | Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 04:15:03 |
+| Lobby Creation Time | Monday, November 13, 2023 04:15:10 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605008607606 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | animepic |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 04:15:04 |
@@ -103,11 +103,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605008619531 |
+| Lobby ID | 28515605008725122 |
 | Players | 1/10 |
 | Host Name | ParadoX |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 04:15:05 |
+| Lobby Creation Time | Monday, November 13, 2023 04:15:14 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605008725801 |
+| Players | 3/10 |
+| Host Name | Ацкий Сотона |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 04:15:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605008761219 |
+| Players | 1/8 |
+| Host Name | Shogun Raiden |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 04:15:17 |
 
 
 |  | epic_boss_fight_nightmare |
