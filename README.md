@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604911943843 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | JoJogan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 02:17:34 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 02:15:00 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515604901144385 |
-| Players | 23/24 |
-| Host Name | Máster-Ciencia del dota 2 |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 02:06:26 |
+| Lobby ID | 28515604912495054 |
+| Players | 2/15 |
+| Host Name | DDBY |
+| Region | USWEST |
+| Lobby Creation Time | Monday, November 13, 2023 02:18:09 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604910843917 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Funq |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 02:16:24 |
@@ -122,10 +122,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604911580042 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | mentality. |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 13, 2023 02:17:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515604912376708 |
+| Players | 1/10 |
+| Host Name | Xanax |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 02:18:01 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515604907597152 |
+| Players | 10/15 |
+| Host Name | sapontai |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 02:13:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604912533939 |
+| Players | 5/8 |
+| Host Name | メフェドロン |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 13, 2023 02:18:11 |
 
 
 |  | epic_boss_fight_nightmare |
