@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604508493854 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Spectr |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 21:17:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604495523378 |
-| Players | 12/15 |
+| Players | 14/15 |
 | Host Name | klim948 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 21:10:23 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604508956097 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | crossc |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 12, 2023 21:18:00 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604503735324 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | Lﻉ♥n |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 12, 2023 21:15:02 |
@@ -128,19 +128,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 12, 2023 21:17:58 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515604508903639 |
-| Players | 2/8 |
-| Host Name | 1000+8 zasolka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 21:17:58 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604509106588 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Melancholy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 21:18:05 |
@@ -158,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28515604508294450 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | Bebron Bames |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 12, 2023 21:17:37 |
