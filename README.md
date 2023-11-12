@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604852304673 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Lina Rhoades |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 01:19:08 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604849431265 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | pienso luego tiro six :C |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 01:16:31 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604853222373 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | DEM20111102 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 01:19:59 |
@@ -122,19 +122,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604853268554 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | NURAYA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 01:20:01 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604853571849 |
+| Players | 5/8 |
+| Host Name | ネクロフォス |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 01:20:18 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515604853286184 |
-| Players | 8/15 |
-| Host Name | Gon#ЧБТНМ |
+| Lobby ID | 28515604812018823 |
+| Players | 2/15 |
+| Host Name | Цой Жив |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 00:43:45 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515604849718811 |
+| Players | 4/10 |
+| Host Name | Валера Вежливый |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 13, 2023 01:16:47 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515604848178407 |
+| Players | 6/15 |
+| Host Name | мистер секси |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 01:20:02 |
+| Lobby Creation Time | Monday, November 13, 2023 01:15:23 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515604853564228 |
+| Players | 1/10 |
+| Host Name | Locins |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 01:20:17 |
 
 
 |  | epic_boss_fight_normal |
