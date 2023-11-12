@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 01:02:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515604834970633 |
-| Players | 4/8 |
-| Host Name | talentless creature |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 01:03:43 |
+| Lobby ID | 28515604835422994 |
+| Players | 1/15 |
+| Host Name | ツ✔MaJloY™ ♫ |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 13, 2023 01:04:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604831731117 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Taison V. Akhal |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 01:00:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604813257990 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Pero eres o no eres? |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 13, 2023 00:44:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604833022029 |
-| Players | 16/24 |
+| Players | 15/24 |
 | Host Name | バットマン |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 01:02:00 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604819239151 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Mevengo |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 13, 2023 00:49:58 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515604835197585 |
-| Players | 5/8 |
-| Host Name | БОГДАН ОГОЛЬ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 01:03:55 |
+| Lobby ID | 28515604835186649 |
+| Players | 5/10 |
+| Host Name | i fear nothing~ |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 13, 2023 01:03:54 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604833847462 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | EzaeZ1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 01:02:44 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604834815232 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | Chamoy |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 01:03:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515604835359439 |
-| Players | 3/8 |
-| Host Name | максимка про |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 13, 2023 01:04:03 |
+| Lobby ID | 28515604835159740 |
+| Players | 1/10 |
+| Host Name | S1KO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 01:03:53 |
 
 
 |  | ot3_necropolis_ffa |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604835222468 |
-| Players | 2/15 |
+| Players | 8/15 |
 | Host Name | wunnybunny |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 13, 2023 01:03:56 |
@@ -146,31 +146,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 00:58:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515604835159740 |
-| Players | 1/10 |
-| Host Name | S1KO |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 01:03:53 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515604835186649 |
-| Players | 4/10 |
-| Host Name | i fear nothing~ |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 13, 2023 01:03:54 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515604833238341 |
-| Players | 8/10 |
-| Host Name | ZEFIR |
+| Lobby ID | 28515604835042501 |
+| Players | 14/15 |
+| Host Name | Horny Chuchu |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, November 13, 2023 01:02:11 |
+| Lobby Creation Time | Monday, November 13, 2023 01:03:47 |
 
 
 |  | epic_boss_fight_normal |
