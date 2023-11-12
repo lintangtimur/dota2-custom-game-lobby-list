@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604744508711 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Stepdad with boundary issues |
 | Region | USWEST |
 | Lobby Creation Time | Sunday, November 12, 2023 23:49:47 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 12, 2023 21:36:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515604776559968 |
-| Players | 5/8 |
-| Host Name | DEPILATEE Y EMPAPATEE |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 00:15:00 |
+| Lobby ID | 28515604762285899 |
+| Players | 7/10 |
+| Host Name | ;P |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 00:03:49 |
 
 
 |  | ot3_desert_octet |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 00:15:56 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515604777619920 |
-| Players | 14/15 |
-| Host Name | Wake up to reality |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 00:15:51 |
+| Lobby ID | 28515604777188914 |
+| Players | 1/8 |
+| Host Name | Jhon Rhobert D. Makakain |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 00:15:30 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604777677912 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Samael |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 00:15:53 |
@@ -112,17 +112,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515604776252214 |
-| Players | 7/10 |
-| Host Name | антиклоун |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 00:14:46 |
+| Lobby ID | 28515604778011378 |
+| Players | 2/10 |
+| Host Name | my friend is a moviestar |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, November 13, 2023 00:16:09 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604770702698 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Harry Styles |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 13, 2023 00:10:24 |
@@ -149,37 +149,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604746257047 |
-| Players | 1/15 |
+| Players | 9/15 |
 | Host Name | Endless Summer Vacation |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 12, 2023 23:51:10 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515604777188914 |
-| Players | 1/8 |
-| Host Name | Jhon Rhobert D. Makakain |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 00:15:30 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515604762285899 |
-| Players | 1/10 |
-| Host Name | ;P |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 00:03:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515604777881862 |
-| Players | 3/8 |
-| Host Name | MrOtec |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 00:16:03 |
+| Lobby ID | 28515604772005458 |
+| Players | 2/10 |
+| Host Name | bez negativa |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 00:11:25 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -194,18 +176,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515604776168575 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | TiZet |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 00:14:42 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28515604777909657 |
-| Players | 1/5 |
-| Host Name | Помела Андерсон |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 00:16:04 |
 
 
