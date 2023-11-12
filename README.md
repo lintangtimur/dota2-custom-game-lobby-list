@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604658204781 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | Ary |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 12, 2023 22:47:50 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604674528632 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | AKKAR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 22:58:55 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604668233216 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Arthes_Ð |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 12, 2023 22:54:34 |
@@ -113,8 +113,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604674236969 |
-| Players | 3/8 |
-| Host Name | Калдун |
+| Players | 4/8 |
+| Host Name | мухамед али |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 12, 2023 22:58:43 |
 
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604673406836 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Space |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 22:58:08 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604670584609 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | . |
 | Region | CHILE |
 | Lobby Creation Time | Sunday, November 12, 2023 22:56:11 |
@@ -180,15 +180,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 派大星最好的homie |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 12, 2023 22:59:03 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28515604673790478 |
-| Players | 1/5 |
-| Host Name | kandidat ada |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 12, 2023 22:58:24 |
 
 
 |  | epic_boss_fight_nightmare |
