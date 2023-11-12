@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515603597908624 |
-| Players | 17/24 |
+| Players | 21/24 |
 | Host Name | MODO ELDEN LORD |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 12, 2023 07:04:14 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515603596920064 |
-| Players | 17/24 |
+| Players | 16/24 |
 | Host Name | NothingFeelsRight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 12, 2023 07:02:21 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 12, 2023 07:05:43 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515603598576677 |
-| Players | 7/10 |
-| Host Name | zxcgnida |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 07:05:32 |
+| Lobby ID | 28515603598828513 |
+| Players | 1/8 |
+| Host Name | poco |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 12, 2023 07:06:01 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515603598583374 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Obk^ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 12, 2023 07:05:33 |
@@ -112,11 +112,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515603598828513 |
+| Lobby ID | 28515603598875379 |
 | Players | 1/8 |
-| Host Name | poco |
+| Host Name | Consigliere |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 12, 2023 07:06:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515603598879915 |
+| Players | 1/15 |
+| Host Name | Дайте выйграть пж |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 12, 2023 07:06:06 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515603598921903 |
+| Players | 1/15 |
+| Host Name | Oleg Lymar |
 | Region | JAPAN |
-| Lobby Creation Time | Sunday, November 12, 2023 07:06:01 |
+| Lobby Creation Time | Sunday, November 12, 2023 07:06:11 |
 
 
 |  | epic_boss_fight_nightmare |
