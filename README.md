@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604863664781 |
-| Players | 1/15 |
+| Players | 7/15 |
 | Host Name | ofc-i-pro |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 13, 2023 01:29:41 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604861549545 |
-| Players | 14/15 |
+| Players | 13/15 |
 | Host Name | Blu's low tales |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 01:27:41 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604859555724 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | Admiral Awesome |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 13, 2023 01:25:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515604863412067 |
-| Players | 13/15 |
-| Host Name | GLADISLAVE |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 01:29:26 |
+| Lobby ID | 28515604863987331 |
+| Players | 2/10 |
+| Host Name | Lonely Nomad |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 13, 2023 01:29:59 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,13 +101,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 01:28:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515604862868992 |
-| Players | 3/15 |
-| Host Name | Otaku.Cursed |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 01:28:56 |
+| Lobby ID | 28515604864046357 |
+| Players | 2/10 |
+| Host Name | WinneR?_ConteR_ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 01:30:02 |
 
 
 |  | ot3_desert_octet |
@@ -119,37 +119,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 01:29:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515604863974876 |
-| Players | 1/10 |
-| Host Name | NaturalCauzes |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 13, 2023 01:29:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515604863987331 |
-| Players | 1/10 |
-| Host Name | Lonely Nomad |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 13, 2023 01:29:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515604863991966 |
-| Players | 2/10 |
-| Host Name | Quarteychik |
+| Lobby ID | 28515604864184396 |
+| Players | 3/8 |
+| Host Name | ХЛЕБУШЕК |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 01:29:59 |
+| Lobby Creation Time | Monday, November 13, 2023 01:30:10 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515604863566942 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | CLLOSEHEIMER |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 01:29:35 |
@@ -158,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28515604862879078 |
-| Players | 3/5 |
+| Players | 1/5 |
 | Host Name | pwnyouevryday |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 01:28:56 |
@@ -171,5 +153,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | [ちは一族] Uchiha obito |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 13, 2023 01:29:07 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515604822646675 |
+| Players | 3/10 |
+| Host Name | alleks |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 00:52:55 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515604864139408 |
+| Players | 1/10 |
+| Host Name | sacmadic |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 13, 2023 01:30:07 |
 
 
