@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604357281609 |
-| Players | 3/15 |
+| Players | 10/15 |
 | Host Name | 大丈夫でし君 弱いもん |
 | Region | AUSTRIA |
 | Lobby Creation Time | Sunday, November 12, 2023 19:51:43 |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515604355056086 |
-| Players | 7/8 |
-| Host Name | Биллик |
+| Lobby ID | 28515604357651430 |
+| Players | 3/8 |
+| Host Name | #idinaxyi MaLo9_ToP |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 19:50:25 |
+| Lobby Creation Time | Sunday, November 12, 2023 19:51:56 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604343090846 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | ✪  =D |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 12, 2023 19:43:21 |
@@ -104,8 +104,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604355450325 |
-| Players | 8/10 |
-| Host Name | El tío BH |
+| Players | 6/10 |
+| Host Name | POS 1 OR AFK |
 | Region | INDIA |
 | Lobby Creation Time | Sunday, November 12, 2023 19:50:39 |
 
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604349779917 |
-| Players | 9/10 |
+| Players | 6/10 |
 | Host Name | Belzaro |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 12, 2023 19:47:17 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515604357210748 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | 󠀡󠀡G.O.D |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Sunday, November 12, 2023 19:51:41 |
@@ -171,5 +171,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Sam Likes Stuff |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 12, 2023 19:31:20 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28515604357904306 |
+| Players | 1/5 |
+| Host Name | Astralblade |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 19:52:05 |
 
 
