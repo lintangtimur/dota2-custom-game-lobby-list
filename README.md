@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604437206099 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | только мне можно руинить |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 20:37:33 |
@@ -38,28 +38,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 12, 2023 20:28:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515604436445877 |
-| Players | 1/10 |
-| Host Name | gRaFFuTy |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 20:37:08 |
+| Lobby ID | 28515604437938842 |
+| Players | 4/8 |
+| Host Name | Butterfly |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 12, 2023 20:37:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515604437825485 |
-| Players | 1/10 |
-| Host Name | Кости да кости |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 20:37:55 |
+| Lobby ID | 28515604437953151 |
+| Players | 3/24 |
+| Host Name | Eyshii |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 12, 2023 20:37:59 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604420906059 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | SabrosonxD322 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 12, 2023 20:28:21 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604435472098 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | sAnkøtteryŁeet |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 20:36:35 |
@@ -113,10 +113,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604437693256 |
-| Players | 3/15 |
+| Players | 9/15 |
 | Host Name | `9 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 20:37:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604437931354 |
+| Players | 1/8 |
+| Host Name | Free Israel from earth |
+| Region | AUSTRIA |
+| Lobby Creation Time | Sunday, November 12, 2023 20:37:58 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515604437931534 |
+| Players | 3/10 |
+| Host Name | АХАХАХАХА |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 20:37:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604438131310 |
+| Players | 3/8 |
+| Host Name | 76561198331962097 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 20:38:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604430179372 |
+| Players | 4/8 |
+| Host Name | Чурка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 20:33:35 |
 
 
 |  | epic_boss_fight_challenger |
