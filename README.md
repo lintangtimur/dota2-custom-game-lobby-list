@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 01:12:49 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515604880689169 |
-| Players | 14/15 |
-| Host Name | Fantom |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 01:46:00 |
+| Lobby ID | 28515604908489318 |
+| Players | 5/10 |
+| Host Name | WinneR?_ConteR_ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 02:13:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 01:58:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515604908472939 |
-| Players | 5/10 |
-| Host Name | e4raY |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 02:13:56 |
+| Lobby ID | 28515604907597152 |
+| Players | 8/15 |
+| Host Name | DDBY |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 02:13:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604905759746 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Rem is life<3 |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 02:11:08 |
@@ -130,11 +130,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515604908464916 |
+| Lobby ID | 28515604908718942 |
 | Players | 2/15 |
-| Host Name | бурбурбур |
+| Host Name | пупсик147 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 02:13:55 |
+| Lobby Creation Time | Monday, November 13, 2023 02:14:12 |
 
 
 |  | ot3_gardens_duo |
@@ -175,11 +175,65 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515604908489318 |
-| Players | 3/10 |
-| Host Name | WinneR?_ConteR_ |
+| Lobby ID | 28515604908682192 |
+| Players | 2/10 |
+| Host Name | when I'm afraid, I lose my mind |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 02:14:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604907257143 |
+| Players | 1/8 |
+| Host Name | suddenly felt sad |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 13, 2023 02:12:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604908675291 |
+| Players | 1/8 |
+| Host Name | admi№ DOTA CHESS SUCK MY BALLS |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 02:13:57 |
+| Lobby Creation Time | Monday, November 13, 2023 02:14:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604908669307 |
+| Players | 1/8 |
+| Host Name | москвачкала |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 02:14:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515604908754702 |
+| Players | 1/15 |
+| Host Name | ELR |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 02:14:14 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515604908750193 |
+| Players | 1/15 |
+| Host Name | Velen |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 02:14:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515604908753223 |
+| Players | 1/15 |
+| Host Name | бурбурбур |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 02:14:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -216,5 +270,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Cael |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 02:11:39 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28515604908675050 |
+| Players | 1/5 |
+| Host Name | 梅科_K2_Wang  Ame |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 02:14:09 |
 
 
