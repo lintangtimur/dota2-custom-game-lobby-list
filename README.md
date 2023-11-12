@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604991154989 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | ravenpoe |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 13, 2023 03:51:06 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604995438987 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Зло |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 13, 2023 03:56:53 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604994989060 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | TikTok |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 03:56:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604995415217 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | Котята? Пробовал. |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 03:56:51 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604992988564 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | [BOT] WALKER |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 03:53:34 |
@@ -126,5 +126,41 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Nebuchadnezzar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 03:54:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515604995709681 |
+| Players | 2/10 |
+| Host Name | Abez |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 13, 2023 03:57:15 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515604990365891 |
+| Players | 23/24 |
+| Host Name | PakiMunda- せん ぱい |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 03:50:03 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515604995774623 |
+| Players | 2/10 |
+| Host Name | sp33dy el' m00d1nY |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 03:57:21 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515604995753897 |
+| Players | 2/10 |
+| Host Name | 4ervyak |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 13, 2023 03:57:19 |
 
 
