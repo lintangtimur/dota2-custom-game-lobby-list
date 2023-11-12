@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604465482980 |
-| Players | 2/15 |
-| Host Name | Just_Kidding |
+| Players | 1/15 |
+| Host Name | я тебя бум бум бум |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 20:53:26 |
 
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604418947725 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | 76561198056223203 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 20:27:14 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604475620063 |
-| Players | 5/24 |
+| Players | 12/24 |
 | Host Name | Black Lodge |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 12, 2023 20:59:05 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604507873445 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | CheatT |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 12, 2023 21:17:22 |
@@ -83,20 +83,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 12, 2023 21:13:59 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515604506091069 |
-| Players | 13/15 |
-| Host Name | Shan'do |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 21:16:22 |
+| Lobby ID | 28515604514024820 |
+| Players | 1/24 |
+| Host Name | Invisible Man |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 12, 2023 21:20:53 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604512988534 |
-| Players | 6/8 |
-| Host Name | Весёлый фидер |
+| Players | 4/8 |
+| Host Name | k__j |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 12, 2023 21:20:17 |
 
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604513180961 |
-| Players | 2/10 |
+| Players | 9/10 |
 | Host Name | 123 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 21:20:24 |
@@ -128,40 +128,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 12, 2023 21:20:51 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515604514024820 |
-| Players | 1/24 |
-| Host Name | Invisible Man |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 12, 2023 21:20:53 |
+| Lobby ID | 28515604514586229 |
+| Players | 1/8 |
+| Host Name | Krosher |
+| Region | AUSTRIA |
+| Lobby Creation Time | Sunday, November 12, 2023 21:21:12 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28515604511392751 |
-| Players | 9/10 |
-| Host Name | BIG POPPA |
+| Lobby ID | 28515604514274454 |
+| Players | 2/5 |
+| Host Name | Lilkq |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 21:19:23 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515604512958998 |
-| Players | 8/10 |
-| Host Name | Regimajesty |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 12, 2023 21:20:16 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515604513085530 |
-| Players | 1/10 |
-| Host Name | Da Wae |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 12, 2023 21:20:21 |
+| Lobby Creation Time | Sunday, November 12, 2023 21:21:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -173,12 +155,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 12, 2023 21:20:26 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28515604514274454 |
-| Players | 3/5 |
-| Host Name | Lilkq |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 21:21:01 |
+| Lobby ID | 28515604513085530 |
+| Players | 1/10 |
+| Host Name | Da Wae |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 12, 2023 21:20:21 |
 
 
