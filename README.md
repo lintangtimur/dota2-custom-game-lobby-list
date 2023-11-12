@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604719218713 |
-| Players | 6/15 |
+| Players | 12/15 |
 | Host Name | noobie |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 23:30:38 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604719244746 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Missing |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 12, 2023 23:30:40 |
@@ -59,25 +59,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604717939433 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | D1smem6er FAIL |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 12, 2023 23:29:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515604714543179 |
-| Players | 7/8 |
-| Host Name | Dariyuki |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 12, 2023 23:27:13 |
+| Lobby ID | 28515604719463353 |
+| Players | 4/15 |
+| Host Name | ambiance |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 12, 2023 23:30:49 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604716468390 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | dk-vm |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 12, 2023 23:28:37 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604718129516 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Talon |
 | Region | AUSTRIA |
 | Lobby Creation Time | Sunday, November 12, 2023 23:29:50 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604718910816 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | rafzZ~ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 12, 2023 23:30:25 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604719282593 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | tv/axaxaxax_9_batman |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 23:30:41 |
@@ -130,17 +130,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515604719463353 |
+| Lobby ID | 28515604719829710 |
 | Players | 2/15 |
-| Host Name | ambiance |
+| Host Name | 첩첩 LMAO |
 | Region | EUROPE |
-| Lobby Creation Time | Sunday, November 12, 2023 23:30:49 |
+| Lobby Creation Time | Sunday, November 12, 2023 23:31:05 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604719918625 |
+| Players | 4/8 |
+| Host Name | Krytoi228 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 23:31:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515604719875438 |
+| Players | 2/15 |
+| Host Name | Містер Сідр |
+| Region | AUSTRIA |
+| Lobby Creation Time | Sunday, November 12, 2023 23:31:08 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515604715179698 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Danh hài Vân Sơn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 12, 2023 23:27:40 |
@@ -164,12 +182,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 12, 2023 23:30:46 |
 
 
-|  | epic_boss_fight_hard |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28515604719656252 |
-| Players | 3/7 |
-| Host Name | папа может |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 23:30:58 |
+| Lobby ID | 28515604719833625 |
+| Players | 1/10 |
+| Host Name | Makoto Shishio |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 12, 2023 23:31:06 |
 
 
