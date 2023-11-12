@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605001293225 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Cribge |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 04:04:54 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605001116195 |
-| Players | 1/15 |
-| Host Name | Bob The Patata |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 04:04:40 |
+| Lobby ID | 28515605001258147 |
+| Players | 2/15 |
+| Host Name | solarflare |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 13, 2023 04:04:51 |
 
 
 |  | ot3_gardens_duo |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 04:05:03 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515604987489441 |
-| Players | 23/24 |
-| Host Name | Toledo |
-| Region | Unknown |
-| Lobby Creation Time | Monday, November 13, 2023 03:46:15 |
+| Lobby ID | 28515605001481431 |
+| Players | 8/10 |
+| Host Name | kara |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 04:05:10 |
 
 
 |  | ot3_gardens_duo |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605000994544 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Rarity |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 04:04:30 |
@@ -122,19 +122,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605001059840 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | S... |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 04:04:35 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515604987489441 |
+| Players | 20/24 |
+| Host Name | æ Haku æ |
+| Region | Unknown |
+| Lobby Creation Time | Monday, November 13, 2023 03:46:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605001584258 |
+| Players | 2/10 |
+| Host Name | survival league |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 13, 2023 04:05:18 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605001258147 |
+| Lobby ID | 28515605001591995 |
 | Players | 1/15 |
-| Host Name | Nooooo |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 13, 2023 04:04:51 |
+| Host Name | Bob The Patata |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 13, 2023 04:05:18 |
 
 
 |  | epic_boss_fight_nightmare |
