@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604746663395 |
-| Players | 21/24 |
+| Players | 20/24 |
 | Host Name | R2D2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 23:51:29 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604793027448 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | R |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 00:28:04 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604734451462 |
-| Players | 8/8 |
+| Players | 7/8 |
 | Host Name | WAJU LUJAN CARRION |
 | Region | PWTELECOMSHANGHAI |
 | Lobby Creation Time | Sunday, November 12, 2023 23:42:01 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604794703447 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | AdmiralPigeon |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 13, 2023 00:29:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515604794816523 |
-| Players | 13/15 |
-| Host Name | yosu |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 13, 2023 00:29:30 |
+| Lobby ID | 28515604795562554 |
+| Players | 1/10 |
+| Host Name | Frisson |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 00:30:06 |
 
 
 |  | ot3_gardens_duo |
@@ -110,13 +110,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 00:29:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515604790864835 |
-| Players | 7/8 |
-| Host Name | Tamborsito |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 00:26:21 |
+| Lobby ID | 28515604795509530 |
+| Players | 4/10 |
+| Host Name | rafzZ~ |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 13, 2023 00:30:03 |
 
 
 |  | ot3_gardens_duo |
@@ -140,8 +140,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604780358323 |
-| Players | 2/8 |
-| Host Name | ♠ |
+| Players | 3/8 |
+| Host Name | Keristrasz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 00:18:02 |
 
@@ -185,25 +185,43 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604788759317 |
-| Players | 8/15 |
+| Players | 10/15 |
 | Host Name | Porovoz1K |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 00:24:42 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515604794906366 |
-| Players | 8/10 |
-| Host Name | Kisi Kattarson |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 13, 2023 00:29:34 |
+| Lobby ID | 28515604775813715 |
+| Players | 1/15 |
+| Host Name | аня 300кг |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 00:14:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515604788939008 |
+| Players | 2/15 |
+| Host Name | умфик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 00:24:50 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604795547968 |
+| Players | 1/8 |
+| Host Name | передоз пивом |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 00:30:05 |
 
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28515604794678307 |
-| Players | 5/7 |
+| Players | 4/7 |
 | Host Name | Hottabych |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 00:29:23 |
@@ -221,7 +239,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515604794731894 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Racshasa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 00:29:26 |
