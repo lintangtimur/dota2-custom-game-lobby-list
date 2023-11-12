@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604694192827 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | HOLLYFOXXX |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 12, 2023 23:12:37 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604686199721 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | YUPI |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 23:06:59 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515604691498621 |
-| Players | 7/8 |
-| Host Name | KheZu |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 12, 2023 23:10:43 |
+| Lobby ID | 28515604680013367 |
+| Players | 1/8 |
+| Host Name | 0.0 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 23:02:44 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604694542202 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Tadji(k)ILLeR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 23:12:52 |
@@ -119,22 +119,58 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 12, 2023 23:13:07 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515604694876432 |
-| Players | 3/8 |
-| Host Name | PeRsOnAgE |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 23:13:07 |
+| Lobby ID | 28515604695074570 |
+| Players | 2/24 |
+| Host Name | AV.Pack |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 12, 2023 23:13:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515604680013367 |
-| Players | 1/8 |
-| Host Name | 0.0 |
+| Lobby ID | 28515604695110964 |
+| Players | 3/10 |
+| Host Name | [Maserati] |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 23:02:44 |
+| Lobby Creation Time | Sunday, November 12, 2023 23:13:17 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515604695115372 |
+| Players | 1/15 |
+| Host Name | YOU'RE ALIVE? |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 23:13:17 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515604695158889 |
+| Players | 2/24 |
+| Host Name | 123 |
+| Region | AUSTRIA |
+| Lobby Creation Time | Sunday, November 12, 2023 23:13:19 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515604695157120 |
+| Players | 1/24 |
+| Host Name | Daryano |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 12, 2023 23:13:18 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515604695205204 |
+| Players | 1/10 |
+| Host Name | Wancho |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 12, 2023 23:13:21 |
 
 
 |  | epic_boss_fight_nightmare |
