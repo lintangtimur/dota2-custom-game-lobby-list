@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604909605668 |
-| Players | 5/10 |
+| Players | 4/10 |
 | Host Name | Grumpy |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 13, 2023 02:15:07 |
@@ -122,25 +122,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604909348862 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | 🥀十億年 💔 |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 02:14:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515604910565669 |
-| Players | 1/15 |
-| Host Name | mode: Genjutsu |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 02:16:07 |
+| Lobby ID | 28515604910626693 |
+| Players | 1/8 |
+| Host Name | 167 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 13, 2023 02:16:10 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604910333968 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | BluiaKA |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 02:15:52 |
@@ -185,7 +185,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604910275861 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | TwistingSlash |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 13, 2023 02:15:48 |
@@ -207,6 +207,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | VISKOS666 |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 02:16:00 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515604909787732 |
+| Players | 13/15 |
+| Host Name | ChrryI |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 02:15:18 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604910657193 |
+| Players | 4/8 |
+| Host Name | ZAMN SHE'S 12 |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 13, 2023 02:16:12 |
 
 
 |  | epic_boss_fight_nightmare |
