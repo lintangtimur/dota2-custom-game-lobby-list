@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604938638085 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | ( |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 02:46:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604938424976 |
-| Players | 6/15 |
+| Players | 14/15 |
 | Host Name | Good Vibes |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 13, 2023 02:46:40 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604929569548 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Melchiora |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 13, 2023 02:36:40 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604936272080 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | UwU |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 02:44:14 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604938719255 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | La Rana Clyde |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 02:47:00 |
@@ -128,13 +128,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 02:44:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515604938765157 |
-| Players | 1/24 |
-| Host Name | Redemption |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 13, 2023 02:47:03 |
+| Lobby ID | 28515604938841534 |
+| Players | 1/15 |
+| Host Name | Amaro |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 02:47:09 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515604932930758 |
+| Players | 8/10 |
+| Host Name | Kojut |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 02:40:26 |
 
 
 |  | epic_boss_fight_normal |
