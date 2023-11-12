@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515604922342504 |
-| Players | 14/15 |
-| Host Name | Мразь[UA] |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 02:28:42 |
+| Lobby ID | 28515604922744971 |
+| Players | 1/15 |
+| Host Name | Luiz |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 13, 2023 02:29:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604915874368 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Vier |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 02:21:45 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604920695485 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | pienso luego tiro six :C |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 02:26:55 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604922117654 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | kvch |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 02:28:28 |
@@ -167,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604922557841 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Reb |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 02:28:56 |
@@ -182,12 +182,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 02:28:59 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515604921497993 |
-| Players | 9/10 |
-| Host Name | Cucumber |
+| Lobby ID | 28515604922846118 |
+| Players | 4/8 |
+| Host Name | 76561198801201209 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 02:27:47 |
+| Lobby Creation Time | Monday, November 13, 2023 02:29:15 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28515604922716677 |
+| Players | 1/5 |
+| Host Name | Оля Лукина |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 02:29:07 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28515604922752355 |
+| Players | 2/5 |
+| Host Name | Flexflouzen |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 13, 2023 02:29:09 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515604922777710 |
+| Players | 1/10 |
+| Host Name | hendra2lm |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 02:29:11 |
 
 
