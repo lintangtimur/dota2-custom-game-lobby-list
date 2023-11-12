@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515603601387270 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Rem is life<3 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 12, 2023 07:10:54 |
@@ -14,37 +14,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515603603297836 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 07:14:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515603603047970 |
-| Players | 9/15 |
-| Host Name | AllPositive. |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 12, 2023 07:14:05 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515603602105948 |
-| Players | 8/10 |
-| Host Name | Shigami |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 12, 2023 07:12:17 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515603603141707 |
-| Players | 17/24 |
-| Host Name | Benito-Kun |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 12, 2023 07:14:15 |
 
 
 |  | ot3_gardens_duo |
@@ -56,19 +29,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 12, 2023 07:01:39 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515603602566773 |
-| Players | 4/15 |
-| Host Name | Tmpwu |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 12, 2023 07:13:11 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515603602705905 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | PATRONчик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 07:13:27 |
@@ -76,11 +40,65 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515603601845605 |
-| Players | 13/15 |
-| Host Name | Reddy |
+| Lobby ID | 28515603602566773 |
+| Players | 5/15 |
+| Host Name | Tmpwu |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 12, 2023 07:13:11 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515603603821134 |
+| Players | 4/24 |
+| Host Name | Gisbert of The Light |
+| Region | CHILE |
+| Lobby Creation Time | Sunday, November 12, 2023 07:15:35 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515603603914900 |
+| Players | 1/15 |
+| Host Name | parker chinchano |
 | Region | PERU |
-| Lobby Creation Time | Sunday, November 12, 2023 07:11:47 |
+| Lobby Creation Time | Sunday, November 12, 2023 07:15:45 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515603603979125 |
+| Players | 1/8 |
+| Host Name | 天胡九连宝灯 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 12, 2023 07:15:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515603604007648 |
+| Players | 4/8 |
+| Host Name | Block |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 12, 2023 07:15:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515603604018366 |
+| Players | 5/8 |
+| Host Name | paradise |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 07:15:58 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515603604020367 |
+| Players | 5/8 |
+| Host Name | 十鬼蛇王志勇 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 12, 2023 07:15:58 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,5 +126,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | VNS |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 07:01:41 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515603603977061 |
+| Players | 1/10 |
+| Host Name | ► Good gay, noob played |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 12, 2023 07:15:53 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28515603604016869 |
+| Players | 1/5 |
+| Host Name | Kinder Monograph |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 12, 2023 07:15:57 |
 
 
