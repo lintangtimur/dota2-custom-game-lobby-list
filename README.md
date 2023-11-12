@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604958050474 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | Deva path |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 03:09:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515604961805000 |
-| Players | 5/8 |
-| Host Name | я аянами рей |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 13, 2023 03:14:07 |
+| Lobby ID | 28515604958036968 |
+| Players | 23/24 |
+| Host Name | Percibal |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 03:09:36 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604963287530 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | Middleware |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 03:15:55 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515604963877858 |
-| Players | 14/15 |
-| Host Name | Oh holero, chi to freddy fazbear |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 03:16:38 |
+| Lobby ID | 28515604964042306 |
+| Players | 3/15 |
+| Host Name | A week without drugs |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 13, 2023 03:16:50 |
 
 
 |  | ot3_necropolis_ffa |
@@ -140,8 +140,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604960575331 |
-| Players | 2/15 |
-| Host Name | arp |
+| Players | 1/15 |
+| Host Name | Mcry |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 13, 2023 03:12:39 |
 
@@ -203,7 +203,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604963791502 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | [N]estarada |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 03:16:32 |
@@ -218,22 +218,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 03:16:46 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515604964232098 |
+| Players | 2/10 |
+| Host Name | Preacher |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 03:17:04 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515604958036968 |
-| Players | 22/24 |
-| Host Name | Percibal |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 03:09:36 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515604964042306 |
-| Players | 1/15 |
-| Host Name | A week without drugs |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 13, 2023 03:16:50 |
+| Lobby ID | 28515604964214688 |
+| Players | 1/24 |
+| Host Name | quoz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 03:17:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -248,7 +248,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515604953430387 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | AzianStrider |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 13, 2023 03:04:08 |
@@ -266,9 +266,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515604963948890 |
-| Players | 2/10 |
-| Host Name | ivsc |
+| Players | 1/10 |
+| Host Name | Off |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 03:16:43 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515604964236730 |
+| Players | 1/10 |
+| Host Name | ivsc |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 03:17:04 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28515604964272695 |
+| Players | 2/7 |
+| Host Name | Лилуша |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 13, 2023 03:17:07 |
 
 
