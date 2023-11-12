@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604734451462 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | Jhon Rhobert D. Makakain |
 | Region | PWTELECOMSHANGHAI |
 | Lobby Creation Time | Sunday, November 12, 2023 23:42:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604775813715 |
-| Players | 1/15 |
+| Players | 14/15 |
 | Host Name | аня 300кг |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 00:14:26 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604787723103 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | ToughSpirit |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 00:23:53 |
@@ -104,19 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604746663395 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | yamzxy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 23:51:29 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515604788619774 |
-| Players | 1/15 |
-| Host Name | Çukur |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 00:24:35 |
+| Lobby ID | 28515604789517791 |
+| Players | 1/10 |
+| Host Name | ZooM - speak english dogs |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 00:25:17 |
 
 
 |  | ot3_gardens_duo |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604786674664 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Máster-Ciencia del dota 2 |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 00:23:03 |
@@ -157,29 +157,56 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515604788939008 |
-| Players | 14/15 |
-| Host Name | The GayLord |
+| Lobby ID | 28515604755318743 |
+| Players | 1/15 |
+| Host Name | Galactionovich |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 00:24:50 |
+| Lobby Creation Time | Sunday, November 12, 2023 23:58:19 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604789231358 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | CheezeyLizard |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 13, 2023 00:25:04 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515604789266228 |
-| Players | 1/10 |
-| Host Name | laughing stock |
+| Lobby ID | 28515604789363893 |
+| Players | 5/8 |
+| Host Name | ouxish |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 00:25:06 |
+| Lobby Creation Time | Monday, November 13, 2023 00:25:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604789423358 |
+| Players | 1/8 |
+| Host Name | Toy Till Dawn |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 00:25:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604782907157 |
+| Players | 1/8 |
+| Host Name | Валера_Хроносферa |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 00:20:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604789518168 |
+| Players | 4/8 |
+| Host Name | гриша ёбыръ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 00:25:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -189,14 +216,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Froyo- |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 00:21:26 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28515604789103299 |
-| Players | 1/5 |
-| Host Name | Dois |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 00:24:58 |
 
 
