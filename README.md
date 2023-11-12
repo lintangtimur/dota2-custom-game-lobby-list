@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515603597498183 |
-| Players | 17/24 |
+| Players | 14/24 |
 | Host Name | FrameSports |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 12, 2023 07:03:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515603599121406 |
-| Players | 7/8 |
-| Host Name | Unlimitless |
+| Lobby ID | 28515603599274806 |
+| Players | 9/15 |
+| Host Name | 仨五丫 匚仨匚丅尸丫 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 07:06:34 |
+| Lobby Creation Time | Sunday, November 12, 2023 07:06:52 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515603596920064 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | NothingFeelsRight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 12, 2023 07:02:21 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515603580172827 |
-| Players | 6/15 |
-| Host Name | BlastBeats |
+| Players | 5/15 |
+| Host Name | Cheese Pimiento |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 12, 2023 06:32:08 |
 
@@ -92,15 +92,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 12, 2023 07:06:51 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515603599274806 |
-| Players | 2/15 |
-| Host Name | 仨五丫 匚仨匚丅尸丫 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 07:06:52 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515603592534073 |
@@ -112,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
-| Lobby ID | 28515603594925412 |
+| Lobby ID | 28515603597729199 |
 | Players | 1/7 |
-| Host Name | 666 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 12, 2023 06:58:31 |
+| Host Name | KING  CRIMSON |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 12, 2023 07:03:54 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Death Is My Bitch |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 12, 2023 07:04:31 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28515603597729199 |
-| Players | 1/7 |
-| Host Name | KING  CRIMSON |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 12, 2023 07:03:54 |
 
 
