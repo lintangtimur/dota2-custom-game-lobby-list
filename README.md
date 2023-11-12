@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604974273219 |
-| Players | 5/15 |
-| Host Name | Aggressive Moustache |
+| Players | 4/15 |
+| Host Name | Boss and CEO |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 13, 2023 03:29:23 |
 
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604972269018 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | kaiser^^ |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 13, 2023 03:26:55 |
@@ -119,19 +119,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 03:26:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515604975477729 |
-| Players | 1/15 |
-| Host Name | МАЙОР ДИВАННЫХ ВО |
+| Lobby ID | 28515604975719282 |
+| Players | 4/10 |
+| Host Name | я абсолют |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 03:30:54 |
+| Lobby Creation Time | Monday, November 13, 2023 03:31:12 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604975479429 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | r |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 03:30:54 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604975660222 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Olimpioda |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 03:31:07 |
@@ -153,6 +153,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Слизкий Камень |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 03:31:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604975810975 |
+| Players | 1/8 |
+| Host Name | МАЙОР ДИВАННЫХ ВО |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 03:31:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515604975810429 |
+| Players | 1/15 |
+| Host Name | noobie |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 03:31:19 |
 
 
 |  | epic_boss_fight_nightmare |
