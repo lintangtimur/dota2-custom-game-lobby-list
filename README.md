@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604879018751 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | KomtingKons |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 01:44:22 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 12, 2023 21:36:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515604874654016 |
-| Players | 9/10 |
-| Host Name | ! |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 01:40:08 |
+| Lobby ID | 28515604879938276 |
+| Players | 3/15 |
+| Host Name | benj |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 01:45:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 01:12:49 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515604874630261 |
-| Players | 20/24 |
-| Host Name | JESUS46 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 01:40:07 |
+| Lobby ID | 28515604879927935 |
+| Players | 3/8 |
+| Host Name | \what's wrong, scared?/ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 01:45:16 |
 
 
 |  | ot3_gardens_duo |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 01:43:57 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515604878732807 |
-| Players | 8/10 |
-| Host Name | Wake up to reality |
+| Lobby ID | 28515604877648423 |
+| Players | 1/8 |
+| Host Name | курениеубиваетне |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 01:44:06 |
+| Lobby Creation Time | Monday, November 13, 2023 01:43:02 |
 
 
 |  | ot3_gardens_duo |
@@ -158,43 +158,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604879317267 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | BluiaKA |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 13, 2023 01:44:40 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515604872518965 |
-| Players | 5/15 |
-| Host Name | ♛ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 01:38:05 |
+| Lobby ID | 28515604880009619 |
+| Players | 3/8 |
+| Host Name | Тяжолы кекс |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 13, 2023 01:45:20 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604879627026 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | ToughSpirit |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 01:44:58 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515604879866349 |
-| Players | 4/8 |
-| Host Name | Vendetta.イージーミッド |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 01:45:12 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28515604872088213 |
-| Players | 3/7 |
+| Players | 2/7 |
 | Host Name | Cupcakke_b1tch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 01:37:40 |
@@ -203,7 +194,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515604876431707 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Death Is My Bitch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 01:41:51 |
@@ -225,5 +216,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 0ntre |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 13, 2023 01:43:39 |
+
+
+|  | epic_boss_fight_challenger |
+| ------ | ------ |
+| Lobby ID | 28515604880006220 |
+| Players | 2/7 |
+| Host Name | Cael |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 13, 2023 01:45:20 |
 
 
