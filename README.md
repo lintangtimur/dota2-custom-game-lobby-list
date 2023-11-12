@@ -2,19 +2,19 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515604967316706 |
-| Players | 1/15 |
-| Host Name | ☆ VAZ ☆ |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 13, 2023 03:20:49 |
+| Lobby ID | 28515604970095375 |
+| Players | 1/8 |
+| Host Name | Gyutaro |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 03:24:13 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604958050474 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Deva path |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 03:09:37 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 03:24:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515604969968436 |
-| Players | 1/8 |
-| Host Name | Дедушка Наварро |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 13, 2023 03:24:04 |
+| Lobby ID | 28515604970186222 |
+| Players | 1/24 |
+| Host Name | Kalliana |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 03:24:20 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604968723265 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | CPP |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 03:22:32 |
@@ -101,40 +101,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 03:02:53 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515604969478332 |
-| Players | 8/15 |
-| Host Name | bruno mars |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 03:23:28 |
+| Lobby ID | 28515604970174441 |
+| Players | 1/8 |
+| Host Name | Дедушка Наварро |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 13, 2023 03:24:19 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604969990268 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Oceanμs |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 03:24:05 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515604969636275 |
-| Players | 5/15 |
-| Host Name | 通テpainテ通 hate |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 03:23:39 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515604969620385 |
-| Players | 1/10 |
-| Host Name | Ishach`ё |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 03:23:38 |
+| Lobby ID | 28515604970211088 |
+| Players | 1/24 |
+| Host Name | Nonlinear operator |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 03:24:22 |
 
 
 |  | ot3_gardens_duo |
@@ -148,11 +139,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515604970075030 |
+| Lobby ID | 28515604970181985 |
 | Players | 1/10 |
-| Host Name | Ducsidu |
+| Host Name | Ishach`ё |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 03:24:11 |
+| Lobby Creation Time | Monday, November 13, 2023 03:24:20 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604970165978 |
+| Players | 1/8 |
+| Host Name | Cалаудин Чегияев |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 03:24:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -167,7 +167,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515604968362863 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | 76561198243541804 |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 03:22:06 |
