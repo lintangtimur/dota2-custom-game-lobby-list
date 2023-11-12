@@ -5,26 +5,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604949297510 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Punk Fools- |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 02:59:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515604949721727 |
-| Players | 12/15 |
-| Host Name | I7 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 02:59:41 |
+| Lobby ID | 28515604950212852 |
+| Players | 1/10 |
+| Host Name | Начальник Тaверны |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 13, 2023 03:00:17 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604936904417 |
-| Players | 4/24 |
-| Host Name | Первая кровь |
+| Players | 3/24 |
+| Host Name | 不二周助 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 02:44:57 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604945197217 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | Logan Ninefingers |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 02:54:26 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604950087967 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | Archibolx |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 13, 2023 03:00:07 |
@@ -112,19 +112,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515604950089429 |
+| Lobby ID | 28515604950210264 |
 | Players | 2/10 |
-| Host Name | Kakyoin |
+| Host Name | TwoHeadedDog |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 03:00:08 |
+| Lobby Creation Time | Monday, November 13, 2023 03:00:17 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515604949195629 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Fey |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 13, 2023 02:59:04 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28515604950203604 |
+| Players | 4/5 |
+| Host Name | Amigos do mentirinha 4 |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 13, 2023 03:00:16 |
 
 
