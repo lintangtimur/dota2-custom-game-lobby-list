@@ -14,28 +14,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604511389283 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | idc |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 21:19:22 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604532140178 |
+| Players | 1/8 |
+| Host Name | полудурок) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 21:31:12 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515604530975498 |
-| Players | 13/15 |
-| Host Name | мама |
+| Lobby ID | 28515604532139778 |
+| Players | 1/15 |
+| Host Name | 123 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 21:30:32 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515604519427559 |
-| Players | 21/24 |
-| Host Name | BMZ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 12, 2023 21:23:57 |
+| Lobby Creation Time | Sunday, November 12, 2023 21:31:12 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604531330980 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Отче наш, сущий на небесах! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 21:30:44 |
@@ -119,6 +119,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 12, 2023 21:30:38 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604532439230 |
+| Players | 1/8 |
+| Host Name | Chill |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 12, 2023 21:31:22 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515604523841911 |
@@ -144,5 +153,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | BIG POPPA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 21:30:53 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515604449695081 |
+| Players | 3/10 |
+| Host Name | Bankai |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 12, 2023 20:44:35 |
 
 
