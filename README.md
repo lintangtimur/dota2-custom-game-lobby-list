@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604909495521 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | F# |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, November 13, 2023 02:15:00 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604934193154 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | EL 7BOLAS |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 02:41:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515604935187141 |
-| Players | 2/10 |
-| Host Name | absolute |
+| Lobby ID | 28515604936072481 |
+| Players | 6/15 |
+| Host Name | СЛУЖУ ГНОМАМ |
 | Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 13, 2023 02:42:59 |
+| Lobby Creation Time | Monday, November 13, 2023 02:44:00 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604929569548 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Я Е6АНЫЙ ЛОУСКИЛЛ |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 13, 2023 02:36:40 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604932852729 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | Dudley Eigenvalue, Ph.D. |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 02:40:21 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604935376953 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | JoJogan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 02:43:12 |
@@ -119,22 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 02:40:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515604935391738 |
-| Players | 7/8 |
-| Host Name | комиссаръ |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 13, 2023 02:43:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515604935817021 |
-| Players | 2/8 |
-| Host Name | NoBrain |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 13, 2023 02:43:43 |
+| Lobby ID | 28515604936050421 |
+| Players | 2/10 |
+| Host Name | ТОП-1 ПОРЯДОЧНОСТИ ЕВРОПЫ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 02:43:59 |
 
 
 |  | epic_boss_fight_normal |
@@ -146,13 +137,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 02:42:40 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28515604935403756 |
-| Players | 1/5 |
-| Host Name | ТУРБОвоин |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 02:43:14 |
+| Lobby ID | 28515604935854429 |
+| Players | 4/10 |
+| Host Name | Lestat |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 02:43:45 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -164,12 +155,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 02:40:55 |
 
 
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28515604936115534 |
+| Players | 2/5 |
+| Host Name | Водяной ЗИГАМЁТ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 02:44:03 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28515604935854429 |
-| Players | 4/10 |
-| Host Name | Lestat |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 02:43:45 |
+| Lobby ID | 28515604936121316 |
+| Players | 1/10 |
+| Host Name | Alainzzz |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 02:44:04 |
 
 
