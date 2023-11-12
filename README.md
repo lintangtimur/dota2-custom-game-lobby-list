@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604563219466 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | ZZ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 12, 2023 21:49:03 |
@@ -24,7 +24,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28515604564454008 |
 | Players | 6/15 |
-| Host Name | DetiHoronyatOsla |
+| Host Name | Dickburger |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 21:49:46 |
 
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 12, 2023 21:36:52 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515604554047300 |
-| Players | 7/8 |
-| Host Name | 10k elo bot |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 21:43:44 |
+| Lobby ID | 28515604564346962 |
+| Players | 2/10 |
+| Host Name | keefeer |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 12, 2023 21:49:42 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604475620063 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | zeus2014 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 12, 2023 20:59:05 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604564120640 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | rafzZ~ |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 12, 2023 21:49:34 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604564272317 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | землекоп антон |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 12, 2023 21:49:39 |
@@ -108,33 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | gyros |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 12, 2023 21:49:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515604564346962 |
-| Players | 2/10 |
-| Host Name | keefeer |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 12, 2023 21:49:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515604564077842 |
-| Players | 7/10 |
-| Host Name | LHPixel |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 12, 2023 21:49:33 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515604558868184 |
-| Players | 23/24 |
-| Host Name | 蓝胖舌吻双头龙 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Sunday, November 12, 2023 21:46:30 |
 
 
 |  | epic_boss_fight_normal |
