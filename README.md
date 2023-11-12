@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604784932975 |
-| Players | 6/10 |
+| Players | 9/10 |
 | Host Name | Jewish Boy |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 13, 2023 00:21:40 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 00:18:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515604785037245 |
-| Players | 10/15 |
-| Host Name | пузяка в сперме |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 00:21:45 |
+| Lobby ID | 28515604780230893 |
+| Players | 9/10 |
+| Host Name | Don Payiyo de Pumitas |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 00:17:56 |
 
 
 |  | ot3_desert_octet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604783155135 |
-| Players | 11/24 |
+| Players | 17/24 |
 | Host Name | El CBUM de Smarfit |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 00:20:16 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604784488790 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Признанный гений |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 00:21:19 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604784524874 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | ToughSpirit |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 00:21:20 |
@@ -162,6 +162,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | БаРаГуЗ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 00:21:21 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515604785364777 |
+| Players | 8/15 |
+| Host Name | pulse |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 13, 2023 00:22:01 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604785545595 |
+| Players | 1/8 |
+| Host Name | Amazing Man |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 00:22:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604785550236 |
+| Players | 1/8 |
+| Host Name | G I U L I A N O |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 00:22:10 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604785552213 |
+| Players | 2/8 |
+| Host Name | tears of pain |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 00:22:10 |
 
 
 |  | epic_boss_fight_nightmare |
