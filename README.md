@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604376667859 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | impulse 101 |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 12, 2023 20:02:59 |
@@ -41,8 +41,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604357387552 |
-| Players | 2/15 |
-| Host Name | Жак Оакфиелд |
+| Players | 1/15 |
+| Host Name | )6 |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 12, 2023 19:51:47 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604350831507 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | ... |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 12, 2023 19:47:55 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604380502711 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Rak Saveliy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 20:05:12 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604362899054 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | . |
 | Region | USEAST |
 | Lobby Creation Time | Sunday, November 12, 2023 19:55:02 |
@@ -122,10 +122,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604368684177 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | ZiQvEeL |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 19:58:24 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604381874707 |
+| Players | 4/8 |
+| Host Name | MadMax |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 20:06:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604381933352 |
+| Players | 2/8 |
+| Host Name | Albus Percival Dumbledore |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 20:06:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515604381989543 |
+| Players | 1/15 |
+| Host Name | Sushist |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 20:06:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604382115521 |
+| Players | 1/8 |
+| Host Name | Krosher |
+| Region | AUSTRIA |
+| Lobby Creation Time | Sunday, November 12, 2023 20:06:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604382126655 |
+| Players | 1/8 |
+| Host Name | ZXCxDAYN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 20:06:09 |
 
 
 |  | epic_boss_fight_normal |
