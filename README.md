@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604629082632 |
-| Players | 5/24 |
+| Players | 17/24 |
 | Host Name | part time gamer |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 12, 2023 22:28:58 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604577468857 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | hiiro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 12, 2023 21:57:23 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604633345101 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | NukeSyz |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 12, 2023 22:31:42 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 12, 2023 21:36:52 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515604634103011 |
-| Players | 2/15 |
-| Host Name | Wake up to reality |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 22:32:11 |
+| Lobby ID | 28515604634815779 |
+| Players | 1/8 |
+| Host Name | <blank> |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 12, 2023 22:32:38 |
 
 
 |  | ot3_necropolis_ffa |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 12, 2023 22:30:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515604626111733 |
-| Players | 4/8 |
-| Host Name | VIVA LA 27 |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 12, 2023 22:27:06 |
+| Lobby ID | 28515604634043925 |
+| Players | 3/10 |
+| Host Name | love yourself |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 22:32:08 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604628532284 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | KeyOfTheSun |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 12, 2023 22:28:37 |
@@ -85,29 +85,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515604626697076 |
-| Players | 7/8 |
-| Host Name | сырники |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 12, 2023 22:27:28 |
+| Lobby ID | 28515604634818181 |
+| Players | 5/8 |
+| Host Name | 21 ravage |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 22:32:38 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515604633742849 |
-| Players | 9/15 |
-| Host Name | Allison Krause |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 22:31:57 |
+| Lobby ID | 28515604634973039 |
+| Players | 7/15 |
+| Host Name | seulgi |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 12, 2023 22:32:44 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515604625050209 |
-| Players | 2/10 |
-| Host Name | mnogoznal |
+| Lobby ID | 28515604626866506 |
+| Players | 8/15 |
+| Host Name | Fatalis |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 22:26:26 |
+| Lobby Creation Time | Sunday, November 12, 2023 22:27:34 |
 
 
 |  | ot3_desert_octet |
@@ -119,49 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 12, 2023 22:30:54 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515604633369466 |
-| Players | 7/10 |
-| Host Name | Dириzабл |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 22:31:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515604633817699 |
-| Players | 1/8 |
-| Host Name | SUPERKLITOR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 22:32:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515604627883927 |
-| Players | 8/10 |
-| Host Name | Tuki Tuki Tuki Tuki ♪♪♪♪♪♪ |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 12, 2023 22:28:12 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515604634043925 |
-| Players | 2/10 |
-| Host Name | love yourself |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 22:32:08 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515604627485790 |
-| Players | 1/15 |
-| Host Name | R2 |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 12, 2023 22:27:58 |
+| Lobby ID | 28515604634622513 |
+| Players | 3/15 |
+| Host Name | KeeNobi |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 22:32:31 |
 
 
 |  | ot3_jungle_quintet |
@@ -171,6 +135,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | shit game |
 | Region | DUBAI |
 | Lobby Creation Time | Sunday, November 12, 2023 22:31:38 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515604627883927 |
+| Players | 7/10 |
+| Host Name | Tuki Tuki Tuki Tuki ♪♪♪♪♪♪ |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 12, 2023 22:28:12 |
 
 
 |  | epic_boss_fight_normal |
@@ -189,5 +162,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Death Is My Bitch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 22:25:53 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515604634304535 |
+| Players | 3/10 |
+| Host Name | ochkoGabena |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 22:32:18 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28515604634722117 |
+| Players | 1/5 |
+| Host Name | One Sock Joe |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 22:32:35 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515604635052880 |
+| Players | 3/10 |
+| Host Name | KAMUI RAIKI |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 12, 2023 22:32:47 |
 
 
