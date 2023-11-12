@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604591002596 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | 00)0 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 22:05:27 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604591411938 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Неуязвимый |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 22:05:42 |
@@ -22,17 +22,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515604587588500 |
-| Players | 3/8 |
-| Host Name | OGur4k |
+| Lobby ID | 28515604592343989 |
+| Players | 1/8 |
+| Host Name | Avadatensei |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 22:03:24 |
+| Lobby Creation Time | Sunday, November 12, 2023 22:06:15 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604591234616 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Ghost_Rotaidalg_USSR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 22:05:35 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604586425097 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Máster-Ciencia del dota 2 |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 12, 2023 22:02:42 |
@@ -92,19 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 12, 2023 22:05:22 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515604591908362 |
-| Players | 5/8 |
-| Host Name | PX4 BLACK |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 22:05:59 |
+| Lobby ID | 28515604592136527 |
+| Players | 1/24 |
+| Host Name | ArKr.J |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Sunday, November 12, 2023 22:06:08 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604591015460 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Bashn1 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 22:05:27 |
