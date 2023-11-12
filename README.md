@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 12, 2023 23:49:47 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515604801898803 |
-| Players | 7/8 |
-| Host Name | marshal |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 13, 2023 00:35:18 |
+| Lobby ID | 28515604791323972 |
+| Players | 8/15 |
+| Host Name | Riku |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 00:26:42 |
 
 
 |  | ot3_gardens_duo |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604801183002 |
-| Players | 5/24 |
+| Players | 7/24 |
 | Host Name | MERLYN |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 00:34:43 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604795965476 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | SuperChef |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 00:30:26 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604797366824 |
-| Players | 4/15 |
+| Players | 1/15 |
 | Host Name | Джордани Бруно |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 00:31:34 |
@@ -148,11 +148,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515604801988334 |
-| Players | 4/15 |
-| Host Name | MuHaHa |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 13, 2023 00:35:23 |
+| Lobby ID | 28515604802754090 |
+| Players | 1/15 |
+| Host Name | www.twitch.tv/fominini |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 00:36:00 |
 
 
 |  | ot3_jungle_quintet |
@@ -166,26 +166,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515604801527459 |
-| Players | 8/10 |
-| Host Name | shAVA MAX |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 00:35:00 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515604791323972 |
-| Players | 8/15 |
-| Host Name | Riku |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 00:26:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28515604788741366 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | барашка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 00:24:41 |
