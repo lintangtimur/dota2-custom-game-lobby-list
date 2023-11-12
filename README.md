@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604689875119 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Amargo Ymiko |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 12, 2023 23:09:34 |
@@ -65,19 +65,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 12, 2023 23:09:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515604692869613 |
-| Players | 6/8 |
-| Host Name | руский?В ПАКЕТ! |
-| Region | AUSTRIA |
-| Lobby Creation Time | Sunday, November 12, 2023 23:11:41 |
+| Lobby ID | 28515604693338247 |
+| Players | 2/10 |
+| Host Name | twitch.tv/vikingtv95 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 23:12:01 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604677231489 |
-| Players | 7/15 |
+| Players | 12/15 |
 | Host Name | TANK🦍 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 23:00:47 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604691722732 |
-| Players | 10/24 |
+| Players | 16/24 |
 | Host Name | Ultra.O4kO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 23:10:52 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604693220435 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | 😁 |
 | Region | AUSTRIA |
 | Lobby Creation Time | Sunday, November 12, 2023 23:11:56 |
@@ -114,9 +114,54 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28515604689334627 |
 | Players | 7/8 |
-| Host Name | my friend is a moviestar |
+| Host Name | underground |
 | Region | EUROPE |
 | Lobby Creation Time | Sunday, November 12, 2023 23:09:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515604691399808 |
+| Players | 11/15 |
+| Host Name | Ублюдок |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 12, 2023 23:10:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604693506209 |
+| Players | 3/8 |
+| Host Name | Help! |
+| Region | DUBAI |
+| Lobby Creation Time | Sunday, November 12, 2023 23:12:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515604690247598 |
+| Players | 12/15 |
+| Host Name | g star |
+| Region | AUSTRIA |
+| Lobby Creation Time | Sunday, November 12, 2023 23:09:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515604689939116 |
+| Players | 9/10 |
+| Host Name | Squire |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 23:09:37 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604693607588 |
+| Players | 4/8 |
+| Host Name | HZkto |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 23:12:12 |
 
 
 |  | epic_boss_fight_nightmare |
