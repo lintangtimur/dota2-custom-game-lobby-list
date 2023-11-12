@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604453819798 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | Mike Wardovsky |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 20:46:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604420892621 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | lizbeth❤♥ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 12, 2023 20:28:20 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604455173740 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | пенис banditcamp.com |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 20:47:39 |
@@ -131,8 +131,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604434811049 |
-| Players | 2/10 |
-| Host Name | Junya Watanabe |
+| Players | 1/10 |
+| Host Name | schaclo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 20:36:12 |
 
@@ -155,6 +155,33 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 12, 2023 20:47:46 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604455706757 |
+| Players | 3/8 |
+| Host Name | :) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 20:47:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515604447662323 |
+| Players | 1/15 |
+| Host Name | ШРЕК |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 20:43:27 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604455923596 |
+| Players | 3/8 |
+| Host Name | capo |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 12, 2023 20:48:05 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28515604414495269 |
@@ -175,28 +202,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28515604438615472 |
-| Players | 9/10 |
-| Host Name | Preacher |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 20:38:21 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28515604454215647 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | pasha_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 12, 2023 20:47:07 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28515604455557738 |
-| Players | 1/5 |
-| Host Name | Я ебу алибабу |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 20:47:52 |
 
 
