@@ -5,8 +5,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605024515921 |
-| Players | 2/10 |
-| Host Name | 暴躁狂怒之人 |
+| Players | 1/10 |
+| Host Name | Zetagamer13000 |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 04:38:32 |
 
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605016089275 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | flocos |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 13, 2023 04:25:52 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605002507340 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | AceShatter7 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 04:06:34 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604987489441 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | OVY ON THE DRUMS |
 | Region | Unknown |
 | Lobby Creation Time | Monday, November 13, 2023 03:46:15 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605024754807 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Zen |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 13, 2023 04:38:55 |
@@ -135,5 +135,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | < blank > |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 04:38:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605024823341 |
+| Players | 2/8 |
+| Host Name | . |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 04:39:01 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605024891767 |
+| Players | 2/10 |
+| Host Name | EL SOCIO - Santos Santana |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 13, 2023 04:39:07 |
 
 
