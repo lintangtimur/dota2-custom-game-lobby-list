@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604780230893 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | Pomeko |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 00:17:56 |
@@ -128,6 +128,51 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 00:10:24 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515604784073048 |
+| Players | 2/10 |
+| Host Name | FANETO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 00:20:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604784017868 |
+| Players | 3/8 |
+| Host Name | Tensai |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 13, 2023 00:20:56 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515604784022626 |
+| Players | 1/24 |
+| Host Name | H1RO |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 00:20:57 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604776569269 |
+| Players | 3/8 |
+| Host Name | 85.RAVAR.85 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 00:15:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515604784161424 |
+| Players | 5/8 |
+| Host Name | karman4ik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 00:21:03 |
+
+
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28515604781498523 |
@@ -144,5 +189,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Gandy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 00:20:51 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515604784148413 |
+| Players | 1/10 |
+| Host Name | HWSebasxd |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 00:21:03 |
 
 
