@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 12, 2023 20:58:42 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515604466086982 |
-| Players | 4/8 |
-| Host Name | 啤酒大学校长 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 20:53:46 |
+| Lobby ID | 28515604474679855 |
+| Players | 5/15 |
+| Host Name | Amaro |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 12, 2023 20:58:34 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604435675531 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | モンキー･D･ルフィ |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, November 12, 2023 20:36:42 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604472796987 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Just Do It |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 20:57:31 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604343090846 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | migusu |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 12, 2023 19:43:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515604474679855 |
-| Players | 2/15 |
-| Host Name | Amaro |
-| Region | EUROPE |
-| Lobby Creation Time | Sunday, November 12, 2023 20:58:34 |
 
 
 |  | epic_boss_fight_normal |
@@ -113,18 +104,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515604475351417 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | SnowFire |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, November 12, 2023 20:58:56 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28515604475731605 |
-| Players | 1/5 |
+| Lobby ID | 28515604476072560 |
+| Players | 1/10 |
 | Host Name | No MercY |
 | Region | DUBAI |
-| Lobby Creation Time | Sunday, November 12, 2023 20:59:09 |
+| Lobby Creation Time | Sunday, November 12, 2023 20:59:20 |
 
 
