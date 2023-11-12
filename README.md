@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604845283702 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | roswel |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 01:12:49 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604911189949 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | просто тупой и вс |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 13, 2023 02:16:46 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604909348862 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | 🥀十億年 💔 |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 02:14:51 |
@@ -182,22 +182,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 02:16:24 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515604911121787 |
-| Players | 8/15 |
-| Host Name | A week without drugs |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 02:16:42 |
+| Lobby ID | 28515604910876274 |
+| Players | 6/8 |
+| Host Name | 初N_I_K_I音 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 02:16:26 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515604910908672 |
+| Lobby ID | 28515604911444070 |
 | Players | 1/15 |
 | Host Name | nigmach |
 | Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 02:16:28 |
+| Lobby Creation Time | Monday, November 13, 2023 02:17:02 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -220,10 +220,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28515604911315670 |
+| Lobby ID | 28515604911414512 |
 | Players | 2/10 |
 | Host Name | апоп |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 02:16:54 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 02:17:00 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515604911494478 |
+| Players | 1/10 |
+| Host Name | EcoHunter |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 13, 2023 02:17:05 |
 
 
