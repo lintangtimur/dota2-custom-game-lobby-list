@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604861549545 |
-| Players | 13/15 |
+| Players | 12/15 |
 | Host Name | UwU |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 01:27:41 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604866246725 |
-| Players | 10/24 |
+| Players | 13/24 |
 | Host Name | Flare★ |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 13, 2023 01:32:07 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604865789606 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Buttbag McButts |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 01:31:41 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604845283702 |
-| Players | 7/24 |
+| Players | 6/24 |
 | Host Name | Grock |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 01:12:49 |
@@ -83,31 +83,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 01:32:28 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515604868789592 |
-| Players | 12/15 |
-| Host Name | БЛ9IДОТA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 01:34:31 |
+| Lobby ID | 28515604869475744 |
+| Players | 1/8 |
+| Host Name | dan |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 01:35:10 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604869158949 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | rafzZ~ |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 13, 2023 01:34:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515604867754809 |
-| Players | 9/10 |
-| Host Name | :p |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 01:33:32 |
+| Lobby ID | 28515604869469211 |
+| Players | 1/8 |
+| Host Name | trypak |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 01:35:10 |
 
 
 |  | ot3_desert_octet |
@@ -130,47 +130,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515604868372424 |
-| Players | 7/10 |
-| Host Name | арбузный стейк |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 13, 2023 01:34:07 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
 | Lobby ID | 28515604869011151 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | madmax_ro |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 13, 2023 01:34:43 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515604869364039 |
-| Players | 1/8 |
-| Host Name | •Den010201• |
+| Lobby ID | 28515604869591580 |
+| Players | 1/10 |
+| Host Name | DoNtCliCKoNThiS |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 01:35:04 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515604869431804 |
-| Players | 3/8 |
-| Host Name | Sex instructor ⚤ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 01:35:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515604869433605 |
-| Players | 2/8 |
-| Host Name | twitch.tv/a1ayar |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 01:35:08 |
+| Lobby Creation Time | Monday, November 13, 2023 01:35:17 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -198,15 +171,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | sacmadic |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Monday, November 13, 2023 01:33:48 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515604822646675 |
-| Players | 1/10 |
-| Host Name | alleks |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 00:52:55 |
 
 
 |  | epic_boss_fight_normal |
