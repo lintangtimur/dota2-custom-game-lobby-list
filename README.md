@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604821236670 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | Razor |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 13, 2023 00:51:41 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604821725699 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Hope |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 00:52:07 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515604813985297 |
-| Players | 11/15 |
-| Host Name | GG.SPAM.EC |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 00:45:25 |
+| Lobby ID | 28515604822789983 |
+| Players | 1/15 |
+| Host Name | くみこ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 00:53:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604821181196 |
-| Players | 3/10 |
+| Players | 6/10 |
 | Host Name | betrayed |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 00:51:38 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604820206568 |
-| Players | 7/24 |
+| Players | 10/24 |
 | Host Name | pienso luego tiro six :C |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 00:50:48 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515604821699760 |
-| Players | 2/8 |
-| Host Name | f-16c block 50 war thunder |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 00:52:05 |
+| Lobby ID | 28515604822699262 |
+| Players | 1/8 |
+| Host Name | kwite |
+| Region | AUSTRIA |
+| Lobby Creation Time | Monday, November 13, 2023 00:52:57 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604817466915 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | 青衣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 00:48:25 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604816808746 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | fake jaja (i love peru) |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 00:47:50 |
@@ -137,30 +137,39 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 00:49:58 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515604822360430 |
-| Players | 3/5 |
-| Host Name | ТУРБОвоин |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 13, 2023 00:52:40 |
+| Lobby ID | 28515604822773438 |
+| Players | 1/10 |
+| Host Name | bajando pepa en arconte |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 00:53:01 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515604822627245 |
-| Players | 1/5 |
-| Host Name | {-=Yatagarasu=-} |
+| Lobby ID | 28515604822854693 |
+| Players | 1/15 |
+| Host Name | W.M.D |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 00:52:54 |
+| Lobby Creation Time | Monday, November 13, 2023 00:53:06 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515604822646675 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | кучка зомбе :3 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 00:52:55 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28515604822870309 |
+| Players | 3/7 |
+| Host Name | il Mago di Garda |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 13, 2023 00:53:06 |
 
 
