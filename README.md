@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515603596044945 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | niko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 12, 2023 07:00:39 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 12, 2023 07:01:04 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515603595498762 |
-| Players | 1/8 |
-| Host Name | Chechito |
-| Region | PERU |
-| Lobby Creation Time | Sunday, November 12, 2023 06:59:36 |
+| Lobby ID | 28515603596313585 |
+| Players | 2/10 |
+| Host Name | [PFA] Лирика |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 12, 2023 07:01:10 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515603594289822 |
-| Players | 7/10 |
-| Host Name | uzuel12 |
+| Players | 6/10 |
+| Host Name | PATOPOWER |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 12, 2023 06:57:21 |
 
@@ -77,19 +77,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515603593888285 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | черти |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 06:56:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515603595323130 |
-| Players | 6/8 |
-| Host Name | LooPer |
+| Lobby ID | 28515603596297323 |
+| Players | 2/24 |
+| Host Name | ►   ƸƿRÖÐȉƂƴ |
 | Region | PERU |
-| Lobby Creation Time | Sunday, November 12, 2023 06:59:16 |
+| Lobby Creation Time | Sunday, November 12, 2023 07:01:09 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515603596355941 |
+| Players | 1/24 |
+| Host Name | xqcL |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 12, 2023 07:01:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515603595747906 |
+| Players | 7/10 |
+| Host Name | Firtl |
+| Region | EUROPE |
+| Lobby Creation Time | Sunday, November 12, 2023 07:00:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515603596396908 |
+| Players | 1/15 |
+| Host Name | [Tazer> |
+| Region | PERU |
+| Lobby Creation Time | Sunday, November 12, 2023 07:01:20 |
 
 
 |  | epic_boss_fight_nightmare |
