@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604326638461 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Airo |
 | Region | JAPAN |
 | Lobby Creation Time | Sunday, November 12, 2023 19:33:36 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604318125586 |
-| Players | 20/24 |
+| Players | 19/24 |
 | Host Name | Henritler |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 12, 2023 19:28:25 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604271361416 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | Jing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 12, 2023 18:59:04 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515604333969040 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | red |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 19:37:58 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604332618213 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | mesuperduperultrabad |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 19:37:09 |
@@ -94,29 +94,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515604334600434 |
+| Lobby ID | 28515604334864809 |
 | Players | 4/8 |
-| Host Name | [ЧВК BW] mefex |
+| Host Name | Oni_rn |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 19:38:20 |
+| Lobby Creation Time | Sunday, November 12, 2023 19:38:30 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515604305867073 |
-| Players | 2/8 |
-| Host Name | гордей |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 19:20:57 |
+| Lobby ID | 28515604334370510 |
+| Players | 9/10 |
+| Host Name | Wukash |
+| Region | AUSTRIA |
+| Lobby Creation Time | Sunday, November 12, 2023 19:38:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515604334444464 |
-| Players | 3/15 |
-| Host Name | Bananas |
-| Region | AUSTRIA |
-| Lobby Creation Time | Sunday, November 12, 2023 19:38:15 |
+| Lobby ID | 28515604334327041 |
+| Players | 4/15 |
+| Host Name | PERALTA |
+| Region | USEAST |
+| Lobby Creation Time | Sunday, November 12, 2023 19:38:10 |
 
 
 |  | ot3_gardens_duo |
@@ -131,37 +131,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604321293185 |
-| Players | 13/24 |
+| Players | 8/24 |
 | Host Name | あなたの番です |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 12, 2023 19:30:22 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515604334327041 |
-| Players | 4/15 |
-| Host Name | PERALTA |
-| Region | USEAST |
-| Lobby Creation Time | Sunday, November 12, 2023 19:38:10 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515604334370510 |
-| Players | 4/10 |
-| Host Name | Wukash |
-| Region | AUSTRIA |
-| Lobby Creation Time | Sunday, November 12, 2023 19:38:12 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515604334540642 |
-| Players | 5/24 |
-| Host Name | LidoraN |
-| Region | AUSTRIA |
-| Lobby Creation Time | Sunday, November 12, 2023 19:38:18 |
 
 
 |  | epic_boss_fight_normal |
@@ -193,11 +166,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28515604317262895 |
-| Players | 8/10 |
-| Host Name | Payasín el Payasote |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 19:27:53 |
+| Lobby ID | 28515604309593174 |
+| Players | 9/10 |
+| Host Name | iam HORNY ✪ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 12, 2023 19:23:13 |
 
 
 |  | epic_boss_fight_nightmare |
