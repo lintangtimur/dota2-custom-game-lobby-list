@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604577468857 |
-| Players | 6/24 |
-| Host Name | LunaShadow |
+| Players | 4/24 |
+| Host Name | hiiro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 12, 2023 21:57:23 |
 
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515604627962104 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | 無定向喪心病狂 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Sunday, November 12, 2023 22:28:16 |
@@ -119,13 +119,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 12, 2023 22:30:54 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515604631539166 |
-| Players | 9/10 |
-| Host Name | кспинеспина паца |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Sunday, November 12, 2023 22:30:32 |
+| Lobby ID | 28515604632524411 |
+| Players | 1/24 |
+| Host Name | Felix |
+| Region | JAPAN |
+| Lobby Creation Time | Sunday, November 12, 2023 22:31:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515604576163975 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | ✪ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 21:56:37 |
@@ -149,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515604627883927 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Tuki Tuki Tuki Tuki ♪♪♪♪♪♪ |
 | Region | PERU |
 | Lobby Creation Time | Sunday, November 12, 2023 22:28:12 |
@@ -157,29 +157,29 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515604632524411 |
+| Lobby ID | 28515604632606652 |
 | Players | 1/24 |
-| Host Name | Felix |
-| Region | JAPAN |
-| Lobby Creation Time | Sunday, November 12, 2023 22:31:10 |
+| Host Name | HashiRama |
+| Region | SINGAPORE |
+| Lobby Creation Time | Sunday, November 12, 2023 22:31:13 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515604632761110 |
+| Players | 2/10 |
+| Host Name | Popig Immortal |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Sunday, November 12, 2023 22:31:19 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515604631472241 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | kub |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Sunday, November 12, 2023 22:30:29 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28515604632123516 |
-| Players | 4/5 |
-| Host Name | levoruk39 |
-| Region | AUSTRIA |
-| Lobby Creation Time | Sunday, November 12, 2023 22:30:55 |
 
 
 |  | epic_boss_fight_challenger |
