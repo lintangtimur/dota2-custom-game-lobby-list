@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 16:58:50 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605402870186 |
-| Players | 23/24 |
-| Host Name | BoBo |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 16:57:46 |
+| Lobby ID | 28515605405381004 |
+| Players | 1/15 |
+| Host Name | кожаный трактор |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, November 13, 2023 17:01:44 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605404120646 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | radbix |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 16:59:42 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605404632339 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Я БЛИЖЕ К БОГУ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 17:00:32 |
@@ -76,17 +76,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605405381004 |
+| Lobby ID | 28515605405579294 |
 | Players | 1/15 |
-| Host Name | кожаный трактор |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 13, 2023 17:01:44 |
+| Host Name | Bananas |
+| Region | AUSTRIA |
+| Lobby Creation Time | Monday, November 13, 2023 17:02:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515605405587428 |
+| Players | 1/24 |
+| Host Name | Deva path |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 17:02:03 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28515605402449802 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | IWillMakeYouCry |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 16:57:07 |
@@ -99,14 +108,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | SummYourMom |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 13, 2023 17:01:04 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28515605405464814 |
-| Players | 1/5 |
-| Host Name | Vile Village |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 13, 2023 17:01:51 |
 
 
