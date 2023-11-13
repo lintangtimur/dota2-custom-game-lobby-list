@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605402300938 |
-| Players | 2/10 |
-| Host Name | Dragos |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 13, 2023 16:56:53 |
+| Lobby ID | 28515605402478158 |
+| Players | 3/10 |
+| Host Name | ТУЯ) |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 16:57:10 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605399549924 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | YoBro |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 16:52:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605401787627 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Kukurikapu |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 16:56:06 |
@@ -65,13 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 16:56:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605399888352 |
-| Players | 14/15 |
-| Host Name | I |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 13, 2023 16:53:11 |
+| Lobby ID | 28515605402504997 |
+| Players | 1/8 |
+| Host Name | Metraflex |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 16:57:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605402452394 |
+| Players | 2/10 |
+| Host Name | rene |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 16:57:07 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Vile Village |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 13, 2023 16:55:29 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28515605402449802 |
+| Players | 1/5 |
+| Host Name | IWillMakeYouCry |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 16:57:07 |
 
 
