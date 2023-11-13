@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544016781533 |
-| Players | 11/15 |
-| Host Name | Zi|3erZo|Ds #08 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:42:09 |
+| Lobby ID | 28519544017929062 |
+| Players | 1/8 |
+| Host Name | Пивзавод Огурчик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:44:57 |
 
 
 |  | ot3_desert_octet |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544017077084 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | BROOKLYN |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:42:53 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544015106256 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | KeyOfTheSun |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:38:04 |
@@ -83,15 +83,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 06:42:20 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544017095534 |
-| Players | 9/15 |
-| Host Name | bitcorn |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:42:56 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519543979852405 |
@@ -103,19 +94,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544017505438 |
-| Players | 1/10 |
-| Host Name | ☜➀☞Dreamer☜➀☞ CASEDR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:43:56 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28519544014679695 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | -Panico |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:37:02 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544017779877 |
+| Players | 1/5 |
+| Host Name | Camry 3.5 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:44:36 |
 
 
