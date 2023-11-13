@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605747128338 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Deva path |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 21:48:53 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605761017860 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | Netske |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 21:58:29 |
@@ -104,28 +104,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605750296827 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | UwU |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 21:51:05 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605762648670 |
-| Players | 2/8 |
-| Host Name | overboard |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 13, 2023 21:59:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605738415932 |
-| Players | 4/8 |
-| Host Name | Gol_D_Roger |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 21:42:57 |
 
 
 |  | ot3_necropolis_ffa |
@@ -139,44 +121,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605763230505 |
-| Players | 4/8 |
-| Host Name | blurred mind |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 13, 2023 22:00:01 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515605749217346 |
-| Players | 8/10 |
-| Host Name | lupanamaingatrasa |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 21:50:20 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515605760673141 |
-| Players | 1/10 |
-| Host Name | ZUZI |
+| Lobby ID | 28515605738415932 |
+| Players | 5/8 |
+| Host Name | Gol_D_Roger |
 | Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 21:58:14 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515605746248532 |
-| Players | 1/10 |
-| Host Name | Bagema616 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 21:48:17 |
+| Lobby Creation Time | Monday, November 13, 2023 21:42:57 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605732870674 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | Y0ur_Bunny_Wr0te |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 21:39:13 |
