@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 03:16:25 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543902318775 |
-| Players | 1/10 |
-| Host Name | mmmMMM |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:18:50 |
+| Lobby ID | 28519543901717668 |
+| Players | 3/8 |
+| Host Name | SrDumii |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:18:02 |
 
 
 |  | ot3_necropolis_ffa |
@@ -148,26 +148,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543901717668 |
-| Players | 3/8 |
-| Host Name | SrDumii |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:18:02 |
+| Lobby ID | 28519543902214062 |
+| Players | 4/8 |
+| Host Name | негры извините |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:18:41 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543902226400 |
-| Players | 6/10 |
-| Host Name | Ethea |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:18:42 |
+| Lobby ID | 28519543902483043 |
+| Players | 1/15 |
+| Host Name | [TM's] Moral Man |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:19:02 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519543902539302 |
+| Players | 1/8 |
+| Host Name | 1Mao |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:19:06 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519543898698055 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | JIMMY |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:14:11 |
