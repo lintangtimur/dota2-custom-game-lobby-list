@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605198244079 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Que  LoQUE |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 10:41:16 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605084238902 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Dul Kanırtan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 06:24:17 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605199244229 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 10:43:30 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605199419008 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | s@ilen |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 10:43:53 |
@@ -113,10 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605199935721 |
-| Players | 4/8 |
-| Host Name | rambechi |
+| Players | 1/8 |
+| Host Name | LIL BASTARDITO |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 10:45:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605200013630 |
+| Players | 1/15 |
+| Host Name | Antonio Margharette |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 10:45:13 |
 
 
 |  | epic_boss_fight_challenger |
@@ -131,27 +140,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605197582324 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | trance |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 10:39:49 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515605198438057 |
-| Players | 9/10 |
-| Host Name | ang qt qt ko |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 10:41:42 |
-
-
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28515605197405450 |
-| Players | 3/7 |
-| Host Name | RANITIDINA |
+| Players | 1/7 |
+| Host Name | AFF_MAN🐧 |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 10:39:26 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28515605200071299 |
+| Players | 2/5 |
+| Host Name | ROSHI |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 10:45:21 |
 
 
