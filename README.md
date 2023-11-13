@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605246464646 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | СЕРЕГА А ПОМНИШЬ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 12:21:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605245688376 |
-| Players | 14/15 |
-| Host Name | [MIR-12] SAILAR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 12:19:46 |
+| Lobby ID | 28515605246727881 |
+| Players | 1/24 |
+| Host Name | ElGO TITO |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 12:21:49 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605244529401 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Drive my car |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 12:17:28 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605244145311 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 12:16:42 |
@@ -77,18 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605246392816 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Bing Chillingo |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 12:21:09 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605246727881 |
-| Players | 1/24 |
-| Host Name | ElGO TITO |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 12:21:49 |
+| Lobby ID | 28515605246953682 |
+| Players | 1/8 |
+| Host Name | Richi Rage |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 13, 2023 12:22:16 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515605246942472 |
+| Players | 1/10 |
+| Host Name | 劍風金 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 12:22:15 |
 
 
