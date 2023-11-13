@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605279533154 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | sad qweqwe |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 13, 2023 13:28:27 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605377021715 |
-| Players | 4/8 |
-| Host Name | Archmage_path |
+| Players | 3/8 |
+| Host Name | Nextlevel_tuuk |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 16:17:29 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605377295219 |
-| Players | 2/8 |
-| Host Name | ビザを取得する |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 16:17:55 |
+| Lobby ID | 28515605377266607 |
+| Players | 1/10 |
+| Host Name | trash teammate |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 13, 2023 16:17:52 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605376395282 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | TwIlIGhT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 16:16:30 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 16:17:00 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605377266607 |
-| Players | 1/10 |
-| Host Name | trash teammate |
+| Lobby ID | 28515605377396736 |
+| Players | 2/15 |
+| Host Name | underTHEstaff |
 | Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 16:17:52 |
+| Lobby Creation Time | Monday, November 13, 2023 16:18:05 |
 
 
 |  | epic_boss_fight_nightmare |
