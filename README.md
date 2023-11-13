@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605170751829 |
-| Players | 7/15 |
+| Players | 6/15 |
 | Host Name | Nothing |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 09:40:33 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605171290770 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | faloopi |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 09:41:44 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605171094631 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Kärss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 09:41:18 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605170882269 |
-| Players | 14/24 |
+| Players | 20/24 |
 | Host Name | :D |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 09:40:50 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605171101089 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | SUMMA FANNTASY THG |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 09:41:19 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605171378266 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | babyJesus- |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 09:41:56 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Jack Oscar |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 09:41:31 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515605168555236 |
-| Players | 9/10 |
-| Host Name | 냠냠 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 09:35:42 |
 
 
