@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605328188484 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | Trungdaica |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 14:58:27 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605326266130 |
-| Players | 8/15 |
+| Players | 13/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 14:55:08 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605329201291 |
-| Players | 1/10 |
+| Players | 5/10 |
 | Host Name | trash teammate |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 15:00:14 |
@@ -76,11 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605329592728 |
+| Lobby ID | 28515605329827923 |
 | Players | 1/15 |
 | Host Name | Willl |
 | Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Monday, November 13, 2023 15:00:57 |
+| Lobby Creation Time | Monday, November 13, 2023 15:01:23 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605330018396 |
+| Players | 1/8 |
+| Host Name | ¤︻デ≡ 一 |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 13, 2023 15:01:43 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -90,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ༒A r s e༺ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 14:26:52 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515605329792881 |
-| Players | 1/10 |
-| Host Name | Returned by the Hospital |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 15:01:19 |
 
 
