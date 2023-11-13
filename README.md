@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605442651926 |
-| Players | 3/15 |
+| Players | 6/15 |
 | Host Name | лесная похуистка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 17:52:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605442194442 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | 1 man with 7 animals |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 13, 2023 17:51:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28515605443324019 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | вампир кузнецов |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 17:53:05 |
