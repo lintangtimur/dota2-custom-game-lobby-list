@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605279533154 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | sad qweqwe |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 13, 2023 13:28:27 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605320799703 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Scooter boi |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 14:45:38 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605322419109 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | player123 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:48:28 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605322999504 |
-| Players | 4/15 |
+| Players | 5/15 |
 | Host Name | Shadow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:49:28 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605323084312 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | ✿GOJO SATORU✿ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:49:37 |
@@ -122,27 +122,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605310284875 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 14:26:52 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515605323065256 |
-| Players | 1/10 |
-| Host Name | ༒A r s e༺ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 14:49:35 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515605323367630 |
-| Players | 1/10 |
-| Host Name | antut™ |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 14:50:06 |
 
 
