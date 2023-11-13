@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605303654343 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | HashiRama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 14:14:35 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605301593073 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Jane.A7x |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 14:10:47 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605303260047 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | Nacho Fierro |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 14:13:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605303234347 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Wiedmolol bool |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:13:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605304111733 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Vuvuzela Virtuoso Hans Rudolph |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 14:15:26 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605303682055 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 110 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:14:38 |
