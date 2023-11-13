@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605520639451 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | SuurUkko |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 19:09:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605513201767 |
-| Players | 18/24 |
+| Players | 20/24 |
 | Host Name | CEO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 19:02:41 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605541994489 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Deadline |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 19:26:17 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605543279906 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | CombatWorthyWombat |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 13, 2023 19:27:18 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605542271537 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | PerTzo |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 13, 2023 19:26:30 |
@@ -101,10 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 19:19:38 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605544374004 |
+| Players | 1/8 |
+| Host Name | FuckingPeople |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 19:28:09 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605541165046 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 不狂菜狗子 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 19:25:38 |
