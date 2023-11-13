@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605313922647 |
-| Players | 5/24 |
+| Players | 4/24 |
 | Host Name | Percibal |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 14:33:27 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605319761484 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Menace2Society |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 14:43:46 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605319335974 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | Ем казявки |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 14:43:01 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605318445248 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Touhou |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 14:41:27 |
