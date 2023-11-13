@@ -74,15 +74,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 16:40:08 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605391584676 |
-| Players | 2/8 |
-| Host Name | Rina Palenkova |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 16:40:30 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605388871430 |
@@ -113,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605389712458 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Сергей |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 16:37:33 |
