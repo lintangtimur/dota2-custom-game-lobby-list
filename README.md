@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605178817495 |
-| Players | 17/24 |
+| Players | 20/24 |
 | Host Name | Synchronicity III |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 09:58:27 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 06:24:17 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605179340672 |
-| Players | 9/10 |
-| Host Name | real jaja (i hate peru) |
+| Lobby ID | 28515605179904279 |
+| Players | 1/8 |
+| Host Name | alexmercerjta123 |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 09:59:37 |
+| Lobby Creation Time | Monday, November 13, 2023 10:00:52 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605178366945 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 游戏蝗虫农师傅 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 09:57:27 |
@@ -77,36 +77,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605179122126 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Puppey |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 09:59:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28515605179904279 |
-| Players | 1/8 |
-| Host Name | Hope |
+| Lobby ID | 28515605174061519 |
+| Players | 9/10 |
+| Host Name | kaito |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 10:00:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605180117402 |
-| Players | 1/15 |
-| Host Name | Zykan Sila |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 10:01:21 |
+| Lobby Creation Time | Monday, November 13, 2023 09:47:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28515605174061519 |
-| Players | 8/10 |
-| Host Name | kaito |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 09:47:55 |
+| Lobby ID | 28515605180155261 |
+| Players | 1/10 |
+| Host Name | Agnis |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 10:01:26 |
 
 
