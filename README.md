@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544016885544 |
-| Players | 17/24 |
+| Players | 18/24 |
 | Host Name | SeT |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:42:25 |
@@ -23,25 +23,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544019876885 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | im fine too |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:49:47 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544019013595 |
-| Players | 7/10 |
-| Host Name | Don Chiwawa |
+| Lobby ID | 28519544020000180 |
+| Players | 1/15 |
+| Host Name | Τουρκικά*-* |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:47:38 |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:50:05 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544013780302 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Karma |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:34:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544019204855 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | DeVIP |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:48:06 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544012454074 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | 青衣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:31:40 |
@@ -69,7 +69,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28519544019295016 |
 | Players | 3/10 |
-| Host Name | Pudge is the main character |
+| Host Name | Sifo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:48:19 |
 
