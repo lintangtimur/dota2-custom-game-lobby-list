@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605290209610 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Mo' Cake |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 13:49:13 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605290357489 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Moon |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 13:49:31 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605290737032 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | HQD СО ВКУСОМ ПИВА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 13:50:15 |
@@ -77,16 +77,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605287585709 |
-| Players | 9/10 |
-| Host Name | Godson [BNCE] |
+| Players | 7/10 |
+| Host Name | zzz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 13:44:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515605291236282 |
+| Players | 3/24 |
+| Host Name | name |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 13:51:12 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605289670987 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | ► Good gay, noob played |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 13:48:10 |
