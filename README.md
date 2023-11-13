@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605197535612 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | 【༺𒋲✶...LombriS...✶༺ |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 10:39:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605197664222 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | SCP |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 10:40:00 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 10:41:30 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605197356256 |
-| Players | 8/10 |
-| Host Name | alenose |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 10:39:19 |
+| Lobby ID | 28515605198572407 |
+| Players | 6/15 |
+| Host Name | Puerco araña |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 13, 2023 10:42:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605198472743 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Fancy.QuoRRah |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 13, 2023 10:41:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605198572407 |
-| Players | 5/15 |
-| Host Name | Puerco araña |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 10:42:00 |
 
 
 |  | epic_boss_fight_challenger |
@@ -140,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605198438057 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ang qt qt ko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 10:41:42 |
