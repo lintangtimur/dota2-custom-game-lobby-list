@@ -31,20 +31,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605384234375 |
+| Lobby ID | 28515605385332994 |
 | Players | 7/10 |
-| Host Name | Mafozik |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 13, 2023 16:28:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605384359183 |
-| Players | 4/8 |
-| Host Name | シャイルシェイ |
+| Host Name | Я БЛИЖЕ К БОГУ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 16:29:01 |
+| Lobby Creation Time | Monday, November 13, 2023 16:30:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605385044370 |
+| Players | 1/15 |
+| Host Name | Лишний |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 13, 2023 16:30:07 |
 
 
 |  | ot3_gardens_duo |
@@ -59,28 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605384730344 |
-| Players | 10/24 |
+| Players | 14/24 |
 | Host Name | 牛排三分熟 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 16:29:36 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605385044370 |
-| Players | 1/15 |
-| Host Name | Лишний |
+| Lobby ID | 28515605385533183 |
+| Players | 1/8 |
+| Host Name | Gliknot |
 | Region | BRAZIL |
-| Lobby Creation Time | Monday, November 13, 2023 16:30:07 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515605384132126 |
-| Players | 7/10 |
-| Host Name | W33 |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 16:28:40 |
+| Lobby Creation Time | Monday, November 13, 2023 16:30:53 |
 
 
 |  | epic_boss_fight_normal |
