@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543760992024 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | doctor |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 14, 2023 00:42:09 |
@@ -23,9 +23,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605946619041 |
-| Players | 6/10 |
+| Players | 4/10 |
 | Host Name | Marimo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 00:36:49 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519543762067710 |
+| Players | 1/15 |
+| Host Name | SURGE |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, November 14, 2023 00:42:37 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543762149796 |
+| Players | 3/10 |
+| Host Name | Charon Baby |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 00:42:43 |
 
 
