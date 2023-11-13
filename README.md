@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 12:01:20 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605245287684 |
-| Players | 1/24 |
-| Host Name | ROCK LEE |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 13, 2023 12:18:59 |
+| Lobby ID | 28515605245203118 |
+| Players | 1/8 |
+| Host Name | MOTYAMOTYAMOTYAMOTYAMOTYAMOTYA |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 12:18:48 |
 
 
 |  | ot3_gardens_duo |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605245328714 |
-| Players | 12/15 |
-| Host Name | Kurapika: The last Inca |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 12:19:03 |
+| Lobby ID | 28515605245688376 |
+| Players | 2/15 |
+| Host Name | [MIR-12] SAILAR |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 12:19:46 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605245368425 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | ⓞ︎ⓜ︎ⓔ︎ⓝ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 12:19:08 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605244788981 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | на чем по kaify |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 12:17:59 |
@@ -95,37 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605245086886 |
-| Players | 17/24 |
+| Players | 22/24 |
 | Host Name | DIMITREE |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 12:18:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605245203118 |
-| Players | 1/8 |
-| Host Name | MOTYAMOTYAMOTYAMOTYAMOTYAMOTYA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 12:18:48 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605245688376 |
-| Players | 2/15 |
-| Host Name | [MIR-12] SAILAR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 12:19:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605245734173 |
-| Players | 1/10 |
-| Host Name | Maea |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 13, 2023 12:19:51 |
 
 
 |  | epic_boss_fight_nightmare |
