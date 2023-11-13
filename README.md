@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605757544528 |
-| Players | 4/15 |
+| Players | 14/15 |
 | Host Name | Hari Seldon |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 13, 2023 21:56:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605731918373 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | MoonWalker |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 21:38:36 |
@@ -113,19 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605750502301 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Вася |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 21:51:13 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605757533599 |
-| Players | 1/24 |
-| Host Name | aubangurmom |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 21:56:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -135,15 +126,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Жак Оакфиелд |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 21:56:07 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605754559378 |
-| Players | 14/15 |
-| Host Name | MercurУ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 21:54:01 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -158,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605756490992 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ZEFIR |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 13, 2023 21:55:21 |
@@ -167,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605726859438 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | biniboi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 21:35:15 |
