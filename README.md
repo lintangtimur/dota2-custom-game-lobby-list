@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 15:19:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605390006038 |
-| Players | 14/15 |
-| Host Name | CupOfTeaHeadass |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 16:38:00 |
+| Lobby ID | 28515605393331706 |
+| Players | 1/10 |
+| Host Name | . |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 13, 2023 16:43:09 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605392616896 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Безумный Паша |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 16:42:04 |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 16:42:11 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605393331706 |
-| Players | 1/10 |
-| Host Name | . |
+| Lobby ID | 28515605393476711 |
+| Players | 1/8 |
+| Host Name | HELLS GATE |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 13, 2023 16:43:09 |
+| Lobby Creation Time | Monday, November 13, 2023 16:43:21 |
 
 
 |  | epic_boss_fight_nightmare |
