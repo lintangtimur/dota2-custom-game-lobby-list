@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605394341707 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Br0ker |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 16:44:40 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605392325765 |
-| Players | 22/24 |
-| Host Name | Fabian! |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 16:41:37 |
+| Lobby ID | 28515605394078573 |
+| Players | 6/8 |
+| Host Name | TheSnottyMidget |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 13, 2023 16:44:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,37 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605394978215 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | 1Г |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 16:45:39 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605394078573 |
-| Players | 6/8 |
-| Host Name | TheSnottyMidget |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 13, 2023 16:44:16 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605395166555 |
-| Players | 1/15 |
-| Host Name | tsusaadfssa |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 16:45:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605395170447 |
-| Players | 4/8 |
-| Host Name | Ведьмак |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 16:45:56 |
+| Lobby ID | 28515605395307163 |
+| Players | 1/24 |
+| Host Name | 爱要弹蛋蛋 |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 16:46:09 |
 
 
 |  | epic_boss_fight_nightmare |
