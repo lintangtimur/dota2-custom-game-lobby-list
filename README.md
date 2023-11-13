@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605674167876 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Канистрыч |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 21:00:05 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605668876273 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | pikaboo.... |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 20:56:34 |
@@ -41,25 +41,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605673035261 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | 别问，问就是菜 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 20:59:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605674242210 |
-| Players | 1/8 |
-| Host Name | hellsahavef#ck |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 21:00:08 |
+| Lobby ID | 28515605674531165 |
+| Players | 3/15 |
+| Host Name | Kazakura |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, November 13, 2023 21:00:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605669245793 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | dARE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 20:56:48 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605660352413 |
-| Players | 15/24 |
+| Players | 13/24 |
 | Host Name | deepest |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 20:50:53 |
@@ -83,13 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 20:59:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605674053752 |
-| Players | 1/8 |
-| Host Name | SHIZOPHRENIK |
+| Lobby ID | 28515605665091259 |
+| Players | 1/10 |
+| Host Name | extension |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 21:00:00 |
+| Lobby Creation Time | Monday, November 13, 2023 20:54:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605658710400 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | 2393 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 20:49:48 |
@@ -131,8 +131,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605669725762 |
-| Players | 6/8 |
-| Host Name | XTC |
+| Players | 5/8 |
+| Host Name | bring back arcane blink |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 20:57:07 |
 
@@ -146,19 +146,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 20:40:31 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605665091259 |
-| Players | 1/10 |
-| Host Name | extension |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 20:54:02 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605673243124 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | eNerGiZe |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 20:59:28 |
@@ -185,9 +176,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605657236688 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | ♂ I'm Performance Artist ♂ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 20:48:49 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515605662484380 |
+| Players | 3/10 |
+| Host Name | takina inoue is not my wife |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 20:52:19 |
 
 
