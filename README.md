@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 04:31:16 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543952795683 |
-| Players | 7/8 |
-| Host Name | Popig Immortal |
+| Lobby ID | 28519543953846973 |
+| Players | 2/10 |
+| Host Name | - RI$€_U₱- |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:32:35 |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:34:21 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,9 +68,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543953423658 |
-| Players | 8/15 |
+| Players | 11/15 |
 | Host Name | Shamil Basaev |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:33:38 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519543953834705 |
+| Players | 1/8 |
+| Host Name | Nothing we can do |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:34:20 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543953845507 |
+| Players | 2/10 |
+| Host Name | XD¿? |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:34:21 |
 
 
