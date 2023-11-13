@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605279533154 |
-| Players | 4/15 |
+| Players | 2/15 |
 | Host Name | sad qweqwe |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 13, 2023 13:28:27 |
@@ -38,40 +38,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 16:33:32 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605387380995 |
-| Players | 7/10 |
-| Host Name | ashiro |
+| Lobby ID | 28515605387769668 |
+| Players | 2/15 |
+| Host Name | 仨五丫 匚仨匚丅尸丫 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 16:33:51 |
+| Lobby Creation Time | Monday, November 13, 2023 16:34:28 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605387033443 |
-| Players | 4/8 |
-| Host Name | Хахаль твоей мамы |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 16:33:18 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28515605386623937 |
-| Players | 1/5 |
-| Host Name | kayatgamay |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 16:32:38 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515605386929131 |
-| Players | 5/10 |
-| Host Name | I`m practicing bear with me |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 16:33:08 |
+| Lobby ID | 28515605385647938 |
+| Players | 5/8 |
+| Host Name | be kind |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 13, 2023 16:31:04 |
 
 
 |  | epic_boss_fight_normal |
@@ -81,5 +63,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | IWillMakeYouCry |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 13, 2023 16:34:15 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515605386929131 |
+| Players | 6/10 |
+| Host Name | I`m practicing bear with me |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 16:33:08 |
 
 
