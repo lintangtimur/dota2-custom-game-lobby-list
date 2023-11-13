@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605834785118 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | UR'SUS |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 13, 2023 22:53:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605834539768 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | Deadline |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 22:52:50 |
@@ -47,49 +47,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 22:47:08 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605823011666 |
-| Players | 13/15 |
-| Host Name | sky spirit |
+| Lobby ID | 28515605828108341 |
+| Players | 9/10 |
+| Host Name | RIZZGOD 3XL GYATTT |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 22:43:45 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605834755854 |
-| Players | 1/24 |
-| Host Name | Remy |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 22:53:01 |
+| Lobby Creation Time | Monday, November 13, 2023 22:47:43 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605834776359 |
-| Players | 3/8 |
-| Host Name | ShockBan_ |
+| Lobby ID | 28515605834964659 |
+| Players | 1/8 |
+| Host Name | NO MAS |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 22:53:02 |
+| Lobby Creation Time | Monday, November 13, 2023 22:53:11 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605834790034 |
-| Players | 1/15 |
-| Host Name | doraemon |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 22:53:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605834798127 |
-| Players | 1/15 |
-| Host Name | Rider |
-| Region | PWTELECOMZHEJIANG |
-| Lobby Creation Time | Monday, November 13, 2023 22:53:03 |
+| Lobby ID | 28515605834870256 |
+| Players | 6/15 |
+| Host Name | SSK |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 13, 2023 22:53:06 |
 
 
 |  | epic_boss_fight_nightmare |
