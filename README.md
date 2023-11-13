@@ -13,17 +13,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605288691601 |
-| Players | 14/15 |
-| Host Name | The horror of flying on the wing |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 13:46:15 |
+| Lobby ID | 28515605290209610 |
+| Players | 1/15 |
+| Host Name | Mo' Cake |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 13:49:13 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605289631687 |
-| Players | 4/24 |
+| Players | 5/24 |
 | Host Name | 不和小人一般见识 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 13:48:05 |
@@ -81,23 +81,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ► Good gay, noob played |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 13:48:10 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28515605289909341 |
-| Players | 1/7 |
-| Host Name | Алексей Навальный |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 13:48:38 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28515605290189349 |
-| Players | 1/5 |
-| Host Name | '๑bibibibibo☺ |
-| Region | Unknown |
-| Lobby Creation Time | Monday, November 13, 2023 13:49:11 |
 
 
