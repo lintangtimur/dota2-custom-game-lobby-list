@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 14:22:04 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605306538088 |
-| Players | 13/15 |
-| Host Name | :scythephόriâ 力 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 14:19:56 |
+| Lobby ID | 28515605308419629 |
+| Players | 2/24 |
+| Host Name | ZZZZZZZZZZZZ!!!!! |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, November 13, 2023 14:23:26 |
 
 
 |  | ot3_desert_octet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605303260047 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | no masteries |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 14:13:51 |
@@ -74,28 +74,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 14:22:39 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605308419629 |
-| Players | 2/24 |
-| Host Name | ZZZZZZZZZZZZ!!!!! |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 13, 2023 14:23:26 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605308729044 |
-| Players | 1/15 |
-| Host Name | ♨️🚫 A5.pochi 🚫♨ |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 14:24:00 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605303893154 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Maharaja Lawana |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:15:02 |
