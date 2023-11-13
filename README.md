@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605181681963 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | nv |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 10:04:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605181259428 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Yappy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 10:03:53 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605178366945 |
-| Players | 20/24 |
+| Players | 21/24 |
 | Host Name | 游戏蝗虫农师傅 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 09:57:27 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605181682122 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | Caillou |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 10:04:49 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605182197591 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | pox na game |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 10:05:58 |
@@ -104,25 +104,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605182023393 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | Хуй как шампунь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 10:05:35 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605182057066 |
-| Players | 2/8 |
-| Host Name | 我会一次又一次地尝试 |
+| Lobby ID | 28515605180394667 |
+| Players | 10/10 |
+| Host Name | Eliazz🐯 |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 10:05:39 |
+| Lobby Creation Time | Monday, November 13, 2023 10:01:58 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605182099831 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | Atlas Troll |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 10:05:45 |
