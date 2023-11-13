@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605596627170 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | TxroguexT Godota2.com |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 20:06:56 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605596560139 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Чак-Чак Норрис |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 20:06:53 |
@@ -158,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605594936796 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | �DANGER D1м( )4K@� |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 13, 2023 20:05:42 |
@@ -173,12 +173,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 19:49:12 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605596926106 |
-| Players | 1/5 |
-| Host Name | Wizard |
+| Lobby ID | 28515605593146396 |
+| Players | 3/8 |
+| Host Name | Deadline |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 20:04:25 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515605597128255 |
+| Players | 5/10 |
+| Host Name | KAMUI RAIKI |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 20:07:09 |
+| Lobby Creation Time | Monday, November 13, 2023 20:07:17 |
 
 
