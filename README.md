@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544017077084 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | BROOKLYN |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:42:53 |
@@ -103,28 +103,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519544015699232 |
-| Players | 1/10 |
-| Host Name | Secretary-specific |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:39:31 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519544014679695 |
-| Players | 5/10 |
-| Host Name | -Panico |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:37:02 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
 | Lobby ID | 28519544017505438 |
 | Players | 1/10 |
 | Host Name | ☜➀☞Dreamer☜➀☞ CASEDR |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:43:56 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544014679695 |
+| Players | 6/10 |
+| Host Name | -Panico |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:37:02 |
 
 
