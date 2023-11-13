@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605171746426 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Sol[A]ce |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 09:42:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605172887273 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Ana nam |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 09:45:16 |
@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605173606756 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | hc pls |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 09:46:53 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605173588738 |
-| Players | 1/10 |
-| Host Name | GREED |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 09:46:51 |
+| Lobby ID | 28515605173733870 |
+| Players | 1/24 |
+| Host Name | Potatoes gonna potate! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 09:47:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -92,28 +92,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 09:46:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605173455652 |
-| Players | 1/8 |
-| Host Name | 543846026 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 09:46:33 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605173700242 |
-| Players | 4/8 |
-| Host Name | Vessel, |
+| Lobby ID | 28515605173771411 |
+| Players | 3/10 |
+| Host Name | Masha |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 09:47:06 |
+| Lobby Creation Time | Monday, November 13, 2023 09:47:15 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605171857631 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | trance |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 09:43:00 |
