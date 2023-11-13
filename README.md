@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605222136426 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | Magna Lisa |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 11:32:47 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605221864431 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 13, 2023 11:32:14 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605224218832 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | ' |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:36:55 |
@@ -50,46 +50,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605223381015 |
-| Players | 6/15 |
+| Players | 10/15 |
 | Host Name | 111111111111111111 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 11:35:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605222704086 |
-| Players | 8/10 |
-| Host Name | Despicision |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 11:33:54 |
+| Lobby ID | 28515605224717655 |
+| Players | 5/15 |
+| Host Name | LOCO CHESS |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 11:37:55 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605223915800 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | Sushi Devourer |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 13, 2023 11:36:19 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605224741778 |
+| Players | 1/10 |
+| Host Name | nurnisi |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 11:37:58 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605224646577 |
+| Lobby ID | 28515605224767398 |
 | Players | 1/8 |
 | Host Name | Miranda.Young l haku |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 11:37:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605224700544 |
-| Players | 2/10 |
-| Host Name | Каракискус |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 11:37:53 |
+| Lobby Creation Time | Monday, November 13, 2023 11:38:01 |
 
 
 |  | epic_boss_fight_nightmare |
