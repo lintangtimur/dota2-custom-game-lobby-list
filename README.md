@@ -68,19 +68,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605505475563 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Aikela |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 13, 2023 18:55:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605515612532 |
-| Players | 4/8 |
-| Host Name | кириешка |
+| Lobby ID | 28515605506535549 |
+| Players | 14/15 |
+| Host Name | ルPanacea灯 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 19:04:45 |
+| Lobby Creation Time | Monday, November 13, 2023 18:56:50 |
 
 
 |  | epic_boss_fight_nightmare |
