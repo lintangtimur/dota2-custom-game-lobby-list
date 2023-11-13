@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605212911502 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Yonwalther |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:13:44 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605213711165 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | MONSTERKILL |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:15:26 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Sunday, November 12, 2023 21:36:52 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605213036260 |
-| Players | 9/10 |
-| Host Name | ёбырь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 11:14:00 |
+| Lobby ID | 28515605209055046 |
+| Players | 22/24 |
+| Host Name | mcmbig111 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 11:05:25 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605212713005 |
-| Players | 9/15 |
+| Players | 13/15 |
 | Host Name | MODE ISSASHOW |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 11:13:20 |
@@ -83,22 +83,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 11:14:46 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605209055046 |
-| Players | 21/24 |
-| Host Name | mcmbig111 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 11:05:25 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515605212058587 |
-| Players | 9/10 |
-| Host Name | 年轻人不气盛叫年轻人吗 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 11:11:57 |
+| Lobby ID | 28515605214047689 |
+| Players | 1/8 |
+| Host Name | potage007 |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 13, 2023 11:16:09 |
 
 
 |  | epic_boss_fight_challenger |
