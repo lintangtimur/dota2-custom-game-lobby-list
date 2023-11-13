@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543963448953 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Snobias |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:50:56 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543963774077 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Hope |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:51:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543962656769 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | FernanDove |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:49:30 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543964386731 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Caan |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:52:38 |
@@ -74,10 +74,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 04:52:51 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519543964588498 |
+| Players | 3/15 |
+| Host Name | Тюбик |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:52:59 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543964625341 |
+| Players | 2/10 |
+| Host Name | $0$1k pr1m3 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:53:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519543964654115 |
+| Players | 6/8 |
+| Host Name | Tu papai |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:53:07 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519543961342498 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ♂ I'm Performance Artist ♂ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:47:12 |
