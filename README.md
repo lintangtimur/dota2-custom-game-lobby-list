@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605266384601 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | El Ohanas |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 13:01:32 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Bu |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 13:01:42 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605266619182 |
+| Players | 2/8 |
+| Host Name | Foxy |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 13:02:01 |
 
 
 |  | epic_boss_fight_nightmare |
