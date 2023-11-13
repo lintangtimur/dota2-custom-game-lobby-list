@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605204965071 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | 1 ward and 2 tango |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 10:56:11 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605205433875 |
+| Lobby ID | 28515605207117921 |
 | Players | 6/8 |
-| Host Name | LooPer |
+| Host Name | Reivin654 |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 10:57:13 |
+| Lobby Creation Time | Monday, November 13, 2023 11:01:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605206500399 |
-| Players | 6/24 |
+| Players | 12/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 13, 2023 10:59:35 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605206596400 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | faloopi |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 10:59:48 |
@@ -113,37 +113,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605206872063 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Teniente roca |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:00:27 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605207009199 |
-| Players | 2/8 |
-| Host Name | Richi Rage |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 11:00:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605207117921 |
-| Players | 5/8 |
-| Host Name | Reivin654 |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 11:01:02 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605207141140 |
-| Players | 1/15 |
-| Host Name | fuzzypickle |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 13, 2023 11:01:05 |
 
 
 |  | epic_boss_fight_nightmare |
