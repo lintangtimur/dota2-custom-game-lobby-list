@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605224218832 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | ' |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:36:55 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605224717655 |
-| Players | 14/15 |
-| Host Name | LOCO CHESS |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 11:37:55 |
+| Lobby ID | 28515605225233976 |
+| Players | 5/15 |
+| Host Name | empathy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 11:38:56 |
 
 
 |  | ot3_desert_octet |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605224767398 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Miranda.Young l haku |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:38:01 |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | тылюбишьцветы? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 11:38:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605225233976 |
-| Players | 3/15 |
-| Host Name | No Skill |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 11:38:56 |
 
 
