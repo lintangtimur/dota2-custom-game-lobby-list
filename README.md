@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544009816902 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Askeladd |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:25:30 |
@@ -95,10 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544008948255 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | SNC |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:23:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544010545508 |
+| Players | 2/10 |
+| Host Name | macxvii |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:27:12 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,9 +122,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544010079293 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | SEX HOODWINK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:26:06 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519544010529086 |
+| Players | 3/10 |
+| Host Name | twitch.tv/snuls22 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:27:09 |
 
 
