@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605279533154 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | sad qweqwe |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 13, 2023 13:28:27 |
@@ -33,7 +33,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28515605655974198 |
 | Players | 3/15 |
-| Host Name | FadedXen |
+| Host Name | eSTERNO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 20:47:58 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605661938191 |
-| Players | 3/24 |
+| Players | 11/24 |
 | Host Name | Cadis Etrama Di Raizel |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 20:51:57 |
@@ -50,19 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605656477887 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | frinsi |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 20:48:19 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605659408231 |
-| Players | 6/15 |
-| Host Name | МініБарига |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 20:50:16 |
+| Lobby ID | 28515605663152519 |
+| Players | 2/8 |
+| Host Name | torontomadanrytring GoDota2.com |
+| Region | INDIA |
+| Lobby Creation Time | Monday, November 13, 2023 20:52:45 |
 
 
 |  | ot3_desert_octet |
@@ -76,26 +76,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605662548936 |
-| Players | 1/8 |
-| Host Name | bring back arcane blink |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 13, 2023 20:52:21 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515605653283430 |
-| Players | 7/10 |
-| Host Name | ZoneCalvo |
+| Lobby ID | 28515605662773294 |
+| Players | 2/8 |
+| Host Name | Gatciy |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 20:46:10 |
+| Lobby Creation Time | Monday, November 13, 2023 20:52:30 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605662484380 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Farewell, My paradise |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 20:52:19 |
