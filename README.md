@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543956510251 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Полёт фантазий |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:38:51 |
@@ -68,25 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543956389583 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | mr beast |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:38:39 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519543955475789 |
-| Players | 1/10 |
-| Host Name | unrealism |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:37:06 |
+| Lobby ID | 28519543956622543 |
+| Players | 1/24 |
+| Host Name | shuba |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:39:03 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543956242099 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Jighoul |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:38:24 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543956118342 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Sheduconda |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:38:12 |
@@ -113,19 +113,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543956201558 |
-| Players | 6/8 |
-| Host Name | КОММЕРС |
+| Players | 7/8 |
+| Host Name | ToPeRoK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:38:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519543956469357 |
-| Players | 2/8 |
-| Host Name | :$ |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:38:47 |
+| Lobby ID | 28519543956632924 |
+| Players | 1/24 |
+| Host Name | PawPaww |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:39:04 |
 
 
 |  | ot3_jungle_quintet |
@@ -139,17 +139,44 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543956600868 |
+| Lobby ID | 28519543956665146 |
 | Players | 1/15 |
 | Host Name | Bad Boy Yardie |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:39:01 |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:39:07 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519543956708828 |
+| Players | 2/24 |
+| Host Name | :$ |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:39:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519543956671170 |
+| Players | 4/8 |
+| Host Name | TiW |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:39:08 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519543956691460 |
+| Players | 1/8 |
+| Host Name | sqade |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:39:10 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519543955348650 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | +left |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:36:53 |
@@ -162,5 +189,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | CadaVer |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:37:06 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519543956655834 |
+| Players | 1/5 |
+| Host Name | $cronos$ |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:39:06 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519543956692712 |
+| Players | 1/10 |
+| Host Name | Mellow |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:39:10 |
 
 
