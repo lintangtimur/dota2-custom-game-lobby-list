@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543919181849 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | SUPREME# [16] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:41:42 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543917950302 |
-| Players | 8/24 |
+| Players | 9/24 |
 | Host Name | Hash |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:39:59 |
@@ -110,19 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 03:40:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543919244266 |
-| Players | 1/8 |
-| Host Name | Bozwana |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:41:47 |
+| Lobby ID | 28519543919454008 |
+| Players | 4/15 |
+| Host Name | Padalam |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:42:04 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543919283966 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | большое RaZoChaRovaNiE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:41:50 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519543918752126 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | ReinH |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:41:05 |
@@ -144,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | iaaaaaaaaaaaaaa godota2.com |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:39:46 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519543919402884 |
+| Players | 1/10 |
+| Host Name | I DED |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:42:00 |
 
 
