@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543947630723 |
-| Players | 8/15 |
+| Players | 12/15 |
 | Host Name | Тюбик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:24:10 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543944404111 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | [EvanS]ThariuX |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:18:58 |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543944135022 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | no masteries |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:18:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543946118331 |
-| Players | 7/8 |
-| Host Name | 17% |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:21:44 |
+| Lobby ID | 28519543948108095 |
+| Players | 1/10 |
+| Host Name | PoireSale |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:24:56 |
 
 
 |  | ot3_necropolis_ffa |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543945886495 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Huggy Wuggy |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:21:21 |
@@ -137,40 +137,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 04:21:05 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519543947971317 |
-| Players | 6/8 |
-| Host Name | 6AM в Будапештe |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:24:43 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543948096969 |
-| Players | 1/10 |
-| Host Name | Fortino Samano |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:24:55 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519543947950774 |
-| Players | 3/8 |
-| Host Name | watse |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:24:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519543948102547 |
-| Players | 1/10 |
-| Host Name | AdamPride |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:24:55 |
+| Lobby ID | 28519543948170255 |
+| Players | 2/10 |
+| Host Name | Санстрайк в Киев |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:25:02 |
 
 
 |  | epic_boss_fight_nightmare |
