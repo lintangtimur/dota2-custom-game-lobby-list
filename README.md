@@ -32,19 +32,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605442194442 |
-| Players | 12/24 |
+| Players | 14/24 |
 | Host Name | 1 man with 7 animals |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 13, 2023 17:51:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605443185688 |
-| Players | 3/8 |
-| Host Name | julukol |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 17:52:55 |
+| Lobby ID | 28515605444090920 |
+| Players | 6/15 |
+| Host Name | HimalayaJoe |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 13, 2023 17:53:59 |
 
 
 |  | ot3_gardens_duo |
@@ -56,20 +56,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 17:53:49 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605444061480 |
-| Players | 1/10 |
-| Host Name | Зачилься |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 17:53:57 |
-
-
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28515605443324019 |
 | Players | 2/5 |
-| Host Name | вампир кузнецов |
+| Host Name | шаданакар |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 17:53:05 |
 
@@ -77,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605443995170 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Вениамин Рапира |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 17:53:53 |
