@@ -14,19 +14,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605710239791 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | ARAGAPEGO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 21:24:13 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605702583657 |
-| Players | 9/10 |
-| Host Name | 110 |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 21:19:07 |
+| Lobby ID | 28515605707945499 |
+| Players | 5/15 |
+| Host Name | Z e r o |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 21:22:41 |
 
 
 |  | ot3_gardens_duo |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605698044219 |
-| Players | 4/24 |
-| Host Name | BODYSHOT BANDIT |
+| Players | 1/24 |
+| Host Name | Frozenmilo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 21:16:06 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605709766695 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | MinisterByDay, DotaPlayerByNight |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 21:23:54 |
@@ -95,19 +95,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605710777824 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | vLd- |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 13, 2023 21:24:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605709832842 |
-| Players | 8/10 |
-| Host Name | parad1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 21:23:57 |
 
 
 |  | epic_boss_fight_normal |
@@ -140,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605710390850 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | g.bayankhishig |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 21:24:19 |
