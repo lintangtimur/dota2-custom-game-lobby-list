@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605199310010 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | Rho AIas외로운 |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 10:43:38 |
@@ -15,7 +15,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28515605198244079 |
 | Players | 5/8 |
-| Host Name | Antonio Margharette |
+| Host Name | Que  LoQUE |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 10:41:16 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605199244229 |
-| Players | 7/24 |
+| Players | 8/24 |
 | Host Name | RAT LEGENDS SEASON 18 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 10:43:30 |
@@ -110,6 +110,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 10:44:02 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605199935721 |
+| Players | 4/8 |
+| Host Name | rambechi |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 10:45:02 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28515605193469102 |
@@ -131,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605198438057 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | ang qt qt ko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 10:41:42 |
@@ -140,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28515605197405450 |
-| Players | 4/7 |
+| Players | 3/7 |
 | Host Name | RANITIDINA |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 10:39:26 |
