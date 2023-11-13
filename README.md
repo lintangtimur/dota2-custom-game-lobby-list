@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543996332371 |
-| Players | 7/15 |
-| Host Name | Fifquis FiFiN |
+| Lobby ID | 28519543996524305 |
+| Players | 3/15 |
+| Host Name | Lonely |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:55:16 |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:55:41 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543996169426 |
-| Players | 2/24 |
+| Players | 4/24 |
 | Host Name | vibe dyrachyo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:54:55 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543996023222 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | 76561199196836346 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:54:37 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543996261435 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | kagni |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:55:07 |
@@ -96,27 +96,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28519543996310547 |
 | Players | 2/8 |
-| Host Name | Tona |
+| Host Name | Chino |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:55:13 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519543996635635 |
-| Players | 1/15 |
-| Host Name | Беличья нора |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:55:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519543996524305 |
-| Players | 3/15 |
-| Host Name | Lonely |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:55:41 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +108,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | k. Danger-Zone |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:21:35 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519543996720877 |
+| Players | 1/5 |
+| Host Name | Turbo Push |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:56:06 |
 
 
