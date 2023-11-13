@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605279533154 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | sad qweqwe |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 13, 2023 13:28:27 |
@@ -14,34 +14,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605616346649 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | EtisAtisAnimatisEtisAtisAmatis |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 20:20:57 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605616524136 |
-| Players | 1/24 |
-| Host Name | aubangurmom |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 20:21:04 |
+| Lobby ID | 28515605616931336 |
+| Players | 1/15 |
+| Host Name | nether |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 13, 2023 20:21:22 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605599302466 |
-| Players | 6/8 |
-| Host Name | Matye Bal |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 20:08:51 |
+| Lobby ID | 28515605617480447 |
+| Players | 1/8 |
+| Host Name | ВДНАРД |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 20:21:45 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605614108099 |
-| Players | 8/24 |
+| Players | 23/24 |
 | Host Name | crimento |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 20:19:22 |
@@ -58,44 +58,35 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605614464651 |
+| Lobby ID | 28515605616976678 |
 | Players | 1/24 |
-| Host Name | Henry Cavill |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 20:19:37 |
+| Host Name | Absmuui |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 13, 2023 20:21:24 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605614563861 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | АДСКИЙ САТАНА |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 20:19:41 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605520639451 |
-| Players | 2/15 |
-| Host Name | kvlt |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 19:09:01 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605616614895 |
-| Players | 5/10 |
-| Host Name | moryaz |
+| Lobby ID | 28515605617346520 |
+| Players | 8/10 |
+| Host Name | Денис Жуков |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 20:21:08 |
+| Lobby Creation Time | Monday, November 13, 2023 20:21:39 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605614013372 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Sea Server Cancer |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 13, 2023 20:19:18 |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28515605611528876 |
-| Players | 2/5 |
+| Players | 3/5 |
 | Host Name | winter |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 20:17:33 |
@@ -113,9 +104,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605611809781 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | shush |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 20:17:45 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515605609442492 |
+| Players | 2/10 |
+| Host Name | awtsu |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 20:16:03 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515605601900933 |
+| Players | 9/10 |
+| Host Name | 山上徹也 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 20:10:42 |
 
 
