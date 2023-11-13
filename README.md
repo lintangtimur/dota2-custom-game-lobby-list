@@ -14,28 +14,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605170751829 |
-| Players | 9/15 |
+| Players | 7/15 |
 | Host Name | Nothing |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 09:40:33 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605170622402 |
-| Players | 8/15 |
-| Host Name | SE LOGRO |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 09:40:15 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605170091622 |
-| Players | 1/24 |
+| Lobby ID | 28515605171290770 |
+| Players | 2/24 |
 | Host Name | faloopi |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 09:41:44 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605171094631 |
+| Players | 4/8 |
+| Host Name | Kärss |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 09:39:05 |
+| Lobby Creation Time | Monday, November 13, 2023 09:41:18 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,45 +59,45 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605170882269 |
-| Players | 5/24 |
+| Players | 14/24 |
 | Host Name | :D |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 09:40:50 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605167640283 |
-| Players | 7/8 |
-| Host Name | Endless |
-| Region | USWEST |
-| Lobby Creation Time | Monday, November 13, 2023 09:33:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605170687246 |
-| Players | 4/8 |
-| Host Name | LooPer |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 09:40:24 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605171094631 |
-| Players | 1/8 |
-| Host Name | Kärss |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 09:41:18 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605171101089 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | SUMMA FANNTASY THG |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 09:41:19 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605171378266 |
+| Players | 1/15 |
+| Host Name | babyJesus- |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 09:41:56 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515605171191340 |
+| Players | 2/10 |
+| Host Name | Jack Oscar |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 09:41:31 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515605168555236 |
+| Players | 9/10 |
+| Host Name | 냠냠 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 09:35:42 |
 
 
