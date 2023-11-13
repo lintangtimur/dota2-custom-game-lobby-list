@@ -47,42 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 04:54:07 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519543965620712 |
-| Players | 23/24 |
-| Host Name | ENGLISH OR ME MIDAS |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:54:50 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519543966621610 |
-| Players | 5/15 |
-| Host Name | chakalito |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:56:40 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519543966779813 |
-| Players | 1/15 |
-| Host Name | Asmoday Eternal |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:56:57 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519543966812279 |
-| Players | 1/15 |
-| Host Name | Lunge |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:57:01 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543966817174 |
@@ -92,19 +56,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 04:57:02 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519543966621610 |
+| Players | 7/15 |
+| Host Name | chakalito |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:56:40 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543966813688 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Tshaba Ntsha |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:57:01 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519543966899819 |
+| Players | 1/15 |
+| Host Name | Normalin |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:57:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519543966923702 |
+| Players | 1/15 |
+| Host Name | The GayLord |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:57:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519543966928037 |
+| Players | 5/8 |
+| Host Name | edge |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:57:14 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519543963393416 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Next |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:50:50 |
