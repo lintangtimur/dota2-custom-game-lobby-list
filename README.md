@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605193877214 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | ooo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 10:31:41 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605192239094 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | everydayrain |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 10:28:04 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605193672024 |
-| Players | 9/10 |
-| Host Name | SaitamaCH |
+| Lobby ID | 28515605194522568 |
+| Players | 4/10 |
+| Host Name | ☠ғ̶ᴇ̶ᴀ̶ʀ̶ʟ̶ᴇ̶s☠ |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 10:31:13 |
+| Lobby Creation Time | Monday, November 13, 2023 10:33:06 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,25 +77,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605194376767 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Mion |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 10:32:47 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605193177956 |
-| Players | 6/8 |
-| Host Name | CORRALITO |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 10:30:07 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605194056242 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Ric Flair |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 10:32:05 |
@@ -103,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605194483476 |
-| Players | 1/15 |
-| Host Name | 菜到怀疑人生 |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 13, 2023 10:33:01 |
+| Lobby ID | 28515605194595232 |
+| Players | 3/15 |
+| Host Name | Хуй как шампунь |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 10:33:16 |
 
 
 |  | epic_boss_fight_nightmare |
