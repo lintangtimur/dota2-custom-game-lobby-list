@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605413337833 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | twitch.tv/bishotv |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 17:13:47 |
@@ -31,11 +31,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605412555840 |
-| Players | 11/15 |
-| Host Name | MoNsTeR! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 17:12:40 |
+| Lobby ID | 28515605413579900 |
+| Players | 1/15 |
+| Host Name | ChrryI |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 17:14:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,37 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605413192022 |
-| Players | 6/24 |
+| Players | 9/24 |
 | Host Name | Fabian! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 17:13:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605412874260 |
-| Players | 1/8 |
-| Host Name | Pes Patron |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 17:13:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605413049266 |
-| Players | 4/8 |
-| Host Name | ДИКИЙ БАНАН В ПОПКЕ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 17:13:23 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605413325110 |
-| Players | 3/8 |
-| Host Name | Процент пива: 46% |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 17:13:46 |
 
 
 |  | ot3_desert_octet |
@@ -90,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | 牛排三分熟 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 17:13:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605413049266 |
+| Players | 4/8 |
+| Host Name | ДИКИЙ БАНАН В ПОПКЕ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 17:13:23 |
 
 
 |  | epic_boss_fight_normal |
@@ -104,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605412315269 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | W33 |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 17:12:19 |
