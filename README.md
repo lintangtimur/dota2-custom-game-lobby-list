@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543989920754 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | < blank > |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:41:51 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543990447247 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | Mor'Grim |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:42:57 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543990353317 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | ЧВК Единая Россия |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:42:45 |
@@ -94,11 +94,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543990437428 |
+| Lobby ID | 28519543990553903 |
 | Players | 2/15 |
-| Host Name | no, just no |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:42:55 |
+| Host Name | Datedi |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:43:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519543988256366 |
+| Players | 14/15 |
+| Host Name | 11111111 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:38:25 |
 
 
 |  | epic_boss_fight_nightmare |
