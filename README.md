@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543979159394 |
-| Players | 5/15 |
+| Players | 7/15 |
 | Host Name | juliale |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:20:14 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543979042111 |
-| Players | 15/24 |
+| Players | 22/24 |
 | Host Name | ? |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:20:00 |
@@ -38,60 +38,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 05:22:13 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519543979995891 |
-| Players | 14/15 |
-| Host Name | Poomp |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:21:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519543979546260 |
-| Players | 3/10 |
-| Host Name | Mrs Poopoo Lu |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:20:59 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519543979522958 |
-| Players | 1/8 |
-| Host Name | N°48 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:20:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519543980548723 |
-| Players | 2/10 |
-| Host Name | Gliknot |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:22:56 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519543980509382 |
-| Players | 1/8 |
-| Host Name | †ana†0s Ý |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:22:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519543980623834 |
-| Players | 7/10 |
-| Host Name | w13ard |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:23:05 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543980679213 |
@@ -101,13 +47,76 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 05:23:12 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519543980996860 |
+| Players | 1/8 |
+| Host Name | 𓆰𓆪 Othar 𓆰𓆪 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:23:48 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519543979968323 |
+| Players | 4/8 |
+| Host Name | Já nevím co se stalo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:21:49 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543980746136 |
-| Players | 2/10 |
+| Lobby ID | 28519543980548723 |
+| Players | 1/10 |
+| Host Name | Br0ker |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:22:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519543980509382 |
+| Players | 4/8 |
+| Host Name | †ana†0s Ý |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:22:52 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543980810470 |
+| Players | 1/10 |
+| Host Name | Lone_Marshal |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:23:27 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543980801153 |
+| Players | 8/10 |
 | Host Name | МЫШЬ ГАШИШ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:23:19 |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:23:26 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519543980866727 |
+| Players | 1/15 |
+| Host Name | Tabuas |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:23:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519543980915005 |
+| Players | 4/15 |
+| Host Name | [PNP]Leański |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:23:39 |
 
 
 |  | epic_boss_fight_normal |
