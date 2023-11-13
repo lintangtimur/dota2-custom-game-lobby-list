@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605279533154 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | sad qweqwe |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 13, 2023 13:28:27 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605921793483 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | RUMBO A ANCESTRO (MUT ALL ) |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 00:12:33 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605922381745 |
-| Players | 3/24 |
+| Players | 6/24 |
 | Host Name | Eggomaniac- |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 00:13:08 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605923289640 |
-| Players | 1/8 |
+| Players | 6/8 |
 | Host Name | BullZen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 00:13:59 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605922157623 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | LOGOPENDRIK |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 00:12:55 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605921769769 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | хм |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 00:12:32 |
@@ -119,19 +119,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 00:13:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605918332377 |
-| Players | 13/15 |
-| Host Name | Ksiu |
+| Lobby ID | 28515605923506814 |
+| Players | 2/8 |
+| Host Name | дикпик |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 00:09:14 |
+| Lobby Creation Time | Tuesday, November 14, 2023 00:14:12 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605923540375 |
+| Players | 4/8 |
+| Host Name | morphine. |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 00:14:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605923589321 |
+| Players | 1/8 |
+| Host Name | бананчики) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 00:14:17 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605921486340 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | BIG POPPA |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 00:12:16 |
