@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 04:14:36 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543940165101 |
-| Players | 19/24 |
-| Host Name | Potical |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:12:26 |
+| Lobby ID | 28519543942730579 |
+| Players | 5/10 |
+| Host Name | Mishan'ka |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:16:21 |
 
 
 |  | ot3_jungle_quintet |
@@ -50,8 +50,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543908711015 |
-| Players | 2/15 |
-| Host Name | ПРЯНЯ |
+| Players | 1/15 |
+| Host Name | Grift |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:27:18 |
 
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543941823995 |
-| Players | 7/15 |
+| Players | 10/15 |
 | Host Name | 明日ちゃんのセーラー |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:14:57 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543942263425 |
-| Players | 9/24 |
+| Players | 13/24 |
 | Host Name | Riquísimo! |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:15:37 |
@@ -110,19 +110,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 04:15:49 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543942556708 |
-| Players | 3/8 |
-| Host Name | [P_P) |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:16:04 |
+| Lobby ID | 28519543942887447 |
+| Players | 1/10 |
+| Host Name | evol tnac uoy |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:16:35 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543942694636 |
-| Players | 1/15 |
+| Players | 8/15 |
 | Host Name | Fifquis FiFiN |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:16:17 |
@@ -131,52 +131,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543942610330 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | Bedoo Sensei <3 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:16:09 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519543942738146 |
-| Players | 1/8 |
-| Host Name | but 20 dollars is 20 dollar |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:16:21 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519543942729058 |
-| Players | 1/10 |
-| Host Name | drdmr |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:16:21 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519543942730579 |
-| Players | 2/10 |
-| Host Name | Mishan'ka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:16:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519543942742903 |
-| Players | 3/8 |
-| Host Name | Krucha |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:16:22 |
-
-
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28519543936213412 |
-| Players | 2/7 |
+| Players | 3/7 |
 | Host Name | CadaVer |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:06:27 |
@@ -193,10 +157,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28519543942730473 |
-| Players | 2/10 |
-| Host Name | ГI4EL |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:16:21 |
+| Lobby ID | 28519543942946302 |
+| Players | 1/10 |
+| Host Name | Sneaky sneaky |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:16:41 |
 
 
