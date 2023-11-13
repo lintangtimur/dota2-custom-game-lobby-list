@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605279903367 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Player |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 13:29:11 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605258322620 |
-| Players | 3/24 |
+| Players | 2/24 |
 | Host Name | Matt Murdock  🆅🅰🅻🆅 |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 13, 2023 12:44:56 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605280549479 |
-| Players | 12/24 |
+| Players | 16/24 |
 | Host Name | HashiRama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 13:30:28 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605278394404 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Zumpin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 13:26:10 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 13:29:03 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605280142561 |
-| Players | 9/15 |
-| Host Name | markb0y |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 13:29:40 |
+| Lobby ID | 28515605281006130 |
+| Players | 3/10 |
+| Host Name | ёбырь |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 13:31:23 |
 
 
 |  | ot3_jungle_quintet |
@@ -90,15 +90,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 13:31:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605281006130 |
-| Players | 1/10 |
-| Host Name | ёбырь |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 13:31:23 |
 
 
 |  | epic_boss_fight_challenger |
