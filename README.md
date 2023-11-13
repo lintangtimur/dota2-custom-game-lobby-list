@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605185538597 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Stunning Garry |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 10:13:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605186242444 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | COVID - 19 |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 10:14:47 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605084238902 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Dul Kanırtan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 06:24:17 |
@@ -67,11 +67,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605186392491 |
+| Lobby ID | 28515605186460237 |
 | Players | 1/15 |
 | Host Name | чмоня |
 | Region | DUBAI |
-| Lobby Creation Time | Monday, November 13, 2023 10:15:07 |
+| Lobby Creation Time | Monday, November 13, 2023 10:15:16 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605186463106 |
+| Players | 2/10 |
+| Host Name | Owl Him |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 10:15:16 |
 
 
 |  | epic_boss_fight_nightmare |
