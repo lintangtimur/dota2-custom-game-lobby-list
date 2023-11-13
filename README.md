@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605437378489 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Бактерия |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 17:45:51 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605432742651 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | Syn.v2 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 17:40:04 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605436929367 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | JayS |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 13, 2023 17:45:18 |
@@ -90,6 +90,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Menace2Society |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 13, 2023 17:45:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605437518901 |
+| Players | 2/10 |
+| Host Name | tv/swedenstrong |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 13, 2023 17:46:02 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605437578582 |
+| Players | 4/15 |
+| Host Name | Безумный Паша |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 17:46:06 |
 
 
 |  | epic_boss_fight_nightmare |
