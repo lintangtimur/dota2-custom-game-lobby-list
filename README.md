@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543998216783 |
-| Players | 18/24 |
+| Players | 22/24 |
 | Host Name | KeyOfTheSun |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:59:22 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543998228411 |
-| Players | 3/8 |
-| Host Name | Skeletor |
+| Players | 1/8 |
+| Host Name | sangisimmo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:59:23 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543999620941 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Perrito TerroristA |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:02:28 |
@@ -67,11 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543999856682 |
-| Players | 1/15 |
-| Host Name | *JUvenTuS VitaL+｡:.ﾟ° |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:02:59 |
+| Lobby ID | 28519543999894693 |
+| Players | 11/15 |
+| Host Name | Slal (velox) |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:03:04 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -81,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | k. Danger-Zone |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:21:35 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519543999899232 |
+| Players | 2/10 |
+| Host Name | nooo |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:03:05 |
 
 
