@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543989508756 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | Poomp |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:41:00 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543988893189 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | Lorya |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:39:45 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543989239144 |
-| Players | 7/10 |
+| Players | 6/10 |
 | Host Name | Svin |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:40:27 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543989920754 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | Mitsuki Nanoka |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:41:51 |
@@ -90,6 +90,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | macxvii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:40:41 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519543990085967 |
+| Players | 4/8 |
+| Host Name | free MMR |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:42:12 |
 
 
 |  | epic_boss_fight_nightmare |
