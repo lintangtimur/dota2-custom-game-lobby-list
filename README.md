@@ -23,34 +23,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605344999607 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Jing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 15:26:46 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605346685011 |
-| Players | 10/15 |
-| Host Name | sAnkøtteryŁeet |
+| Lobby ID | 28515605346583086 |
+| Players | 5/8 |
+| Host Name | Вадимкаシ |
 | Region | DUBAI |
-| Lobby Creation Time | Monday, November 13, 2023 15:29:29 |
+| Lobby Creation Time | Monday, November 13, 2023 15:29:19 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605347303455 |
-| Players | 10/15 |
-| Host Name | Яспер Моглот (Dutch) |
+| Lobby ID | 28515605348765598 |
+| Players | 7/15 |
+| Host Name | Luqky |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 15:30:29 |
+| Lobby Creation Time | Monday, November 13, 2023 15:32:49 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605346204773 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Sclaverai |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 15:28:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605344491820 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 15:25:56 |
@@ -74,10 +74,55 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 15:31:58 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605348654880 |
+| Players | 2/10 |
+| Host Name | Snakes |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 13, 2023 15:32:39 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605348729898 |
+| Players | 1/10 |
+| Host Name | just me easyh |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 13, 2023 15:32:46 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605348776327 |
+| Players | 1/10 |
+| Host Name | I CAN HOST OVERTHROW !!! |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 13, 2023 15:32:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605348805546 |
+| Players | 1/10 |
+| Host Name | чизбургер рус |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 13, 2023 15:32:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605348833255 |
+| Players | 1/10 |
+| Host Name | Shtazi |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 13, 2023 15:32:56 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605345572735 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | Escanor_la superbia |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 15:27:41 |
