@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 17:02:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605410079378 |
-| Players | 1/8 |
-| Host Name | TEMAKP |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 17:08:59 |
+| Lobby ID | 28515605406182731 |
+| Players | 9/10 |
+| Host Name | Br0ker |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 17:03:00 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605403612394 |
-| Players | 4/8 |
+| Players | 3/8 |
 | Host Name | Hi |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 13, 2023 16:58:56 |
@@ -59,19 +59,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605409357399 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | pohui proebali |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 17:07:54 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605410208293 |
+| Players | 1/8 |
+| Host Name | TEMAKP |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 13, 2023 17:09:11 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605410196062 |
+| Players | 1/15 |
+| Host Name | BabyKassanova |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 17:09:10 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605406182731 |
-| Players | 9/10 |
-| Host Name | Br0ker |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 17:03:00 |
+| Lobby ID | 28515605410283096 |
+| Players | 1/10 |
+| Host Name | Oom skaap |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 13, 2023 17:09:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605410288593 |
+| Players | 1/8 |
+| Host Name | maxim.cockswallower@gmail.com |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 17:09:18 |
 
 
 |  | epic_boss_fight_normal |
