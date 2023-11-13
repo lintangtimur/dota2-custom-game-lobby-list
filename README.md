@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605228191614 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | прочитал = пидop |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 11:44:47 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605226970667 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | →The Eminence← |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 11:42:20 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605226307804 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | EduBan |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:41:01 |
@@ -77,37 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605228217775 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | potage007 |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 13, 2023 11:44:50 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605228253247 |
-| Players | 1/10 |
-| Host Name | fydachyo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 11:44:55 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28515605227175809 |
-| Players | 1/5 |
-| Host Name | iaaaaaaaaaaaaaa godota2.com |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 11:42:45 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515605227398556 |
-| Players | 5/10 |
-| Host Name | Agnis |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 11:43:11 |
 
 
 |  | epic_boss_fight_normal |
@@ -117,5 +90,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | t_hottie |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 13, 2023 11:44:48 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515605227398556 |
+| Players | 8/10 |
+| Host Name | Agnis |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 11:43:11 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28515605228467186 |
+| Players | 1/5 |
+| Host Name | iaaaaaaaaaaaaaa godota2.com |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 11:45:21 |
 
 
