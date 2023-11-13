@@ -119,19 +119,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 16:07:20 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605364564866 |
+| Players | 14/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 15:57:49 |
+
+
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605370880051 |
+| Lobby ID | 28515605371010765 |
 | Players | 2/10 |
-| Host Name | sproink |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 13, 2023 16:07:50 |
+| Host Name | Mafozik |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 16:08:02 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605369456079 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ♡ ChikoLulu ♡ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 16:05:36 |
@@ -139,10 +148,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28515605370898194 |
+| Lobby ID | 28515605370976621 |
 | Players | 1/5 |
 | Host Name | Fogg_soglasen |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 16:07:52 |
+| Lobby Creation Time | Monday, November 13, 2023 16:07:59 |
 
 
