@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605183034200 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | [Komm] イレイナ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 10:07:49 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605185128867 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | ~{ ■} |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 10:12:23 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605084238902 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Dul Kanırtan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 06:24:17 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605185440963 |
-| Players | 10/15 |
+| Players | 13/15 |
 | Host Name | handsome adjusted volcel |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 13, 2023 10:13:04 |
