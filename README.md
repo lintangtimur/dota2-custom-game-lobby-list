@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 18:29:45 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605464620029 |
-| Players | 7/8 |
-| Host Name | JɄ₦₲ⱠɆ ₲Ɇ₦łɄ₴ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 18:16:54 |
+| Lobby ID | 28515605467509528 |
+| Players | 8/15 |
+| Host Name | GhOUL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 18:19:55 |
 
 
 |  | ot3_gardens_duo |
@@ -47,46 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 18:25:40 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605476005579 |
-| Players | 8/10 |
-| Host Name | ДИКИЙ БАНАН В ПОПКЕ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 18:28:30 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605467509528 |
-| Players | 5/15 |
-| Host Name | GhOUL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 18:19:55 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605477450912 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Tranquillity |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 13, 2023 18:29:56 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605477573050 |
-| Players | 2/10 |
-| Host Name | mister пельменная |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 18:30:03 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605477127052 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | MightyHorn |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 13, 2023 18:29:37 |
