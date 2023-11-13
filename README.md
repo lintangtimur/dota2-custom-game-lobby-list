@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 12:35:40 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605250187778 |
-| Players | 23/24 |
-| Host Name | Gabo |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 12:28:39 |
+| Lobby ID | 28515605253863615 |
+| Players | 1/8 |
+| Host Name | デ命numb the pain命デ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 12:35:59 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605253843967 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | снюхаемся вонючка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 12:35:57 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605253648978 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Benito |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 12:35:33 |
