@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 05:40:20 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519543995145414 |
-| Players | 6/8 |
-| Host Name | Джул |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:52:44 |
+| Lobby ID | 28519543996169426 |
+| Players | 2/24 |
+| Host Name | vibe dyrachyo |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:54:55 |
 
 
 |  | ot3_desert_octet |
@@ -76,20 +76,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543996152796 |
-| Players | 1/15 |
-| Host Name | Yushias |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:54:53 |
+| Lobby ID | 28519543996213318 |
+| Players | 2/15 |
+| Host Name | BullJaXX |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:55:01 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519543996169426 |
+| Lobby ID | 28519543996261435 |
 | Players | 2/24 |
-| Host Name | vibe dyrachyo |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:54:55 |
+| Host Name | kagni |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:55:07 |
 
 
 |  | epic_boss_fight_nightmare |
