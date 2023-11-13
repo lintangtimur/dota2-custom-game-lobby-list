@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605390006038 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | CupOfTeaHeadass |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 16:38:00 |
@@ -54,6 +54,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | [ZIG]Arthas |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 13, 2023 16:39:18 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605392616896 |
+| Players | 4/15 |
+| Host Name | Безумный Паша |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 16:42:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605392701908 |
+| Players | 1/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 16:42:11 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -95,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605390039202 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | にこ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 16:38:04 |
