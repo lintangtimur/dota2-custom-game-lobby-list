@@ -23,34 +23,34 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543786238824 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Full-Time Griefer |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 01:04:19 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519543788441016 |
-| Players | 2/15 |
-| Host Name | ASkarbinka |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 01:06:42 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543788721105 |
-| Players | 4/8 |
-| Host Name | Ювелир |
+| Lobby ID | 28519543787859598 |
+| Players | 7/8 |
+| Host Name | ghotica |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 01:07:01 |
+| Lobby Creation Time | Tuesday, November 14, 2023 01:06:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519543787175044 |
+| Players | 3/24 |
+| Host Name | Dimval<3 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 01:05:20 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605279533154 |
-| Players | 8/15 |
+| Players | 6/15 |
 | Host Name | sad qweqwe |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 13, 2023 13:28:27 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543787924245 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | пережил 3 аборта |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 01:06:09 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543781896807 |
-| Players | 12/15 |
-| Host Name | † Omega-Black † |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 00:59:30 |
+| Lobby ID | 28519543788836916 |
+| Players | 6/15 |
+| Host Name | посмотреть |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 01:07:08 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,19 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543786876955 |
-| Players | 4/8 |
+| Players | 6/8 |
 | Host Name | Assхол |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 01:05:01 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543788544669 |
-| Players | 1/24 |
-| Host Name | Jagindas |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 01:06:49 |
+| Lobby ID | 28519543786766080 |
+| Players | 2/8 |
+| Host Name | Krysa so vsem |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 01:04:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -157,20 +157,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519543787175044 |
-| Players | 4/24 |
-| Host Name | Dimval<3 |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 01:05:20 |
+| Lobby ID | 28519543788821925 |
+| Players | 1/24 |
+| Host Name | Jagindas |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 01:07:07 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519543778247812 |
-| Players | 12/15 |
-| Host Name | Bich Ebanii |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 00:55:29 |
+| Lobby ID | 28519543772265322 |
+| Players | 23/24 |
+| Host Name | sosax |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 00:49:19 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -198,5 +198,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Artasart |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 01:06:36 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519543788846566 |
+| Players | 1/5 |
+| Host Name | 🦂SpectrO™🦂 |
+| Region | BRAZIL |
+| Lobby Creation Time | Tuesday, November 14, 2023 01:07:09 |
 
 
