@@ -20,19 +20,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 15:19:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605350714017 |
-| Players | 9/10 |
-| Host Name | Robus_ |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 13, 2023 15:35:54 |
+| Lobby ID | 28515605352440558 |
+| Players | 4/8 |
+| Host Name | Deadline |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 15:38:40 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605350881278 |
-| Players | 16/24 |
+| Players | 19/24 |
 | Host Name | 爱要弹蛋蛋 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 15:36:10 |
@@ -56,24 +56,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 15:38:13 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605352440558 |
-| Players | 2/8 |
-| Host Name | Deadline |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 15:38:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605352620882 |
-| Players | 1/8 |
-| Host Name | ишачье |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 15:38:57 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605351656194 |
@@ -86,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605351879503 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | batman |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 15:37:45 |
@@ -94,10 +76,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
-| Lobby ID | 28515605352609881 |
+| Lobby ID | 28515605352734346 |
 | Players | 1/5 |
-| Host Name | Nebur |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 15:38:56 |
+| Host Name | zhutoro.雷 |
+| Region | PWTELECOMSHANGHAI |
+| Lobby Creation Time | Monday, November 13, 2023 15:39:08 |
 
 
