@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543863498040 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Magadan RQ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:30:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543863615138 |
-| Players | 4/8 |
-| Host Name | JB |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:30:10 |
+| Lobby ID | 28519543863494132 |
+| Players | 1/10 |
+| Host Name | Syn.v2 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:30:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543863339146 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | Pepehands |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:29:50 |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543858809557 |
-| Players | 12/15 |
-| Host Name | MountainJew |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:24:26 |
+| Lobby ID | 28519543863728557 |
+| Players | 1/15 |
+| Host Name | EZ_TRIZ |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:30:18 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,13 +101,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 02:28:40 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543863494132 |
-| Players | 1/10 |
-| Host Name | Syn.v2 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:30:01 |
+| Lobby ID | 28519543863779452 |
+| Players | 1/15 |
+| Host Name | Санитар-Коммисар |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:30:22 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519543863807246 |
+| Players | 1/15 |
+| Host Name | Fantikk.exe |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:30:24 |
 
 
 |  | epic_boss_fight_nightmare |
