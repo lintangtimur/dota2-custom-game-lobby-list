@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543943948785 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Smigol |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:18:15 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543944135022 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | no masteries |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:18:33 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543946118331 |
-| Players | 4/8 |
+| Players | 5/8 |
 | Host Name | 17% |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:21:44 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543946111840 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | hund0 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:21:43 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543945728409 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Eagle |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:21:05 |
@@ -146,22 +146,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 04:23:05 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543947442515 |
-| Players | 6/10 |
-| Host Name | fede888 |
+| Lobby ID | 28519543947635497 |
+| Players | 2/8 |
+| Host Name | СДВГ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:23:52 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519543947524725 |
-| Players | 2/10 |
-| Host Name | localhost |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:24:00 |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:24:11 |
 
 
 |  | epic_boss_fight_nightmare |
