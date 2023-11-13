@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605273693251 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | Rainz |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 13:16:41 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605275058528 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Птица киви |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 13:19:27 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605275046025 |
-| Players | 1/24 |
-| Host Name | BUTUH DANA CEPAT |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 13, 2023 13:19:26 |
 
 
 |  | ot3_jungle_quintet |
@@ -83,10 +74,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 13:19:45 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605275345545 |
+| Players | 1/8 |
+| Host Name | 离手鸳鸯刀 |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Monday, November 13, 2023 13:20:02 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515605275337099 |
+| Players | 1/24 |
+| Host Name | NENEK PEYOT PDIP |
+| Region | DUBAI |
+| Lobby Creation Time | Monday, November 13, 2023 13:20:01 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605274980031 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Heart |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 13:19:18 |
