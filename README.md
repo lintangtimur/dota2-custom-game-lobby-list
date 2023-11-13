@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605175478559 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 13, 2023 09:51:02 |
@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 10:00:06 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605181530736 |
-| Players | 1/15 |
-| Host Name | Lion el Messi |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 10:04:29 |
+| Lobby ID | 28515605181681963 |
+| Players | 1/8 |
+| Host Name | nv |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 10:04:49 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605181668822 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | Barbie Girl |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 13, 2023 10:04:47 |
@@ -113,18 +113,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605181682122 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | Caillou |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 10:04:49 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605181681963 |
-| Players | 1/8 |
-| Host Name | nv |
-| Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 10:04:49 |
 
 
