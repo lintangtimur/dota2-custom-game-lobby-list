@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 06:11:33 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544004373758 |
-| Players | 1/8 |
-| Host Name | гориллка |
+| Lobby ID | 28519544004402028 |
+| Players | 11/15 |
+| Host Name | Волшебная Флафи |
 | Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:13:08 |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:13:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544003477613 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | arp |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:11:07 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Light- |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:13:08 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544004483144 |
+| Players | 1/24 |
+| Host Name | PATRULLA ALFA DEL AMOR |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:13:24 |
 
 
 |  | epic_boss_fight_nightmare |
