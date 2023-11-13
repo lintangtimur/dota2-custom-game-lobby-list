@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 13:28:27 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605644817260 |
-| Players | 13/15 |
-| Host Name | ExiS |
+| Lobby ID | 28515605665091259 |
+| Players | 5/10 |
+| Host Name | Despair |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 20:40:31 |
+| Lobby Creation Time | Monday, November 13, 2023 20:54:02 |
 
 
 |  | ot3_jungle_quintet |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605663706428 |
-| Players | 2/24 |
+| Players | 5/24 |
 | Host Name | Henry Cavill |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 20:53:07 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605663152519 |
-| Players | 1/8 |
-| Host Name | torontomadanrytring GoDota2.com |
-| Region | INDIA |
-| Lobby Creation Time | Monday, November 13, 2023 20:52:45 |
+| Lobby ID | 28515605665208732 |
+| Players | 5/8 |
+| Host Name | imortall_boy |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 20:54:07 |
 
 
 |  | ot3_desert_octet |
@@ -74,19 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 20:50:53 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605664376702 |
-| Players | 7/8 |
-| Host Name | =) |
+| Lobby ID | 28515605665339953 |
+| Players | 2/15 |
+| Host Name | RBZ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 20:53:34 |
+| Lobby Creation Time | Monday, November 13, 2023 20:54:12 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605663478894 |
-| Players | 1/15 |
+| Players | 6/15 |
 | Host Name | :scythephόriâ 力 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 20:52:58 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605665091259 |
-| Players | 3/10 |
-| Host Name | Despair |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 20:54:02 |
+| Lobby ID | 28515605665401875 |
+| Players | 1/10 |
+| Host Name | torontomadanrytring GoDota2.com |
+| Region | INDIA |
+| Lobby Creation Time | Monday, November 13, 2023 20:54:15 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605657236688 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Scary Carry |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 20:48:49 |
