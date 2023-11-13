@@ -14,8 +14,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605697696109 |
-| Players | 8/15 |
-| Host Name | Exodus |
+| Players | 12/15 |
+| Host Name | MacoSH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 21:15:52 |
 
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605707945499 |
-| Players | 7/15 |
-| Host Name | Z e r o |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 21:22:41 |
+| Lobby ID | 28515605655974198 |
+| Players | 2/15 |
+| Host Name | Z@kon_j@nr@ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 20:47:58 |
 
 
 |  | ot3_gardens_duo |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605685089643 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Nart |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 21:07:29 |
@@ -95,19 +95,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605708423807 |
-| Players | 2/8 |
+| Players | 5/8 |
 | Host Name | Joe Pesci |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 21:23:00 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605709765749 |
-| Players | 1/15 |
-| Host Name | OutWrorld Destroyer |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 13, 2023 21:23:54 |
+| Lobby ID | 28515605709832842 |
+| Players | 4/10 |
+| Host Name | parad1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 21:23:57 |
 
 
 |  | ot3_desert_octet |
@@ -122,19 +122,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605709816159 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Йаcobs monarch |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 21:23:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605709832842 |
-| Players | 4/10 |
-| Host Name | parad1 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 21:23:57 |
 
 
 |  | epic_boss_fight_normal |
