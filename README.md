@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543961059476 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | ニクス |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:46:42 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543962834333 |
-| Players | 4/15 |
+| Players | 9/15 |
 | Host Name | 暁 | <3 leler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:49:50 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543962318603 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Lucky Luck |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:48:55 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | magnus did nothing wrong |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:47:34 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519543962998858 |
+| Players | 1/15 |
+| Host Name | MORFEY |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:50:08 |
 
 
 |  | epic_boss_fight_nightmare |
