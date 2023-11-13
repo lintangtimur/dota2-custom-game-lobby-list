@@ -67,29 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605382655199 |
-| Players | 5/8 |
-| Host Name | Cryptotrader2003 |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 16:26:21 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28515605383595249 |
-| Players | 6/8 |
-| Host Name | kel'tas |
+| Players | 1/8 |
+| Host Name | LET ME COOK |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 16:27:49 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605383688718 |
-| Players | 1/10 |
-| Host Name | HELLS GATE |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 13, 2023 16:27:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -108,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | IWillMakeYouCry |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 13, 2023 16:21:44 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515605383680572 |
-| Players | 1/10 |
-| Host Name | what |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 16:27:57 |
 
 
