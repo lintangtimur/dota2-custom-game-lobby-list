@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605234117915 |
-| Players | 6/24 |
+| Players | 10/24 |
 | Host Name | Экинуй Сенгаี้ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 11:56:43 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605233636876 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | TreVVeK |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 11:55:45 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605084238902 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Dul Kanırtan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 06:24:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605234549578 |
-| Players | 3/24 |
+| Players | 5/24 |
 | Host Name | Chupete |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:57:36 |
@@ -59,36 +59,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605233448775 |
-| Players | 6/15 |
+| Players | 4/15 |
 | Host Name | KENT |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 11:55:23 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605234019081 |
-| Players | 3/8 |
-| Host Name | SUPERCUCHO PRIME |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 11:56:31 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605234818036 |
-| Players | 1/15 |
-| Host Name | Fideos Canuto |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 11:58:08 |
+| Lobby ID | 28515605234916052 |
+| Players | 2/10 |
+| Host Name | kyle broflovski \judio gamer\ |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 13, 2023 11:58:20 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28515605234678680 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | шайлушай |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 11:57:51 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28515605234840655 |
+| Players | 1/5 |
+| Host Name | Joyoboyo™ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 11:58:11 |
 
 
