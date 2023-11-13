@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543838781065 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Paul Thomas Anderson |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:01:32 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543841641753 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Captain |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:04:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543834741761 |
-| Players | 11/24 |
+| Players | 12/24 |
 | Host Name | X-ART |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 01:57:01 |
@@ -121,11 +121,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543841842765 |
+| Lobby ID | 28519543841890063 |
 | Players | 1/15 |
-| Host Name | str |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:04:57 |
+| Host Name | Бактерия |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:05:00 |
 
 
 |  | ot3_necropolis_ffa |
@@ -135,6 +135,42 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Bendjomi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:04:56 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519543841870551 |
+| Players | 1/15 |
+| Host Name | Bertrand Russell |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:04:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519543841741717 |
+| Players | 5/8 |
+| Host Name | CUADR |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:04:50 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543841945329 |
+| Players | 6/10 |
+| Host Name | Андрюша фидит (я) |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:05:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519543841965681 |
+| Players | 1/15 |
+| Host Name | pandemoniiium |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:05:05 |
 
 
 |  | epic_boss_fight_hard |
