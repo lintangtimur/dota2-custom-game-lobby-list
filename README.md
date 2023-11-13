@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543962656769 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | FernanDove |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:49:30 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543964509925 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Popig Immortal |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:52:51 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543964588498 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | Тюбик |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:52:59 |
@@ -94,11 +94,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543964654115 |
-| Players | 6/8 |
-| Host Name | Tu papai |
+| Lobby ID | 28519543964716777 |
+| Players | 3/8 |
+| Host Name | PAYASO BOB |
 | Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:53:07 |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:53:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Next |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:50:50 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519543964708704 |
+| Players | 4/5 |
+| Host Name | Сталин |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:53:12 |
 
 
