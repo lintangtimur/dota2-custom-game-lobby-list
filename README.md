@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605288691601 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | The horror of flying on the wing |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 13:46:15 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605289387399 |
-| Players | 1/24 |
+| Players | 6/24 |
 | Host Name | TiltedGuy |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 13:47:37 |
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 13:44:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605287710045 |
-| Players | 1/8 |
-| Host Name | Canela pasión |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 13:44:23 |
+| Lobby ID | 28515605289631687 |
+| Players | 1/24 |
+| Host Name | 不和小人一般见识 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 13:48:05 |
 
 
 |  | ot3_jungle_quintet |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | {THE~@} |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 13:47:13 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515605289506418 |
-| Players | 2/10 |
-| Host Name | HI? |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 13:47:51 |
 
 
