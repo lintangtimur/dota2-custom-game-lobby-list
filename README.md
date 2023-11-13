@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605395935026 |
-| Players | 8/15 |
+| Players | 14/15 |
 | Host Name | AKashi~ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 16:47:06 |
@@ -59,19 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605395426933 |
-| Players | 3/10 |
+| Players | 7/10 |
 | Host Name | Dissmac Volt |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 16:46:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605395828041 |
-| Players | 9/10 |
-| Host Name | илья глинюк(carry) |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 16:46:56 |
+| Lobby ID | 28515605396208096 |
+| Players | 14/24 |
+| Host Name | YANNIIEEEEE>>>>> |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 16:47:31 |
 
 
 |  | ot3_necropolis_ffa |
@@ -85,11 +85,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605396208096 |
-| Players | 4/24 |
-| Host Name | YANNIIEEEEE>>>>> |
+| Lobby ID | 28515605397079521 |
+| Players | 1/24 |
+| Host Name | 爱要弹蛋蛋 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 16:47:31 |
+| Lobby Creation Time | Monday, November 13, 2023 16:48:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605396554287 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Next |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 16:48:03 |
