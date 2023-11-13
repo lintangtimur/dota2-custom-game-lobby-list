@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543925115813 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Full-Time Griefer |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:50:06 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543925641186 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Incensus |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:50:52 |
@@ -105,9 +105,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28519543925632313 |
 | Players | 4/15 |
-| Host Name | QUÉ ES GANAR? |
+| Host Name | McLovin |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:50:51 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543925874089 |
+| Players | 2/10 |
+| Host Name | доточка proebalas' |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:51:13 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519543925936975 |
+| Players | 1/15 |
+| Host Name | w8me |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:51:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -146,15 +164,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 03:49:55 |
 
 
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519543925489513 |
-| Players | 1/10 |
-| Host Name | Теон |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:50:39 |
-
-
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28519543925197622 |
@@ -162,14 +171,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Саня Балтика |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:50:13 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28519543925795513 |
-| Players | 1/5 |
-| Host Name | Marauder |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:51:06 |
 
 
