@@ -29,24 +29,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 18:16:54 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605472917033 |
-| Players | 14/15 |
-| Host Name | ГЦН-195М |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 13, 2023 18:25:26 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605473164410 |
-| Players | 5/10 |
-| Host Name | talented player |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 18:25:40 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605468700922 |
@@ -56,13 +38,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 18:21:08 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605472237431 |
-| Players | 8/10 |
-| Host Name | Bud chi co |
+| Lobby ID | 28515605473164410 |
+| Players | 6/10 |
+| Host Name | talented player |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 18:25:40 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515605474583487 |
+| Players | 1/24 |
+| Host Name | Látom |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 13, 2023 18:27:05 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515605474592206 |
+| Players | 1/24 |
+| Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 18:24:44 |
+| Lobby Creation Time | Monday, November 13, 2023 18:27:05 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28515605474536727 |
+| Players | 1/7 |
+| Host Name | Cтрашный руин |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 13, 2023 18:27:02 |
 
 
 |  | epic_boss_fight_nightmare |
