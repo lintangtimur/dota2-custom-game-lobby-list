@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 14:23:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605309806513 |
-| Players | 14/15 |
-| Host Name | 🅰🆂🅲🅴🆂🅸🆂 |
+| Lobby ID | 28515605310614496 |
+| Players | 3/8 |
+| Host Name | L |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 14:26:00 |
+| Lobby Creation Time | Monday, November 13, 2023 14:27:28 |
 
 
 |  | ot3_desert_octet |
@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 14:13:51 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605309089804 |
-| Players | 19/24 |
-| Host Name | Jing |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 14:24:41 |
+| Lobby ID | 28515605310344250 |
+| Players | 1/8 |
+| Host Name | soft skin |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 13, 2023 14:26:58 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605309367660 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | ♂zxcuming♂ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:25:11 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605309747020 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Manguito |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 14:25:53 |
@@ -81,24 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Spookuni |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Monday, November 13, 2023 14:25:39 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605310344250 |
-| Players | 1/8 |
-| Host Name | soft skin |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 13, 2023 14:26:58 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605310614496 |
-| Players | 3/8 |
-| Host Name | L |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 14:27:28 |
 
 
 |  | epic_boss_fight_nightmare |
