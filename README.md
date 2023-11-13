@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543956242099 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | Jighoul |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:38:24 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543959254596 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | Poseidon |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:43:35 |
@@ -59,28 +59,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543959219137 |
-| Players | 3/8 |
+| Players | 6/8 |
 | Host Name | BenimaruSs |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:43:31 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543959349449 |
-| Players | 7/15 |
-| Host Name | sQuirtle |
+| Lobby ID | 28519543959530894 |
+| Players | 2/8 |
+| Host Name | расквасило |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:43:45 |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:44:04 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543959515544 |
-| Players | 1/15 |
-| Host Name | 12345xsad |
+| Players | 2/15 |
+| Host Name | La Bocchi |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:44:03 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519543959628680 |
+| Players | 1/15 |
+| Host Name | алеша |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:44:14 |
 
 
 |  | epic_boss_fight_normal |
@@ -95,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519543958092467 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | CA_168 [HSM] |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:41:34 |
