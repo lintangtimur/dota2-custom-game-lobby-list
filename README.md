@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605916121297 |
-| Players | 2/10 |
+| Players | 5/10 |
 | Host Name | GENIUS (at 4k mmr) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 00:07:07 |
@@ -38,49 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 23:59:38 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605916657057 |
-| Players | 1/24 |
-| Host Name | XrosKnight |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 14, 2023 00:07:38 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605912855342 |
-| Players | 6/8 |
-| Host Name | Feelingpeace’s |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 00:04:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605912537867 |
-| Players | 1/10 |
-| Host Name | сыновья of блядей |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 00:03:42 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605916884439 |
-| Players | 3/10 |
+| Players | 2/10 |
 | Host Name | November |
 | Region | EUROPE |
 | Lobby Creation Time | Tuesday, November 14, 2023 00:07:51 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605912878413 |
-| Players | 11/15 |
-| Host Name | Bob The Patata |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 00:04:01 |
 
 
 |  | ot3_necropolis_ffa |
@@ -90,6 +54,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | pudge domain |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Tuesday, November 14, 2023 00:08:09 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605917318124 |
+| Players | 1/8 |
+| Host Name | kvch |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 00:08:16 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605917346501 |
+| Players | 3/15 |
+| Host Name | ム F R O ム |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 00:08:17 |
 
 
 |  | epic_boss_fight_nightmare |
