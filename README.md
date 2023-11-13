@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605433037795 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | twitch.tv/lone_strider |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 17:40:26 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605429102443 |
-| Players | 4/8 |
-| Host Name | Ubuntu |
+| Players | 5/8 |
+| Host Name | Чувствую smooth criminal |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 13, 2023 17:35:29 |
 
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605428757964 |
-| Players | 4/15 |
+| Players | 2/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 17:35:03 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605433242573 |
-| Players | 13/24 |
+| Players | 15/24 |
 | Host Name | Nuntin |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 17:40:41 |
@@ -68,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605432831192 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | m0yonezzy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 17:40:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605434216036 |
+| Players | 3/10 |
+| Host Name | Sclaverai |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 17:41:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605432742651 |
+| Players | 9/10 |
+| Host Name | 大大hate myself |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 17:40:04 |
 
 
 |  | epic_boss_fight_nightmare |
