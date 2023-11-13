@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543998181880 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | 9 Грамм |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:59:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543996169426 |
-| Players | 14/24 |
+| Players | 17/24 |
 | Host Name | zxc csgetto.app |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:54:55 |
@@ -92,22 +92,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 05:59:22 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543998993226 |
+| Players | 6/10 |
+| Host Name | frddy fabzer |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:01:05 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543998736978 |
+| Lobby ID | 28519543998999749 |
 | Players | 1/8 |
-| Host Name | VETE REYNOSO CTMREEEE |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:00:32 |
+| Host Name | milka_ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:01:06 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543998938146 |
-| Players | 1/10 |
-| Host Name | frddy fabzer |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:00:58 |
+| Lobby ID | 28519543999000181 |
+| Players | 2/10 |
+| Host Name | KIDDBOSS381 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:01:06 |
 
 
 |  | epic_boss_fight_nightmare |
