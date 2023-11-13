@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605688548769 |
+| Lobby ID | 28515605688112777 |
 | Players | 7/8 |
-| Host Name | Deadline |
+| Host Name | на глазах у трупа |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 21:09:48 |
+| Lobby Creation Time | Monday, November 13, 2023 21:09:31 |
 
 
 |  | ot3_desert_octet |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605690302795 |
-| Players | 1/15 |
+| Players | 8/15 |
 | Host Name | Gonpachiro Kamaboko |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 13, 2023 21:10:58 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605690073336 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | =) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 21:10:49 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 21:10:18 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605687856615 |
-| Players | 9/10 |
-| Host Name | fauchard |
+| Lobby ID | 28515605690694079 |
+| Players | 2/8 |
+| Host Name | ААААААААА |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 21:09:20 |
+| Lobby Creation Time | Monday, November 13, 2023 21:11:13 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605679396224 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Raiden Ei |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 21:03:38 |
@@ -113,9 +113,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605657236688 |
-| Players | 3/10 |
+| Players | 1/10 |
 | Host Name | kss |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 20:48:49 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28515605690606366 |
+| Players | 1/5 |
+| Host Name | Легендарный Жмых |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 21:11:10 |
 
 
