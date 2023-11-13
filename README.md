@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605189501480 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Mor'Grim |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 10:22:00 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605189784817 |
-| Players | 11/24 |
+| Players | 15/24 |
 | Host Name | Kamu$ |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 10:22:37 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605188857581 |
-| Players | 7/15 |
+| Players | 8/15 |
 | Host Name | Beyond the Veil |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 10:20:34 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605189763329 |
-| Players | 3/15 |
+| Players | 1/15 |
 | Host Name | RuBeN |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 10:22:35 |
@@ -108,15 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | isn't like holding to the center |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 10:23:02 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515605186766067 |
-| Players | 7/10 |
-| Host Name | Next |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 10:15:56 |
 
 
 |  | epic_boss_fight_nightmare |
