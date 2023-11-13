@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 06:26:32 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544012315789 |
-| Players | 1/24 |
-| Host Name | Tonnhao o Profano |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:31:21 |
+| Lobby ID | 28519544011079987 |
+| Players | 8/10 |
+| Host Name | SenorMouse |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:28:26 |
 
 
 |  | ot3_necropolis_ffa |
@@ -47,49 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 06:29:36 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544012377487 |
-| Players | 2/10 |
-| Host Name | MilQ |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:31:30 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544012605542 |
-| Players | 6/10 |
-| Host Name | Lone_Marshal |
+| Lobby ID | 28519544013345328 |
+| Players | 2/15 |
+| Host Name | Аркмама |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:32:02 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544011079987 |
-| Players | 9/10 |
-| Host Name | SenorMouse |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:28:26 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544011418325 |
-| Players | 22/24 |
-| Host Name | M1ke光 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:29:13 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544013094100 |
-| Players | 1/24 |
-| Host Name | SmokingCascade |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:33:12 |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:33:48 |
 
 
 |  | ot3_jungle_quintet |
@@ -104,10 +68,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544012191490 |
-| Players | 6/15 |
+| Players | 11/15 |
 | Host Name | RuBeN |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:31:03 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519544013094100 |
+| Players | 1/24 |
+| Host Name | SmokingCascade |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:33:12 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544012377487 |
+| Players | 9/10 |
+| Host Name | MilQ |
+| Region | DUBAI |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:31:30 |
 
 
 |  | epic_boss_fight_nightmare |
