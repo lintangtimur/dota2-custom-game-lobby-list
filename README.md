@@ -32,26 +32,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605301582433 |
-| Players | 19/24 |
+| Players | 18/24 |
 | Host Name | R u crzy?Socheko Vanda ni Besii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 14:10:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605302305211 |
-| Players | 7/8 |
-| Host Name | yep |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 14:12:07 |
+| Lobby ID | 28515605303260047 |
+| Players | 3/24 |
+| Host Name | Nacho Fierro |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 14:13:51 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605303202240 |
-| Players | 2/15 |
-| Host Name | Ban PA |
+| Players | 1/15 |
+| Host Name | :qqq! |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 14:13:45 |
 
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605303205851 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | today PMA dota |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 14:13:45 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605303244081 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Прекрасная тварь |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:13:49 |
@@ -86,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605303234347 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | Wiedmolol bool |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:13:48 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605303260047 |
-| Players | 2/24 |
-| Host Name | Nacho Fierro |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 14:13:51 |
 
 
