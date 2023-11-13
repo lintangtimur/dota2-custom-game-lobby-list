@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 03:28:05 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543913994758 |
-| Players | 23/24 |
-| Host Name | PUGtamare |
+| Lobby ID | 28519543916230646 |
+| Players | 6/8 |
+| Host Name | Alucard |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:34:29 |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:37:34 |
 
 
 |  | ot3_gardens_duo |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543915853763 |
-| Players | 5/15 |
+| Players | 12/15 |
 | Host Name | ihoreshka |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:37:03 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543914807571 |
-| Players | 1/10 |
-| Host Name | acolyte |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:35:36 |
+| Lobby ID | 28519543916426896 |
+| Players | 6/8 |
+| Host Name | voralexan |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:37:51 |
 
 
 |  | ot3_jungle_quintet |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543916324477 |
-| Players | 4/10 |
+| Players | 3/10 |
 | Host Name | Gliknot |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:37:42 |
@@ -140,37 +140,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543914821343 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | freshejka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:35:37 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543916230646 |
-| Players | 5/8 |
-| Host Name | Alucard |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:37:34 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519543916457876 |
-| Players | 4/8 |
-| Host Name | Krucha |
+| Lobby ID | 28519543916590874 |
+| Players | 6/10 |
+| Host Name | テンスキー |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:37:53 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519543916426896 |
-| Players | 3/8 |
-| Host Name | voralexan |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:37:51 |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:38:04 |
 
 
 |  | epic_boss_fight_nightmare |
