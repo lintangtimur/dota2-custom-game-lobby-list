@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605279533154 |
-| Players | 2/15 |
+| Players | 1/15 |
 | Host Name | sad qweqwe |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 13, 2023 13:28:27 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605738173783 |
-| Players | 2/24 |
-| Host Name | гигантский карлик |
+| Lobby ID | 28515605738351727 |
+| Players | 3/8 |
+| Host Name | гоша дезолятор |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 21:42:47 |
+| Lobby Creation Time | Monday, November 13, 2023 21:42:55 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605740608523 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | PMA | Vicopro |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 21:44:26 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605731918373 |
-| Players | 11/24 |
+| Players | 10/24 |
 | Host Name | MoonWalker |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 21:38:36 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605740457547 |
-| Players | 11/24 |
+| Players | 21/24 |
 | Host Name | Britzly |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 21:44:20 |
@@ -67,20 +67,65 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605741713557 |
-| Players | 3/15 |
-| Host Name | Гадаю на Клиторе |
+| Lobby ID | 28515605742171710 |
+| Players | 12/15 |
+| Host Name | Бабушкин крадун |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 21:45:11 |
+| Lobby Creation Time | Monday, November 13, 2023 21:45:30 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605734430714 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | KomtingKons |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 21:40:16 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515605727447000 |
+| Players | 15/24 |
+| Host Name | Goki |
+| Region | JAPAN |
+| Lobby Creation Time | Monday, November 13, 2023 21:35:39 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605741961093 |
+| Players | 1/8 |
+| Host Name | t1r3ddd :) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 21:45:21 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605742236242 |
+| Players | 5/8 |
+| Host Name | I FEEL LIKE GOD |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 21:45:32 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605742743006 |
+| Players | 3/10 |
+| Host Name | Ｍ８ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 21:45:53 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605742877975 |
+| Players | 1/15 |
+| Host Name | dæggern |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 21:45:59 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +149,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605720560695 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | 不狂菜狗子 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 21:31:06 |
@@ -126,14 +171,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | g.bayankhishig |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 21:35:15 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28515605741848395 |
-| Players | 1/5 |
-| Host Name | Rekviem |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 13, 2023 21:45:17 |
 
 
