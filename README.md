@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 16:21:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605385647938 |
-| Players | 4/8 |
-| Host Name | Gliknot |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 13, 2023 16:31:04 |
+| Lobby ID | 28515605384730344 |
+| Players | 23/24 |
+| Host Name | 牛排三分熟 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 16:29:36 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,19 +47,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 16:31:41 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605384730344 |
-| Players | 22/24 |
-| Host Name | 牛排三分熟 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 16:29:36 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605386046513 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | HI? |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 16:31:43 |
