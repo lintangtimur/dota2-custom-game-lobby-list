@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605232122919 |
-| Players | 10/15 |
+| Players | 14/15 |
 | Host Name | IQ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 11:52:41 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605229154533 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | курва бобэр |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 11:46:44 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605230929662 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | Fer_Luque1696 |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:50:18 |
@@ -72,15 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 11:53:23 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605232631749 |
-| Players | 1/24 |
-| Host Name | shiraishi urara |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 11:53:43 |
 
 
 |  | epic_boss_fight_nightmare |
