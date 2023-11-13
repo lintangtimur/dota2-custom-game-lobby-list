@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605446776172 |
-| Players | 5/15 |
+| Players | 8/15 |
 | Host Name | родился орком защищай Мордор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 17:57:10 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605446721953 |
-| Players | 3/8 |
-| Host Name | ЖаРеНые ОльГи |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 17:57:06 |
+| Lobby ID | 28515605446052910 |
+| Players | 5/10 |
+| Host Name | L u 4 i s t i y   P i r o j o k |
+| Region | BRAZIL |
+| Lobby Creation Time | Monday, November 13, 2023 17:56:19 |
 
 
 |  | ot3_gardens_duo |
@@ -65,37 +65,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 17:55:42 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605446597859 |
-| Players | 2/15 |
-| Host Name | ChrryI |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 13, 2023 17:56:57 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605446052910 |
-| Players | 3/10 |
-| Host Name | L u 4 i s t i y   P i r o j o k |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 13, 2023 17:56:19 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605446053951 |
-| Players | 22/24 |
-| Host Name | BootyHunter |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 17:56:19 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605445182532 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Raging.Hope |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 17:55:17 |
