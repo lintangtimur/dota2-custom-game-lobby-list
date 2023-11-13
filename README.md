@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605260050242 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | One Chance |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 12:48:30 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605261198817 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | ⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧⅧ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 12:50:50 |
@@ -63,6 +63,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | MATA BRUTOS |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 12:49:15 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605261796518 |
+| Players | 2/10 |
+| Host Name | в клетке |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 12:52:03 |
 
 
 |  | epic_boss_fight_challenger |
