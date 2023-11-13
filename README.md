@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543855946951 |
-| Players | 7/10 |
+| Players | 5/10 |
 | Host Name | ванек дрыгин (SHELBYW |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:21:04 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543852104270 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Logan Ninefingers |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:16:36 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543849413188 |
-| Players | 14/24 |
+| Players | 16/24 |
 | Host Name | no masteries |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:13:35 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543853744743 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | Free Palestine |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:18:30 |
@@ -59,8 +59,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543854204702 |
-| Players | 2/10 |
-| Host Name | LORD.MOCOS |
+| Players | 1/10 |
+| Host Name | 【༺𒋲✶...LombriS...✶༺ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:19:02 |
 
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 02:20:46 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543855496809 |
-| Players | 4/8 |
-| Host Name | 346515 |
+| Lobby ID | 28519543856302408 |
+| Players | 2/10 |
+| Host Name | ^_^ :D |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:20:33 |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:21:29 |
 
 
 |  | ot3_desert_octet |
@@ -101,40 +101,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 02:20:37 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543856027172 |
-| Players | 1/10 |
-| Host Name | 52 |
+| Lobby ID | 28519543856354096 |
+| Players | 2/15 |
+| Host Name | Reus埃莉諾 |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:21:09 |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:21:32 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543856148961 |
-| Players | 2/10 |
+| Lobby ID | 28519543856359725 |
+| Players | 7/10 |
 | Host Name | [GER]Lui |
 | Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:21:18 |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:21:33 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543852468491 |
-| Players | 9/10 |
-| Host Name | Gёtenheim |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:17:01 |
+| Lobby ID | 28519543845653944 |
+| Players | 13/15 |
+| Host Name | На пельменях |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:09:19 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543856194292 |
-| Players | 2/10 |
-| Host Name | ihkanu |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:21:21 |
+| Lobby ID | 28519543856633941 |
+| Players | 1/15 |
+| Host Name | Hey ningen sucker |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:21:52 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -144,5 +144,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | sacmadic |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:19:41 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519543856391615 |
+| Players | 1/5 |
+| Host Name | Сасаки |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:21:35 |
 
 
