@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605267025844 |
-| Players | 3/8 |
+| Players | 1/8 |
 | Host Name | [D]iomegod |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 13:02:54 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605266807221 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | ⓞ︎ⓜ︎ⓔ︎ⓝ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 13:02:26 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605266446311 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | .......... |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 13:01:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605265594034 |
-| Players | 21/24 |
+| Players | 23/24 |
 | Host Name | If you're a crrano I'll ban you |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 12:59:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28515605266686381 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | ™PAQUER™ YOU™ |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 13:02:10 |
