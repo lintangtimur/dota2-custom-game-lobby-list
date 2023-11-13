@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605249946771 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | 𝖀𝖓𝕯𝖊𝖆𝖉 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 12:28:11 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605248140510 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | YATOO |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 13, 2023 12:24:37 |
@@ -74,10 +74,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 12:29:33 |
 
 
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605250935329 |
+| Players | 2/10 |
+| Host Name | so4ckingsmart(dumb) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 12:30:09 |
+
+
 |  | epic_boss_fight_challenger |
 | ------ | ------ |
 | Lobby ID | 28515605249943760 |
-| Players | 1/7 |
+| Players | 2/7 |
 | Host Name | MASELANG BAYAGHARI |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 12:28:10 |
@@ -90,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ang qt qt ko |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 12:29:54 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28515605250881309 |
-| Players | 1/5 |
-| Host Name | я не хочу просыпа |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 12:30:02 |
 
 
