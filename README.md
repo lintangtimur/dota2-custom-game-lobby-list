@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 13:28:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605299184715 |
-| Players | 5/8 |
-| Host Name | Нежный Отчим |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 14:06:18 |
+| Lobby ID | 28515605297982926 |
+| Players | 2/10 |
+| Host Name | Mr Seczo |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 14:04:02 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605298521158 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | ... |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:05:03 |
@@ -41,36 +41,36 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605298475310 |
-| Players | 8/24 |
+| Players | 12/24 |
 | Host Name | Transcended |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 14:04:58 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605297982926 |
-| Players | 2/10 |
-| Host Name | Mr Seczo |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 14:04:02 |
+| Lobby ID | 28515605300016493 |
+| Players | 1/8 |
+| Host Name | МРАЗ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 14:07:51 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605300043835 |
+| Players | 2/15 |
+| Host Name | Гадаю на Клиторе |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 14:07:55 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605299405941 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Arphon |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 13, 2023 14:06:43 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515605299502728 |
-| Players | 1/10 |
-| Host Name | mybiiru |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 13, 2023 14:06:54 |
 
 
