@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605555099514 |
-| Players | 4/10 |
+| Players | 7/10 |
 | Host Name | АААА ИПУЧИЙ! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 19:36:25 |
@@ -31,18 +31,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605573022605 |
+| Lobby ID | 28515605574820524 |
 | Players | 1/8 |
-| Host Name | todd chavez |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 19:49:47 |
+| Host Name | PerTzo |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 13, 2023 19:51:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605562345499 |
-| Players | 7/15 |
-| Host Name | 66 |
+| Players | 6/15 |
+| Host Name | Mickey |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 19:41:52 |
 
@@ -65,13 +65,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 19:28:09 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605543004077 |
-| Players | 3/10 |
-| Host Name | Z e r o |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 19:27:05 |
+| Lobby ID | 28515605520639451 |
+| Players | 5/15 |
+| Host Name | Midorima Shintarō |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 19:09:01 |
 
 
 |  | ot3_jungle_quintet |
@@ -101,19 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 19:02:41 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605574238059 |
-| Players | 5/8 |
-| Host Name | 76561198254294132 |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 13, 2023 19:50:41 |
+| Lobby ID | 28515605564672411 |
+| Players | 4/15 |
+| Host Name | kvlt |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 19:43:35 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605574648136 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | capo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 19:50:59 |
@@ -146,55 +146,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 19:50:34 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605564672411 |
-| Players | 4/15 |
-| Host Name | kvlt |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 19:43:35 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605574214861 |
-| Players | 1/24 |
-| Host Name | Say my name |
-| Region | JAPAN |
-| Lobby Creation Time | Monday, November 13, 2023 19:50:40 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605574820524 |
-| Players | 1/8 |
-| Host Name | PerTzo |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 13, 2023 19:51:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605574887584 |
-| Players | 1/8 |
-| Host Name | Papa Roma |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 19:51:10 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605520639451 |
-| Players | 5/15 |
-| Host Name | Midorima Shintarō |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 19:09:01 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605556170743 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | EL MENCO CJNG |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 19:37:14 |
@@ -203,19 +158,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28515605564383199 |
-| Players | 1/5 |
+| Players | 3/5 |
 | Host Name | chewbacca |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 19:43:23 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28515605574534422 |
-| Players | 1/5 |
-| Host Name | Татьяна Федоровн |
-| Region | INDIA |
-| Lobby Creation Time | Monday, November 13, 2023 19:50:54 |
 
 
 |  | epic_boss_fight_nightmare |
