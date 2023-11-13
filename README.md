@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605303654343 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | HashiRama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 14:14:35 |
@@ -60,7 +60,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28515605304118621 |
 | Players | 6/8 |
-| Host Name | zoryanru |
+| Host Name | Crybaby |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:15:27 |
 
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605303893154 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Ля Какой |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:15:02 |
@@ -77,18 +77,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605305804806 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | Heng |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 14:18:35 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28515605306222247 |
-| Players | 1/5 |
-| Host Name | Nestty(O_o). |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 14:19:21 |
 
 
