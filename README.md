@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605580058779 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Денис Жуков |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 19:54:56 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605575837642 |
-| Players | 11/24 |
+| Players | 13/24 |
 | Host Name | duramen |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 13, 2023 19:51:52 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605520639451 |
-| Players | 11/15 |
+| Players | 14/15 |
 | Host Name | Crowned_Clown |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 19:09:01 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605561282712 |
-| Players | 3/24 |
-| Host Name | Adobo |
+| Players | 1/24 |
+| Host Name | 青衣 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 19:41:05 |
 
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605572234450 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | GG fan (ganjubasgaming) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 19:49:12 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605577572271 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | meph |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 19:53:08 |
@@ -131,28 +131,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605575422248 |
-| Players | 4/10 |
+| Players | 9/10 |
 | Host Name | 140 на грудь, 170 жим |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 19:51:33 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605580319243 |
+| Players | 3/15 |
+| Host Name | Ychus |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 19:55:08 |
+
+
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605580090787 |
-| Players | 1/8 |
-| Host Name | nefelibata |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 13, 2023 19:54:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605580185637 |
-| Players | 1/10 |
-| Host Name | Бендеровец |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 13, 2023 19:55:02 |
+| Lobby ID | 28515605580476768 |
+| Players | 5/8 |
+| Host Name | ZENITH |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 19:55:15 |
 
 
 |  | epic_boss_fight_nightmare |
