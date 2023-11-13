@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605450331686 |
-| Players | 5/10 |
+| Players | 8/10 |
 | Host Name | родился орком защищай Мордор |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 18:01:18 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 17:59:21 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605447864742 |
-| Players | 9/10 |
-| Host Name | Too Good To Win? |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 17:58:26 |
+| Lobby ID | 28515605451048704 |
+| Players | 1/15 |
+| Host Name | Jhek |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 13, 2023 18:02:07 |
 
 
 |  | ot3_gardens_duo |
@@ -72,6 +72,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Nextlevel_tuuk |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 18:01:56 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605450902881 |
+| Players | 2/8 |
+| Host Name | 5к чудище |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 18:01:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605451043960 |
+| Players | 1/15 |
+| Host Name | MR.boombastic |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 18:02:07 |
 
 
 |  | epic_boss_fight_nightmare |
