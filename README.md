@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543989720822 |
-| Players | 4/10 |
+| Players | 8/10 |
 | Host Name | Lone_Marshal |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:41:26 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543989351404 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | macxvii |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:40:41 |
@@ -59,28 +59,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543990447247 |
-| Players | 4/15 |
+| Players | 6/15 |
 | Host Name | Mor'Grim |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:42:57 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519543987628677 |
-| Players | 23/24 |
-| Host Name | freshejka |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:37:07 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543988256366 |
-| Players | 14/15 |
-| Host Name | 11111111 |
+| Lobby ID | 28519543990735433 |
+| Players | 6/15 |
+| Host Name | Triplesixgods |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:43:32 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519543988426912 |
+| Players | 23/24 |
+| Host Name | SCUERO EL TERROR DE ILABAYA |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:38:25 |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:38:47 |
 
 
 |  | ot3_necropolis_ffa |
@@ -104,19 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543990716969 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Crocodilo amassado |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:43:30 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543990735433 |
-| Players | 5/15 |
-| Host Name | Triplesixgods |
+| Lobby ID | 28519543990991248 |
+| Players | 1/10 |
+| Host Name | Paradox |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:43:32 |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:44:04 |
 
 
 |  | epic_boss_fight_nightmare |
