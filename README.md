@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 13:28:27 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605326418856 |
-| Players | 21/24 |
-| Host Name | _(:з」∠)_ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 14:55:24 |
+| Lobby ID | 28515605328157784 |
+| Players | 10/15 |
+| Host Name | ChrryI |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 14:58:24 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605327846772 |
-| Players | 1/10 |
+| Players | 4/10 |
 | Host Name | trash teammate |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 13, 2023 14:57:51 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605326266130 |
-| Players | 9/15 |
+| Players | 6/15 |
 | Host Name | Clean Cat |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 14:55:08 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605327234462 |
-| Players | 1/8 |
+| Players | 4/8 |
 | Host Name | DANICH |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:56:48 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605325626651 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | MS |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 14:54:01 |
@@ -74,22 +74,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 14:55:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605327199123 |
-| Players | 6/8 |
-| Host Name | kvch |
+| Lobby ID | 28515605328188484 |
+| Players | 5/24 |
+| Host Name | Trungdaica |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 14:58:27 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515605328460360 |
+| Players | 1/24 |
+| Host Name | Itachi |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 14:56:45 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605328060474 |
-| Players | 1/15 |
-| Host Name | 0 |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 14:58:14 |
+| Lobby Creation Time | Monday, November 13, 2023 14:58:55 |
 
 
 |  | epic_boss_fight_nightmare |
