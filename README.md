@@ -5,25 +5,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605202669281 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | Aggressive Koala |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 10:51:09 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605202222638 |
-| Players | 2/8 |
-| Host Name | AVENA 3 URSITAS |
+| Lobby ID | 28515605201979654 |
+| Players | 7/24 |
+| Host Name | NAZUN4♥ |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 10:50:10 |
+| Lobby Creation Time | Monday, November 13, 2023 10:49:37 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605202630260 |
-| Players | 7/15 |
+| Players | 14/15 |
 | Host Name | Antoxa |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 10:51:04 |
@@ -59,28 +59,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605202811388 |
-| Players | 9/24 |
+| Players | 11/24 |
 | Host Name | asura |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 10:51:28 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605201979654 |
-| Players | 6/24 |
-| Host Name | NAZUN4♥ |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 10:49:37 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605202822821 |
-| Players | 2/8 |
+| Lobby ID | 28515605203079853 |
+| Players | 2/10 |
 | Host Name | вентилятор говна |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 10:51:30 |
+| Lobby Creation Time | Monday, November 13, 2023 10:52:04 |
 
 
 |  | epic_boss_fight_normal |
