@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605195207375 |
-| Players | 23/24 |
-| Host Name | Nadia Omara |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 10:34:36 |
+| Lobby ID | 28515605198909247 |
+| Players | 1/10 |
+| Host Name | CANCELUL |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 10:42:45 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605197664222 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | SCP |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 10:40:00 |
@@ -68,8 +68,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605198351500 |
-| Players | 2/15 |
-| Host Name | АЛЬФА_СВИН_228 |
+| Players | 3/15 |
+| Host Name | KaWka |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 10:41:30 |
 
@@ -77,28 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605198572407 |
-| Players | 11/15 |
+| Players | 13/15 |
 | Host Name | Puerco araña |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 10:42:00 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605198909247 |
-| Players | 1/10 |
-| Host Name | CANCELUL |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 10:42:45 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605197535612 |
-| Players | 9/10 |
-| Host Name | 【༺𒋲✶...LombriS...✶༺ |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 10:39:43 |
 
 
 |  | epic_boss_fight_challenger |
@@ -122,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_hard |
 | ------ | ------ |
 | Lobby ID | 28515605197405450 |
-| Players | 6/7 |
+| Players | 5/7 |
 | Host Name | RANITIDINA |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 10:39:26 |
