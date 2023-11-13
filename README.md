@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605464620029 |
-| Players | 3/8 |
-| Host Name | Hi |
+| Players | 2/8 |
+| Host Name | JɄ₦₲ⱠɆ ₲Ɇ₦łɄ₴ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 18:16:54 |
 
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605475706497 |
-| Players | 2/10 |
+| Players | 8/10 |
 | Host Name | Ас |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 18:28:12 |
@@ -41,45 +41,63 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605473164410 |
-| Players | 9/10 |
+| Players | 4/10 |
 | Host Name | 絶対PersHerabal |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 18:25:40 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605474592206 |
-| Players | 14/24 |
-| Host Name | NARBERAL GAMA |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 18:27:05 |
+| Lobby ID | 28515605476005579 |
+| Players | 2/10 |
+| Host Name | ДИКИЙ БАНАН В ПОПКЕ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 18:28:30 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605475949577 |
+| Players | 3/10 |
+| Host Name | FEOFAN |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 18:28:26 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605475601783 |
-| Players | 4/8 |
-| Host Name | shewantmore |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 13, 2023 18:28:05 |
+| Lobby ID | 28515605476272318 |
+| Players | 5/8 |
+| Host Name | платон - легенда |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 18:28:46 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605475729968 |
+| Lobby ID | 28515605476406029 |
 | Players | 2/15 |
-| Host Name | -PSE |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 13, 2023 18:28:13 |
+| Host Name | ГЦН-195М |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 18:28:54 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605475545974 |
-| Players | 3/10 |
+| Players | 9/10 |
 | Host Name | Гадкий Олег |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 18:28:02 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515605476360486 |
+| Players | 2/10 |
+| Host Name | zennyrt |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 18:28:51 |
 
 
