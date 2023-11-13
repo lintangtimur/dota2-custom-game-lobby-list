@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543787175044 |
-| Players | 19/24 |
+| Players | 21/24 |
 | Host Name | roswel |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 01:05:20 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543849413188 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | no masteries |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:13:35 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543841641753 |
-| Players | 6/15 |
+| Players | 9/15 |
 | Host Name | aRt_ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:04:44 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543845653944 |
-| Players | 7/15 |
+| Players | 5/15 |
 | Host Name | На пельменях |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:09:19 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543850878872 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | moryaz |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:15:13 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543851408611 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Razor |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:15:49 |
@@ -139,11 +139,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543851279045 |
-| Players | 14/15 |
-| Host Name | ADIDOS |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:15:40 |
+| Lobby ID | 28519543849765583 |
+| Players | 6/15 |
+| Host Name | 76561198056223203 |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:13:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -153,6 +153,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | N0len |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:15:49 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543851554964 |
+| Players | 2/10 |
+| Host Name | suchqa krivoruchqa |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:15:59 |
 
 
 |  | epic_boss_fight_nightmare |
