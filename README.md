@@ -38,13 +38,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 17:56:34 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605445767562 |
-| Players | 1/8 |
-| Host Name | 3jLa9I_Co6a4Ka |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 13, 2023 17:55:59 |
+| Lobby ID | 28515605446776172 |
+| Players | 5/15 |
+| Host Name | родился орком защищай Мордор |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 17:57:10 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605446597859 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | ChrryI |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 13, 2023 17:56:57 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605446053951 |
-| Players | 21/24 |
+| Players | 22/24 |
 | Host Name | BootyHunter |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 17:56:19 |
@@ -99,14 +99,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Raging.Hope |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 17:55:17 |
-
-
-|  | epic_boss_fight_challenger |
-| ------ | ------ |
-| Lobby ID | 28515605446769054 |
-| Players | 1/7 |
-| Host Name | BWB |
-| Region | PWTELECOMZHEJIANG |
-| Lobby Creation Time | Monday, November 13, 2023 17:57:09 |
 
 
