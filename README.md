@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605369944435 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Menace2Society |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 13, 2023 16:06:22 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605371010765 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Mafozik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 16:08:02 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605370454361 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | 牛排三分熟 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 16:07:10 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | i miss u |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 16:07:37 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605369926237 |
-| Players | 1/10 |
-| Host Name | X SoDo |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 16:06:20 |
 
 
 |  | ot3_desert_octet |
