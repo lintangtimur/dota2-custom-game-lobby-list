@@ -47,19 +47,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 02:38:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543876366235 |
-| Players | 4/15 |
-| Host Name | 【≽ܫ≼】༺𒋲ˡᵉᵍᵉ |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:45:44 |
+| Lobby ID | 28519543876544882 |
+| Players | 1/10 |
+| Host Name | Apagón Revolucionario |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:45:57 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543875725038 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | OG. Wisper |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:44:56 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543875910137 |
-| Players | 9/10 |
+| Players | 8/10 |
 | Host Name | kto myaukaet |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:45:10 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543876322025 |
-| Players | 2/15 |
+| Players | 4/15 |
 | Host Name | Logan Ninefingers |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:45:40 |
@@ -119,19 +119,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 02:45:45 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543876544882 |
-| Players | 1/10 |
-| Host Name | Apagón Revolucionario |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:45:57 |
+| Lobby ID | 28519543876692719 |
+| Players | 1/15 |
+| Host Name | shr3dd3r |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:46:08 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519543875479511 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Takoadm |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:44:38 |
