@@ -23,46 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605379266236 |
-| Players | 4/24 |
+| Players | 3/24 |
 | Host Name | equilibrium |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 16:21:03 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605381858479 |
-| Players | 7/8 |
-| Host Name | гоможаба |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 16:25:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605378543187 |
-| Players | 14/15 |
-| Host Name | меня сбили) |
-| Region | USWEST |
-| Lobby Creation Time | Monday, November 13, 2023 16:19:54 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605381619601 |
-| Players | 8/15 |
-| Host Name | AKashi~ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 16:24:44 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605380246900 |
-| Players | 9/10 |
-| Host Name | SenorMouse |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 16:22:34 |
+| Lobby ID | 28515605382421083 |
+| Players | 1/24 |
+| Host Name | ... |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 13, 2023 16:25:59 |
 
 
 |  | ot3_jungle_quintet |
@@ -74,6 +47,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 16:25:40 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605381619601 |
+| Players | 9/15 |
+| Host Name | AKashi~ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 16:24:44 |
+
+
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605382241219 |
@@ -81,15 +63,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | adventure unknown |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 16:25:42 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605382360566 |
-| Players | 3/10 |
-| Host Name | Шутняра |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 16:25:53 |
 
 
 |  | epic_boss_fight_nightmare |
