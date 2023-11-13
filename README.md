@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605294173568 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | so4ckingsmart(dumb) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 13:56:45 |
@@ -31,17 +31,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605293791869 |
-| Players | 14/15 |
-| Host Name | EL HOMBRE SIDA !! |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 13:56:02 |
+| Lobby ID | 28515605294577958 |
+| Players | 8/15 |
+| Host Name | Соло помойка |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 13:57:31 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605288950729 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | markb0y |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 13:46:46 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605289387399 |
-| Players | 19/24 |
+| Players | 22/24 |
 | Host Name | TiltedGuy |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 13:47:37 |
@@ -67,20 +67,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605294074580 |
-| Players | 7/8 |
-| Host Name | 5 |
+| Lobby ID | 28515605295274721 |
+| Players | 1/8 |
+| Host Name | SVINEЦ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 13:56:34 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605294577958 |
-| Players | 6/15 |
-| Host Name | Соло помойка |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 13:57:31 |
+| Lobby Creation Time | Monday, November 13, 2023 13:58:51 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Lestat |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 13:54:43 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28515605294986443 |
-| Players | 1/5 |
-| Host Name |  |
-| Region | PWTELECOMZHEJIANG |
-| Lobby Creation Time | Monday, November 13, 2023 13:58:18 |
 
 
