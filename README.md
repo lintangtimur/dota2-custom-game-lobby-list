@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 09:51:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605171746426 |
-| Players | 23/24 |
-| Host Name | Sol[A]ce |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 09:42:45 |
+| Lobby ID | 28515605170622402 |
+| Players | 8/15 |
+| Host Name | Badman |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 09:40:15 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605175612464 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | El whiskas |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 09:51:19 |
@@ -101,6 +101,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 09:51:55 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515605175913833 |
+| Players | 7/24 |
+| Host Name | Yamil :D |
+| Region | CHILE |
+| Lobby Creation Time | Monday, November 13, 2023 09:51:59 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605174061519 |
@@ -110,21 +119,21 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 09:47:55 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28515605175349048 |
-| Players | 3/5 |
-| Host Name | rizure |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 09:50:45 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605175621572 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | Haiya |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 09:51:21 |
+
+
+|  | epic_boss_fight_hard |
+| ------ | ------ |
+| Lobby ID | 28515605175969289 |
+| Players | 1/7 |
+| Host Name | Imagine Wagons |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 13, 2023 09:52:06 |
 
 
