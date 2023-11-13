@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544006853318 |
-| Players | 4/24 |
+| Players | 6/24 |
 | Host Name | SeT |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:18:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544006999458 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | ITS_SHOWTIME |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:19:00 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544006953683 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | Миль Попс жум жум |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:18:54 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544006808305 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | Mike Oxlong |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:18:34 |
@@ -81,6 +81,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | ZZZZZZZZ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:18:34 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544007071120 |
+| Players | 3/10 |
+| Host Name | Dark |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:19:10 |
 
 
 |  | epic_boss_fight_nightmare |
