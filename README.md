@@ -2,13 +2,13 @@
 
 This list only for Epic Boss Fight Reborn and Overthrow 3
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605175428673 |
-| Players | 23/24 |
-| Host Name | Dohman32 |
+| Lobby ID | 28515605178133292 |
+| Players | 5/15 |
+| Host Name | SadlyItsBradley |
 | Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 09:50:56 |
+| Lobby Creation Time | Monday, November 13, 2023 09:56:56 |
 
 
 |  | ot3_desert_octet |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605177852460 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | CAMARADA CAPIBARA |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 09:56:17 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605084238902 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | Dul Kanırtan |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 06:24:17 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605177342863 |
-| Players | 8/24 |
+| Players | 10/24 |
 | Host Name | cada vez mas disociado |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 09:55:09 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605177653195 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ZYX-AROUND |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 09:55:50 |
@@ -81,15 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Страшнеслав |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 09:53:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605178098092 |
-| Players | 1/10 |
-| Host Name | Аниме Додик |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 09:56:51 |
 
 
 |  | epic_boss_fight_nightmare |
