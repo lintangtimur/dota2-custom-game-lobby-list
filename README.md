@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605321132966 |
-| Players | 3/8 |
+| Players | 2/8 |
 | Host Name | Trishtam |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 14:46:13 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605320799703 |
-| Players | 8/15 |
+| Players | 7/15 |
 | Host Name | Scooter boi |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 14:45:38 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605321728628 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | xkeimaxx |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 14:47:15 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605322999504 |
-| Players | 6/15 |
+| Players | 5/15 |
 | Host Name | Shadow |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:49:28 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605323084312 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | ✿GOJO SATORU✿ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:49:37 |
@@ -110,6 +110,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 14:49:47 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605323846700 |
+| Players | 3/8 |
+| Host Name | Fapanya |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 14:50:56 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605310284875 |
@@ -117,14 +126,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Fran____ |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 14:26:52 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28515605323827846 |
-| Players | 1/5 |
-| Host Name | antut™ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 14:50:54 |
 
 
