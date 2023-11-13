@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605587572320 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | EtisAtisAnimatisEtisAtisAmatis |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 20:00:24 |
@@ -83,19 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 19:59:38 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605520639451 |
-| Players | 13/15 |
-| Host Name | Crowned_Clown |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 19:09:01 |
+| Lobby ID | 28515605577572271 |
+| Players | 6/10 |
+| Host Name | Mray |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 19:53:08 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605580160598 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | 無定向喪心病狂 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 19:55:01 |
@@ -128,13 +128,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 19:58:20 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605577572271 |
-| Players | 5/10 |
-| Host Name | Mray |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 19:53:08 |
+| Lobby ID | 28515605588737670 |
+| Players | 1/8 |
+| Host Name | ExSide- |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 13, 2023 20:01:14 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605588824592 |
+| Players | 1/8 |
+| Host Name | despair |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 20:01:18 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -146,19 +155,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 19:53:16 |
 
 
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28515605587423482 |
-| Players | 1/5 |
-| Host Name | Sky |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 13, 2023 20:00:17 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605587996510 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Fihed |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 20:00:42 |
