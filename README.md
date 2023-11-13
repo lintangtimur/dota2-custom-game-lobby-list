@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544007435426 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Midgetman |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:20:00 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544008808168 |
-| Players | 5/10 |
-| Host Name | TankadO_606 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:23:10 |
+| Lobby ID | 28519544009206335 |
+| Players | 3/10 |
+| Host Name | Магистр Гейства |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:24:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544008952240 |
-| Players | 4/8 |
+| Players | 7/8 |
 | Host Name | hey brazil |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:23:31 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544008831893 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Джони Две Куртки |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:23:14 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544008935972 |
-| Players | 6/8 |
-| Host Name | ShlakoBlock |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:23:28 |
 
 
 |  | ot3_desert_octet |
@@ -101,22 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 06:23:28 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519544009151079 |
-| Players | 2/10 |
-| Host Name | Full-Time Griefer |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:23:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544009178162 |
-| Players | 2/10 |
-| Host Name | Магистр Гейства |
+| Lobby ID | 28519544009256195 |
+| Players | 1/24 |
+| Host Name | 神羅天征♿~Mya-nee |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:24:02 |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:24:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544009257643 |
+| Players | 6/8 |
+| Host Name | G I U L I A N O |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:24:13 |
 
 
 |  | epic_boss_fight_nightmare |
