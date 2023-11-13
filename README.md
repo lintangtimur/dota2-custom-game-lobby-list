@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605279533154 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | sad qweqwe |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 13, 2023 13:28:27 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605494461700 |
-| Players | 9/24 |
+| Players | 10/24 |
 | Host Name | MADABO |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 13, 2023 18:45:57 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605500256969 |
-| Players | 9/10 |
+| Players | 7/10 |
 | Host Name | TOXIC_Alex |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 18:51:15 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605498311024 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | 21 ravage |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 13, 2023 18:49:29 |
@@ -128,21 +128,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 18:52:00 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605501158923 |
+| Players | 1/8 |
+| Host Name | you cry i laugh |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 18:52:04 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605501267698 |
+| Players | 4/8 |
+| Host Name | Самвел Евросеть |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 18:52:10 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605498688010 |
-| Players | 2/10 |
+| Players | 7/10 |
 | Host Name | +left |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 18:49:49 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28515605501082152 |
-| Players | 1/5 |
-| Host Name | Mr. Nobody |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 18:52:00 |
 
 
