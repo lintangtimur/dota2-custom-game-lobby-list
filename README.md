@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544006188970 |
-| Players | 8/10 |
+| Players | 7/10 |
 | Host Name | ЧИКО |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:17:12 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544004953287 |
-| Players | 22/24 |
+| Players | 23/24 |
 | Host Name | L'ost |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:14:25 |
@@ -59,46 +59,46 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544006388102 |
-| Players | 3/15 |
+| Players | 5/15 |
 | Host Name | RuBeN |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:17:39 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544006405410 |
-| Players | 4/8 |
-| Host Name | Gliknot |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:17:41 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544006470179 |
-| Players | 2/10 |
-| Host Name | EL TIO LINO!! |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:17:49 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519544005057515 |
-| Players | 14/15 |
-| Host Name | hyperaniiic |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:14:39 |
-
-
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544006508829 |
-| Players | 4/10 |
+| Players | 6/10 |
 | Host Name | Shzam |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:17:54 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544006542887 |
+| Players | 2/10 |
+| Host Name | Asmoday Eternal |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:17:59 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519544006587158 |
+| Players | 3/8 |
+| Host Name | Sneaky Beaky Like ¯\_(ツ)_/¯ |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:18:05 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519544006583190 |
+| Players | 1/10 |
+| Host Name | EL TIO LINO!! |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:18:04 |
 
 
 |  | epic_boss_fight_nightmare |
