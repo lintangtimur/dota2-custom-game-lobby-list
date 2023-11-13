@@ -13,11 +13,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543977355434 |
+| Lobby ID | 28519543977451016 |
 | Players | 1/8 |
-| Host Name | Максон трицепс |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:16:46 |
+| Host Name | Carboncito el más rico de la TV |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:16:57 |
 
 
 |  | ot3_gardens_duo |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543977206832 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | Akame |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:16:29 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543975934842 |
-| Players | 5/8 |
+| Players | 7/8 |
 | Host Name | ---- |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:14:05 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543976944329 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | качаюсь на рельеф |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:15:59 |
@@ -104,19 +104,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543977179790 |
-| Players | 5/24 |
+| Players | 9/24 |
 | Host Name | GATO KCHONDO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:16:26 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519543977444959 |
-| Players | 1/15 |
-| Host Name | Чимчиримба |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:16:56 |
+| Lobby ID | 28519543975932908 |
+| Players | 23/24 |
+| Host Name | Cap.Gynyu |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:14:05 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | k. Danger-Zone |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:00:23 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28519543977498792 |
+| Players | 2/10 |
+| Host Name | Lambo |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:17:02 |
 
 
