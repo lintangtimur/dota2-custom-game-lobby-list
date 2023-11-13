@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 11:55:02 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605234525781 |
-| Players | 3/8 |
-| Host Name | Can you hear the music |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 11:57:33 |
+| Lobby ID | 28515605234117915 |
+| Players | 6/24 |
+| Host Name | Экинуй Сенгаี้ |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 11:56:43 |
 
 
 |  | ot3_desert_octet |
@@ -38,19 +38,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 06:24:17 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605234541844 |
-| Players | 1/15 |
-| Host Name | 76561198151416151 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 13, 2023 11:57:35 |
+| Lobby ID | 28515605234810693 |
+| Players | 2/10 |
+| Host Name | Путж |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 11:58:07 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605234549578 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Chupete |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 11:57:36 |
@@ -74,13 +74,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 11:56:31 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605234117915 |
-| Players | 6/24 |
-| Host Name | Экинуй Сенгаี้ |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 11:56:43 |
+| Lobby ID | 28515605234818036 |
+| Players | 1/15 |
+| Host Name | Fideos Canuto |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 11:58:08 |
 
 
 |  | epic_boss_fight_normal |
@@ -90,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | шайлушай |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 11:57:51 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28515605234669972 |
-| Players | 1/5 |
-| Host Name | Joyoboyo™ |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Monday, November 13, 2023 11:57:50 |
 
 
