@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605631245392 |
-| Players | 1/15 |
+| Players | 2/15 |
 | Host Name | お前ら大嫌いだ |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 13, 2023 20:31:17 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605520639451 |
-| Players | 9/15 |
+| Players | 12/15 |
 | Host Name | QuaD |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 19:09:01 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605631970731 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | LEONEL :D |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 20:31:46 |
@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605613378464 |
-| Players | 1/15 |
-| Host Name | Даже Твой Дед |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 20:18:51 |
+| Lobby ID | 28515605632532267 |
+| Players | 2/15 |
+| Host Name | Дурачье𓆩♡𓆪Лар |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 20:32:09 |
 
 
 |  | ot3_necropolis_ffa |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605629432510 |
-| Players | 3/15 |
+| Players | 2/15 |
 | Host Name | soraya montenegro |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 20:30:02 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605630467230 |
-| Players | 5/10 |
+| Players | 9/10 |
 | Host Name | -kontinuum |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 20:30:45 |
@@ -104,28 +104,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605632361935 |
-| Players | 1/24 |
+| Players | 4/24 |
 | Host Name | jmadness |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 20:32:02 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605632335329 |
-| Players | 1/24 |
-| Host Name | A.Y. |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 20:32:01 |
+| Lobby ID | 28515605632454701 |
+| Players | 1/8 |
+| Host Name | 21 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 20:32:06 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605632385540 |
-| Players | 1/10 |
-| Host Name | FiveLeavess |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 13, 2023 20:32:03 |
+| Lobby ID | 28515605632483664 |
+| Players | 1/8 |
+| Host Name | Hierarch Artanis |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 20:32:07 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605632651215 |
+| Players | 1/8 |
+| Host Name | kvch |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 20:32:14 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -149,7 +158,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605631331187 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | 不狂菜狗子 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 20:31:20 |
@@ -158,9 +167,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28515605632324261 |
-| Players | 2/5 |
+| Players | 1/5 |
 | Host Name | (Mr.Pboy) |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 20:32:01 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515605587996510 |
+| Players | 9/10 |
+| Host Name | Fihed |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 20:00:42 |
 
 
