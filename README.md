@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605344015820 |
-| Players | 5/15 |
+| Players | 9/15 |
 | Host Name | OutWrorld Destroyer |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 15:25:09 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605343281518 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 15:23:56 |
@@ -65,10 +65,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 15:25:40 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605344491820 |
+| Players | 1/15 |
+| Host Name | Clean Cat |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 15:25:56 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515605344550956 |
+| Players | 2/24 |
+| Host Name | 小心踏得两艘船 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 15:26:02 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605342724477 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | SnowFire |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 15:23:01 |
