@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605471943879 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Matye Bal |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 18:24:27 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605464620029 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | Hi |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 18:16:54 |
@@ -32,28 +32,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605472917033 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | ГЦН-195М |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 13, 2023 18:25:26 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605473671058 |
-| Players | 1/24 |
-| Host Name | Vioravante |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 18:26:11 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605467509528 |
-| Players | 14/15 |
-| Host Name | HimalayaJoe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 18:19:55 |
 
 
 |  | ot3_gardens_duo |
@@ -68,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605473660554 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | ДЕЛАЮ РАЗНИЦУ |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 18:26:10 |
@@ -86,9 +68,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605472237431 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Bud chi co |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 18:24:44 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28515605473841558 |
+| Players | 1/5 |
+| Host Name | rexcor |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 18:26:21 |
 
 
