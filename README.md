@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605363599207 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Redhardt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 15:56:16 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605361629698 |
-| Players | 5/8 |
+| Players | 4/8 |
 | Host Name | 离手鸳鸯刀 |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 15:53:09 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605362251366 |
-| Players | 9/15 |
+| Players | 10/15 |
 | Host Name | sAnkøtteryŁeet |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 15:54:07 |
@@ -72,6 +72,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | trash teammate |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 15:56:57 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605364089544 |
+| Players | 1/15 |
+| Host Name | MoNsTeR! |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 15:57:03 |
 
 
 |  | epic_boss_fight_nightmare |
