@@ -11,19 +11,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 13:28:27 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605447500904 |
-| Players | 4/8 |
-| Host Name | 1>9 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 17:58:01 |
+| Lobby ID | 28515605448089851 |
+| Players | 1/15 |
+| Host Name | merho |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 13, 2023 17:58:42 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605445538658 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 离手鸳鸯刀 |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 13, 2023 17:55:43 |
@@ -38,48 +38,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 17:56:34 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605446776172 |
-| Players | 14/15 |
-| Host Name | родился орком защищай Мордор |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 17:57:10 |
+| Lobby ID | 28515605447714893 |
+| Players | 7/24 |
+| Host Name | Evol |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 17:58:16 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605447655089 |
+| Lobby ID | 28515605447864742 |
 | Players | 2/10 |
-| Host Name | dasosa |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 17:58:11 |
+| Host Name | Too Good To Win? |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 17:58:26 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605445182532 |
-| Players | 7/10 |
+| Players | 9/10 |
 | Host Name | Raging.Hope |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 17:55:17 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28515605447483117 |
-| Players | 1/5 |
-| Host Name | гошазоло2008 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 17:58:00 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515605447670522 |
-| Players | 1/10 |
-| Host Name | close |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 17:58:13 |
 
 
