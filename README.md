@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605303654343 |
-| Players | 13/24 |
+| Players | 12/24 |
 | Host Name | HashiRama |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 14:14:35 |
@@ -47,13 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 14:13:51 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605304832943 |
-| Players | 1/15 |
-| Host Name | Ankam_26 |
+| Lobby ID | 28515605305007639 |
+| Players | 3/10 |
+| Host Name | Syn.v2 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 14:16:47 |
+| Lobby Creation Time | Monday, November 13, 2023 14:17:06 |
 
 
 |  | ot3_jungle_quintet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605304118621 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | zoryanru |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:15:27 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605304734507 |
-| Players | 6/15 |
+| Players | 13/15 |
 | Host Name | Соло помойка |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:16:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605305007639 |
-| Players | 3/10 |
-| Host Name | Syn.v2 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 14:17:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +90,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Ля Какой |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:15:02 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515605305509848 |
+| Players | 1/10 |
+| Host Name | Heng |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 14:18:03 |
 
 
