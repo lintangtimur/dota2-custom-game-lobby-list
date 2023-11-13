@@ -22,11 +22,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605289631687 |
-| Players | 23/24 |
-| Host Name | 不和小人一般见识 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 13:48:05 |
+| Lobby ID | 28515605284985268 |
+| Players | 19/24 |
+| Host Name | Marlito |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 13:39:09 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605289387399 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | TiltedGuy |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 13:47:37 |
@@ -59,25 +59,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605287585709 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Sentry |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 13:44:08 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605284985268 |
-| Players | 19/24 |
-| Host Name | Marlito |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 13:39:09 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605289182267 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Zafina |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 13:47:13 |
@@ -90,5 +81,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Just subscribe for Linda H |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 13:51:56 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515605291837351 |
+| Players | 1/10 |
+| Host Name | ꜱʏꜰʏ |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 13, 2023 13:52:20 |
 
 
