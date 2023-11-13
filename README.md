@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605457096381 |
-| Players | 5/15 |
+| Players | 4/15 |
 | Host Name | Sauron |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 18:08:53 |
@@ -77,19 +77,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605459737964 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | <MINAZUKI> |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 18:11:44 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605461981165 |
-| Players | 1/8 |
-| Host Name | Величайший |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 13, 2023 18:14:08 |
 
 
 |  | ot3_jungle_quintet |
@@ -122,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605458603151 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | ♂ I'm Performance Artist ♂ |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 13, 2023 18:10:31 |
