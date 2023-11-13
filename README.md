@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543977451016 |
-| Players | 1/8 |
+| Players | 3/8 |
 | Host Name | Carboncito el más rico de la TV |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:16:57 |
@@ -119,6 +119,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 05:14:05 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519543977569537 |
+| Players | 3/8 |
+| Host Name | Greedy KING |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:17:10 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519543977630554 |
+| Players | 1/15 |
+| Host Name | Чимчиримба |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:17:17 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519543968635772 |
@@ -126,14 +144,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | k. Danger-Zone |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:00:23 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519543977498792 |
-| Players | 2/10 |
-| Host Name | Lambo |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:17:02 |
 
 
