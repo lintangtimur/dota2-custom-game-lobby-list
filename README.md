@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605279533154 |
-| Players | 7/15 |
+| Players | 4/15 |
 | Host Name | sad qweqwe |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 13, 2023 13:28:27 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605357131194 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | today PMA dota |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 15:46:03 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605358359054 |
+| Lobby ID | 28515605358493859 |
 | Players | 1/8 |
-| Host Name | Murzik |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 15:48:01 |
+| Host Name | 老司机 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 15:48:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -72,5 +72,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | .G |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 15:39:24 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515605358472743 |
+| Players | 1/10 |
+| Host Name | Danh hài Vân Sơn |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 15:48:11 |
 
 
