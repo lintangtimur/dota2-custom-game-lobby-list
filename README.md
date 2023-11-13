@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 12:08:42 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605240379914 |
-| Players | 13/15 |
-| Host Name | Somnus |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 12:09:18 |
+| Lobby ID | 28515605241266497 |
+| Players | 1/24 |
+| Host Name | DarkMoon |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 12:11:02 |
 
 
 |  | ot3_desert_octet |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605240727386 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | lebanon don |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 12:09:59 |
@@ -108,24 +108,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | →The Eminence← |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 12:10:23 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605241237948 |
-| Players | 1/24 |
-| Host Name | DarkMoon |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 12:10:58 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28515605236439594 |
-| Players | 9/10 |
-| Host Name | ITS_SHOWTIME |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 12:01:24 |
 
 
 |  | epic_boss_fight_nightmare |
