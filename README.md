@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544020591989 |
-| Players | 13/24 |
+| Players | 14/24 |
 | Host Name | XD |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:51:34 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544021241475 |
-| Players | 2/10 |
+| Players | 6/10 |
 | Host Name | MUSICO |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:53:10 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544021339530 |
-| Players | 1/8 |
+| Players | 2/8 |
 | Host Name | AkiKo Annaisha kim Sung |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:53:24 |
@@ -68,25 +68,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544021507952 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | SenorMouse |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:53:49 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544013780302 |
-| Players | 7/8 |
-| Host Name | TI_ Polux_Troy |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:34:51 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544021521131 |
-| Players | 1/15 |
+| Players | 5/15 |
 | Host Name | Hippie |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:53:51 |
@@ -99,14 +90,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | nooo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:51:14 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28519544021389079 |
-| Players | 2/5 |
-| Host Name | godota2.com |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:53:31 |
 
 
