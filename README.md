@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605258322620 |
-| Players | 2/24 |
+| Players | 3/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 13, 2023 12:44:56 |
@@ -29,19 +29,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 12:57:41 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605260421187 |
-| Players | 20/24 |
-| Host Name | I LIKE LITTLE RACCOON FOREVER |
+| Lobby ID | 28515605265394676 |
+| Players | 3/15 |
+| Host Name | Kurapika: The last Inca |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 12:49:15 |
+| Lobby Creation Time | Monday, November 13, 2023 12:59:23 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605262783744 |
-| Players | 14/24 |
+| Players | 20/24 |
 | Host Name | jmadness |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 12:54:02 |
@@ -50,28 +50,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605265175075 |
-| Players | 1/15 |
+| Players | 4/15 |
 | Host Name | a1dargo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 12:58:55 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515605265594034 |
+| Players | 1/24 |
+| Host Name | If you're a crrano I'll ban you |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 12:59:48 |
+
+
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605265285604 |
+| Lobby ID | 28515605265710165 |
 | Players | 1/15 |
-| Host Name | Willl |
-| Region | PWTELECOMGUANGZHOU |
-| Lobby Creation Time | Monday, November 13, 2023 12:59:10 |
+| Host Name | Kirtaph |
+| Region | USWEST |
+| Lobby Creation Time | Monday, November 13, 2023 13:00:02 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605265354296 |
-| Players | 4/8 |
-| Host Name | 𝑆𝑒𝑐𝑟𝑒𝑡 |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 12:59:18 |
+| Lobby ID | 28515605265721045 |
+| Players | 1/8 |
+| Host Name | Moon |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 13:00:04 |
 
 
 |  | epic_boss_fight_nightmare |
