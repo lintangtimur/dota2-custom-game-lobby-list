@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605420251742 |
-| Players | 16/24 |
+| Players | 17/24 |
 | Host Name | dirt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 17:23:44 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605431793487 |
-| Players | 3/8 |
-| Host Name | Да поебать мне |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Monday, November 13, 2023 17:38:53 |
+| Lobby ID | 28515605431864915 |
+| Players | 3/10 |
+| Host Name | Stefan 福 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 17:38:58 |
 
 
 |  | ot3_jungle_quintet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605431395917 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | deadly vice |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 17:38:23 |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | maybe good team |
 | Region | AUSTRIA |
 | Lobby Creation Time | Monday, November 13, 2023 17:38:35 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605431818413 |
-| Players | 2/10 |
-| Host Name | Stefan 福 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 17:38:54 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605431822146 |
-| Players | 1/24 |
-| Host Name | invis |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 17:38:55 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -119,12 +101,12 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 17:38:00 |
 
 
-|  | epic_boss_fight_normal |
+|  | epic_boss_fight_nightmare |
 | ------ | ------ |
-| Lobby ID | 28515605431833336 |
-| Players | 1/5 |
+| Lobby ID | 28515605431958257 |
+| Players | 1/10 |
 | Host Name | TOROTOT |
 | Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 17:38:56 |
+| Lobby Creation Time | Monday, November 13, 2023 17:39:05 |
 
 
