@@ -49,11 +49,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605319767298 |
-| Players | 7/8 |
-| Host Name | < blank > |
+| Lobby ID | 28515605321622240 |
+| Players | 4/8 |
+| Host Name | IOiceOI |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 14:43:47 |
+| Lobby Creation Time | Monday, November 13, 2023 14:47:05 |
 
 
 |  | ot3_desert_octet |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605320799703 |
-| Players | 5/15 |
+| Players | 3/15 |
 | Host Name | Scooter boi |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 14:45:38 |
@@ -76,11 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605321536292 |
-| Players | 1/8 |
-| Host Name | YOU'RE ALIVE? |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 14:46:56 |
+| Lobby ID | 28515605321645336 |
+| Players | 2/8 |
+| Host Name | New Era |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 14:47:07 |
 
 
 |  | epic_boss_fight_nightmare |
