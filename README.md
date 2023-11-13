@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605175478559 |
-| Players | 7/24 |
+| Players | 9/24 |
 | Host Name | RiftBreaker |
 | Region | USWEST |
 | Lobby Creation Time | Monday, November 13, 2023 09:51:02 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605181681963 |
-| Players | 2/8 |
+| Players | 3/8 |
 | Host Name | nv |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 10:04:49 |
@@ -68,28 +68,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605182094522 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | Takatho |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 10:05:44 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605182691820 |
-| Players | 22/24 |
-| Host Name | TiltedGuy |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 10:07:04 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605183034200 |
-| Players | 1/24 |
-| Host Name | 76561198414076364 |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 10:07:49 |
 
 
 |  | ot3_gardens_duo |
@@ -101,10 +83,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 10:05:45 |
 
 
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515605183034200 |
+| Players | 2/24 |
+| Host Name | 76561198414076364 |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 10:07:49 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605183538320 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Heng |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 10:08:55 |
