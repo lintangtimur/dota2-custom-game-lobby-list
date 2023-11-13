@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543886062216 |
-| Players | 2/15 |
+| Players | 6/15 |
 | Host Name | Datedi |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:57:54 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543883858177 |
-| Players | 5/10 |
+| Players | 7/10 |
 | Host Name | Run Yo Pockets |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:55:08 |
@@ -65,40 +65,31 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 02:52:48 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519543885901419 |
-| Players | 11/15 |
-| Host Name | www.twitch.tv/fominini |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:57:42 |
-
-
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543885845624 |
-| Players | 1/24 |
+| Players | 3/24 |
 | Host Name | Miller |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:57:38 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543885994667 |
-| Players | 5/8 |
-| Host Name | DG_COACH |
-| Region | SOUTHAFRICA |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:57:49 |
+| Lobby ID | 28519543886204714 |
+| Players | 3/15 |
+| Host Name | samvelly |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:58:05 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543886008442 |
-| Players | 2/24 |
-| Host Name | *улюлюканье* |
+| Lobby ID | 28519543886214188 |
+| Players | 2/10 |
+| Host Name | uselessuselessuselessuseless |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:57:50 |
+| Lobby Creation Time | Tuesday, November 14, 2023 02:58:06 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,14 +117,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | LA MUERTA LOS PORFAVOR |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 02:57:28 |
-
-
-|  | epic_boss_fight_nightmare |
-| ------ | ------ |
-| Lobby ID | 28519543886048384 |
-| Players | 1/10 |
-| Host Name | JawS |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 02:57:53 |
 
 
