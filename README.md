@@ -13,20 +13,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544006128384 |
-| Players | 7/10 |
-| Host Name | w13ard |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:17:04 |
+| Lobby ID | 28519544006188970 |
+| Players | 3/10 |
+| Host Name | ЧИКО |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:17:12 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544005944255 |
-| Players | 5/8 |
-| Host Name | twitch.tv/saintideal |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:16:38 |
+| Lobby ID | 28519544006059559 |
+| Players | 1/10 |
+| Host Name | EL TIO LINO!! |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:16:54 |
 
 
 |  | ot3_necropolis_ffa |
@@ -50,64 +50,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544004953287 |
-| Players | 5/24 |
+| Players | 8/24 |
 | Host Name | L'ost |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:14:25 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544005627671 |
-| Players | 7/8 |
-| Host Name | xdxdxd |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:15:56 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544005408628 |
-| Players | 9/10 |
-| Host Name | Sparatun o.0 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:15:27 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544005996182 |
-| Players | 1/24 |
-| Host Name | David |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:16:46 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544006059559 |
-| Players | 1/10 |
-| Host Name | EL TIO LINO!! |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:16:54 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544006188970 |
-| Players | 2/10 |
-| Host Name | ЧИКО |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:17:12 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519544006197456 |
-| Players | 1/8 |
-| Host Name | Sneaky Beaky Like ¯\_(ツ)_/¯ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:17:13 |
+| Lobby ID | 28519544005057515 |
+| Players | 14/15 |
+| Host Name | no, just no |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:14:39 |
 
 
 |  | epic_boss_fight_nightmare |
