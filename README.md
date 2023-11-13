@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605424177478 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | NARBERAL GAMA |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 17:29:03 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605424609792 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Олеся Головач |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 17:29:37 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605419436827 |
-| Players | 10/24 |
+| Players | 11/24 |
 | Host Name | slick |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 13, 2023 17:22:35 |
@@ -135,14 +135,5 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Kok$.[NSK].54 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 17:31:54 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28515605427885799 |
-| Players | 1/5 |
-| Host Name | гошазоло2008 |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 13, 2023 17:33:56 |
 
 
