@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605279533154 |
-| Players | 6/15 |
+| Players | 8/15 |
 | Host Name | sad qweqwe |
 | Region | DUBAI |
 | Lobby Creation Time | Monday, November 13, 2023 13:28:27 |
@@ -20,13 +20,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 15:19:15 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605358706278 |
-| Players | 1/15 |
-| Host Name | Whisper de dia, manco de noche. |
+| Lobby ID | 28515605358885624 |
+| Players | 1/8 |
+| Host Name | Мистер Шишкун |
 | Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 15:48:33 |
+| Lobby Creation Time | Monday, November 13, 2023 15:48:50 |
 
 
 |  | ot3_desert_octet |
@@ -40,11 +40,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605358835699 |
-| Players | 1/15 |
+| Lobby ID | 28515605359116308 |
+| Players | 4/15 |
 | Host Name | sapontai |
-| Region | BRAZIL |
-| Lobby Creation Time | Monday, November 13, 2023 15:48:45 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 15:49:13 |
 
 
 |  | ot3_desert_octet |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605358811548 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | SHVEPS |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 15:48:43 |
@@ -76,20 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605358885624 |
-| Players | 1/8 |
-| Host Name | Мистер Шишкун |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 15:48:50 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605359064568 |
+| Lobby ID | 28515605359147964 |
 | Players | 1/8 |
 | Host Name | Prokuror |
 | Region | EUROPE |
-| Lobby Creation Time | Monday, November 13, 2023 15:49:08 |
+| Lobby Creation Time | Monday, November 13, 2023 15:49:16 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -104,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605358807313 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Danh hài Vân Sơn |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 15:48:43 |
