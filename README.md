@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605181681963 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | nv |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 10:04:49 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605181259428 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | Yappy |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 10:03:53 |
@@ -67,17 +67,17 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605182094522 |
-| Players | 8/10 |
-| Host Name | Takatho |
+| Lobby ID | 28515605184077908 |
+| Players | 2/10 |
+| Host Name | SITH ♥THE ACHIEVEMENT HUNTER♥ |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 10:05:44 |
+| Lobby Creation Time | Monday, November 13, 2023 10:10:05 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605182099831 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | amiiigh |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 10:05:45 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605183849129 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Rupicola |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 10:09:36 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605183973488 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | Keyser Soze |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 10:09:52 |
@@ -103,11 +103,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605184011052 |
-| Players | 1/15 |
-| Host Name | ☼ Fuzzy Turtle ☼ |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 10:09:56 |
+| Lobby ID | 28515605184094392 |
+| Players | 3/15 |
+| Host Name | MODO SEPSO |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 10:10:07 |
 
 
 |  | epic_boss_fight_nightmare |
