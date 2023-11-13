@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543972309627 |
-| Players | 1/24 |
+| Players | 2/24 |
 | Host Name | Lose |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:07:18 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544007772977 |
-| Players | 7/15 |
+| Players | 11/15 |
 | Host Name | Аркадий Рикимарович |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:20:47 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544006853318 |
-| Players | 9/24 |
+| Players | 8/24 |
 | Host Name | SeT |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:18:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544007435426 |
-| Players | 3/15 |
+| Players | 4/15 |
 | Host Name | Midgetman |
 | Region | USWEST |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:20:00 |
@@ -67,15 +67,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544008241432 |
-| Players | 2/8 |
-| Host Name | FrenzyMan |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:21:52 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
 | Lobby ID | 28519544007738050 |
 | Players | 4/8 |
 | Host Name | BUTISITO LA LEYENDA |
@@ -85,29 +76,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544008292557 |
+| Lobby ID | 28519544008348133 |
 | Players | 1/10 |
-| Host Name | 󠀡󠀡100%curse0iq |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:21:59 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519544008293246 |
-| Players | 1/24 |
 | Host Name | EL TIO LINO!! |
 | Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:21:59 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519544008296150 |
-| Players | 1/10 |
-| Host Name | 🚷 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:21:59 |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:22:07 |
 
 
 |  | epic_boss_fight_nightmare |
