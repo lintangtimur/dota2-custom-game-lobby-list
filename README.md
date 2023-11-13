@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605362276209 |
-| Players | 3/10 |
+| Players | 5/10 |
 | Host Name | ShikoMudoff |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 15:54:09 |
@@ -59,19 +59,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605362251366 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | sAnkøtteryŁeet |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 15:54:07 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605360838985 |
-| Players | 6/8 |
-| Host Name | GGG |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 15:51:55 |
 
 
 |  | epic_boss_fight_nightmare |
