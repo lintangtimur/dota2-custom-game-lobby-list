@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605482187826 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | bdy |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 18:34:32 |
@@ -23,8 +23,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605504211706 |
-| Players | 3/8 |
-| Host Name | Sneaky Beaky Like ¯\_(ツ)_/¯ |
+| Players | 2/8 |
+| Host Name | слабый |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 18:54:48 |
 
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605503987393 |
-| Players | 6/24 |
+| Players | 8/24 |
 | Host Name | Jing |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 18:54:36 |
@@ -86,10 +86,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605502351772 |
-| Players | 7/8 |
+| Players | 6/8 |
 | Host Name | you cry i laugh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 18:53:08 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605498584184 |
+| Players | 13/15 |
+| Host Name | сгусток |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 18:49:44 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +108,23 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | Da Wae |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 18:53:07 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28515605504567601 |
+| Players | 1/5 |
+| Host Name | o_o!!! |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 18:55:07 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515605504559557 |
+| Players | 1/10 |
+| Host Name | Mihail |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 13, 2023 18:55:06 |
 
 
