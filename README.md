@@ -14,25 +14,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605457096381 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | Sauron |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 18:08:53 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605465330546 |
-| Players | 22/24 |
-| Host Name | Snolled |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 18:17:39 |
+| Lobby ID | 28515605467106444 |
+| Players | 2/8 |
+| Host Name | Deadline |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 18:19:30 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605465766292 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | kol_fnl |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 18:18:06 |
@@ -49,33 +49,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605465808804 |
-| Players | 7/15 |
-| Host Name | MoNsTeR! |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 18:18:09 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605467509528 |
-| Players | 1/15 |
-| Host Name | HimalayaJoe |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 18:19:55 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605466045685 |
-| Players | 13/15 |
-| Host Name | e4raY |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 18:18:24 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28515605466865879 |
 | Players | 1/15 |
 | Host Name | samurai |
@@ -83,22 +56,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 18:19:15 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605465379886 |
-| Players | 5/8 |
-| Host Name | Учу Skitter`а |
+| Lobby ID | 28515605467509528 |
+| Players | 9/15 |
+| Host Name | HimalayaJoe |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 18:17:42 |
+| Lobby Creation Time | Monday, November 13, 2023 18:19:55 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605467106444 |
+| Lobby ID | 28515605468584180 |
 | Players | 1/8 |
-| Host Name | Deadline |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 18:19:30 |
+| Host Name | A22B9S |
+| Region | PWTELECOMWUHAN |
+| Lobby Creation Time | Monday, November 13, 2023 18:21:01 |
 
 
 |  | epic_boss_fight_nightmare |
