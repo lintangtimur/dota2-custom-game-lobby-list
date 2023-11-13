@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543818597555 |
-| Players | 7/15 |
+| Players | 9/15 |
 | Host Name | Logan Ninefingers |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 01:39:10 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543819320805 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | (''l_l'') |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 01:39:57 |
@@ -47,31 +47,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 01:36:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519543819488684 |
-| Players | 1/15 |
-| Host Name | Кириешка |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 01:40:08 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519543819490980 |
-| Players | 1/15 |
-| Host Name | PAKETAAAAAA |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 01:40:08 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519543819433114 |
-| Players | 1/8 |
-| Host Name | Spike |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 01:40:04 |
+| Lobby ID | 28519543819599010 |
+| Players | 1/24 |
+| Host Name | 21Savage |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 01:40:15 |
 
 
 |  | ot3_desert_octet |
@@ -81,5 +63,32 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | rikk4 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 01:40:08 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543819635409 |
+| Players | 1/10 |
+| Host Name | Devil Eyes |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, November 14, 2023 01:40:17 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519543819546501 |
+| Players | 1/8 |
+| Host Name | rudy |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 01:40:11 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28519543819586635 |
+| Players | 2/10 |
+| Host Name | ванек дрыгин (SHELBYW |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, November 14, 2023 01:40:14 |
 
 
