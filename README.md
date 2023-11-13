@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543994730220 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | Attentäter |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:51:51 |
@@ -50,37 +50,10 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543995132343 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | lebanon don |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:52:42 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519543995317904 |
-| Players | 1/8 |
-| Host Name | 76561199196836346 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:53:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519543994901137 |
-| Players | 5/15 |
-| Host Name | ; Soy La Comadreja " o_0 |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:52:13 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519543995145414 |
-| Players | 5/8 |
-| Host Name | Джул |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:52:44 |
 
 
 |  | ot3_gardens_duo |
@@ -90,6 +63,24 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | тони писька |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:52:54 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519543994901137 |
+| Players | 7/15 |
+| Host Name | ; Soy La Comadreja " o_0 |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:52:13 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28519543995145414 |
+| Players | 6/8 |
+| Host Name | Джул |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:52:44 |
 
 
 |  | epic_boss_fight_nightmare |
