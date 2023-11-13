@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605461831522 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | MD. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 18:13:58 |
@@ -68,16 +68,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605462590565 |
-| Players | 6/8 |
+| Players | 5/8 |
 | Host Name | Menace2Society |
 | Region | EUROPE |
 | Lobby Creation Time | Monday, November 13, 2023 18:14:46 |
 
 
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605463306864 |
+| Players | 2/8 |
+| Host Name | 50% |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 18:15:31 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605455794660 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | ucupnakal22 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 18:07:27 |
