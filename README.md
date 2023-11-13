@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605623182154 |
-| Players | 2/15 |
+| Players | 5/15 |
 | Host Name | dARE |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 20:25:43 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605572234450 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | вася санстрайк |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 19:49:12 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605618591830 |
-| Players | 19/24 |
+| Players | 20/24 |
 | Host Name | drntmanh |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 20:22:32 |
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605621983781 |
-| Players | 5/15 |
+| Players | 6/15 |
 | Host Name | Sushist |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 20:24:53 |
@@ -112,26 +112,26 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605623333021 |
-| Players | 2/10 |
-| Host Name | training acc |
-| Region | EUROPE |
-| Lobby Creation Time | Monday, November 13, 2023 20:25:50 |
+| Lobby ID | 28515605623708862 |
+| Players | 4/10 |
+| Host Name | YATOGOROT |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 20:26:05 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605614013372 |
-| Players | 9/10 |
-| Host Name | Sea Server Cancer |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 13, 2023 20:19:18 |
+| Lobby ID | 28515605623696010 |
+| Players | 1/15 |
+| Host Name | Ozzzymandias |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 20:26:05 |
 
 
 |  | epic_boss_fight_normal |
 | ------ | ------ |
 | Lobby ID | 28515605622249901 |
-| Players | 1/5 |
+| Players | 2/5 |
 | Host Name | winter |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 20:25:05 |
