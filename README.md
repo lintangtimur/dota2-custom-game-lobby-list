@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543993808852 |
-| Players | 7/10 |
+| Players | 8/10 |
 | Host Name | wojo.piwosz |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:49:56 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543994304434 |
-| Players | 4/15 |
+| Players | 8/15 |
 | Host Name | 暁 | <3 leler |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:50:57 |
@@ -47,33 +47,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 05:40:20 |
 
 
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519543993731244 |
-| Players | 9/15 |
-| Host Name | arp |
-| Region | BRAZIL |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:49:47 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519543992974170 |
-| Players | 6/15 |
-| Host Name | Little BirD |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:48:13 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28519543993366694 |
-| Players | 1/24 |
-| Host Name | manjiro sano |
-| Region | USEAST |
-| Lobby Creation Time | Tuesday, November 14, 2023 05:49:02 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543993604670 |
@@ -83,10 +56,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 05:49:32 |
 
 
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28519543992974170 |
+| Players | 7/15 |
+| Host Name | Little BirD |
+| Region | PERU |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:48:13 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28519543993366694 |
+| Players | 4/24 |
+| Host Name | manjiro sano |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 05:49:02 |
+
+
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519543979852405 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | k. Danger-Zone |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:21:35 |
@@ -95,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519543992725112 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | tulindoteiro |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 05:47:42 |
