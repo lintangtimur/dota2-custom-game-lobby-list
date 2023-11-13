@@ -29,13 +29,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 01:04:19 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543785277276 |
-| Players | 1/10 |
-| Host Name | 123 |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 01:03:15 |
+| Lobby ID | 28519543784357311 |
+| Players | 2/15 |
+| Host Name | Hassuni enabler |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 01:02:16 |
 
 
 |  | ot3_necropolis_ffa |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543786031673 |
-| Players | 6/10 |
+| Players | 8/10 |
 | Host Name | SpiceySpoon |
 | Region | SOUTHAFRICA |
 | Lobby Creation Time | Tuesday, November 14, 2023 01:04:05 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543784221757 |
-| Players | 1/8 |
+| Players | 5/8 |
 | Host Name | Not human ( Артемий ) |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 01:02:07 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543785538453 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | LilaLouSi@rkardo |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 01:03:33 |
@@ -140,43 +140,16 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543786924302 |
-| Players | 3/15 |
+| Players | 11/15 |
 | Host Name | Pavlon Escobarov |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 01:05:04 |
 
 
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605947111181 |
-| Players | 5/8 |
-| Host Name | Infiniti |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 00:37:19 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519543786954084 |
-| Players | 1/10 |
-| Host Name | So Lucky Baragoz |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 01:05:06 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519543784357311 |
-| Players | 2/15 |
-| Host Name | Hassuni enabler |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 01:02:16 |
-
-
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519543783064025 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | [                         ] |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 01:00:49 |
