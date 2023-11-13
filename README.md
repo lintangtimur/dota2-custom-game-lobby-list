@@ -95,8 +95,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605271450769 |
-| Players | 3/10 |
-| Host Name | Тотальный фид |
+| Players | 6/10 |
+| Host Name | Путж |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 13:12:08 |
 
@@ -104,7 +104,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605271064106 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | "Virone" Comrade |
 | Region | JAPAN |
 | Lobby Creation Time | Monday, November 13, 2023 13:11:20 |
