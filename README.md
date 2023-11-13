@@ -11,13 +11,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 05:07:18 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544005799998 |
-| Players | 9/15 |
-| Host Name | Летчик Зигзаг |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:16:19 |
+| Lobby ID | 28519544006128384 |
+| Players | 7/10 |
+| Host Name | w13ard |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:17:04 |
 
 
 |  | ot3_necropolis_ffa |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544005627671 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | xdxdxd |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:15:56 |
@@ -92,22 +92,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 06:16:54 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544006078946 |
-| Players | 1/15 |
-| Host Name | DiN DoNg  Aea :V |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:16:57 |
+| Lobby ID | 28519544006188970 |
+| Players | 2/10 |
+| Host Name | ЧИКО |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:17:12 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519544006095034 |
+| Lobby ID | 28519544006197456 |
 | Players | 1/8 |
 | Host Name | Sneaky Beaky Like ¯\_(ツ)_/¯ |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:16:59 |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:17:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -126,5 +126,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | maj3zik |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:13:51 |
+
+
+|  | epic_boss_fight_normal |
+| ------ | ------ |
+| Lobby ID | 28519544006166069 |
+| Players | 2/5 |
+| Host Name | Daath |
+| Region | CHILE |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:17:09 |
 
 
