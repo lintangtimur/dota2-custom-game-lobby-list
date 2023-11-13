@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605178817495 |
-| Players | 20/24 |
+| Players | 23/24 |
 | Host Name | Synchronicity III |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 09:58:27 |
@@ -56,19 +56,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 06:24:17 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605179904279 |
-| Players | 1/8 |
-| Host Name | alexmercerjta123 |
+| Lobby ID | 28515605180394667 |
+| Players | 4/10 |
+| Host Name | Eliazz🐯 |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 10:00:52 |
+| Lobby Creation Time | Monday, November 13, 2023 10:01:58 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605178366945 |
-| Players | 3/24 |
+| Players | 4/24 |
 | Host Name | 游戏蝗虫农师傅 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 09:57:27 |
@@ -83,19 +83,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 09:59:08 |
 
 
-|  | epic_boss_fight_nightmare |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605174061519 |
-| Players | 9/10 |
-| Host Name | kaito |
+| Lobby ID | 28515605180410028 |
+| Players | 1/8 |
+| Host Name | isn't like holding to the center |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 10:02:00 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605180434399 |
+| Players | 3/8 |
+| Host Name | XCLARAX |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 09:47:55 |
+| Lobby Creation Time | Monday, November 13, 2023 10:02:03 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605180444280 |
+| Players | 1/8 |
+| Host Name | Hope |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 10:02:05 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605180155261 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Agnis |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 10:01:26 |
