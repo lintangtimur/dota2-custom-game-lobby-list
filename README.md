@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605803456712 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | этот шпек |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 22:28:58 |
@@ -58,11 +58,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605804451953 |
-| Players | 9/10 |
-| Host Name | fauchard |
+| Lobby ID | 28515605798533107 |
+| Players | 7/10 |
+| Host Name | russkaсhurka2006 |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 22:29:43 |
+| Lobby Creation Time | Monday, November 13, 2023 22:25:19 |
 
 
 |  | ot3_desert_octet |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605771599270 |
-| Players | 15/24 |
+| Players | 17/24 |
 | Host Name | Peanut Butter Jelly |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 22:05:58 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605804791742 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | +79538694802 по номеру |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 22:29:58 |
@@ -157,11 +157,11 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605800795940 |
-| Players | 7/8 |
-| Host Name | Matye Bal |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 22:26:59 |
+| Lobby ID | 28515605804900107 |
+| Players | 4/8 |
+| Host Name | KVASLOVER |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 22:30:03 |
 
 
 |  | ot3_gardens_duo |
@@ -184,47 +184,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605804653184 |
-| Players | 1/15 |
-| Host Name | DESR |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 22:29:52 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
 | Lobby ID | 28515605760205976 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Kam1koto |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 21:57:54 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605804879917 |
-| Players | 1/8 |
-| Host Name | ItzFlwynu |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 22:30:02 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605804900107 |
-| Players | 1/8 |
-| Host Name | KVASLOVER |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 22:30:03 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605798533107 |
-| Players | 9/10 |
-| Host Name | russkaсhurka2006 |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 22:25:19 |
+| Lobby ID | 28515605805302825 |
+| Players | 1/15 |
+| Host Name | 3-hp |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 13, 2023 22:30:21 |
 
 
 |  | epic_boss_fight_normal |
@@ -239,7 +212,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605803278308 |
-| Players | 4/10 |
+| Players | 5/10 |
 | Host Name | "WOOD RECT BUFFET RISER 22X7 1/8 |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 22:28:50 |
@@ -248,18 +221,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605804991769 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | Fogg_soglasen |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 22:30:07 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28515605805014177 |
-| Players | 1/5 |
-| Host Name | Jubili |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 22:30:08 |
 
 
