@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605172322482 |
-| Players | 2/15 |
+| Players | 3/15 |
 | Host Name | flocos |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 13, 2023 09:44:02 |
@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605173090734 |
-| Players | 6/15 |
+| Players | 7/15 |
 | Host Name | ßęşĕĺäŝĩý Ğąž |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 09:45:43 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605173052454 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | Freg3r |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 09:45:38 |
@@ -65,22 +65,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 09:45:16 |
 
 
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605172951648 |
-| Players | 22/24 |
-| Host Name | Disastrous Luck |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 09:45:25 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605173483960 |
-| Players | 3/8 |
-| Host Name | Vessel, |
-| Region | Unknown |
-| Lobby Creation Time | Monday, November 13, 2023 09:46:37 |
+| Lobby ID | 28515605173606756 |
+| Players | 4/8 |
+| Host Name | hc pls |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 09:46:53 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605173588738 |
+| Players | 1/10 |
+| Host Name | GREED |
+| Region | USEAST |
+| Lobby Creation Time | Monday, November 13, 2023 09:46:51 |
 
 
 |  | ot3_necropolis_ffa |
@@ -101,28 +101,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 09:46:33 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605173588738 |
-| Players | 1/10 |
-| Host Name | GREED |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 09:46:51 |
-
-
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28515605173606756 |
-| Players | 2/8 |
-| Host Name | hc pls |
+| Lobby ID | 28515605173700242 |
+| Players | 4/8 |
+| Host Name | Vessel, |
 | Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 09:46:53 |
+| Lobby Creation Time | Monday, November 13, 2023 09:47:06 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605171857631 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | trance |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 09:43:00 |
