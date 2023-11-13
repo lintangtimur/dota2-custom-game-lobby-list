@@ -29,58 +29,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 16:38:00 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605389859218 |
-| Players | 5/10 |
-| Host Name | Annette |
+| Lobby ID | 28515605389801507 |
+| Players | 13/15 |
+| Host Name | Luqky |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 16:37:47 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605388468803 |
-| Players | 1/8 |
-| Host Name | zelda fan |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 13, 2023 16:35:35 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605389719872 |
-| Players | 1/8 |
-| Host Name | гавно что ле |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 16:37:33 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605389406491 |
-| Players | 11/24 |
-| Host Name | POM |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 16:37:03 |
+| Lobby Creation Time | Monday, November 13, 2023 16:37:41 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605389928974 |
-| Players | 1/8 |
-| Host Name | KONSTANTIN! |
+| Players | 4/8 |
+| Host Name | Israel are terrorists! |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 16:37:53 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605389801507 |
-| Players | 8/15 |
-| Host Name | Luqky |
+| Lobby ID | 28515605390323959 |
+| Players | 3/15 |
+| Host Name | Anti |
 | Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 16:37:41 |
+| Lobby Creation Time | Monday, November 13, 2023 16:38:31 |
+
+
+|  | ot3_desert_octet |
+| ------ | ------ |
+| Lobby ID | 28515605389406491 |
+| Players | 15/24 |
+| Host Name | POM |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 16:37:03 |
 
 
 |  | epic_boss_fight_nightmare |
