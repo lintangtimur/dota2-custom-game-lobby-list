@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544010263245 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | ahUO |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:26:32 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544012377487 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | MilQ |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:31:30 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544011418325 |
-| Players | 18/24 |
+| Players | 19/24 |
 | Host Name | M1ke光 |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:29:13 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519544012016163 |
-| Players | 9/10 |
+| Players | 7/10 |
 | Host Name | Tshaba Ntsha |
 | Region | DUBAI |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:30:38 |
@@ -140,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544011066688 |
-| Players | 13/15 |
+| Players | 14/15 |
 | Host Name | Can't you feel the pain? |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:28:24 |
