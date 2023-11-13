@@ -86,18 +86,9 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605291905613 |
-| Players | 5/10 |
+| Players | 6/10 |
 | Host Name | ꜱʏꜰʏ |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 13:52:27 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28515605292224251 |
-| Players | 1/5 |
-| Host Name | MASELANG BAYAGHARI |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 13, 2023 13:53:03 |
 
 
