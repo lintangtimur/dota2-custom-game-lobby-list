@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605392325765 |
-| Players | 18/24 |
+| Players | 17/24 |
 | Host Name | Fabian! |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 16:41:37 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605392616896 |
-| Players | 11/15 |
+| Players | 12/15 |
 | Host Name | Безумный Паша |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 16:42:04 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605393785094 |
-| Players | 3/8 |
+| Players | 5/8 |
 | Host Name | Sigort |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 16:43:50 |
@@ -99,6 +99,15 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | сгусток |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 16:43:53 |
+
+
+|  | ot3_necropolis_ffa |
+| ------ | ------ |
+| Lobby ID | 28515605393873134 |
+| Players | 3/8 |
+| Host Name | баш под сраку |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 16:43:57 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -131,7 +140,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605393636988 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Kendrick |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 16:43:36 |
