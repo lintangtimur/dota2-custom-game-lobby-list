@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605825666969 |
-| Players | 7/24 |
+| Players | 13/24 |
 | Host Name | Νικόδημος |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 22:45:48 |
@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605834539768 |
-| Players | 6/8 |
+| Players | 7/8 |
 | Host Name | Deadline |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 22:52:50 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605823382595 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | 0.0 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 22:44:02 |
@@ -65,22 +65,40 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 22:53:11 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605835854121 |
-| Players | 2/15 |
-| Host Name | Накурилизованный |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 22:53:54 |
+| Lobby ID | 28515605836131988 |
+| Players | 2/10 |
+| Host Name | XBOPOCT 777 |
+| Region | EUROPE |
+| Lobby Creation Time | Monday, November 13, 2023 22:54:07 |
 
 
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605835872239 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | Rick Sanchez |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 22:53:55 |
+
+
+|  | ot3_gardens_duo |
+| ------ | ------ |
+| Lobby ID | 28515605836061209 |
+| Players | 1/10 |
+| Host Name | илья глинюк(carry) |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 22:54:04 |
+
+
+|  | ot3_jungle_quintet |
+| ------ | ------ |
+| Lobby ID | 28515605836110042 |
+| Players | 2/15 |
+| Host Name | dionysusalways1 |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 22:54:06 |
 
 
 |  | epic_boss_fight_nightmare |
