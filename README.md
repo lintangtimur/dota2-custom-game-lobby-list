@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605306538088 |
-| Players | 10/15 |
+| Players | 11/15 |
 | Host Name | :scythephόriâ 力 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:19:56 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605303260047 |
-| Players | 12/24 |
+| Players | 13/24 |
 | Host Name | no masteries |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 14:13:51 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605307093227 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | ZaqpaZ csgorun.run |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 14:20:58 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605307996282 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Райан Гослинг |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 14:22:39 |
