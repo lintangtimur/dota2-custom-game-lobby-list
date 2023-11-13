@@ -5,7 +5,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543891753906 |
-| Players | 3/10 |
+| Players | 4/10 |
 | Host Name | Tomohise-Sako |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:05:14 |
@@ -14,28 +14,28 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543893369557 |
-| Players | 3/15 |
+| Players | 8/15 |
 | Host Name | Parkur TV |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:07:19 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543893758155 |
-| Players | 1/10 |
-| Host Name | Marvibon |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:07:48 |
+| Lobby ID | 28519543893942150 |
+| Players | 4/8 |
+| Host Name | ihoreshka |
+| Region | USEAST |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:08:03 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543890296036 |
-| Players | 23/24 |
-| Host Name | PROPHET |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:03:21 |
+| Lobby ID | 28519543893595466 |
+| Players | 1/8 |
+| Host Name | Ханджи Зое (лега) |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 03:07:36 |
 
 
 |  | ot3_necropolis_ffa |
@@ -81,33 +81,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | этот шпек |
 | Region | JAPAN |
 | Lobby Creation Time | Tuesday, November 14, 2023 03:07:26 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519543893595466 |
-| Players | 1/8 |
-| Host Name | Ханджи Зое (лега) |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:07:36 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519543893793746 |
-| Players | 2/8 |
-| Host Name | Айнура |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:07:51 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519543893857294 |
-| Players | 1/8 |
-| Host Name | gwpd |
-| Region | EUROPE |
-| Lobby Creation Time | Tuesday, November 14, 2023 03:07:56 |
 
 
 |  | epic_boss_fight_nightmare |
