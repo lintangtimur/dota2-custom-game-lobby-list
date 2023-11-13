@@ -23,19 +23,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605403547324 |
-| Players | 2/10 |
+| Players | 4/10 |
 | Host Name | samurai |
 | Region | BRAZIL |
 | Lobby Creation Time | Monday, November 13, 2023 16:58:50 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28515605405381004 |
-| Players | 1/15 |
-| Host Name | кожаный трактор |
-| Region | DUBAI |
-| Lobby Creation Time | Monday, November 13, 2023 17:01:44 |
+| Lobby ID | 28515605405587428 |
+| Players | 2/24 |
+| Host Name | Deva path |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 17:02:03 |
 
 
 |  | ot3_necropolis_ffa |
@@ -56,13 +56,13 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 16:58:56 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605404632339 |
-| Players | 8/10 |
-| Host Name | Я БЛИЖЕ К БОГУ |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 17:00:32 |
+| Lobby ID | 28515605405579294 |
+| Players | 3/15 |
+| Host Name | Bananas |
+| Region | AUSTRIA |
+| Lobby Creation Time | Monday, November 13, 2023 17:02:02 |
 
 
 |  | ot3_gardens_duo |
@@ -72,24 +72,6 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | илья глинюк(carry) |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 16:59:21 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28515605405579294 |
-| Players | 1/15 |
-| Host Name | Bananas |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 13, 2023 17:02:02 |
-
-
-|  | ot3_desert_octet |
-| ------ | ------ |
-| Lobby ID | 28515605405587428 |
-| Players | 1/24 |
-| Host Name | Deva path |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 17:02:03 |
 
 
 |  | epic_boss_fight_normal |
