@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605359399453 |
-| Players | 8/15 |
+| Players | 9/15 |
 | Host Name | патриархат 1класс |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 15:49:40 |
@@ -41,19 +41,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605359554727 |
-| Players | 2/8 |
+| Players | 6/8 |
 | Host Name | 15 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 15:49:55 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605359792666 |
-| Players | 1/8 |
-| Host Name | Lucky Luck |
-| Region | USWEST |
-| Lobby Creation Time | Monday, November 13, 2023 15:50:17 |
+| Lobby ID | 28515605360014385 |
+| Players | 1/10 |
+| Host Name | trollface |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 15:50:38 |
 
 
 |  | ot3_jungle_quintet |
@@ -77,19 +77,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605355082835 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | Moises |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 15:42:49 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605360014385 |
-| Players | 1/10 |
-| Host Name | trollface |
-| Region | SINGAPORE |
-| Lobby Creation Time | Monday, November 13, 2023 15:50:38 |
+| Lobby ID | 28515605359116308 |
+| Players | 14/15 |
+| Host Name | sapontai |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 15:49:13 |
 
 
 |  | epic_boss_fight_nightmare |
@@ -99,5 +99,14 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Host Name | .G |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 15:39:24 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515605360302457 |
+| Players | 1/10 |
+| Host Name | TriHard |
+| Region | SINGAPORE |
+| Lobby Creation Time | Monday, November 13, 2023 15:51:05 |
 
 
