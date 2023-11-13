@@ -5,19 +5,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543956084756 |
-| Players | 6/10 |
+| Players | 7/10 |
 | Host Name | X-CHOLAPSE |
 | Region | BRAZIL |
 | Lobby Creation Time | Tuesday, November 14, 2023 04:38:08 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519543957830255 |
-| Players | 1/8 |
-| Host Name | Poseidon |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:41:08 |
+| Lobby ID | 28519543959083482 |
+| Players | 1/15 |
+| Host Name | Grask |
+| Region | SOUTHAFRICA |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:43:17 |
 
 
 |  | ot3_jungle_quintet |
@@ -47,49 +47,22 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 02:38:11 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543958034878 |
-| Players | 5/8 |
-| Host Name | ---- |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:41:28 |
-
-
-|  | ot3_jungle_quintet |
-| ------ | ------ |
-| Lobby ID | 28519543958794761 |
-| Players | 13/15 |
-| Host Name | KRiS |
+| Lobby ID | 28519543959059993 |
+| Players | 1/10 |
+| Host Name | AMATERASU |
 | Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:42:47 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519543958893467 |
-| Players | 2/10 |
-| Host Name | knight |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:42:58 |
-
-
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28519543958912400 |
-| Players | 2/10 |
-| Host Name | молодой бишкек |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:42:59 |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:43:15 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543958961095 |
+| Lobby ID | 28519543959041473 |
 | Players | 2/8 |
 | Host Name | расквасило |
 | Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 04:43:05 |
+| Lobby Creation Time | Tuesday, November 14, 2023 04:43:13 |
 
 
 |  | epic_boss_fight_normal |
