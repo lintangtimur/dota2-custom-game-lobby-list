@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605484446338 |
-| Players | 4/15 |
+| Players | 3/15 |
 | Host Name | RionHit |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 18:36:40 |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605479017317 |
-| Players | 5/8 |
+| Players | 6/8 |
 | Host Name | да я скилловый |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 18:31:28 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605481997891 |
-| Players | 14/24 |
+| Players | 15/24 |
 | Host Name | MD. |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 18:34:21 |
@@ -68,7 +68,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605481981519 |
-| Players | 2/8 |
+| Players | 1/8 |
 | Host Name | 13 ТАНГО |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 18:34:20 |
@@ -77,7 +77,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605480364617 |
-| Players | 9/15 |
+| Players | 11/15 |
 | Host Name | dirt |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 18:32:46 |
@@ -86,7 +86,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605483818789 |
-| Players | 1/10 |
+| Players | 2/10 |
 | Host Name | InDiGo |
 | Region | CHILE |
 | Lobby Creation Time | Monday, November 13, 2023 18:36:05 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605484737656 |
-| Players | 2/10 |
+| Players | 3/10 |
 | Host Name | Вениамин Рапира |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 18:36:56 |
