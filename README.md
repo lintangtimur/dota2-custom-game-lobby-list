@@ -23,7 +23,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605660891844 |
-| Players | 12/15 |
+| Players | 11/15 |
 | Host Name | ... |
 | Region | PERU |
 | Lobby Creation Time | Monday, November 13, 2023 20:51:15 |
@@ -41,7 +41,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28515605655974198 |
-| Players | 4/15 |
+| Players | 7/15 |
 | Host Name | eSTERNO |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 20:47:58 |
@@ -59,7 +59,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28515605672263612 |
-| Players | 2/24 |
+| Players | 1/24 |
 | Host Name | S |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 20:58:49 |
@@ -104,25 +104,25 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28515605668399242 |
-| Players | 2/8 |
+| Players | 4/8 |
 | Host Name | hellsahavef#ck |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 20:56:15 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605672009390 |
-| Players | 5/10 |
-| Host Name | FiveLeavess |
-| Region | AUSTRIA |
-| Lobby Creation Time | Monday, November 13, 2023 20:58:38 |
+| Lobby ID | 28515605672762311 |
+| Players | 1/15 |
+| Host Name | Бабушкин крадун |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Monday, November 13, 2023 20:59:09 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605653283430 |
-| Players | 8/10 |
+| Players | 9/10 |
 | Host Name | ZoneCalvo |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 20:46:10 |
@@ -131,7 +131,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605671016061 |
-| Players | 2/10 |
+| Players | 1/10 |
 | Host Name | Big Gringo |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 20:57:59 |
