@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519544020591989 |
-| Players | 4/24 |
+| Players | 7/24 |
 | Host Name | XD |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:51:34 |
@@ -29,20 +29,20 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 06:31:40 |
 
 
-|  | ot3_desert_octet |
+|  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28519544020569872 |
-| Players | 1/24 |
-| Host Name | DIMITREE |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:51:30 |
+| Lobby ID | 28519544020964398 |
+| Players | 2/15 |
+| Host Name | Trickster |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:52:29 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519544013780302 |
-| Players | 5/8 |
-| Host Name | Karma |
+| Players | 7/8 |
+| Host Name | AkiKo Annaisha kim Sung |
 | Region | CHILE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:34:51 |
 
@@ -50,36 +50,27 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519544020912247 |
-| Players | 1/15 |
+| Players | 9/15 |
 | Host Name | xsnakee |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:52:21 |
 
 
-|  | epic_boss_fight_normal |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519544018741243 |
-| Players | 3/5 |
-| Host Name | yecobxd |
-| Region | PERU |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:46:57 |
+| Lobby ID | 28519544021055116 |
+| Players | 5/10 |
+| Host Name | Ленчевский |
+| Region | STOCKHOLM |
+| Lobby Creation Time | Tuesday, November 14, 2023 06:52:42 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28519544020457597 |
 | Players | 5/10 |
-| Host Name | ~那该死的回忆~M |
+| Host Name | nooo |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 06:51:14 |
-
-
-|  | epic_boss_fight_normal |
-| ------ | ------ |
-| Lobby ID | 28519544020908349 |
-| Players | 1/5 |
-| Host Name | 里凯尔梅 |
-| Region | CHILE |
-| Lobby Creation Time | Tuesday, November 14, 2023 06:52:21 |
 
 
