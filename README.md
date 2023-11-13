@@ -14,7 +14,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543826756659 |
-| Players | 4/10 |
+| Players | 2/10 |
 | Host Name | Король Бульбы |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 01:48:06 |
@@ -32,7 +32,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543828193832 |
-| Players | 15/24 |
+| Players | 16/24 |
 | Host Name | shiraishi urara |
 | Region | SINGAPORE |
 | Lobby Creation Time | Tuesday, November 14, 2023 01:49:41 |
@@ -47,37 +47,37 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Tuesday, November 14, 2023 01:41:48 |
 
 
-|  | ot3_jungle_quintet |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543830693853 |
-| Players | 7/15 |
-| Host Name | EL STEFANO |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 01:52:28 |
+| Lobby ID | 28519543830946775 |
+| Players | 2/10 |
+| Host Name | Синяя птица |
+| Region | SINGAPORE |
+| Lobby Creation Time | Tuesday, November 14, 2023 01:52:46 |
 
 
 |  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28519543830695490 |
-| Players | 5/10 |
-| Host Name | SmT |
-| Region | JAPAN |
-| Lobby Creation Time | Tuesday, November 14, 2023 01:52:29 |
+| Lobby ID | 28519543831265858 |
+| Players | 2/10 |
+| Host Name | кронкиш |
+| Region | USWEST |
+| Lobby Creation Time | Tuesday, November 14, 2023 01:53:07 |
 
 
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
-| Lobby ID | 28519543830759166 |
-| Players | 5/8 |
-| Host Name | MAESTRO |
-| Region | AUSTRALIA |
-| Lobby Creation Time | Tuesday, November 14, 2023 01:52:33 |
+| Lobby ID | 28519543831276504 |
+| Players | 1/8 |
+| Host Name | ♡ |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 01:53:08 |
 
 
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543829269877 |
-| Players | 17/24 |
+| Players | 19/24 |
 | Host Name | NAZUN4♥ |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 01:50:53 |
@@ -95,7 +95,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543830057532 |
-| Players | 1/15 |
+| Players | 3/15 |
 | Host Name | sAnkøtteryŁeet |
 | Region | AUSTRALIA |
 | Lobby Creation Time | Tuesday, November 14, 2023 01:51:46 |
@@ -113,7 +113,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_necropolis_ffa |
 | ------ | ------ |
 | Lobby ID | 28519543829043559 |
-| Players | 3/8 |
+| Players | 4/8 |
 | Host Name | CaeluMidnight |
 | Region | PERU |
 | Lobby Creation Time | Tuesday, November 14, 2023 01:50:38 |
@@ -122,7 +122,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_desert_octet |
 | ------ | ------ |
 | Lobby ID | 28519543787175044 |
-| Players | 6/24 |
+| Players | 5/24 |
 | Host Name | roswel |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 01:05:20 |
@@ -140,8 +140,8 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28519543821478640 |
-| Players | 7/10 |
-| Host Name | wONKEY |
+| Players | 4/10 |
+| Host Name | P福特メ |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 01:42:19 |
 
@@ -149,28 +149,19 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_jungle_quintet |
 | ------ | ------ |
 | Lobby ID | 28519543828573577 |
-| Players | 12/15 |
+| Players | 13/15 |
 | Host Name | Mouches Volantes |
 | Region | USEAST |
 | Lobby Creation Time | Tuesday, November 14, 2023 01:50:07 |
 
 
-|  | ot3_gardens_duo |
+|  | ot3_desert_octet |
 | ------ | ------ |
-| Lobby ID | 28519543830946775 |
-| Players | 2/10 |
-| Host Name | Синяя птица |
-| Region | SINGAPORE |
-| Lobby Creation Time | Tuesday, November 14, 2023 01:52:46 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28519543831081783 |
-| Players | 5/8 |
-| Host Name | WingMan Enzo |
-| Region | DUBAI |
-| Lobby Creation Time | Tuesday, November 14, 2023 01:52:55 |
+| Lobby ID | 28519543831261990 |
+| Players | 5/24 |
+| Host Name | 野生.justgohard |
+| Region | JAPAN |
+| Lobby Creation Time | Tuesday, November 14, 2023 01:53:07 |
 
 
 |  | epic_boss_fight_nightmare |
