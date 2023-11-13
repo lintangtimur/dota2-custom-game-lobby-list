@@ -6,18 +6,18 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | ------ | ------ |
 | Lobby ID | 28515605244909333 |
 | Players | 3/8 |
-| Host Name | R |
+| Host Name | ADICTO |
 | Region | SINGAPORE |
 | Lobby Creation Time | Monday, November 13, 2023 12:18:14 |
 
 
-|  | ot3_necropolis_ffa |
+|  | ot3_gardens_duo |
 | ------ | ------ |
-| Lobby ID | 28515605245203118 |
-| Players | 2/8 |
-| Host Name | MOTYAMOTYAMOTYAMOTYAMOTYAMOTYA |
-| Region | STOCKHOLM |
-| Lobby Creation Time | Monday, November 13, 2023 12:18:48 |
+| Lobby ID | 28515605246081352 |
+| Players | 3/10 |
+| Host Name | SUN ♥ |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 12:20:32 |
 
 
 |  | ot3_gardens_duo |
@@ -50,7 +50,7 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 |  | ot3_gardens_duo |
 | ------ | ------ |
 | Lobby ID | 28515605244145311 |
-| Players | 6/10 |
+| Players | 5/10 |
 | Host Name | Despicision |
 | Region | USEAST |
 | Lobby Creation Time | Monday, November 13, 2023 12:16:42 |
@@ -65,39 +65,30 @@ This list only for Epic Boss Fight Reborn and Overthrow 3
 | Lobby Creation Time | Monday, November 13, 2023 12:19:40 |
 
 
-|  | ot3_gardens_duo |
-| ------ | ------ |
-| Lobby ID | 28515605246081352 |
-| Players | 2/10 |
-| Host Name | SUN ♥ |
-| Region | PERU |
-| Lobby Creation Time | Monday, November 13, 2023 12:20:32 |
-
-
 |  | ot3_jungle_quintet |
 | ------ | ------ |
-| Lobby ID | 28515605246392816 |
-| Players | 13/15 |
-| Host Name | Bing Chillingo |
-| Region | USEAST |
-| Lobby Creation Time | Monday, November 13, 2023 12:21:09 |
-
-
-|  | ot3_necropolis_ffa |
-| ------ | ------ |
-| Lobby ID | 28515605246953682 |
-| Players | 1/8 |
-| Host Name | Richi Rage |
-| Region | CHILE |
-| Lobby Creation Time | Monday, November 13, 2023 12:22:16 |
+| Lobby ID | 28515605247324704 |
+| Players | 4/15 |
+| Host Name | <br> |
+| Region | PERU |
+| Lobby Creation Time | Monday, November 13, 2023 12:23:00 |
 
 
 |  | epic_boss_fight_nightmare |
 | ------ | ------ |
 | Lobby ID | 28515605246942472 |
-| Players | 1/10 |
+| Players | 3/10 |
 | Host Name | 劍風金 |
 | Region | STOCKHOLM |
 | Lobby Creation Time | Monday, November 13, 2023 12:22:15 |
+
+
+|  | epic_boss_fight_nightmare |
+| ------ | ------ |
+| Lobby ID | 28515605247036618 |
+| Players | 3/10 |
+| Host Name | DayDreamer |
+| Region | AUSTRALIA |
+| Lobby Creation Time | Monday, November 13, 2023 12:22:26 |
 
 
